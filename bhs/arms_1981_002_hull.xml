@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1981_002_hull</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Aurelisu B. Hull papers
+                    <num>1981.002</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>August 11, 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-18T15:20-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Aurelius B. Hull papers</unittitle>
+            <unitid>1981.002</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid976004" type="Box" label="Text">A0096</container>
+            <physdesc>
+                <extent>0.1 Linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1879/1918" type="inclusive">1879-1918</unitdate>
+            <abstract id="ref2" label="Abstract">This collection includes land records concerning property owned by Aurelius B. Hull on Remsen Street in Brooklyn. The papers span the period 1879 to 1918 and measure 0.1 linear feet.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Hull, Aurelius B.</persname>
+            </origination>
+        </did>
+        <prefercite id="ref4">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Aurelius B. Hull papers, 1981.002, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of William G. Winterer, 1981.</p>
+        </acqinfo>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <controlaccess>
+            <persname rules="dacs" source="local">Hull, Aurelius B.</persname>
+            <genreform source="aat">Abstracts (summaries)</genreform>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <genreform source="lcgft">Land titles</genreform>
+            <subject source="lcsh">Real property |z New York (State) |z Kings County |v Periodicals</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

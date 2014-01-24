@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_140_atlantic_yacht_club</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Atlantic Yacht Club publications
+                    <num>ARC.140</num>
+                </titleproper>
+                <author>Finding aid prepared by Weatherly Stephan</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>December 14, 2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-23T11:36-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Atlantic Yacht Club publications</unittitle>
+            <unitid>ARC.140</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid547001" type="Box" label="Text">ARC.140 1 of 1</container>
+            <physdesc>
+                <extent>0.42 Linear feet</extent>
+                <extent>in one manuscript box.</extent>
+            </physdesc>
+            <unitdate normal="1866/1891" type="inclusive">1866-1891</unitdate>
+            <origination label="creator">
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Atlantic Yacht Club.</corpname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents</head>
+            <p>The Atlantic Yacht Club publications date from 1866 to 1891 and measure 0.42 linear feet. The collection contains yearbooks for the club and a program from the first annual regatta. In addition to the club's charter, constitution, bylaws, and rules and regulations, yearbooks in the collection list club officers, members, and yachts in the club's fleet. The yearbooks also include a signal chart identifying the flags used on each vessel in the club.</p>
+        </scopecontent>
+        <bioghist id="ref2">
+            <head>Historical note</head>
+            <p>The Atlantic Yacht Club was a sailing social club founded in 1866. Based in Brooklyn, N.Y., the club was formed to support and encourage recreational yachting in the New York Bay. The first club house was located at the foot of Court Street in the Brooklyn neighborhood of Red Hook. The club house moved in 1881, to the foot of 55th Street in the Brooklyn neighborhood of Sunset Park, and again in 1898 to Sea Gate, at the western end of Coney Island. After a club house fire in 1933, the Atlantic Yacht Club fell into inactivity before being revived in the early 21st century by a new generation of sailing enthusiasts.</p>
+            <list numeration="arabic" type="ordered">
+                <head>Sources</head>
+                <item>Atlantic Yacht Club. "History." Accessed December 14, 2010. http://www.atlanticyachtclub.org/history.html</item>
+            </list>
+        </bioghist>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Portions of this collection were the gift of William Peet, date unknown. Source and date of acquisition of remaining items in the collection are unknown.</p>
+        </acqinfo>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Atlantic Yacht Club publications, ARC.140, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <processinfo id="ref7">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <controlaccess>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Atlantic Yacht Club.</corpname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+            <genreform source="aat">Membership lists</genreform>
+            <geogname source="lcsh">New York Harbor (N.Y. and N.J.)</geogname>
+            <genreform source="aat">Programs (documents)</genreform>
+            <geogname source="lcsh">Red Hook (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Sea Gate (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Sunset Park (New York, N.Y.)</geogname>
+            <subject source="lcsh">Yacht clubs |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Yachting |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Yearbooks</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

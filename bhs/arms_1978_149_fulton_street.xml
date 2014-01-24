@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1978_149_fulton_street</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Fulton Street retail study
+                    <num>1978.149</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>July 28, 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-17T16:46-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Fulton Street retail survey</unittitle>
+            <unitid>1978.149</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid941009" type="Box" label="Text">A0083</container>
+            <physdesc>
+                <extent>0.1 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+            <abstract id="ref2" label="Abstract">The collection consists of papers pertaining to a survey commissioned for Ohrbach's department store of New York City. Documents include preliminary planning maps, subway and bus use studies, location map of retail stores, zoning requirements, and alteration costs for an undisclosed building on Fulton Street. This survey was performed by Vincent Bordini of 264 Wyckoff Avenue, secretary of the Brooklyn Real Estate Board at 44 Court Street. Architectural drawings were completed by M.A. Jones of 189 Montague Street.</abstract>
+            <origination label="creator">
+                <corpname source="local">Brooklyn Real Estate Board (New York, N.Y.).</corpname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Jones, M.A.</persname>
+            </origination>
+        </did>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Fulton Street retail survey, 1978.149, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Source and date of acquisition unknown. The collection was formally accessioned in 1978.</p>
+        </acqinfo>
+        <controlaccess>
+            <genreform source="aat">Architectural drawings</genreform>
+            <genreform source="aat">Blueprints (reprographic copies)</genreform>
+            <subject source="lcsh">Department stores |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Maps</genreform>
+            <subject source="lcsh">Retail trade |z New York (State) |z Kings County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

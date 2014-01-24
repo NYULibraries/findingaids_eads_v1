@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_170_brooklyn_bar_association</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Brooklyn Bar Association collection
+                    <num>ARC.170</num>
+                </titleproper>
+                <author>Finding aid prepared by Weatherly Stephan</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>January 5, 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-28T10:39-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Brooklyn Bar Association collection</unittitle>
+            <unitid>ARC.170</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid585003" type="Box" label="Text">ARC.170 1 of 3</container>
+            <container id="cid585002" type="Box" label="Text">ARC.170 2 of 3</container>
+            <container id="cid585001" type="Box" label="Text">ARC.170 3 of 3</container>
+            <physdesc>
+                <extent>1.04 Linear feet</extent>
+                <extent>in three manuscript boxes.</extent>
+            </physdesc>
+            <unitdate normal="1872/1978" type="inclusive">1872-1978</unitdate>
+            <origination label="creator">
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Bar Association.</corpname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents</head>
+            <p>The Brooklyn Bar Association collection dates from 1872 to 1978 and measures 1.04 linear feet. The bulk of the collection is composed of 
+                <emph render="italic">Brooklyn Barrister</emph>, the Bar Association's monthly publication. 
+                <emph render="italic">Brooklyn Barrister</emph> contains programs of monthly meetings, reports from committees, and articles on legal decisions and new statutes. Also included are the organization's constitution and bylaws, programs and table assignments for events, and a centennial journal.</p>
+        </scopecontent>
+        <bioghist id="ref2">
+            <head>Historical note</head>
+            <p>The Brooklyn Bar Association was founded in 1872. In the wake of consecutive fraudulent elections in the City of Brooklyn and Kings County, followed by questionable investigations into the elections, many Brooklyn attorneys served on committees which brought about political reform in Brooklyn during the late 1870s. The Brooklyn Bar Association was formed to uphold honor and respectability in the profession, to aid in reforms and the investigation of misconduct, and to encourage positive professional and social relationships among attorneys in Brooklyn. In 1918, the Association moved to 123 Remsen Street in Brooklyn Heights, where it remains as of 2011. Modern activities of the Association include hosting continuing legal education courses and providing a Lawyer Referral Service to the public.</p>
+        </bioghist>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Portions of this collection were the gift of George C. Brainerd, William C. Mattison, Frederick Gross, and the Brooklyn Bar Association, dates unknown. Source and date of acquisition for remaining items in the collection are unknown.</p>
+        </acqinfo>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Brooklyn Bar Association collection, ARC.170, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <processinfo id="ref6">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <controlaccess>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Bar Association.</corpname>
+            <subject source="lcsh">Bar associations |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Politics and government</geogname>
+            <genreform source="aat">Bylaws (administrative records)</genreform>
+            <genreform source="aat">Constitutions</genreform>
+            <genreform source="aat">Journals (periodicals)</genreform>
+            <subject source="lcsh">Lawyer referral service |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Lawyers |z New York (State) |z Kings County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

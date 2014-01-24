@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_027_volck.html ">arc_027_volck</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Edna Volck collection
+                    <num>ARC.027</num>
+                </titleproper>
+                <author>Finding aid prepared by Weatherly Stephan</author>
+                <sponsor>This collection was processed and described as part of the project "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>June 23, 2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-12-01T10:08-0500</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Edna Volck collection</unittitle>
+            <unitid>ARC.027</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid301001" type="Box" label="Text">A0134</container>
+            <physdesc>
+                <extent>0.1 Linear feet</extent>
+                <extent>in two folders.</extent>
+            </physdesc>
+            <unitdate normal="1875/1986" type="inclusive">1875-1986</unitdate>
+            <abstract id="ref3" label="Abstract">The Edna Volck collection contains a scrapbook and photographs from the Volck family of Brooklyn, N.Y. during the late 19th and early 20th centuries.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Cronshaw, Margery L.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Volck, Edna</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Volck, Elizabeth Andrews</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>This collection contains items collected by Edna Volck and her mother Elizabeth Andrews Volck throughout their lifetimes in the late 19th and 20th centuries, circa 1875 to 1986. A scrapbook, presumably belonging to the elder Mrs. Volck, holds pasted clippings of news items, prayers, and obituaries. Visual items in the collection include cabinet cards of Edna Volck's elder relatives, portraits of her parents, photographs of her travels (mostly cruises), and photographs of her life in Brooklyn. A handful of photographs and ephemera, such as birthday cards, document Edna Volck's 100th birthday in 1986. Lastly, handwritten interview transcripts taken by donor Margery Cronshaw provide a first-person perspective on Edna Volck's life.</p>
+        </scopecontent>
+        <bioghist id="ref2">
+            <head>Biographical note</head>
+            <p>Edna Volck, born in 1886 in Brooklyn, N.Y., worked as a secretary for Con-Edison for 30 years. She retired to California and died at the age of 100.</p>
+        </bioghist>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Margery Cronshaw, 1991.</p>
+        </acqinfo>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Edna Volck collection, ARC.027, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <processinfo id="ref7">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+            <p>This collection combines two accessions: 1991.108 and V1991.039.</p>
+        </processinfo>
+        <userestrict id="ref8">
+            <head>Conditions Governing Use note</head>
+            <p>Reproduction rights for photographs have not been evaluated. Please consult library staff for more information.</p>
+        </userestrict>
+        <otherfindaid id="ref9">
+            <head>Other Finding Aids note</head>
+            <p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>
+        </otherfindaid>
+        <controlaccess>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Consolidated Edison Company of New York, inc.</corpname>
+            <famname rules="dacs" source="local">Volck family</famname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Scrapbooks</genreform>
+            <subject source="lcsh">Women |z New York (State) |z New York</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

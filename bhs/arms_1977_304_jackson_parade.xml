@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_304_jackson_parade</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Andrew Jackson memorial parade collection
+                    <num>1977.304</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>June 20, 20112</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-10T14:27-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Andrew Jackson memorial parade collection</unittitle>
+            <unitid>1977.304</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid843006" type="Box" label="Text">A0061</container>
+            <physdesc>
+                <extent>0.08 Linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1845/1845">1845</unitdate>
+            <abstract id="ref3" label="Abstract">The collection consists of materials that pertain to the planning of a Memorial Parade for United States President Andrew Jackson in Brooklyn in June of 1845. Included in the collection are correspondence, notes from the Common Council of the City of Brooklyn, and a list of organizations that planned to participate in the parade.</abstract>
+            <origination label="creator">
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn (New York, N.Y.). Common Council.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of James Tanner, 1889.</p>
+        </acqinfo>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Andrew Jackson memorial parade collection, 1977.304, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <controlaccess>
+            <persname rules="dacs" source="naf">Jackson, Andrew, 1767-1845</persname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Notes</genreform>
+            <subject source="lcsh">Parades |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Presidents |z United States</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

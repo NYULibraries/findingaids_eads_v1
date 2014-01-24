@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_444_abeel</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the James Abeel account sheet
+                    <num>1977.444</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>July 11, 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-11T15:33-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>James Abeel account sheet</unittitle>
+            <unitid>1977.444</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid883007" type="Box" label="Text">A0070</container>
+            <physdesc>
+                <extent>0.05 item</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1766/1767" type="inclusive">1766-1767</unitdate>
+            <abstract id="ref3" label="Abstract">An account sheet that documents goods purchased, spanning the period 1766 to 1767. James Abeel (1733-1825) was born and raised in New York City.</abstract>
+            <origination label="creator">
+                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Abeel, James, 1733-1825</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Source and date of acquisition unknown. The item was formally accessioned in 1977.</p>
+        </acqinfo>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); James Abeel account sheet, 1977.444, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <controlaccess>
+            <genreform source="aat">Account books</genreform>
+            <geogname source="lcsh">New York (N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

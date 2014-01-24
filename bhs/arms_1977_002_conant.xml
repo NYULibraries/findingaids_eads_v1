@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_002_conant.html">arms_1977_002_conant</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Thomas J. Conant papers
+                    <num>1977.002</num>
+                </titleproper>
+                <author>Finding aid prepared by Nicholas Pavlik</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>September 19, 2011</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>change to complete_collection_level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-05-01T15:25-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas J. Conant papers</unittitle>
+            <unitid>1977.002</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1029002" type="Oversize" label="Text">OS-25</container>
+            <container id="cid1029003" type="Box" label="Text">A0065</container>
+            <physdesc>
+                <extent>0.25 linear feet</extent>
+                <extent>in one manuscript box and one oversize box.</extent>
+            </physdesc>
+            <unitdate normal="1857/1893" type="inclusive">circa 1867-1883</unitdate>
+            <origination label="creator">
+                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Conant, Thomas Jefferson, 1802-1891</persname>
+            </origination>
+        </did>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Thomas J. Conant papers, 1977.002, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <processinfo id="ref5">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <bioghist id="ref4">
+            <head>Biographical Note</head>
+            <p>Thomas J. Conant (1802-1891) was a prominent biblical scholar. After graduating from Middlebury College in Middlebury, VT, he held professorial appointments at several institutions, including Hamilton Literary and Theological Seminary and Rochester Theological Seminary in Hamilton and Rochester, N.Y., respectively. From 1857 to 1875, Conant was responsible for revising the common English language edition of the Bible, a position to which he had been appointed by the American Bible Union. Conant resided at 187 Washington Street in Brooklyn, N.Y. with his wife, Hannah O'Brien Chaplin, and seven children. A son, S.S. Conant, was editor of the periodical 
+                <emph render="italic">Harper's Weekly</emph>.</p>
+            <list numeration="arabic" type="ordered">
+                <head>Source:</head>
+                <item>"Obituary: Thomas Jefferson Conant." 
+                    <emph render="italic">New York Times</emph>, May 1, 1891. Accessed September 19, 2011. http://query.nytimes.com/mem/archive-free/pdf?res=9E04E7DA163AE533A25752C0A9639C94609ED7CF</item>
+            </list>
+        </bioghist>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>Various papers of Thomas J. Conant, including published and unpublished manuscript translations of biblical texts, and lecture and research notes. Materials span the period circa 1867 to 1883.</p>
+        </scopecontent>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Blandina, Chara, and Cornelia Conant, 1895.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Conant, Thomas Jefferson, 1802-1891</persname>
+            <title source="lcgft">Bible |x Study and teaching</title>
+            <title source="lcgft">Bible |x Translating</title>
+            <subject source="lcgft">Biblical scholars |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Religious life and customs</geogname>
+            <genreform source="aat">Lecture notes</genreform>
+            <genreform source="aat">Research notes</genreform>
+            <subject source="lcgft">Theology</subject>
+            <genreform source="aat">Translations (documents)</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

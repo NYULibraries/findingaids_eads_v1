@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1973_294_methodist_episcopal_church</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Methodist Episcopal Church in Brooklyn quarterly conference minutes
+                    <num>1973.294</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>April 28, 2011</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>change to complete_collection_level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-08T15:12-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Methodist Episcopal Church in Brooklyn quarterly conference minutes</unittitle>
+            <unitid>1973.294</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid752001" type="Box" label="Text">A0015</container>
+            <physdesc>
+                <extent>0.08 Linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1824/1834" type="inclusive">1824-1834</unitdate>
+            <abstract id="ref2" label="Abstract">Bound handwritten minutes of the quarterly conference of the Methodist Episcopal Church in Brooklyn, spanning the period 1824 to 1834. The minutes contain lists of meeting attendants and brief notes on the types of business transacted.</abstract>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Methodist Episcopal Church (Brooklyn, New York, N.Y.).</corpname>
+            </origination>
+        </did>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Methodist Episcopal Church in Brooklyn quarterly conference minutes, 1973.294, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Source and date of acquisition unknown.</p>
+        </acqinfo>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <controlaccess>
+            <corpname rules="dacs" source="local">Methodist Episcopal Church (Brooklyn, New York, N.Y.).</corpname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Religious life and customs</geogname>
+            <subject source="lcsh">Methodist Episcopal Church |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Methodists |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Minutes</genreform>
+            <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

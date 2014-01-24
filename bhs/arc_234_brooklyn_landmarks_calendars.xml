@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_234_brooklyn_landmarks_calendars</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Brooklyn landmarks calendar
+                    <num>ARC.234</num>
+                </titleproper>
+                <author>Finding aid prepared by Weatherly Stephan</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>July 11, 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-12-14T11:29-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Brooklyn landmarks calendars</unittitle>
+            <unitid>ARC.234</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid884001" type="Box" label="Graphic materials">Prints by Accession 55</container>
+            <physdesc>
+                <extent>0.12 Linear feet</extent>
+                <extent>in three folders.</extent>
+            </physdesc>
+            <unitdate normal="1901/1901">1901</unitdate>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Illustrator (ill)">Busing, F. A.</persname>
+            </origination>
+        </did>
+        <processinfo id="ref6">
+            <head>Processing Information note</head>
+            <p>Fully processed to the item level.</p>
+            <p>This collection combines three separate accessions: V1986.006, V1986.007, and V1986.008.</p>
+        </processinfo>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>Three calendars, titled 
+                <emph render="italic">Brooklyn Landmarks: A calendar for the year of 1902, with pen drawings by F. A. Busing, of Brooklyn's oldest landmarks--the disappearing homesteads of the 17th and 18th centuries</emph>, copyright 1901. Each calendar contains 15 pages with 20 views of Dutch homesteads in Brooklyn, identified by owner name, neighborhood, street, date or time period built, and historic facts about the site. Brooklyn neighborhoods depicted in the collection include Flatlands, East New York, Flatbush, Bergen Beach, Bay Ridge, Canarsie, New Lots, Gravesend, and Coney Island.</p>
+            <p></p>
+        </scopecontent>
+        <accessrestrict id="ref2">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <otherfindaid id="ref3">
+            <head>Other Finding Aids note</head>
+            <p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>
+        </otherfindaid>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Items in this collection have entered the public domain. For information on securing rights to publish or reproduce, please see the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="Reproduction Rights Policy" ns2:href="http://www.brooklynhistory.org/library/repropolicy.html">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>
+        </userestrict>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Brooklyn landmarks calendars, ARC.234, Box number, Object ID number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Source and date of acquisition for items in this collection are unknown.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Architecture, Dutch |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
+            <geogname source="lcsh">Bergen Beach (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <genreform source="aat">Calendars</genreform>
+            <geogname source="lcsh">Canarsie (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+            <subject source="lcsh">Dwellings |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">East New York (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Gravesend (New York, N.Y.)</geogname>
+            <genreform source="aat">Illustrations (layout features)</genreform>
+            <geogname source="lcsh">New Lots (New York, N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

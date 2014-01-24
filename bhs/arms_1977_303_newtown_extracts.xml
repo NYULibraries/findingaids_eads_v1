@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_303_newtown_extracts</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Newtown record abstracts
+                    <num>1977.303</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>1977.303</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-10T14:23-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Newton record extracts</unittitle>
+            <unitid>1977.303</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid843005" type="Box" label="Text">A0061</container>
+            <physdesc>
+                <extent>0.08 Linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1734/1759" type="inclusive">1734-1759</unitdate>
+            <abstract id="ref3" label="Abstract">The collection consists of newspaper clippings from an unidentiried newspaper featuring record extracts from the town of Newtown, Long Island, dated 1734 to 1759. The extracts consist almost entirely of indentures, and include references to African-Americans.</abstract>
+            <origination label="creator">
+                <persname source="ingest">Newtown, Long Island</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Source and date of acquisition unknown. This collection was formally accessioned in 1977.</p>
+        </acqinfo>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Guide to the Newtown record extracts, 1977.303, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <controlaccess>
+            <subject source="lcsh">African Americans |z New York (State) |z Long Island</subject>
+            <subject source="lcsh">African Americans |z New York (State) |z Queens County</subject>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
+            <genreform source="aat">Indentures</genreform>
+            <geogname source="lcsh">Long Island (N.Y.)</geogname>
+            <geogname source="lcsh">Newtown (Queens County, N.Y.)</geogname>
+            <geogname source="lcsh">Queens County (N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

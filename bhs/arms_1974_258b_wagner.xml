@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1974_258b_wagner</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Henry C. Wagner Confederate war song collection
+                    <num>1974.258b</num>
+                </titleproper>
+                <author>Finding aid prepared by Nicholas Pavlik</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>October 4, 2011</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>change to complete_collection_level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-09T11:18-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Henry C. Wagner Confederate war song collection</unittitle>
+            <unitid>1974.258b</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1084035" type="Box" label="Text">A0027</container>
+            <physdesc>
+                <extent>0.02 Linear feet</extent>
+                <extent>in one folder.</extent>
+            </physdesc>
+            <unitdate>circa 1861-1865</unitdate>
+            <abstract id="ref1" label="Abstract">Loose printed sheets containing the lyrics of 15 Confederate States of America songs, circa 1861 to 1865.</abstract>
+        </did>
+        <accessrestrict id="ref5">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <prefercite id="ref4">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Henry C. Wagner Confederate war song collection, 1974.258b, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <processinfo id="ref3">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Henry C. Wagner, 1898.</p>
+        </acqinfo>
+        <controlaccess>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Confederate States of America.</corpname>
+            <geogname source="lcgft">Confederate States of America</geogname>
+            <genreform source="aat">Songs (document genre)</genreform>
+            <geogname source="lcsh">United States |x History |y Civil War, 1861-1865</geogname>
+            <subject source="lcgft">War songs |z Confederate States of America</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

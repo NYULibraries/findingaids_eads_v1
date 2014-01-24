@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE ead
+  PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://dlib.nyu.edu/findingaids/dtd/ead/ead.dtd">
+<ead relatedencoding="MARC21">
+   <eadheader langencoding="iso639-2b" findaidstatus="unverified-full-draft" audience="internal" id="a0" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+      <eadid countrycode="us" mainagencycode="NNU" identifier="MSS 52">Pickett</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Ralph E. Pickett Papers<lb/>
+               <date era="ce" calendar="gregorian">1954-1980</date>
+               <lb/>
+               <num>MSS 52</num>
+            </titleproper>
+            <author encodinganalog="24500$c">Processed by Rob Fellman, Phil Lauer, Marvin Taylor.</author>
+         </titlestmt>
+         <editionstmt>
+            <p>This version was derived from Pickett01gm.xml</p>
+         </editionstmt>
+         <publicationstmt>
+            <address>
+               <addressline>Fales Library and Special Collections<lb/>
+               </addressline>
+               <addressline>Elmer Holmes Bobst Library<lb/>
+               </addressline>
+               <addressline>70 Washington Square South<lb/>
+               </addressline>
+               <addressline>New York, NY 10012<lb/>
+                  <lb/>
+               </addressline>
+               <addressline>Phone: (212) 998-2596<lb/>
+               </addressline>
+               <addressline>Fax: (212) 995-3835<lb/>
+               </addressline>
+               <addressline>Email: fales.library@nyu.edu<lb/>
+                  <lb/>
+               </addressline>
+               <addressline>URL: http://www.nyu.edu/library/bobst/collections/findingaids/</addressline>
+            </address>
+            <p>&#x00A9;
+               <date era="ce" calendar="gregorian">1999</date>
+               <address>
+                  <addressline>Fales Library and Special Collections</addressline>
+               </address>
+
+. All rights reserved. </p>
+            <publisher encodinganalog="260  $a">New York University Libraries,
+Publisher</publisher>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding aid created by Gwynneth Malin - derived from  pickett.doc.,  <date normal="" type="" era="ce" calendar="gregorian">2002.</date>
+         </creation>
+         <langusage> Description is in <language>English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change encodinganalog="583  $a">
+            <date era="ce" calendar="gregorian"/>
+            <item>Electronic finding aid revised according to local applications, by
+Gwynneth Malin. </item>
+         </change>
+         <change>
+            <date>2003</date>
+            <item> Pickett converted from EAD 1.0 to 2002 by one2two.xsl.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory">
+      <did id="a1">
+         <head>Descriptive Summary</head>
+         <unittitle label="Title" encodinganalog="24500$a">Ralph E. Pickett Papers  <unitdate era="ce" calendar="gregorian">1954-1980</unitdate>
+         </unittitle>
+         <unitid label="Accession number" encodinganalog="852  $l" repositorycode="NNU">Ralph E. Pickett Papers</unitid>
+         <physdesc label="Quantity" encodinganalog="300  $a">6 linear feet</physdesc>
+         <repository label="Repository">
+            <address>
+               <addressline>Fales Library and Special Collections</addressline>
+            </address>
+         </repository>
+         <origination label="Creator">Ralph E. Pickett</origination>
+         <physloc audience="internal"/>
+         <abstract label="Abstract" encodinganalog="5203 $a"/>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did>
+      <custodhist id="a16" encodinganalog="561  $a">
+         <head>Provenance</head>
+         <p>The papers were donated to the Fales Library by Dean Ralph Pickett in 1982.  </p>
+      </custodhist>
+      <accessrestrict id="a14" encodinganalog="506  $a">
+         <head>Access Restrictions</head>
+         <p>Open to researchers.</p>
+      </accessrestrict>
+      <userestrict id="a15" encodinganalog="540  $a">
+         <head>Use Restrictions</head>
+         <p>There are no restrictions on the use of the collection.  Appointments are necessary for the use of manuscript and archival materials.  For more information, contact<lb/>
+            <address>
+               <addressline>Fales Library and Special Collections<lb/>
+               </addressline>
+               <addressline>Elmer Holmes Bobst Library<lb/>
+               </addressline>
+               <addressline>70 Washington Square South<lb/>
+               </addressline>
+               <addressline>New York, NY 10012</addressline>
+            </address>
+         </p>
+      </userestrict>
+      <prefercite id="a18" encodinganalog="524  $a">
+         <head>Preferred Citation</head>
+         <p>Published citations should take the following form:<lb/>
+            <lb/>Identification of item,  date (if known); Ralph E. Pickett Papers; MSS 52; box number; folder number;
+<address>
+               <addressline>Fales Library and Special Collections</addressline>
+            </address>
+
+, New York University Libraries.</p>
+      </prefercite>
+      <bioghist id="a2" encodinganalog="545  $a">
+         <head>Biographical Note</head>
+         <p>Ralph Pickett was a professor at NYU at the School of Education and a generous donor to the Bobst Library.  He had established in his name a special
+fund for the purchase of books the library would not normally have acquired, such as the Supplementum Hellenisticum and the full set of Migne's Patrologiae Latinae.  He was also the author of numerous works of fiction, most of which remain unpublished, which, as Pickett describes in a letter to Frank Walker, then librarian at Fales, "...indicate the range of my interests and foibles - campus life, oddities in the law, mystery and detective stories, historical novels, and the bizzare, outre, arcane and screwball aspects of fellow humans.  Some are pretty grim; one, "The Newest Nation", is bitterly satirical.  A few are placid."</p>
+      </bioghist>
+      <scopecontent id="a3" encodinganalog="5203 $b">
+         <head>Scope and Content Note</head>
+         <p>The papers are primarily typewritten manuscripts of Pickett's unpublished fiction.  There are also some handwritten notes and outlines which have
+been interfiled with the fiction to which it refers.  </p>
+      </scopecontent>
+      <arrangement id="a5" encodinganalog="351  $b">
+         <head>Arrangement</head>
+         <p>The collection is comprised of 6 linear feet of material and is arranged into 2 series: unpublished manuscripts in series 1 and objects in series 2.  The manuscripts are grouped by pseudonym and arranged alphabetically by title.</p>
+      </arrangement>
+      <controlaccess id="a12">
+         <head>Access Points</head>
+         <controlaccess>
+            <head>Subject Names:</head>
+            <persname source="lcsh" encodinganalog="60010$a" role="subject">Foote, Arnold</persname>
+            <persname source="lcsh" encodinganalog="60010$a" role="subject">Pickett,
+Ralph E.</persname>
+            <persname source="lcsh" encodinganalog="60010$a" role="subject">Smith, Agatha</persname>
+            <persname source="lcsh" encodinganalog="60010$a" role="subject">Tremulis, Aftron</persname>
+            <famname source="lcsh" encodinganalog="60030$a" role="subject"/>
+         </controlaccess>
+         <controlaccess>
+            <head>Subject
+Organizations:</head>
+            <corpname source="lcnaf" encodinganalog="61020$a" role="subject">New York University, School of Education</corpname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subject Topics:</head>
+            <subject source="lcsh" encodinganalog="650 0$a"/>
+         </controlaccess>
+         <controlaccess>
+            <head>Subject Places:</head>
+            <geogname role="subject" source="lcsh" encodinganalog="651 0$a">New York
+(N.Y.)</geogname>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform source="aat" encodinganalog="655 7$a">Manuscripts</genreform>
+         </controlaccess>
+      </controlaccess>
+      <dsc id="a23" type="combined">
+         <head>Container List</head>
+         <c01>
+            <did>
+               <unittitle>Series 1: Unpublished Manuscripts, Originals
+and Carbon Copies</unittitle>
+            </did>
+            <scopecontent>
+               <p>Series 1 contains 4 boxes
+containing original and carbon copy typewritten manuscripts of Pickett's unpublished fiction.  Pickett wrote under his own name and various pseudonyms.  The manuscripts are grouped by pseudonym and arranged alphabetically by title.  Series 2 contains a sherry glass box fashioned by Ralph E. Pickett.</p>
+            </scopecontent>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">1</container>
+                  <unittitle>Foote, Arnold. <title render="italic" linktype="simple">  The Dorsays of New York.</title> Chapters 1
+through 6.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">2</container>
+                  <unittitle>Foote, Arnold.<title render="italic" linktype="simple"> The Dorsays of New York.</title>
+Chapters 7 through 11.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">3</container>
+                  <unittitle>Foote, Arnold. <title render="italic" linktype="simple"> The Dorsays of New York.</title> Chapters 12 through 18.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">4</container>
+                  <unittitle>Foote,
+Arnold. <title render="italic" linktype="simple"> The Dorsays of New York. </title>Chapters 19 through 23.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">5</container>
+                  <unittitle>Foote, Arnold. <title render="italic" linktype="simple"> The Dorsays of New York.</title> Chapters 24 through 27.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">6</container>
+                  <unittitle>Foote, Arnold.  <title render="italic" linktype="simple">The Dorsays of New York.</title> Chapters 28 through 31.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">7</container>
+                  <unittitle>Foote, Arnold. <title render="italic" linktype="simple"> The Dorsays of New York.</title> Chapters 32
+through 36.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">8</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Adirondack Storm.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">9</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Anatomy of a Legacy.</title> Chapters 1
+through 3.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1966</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">10</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Anatomy of a Legacy.</title>
+Chapters 4 through 10.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1966</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">11</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Anatomy of a Legacy.</title> Chapters 1 through 5.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1966</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">12</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Anatomy of a Legacy.</title> Chapters 6 through 10.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1966</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">13</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Anatomy of a Legacy.</title> Chapters 6 and 7.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1966</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">14</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Anatomy of a Legacy.</title> Chapters 8 through 10.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1966</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">15</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">And About Time! </title> (two
+copies)</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1966</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">16</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">The Coincidental
+Murders</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">17</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">The Coincidental
+Murders</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">18</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Episodes in the Life of
+Debby. </title>Chapters 1 through 7.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1958 (rev. 1979)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">19</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Episodes in the Life of Debby. </title>Chapters 8 through 11..</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1958 (rev. 1979)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">20</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Episodes in the Life of Debby.</title>
+Chapters 1 through 7.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1958 (rev. 1979)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">21</container>
+                  <unittitle>Pickett,
+Ralph E., <title render="italic" linktype="simple">Episodes in the Life of Debby. </title>Chapters 8 through 11.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1958
+(rev. 1979)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">22</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Family Secret.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">23</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Five Unsettling Tales.</title> Stories 1 through 3.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">24</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Five Unsettling Tales.</title> Stories 4 through 5.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">1</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Five Unsettling Tales.</title> Stories 1.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">2</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Five Unsettling Tales.</title> Stories 2 through 5.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">3</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Foley's Folly</title> (two copies).</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">4</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">The Highboy</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">5</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">The Imperial Tramp</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1962 (rev. 1975)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">6</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Joe Norden</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">7</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Joe Norden</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">8</container>
+                  <unittitle>Pickett,
+Ralph E., <title render="italic" linktype="simple">Magna University</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">9</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Magna
+University</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">10</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Mr. Burnt Bones
+Beheaded</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1970</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">11</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Mr. Burnt Bones
+Beheaded</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1970 (rev. 1972)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">12</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">The
+Mystery at Wildwood.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">13</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Nine
+Short Stories Plus One Featuring Lieutenant Lorch.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">15</container>
+                  <unittitle>Pickett, Ralph E.,  <title render="italic" linktype="simple">One Semester at Chester.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">16</container>
+                  <unittitle>Pickett,
+Ralph E., <title render="italic" linktype="simple">Pamela Spelrode in Peril.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1969 (rev. 1975)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">17</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Pamela Spelrode Married.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972 (rev. 1979)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">18</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Pamela Spelrode Married.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972 (rev. 1979)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">19</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Parnassus For All.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">20</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Parnassus For All.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder">21</container>
+                  <unittitle>Pickett, Ralph E., Professor, <title render="italic" linktype="simple">You Amaze Me!</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">1</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Psychiatrist's Case Book.</title> Pages 1 through 152.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1954 (rev. 1979)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">2</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Psychiatrist's Case
+Book.</title> Pages 153  through 291.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1954 (rev. 1979)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">3</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Psychiatrist's Case Book.</title> Pages 1 through 152.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1954
+(rev. 1979)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">4</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Psychiatrist's Case Book.</title> Pages 153  through 291.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1954 (rev. 1979)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">5</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Rape's Progress Book
+One: Flora</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960 (rev. 1978)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">6</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Rape's
+Progress Book One: Flora</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960 (rev. 1978)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">7</container>
+                  <unittitle>Pickett,
+Ralph E., <title render="italic" linktype="simple">Rape's Progress Book Two: Mandy</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960 (rev. 1978)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">8</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Rape's Progress Book Two: Mandy</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960 (rev. 1978)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">9</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Rape's Progress Book
+Three: Stanley</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960 (rev. 1978)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">10</container>
+                  <unittitle>Pickett, Ralph E.,
+<title render="italic" linktype="simple">Rape's Progress Book Three: Stanley</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960 (rev. 1978)</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">11</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Ride That Hobby.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">12</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Second Semester at Chester.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1982</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">13</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Second Semester at Chester.</title> Pages 1 through 105. </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1982</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">14</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Second Semester at Chester.</title> Pages 106 through 217. </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1982</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">15</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">A Selection of Ten Odd
+Tales.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">16</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Shorts and Short Shorts.</title>
+Part 1</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">17</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Shorts and Short Shorts.</title>
+Part 2</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">18</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Tales of the
+Willowmere.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">19</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Tales of the
+Willowmere.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder">20</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Tales of the
+Willowmere.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">1</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Ten Grisly Tales Plus
+Three.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">2</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Ten Grisly Tales Plus
+Three.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">3</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Terry Malwan.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">4</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">The Unworthy Heirs.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">5</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Up Where the Winds Blow.</title> Chapters 1 through 14.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1965</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">6</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Up Where the Winds
+Blow.</title> Chapters 15 through 27.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1965</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">7</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Up
+Where the Winds Blow. </title>Chapters 28 through 33.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1965</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">8</container>
+                  <unittitle>Pickett, Ralph E., <title render="italic" linktype="simple">Up Where the Winds Blow. </title>Chapters 33 through 40.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1965</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">9</container>
+                  <unittitle>Smith, Agatha. <title render="italic" linktype="simple">Jordan Mystery</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">10</container>
+                  <unittitle>Smith, Agatha. <title render="italic" linktype="simple">Jordan Mystery.</title> Copy lacks pages 1 through 12.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">11</container>
+                  <unittitle>Smith, Agatha. <title render="italic" linktype="simple">Pushover Heaven.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">12</container>
+                  <unittitle>Smith, Agatha. <title render="italic" linktype="simple">Pushover Heaven.</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">13</container>
+                  <unittitle>Smith, Agatha. <title render="italic" linktype="simple">Pushover Heaven.</title> Chapters 1 through 5.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">14</container>
+                  <unittitle>Smith, Agatha. <title render="italic" linktype="simple">Pushover Heaven.</title> Chapters 6 through 11.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">15</container>
+                  <unittitle>Tremulis, Aftron. <title render="italic" linktype="simple">Campus Idyll.</title> 3 copies</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1930 </unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">16</container>
+                  <unittitle>Tremulis, Aftron. <title render="italic" linktype="simple">Murder on the Huntley Campus</title>
+                  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1980 </unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder">17</container>
+                  <unittitle>Tremulis, Aftron. <title render="italic" linktype="simple">Scandal At Huntley</title> 2 copies</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1980 </unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01>
+            <did>
+               <unittitle>Series II: Sherry Glasses and Boxes</unittitle>
+            </did>
+            <scopecontent>
+               <p/>
+            </scopecontent>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder"/>
+                  <unittitle>Wooden boxes if sherry glasses.  Constructed by Ralph Pickett.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="folder">2</container>
+                  <unittitle>Cardboard box, with velvet wrappings, containing 3 additional sherry glasses.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+      <separatedmaterial id="a7" encodinganalog="5440 $n">
+         <head>Separated Material</head>
+         <p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>
+      </separatedmaterial>
+   </archdesc>
+</ead>

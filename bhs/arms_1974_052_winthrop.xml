@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1974_052_winthrop</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Robert C. Winthrop collection
+                    <num>1974.052</num>
+                </titleproper>
+                <author>Finding aid prepared by Nicholas Pavlik</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>October 25, 2011</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>change to complete_collection_level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-09T10:20-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Robert C. Winthrop collection</unittitle>
+            <unitid>1974.052</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1088002" type="Oversize" label="Text">A00340</container>
+            <physdesc>
+                <extent>1.67 Linear feet</extent>
+                <extent>in nine folders housed in one oversize box.</extent>
+            </physdesc>
+            <unitdate normal="1664/1699" type="inclusive">1660s-1690s</unitdate>
+            <abstract id="ref1" label="Abstract">Colonial land deeds, grants, and patents spanning the 1660s to the 1690s and donated to the Brooklyn Historical Society by Robert C. Winthrop. Some documents relating to property in the towns of Brookhaven and Southold, Long Island involve Native Americans and English colonial administrator Edmund Andros.</abstract>
+            <origination label="creator">
+                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf" role="Collector (col)">Winthrop, Robert C.,  (Robert Charles), 1809-1894</persname>
+            </origination>
+        </did>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Robert C. Winthrop collection, 1974.052, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <processinfo id="ref3">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Robert C. Winthrop, 1890.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Andros, Edmund, Sir, 1637-1714</persname>
+            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf" role="Donor (dnr)">Winthrop, Robert C.,  (Robert Charles), 1809-1894</persname>
+            <geogname source="lcsh">Brookhaven (N.Y.)</geogname>
+            <genreform source="aat">Deeds</genreform>
+            <subject source="lcsh">Indians of North America |z New York (State) |z Long Island</subject>
+            <genreform source="aat">Land grants</genreform>
+            <subject source="lcsh">Land titles |z New York (State) |z Long Island</subject>
+            <geogname source="lcsh">Long Island (N.Y.)</geogname>
+            <geogname source="lcsh">New York (Colony)</geogname>
+            <genreform source="aat">Patents</genreform>
+            <subject source="lcsh">Real property |z New York (State) |z Long Island</subject>
+            <geogname source="lcsh">Southold (N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

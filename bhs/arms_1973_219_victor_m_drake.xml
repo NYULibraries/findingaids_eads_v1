@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_219_victor_m_drake.html">arms_1973_219_victor_m_drake</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Victor M. Drake papers on the U.S.S. Monitor
+                    <num>1973.219</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>April 21, 2011</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>change to complete_collection_level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-05-01T15:21-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Victor M. Drake papers on the U.S.S. Monitor</unittitle>
+            <unitid>1973.219</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid740001" type="Box" label="Text">A0009</container>
+            <physdesc>
+                <extent>0.08 Linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1851/1964" type="inclusive">circa 1861 to 1954</unitdate>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Compiler (com)">Drake, Victor M.</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>The Victor M. Drake papers on the U.S.S. Monitor consist of several documents, primarily concerning the 
+                <emph render="italic">Monitor</emph>'s crew. Included are both typewritten and handwritten notes on the ship's crew members, featuring first and last names, ranks, and in some instanceas, birth and death dates. These lists also identify crew members who were residents of Brooklyn. Also included are two newspaper clippings; one dates from 1953 and discusses the history of the Battle of Hampton Roads, and the other dates from circa 1861 and announces the commissioning of the 
+                <emph render="italic">Monitor</emph> by the United States Navy. The papers were created and compiled by Drake during the 1950s.</p>
+            <p></p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Historical note</head>
+            <p>Constructed at the Continental Iron Works in the Greenpoint neighborhood of Brooklyn, the 
+                <emph render="italic">U.S.S. Monitor</emph> was the first ironclad warship commissioned by the United States Navy during the American Civil War. The 
+                <emph render="italic">Monitor</emph> is most famous for its battle against the ship 
+                <emph render="italic">Virginia</emph> (formerly the 
+                <emph render="italic">C.S.S. Merrimack</emph>) of the Confederate States Navy during the Battle of Hampton Roads in 1862. John Lorimer Worden, a resident of Westchester County, New York, was the ship's commander.</p>
+            <list numeration="arabic" type="ordered">
+                <head>Source:</head>
+                <item>Hudson River Valley Institute. "John Lorimer Worden." Accessed April 21, 2011. http://www.hudsonrivervalley.org/library/pdfs/worden.pdf</item>
+            </list>
+        </bioghist>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Victor M. Drake, 1954.</p>
+        </acqinfo>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Victor M. Drake papers on the U.S.S. Monitor, 1973.219, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <controlaccess>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Monitor (Ironclad).</corpname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <subject source="lcsh">Hampton Roads, Battle of, Va., 1862</subject>
+            <subject source="lcsh">Shipbuilding |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Ships</subject>
+            <geogname source="lcsh">United States |x History |y Civil War, 1861-1865</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

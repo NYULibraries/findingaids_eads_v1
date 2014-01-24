@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_109_ny_militia_241st_gravesend.html">arms_1973_109_ny_militia_241st_gravesend</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the New York State Militia, 241st Regiment, Company of Gravesend election returns
+                    <num>1973.109</num>
+                </titleproper>
+                <author>Finding aid prepared by Nicholas Pavlik</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>April 7, 2011</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>change to complete_collection_level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-05-01T15:17-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>New York State Militia, 241st Regiment, Company of Gravesend election returns</unittitle>
+            <unitid>1973.109</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid714001" type="Box" label="Text">A0002</container>
+            <physdesc>
+                <extent>0.02 Linear feet</extent>
+                <extent>in one folder.</extent>
+            </physdesc>
+            <unitdate normal="1810/1850" type="inclusive">circa 1820 to 1840</unitdate>
+            <abstract id="ref7" label="Abstract">One document containing a summary of election returns for non-commissioned officers in the Company of Gravesend of the 241st Regiment of the New York State Militia. The document was penned by the Captain of the Company, Jacobus Voorhees.</abstract>
+            <origination label="creator">
+                <persname source="local">Voorhees, Jacobus</persname>
+            </origination>
+        </did>
+        <prefercite id="ref4">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); New York State Militia, 241st Regiment, Company of Gravesend election returns, 1973.109, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Henry Bergen, 1919.</p>
+        </acqinfo>
+        <controlaccess>
+            <corpname source="local">New York (State). Militia. Regiment, 241st. Company of Gravesend.</corpname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <genreform source="aat">Election returns</genreform>
+            <geogname source="lcsh">Gravesend (New York, N.Y.)</geogname>
+            <genreform source="aat">Military records</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

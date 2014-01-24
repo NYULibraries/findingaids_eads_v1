@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_240_dayton</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the J.R. and Orrin Dayton papers
+                    <num>ARC.240</num>
+                </titleproper>
+                <author>Finding aid prepared by Nicholas Pavlik</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>July 27, 2011</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>change to complete_collection_level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-28T11:30-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>J.R. and Orrin Dayton papers</unittitle>
+            <unitid>ARC.240</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid938006" type="Box" label="Text">A0084</container>
+            <physdesc>
+                <extent>0.04 Linear feet</extent>
+                <extent>in three folders.</extent>
+            </physdesc>
+            <unitdate normal="1867/1902" type="inclusive">1867-1902</unitdate>
+            <origination label="creator">
+                <persname source="local">Dayton, J. R.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="local">Dayton, Orrin</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref5">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Source and date of acquisition unknown. Formally accessioned in 1977 and 1978.</p>
+        </acqinfo>
+        <processinfo id="ref3">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+            <p>The collection combines the accessions 1977.605, 1977.606, and 1978.099.</p>
+        </processinfo>
+        <prefercite id="ref2">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); J.R. and Orrin Dayton papers, ARC.240, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <bioghist id="ref6">
+            <head>Biographical/Historical note</head>
+            <p>John R. (J.R.) Dayton was a cotton broker who, along with Roger W. Waldo, owned and operated Dayton &amp; Waldo, Cotton Brokers, located on Pearl Street in New York City. Orrin Dayton was a resident of the town of Speonk in Long Island. J.R.'s notes in this collection focus on Speonk and also refer to Orrin Dayton, so it is likley that J.R. and Orrin shared a familial relation, though the degree to which they were related is not fully known.</p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Scope and Contents</head>
+            <p>This collection consists of receipts of J.R. and Orrin Dayton for various financial transactions relating to personal and business matters. J.R.'s business receipts are for his company, Dayton &amp; Waldo, Cotton Brokers. Also included are various notes and letters of J.R. Dayton's regarding the cost and sale of cotton, as well as the affairs of the town of Speonk in Long Island, such as property matters and the history of the naming of the town. References to African Americans are also included in the notes. The label on one of J.R.'s emptied envelopes indicates that it had contained the notes of Orrin Dayton, so it is possible that Orrin's notes are also included here. Materials date from 1867 to 1902.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname source="local">Dayton &amp; Waldo (New York, N.Y.).</corpname>
+            <persname source="local">Dayton, J. R.</persname>
+            <persname source="local">Dayton, Orrin</persname>
+            <subject source="lcgft">African Americans |z New York (State) |z Speonk</subject>
+            <subject source="lcgft">Brokers |z New York (State) |z New York</subject>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcgft">Cotton trade |z New York (State) |z New York</subject>
+            <geogname source="lcsh">New York (N.Y.)</geogname>
+            <genreform source="aat">Notes</genreform>
+            <subject source="lcgft">Real property |z New York (State) |z Speonk</subject>
+            <genreform source="aat">Receipts (financial records)</genreform>
+            <geogname source="lcgft">Speonk (N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

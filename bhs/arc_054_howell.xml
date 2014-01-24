@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_054_howell.html">arc_054_howell</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the George R. Howell papers
+                    <num>ARC.054</num>
+                </titleproper>
+                <author>Finding aid prepared by Nicholas Pavlik</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>July 13, 2010</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>change to complete_collection_level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-05-01T16:00-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>George R. Howell papers</unittitle>
+            <unitid>ARC.054</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid330002" type="Box" label="Text">A0132</container>
+            <physdesc>
+                <extent>0.1 Linear feet</extent>
+                <extent>in two folders.</extent>
+            </physdesc>
+            <unitdate normal="1615/1886" type="inclusive">circa 1625 to 1876</unitdate>
+            <origination label="creator">
+                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Howell, George Rogers, 1833-1899</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents</head>
+            <p>The George R. Howell papers include two items pertaining to Howell's work as an historian and genealogist. The first item is a small journal, dated 1876, containing Howell's handwritten notes on birth, marriage, and death records taken from the Southampton Town Clerk's Office, tombstone inscriptions, and family Bibles. The information in the journal pertains to various Southampton families and spans the late 1600s to the mid-1800s. The second item in the collection is a bound, handwritten speech delivered by Howell at the 225th anniversary of the Settlement of Southampton, Long Island, dated 1865. Also included in the back of the volume is an extract from the genealogies of the Howell and Rogers families of Southampton for the years 1625 to 1858.</p>
+        </scopecontent>
+        <bioghist id="ref2">
+            <head>Biographical Note</head>
+            <p>George Rogers Howell, M.A. (1833-1899) was born in Southampton, Long Island, N.Y., and graduated from Yale College in 1854. He then taught at Princeton Theological Seminary, from which he graduated in 1864. He worked as a minister in western New York until 1872, when he became the first librarian of the State Library of New York. He later served as the archivist of the State Library. Howell was also a prolific historian of New York State and published local histories of the early colony of New York, the capitol of Albany, the county of Schenectady, and the Long Island towns of Southampton, East Hampton, and Southold. Many of his historical works included detailed family genealogies as well.</p>
+            <list numeration="arabic" type="ordered">
+                <head>Sources:</head>
+                <item>"Death List of a Day." 
+                    <emph render="italic">New York Times</emph>, April 6, 1899. Accessed July 13, 2010. http://query.nytimes.com/mem/archive-free/pdf?_r=1&amp;res=9A04E4DF1E3EEF33A25752C2A9649C94649FD7CF</item>
+            </list>
+        </bioghist>
+        <prefercite id="ref3">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); George R. Howell papers, ARC.054, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <processinfo id="ref7">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+            <p>The collection combines the accessions 1973.174 and 1973.284.</p>
+        </processinfo>
+        <accessrestrict id="ref5">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref8">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Source and date of acquisition unknown. Formally accessioned in 1973.</p>
+        </acqinfo>
+        <controlaccess>
+            <genreform source="aat">Genealogies</genreform>
+            <subject source="lcsh">Genealogy </subject>
+            <genreform source="aat">Journals (accounts)</genreform>
+            <genreform source="aat">Local histories</genreform>
+            <geogname source="lcsh">Long Island (N.Y.) |x History</geogname>
+            <geogname source="lcgft">Southampton (N.Y.) |x History</geogname>
+            <genreform source="aat">Speeches</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1973_178_samuel_mclean</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Samuel McLean speeches
+                    <num>1973.178</num>
+                </titleproper>
+                <author>Finding aid prepared by Nicholas Pavlik</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>April 14, 2011</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>change to complete_collection_level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-08T14:32-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Samuel McLean speeches</unittitle>
+            <unitid>1973.178</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid724002" type="Box" label="Text">A0007</container>
+            <physdesc>
+                <extent>0.04 Linear feet</extent>
+                <extent>in one folder.</extent>
+            </physdesc>
+            <unitdate normal="1866/1885" type="inclusive">1866-1885</unitdate>
+            <origination label="creator">
+                <persname source="local">McLean, Samuel, 1820-1893</persname>
+            </origination>
+        </did>
+        <bioghist id="ref2">
+            <head>Biographical Note</head>
+            <p>Samuel McLean (1820-1893) was a Brooklyn merchant who worked in the dry goods trade with the firm William Turnbull &amp; Co. He later went into partnership with Frank Woodruff in the storage warehouse business. McLean was an active member of the Hamilton Literary Association, a Brooklyn debating society, and was the first president of the Hamilton Club, a social club that later absorbed the Hamilton Literary Association. McLean was also active in the Long Island Historical Society (now the Brooklyn Historical Society) and was a member of Brooklyn's Grace Church.</p>
+            <list numeration="arabic" type="ordered">
+                <head>Source:</head>
+                <item>"Samuel McLean Dead." 
+                    <emph render="italic">New York Times</emph>, January 12, 1893. Accessed April 14, 2011. http://query.nytimes.com/mem/archive-free/pdf?res=F20E1EFE3C5515738DDDAB0994D9405B8385F0D3</item>
+            </list>
+        </bioghist>
+        <relatedmaterial id="ref7">
+            <head>Related Materials</head>
+            <p>The Brooklyn Historical Society possesses an additional archival collection relating to Samuel McLean, the Hamilton Literary Association, and the Hamilton Club. Interested researchers are encouraged to view 
+                <emph render="bold">ARC.035, Hamilton Literary Association and Hamilton Club records, 1835-1931</emph>.</p>
+        </relatedmaterial>
+        <processinfo id="ref6">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Samuel McLean speeches, 1973.178, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Mrs. F. Sherwood Alexander, 1953.</p>
+        </acqinfo>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>This collection contains a small assortment of speeches written and delivered by Samuel McLean throughout the period 1866 to 1885. The majority of the speeches were given by McLean at the Hamilton Literary Association and the Hamilton Club, though an 1867 speech was given to commemorate the opening of Brooklyn's Mercantile Library. Both the original handwritten speeches, as well as typed transcripts, are included.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Hamilton Club (Brooklyn, New York, N.Y.).</corpname>
+            <corpname source="local">Hamilton Literary Association (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Mercantile Library Association of Brooklyn.</corpname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+            <subject source="lcsh">Clubs |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Speeches</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

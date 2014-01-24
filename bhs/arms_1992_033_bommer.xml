@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1992_033_bommer</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Bommer family collection
+                    <num>1992.033</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>October 13, 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-22T10:32-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Bommer family collection</unittitle>
+            <unitid>1992.033</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1075004" type="Box" label="Text">A0121</container>
+            <physdesc>
+                <extent>0.08 Linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1926/1965" type="inclusive">1926-1965</unitdate>
+            <origination label="creator">
+                <famname rules="dacs" source="local">Bommer family</famname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Historical note</head>
+            <p>The Bommer Spring Hinge Co. was founded in 1876 by Lorenz Bommer, who in 1861 perfected the first double-spring hinge made of brass castings in four sections. In 1893, his son, Emil Bommer, joined the company. The Bommer Playground was founded by the family in 1908 and incorporated in 1926.</p>
+        </bioghist>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The collection contains one booklet on the founding of the Emil Bommer Playground, located at 423 DeKalb Ave. in Brooklyn; one booklet celebrating the 75th anniversary of the Bommer Spring Hinge Co. of Brooklyn; and one news clipping concerning Bommer Spring Hinge Co.'s move to Landrum, S.C. in the 1960s. Some genealogical information can be found in the Bommer playground booklet.</p>
+        </scopecontent>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Barbara Van Liew, 1991.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="dacs" source="local" role="Donor (dnr)">Van Liew, Barbara</persname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <subject source="lcsh">Business enterprises |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
+            <subject source="lcsh">Manufactures |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Pamphlets</genreform>
+            <subject source="lcsh">Playgrounds |z New York (State) |z Kings County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_165</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_165/">wag_165</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Marvin and Theresa (Terry) Miller Papers
                     <num>WAG.165</num>
                 </titleproper>
-                <author>Finding aid prepared by Gail Malmgreen, Ted Casselman, and Porsche Martin</author>
+                <author>Finding aid prepared by Gail Malmgreen, Ted Casselman, and Porsche Martin, 2009. Series V added by Rachel Schimke, 2012.</author>
             </titlestmt>
             <editionstmt>
                 <p>This version was derived from Miller WAG 165.doc</p>
@@ -26,7 +25,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-02-22T12:22-0500</date>
+                <date>2013-09-24T14:51-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
@@ -34,8 +33,8 @@
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>2/23/12</date>
-                <item>Series V added by Rachel Schimke</item>
+                <date>12/7/12</date>
+                <item>Edited by Rachel Schimke for compliance with DACS and Tamiment Required Elements for Archival Description and to reflect the incorporation of nonprint materials</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -50,11 +49,11 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>10.75 linear feet</extent>
-                <extent>in 9 record cartons, 2 manuscript boxes, and 1 flat box</extent>
+                <extent>13.75 linear feet</extent>
+                <extent>in 11 record cartons, 2 manuscript boxes, and 2 flat boxes</extent>
             </physdesc>
             <unitdate normal="1966/1990" type="bulk">Bulk, 1966-1990</unitdate>
-            <unitdate normal="1919/2005" type="inclusive">1919-2005</unitdate>
+            <unitdate normal="1919/2009" type="inclusive">1919-2009</unitdate>
             <abstract id="ref3" label="Abstract">Marvin Julian Miller (1917-2012) was the executive director of the Major League Baseball Players Association from 1966-1983, and was instrumental in its development into a powerful labor union that transformed the economics and labor relations of baseball, which led ultimately to profound changes in the nature of U.S. professional sports and their place in society. After his retirement in 1983, he continued to be active as a consultant to the Players Association and a frequent commentator on labor relations in sports, labor and economic history and current affairs. The collection includes correspondence, minutes, reports, legal documents, research and historical materials, photographs, articles, clippings and videocassettes that document Miller's career, principally with the MLBPA, and to a lesser extent, his earlier work for the United Steelworkers of America and in several labor-related U.S. government positions. The papers of his wife, psychologist Theresa (Terry) Miller (1919-), are also part of the collection.</abstract>
             <langmaterial id="ref377" label="Language of Materials note">Materials are in English.</langmaterial>
             <origination label="creator">
@@ -66,7 +65,7 @@
         </did>
         <acqinfo id="ref4">
             <head>Immediate Source of Acquisition note</head>
-            <p>The papers were donated by Marvin and Theresa Miller in several batches between July 2001 and March 2003. An additional donation, consisting mostly of Theresa Miller's papers, was made in 2012 by their daughter, Susan Miller.</p>
+            <p>The papers were donated by Marvin and Theresa Miller in several batches between July 2001 and March 2003. An additional donation, consisting mostly of Theresa Miller's papers, was made in 2012 by their daughter, Susan Miller. A donation of 61 videocassettes was added by Susan Miller on April 16, 2013. The accession number associated with this donation is 2013.008.</p>
         </acqinfo>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
@@ -153,7 +152,7 @@
         </userestrict>
         <processinfo id="ref363">
             <head>Processing Information note</head>
-            <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Marvin Miller Photographs (PHOTOS 113). The photographs were then reincorporated into the Marvin and Theresa (Terry) Miller Papers in 2012 and PHOTOS 113 was voided.</p>
+            <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Marvin Miller Photographs (PHOTOS 113). The photographs were then reincorporated into the Marvin and Theresa (Terry) Miller Papers in 2012 and PHOTOS 113 was voided. Videos from an April 2013 accession were incorporated into series IV.</p>
         </processinfo>
         <prefercite id="ref331">
             <head>Preferred Citation</head>
@@ -177,7 +176,7 @@
             <subject source="lcsh">Baseball cards.</subject>
             <subject source="lcsh">Baseball players |x Labor unions.</subject>
             <subject source="lcsh">Baseball |x History.</subject>
-            <genreform source="aat">Clippings (information artifacts).</genreform>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
             <subject source="lcsh">Collective bargaining |x Baseball.</subject>
             <genreform source="aat">Correspondence.</genreform>
             <subject source="lcsh">Iron and steel workers |x Labor unions</subject>
@@ -193,10 +192,11 @@
         <dsc>
             <c id="ref14" level="series">
                 <did>
-                    <unittitle>Series I: Early Career and United Steelworkers of America, 1944-1966.</unittitle>
+                    <unittitle>Series I: Early Career and United Steelworkers of America</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
+                    <unitdate normal="1944/1966" type="inclusive">1944-1966</unitdate>
                 </did>
                 <scopecontent id="ref358">
                     <head>Scope and Content Note</head>
@@ -350,10 +350,11 @@
             </c>
             <c id="ref29" level="series">
                 <did>
-                    <unittitle>Series II: Major League Baseball Players Association, 1949-2005.</unittitle>
+                    <unittitle>Series II: Major League Baseball Players Association</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
+                    <unitdate normal="1949/2005" type="inclusive">1949-2005</unitdate>
                 </did>
                 <scopecontent id="ref359">
                     <head>Scope and Content Note</head>
@@ -2004,10 +2005,11 @@
             </c>
             <c id="ref278" level="series">
                 <did>
-                    <unittitle>Series III: Clippings Files, 1966-2002.</unittitle>
+                    <unittitle>Series III: Clippings Files</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
+                    <unitdate normal="1966/2002" type="inclusive">1966-2002</unitdate>
                 </did>
                 <scopecontent id="ref360">
                     <head>Scope and Content Note</head>
@@ -2225,10 +2227,11 @@
             </c>
             <c id="ref319" level="series">
                 <did>
-                    <unittitle>Series IV: Videotapes (VHS), 1987-2002.</unittitle>
+                    <unittitle>Series IV: Videotapes (VHS)</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
+                    <unitdate normal="1987/2009" type="inclusive">1987-2009</unitdate>
                 </did>
                 <scopecontent id="ref361">
                     <head>Scope and Content Note</head>
@@ -2306,13 +2309,441 @@
                         <unitdate normal="2002/2002">April 22, 2002</unitdate>
                     </did>
                 </c>
+                <c id="ref379" level="file">
+                    <did>
+                        <unittitle>Sports Illustrated Party "40 for the Ages" [NBC-Night After the S.I. Party]</unittitle>
+                        <container id="cid22565006" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1994/1994">Sep 14, 1994</unitdate>
+                    </did>
+                </c>
+                <c id="ref380" level="file">
+                    <did>
+                        <unittitle>Newsport Talk Sports News [Port Washington NY 516.621.9451/Michele Elgart]</unittitle>
+                        <container id="cid22565007" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1995/1995">Apr 13, 1995</unitdate>
+                    </did>
+                </c>
+                <c id="ref381" level="file">
+                    <did>
+                        <unittitle>Frank Healy- MJM Interview [Hotel Warwick]</unittitle>
+                        <container id="cid22565008" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1994/1994">Aug 1994</unitdate>
+                    </did>
+                </c>
+                <c id="ref382" level="file">
+                    <did>
+                        <unittitle>ESPN Sports Century, "Most Influential 10" [Taped from TV]</unittitle>
+                        <container id="cid22565009" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1999/1999">May 23, 1999</unitdate>
+                    </did>
+                </c>
+                <c id="ref383" level="file">
+                    <did>
+                        <unittitle>Baseball Reliquary-Induction Day 2003 [B-Roll Tape 3-1hr.-Raw Footage Copy]</unittitle>
+                        <container id="cid22565010" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="2003/2003">Jul 21, 2003</unitdate>
+                    </did>
+                </c>
+                <c id="ref384" level="file">
+                    <did>
+                        <unittitle>Marvin J. Miller- Barbara Walters, 20/20; Al Trautwig, Ch. 10: Steinbrenner [Marker 1222-1638]</unittitle>
+                        <container id="cid22565011" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1990/1990">Aug 1990</unitdate>
+                    </did>
+                </c>
+                <c id="ref385" level="file">
+                    <did>
+                        <unittitle>Reliquary "Shrine of the Eternals"- Induction Day [from Terry Cannon - "very bad VHS copy, but sound should be fine-for transcription purposes only] Raw Footage - Camera A</unittitle>
+                        <container id="cid22565012" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="2003/2003">Jul 2003</unitdate>
+                    </did>
+                </c>
+                <c id="ref386" level="file">
+                    <did>
+                        <unittitle>Charlie Rose Show - Fay Vincent Resignation [from marker 630-830] [now reset at 0 to 200]</unittitle>
+                        <container id="cid22565013" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1992/1992">Sep 8, 1992</unitdate>
+                    </did>
+                </c>
+                <c id="ref387" level="file">
+                    <did>
+                        <unittitle>ESPN Sports Classic - Sports Century: Ball Four (Documentary) Hans Decher</unittitle>
+                        <container id="cid22565014" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                </c>
+                <c id="ref388" level="file">
+                    <did>
+                        <unittitle>Budd Mishkin with Marvin Miller</unittitle>
+                        <container id="cid22565015" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="2009/2009">Feb 9, 2009</unitdate>
+                    </did>
+                </c>
+                <c id="ref389" level="file">
+                    <did>
+                        <unittitle>Today Show with Bryant Gumbel</unittitle>
+                        <container id="cid22565016" type="Box" label="Master VHS">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref390" level="file">
+                    <did>
+                        <unittitle>Cornel Industrial Labor Relations Dept. (IRL) Interns- Marvin Miller</unittitle>
+                        <container id="cid22566001" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1995/1995">Mar 27, 1995</unitdate>
+                    </did>
+                </c>
+                <c id="ref391" level="file">
+                    <did>
+                        <unittitle>Jim Kaat's Telecast - Birthday Greeting to Marvin J. Miller</unittitle>
+                        <container id="cid22566002" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1999/1999">Apr 14,1999</unitdate>
+                    </did>
+                </c>
+                <c id="ref392" level="file">
+                    <did>
+                        <unittitle>Inside Baseball with Marvin Miller</unittitle>
+                        <container id="cid22566003" type="Box" label="Master VHS">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref393" level="file">
+                    <did>
+                        <unittitle>Talking Baseball with Marvin Miller (Parts 1 &amp; 2)</unittitle>
+                        <container id="cid22566004" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1995/1995">Jan 20, 1995</unitdate>
+                    </did>
+                </c>
+                <c id="ref394" level="file">
+                    <did>
+                        <unittitle>Today Show [marker 2370-2550] - Bill Mazur [marker 2600]</unittitle>
+                        <container id="cid22566005" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1990/1990">Jan 14, 1990</unitdate>
+                    </did>
+                </c>
+                <c id="ref395" level="file">
+                    <did>
+                        <unittitle>Howard Cosell with Marvin Miller</unittitle>
+                        <container id="cid22566006" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c>
+                <c id="ref396" level="file">
+                    <did>
+                        <unittitle>NYU/Tamiment Library - Evening of Celebration in Honor of Marvin Miller Archive (Donation of Papers, Artifacts)</unittitle>
+                        <container id="cid22566007" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="2003/2003">May 21, 2003</unitdate>
+                    </did>
+                </c>
+                <c id="ref397" level="file">
+                    <did>
+                        <unittitle>World Series - Tim McCarver</unittitle>
+                        <container id="cid22566008" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="2009/2009">2009</unitdate>
+                    </did>
+                </c>
+                <c id="ref398" level="file">
+                    <did>
+                        <unittitle>HBO - Sports Illustrated TV - Marvin Miller Initerview, Pt. 1 ["Dub of OT-30-4347"]</unittitle>
+                        <container id="cid22566009" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1994/1994">Jul 25, 1994</unitdate>
+                    </did>
+                </c>
+                <c id="ref399" level="file">
+                    <did>
+                        <unittitle>Dick Schapp - Interview with Marvin Miller [Held in White Plains/Eric Neulard(?)]</unittitle>
+                        <container id="cid22566010" type="Box" label="Master VHS">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref400" level="file">
+                    <did>
+                        <unittitle>CNN Financial News [FN] Money and Markets [Marvin Miller'sApperarance]</unittitle>
+                        <container id="cid22566011" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="2002/2002">Aug 22, 2002</unitdate>
+                    </did>
+                </c>
+                <c id="ref401" level="file">
+                    <did>
+                        <unittitle>Newsport Talk- Marvin Miller, Founder- MLBPA [TRT: 23:16]</unittitle>
+                        <container id="cid22566012" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1995/1995">Feb 9, 1995</unitdate>
+                    </did>
+                </c>
+                <c id="ref402" level="file">
+                    <did>
+                        <unittitle>Peggy Browining Fund (Chicago)</unittitle>
+                        <container id="cid22566013" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="2003/2003">May 6, 2003</unitdate>
+                    </did>
+                </c>
+                <c id="ref403" level="file">
+                    <did>
+                        <unittitle>Trans World Int'l- Trans World Sport [Michael Maynard/London] [Job No. 20116] VHS NTSC/Prog. 546 (Dur: 52'12")</unittitle>
+                        <container id="cid22566014" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1997/1997">Oct 15, 1997</unitdate>
+                    </did>
+                </c>
+                <c id="ref404" level="file">
+                    <did>
+                        <unittitle>Jack Cafferty, ch 5- with Marvin Miller... (Murray Chass)</unittitle>
+                        <container id="cid22566015" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1990/1990">Jul 31, 1990</unitdate>
+                    </did>
+                </c>
+                <c id="ref405" level="file">
+                    <did>
+                        <unittitle>"Angles"- MSG/AL Trautwig; Talking Baseball/Ed Randall</unittitle>
+                        <container id="cid22566016" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="2002/2002">Apr 22, 2002; May 02, 2002</unitdate>
+                    </did>
+                </c>
+                <c id="ref406" level="file">
+                    <did>
+                        <unittitle>CNBC- with Marvin Miller [Chris Shearn- Fort Lee, NJ/Assoc. Prod., Sports]</unittitle>
+                        <container id="cid22566017" type="Box" label="Master VHS">14</container>
+                        <unitdate normal="1997/1997">circa 1997</unitdate>
+                    </did>
+                </c>
+                <c id="ref407" level="file">
+                    <did>
+                        <unittitle>Harry Bridges: A Man and his Union [Hamilton</unittitle>
+                        <container id="cid22566018" type="Box" label="Master VHS">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref408" level="file">
+                    <did>
+                        <unittitle>Inside Sports- Show #438. Toronoto, Canada. Filmed at 211 E. 70th St.</unittitle>
+                        <container id="cid22566019" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1994/1994">Summer 1994</unitdate>
+                    </did>
+                </c>
+                <c id="ref409" level="file">
+                    <did>
+                        <unittitle>NY Channel 1- Budd Mishkin (to marker 509); NBC Sports Illustrated: "40 for the Ages" (to maker 990); Adam Smith (to marker 1337).</unittitle>
+                        <container id="cid22566020" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1994/1994">Aug 18, 1994</unitdate>
+                    </did>
+                </c>
+                <c id="ref410" level="file">
+                    <did>
+                        <unittitle>Baseball Unions National Politics [Del Reddy 1.800.497.1035]</unittitle>
+                        <container id="cid22566021" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1997/1997">Nov 1997</unitdate>
+                    </did>
+                </c>
+                <c id="ref411" level="file">
+                    <did>
+                        <unittitle>Marvin Miller: Interview Fay Vincent [time 31:42]</unittitle>
+                        <container id="cid22566022" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1992/1992">Sep 1, 1992</unitdate>
+                    </did>
+                </c>
+                <c id="ref412" level="file">
+                    <did>
+                        <unittitle>CNBC: Sports Business</unittitle>
+                        <container id="cid22566023" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1990/1990">Feb 28, 1990</unitdate>
+                    </did>
+                </c>
+                <c id="ref413" level="file">
+                    <did>
+                        <unittitle>Budd Mishkin - Channel 1 [to 38 min]; Charlie Rose - Chanel 13 [38 min to 1 hr 14 min]; Tim McCarver - MSG - ch. 27 [from 1 hr 14 min]</unittitle>
+                        <container id="cid22566024" type="Box" label="Master VHS">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref414" level="file">
+                    <did>
+                        <unittitle>Talking Baseball, Show #521 with Ed Randall</unittitle>
+                        <container id="cid22566025" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="2002/2002">May 2, 2002</unitdate>
+                    </did>
+                </c>
+                <c id="ref415" level="file">
+                    <did>
+                        <unittitle>Angles with Marvin J. Miller - MSG Network [Al Trautwig]</unittitle>
+                        <container id="cid22566026" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="2002/2002">Apr 22, 2002</unitdate>
+                    </did>
+                </c>
+                <c id="ref416" level="file">
+                    <did>
+                        <unittitle>The NY Jewish Sports hall of Fame: Jewish Sports Legends of the 20th Century</unittitle>
+                        <container id="cid22566027" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="2000/2000">Apr 2, 2000</unitdate>
+                    </did>
+                </c>
+                <c id="ref417" level="file">
+                    <did>
+                        <unittitle>Sports Illustrated Party</unittitle>
+                        <container id="cid22566028" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1994/1994">Jul 13, 1994</unitdate>
+                    </did>
+                </c>
+                <c id="ref418" level="file">
+                    <did>
+                        <unittitle>Up Close Show #615-691 [Roy Firestone]</unittitle>
+                        <container id="cid22566029" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1991/1991">June 1991</unitdate>
+                    </did>
+                </c>
+                <c id="ref419" level="file">
+                    <did>
+                        <unittitle>At the Plate: Rusty Staub [commissioners, small markets, Vincent resignation]</unittitle>
+                        <container id="cid22566030" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c>
+                <c id="ref420" level="file">
+                    <did>
+                        <unittitle>Peptalk [Simmons] Long Beach, CA</unittitle>
+                        <container id="cid22566031" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1991/1991">Jun 25, 1991</unitdate>
+                    </did>
+                </c>
+                <c id="ref421" level="file">
+                    <did>
+                        <unittitle>Today Show (marker 79: Lead-in; 131-244: Today Show; 249-356: Dick Schaap; 379-530: Rock Rote; 540-924: Pete Rose/Jane Pauley; ; 1008-1220: Ed Randall)</unittitle>
+                        <container id="cid22566032" type="Box" label="Master VHS">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref422" level="file">
+                    <did>
+                        <unittitle>Arthur Ashe</unittitle>
+                        <container id="cid22566033" type="Box" label="Master VHS">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref423" level="file">
+                    <did>
+                        <unittitle>Real Sports, Show #5</unittitle>
+                        <container id="cid22566034" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1998/1998">1998</unitdate>
+                    </did>
+                </c>
+                <c id="ref424" level="file">
+                    <did>
+                        <unittitle>ESPN Classic: One on One [Dick Schaap][Jim Brown]</unittitle>
+                        <container id="cid22566035" type="Box" label="Master VHS">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref425" level="file">
+                    <did>
+                        <unittitle>ESPN's Sports Century [Curt Flood]</unittitle>
+                        <container id="cid22566036" type="Box" label="Master VHS">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref426" level="file">
+                    <did>
+                        <unittitle>Football Strike [Mike Lupica/Marvin J. Miller] (11.5 to 19 mins?); The Coors Sports Page (30 min)</unittitle>
+                        <container id="cid22566037" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1987/1987">Oct 11, 1987</unitdate>
+                    </did>
+                </c>
+                <c id="ref427" level="file">
+                    <did>
+                        <unittitle>Jack Cafferty, Ch. 5 (marker 000-2000)</unittitle>
+                        <container id="cid22566038" type="Box" label="Master VHS">15</container>
+                        <unitdate>July 31</unitdate>
+                    </did>
+                </c>
+                <c id="ref428" level="file">
+                    <did>
+                        <unittitle>The Business of Sports, Season 1, Episode 7; Insight Sports Ltd. (Toronto, ONT)</unittitle>
+                        <container id="cid22566039" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="2001/2001">Apr 1, 2001</unitdate>
+                    </did>
+                </c>
+                <c id="ref429" level="file">
+                    <did>
+                        <unittitle>CNN/Sports Illustrated [This Week in the NBA with Marvin J. Miller]</unittitle>
+                        <container id="cid22566040" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1998/1998">Nov, 1, 1998</unitdate>
+                    </did>
+                </c>
+                <c id="ref430" level="file">
+                    <did>
+                        <unittitle>National Jewish Sports Hall of Fame [Marvin J. Miller Induction Ceremony]</unittitle>
+                        <container id="cid22566041" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="2009/2009">Apr 26, 2009</unitdate>
+                    </did>
+                </c>
+                <c id="ref431" level="file">
+                    <did>
+                        <unittitle>HBO: Marvin Miller Interview [S.I. TV]</unittitle>
+                        <container id="cid22566042" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1994/1994">Jul 25, 1994</unitdate>
+                    </did>
+                </c>
+                <c id="ref433" level="file">
+                    <did>
+                        <unittitle>Later...with Bob Costas (22 mins)</unittitle>
+                        <container id="cid22566044" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1991/1991">Oct 14, 1991</unitdate>
+                    </did>
+                </c>
+                <c id="ref432" level="file">
+                    <did>
+                        <unittitle>The Shrine of the Eternals [Induction Day-BB Reliquary] (Jim Bouton/Satchel Paige)</unittitle>
+                        <container id="cid22566043" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="2001/2001">Jul 29, 2001</unitdate>
+                    </did>
+                </c>
+                <c id="ref434" level="file">
+                    <did>
+                        <unittitle>CNN: Marvin J. Miller [Talk Back Live]</unittitle>
+                        <container id="cid22566045" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="1997/1997">Aug 12, 1997</unitdate>
+                    </did>
+                </c>
+                <c id="ref435" level="file">
+                    <did>
+                        <unittitle>C-Span [John Feinstein] The New Millennium Baseball and Marvin Miller [30 mins.]</unittitle>
+                        <container id="cid22566046" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="2000/2000">Jan 2000</unitdate>
+                    </did>
+                </c>
+                <c id="ref436" level="file">
+                    <did>
+                        <unittitle>TSN Series: For the Love of the Game - Behind the Screen (50 min) [Program #3] Producer: Alan Scherberger.</unittitle>
+                        <container id="cid22566047" type="Box" label="Master VHS">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref437" level="file">
+                    <did>
+                        <unittitle>MSG - Fran Healey (27.5 mins)</unittitle>
+                        <container id="cid22566048" type="Box" label="Master VHS">15</container>
+                        <unitdate normal="2000/2000">Apr 2000</unitdate>
+                    </did>
+                </c>
+                <c id="ref438" level="file">
+                    <did>
+                        <unittitle>Sports Behind Bars - For the Love of the Game (52 mins)</unittitle>
+                        <container id="cid22566049" type="Box" label="Master VHS">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref439" level="file">
+                    <did>
+                        <unittitle>ESPN Classics: Curt Flood (Richard Widman)</unittitle>
+                        <container id="cid22566050" type="Box" label="Master VHS">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
             </c>
             <c id="ref332" level="series">
                 <did>
-                    <unittitle>Series V: Theresa (Terry) Miller Papers, 1919-1994.</unittitle>
+                    <unittitle>Series V: Theresa (Terry) Miller Papers</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
+                    <unitdate normal="1919/1994" type="inclusive">1919-1994</unitdate>
                 </did>
                 <scopecontent id="ref362">
                     <head>Scope and Content Note</head>
@@ -2391,6 +2822,12 @@
                         <container id="cid21609008" type="Box" label="Mixed materials">10</container>
                         <container parent="cid21609008" type="Folder">23</container>
                         <unitdate normal="1946/1994" type="inclusive">1946-1994, undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref378" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid22482001" type="Box" label="Mixed materials">11</container>
                     </did>
                 </c>
             </c>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="saxon02a2002.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://dlib.nyu.edu/findingaids/dtd/ead/ead.dtd">
+
+<ead relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" repositoryencoding="iso15511" countryencoding="iso3166-1"  dateencoding="iso8601" findaidstatus="unverified-full-draft" audience="internal" id="a0">
+<eadid countrycode="us" mainagencycode="yourcodehere" identifier="youridentifierhere">archtest</eadid>
+
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="245$a">Guide to the [Records of [title here]]<lb/> 
+<date>[date here, as per guidelines]</date><lb/>
+<num>[[MC or RG] [collection number]]</num></titleproper>
+<author encodinganalog="245$c">Processed by [Human One, Person Two and Being Three]</author>
+</titlestmt>
+<editionstmt>
+<p>This version was derived from [filename01ES.xml]</p>
+</editionstmt>
+<publicationstmt>
+<address>
+<addressline>New York University Archives<lb/></addressline>
+<addressline>Elmer Holmes Bobst Library<lb/></addressline>
+<addressline>70 Washington Square South<lb/></addressline>
+<addressline>New York, NY 10012<lb/><lb/></addressline>
+<addressline>Phone: (212) 998-2646<lb/></addressline>
+<addressline>Fax: (212) 995-4070<lb/></addressline>
+<addressline>Email: nancy.cricco@nyu.edu<lb/><lb/></addressline>
+</address>
+<p><date encodinganalog="260$c" normal="[yourdatehere]">&copy; [date here] </date> 
+<address>
+<addressline>New York University Archives</addressline>
+</address>. All rights reserved. </p>
+<publisher encodinganalog="260$b">New York University Libraries, Publisher</publisher>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation encodinganalog="500">Machine-readable finding aid derived from [original file format and conversion before encoding], <date normal="[yourdatehere]">[date here]</date>. 
+Machine-readable finding aid created by [Archivist Four]. </creation>
+<langusage>Description is in <language encodinganalog="546" langcode="eng">English</language>. </langusage>
+</profiledesc>
+
+<revisiondesc>
+<change encodinganalog="583">
+<date normal="[yourdatehere]">[date here]</date>
+<item>Electronic finding aid revised according to local applications, by [Student Five]. </item>
+</change>
+</revisiondesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did id="a1">
+<head>Descriptive Summary</head>
+<unittitle label="Title" encodinganalog="245$a">[Records of [title here]] 
+<unitdate type="bulk" normal="" encodinganalog="youranaloghere">[date here, as per guidelines]</unitdate></unittitle>
+<unitid label="Accession number" countrycode="us" encodinganalog="852$l" repositorycode="NNU">[[MC or RG] [collection number]]</unitid>
+<langmaterial><language langcode="eng"></language></langmaterial>
+<physdesc label="Quantity" encodinganalog="300$a">[extent here]</physdesc>
+<repository label="Repository" encodinganalog="852"><corpname></corpname><address><addressline></addressline></address></repository>
+<origination label="Creator">[corpname, persname, or famname element here along with encoding analog attribute (100, 110), with name of creator, as per guidelines]</origination>
+<physloc audience="internal" encodinganalog="852$z">[location here]</physloc>
+<abstract label="Abstract" encodinganalog="520$a">[brief summary of materials being described]</abstract>
+</did>
+<custodhist id="a16" encodinganalog="561$a">
+<head>Provenance</head>
+<p>[information about the chain of ownership of the materials being described, before reaching the archive]</p>
+</custodhist>
+<accessrestrict id="a14" encodinganalog="506$a">
+<head>Access Restrictions</head>
+<p>Open to researchers.</p>
+</accessrestrict>
+<userestrict id="a15" encodinganalog="540$a">
+<head>Use Restrictions</head>
+<p>There may be some restrictions on the use of the collection. 
+For more information, contact <lb/>
+<address>
+<addressline>New York University Archives<lb/></addressline>
+<addressline>Elmer Holmes Bobst Library<lb/></addressline>
+<addressline>70 Washington Square South<lb/></addressline>
+<addressline>New York, NY 10012</addressline>
+</address></p>
+</userestrict>
+<prefercite id="a18" encodinganalog="524$a">
+<head>Preferred Citation</head>
+<p>Published citations should take the following form:<lb/><lb/>Identification of item, 
+date (if known); [unittitle here]; collection number; box number; folder number;
+<address>
+<addressline>New York University Archives<lb/></addressline>
+<addressline>Elmer Holmes Bobst Library<lb/></addressline>
+<addressline>70 Washington Square South<lb/></addressline>
+<addressline>New York, NY 10012</addressline>
+</address>, New York University Libraries.</p>
+</prefercite>
+
+<bioghist id="a2" encodinganalog="545$a">
+<head>[put Biographical or Historical here] Note</head>
+<p>[concise information about the creator(s) of the described materials]</p>
+</bioghist>
+<scopecontent id="a3" encodinganalog="520$b">
+<head>Scope and Content Note</head>
+<p>[summary of range and topical coverage of the described materials, perhaps mentioning organization, e.g., series]</p>
+</scopecontent>
+<arrangement id="a5" encodinganalog="351$b">
+<head>Arrangement</head>
+<p>[information on how the described materials have been subdivided into smaller units, e.g., series]</p>
+<p>[information on the filing sequence of the described materials, e.g., chronological]</p>
+</arrangement>
+<controlaccess id="a12">
+<head>Access Points</head>
+<controlaccess>
+<head>Subject Names:</head>
+<persname source="lcsh" encodinganalog="600 10$a" role="subject">[persname element 
+here, with name, as per guidelines]</persname>
+<famname source="lcsh" encodinganalog="600 30$a" role="subject">famname element 
+here, with name, as per guidelines</famname>
+</controlaccess>
+<controlaccess>
+<head>Subject Organizations:</head>
+<corpname source="lcnaf" encodinganalog="610 20$a" role="subject">[corpname element here, with organization name, as per guidelines]</corpname>
+</controlaccess>
+<controlaccess>
+<head>Subject Topics:</head>
+<subject source="lcsh" encodinganalog="650$a">[subject element here, with heading, as per guidelines]</subject>
+</controlaccess>
+<controlaccess>
+<head>Subject Places:</head>
+<geogname role="subject" source="lcsh" encodinganalog="651$a">[geogname element here, with heading, as per guidelines]</geogname>
+</controlaccess>
+<controlaccess>
+<head>Document Types:</head>
+<genreform source="aat" encodinganalog="655 7$a">[genreform element here, with heading, as per guidelines]</genreform>
+</controlaccess>
+<controlaccess>
+<head>Other Names:</head>
+<name source="local" encodinganalog="720$a">[name element here, with name, as per guidelines]</name>
+</controlaccess>
+</controlaccess>
+<dsc id="a23" type="combined">
+<head>Container List</head>
+<p>[The following section contains a detailed listing of the materials in
+the collection.]</p>
+<c01 level="series">
+<did>
+<unittitle encodinganalog="245$a">[Series I: [title here]]</unittitle>
+</did>
+<scopecontent>
+<p>[Series description goes here]</p>
+</scopecontent>
+<c02>
+<did>
+<container type="box">[1]</container>
+<container type="folder">[1]</container>
+<unittitle>[item title here]</unittitle>
+<unitdate>[date here, as per guidelines]</unitdate>
+<note type="crossref"><p>[annotations or other short notes that are not covered by abstract or scopecontent]</p></note>
+<materialspec label="Scale"><p>[material specific details such as mathematical data, scale for maps, physical presentation data for music records]</p></materialspec>
+</did>
+<phystech><p>[details of physical composition or the need for particular hardware or software to preserve or access the materials]</p></phystech>
+</c02>
+<c02>
+<did>
+<container type="box">[1]</container>
+<container type="folder">[2]</container>
+<unittitle>[item title here]</unittitle>
+<unitdate>[date here, as per guidelines]</unitdate>
+<note type="crossref"><p>[annotations or other short notes that are not covered by abstract or scopecontent]</p></note>
+</did>
+<phystech><p>[details of physical composition or the need for particular hardware or software to preserve or access the materials]</p></phystech>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>[Series II: [title here]]</unittitle>
+</did>
+<scopecontent>
+<p>[Series description goes here]</p>
+</scopecontent>
+<c02 level="subseries">
+<did>
+<unittitle>Subseries I: [title here]</unittitle>
+</did>
+<c03>
+<did>
+<container type="box">[1]</container>
+<container type="folder">[3]</container>
+<unittitle>[item title here]</unittitle>
+<unitdate>[date here, as per guidelines]</unitdate>
+<note type="crossref"><p>[annotations or other short notes that are not covered by abstract or scopecontent]</p></note>
+</did>
+<phystech><p>[details of physical composition or the need for particular hardware or software to preserve or access the materials]</p></phystech>
+</c03>
+<c03>
+<did>
+<container type="box">[1]</container>
+<container type="folder">[4]</container>
+<unittitle>[item title here]</unittitle>
+<unitdate>[date here, as per guidelines]</unitdate>
+<note type="crossref"><p>[annotations or other short notes that are not covered by abstract or scopecontent]</p></note>
+</did>
+<phystech><p>[details of physical composition or the need for particular hardware or software to preserve or access the materials]</p></phystech>
+</c03>
+</c02>
+</c01>
+</dsc>
+<relatedmaterial id="a6" encodinganalog="544 1$n">
+<head>Related Material at the New York University Archives</head>
+<p>[information about materials not physically or logically with the described material, but that may be of use to a reader because of an association to the described materials]</p>
+</relatedmaterial>
+<separatedmaterial id="a7" encodinganalog="544 0$n">
+<head>Separated Material</head>
+<p>[information about materials that are associated by provenance to the described materials but that have been physically separated or removed]</p>
+</separatedmaterial>
+</archdesc>
+</ead>

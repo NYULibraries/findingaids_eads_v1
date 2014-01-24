@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">v1987_030_prince</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Carl E. Prince photography collection
+                    <num>V1987.030</num>
+                </titleproper>
+                <author>Finding aid prepared by Weatherly Stephan</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>July 27, 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-28T14:41-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Carl E. Prince photography collection</unittitle>
+            <unitid>V1987.030</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid947001" type="Box" label="Graphic materials">Tintypes</container>
+            <container id="cid939001" type="Box" label="Graphic materials">Prints by Accession 64</container>
+            <physdesc>
+                <extent>0.06 Linear feet</extent>
+                <extent>in one folder.</extent>
+            </physdesc>
+            <unitdate normal="1907/1929" type="inclusive">circa 1907 to 1929</unitdate>
+        </did>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Carl E. Prince photography collection, V1987.030, Box number, Object ID number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>The Carl E. Prince photography collection dates from circa 1907 to 1927 and consists of 15 items. The collection contains cabinet cards, tintypes, and photographs. Images in the collection include family portraits; street scenes, possibly in Manhattan or Brooklyn; interior views of a home in the Bedford-Stuyvesant neighborhood of Brooklyn; an air strip in Newark, N.J.; scenes in Liberty, N.Y.; and unidentified rural landscapes. Portrait subjects are identified by name, and most images are identified by location.</p>
+        </scopecontent>
+        <accessrestrict id="ref2">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <userestrict id="ref3">
+            <head>Conditions Governing Use note</head>
+            <p>Based on the date range of this collection, all items in the collection will enter the public domain by 2049. For information on securing rights to publish or reproduce, please see the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="Reproduction Rights Policy" ns2:href="http://www.brooklynhistory.org/library/repropolicy.html">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>
+        </userestrict>
+        <otherfindaid id="ref4">
+            <head>Other Finding Aids note</head>
+            <p>Item-level description and digital versions of images from the collection are available for searching via the image database in the library.</p>
+        </otherfindaid>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Carl E. Prince, 1984.</p>
+        </acqinfo>
+        <processinfo id="ref6">
+            <head>Processing Information note</head>
+            <p>Fully processed to the item level.</p>
+        </processinfo>
+        <controlaccess>
+            <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <genreform source="aat">Cabinet photographs</genreform>
+            <genreform source="aat">Interior views</genreform>
+            <genreform source="aat">Landscapes (representations)</genreform>
+            <geogname source="lcsh">Liberty (N.Y.)</geogname>
+            <geogname source="lcsh">Newark (N.J.)</geogname>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Portraits</genreform>
+            <subject source="lcsh">Street photography</subject>
+            <genreform source="aat">Tintypes (prints)</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

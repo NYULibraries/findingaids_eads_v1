@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_287_william_chalmers</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the William I. Chalmers manuscripts
+                    <num>ARC.287</num>
+                </titleproper>
+                <author>Finding aid prepared by Larry Weimer</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>April 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-04-25T15:32-0400</date>
+            </creation>
+            <langusage>The finding aid is written in English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William I. Chalmers manuscripts</unittitle>
+            <unitid>ARC.287</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1180001" type="Box" label="Text">1 (A0012)</container>
+            <physdesc>
+                <extent>0.13 Linear feet</extent>
+                <extent>in two folders</extent>
+            </physdesc>
+            <unitdate normal="1891/1893" type="inclusive">1891, 1893</unitdate>
+            <langmaterial id="ref8" label="Language of Materials">The materials are in English.</langmaterial>
+            <abstract id="ref3" label="Abstract">The Reverend William I. Chalmers served as pastor of the Congregational church in Riverhead, New York, during the late 19th century. The collection includes two manuscripts written and presented by Chalmers in the 1890s concerning the history of Congregationalism in Suffolk County, N.Y.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Chalmers, William I.</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref11">
+            <head>Related Archival Materials note</head>
+            <p>Brooklyn Historical Society holds a third manuscript by Chalmers under call number 1973.287.</p>
+        </relatedmaterial>
+        <processinfo id="ref10">
+            <head>Processing Information note</head>
+            <p>The collection is comprised of two accessions: 1973.103 and 1980.029. They were described in April 2012 by Larry Weimer.</p>
+        </processinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); William I. Chalmers manuscripts, ARC.287, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Accession 1980.029 (the 1891 paper) was purchased at the sale of Charles J. Werner's books at the American Art Association, 1927. Accession 1973.103 (the 1893) paper is annotated as having been obtained by C.J.W. (Charles J. Werner) from Chalmers' widow in 1919. It is not clear how the manuscript came to Brooklyn Historical Society, but it is likely that it was purchased in the same 1927 sale as that of 1980.029.</p>
+        </acqinfo>
+        <userestrict id="ref6">
+            <head>Conditions Governing Use note</head>
+            <p>The documents are in the public domain.</p>
+        </userestrict>
+        <accessrestrict id="ref5">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <arrangement id="ref4">
+            <head>Arrangement note</head>
+            <p>The collection includes two manuscripts.</p>
+        </arrangement>
+        <bioghist id="ref1">
+            <head>Biographical/Historical note</head>
+            <p>The Reverend William I. Chalmers served as pastor of the Congregational church in Riverhead, New York during the late 19th century. Chalmers wrote and published books on the history of the town of Riverhead and the Congregational church in Aquebogue, New York.</p>
+        </bioghist>
+        <scopecontent id="ref2">
+            <head>Scope and Contents</head>
+            <p>The collection includes two manuscripts written and presented by Reverend William I. Chalmers:</p>
+            <p>"Historical sketch of Congregationalism in Suffolk County, 1791-1891, with references to the earlier history." This is "A paper read at the Centennial Anniversary of the Organization of the Long Island Convention, at Aquebogue, Nov. 11, 1891."</p>
+            <p>"A brief history of Congregationalism in Suffolk County, N.Y." This is "A paper read at the meeting of the General Association of New York in the Congregational Church, Patchogue, May 18, 1893."</p>
+        </scopecontent>
+        <controlaccess>
+            <persname rules="dacs" source="local">Chalmers, William I.</persname>
+            <subject source="lcsh">Congregational churches |z New York (State) |z Long Island</subject>
+            <genreform source="aat">Lecture notes</genreform>
+            <geogname source="lcsh">Long Island (N.Y.) |x History</geogname>
+            <genreform source="aat">Manuscripts (document genre)</genreform>
+            <geogname source="lcsh">Suffolk County (N.Y.) |X History</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

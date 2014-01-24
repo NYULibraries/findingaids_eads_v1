@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1981_015_turnbull</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Charles Turnbull correspondence
+                    <num>1981.015</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>August 15, 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-18T16:06-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Charles Turnbull correspondence</unittitle>
+            <unitid>1981.015</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid981008" type="Box" label="Text">A0097</container>
+            <physdesc>
+                <extent>0.1 Linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1778/1791" type="inclusive">1778-1791</unitdate>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Turnbull, Charles</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical note</head>
+            <p>Charles Turnbull (b. circa 1754) served as a captain in the Pennsylvania militia during the Revolutionary War and was held as a British prisoner on Long Island. After being paroled, Turnbull became a Major of Artillery in the Continental Army. Following the war, he bought a 150 acre farm in Bedford, Long Island (later part of the Bedford-Stuyvesant neighborhood of Brooklyn). Turnbull was appointed High Sheriff of Kings County in 1789.</p>
+        </bioghist>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Charles Turnbull correspondence, 1981.015, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Scott Adams, 1981.</p>
+        </acqinfo>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The Charles Turnbull correspondence spans the period 1778 to 1791 and measures 0.1 linear feet. The correspondence consists of a letter copybook containing correspondence between Charles Turnbull and his family members and friends. Turnbull's letters focus on international commerce between the United States, London, and India.</p>
+        </scopecontent>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <controlaccess>
+            <persname rules="dacs" source="local">Turnbull, Charles</persname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History |y Revolution, 1775-1783</geogname>
+            <geogname source="lcsh">Long Island (N.Y.)</geogname>
+            <geogname source="lcsh">Long Island (N.Y.) |x History |y Revolution, 1775-1783</geogname>
+            <geogname source="lcsh">United States |x History |y Revolution, 1775-1783</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

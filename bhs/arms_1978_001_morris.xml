@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1978_001_morris</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Newbold Morris papers
+                    <num>1978.001</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>July 18, 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-17T13:45-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Newbold Morris papers</unittitle>
+            <unitid>1978.001</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid912001" type="Box" label="Text">A0074</container>
+            <physdesc>
+                <extent>0.16 Linear feet</extent>
+                <extent>in two folders</extent>
+            </physdesc>
+            <unitdate normal="1962/1962">1962</unitdate>
+            <origination label="creator">
+                <persname rules="dacs" source="naf">Morris, Newbold</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Source and date of acquisition unknown. The papers were formally accessioned in 1978.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical note</head>
+            <p>Newbold Morris (1902-1966) succeeded Robert Moses as Parks Commissioner of the City of New York in 1960. During his career Morris also served as President of the New York City Council and ran unsuccessfully for mayor of New York City twice.</p>
+        </bioghist>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Newbold Morris papers, 1978.001, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The Newbold Morris papers are dated 1962 and measure 0.16 linear feet. The papers document New York City and State official response to a severe late winter storm in 1962 that caused considerable damage to property along the Long Island shorefront. The predominant community represented in the collection is Fire Island, but also included are Shirley, Bayshore, Babylon, and the Rockaways. The collection contains photocopies of clippings from several New York City and Long Island newspapers, photographs, and a copy of an act to form a commission to study the property damages and make recommendations for the restoration and protection of the affected area. The committee was dubbed the Temporary State Commission on Protection and Preservation of the Atlantic Shorefront, and its members included Joseph F. Carlino, Chairman, H. Lee Dennison, Vice Chairman, and Robert Moses, Secretary.</p>
+        </scopecontent>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <controlaccess>
+            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Moses, Robert, 1888-1981</persname>
+            <geogname source="lcsh">Babylon (N.Y.)</geogname>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
+            <subject source="lcsh">Disaster relief |z New York (State) |z Long Island</subject>
+            <geogname source="lcsh">Fire Island (N.Y. : Island)</geogname>
+            <genreform source="aat">Legislative acts</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <geogname source="lcsh">Rockaway Beach (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Shirley (Suffolk County, N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

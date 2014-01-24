@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1987_007_coney_island_jockey_club</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Coney Island Jockey Club collection
+                    <num>1987.007</num>
+                </titleproper>
+                <author>Finding aid prepared by Matthew Gorham</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>June 4, 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-06-04T10:04-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Coney Island Jockey Club collection</unittitle>
+            <unitid>1987.007</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1184001" type="Box" label="Text">1987.007 1 of 1</container>
+            <physdesc>
+                <extent>0.1 Linear feet</extent>
+                <extent>in one oversize manuscript box</extent>
+            </physdesc>
+            <unitdate normal="1889/1899" type="inclusive">1889-1899</unitdate>
+            <abstract id="ref2" label="Abstract">The Coney Island Jockey Club was founded during the late 19th century by Leonard Jerome and William Kissam Vanderbilt. During its early existence the club held horse races at the Propect Park fairgrounds, and in 1880 the club built the Sheepshead Bay Race Track, where its races were held thereafter. The collection spans the period 1889 to 1899 and contains the club's founding resolution; programs broadsides; and ephemera, such as passes, badges, and tickets from races organized by the club.</abstract>
+            <langmaterial id="ref6" label="Language of Materials">Materials in English.</langmaterial>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Coney Island Jockey Club.</corpname>
+            </origination>
+        </did>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Coney Island Jockey Club collection, 1987.007, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Donald E.L. Wesley, 1987.</p>
+        </acqinfo>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <controlaccess>
+            <corpname rules="dacs" source="local">Coney Island Jockey Club.</corpname>
+            <genreform source="aat">Articles of incorporation.</genreform>
+            <subject source="lcsh">Clubs |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+            <subject source="lcsh">Horse racing |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Programs (documents)</genreform>
+            <geogname source="lcsh">Sheepshead Bay (New York, N.Y.)</geogname>
+            <subject source="lcgft">Sports |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Tickets</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

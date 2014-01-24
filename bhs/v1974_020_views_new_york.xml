@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">v1974_020_views_new_york</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the 
+                    <emph render="italic">Views of New York</emph> viewbook
+                    <num>V1974.020</num>
+                </titleproper>
+                <author>Finding aid prepared by Patricia Glowinski</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>May 20, 2011.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-28T11:56-0500</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>
+                <emph render="italic">Views of New York</emph> viewbook</unittitle>
+            <unitid>V1974.020</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid793001" type="Box" label="Books">V1974.020 Photographs by accession Box 1 of 1</container>
+            <physdesc>
+                <extent>0.04 Linear feet</extent>
+                <extent>in one volume.</extent>
+            </physdesc>
+            <unitdate>circa 1910</unitdate>
+            <origination label="creator">
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf" role="Publisher (pbl)">L.H. Nelson Company.</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref1">
+            <head>Historical note</head>
+            <p>L.H. Nelson Company was a publisher based in Portland, Maine. They published viewbooks (also known as souvenir albums or view albums) and photographs of prominent cities and summer resorts.</p>
+        </bioghist>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use</head>
+            <p>The item in this collection has entered the public domain according United States Copyright Law. For information on securing rights to publish or reproduce, please see the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="Reproduction Rights Policy" ns2:href="http://www.brooklynhistory.org/library/repropolicy.html">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>
+        </userestrict>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <prefercite id="ref3">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); 
+                <emph render="italic">Views of New York</emph> viewbook, V1974.020, Box number, Object ID number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Fully processed to the item level.</p>
+        </processinfo>
+        <otherfindaid id="ref7">
+            <head>Other Finding Aids</head>
+            <p>Item level description and digital versions of some of the images from the photobook are available for searching via the image database in the library. Please consult library staff for more information.</p>
+        </otherfindaid>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition</head>
+            <p>Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1974.</p>
+        </acqinfo>
+        <scopecontent id="ref2">
+            <head>Scope and Contents</head>
+            <p>The 
+                <emph render="italic">Views of New York</emph> viewbook was published by L. H. Nelson Company, circa 1910. The photographs in the book are primarily views of buildings, structures, parks, and street scenes in Manhattan, though there are several views of locations in Brooklyn. Brief descriptions for each image are included. All images are black-and-white, and the pages measure 8" x 10". Cardboard covers have been attached to the photobook's original softcover.</p>
+        </scopecontent>
+        <controlaccess>
+            <subject source="lcsh">Architecture |z New York (State) |z New York</subject>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+            <geogname source="lcsh">New York (N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+            <subject source="lcsh">Parks |z New York (State) |z New York</subject>
+            <subject source="lcsh">Street photography</subject>
+            <genreform source="aat">Viewbooks</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

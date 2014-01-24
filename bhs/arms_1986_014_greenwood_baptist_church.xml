@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1986_014_greenwood_baptist_church</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Greenwood Baptist Church collection
+                    <num>1986.014</num>
+                </titleproper>
+                <author>Finding aid prepared by Nicholas Pavlik</author>
+                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>November 8, 2010</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>change to complete_collection_level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-21T14:02-0500</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Greenwood Baptist Church collection</unittitle>
+            <unitid>1986.014</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid492001" type="Box" label="Text">1986.014 1 of 1</container>
+            <physdesc>
+                <extent>0.42 Linear feet</extent>
+                <extent>in one manuscript  box.</extent>
+            </physdesc>
+            <unitdate normal="1954/1964" type="inclusive">1954-1964</unitdate>
+            <origination label="creator">
+                <corpname source="local">Greenwood Baptist Church (Brooklyn, New York, N.Y.).</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref1">
+            <head>Historical Note</head>
+            <p>The Greenwood Baptist Church was established by a small prayer group in the Brooklyn neighborhood of Park Slope in 1858. Its first building was erected in 1863 at the corner of 4th Avenue and 15th Street. By the 1890s, the congregation had grown so substantially that the need for a larger building was recognized. In 1900, the church moved to a new edifice located at the corner of Sixth Street and Seventh Avenue in Park Slope, where it would remain throughout the 20th century. As of 2010, the church continues to occupy this location.</p>
+            <list numeration="arabic" type="ordered">
+                <head>Sources:</head>
+                <item>Greenwood Baptist Church. "History." Accessed November 5, 2010. http://www.greenwoodchurch.org/history</item>
+                <item>Greenwood Baptist Church. 
+                    <emph render="italic">Program: The One Hundredth Anniversary of Greenwood Baptist Church</emph>. Brooklyn, N.Y.: Privately published, 1958.</item>
+            </list>
+        </bioghist>
+        <scopecontent id="ref2">
+            <head>Scope and Contents</head>
+            <p>The Greenwood Baptist Church collection spans the period 1954 to 1964 and contains printed items documenting the history and activities of the church. Materials include annual reports, newsletters, a publication on the church's 1956 Thanksgiving service, regular worship service programs, and programs for additional events, including the church's centennial celebration.</p>
+        </scopecontent>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Source and date of acquisition unknown. Formally accessioned in 1986.</p>
+        </acqinfo>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Greenwood Baptist Church collection, 1986.014, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <processinfo id="ref6">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <controlaccess>
+            <corpname source="local">Greenwood Baptist Church (Brooklyn, New York, N.Y.).</corpname>
+            <genreform source="aat">Annual reports</genreform>
+            <subject source="lcsh">Baptists |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Church history</geogname>
+            <subject source="lcsh">Christian life |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Church anniversaries |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Church bulletins</genreform>
+            <genreform source="aat">Newsletters</genreform>
+            <genreform source="aat">Programs (documents)</genreform>
+            <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
