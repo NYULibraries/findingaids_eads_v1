@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_032_hispanic_communities_documentation</eadid>
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_032_hispanic_communities_documentation.html">arc_032_hispanic_communities_documentation</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Hispanic Communities Documentation Project records and oral histories
@@ -30,15 +30,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-22T14:50-0500</date>
+                <date>2015-04-22T11:12-0400</date>
             </creation>
             <langusage>English and Spanish</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>June 30, 2010</date>
-                <item></item>
+                <date>2014</date>
+                <item>Updated by Matthew Gorham (2010); John Zarrillo</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -58,12 +58,13 @@
             <container id="cid359005" type="Box" label="Text">ARC.032 1 of 5</container>
             <container id="cid359004" type="Box" label="Text">ARC.032 2 of 5</container>
             <physdesc>
-                <extent>2.0 Linear feet</extent>
+                <extent>2.0 linear feet</extent>
                 <extent>in 5 manuscript boxes.</extent>
             </physdesc>
             <unitdate normal="1986/1991" type="bulk">Bulk, 1986-1991</unitdate>
             <unitdate normal="1924/1992" type="inclusive">1924-1992</unitdate>
             <langmaterial id="ref4" label="Language of Materials">Materials in English and Spanish.</langmaterial>
+            <abstract id="ref17" label="Abstract">The collection contains thirty-five oral history interview transcripts, photographs, a VHS videotape, and a variety of printed ephemera, including newspaper clippings, fliers, handouts, programs, business cards, brochures, booklets and restaurant menus. It is arranged thematically into four series: 1) Transcripts, 1988-1989, 2) Puerto Rican Community, 1973-1991, 3) Other Hispanic Communities, 1950-1992, and 4) Photographs.</abstract>
             <origination label="creator">
                 <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Historical Society (Brooklyn, New York, N.Y.).</corpname>
             </origination>
@@ -85,7 +86,7 @@
         </bioghist>
         <accessrestrict id="ref2">
             <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
+            <p>Select oral histories can be accessed onsite at Brooklyn Historical Society’s Othmer Library. Restrictions may apply.</p>
         </accessrestrict>
         <prefercite id="ref5">
             <head>Preferred Citation</head>
@@ -98,7 +99,12 @@
         <processinfo id="ref16">
             <head>Processing Information note</head>
             <p>Minimally processed to the series level.</p>
+            <p>Accession V1997.076 added to collection in 2014.</p>
         </processinfo>
+        <userestrict id="ref18">
+            <head>Conditions Governing Use note</head>
+            <p>Permission to use the oral histories other than for private study, scholarship, or research requires the permission of both Brooklyn Historical Society and the narrator. For assistance, please consult library staff at library@brooklynhistory.org.</p>
+        </userestrict>
         <controlaccess>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
             <subject source="lcsh">Documentary photography</subject>
@@ -115,7 +121,7 @@
                 <did>
                     <unittitle>Series 1: Oral history transcripts</unittitle>
                     <physdesc>
-                        <extent>0.75 Linear feet</extent>
+                        <extent>0.75 linear feet</extent>
                         <extent>in 2 manuscript boxes.</extent>
                     </physdesc>
                     <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
@@ -130,7 +136,7 @@
                 <did>
                     <unittitle>Series 2: Puerto Rican community</unittitle>
                     <physdesc>
-                        <extent>0.5 Linear feet</extent>
+                        <extent>0.5 linear feet</extent>
                         <extent>in 1 manuscript box.</extent>
                     </physdesc>
                     <unitdate normal="1973/1991" type="inclusive">1973-1991</unitdate>
@@ -146,7 +152,7 @@
                 <did>
                     <unittitle>Series 3: Other Hispanic communities</unittitle>
                     <physdesc>
-                        <extent>0.5 Linear feet</extent>
+                        <extent>0.5 linear feet</extent>
                     </physdesc>
                     <unitdate normal="1950/1992" type="inclusive">1950-1992</unitdate>
                 </did>
@@ -163,7 +169,7 @@
                     <unittitle>Series 4: Photographs</unittitle>
                     <unitid>V1989.001-V1989.002</unitid>
                     <physdesc>
-                        <extent>0.25 Linear feet</extent>
+                        <extent>0.25 linear feet</extent>
                     </physdesc>
                     <unitdate normal="1924/1990" type="inclusive">1924-1990</unitdate>
                 </did>
