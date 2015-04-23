@@ -11,7 +11,7 @@
                 <author>Finding aid prepared by Marvin Taylor, 1997. Finding aid updated by Lisa Darms, 2009.</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>© 2009 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -25,8 +25,10 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2009-06-29T16:08-0400</date>
+                <date>2014-04-03T16:13-0400</date>
             </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
@@ -34,13 +36,13 @@
             <unittitle>Thomas G. Neumiller Papers</unittitle>
             <unitid>MSS 32</unitid>
             <repository>
-                <corpname>© 2009 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>1.0 Linear feet</extent>
+                <extent>1.0 linear feet</extent>
             </physdesc>
             <unitdate>ca. 1965-1997</unitdate>
         </did>
@@ -55,7 +57,12 @@
         <arrangement id="ref22">
             <head>Arrangement note</head>
             <p>The collection is arranged into two series:</p>
-            <p>Series I: Friedelind Wagner Materials Series II: Margaret Hamilton Materials</p>
+            <p>Series I: Friedelind Wagner Materials
+                <lb/> Series II: Margaret Hamilton Materials</p>
+            <list numeration="arabic" type="ordered">
+                <item>Series I: Friedelind Wagner Materials</item>
+                <item>Series II: Margaret Hamilton Materials</item>
+            </list>
         </arrangement>
         <prefercite id="ref23">
             <head>Preferred Citation</head>
@@ -63,6 +70,14 @@
                 <lb/>
                 <lb/> Identification of item, date (if known); Thomas Neumiller Papers; MSS 32; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
         </prefercite>
+        <userestrict id="ref26">
+            <head>Conditions Governing Use</head>
+            <p>Collection use is subject to all copyright laws. Permission to publish materials must be obtained in writing from the Director of Fales Library and Special Collections. Please contact fales.library@nyu.edu. or call 212 998 2596.</p>
+        </userestrict>
+        <accessrestrict id="ref25">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers. Appointments are necessary for the use of manuscript and archival collections.</p>
+        </accessrestrict>
         <bioghist id="ref24">
             <head>Biographical Note</head>
             <p>Thomas G. Neumiller was born in 1937 in Peoria, Illinois. After graduating from Knox College in Galesburg, Illinois in 1959, Neumiller studied theater history in West Germany on a Fulbright scholarship. He was later stationed in Stuttgart, Germany, as an officer in the United States Army Military Intelligence.</p>
@@ -71,14 +86,6 @@
             <p>"Paid Notice: Deaths NEUMILLER, THOMAS G.", 
                 <emph render="italic">The New York Times</emph>, April 23, 1998</p>
         </bioghist>
-        <accessrestrict id="ref25">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers. Appointments are necessary for the use of manuscript and archival collections.</p>
-        </accessrestrict>
-        <userestrict id="ref26">
-            <head>Conditions Governing Use</head>
-            <p>Collection use is subject to all copyright laws. Permission to publish materials must be obtained in writing from the Director of Fales Library and Special Collections. Please contact fales.library@nyu.edu. or call 212 998 2596.</p>
-        </userestrict>
         <dsc>
             <c id="ref1" level="series">
                 <did>
@@ -87,55 +94,55 @@
                 <c id="ref3" level="file">
                     <did>
                         <unittitle>Correspondence: Friedelind Wagner to Thomas Neumiller</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">1</container>
+                        <container id="cid15699002" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699002" type="Folder">1</container>
                     </did>
                 </c>
                 <c id="ref4" level="file">
                     <did>
                         <unittitle>Correspondence: Thomas Neumiller to Friedelind Wagner (carbons)</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">2</container>
+                        <container id="cid15699003" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699003" type="Folder">2</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref5" level="file">
                     <did>
                         <unittitle>Correspondence: Hanne-Lore Kuhse to Thomas Neumilller</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">3</container>
+                        <container id="cid15699004" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699004" type="Folder">3</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref6" level="file">
                     <did>
                         <unittitle>Subject Folder: Friedelind Wagner Master Classes: brochures, etc.</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">4</container>
+                        <container id="cid15699005" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699005" type="Folder">4</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref7" level="file">
                     <did>
                         <unittitle>Subject Folder: Friedelind Wagner Biographical materials</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">5</container>
+                        <container id="cid15699006" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699006" type="Folder">5</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref8" level="file">
                     <did>
                         <unittitle>Subject Folder: Friedelind Wagner at Wheelock College</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">6</container>
+                        <container id="cid15699007" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699007" type="Folder">6</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref10" level="file">
                     <did>
                         <unittitle>Photographs:</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">7</container>
+                        <container id="cid15699008" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699008" type="Folder">7</container>
                         <unitdate>undated</unitdate>
                     </did>
                     <odd id="ref9">
@@ -150,40 +157,40 @@
                 <c id="ref12" level="file">
                     <did>
                         <unittitle>Photographs: Master Class members</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">8</container>
+                        <container id="cid15699009" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699009" type="Folder">8</container>
                         <unitdate>1966</unitdate>
                     </did>
                 </c>
                 <c id="ref13" level="file">
                     <did>
                         <unittitle>Art works: two watercolor sketches for sets by John Dew</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">9</container>
+                        <container id="cid15699010" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699010" type="Folder">9</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref14" level="file">
                     <did>
                         <unittitle>Clippings: Bayreuth</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">10</container>
+                        <container id="cid15699011" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699011" type="Folder">10</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref15" level="file">
                     <did>
                         <unittitle>Clippings: Bayreuth, primarily about the centennial</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">11</container>
+                        <container id="cid15699012" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699012" type="Folder">11</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref16" level="file">
                     <did>
                         <unittitle>Miscellaneous</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">12</container>
+                        <container id="cid15699013" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699013" type="Folder">12</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
@@ -195,22 +202,22 @@
                 <c id="ref17" level="file">
                     <did>
                         <unittitle>Correspondence: Margaret Hamilton to Thomas Neumiller</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">13</container>
+                        <container id="cid15699014" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699014" type="Folder">13</container>
                     </did>
                 </c>
                 <c id="ref18" level="file">
                     <did>
                         <unittitle>Printed materials about Margaret Hamilton</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">14</container>
+                        <container id="cid15699015" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699015" type="Folder">14</container>
                     </did>
                 </c>
                 <c id="ref19" level="file">
                     <did>
                         <unittitle>Photographs: six stills of Hamilton as the Wicked Witch of the West in The Wizard of Oz. One copy inscribed.</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">15</container>
+                        <container id="cid15699016" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid15699016" type="Folder">15</container>
                     </did>
                 </c>
             </c>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_135</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_135">wag_135</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to the Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records
+                <titleproper>Guide to the Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records and Photographs
                     <num>WAG.135</num>
                 </titleproper>
                 <author>Finding aid prepared by Jessica Weglein</author>
@@ -25,15 +25,21 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-10-23T10:55-0400</date>
+                <date>2014-04-02T16:25-0400</date>
             </creation>
-            <langusage>Description is in 
-                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <langusage>Finding aid is written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>Nov 2013</date>
+                <item>Edited by Maggie Schreiner for compliance with DACS and Tamiment Required Elements for Archival Description and to reflect the incorporation of nonprint materials</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
-            <unittitle>Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records</unittitle>
+            <unittitle>Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records and Photographs</unittitle>
             <unitid>WAG.135</unitid>
             <repository>
                 <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
@@ -42,25 +48,21 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>25.5 linear feet</extent>
-                <extent>(26 boxes)</extent>
+                <extent>33.5 linear feet</extent>
+                <extent>in 34 record cartons.</extent>
             </physdesc>
-            <unitdate normal="1902/1993" type="inclusive">1902-1993</unitdate>
-            <abstract id="ref3" label="Abstract">This collection contains minutes, officers' papers, and subject files of the Bakery Confectionery and Tobacco Workers International Union, Local 3. Topics range from bargaining and arbitration to elections and anniversary dinners. There is information on specific bake shops from the small family-run shops to large corporate bakeries. 
-                <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></abstract>
-            <physloc audience="internal" id="ref891" label="Location note">Offsite</physloc>
+            <unitdate normal="1955/1986" type="bulk">Bulk, 1955-1986</unitdate>
+            <unitdate normal="1902/1996" type="inclusive">1902-1996</unitdate>
+            <abstract id="ref3" label="Abstract">This collection contains the minutes, officers' papers, subject files and photographs files of the Bakery Confectionery and Tobacco Workers International Union, Local 3, including executive and grievance boards, general membership meetings as well as the papers of Presidents Frank Dutto, and Harry Lorber and Business Agent Michael Sandroff. Topics range from bargaining and arbitration to elections and anniversary dinners. There is information on specific bake shops from the small family-run shops to large corporate bakeries.</abstract>
+            <physloc audience="internal" id="ref891" label="Location note">This collection is housed offsite and advance notice is required for use. Please contact tamiment.wagner@library.nyu.edu at least two business days prior to research visit.</physloc>
+            <langmaterial id="ref895" label="Language of Materials note">Materials are primarily in English, with some materials in German and Yiddish.</langmaterial>
             <origination label="creator">
                 <corpname source="naf">Bakery, Confectionery, and Tobacco Workers International Union. Local 3 (Long Island City, N.Y.).</corpname>
             </origination>
         </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>The records of Bakery, Confectionery, and Tobacco Workers International Union, Local 3 were transferred by archivist Janet Greene from the Local headquarters at 41-07 Crescent Street, Long Island City, N.Y., to the Tamiment Library/Robert F. Wagner Labor Archives in June 1996. A grant from the National Historic Publications and Records Commission (NHPRC) made the acquisition and processing possible.</p>
-        </custodhist>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
-            <p>Open for research without restrictions. 
-                <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></p>
+            <p>Open for research without restrictions.</p>
         </accessrestrict>
         <bioghist id="ref8">
             <head>Historical/Biographical Note</head>
@@ -74,58 +76,44 @@
         </bioghist>
         <scopecontent id="ref9">
             <head>Scope and Content Note</head>
-            <p>Series I (1920-1984) contains the minutes of Locals 1, 3, 17, 164, 579, including executive and grievance boards and general membership meetings.</p>
-            <p>Series II (1946-1987) consists of the papers of Presidents Frank Dutto, and Harry Lorber and Business Agent Michael Sandroff.</p>
-            <p>Series III (1954-1987) documents standard contract negotiations. Series IV (1964-1989) contains material pertinent to collective bargaining negotiations between individual shops and corporate entities.</p>
-            <p>Series V (1954-1989) includes files on by-laws, elections, legal disputes and grievances, the Cross indictment, union label samples, and other general topics.</p>
-            <p>Series VI (1955-1988) contains records of the Cake Bakers Welfare Fund of Local 51 and the Local 3 Welfare and Pension Fund.</p>
-            <p>Series VII (1902-1978) consists of the correspondence and chronological files of Locals 1, 3, 17, 51, 164, 388, and 579.</p>
-            <p>Series VIII (1930-1993) includes souvenir programs from a variety of locals and trade organizations.</p>
-            <p>
-                <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></p>
+            <p>This collection contains the minutes, correspondence and chronological files of Locals 1, 3, 17, 164, 388, and 579, including executive and grievance boards, general membership meetings as well as the papers of Presidents Frank Dutto, and Harry Lorber and Business Agent Michael Sandroff. Also included in the collection are documents on standard contract negotiations as well as collective bargaining negotiations between individual shops and corporate entities. General files include records pertaining to by-laws, elections, legal disputes and grievances, the Cross indictment, and union label samples, amongst others. Souvenir programs and photographs from a variety of locals are also included.</p>
         </scopecontent>
         <arrangement id="ref10">
-            <head>Organization:</head>
-            <p>Material is arranged either alphabetically or chronologically. The researcher should consult series descriptions for individual series arrangement.</p>
+            <head>Arrangement note</head>
+            <p>Material in Series I is grouped by organizations and arranged chronologically within each grouping. Material in Series II is arranged alphabetically and chronologically. Series III is arranged chronologically, and Series IV though VIII are arranged alphabetically. Series IX has not been arranged by an archivist.</p>
             <p>The records are organized into the following series:</p>
-            <p>
-                <list>
-                    <item>Series I. Minutes, 1920-1984.</item>
-                    <item>Series II. Officers' Papers, 1946-1987.</item>
-                    <item>Series III. Bargaining and Arbitration, 1954-1987.</item>
-                    <item></item>
-                    <item>Series IV. Shop Files, 1964-1989.</item>
-                    <item>Series V. Subjects, 1954-1989.</item>
-                    <item>Series VI. Welfare and Pension Fund, 1955-1988.</item>
-                    <item>Series VII. General Files, 1902-1978.</item>
-                    <item>Series VIII. Souvenir Programs, 1930-1993.</item>
-                </list></p>
+            <p>Series I: Minutes, 1920-1984</p>
+            <p>Series II: Officers' Papers, 1946-1987</p>
+            <p>Series III: Bargaining and Arbitration, 1954-1987</p>
+            <p>Series IV: Shop Files, 1964-1989</p>
+            <p>Series V: Local 3, Subjects, 1954-1989</p>
+            <p>Series VI: Welfare and Pension Fund, 1955-1988</p>
+            <p>Series VII: General Files, 1902-1978</p>
+            <p>Series VIII: Souvenir Programs, 1930-1993</p>
+            <p>Series IX: Photographs, 1950-1990s</p>
         </arrangement>
         <relatedmaterial id="ref887">
             <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>Oral history interviews with members and officers of Bakers Local 3 are available at the Archives on tape in the New Yorkers at Work collection. (OH 1)</p>
+            <p>New Yorkers at Work Oral History Collection (OH 001) contains interviews with members and officers of Bakers Local 3</p>
         </relatedmaterial>
-        <separatedmaterial id="ref888">
-            <head>Separated Material</head>
-            <p>Photographs, buttons and artifacts from the Collection have beentransferred to the Non-Print department of the Wagner Labor Archives.</p>
-        </separatedmaterial>
         <userestrict id="ref889">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+            <p>Copyright held by The Bakery, Confectionary, and Tobacco Workers International Union, AFL-CIO - Local 3; with the exception of Series IX: Photographs, for which the copyright is held by the Tamiment Library. Permission to publish or reproduce materials must be secured from the repository and the copyright holder. Contact the repository at: 
+                <lb/></p>
+            <p>Tamiment Library/Robert F. Wagner Labor Archives 
                 <lb/> Elmer Holmes Bobst Library 
                 <lb/> 70 Washington Square South 
                 <lb/> New York, NY 10012 
                 <lb/> Phone: (212) 998-2630 
                 <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: peter.filardo@nyu.edu 
+                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
                 <lb/></p>
         </userestrict>
         <prefercite id="ref890">
             <head>Preferred Citation</head>
             <p>Published citations should take the following form: 
                 <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Identification of item, date; Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records and Photographs; WAG 135; box number; folder number; 
                 <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
                 <lb/>Elmer Holmes Bobst Library 
                 <lb/>70 Washington Square South 
@@ -135,6 +123,11 @@
             <head>Immediate Source of Acquisition note</head>
             <p>This collection was donated to the Robert F. Wagner Archives by the Bakery, Confectionary, and Tobacco Workers International Union, AFL-CIO - Local 3 in 1996. A gift of a dues ledger from Local 6 was sent to the Tamiment Library by Carol Hofheinz in August 2012. The accession number associated with this gift is 2013.026.</p>
         </acqinfo>
+        <processinfo id="ref907">
+            <head>Processing Information note</head>
+            <p>The records were transferred by archivist Janet Greene from the Local headquarters at 41-07 Crescent Street, Long Island City, N.Y., to the Tamiment Library/Robert F. Wagner Labor Archives in June 1996. A grant from the National Historic Publications and Records Commission (NHPRC) made the acquisition and processing possible.</p>
+            <p>Photographs separated from this collection during processing were established as a separate collection, the Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Photographs (PHOTOS 108). In 2013, the photograph collection was reincorporated into the Bakery, Confectionery, and Tobacco Workers International Union, Local 3 Records and Photographs (WAG 135).</p>
+        </processinfo>
         <controlaccess>
             <corpname source="naf">American Bakery and Confectionery Workers' International Union.</corpname>
             <corpname source="naf">Bakery, Confectionery, and Tobacco Workers International Union. General Executive Board.</corpname>
@@ -152,7 +145,7 @@
             <genreform source="aat">Bylaws (administrative records).</genreform>
             <subject source="lcsh">Collective labor agreements |x Bakery employees.</subject>
             <genreform source="aat">Correspondence.</genreform>
-            <subject source="lcsh">Labor unions |z United States</subject>
+            <subject source="lcsh">Labor unions |z United States.</subject>
             <genreform source="aat">Legal documents.</genreform>
             <genreform source="aat">Minutes.</genreform>
             <geogname source="lcsh">New York (N.Y.)</geogname>
@@ -161,18 +154,19 @@
         <dsc>
             <c id="ref11" level="series">
                 <did>
-                    <unittitle>Series I: Minutes, 1920-1984</unittitle>
+                    <unittitle>Series I: Minutes</unittitle>
+                    <unitdate normal="1920/1984" type="inclusive">1920-1984</unitdate>
                 </did>
                 <scopecontent id="ref137">
                     <head>Scope and Contents note</head>
-                    <p>This series is grouped by organization and arranged chronologically within each grouping. It contains the minutes of five of the original six unions (Locals 1, 3, 17, 164, 579) that merged to create Local 3 in 1955 as well as a number of other local unions that subsequently merged with Local 3. The locals are arranged in numerically ascending order. Some of the minutes from the earlier years are in English, Yiddish and German (consult Box &amp; Folder List) and reflect the multi-ethnic make-up of the trade. Within this series can also be found the minutes and transcripts related to pre-merger meetings, and included are the minutes of the Baking Industry Labor-Management Apprenticeship Council of Greater New York on which Harry Lorber served. (Note: The 1950-1951 minutes of Local 17 were received in disarray. The precise original order is unclear, but approximate order by month has been restored).</p>
+                    <p>This series contains the minutes of five of the original six unions (Locals 1, 3, 17, 164, 579) that merged to create Local 3 in 1955 as well as a number of other local unions that subsequently merged with Local 3. The locals are arranged in numerically ascending order. Some of the minutes from the earlier years are in English, Yiddish and German (consult Box &amp; Folder List) and reflect the multi-ethnic make-up of the trade. Within this series can also be found the minutes and transcripts related to pre-merger meetings, and included are the minutes of the Baking Industry Labor-Management Apprenticeship Council of Greater New York on which Harry Lorber served. (Note: The 1950-1951 minutes of Local 17 were received in disarray. The precise original order is unclear, but approximate order by month has been restored).</p>
                 </scopecontent>
                 <c id="ref12" level="otherlevel">
                     <did>
                         <unittitle>Local 1, Amalgamated Food Workers (German)</unittitle>
                         <container id="cid34994" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34994" type="Folder">1</container>
-                        <unitdate>1920 Aug.-1927 June</unitdate>
+                        <unitdate>Aug 1920 - Jun 1927</unitdate>
                     </did>
                     <odd id="ref13">
                         <head>General note</head>
@@ -184,7 +178,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Arrangements Committee</unittitle>
                         <container id="cid34993" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34993" type="Folder">2</container>
-                        <unitdate>1922 Aug.-1941 Feb.</unitdate>
+                        <unitdate>Aug 1922 - Feb 1941</unitdate>
                     </did>
                     <odd id="ref15">
                         <head>General note</head>
@@ -196,7 +190,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Board of Directors</unittitle>
                         <container id="cid34992" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34992" type="Folder">3</container>
-                        <unitdate>1923 Feb.-1925 Mar.</unitdate>
+                        <unitdate>Feb 1923 - Mar 1925</unitdate>
                     </did>
                     <odd id="ref17">
                         <head>General note</head>
@@ -208,7 +202,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Board of Directors</unittitle>
                         <container id="cid34991" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34991" type="Folder">4</container>
-                        <unitdate>1926 Feb.-1936 Aug.</unitdate>
+                        <unitdate>Feb 1926 - Aug 1936</unitdate>
                     </did>
                     <odd id="ref19">
                         <head>General note</head>
@@ -220,7 +214,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Board of Directors</unittitle>
                         <container id="cid34990" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34990" type="Folder">5</container>
-                        <unitdate>1935 Aug.-1940 Jan.</unitdate>
+                        <unitdate>Aug 1935 - Jan 1940</unitdate>
                     </did>
                     <odd id="ref21">
                         <head>General note</head>
@@ -232,7 +226,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Board of Directors</unittitle>
                         <container id="cid34989" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34989" type="Folder">6</container>
-                        <unitdate>1948 Jan.-1949 Jan.</unitdate>
+                        <unitdate>Jan 1948 - Jan 1949</unitdate>
                     </did>
                     <odd id="ref23">
                         <head>General note</head>
@@ -244,7 +238,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Board of Director</unittitle>
                         <container id="cid34988" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34988" type="Folder">7</container>
-                        <unitdate>1953 Dec.-1954 Dec.</unitdate>
+                        <unitdate>Dec 1953 - Dec 1954</unitdate>
                     </did>
                     <odd id="ref25">
                         <head>General note</head>
@@ -256,7 +250,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Contract Negotiation Committee</unittitle>
                         <container id="cid34987" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34987" type="Folder">8</container>
-                        <unitdate>1953 Nov.-1954 Dec.</unitdate>
+                        <unitdate>Nov 1953 - Dec 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref27" level="otherlevel">
@@ -264,7 +258,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Editorial Board</unittitle>
                         <container id="cid34986" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34986" type="Folder">9</container>
-                        <unitdate>1954 Mar.-Dec. 1954</unitdate>
+                        <unitdate>Mar 1954 - Dec 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref28" level="otherlevel">
@@ -272,7 +266,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Labor Committee</unittitle>
                         <container id="cid34985" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34985" type="Folder">10</container>
-                        <unitdate>1954 May</unitdate>
+                        <unitdate>May 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref29" level="otherlevel">
@@ -280,7 +274,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Membership</unittitle>
                         <container id="cid34984" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34984" type="Folder">11</container>
-                        <unitdate>1948 Jan.-1949 Jan.</unitdate>
+                        <unitdate>Jan 1948 - Jan 1949</unitdate>
                     </did>
                 </c>
                 <c id="ref30" level="otherlevel">
@@ -288,7 +282,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Membership</unittitle>
                         <container id="cid34983" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34983" type="Folder">12</container>
-                        <unitdate>1953 Dec.-1954 Dec.</unitdate>
+                        <unitdate>Dec 1953 - Dec 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref31" level="otherlevel">
@@ -296,7 +290,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Merger Committee</unittitle>
                         <container id="cid34982" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34982" type="Folder">13</container>
-                        <unitdate>1954 Apr.-1955 Jan.</unitdate>
+                        <unitdate>Apr 1954 - Jan 1955</unitdate>
                     </did>
                 </c>
                 <c id="ref32" level="otherlevel">
@@ -304,7 +298,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Organizing Committee</unittitle>
                         <container id="cid34981" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34981" type="Folder">14</container>
-                        <unitdate>1954 Mar.-1954 Sept.</unitdate>
+                        <unitdate>Mar 1954 - Sep 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref33" level="otherlevel">
@@ -312,7 +306,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Retail Shop Minutes</unittitle>
                         <container id="cid34980" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34980" type="Folder">15</container>
-                        <unitdate>1948 Feb.</unitdate>
+                        <unitdate>Feb 1948</unitdate>
                     </did>
                 </c>
                 <c id="ref34" level="otherlevel">
@@ -320,7 +314,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Shop Council</unittitle>
                         <container id="cid34979" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34979" type="Folder">16</container>
-                        <unitdate>1954 May-1954 Nov.</unitdate>
+                        <unitdate>May 1954  - Nov 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref35" level="otherlevel">
@@ -328,7 +322,7 @@
                         <unittitle>Local 1, Amalgamated Food Workers-Wholesale Bread and Cake Shop</unittitle>
                         <container id="cid34978" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34978" type="Folder">17</container>
-                        <unitdate>1954 Feb.</unitdate>
+                        <unitdate>Feb 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref36" level="otherlevel">
@@ -336,7 +330,7 @@
                         <unittitle>Old Local 3, Executive Board</unittitle>
                         <container id="cid34977" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34977" type="Folder">18</container>
-                        <unitdate>1947 Jan.-1949 Oct.</unitdate>
+                        <unitdate>Jan 1947 - Oct 1949</unitdate>
                     </did>
                 </c>
                 <c id="ref37" level="otherlevel">
@@ -344,7 +338,7 @@
                         <unittitle>Old Local 3, Executive Board</unittitle>
                         <container id="cid34976" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34976" type="Folder">19</container>
-                        <unitdate>1952 Mar.-1954 Sept.</unitdate>
+                        <unitdate>Mar 1952 - Sep 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref38" level="otherlevel">
@@ -352,7 +346,7 @@
                         <unittitle>Old Local 3, Executive Board</unittitle>
                         <container id="cid34975" type="Box" label="Mixed materials (31142050275117)">1</container>
                         <container parent="cid34975" type="Folder">20</container>
-                        <unitdate>1954 Sept.-1955 June</unitdate>
+                        <unitdate>Sep 1954 - Jun 1955</unitdate>
                     </did>
                 </c>
                 <c id="ref39" level="otherlevel">
@@ -360,7 +354,7 @@
                         <unittitle>Old Local 3, Membership</unittitle>
                         <container id="cid34974" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34974" type="Folder">1</container>
-                        <unitdate>1948 Mar.-1955 May</unitdate>
+                        <unitdate>Mar 1948 - May 1955</unitdate>
                     </did>
                 </c>
                 <c id="ref40" level="otherlevel">
@@ -368,7 +362,7 @@
                         <unittitle>Local 3, Executive Board</unittitle>
                         <container id="cid34973" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34973" type="Folder">2</container>
-                        <unitdate>1955 June-1957 Mar.</unitdate>
+                        <unitdate>Jun 1955 - Mar 1957</unitdate>
                     </did>
                 </c>
                 <c id="ref41" level="otherlevel">
@@ -376,7 +370,7 @@
                         <unittitle>Local 3, Executive Board</unittitle>
                         <container id="cid34972" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34972" type="Folder">3</container>
-                        <unitdate>1957 Mar.-1958 July</unitdate>
+                        <unitdate>Mar 1957 - Jul 1958</unitdate>
                     </did>
                 </c>
                 <c id="ref42" level="otherlevel">
@@ -384,7 +378,7 @@
                         <unittitle>Local 3, Executive Board (Handwritten Notes)</unittitle>
                         <container id="cid34971" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34971" type="Folder">4</container>
-                        <unitdate>1973 Oct.-1976 Dec.</unitdate>
+                        <unitdate>Oct 1973 - Dec 1976</unitdate>
                     </did>
                 </c>
                 <c id="ref43" level="otherlevel">
@@ -392,7 +386,7 @@
                         <unittitle>Local 3, Administrative Board</unittitle>
                         <container id="cid34970" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34970" type="Folder">5</container>
-                        <unitdate>1960 Nov.-1961 May</unitdate>
+                        <unitdate>Nov 1960 - May 1961</unitdate>
                     </did>
                 </c>
                 <c id="ref44" level="otherlevel">
@@ -400,7 +394,7 @@
                         <unittitle>Local 3, Administrative Board</unittitle>
                         <container id="cid34969" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34969" type="Folder">6</container>
-                        <unitdate>1961 May-1961 Dec.</unitdate>
+                        <unitdate>May 1961 - Dec 1961</unitdate>
                     </did>
                 </c>
                 <c id="ref45" level="otherlevel">
@@ -408,7 +402,7 @@
                         <unittitle>Local 3, Administrative Board</unittitle>
                         <container id="cid34968" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34968" type="Folder">7</container>
-                        <unitdate>1961 Dec.-1962 Oct.</unitdate>
+                        <unitdate>Dec 1961 - Oct 1962</unitdate>
                     </did>
                 </c>
                 <c id="ref46" level="otherlevel">
@@ -416,7 +410,7 @@
                         <unittitle>Local 3, Administrative Board</unittitle>
                         <container id="cid34967" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34967" type="Folder">8</container>
-                        <unitdate>1963 Aug.-1964 Feb.</unitdate>
+                        <unitdate>Aug 1963 - Feb 1964</unitdate>
                     </did>
                 </c>
                 <c id="ref47" level="otherlevel">
@@ -424,6 +418,7 @@
                         <unittitle>Local 3, Administrative Board (Handwritten Notes)</unittitle>
                         <container id="cid34966" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34966" type="Folder">9</container>
+                        <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref48" level="otherlevel">
@@ -431,7 +426,7 @@
                         <unittitle>Local 3, Administrative Staff Meeting (Handwritten Notes)</unittitle>
                         <container id="cid34965" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34965" type="Folder">10</container>
-                        <unitdate>1963 Mar. 4</unitdate>
+                        <unitdate>Mar 4, 1963</unitdate>
                     </did>
                 </c>
                 <c id="ref49" level="otherlevel">
@@ -439,7 +434,7 @@
                         <unittitle>Local 3, Business Agents Meeting (Handwritten Notes)</unittitle>
                         <container id="cid34964" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34964" type="Folder">11</container>
-                        <unitdate>1973 June 1</unitdate>
+                        <unitdate>Jun 1, 1973</unitdate>
                     </did>
                 </c>
                 <c id="ref50" level="otherlevel">
@@ -455,7 +450,7 @@
                         <unittitle>Local 3, Departmental Coordinating Committee</unittitle>
                         <container id="cid34962" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34962" type="Folder">13</container>
-                        <unitdate>1966 Sept.-1969 Aug.</unitdate>
+                        <unitdate>Sep 1966 - Aug 1969</unitdate>
                     </did>
                 </c>
                 <c id="ref52" level="otherlevel">
@@ -463,7 +458,7 @@
                         <unittitle>Local 3, Executive Board Attendance Record</unittitle>
                         <container id="cid34961" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34961" type="Folder">14</container>
-                        <unitdate>1969 Jan.-1973 Feb.</unitdate>
+                        <unitdate>Jan 1969 - Feb 1973</unitdate>
                     </did>
                 </c>
                 <c id="ref53" level="otherlevel">
@@ -471,7 +466,7 @@
                         <unittitle>Local 3, Grievance Board</unittitle>
                         <container id="cid34960" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34960" type="Folder">15</container>
-                        <unitdate>1955 Aug.</unitdate>
+                        <unitdate>Aug 1955</unitdate>
                     </did>
                 </c>
                 <c id="ref54" level="otherlevel">
@@ -479,7 +474,7 @@
                         <unittitle>Local 3, Grievance Board</unittitle>
                         <container id="cid34959" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34959" type="Folder">16</container>
-                        <unitdate>1957 Jan.-1958 Dec.</unitdate>
+                        <unitdate>Jan 1957 - Dec 1958</unitdate>
                     </did>
                 </c>
                 <c id="ref55" level="otherlevel">
@@ -487,7 +482,7 @@
                         <unittitle>Local 3, Membership</unittitle>
                         <container id="cid34958" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34958" type="Folder">17</container>
-                        <unitdate>1956 June-1957 Feb.</unitdate>
+                        <unitdate>Jun 1956  - Feb 1957</unitdate>
                     </did>
                 </c>
                 <c id="ref56" level="otherlevel">
@@ -495,7 +490,7 @@
                         <unittitle>Local 3, Membership</unittitle>
                         <container id="cid34957" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34957" type="Folder">18</container>
-                        <unitdate>1957-03/1958-05</unitdate>
+                        <unitdate>Mar 1957 - May 1958</unitdate>
                     </did>
                 </c>
                 <c id="ref57" level="otherlevel">
@@ -511,7 +506,7 @@
                         <unittitle>Local 3, Policy Committee (Handwritten)</unittitle>
                         <container id="cid34955" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34955" type="Folder">20</container>
-                        <unitdate>1975 Apr. 7</unitdate>
+                        <unitdate>Apr 7, 1975</unitdate>
                     </did>
                 </c>
                 <c id="ref59" level="otherlevel">
@@ -519,7 +514,7 @@
                         <unittitle>Local 3, Shop Council Meetings (General, Wholesale, Retail)</unittitle>
                         <container id="cid34954" type="Box" label="Mixed materials (31142050275125)">2</container>
                         <container parent="cid34954" type="Folder">21</container>
-                        <unitdate>1959 Oct.-1962 Oct.</unitdate>
+                        <unitdate>Oct 1959 - Oct 1962</unitdate>
                     </did>
                 </c>
                 <c id="ref60" level="otherlevel">
@@ -535,7 +530,7 @@
                         <unittitle>Local 3, Staff Meeting</unittitle>
                         <container id="cid34952" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34952" type="Folder">2</container>
-                        <unitdate>1977 Apr.-1977 Dec.</unitdate>
+                        <unitdate>Apr 1977 - Dec 1977</unitdate>
                     </did>
                 </c>
                 <c id="ref62" level="otherlevel">
@@ -543,7 +538,7 @@
                         <unittitle>Local 3, Staff Meeting</unittitle>
                         <container id="cid34951" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34951" type="Folder">3</container>
-                        <unitdate>1978 Jan.-1978 Dec.</unitdate>
+                        <unitdate>Jan 1978 - Dec 1978</unitdate>
                     </did>
                 </c>
                 <c id="ref63" level="otherlevel">
@@ -551,7 +546,7 @@
                         <unittitle>Local 3, Staff Meeting</unittitle>
                         <container id="cid34950" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34950" type="Folder">4</container>
-                        <unitdate>1979 Jan.-1979 Dec.</unitdate>
+                        <unitdate>Jan 1979 - Dec 1979</unitdate>
                     </did>
                 </c>
                 <c id="ref64" level="otherlevel">
@@ -559,7 +554,7 @@
                         <unittitle>Local 3, Staff Meeting</unittitle>
                         <container id="cid34949" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34949" type="Folder">5</container>
-                        <unitdate>1980 Jan.-1980 Dec.</unitdate>
+                        <unitdate>Jan 1980 - Dec 1980</unitdate>
                     </did>
                 </c>
                 <c id="ref65" level="otherlevel">
@@ -567,7 +562,7 @@
                         <unittitle>Local 3, Staff Meeting</unittitle>
                         <container id="cid34948" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34948" type="Folder">6</container>
-                        <unitdate>1981 Jan.-1981 Dec.</unitdate>
+                        <unitdate>Jan 1981 - Dec 1981</unitdate>
                     </did>
                 </c>
                 <c id="ref66" level="otherlevel">
@@ -575,7 +570,7 @@
                         <unittitle>Local 3, Staff Meeting</unittitle>
                         <container id="cid34947" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34947" type="Folder">7</container>
-                        <unitdate>1982 Jan.-1982 Dec.</unitdate>
+                        <unitdate>Jan 1982 - Dec 1982</unitdate>
                     </did>
                 </c>
                 <c id="ref67" level="otherlevel">
@@ -583,7 +578,7 @@
                         <unittitle>Local 3, Staff Meeting</unittitle>
                         <container id="cid34946" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34946" type="Folder">8</container>
-                        <unitdate>1983 Jan.-1983 Dec.</unitdate>
+                        <unitdate>Jan 1983 - Dec 1983</unitdate>
                     </did>
                 </c>
                 <c id="ref68" level="otherlevel">
@@ -591,7 +586,7 @@
                         <unittitle>Local 3, Staff Meeting</unittitle>
                         <container id="cid34945" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34945" type="Folder">9</container>
-                        <unitdate>1984 Jan.-1984 Dec.</unitdate>
+                        <unitdate>Jan 1984 - Dec 1984</unitdate>
                     </did>
                 </c>
                 <c id="ref69" level="otherlevel">
@@ -599,7 +594,7 @@
                         <unittitle>Local 3, Staff Meeting</unittitle>
                         <container id="cid34944" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34944" type="Folder">10</container>
-                        <unitdate>1985 Feb.-1985 May</unitdate>
+                        <unitdate>Feb 1985 - May 1985</unitdate>
                     </did>
                 </c>
                 <c id="ref70" level="otherlevel">
@@ -615,7 +610,7 @@
                         <unittitle>Local 3, Trial Committee</unittitle>
                         <container id="cid34942" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34942" type="Folder">12</container>
-                        <unitdate>1956 Oct. 17</unitdate>
+                        <unitdate>Oct 17, 1956</unitdate>
                     </did>
                 </c>
                 <c id="ref72" level="otherlevel">
@@ -623,7 +618,7 @@
                         <unittitle>Local 3, Welfare and Pension Funds-Trustee Meetings</unittitle>
                         <container id="cid34941" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34941" type="Folder">13</container>
-                        <unitdate>1956 Mar.-1956 Aug.</unitdate>
+                        <unitdate>Mar 1956 - Aug 1956</unitdate>
                     </did>
                 </c>
                 <c id="ref73" level="otherlevel">
@@ -631,7 +626,7 @@
                         <unittitle>Local 3, Wholesale Bread Contract Meeting (Handwritten and Typed)</unittitle>
                         <container id="cid34940" type="Box" label="Mixed materials (31142050275133)">3</container>
                         <container parent="cid34940" type="Folder">14</container>
-                        <unitdate>1973 Oct. 27</unitdate>
+                        <unitdate>Oct 27, 1973</unitdate>
                     </did>
                 </c>
                 <c id="ref74" level="otherlevel">
@@ -639,7 +634,7 @@
                         <unittitle>Local 17, Executive Board and Membership</unittitle>
                         <container id="cid34939" type="Box" label="Mixed materials (31142050275141)">4</container>
                         <container parent="cid34939" type="Folder">1</container>
-                        <unitdate>1931 Dec.-1938 Aug.</unitdate>
+                        <unitdate>Dec 1931 - Aug 1938</unitdate>
                     </did>
                     <odd id="ref75">
                         <head>General note</head>
@@ -651,7 +646,7 @@
                         <unittitle>Local 17, Executive Board and Membership</unittitle>
                         <container id="cid34938" type="Box" label="Mixed materials (31142050275141)">4</container>
                         <container parent="cid34938" type="Folder">2</container>
-                        <unitdate>1938 Sep.-1941 Oct.</unitdate>
+                        <unitdate>Sep 1938 - Oct 1941</unitdate>
                     </did>
                 </c>
                 <c id="ref77" level="otherlevel">
@@ -659,7 +654,7 @@
                         <unittitle>Local 17, Executive Board and Membership</unittitle>
                         <container id="cid34937" type="Box" label="Mixed materials (31142050275141)">4</container>
                         <container parent="cid34937" type="Folder">3</container>
-                        <unitdate>1947 Mar.-1949 May</unitdate>
+                        <unitdate>Mar 1947 - May 1949</unitdate>
                     </did>
                 </c>
                 <c id="ref78" level="otherlevel">
@@ -675,7 +670,7 @@
                         <unittitle>Local 17, Executive Board and Membership</unittitle>
                         <container id="cid34935" type="Box" label="Mixed materials (31142050275141)">4</container>
                         <container parent="cid34935" type="Folder">5</container>
-                        <unitdate>1952 Jan.-1954 Dec.</unitdate>
+                        <unitdate>Jan 1952 - Dec 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref80" level="otherlevel">
@@ -683,7 +678,7 @@
                         <unittitle>Local 17, Executive Board and Membership</unittitle>
                         <container id="cid34934" type="Box" label="Mixed materials (31142050275141)">4</container>
                         <container parent="cid34934" type="Folder">6</container>
-                        <unitdate>1955 Jan.-1955 May</unitdate>
+                        <unitdate>Jan 1955 - May 1955</unitdate>
                     </did>
                 </c>
                 <c id="ref81" level="otherlevel">
@@ -691,7 +686,7 @@
                         <unittitle>Local 51, Executive Board and Membership</unittitle>
                         <container id="cid34933" type="Box" label="Mixed materials (31142050275158)">5</container>
                         <container parent="cid34933" type="Folder">1</container>
-                        <unitdate>1942 Nov.-1946 Jan.</unitdate>
+                        <unitdate>Nov 1942 - Jan 1946</unitdate>
                     </did>
                 </c>
                 <c id="ref82" level="otherlevel">
@@ -699,7 +694,7 @@
                         <unittitle>Local 51, Executive Board and Membership</unittitle>
                         <container id="cid34932" type="Box" label="Mixed materials (31142050275158)">5</container>
                         <container parent="cid34932" type="Folder">2</container>
-                        <unitdate>1946 Jan.-1947 Nov.</unitdate>
+                        <unitdate>Jan 1946 - Nov 1947</unitdate>
                     </did>
                 </c>
                 <c id="ref83" level="otherlevel">
@@ -707,7 +702,7 @@
                         <unittitle>Local 51, Executive Board and Membership</unittitle>
                         <container id="cid34931" type="Box" label="Mixed materials (31142050275158)">5</container>
                         <container parent="cid34931" type="Folder">3</container>
-                        <unitdate>1947 Nov.-1949 Nov.</unitdate>
+                        <unitdate>Nov 1947 - Nov 1949</unitdate>
                     </did>
                 </c>
                 <c id="ref84" level="otherlevel">
@@ -715,7 +710,7 @@
                         <unittitle>Local 51, Executive Board and Membership</unittitle>
                         <container id="cid34930" type="Box" label="Mixed materials (31142050275158)">5</container>
                         <container parent="cid34930" type="Folder">4</container>
-                        <unitdate>1949 Nov.-1951 June</unitdate>
+                        <unitdate>Nov 1949 - Jun 1951</unitdate>
                     </did>
                 </c>
                 <c id="ref85" level="otherlevel">
@@ -723,7 +718,7 @@
                         <unittitle>Local 51, Executive Board and Membership</unittitle>
                         <container id="cid34929" type="Box" label="Mixed materials (31142050275158)">5</container>
                         <container parent="cid34929" type="Folder">5</container>
-                        <unitdate>1951 June-1953 May</unitdate>
+                        <unitdate>Jun 1951 - May 1953</unitdate>
                     </did>
                 </c>
                 <c id="ref86" level="otherlevel">
@@ -731,7 +726,7 @@
                         <unittitle>Local 51, Special Meeting (Transcript)</unittitle>
                         <container id="cid34928" type="Box" label="Mixed materials (31142050275158)">5</container>
                         <container parent="cid34928" type="Folder">6</container>
-                        <unitdate>1954 Aug. 24</unitdate>
+                        <unitdate>Aug 24, 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref87" level="otherlevel">
@@ -739,7 +734,7 @@
                         <unittitle>Local 51, Special Meeting (Transcript)</unittitle>
                         <container id="cid34927" type="Box" label="Mixed materials (31142050275158)">5</container>
                         <container parent="cid34927" type="Folder">7</container>
-                        <unitdate>1954 Oct.</unitdate>
+                        <unitdate>Oct 1954</unitdate>
                     </did>
                 </c>
                 <c id="ref88" level="otherlevel">
@@ -747,7 +742,7 @@
                         <unittitle>Local 51, Executive Board and Membership</unittitle>
                         <container id="cid34926" type="Box" label="Mixed materials (31142050275158)">5</container>
                         <container parent="cid34926" type="Folder">8</container>
-                        <unitdate>1953 June-1955 Jan.</unitdate>
+                        <unitdate>Jun 1953 - Jan 1955</unitdate>
                     </did>
                 </c>
                 <c id="ref89" level="otherlevel">
@@ -755,7 +750,7 @@
                         <unittitle>Local 51, Executive Board and Membership</unittitle>
                         <container id="cid34925" type="Box" label="Mixed materials (31142050275158)">5</container>
                         <container parent="cid34925" type="Folder">9</container>
-                        <unitdate>1957 Dec.-1961 Feb.</unitdate>
+                        <unitdate>Dec 1957 - Feb 1961</unitdate>
                     </did>
                 </c>
                 <c id="ref90" level="otherlevel">
@@ -771,7 +766,7 @@
                         <unittitle>Local 87, Executive Board</unittitle>
                         <container id="cid34923" type="Box" label="Mixed materials (31142050275158)">5</container>
                         <container parent="cid34923" type="Folder">11</container>
-                        <unitdate>1938 Jan.-1938 Dec.</unitdate>
+                        <unitdate>Jan 1938 - Dec 1938</unitdate>
                     </did>
                 </c>
                 <c id="ref92" level="otherlevel">
@@ -791,7 +786,7 @@
                         <unittitle>Local 164, Executive Board and Membership</unittitle>
                         <container id="cid34921" type="Box" label="Mixed materials (31142050275166)">6</container>
                         <container parent="cid34921" type="Folder">1</container>
-                        <unitdate normal="1928/1948" type="inclusive">1928 Dec.-1948 Oct.</unitdate>
+                        <unitdate normal="1928/1948" type="inclusive">Dec 1928 - Oct 1948</unitdate>
                     </did>
                     <odd id="ref95">
                         <head>General note</head>
@@ -803,7 +798,7 @@
                         <unittitle>Local 164, Membership</unittitle>
                         <container id="cid34920" type="Box" label="Mixed materials (31142050275166)">6</container>
                         <container parent="cid34920" type="Folder">2</container>
-                        <unitdate normal="1948/1955" type="inclusive">1948 Nov.-1955 Apr.</unitdate>
+                        <unitdate normal="1948/1955" type="inclusive">Nov 1948 - Apr 1955</unitdate>
                     </did>
                 </c>
                 <c id="ref97" level="otherlevel">
@@ -811,7 +806,7 @@
                         <unittitle>Local 164, Executive Board</unittitle>
                         <container id="cid34919" type="Box" label="Mixed materials (31142050275166)">6</container>
                         <container parent="cid34919" type="Folder">3</container>
-                        <unitdate>1941 Oct.-1945 Jan.</unitdate>
+                        <unitdate>Oct 1941 - Jan 1945</unitdate>
                     </did>
                 </c>
                 <c id="ref98" level="otherlevel">
@@ -819,7 +814,7 @@
                         <unittitle>Local 164, Executive Board</unittitle>
                         <container id="cid34918" type="Box" label="Mixed materials (31142050275166)">6</container>
                         <container parent="cid34918" type="Folder">4</container>
-                        <unitdate>1952 Jan.-1955 June</unitdate>
+                        <unitdate>Jan 1952 - Jan 1955</unitdate>
                     </did>
                 </c>
                 <c id="ref99" level="otherlevel">
@@ -827,7 +822,7 @@
                         <unittitle>Local 164, Executive Board</unittitle>
                         <container id="cid34917" type="Box" label="Mixed materials (31142050275166)">6</container>
                         <container parent="cid34917" type="Folder">5</container>
-                        <unitdate>1952 Jan.-1955 June</unitdate>
+                        <unitdate>Jan 1952 - Jun 1955</unitdate>
                     </did>
                 </c>
                 <c id="ref100" level="otherlevel">
@@ -835,7 +830,7 @@
                         <unittitle>Local 164, Financial Committee</unittitle>
                         <container id="cid34916" type="Box" label="Mixed materials (31142050275166)">6</container>
                         <container parent="cid34916" type="Folder">6</container>
-                        <unitdate>1942 Feb.-1951 Mar.</unitdate>
+                        <unitdate>Feb 1942 - Mar 1951</unitdate>
                     </did>
                 </c>
                 <c id="ref101" level="otherlevel">
@@ -843,7 +838,7 @@
                         <unittitle>Local 164, Westchester Branch, Executive Board and Membership</unittitle>
                         <container id="cid34915" type="Box" label="Mixed materials (31142050275166)">6</container>
                         <container parent="cid34915" type="Folder">7</container>
-                        <unitdate>1947 Jan.-1950 Mar.</unitdate>
+                        <unitdate>Jan 1947 - Mar 1950</unitdate>
                     </did>
                 </c>
                 <c id="ref102" level="otherlevel">
@@ -851,7 +846,7 @@
                         <unittitle>Local 338, Bagel Bakers Union-Executive Board</unittitle>
                         <container id="cid34914" type="Box" label="Mixed materials ( )">7</container>
                         <container parent="cid34914" type="Folder">1</container>
-                        <unitdate>Sep 1944 Sep-Jan 1955 </unitdate>
+                        <unitdate>Sep 1944 - Jan 1955 </unitdate>
                     </did>
                     <odd id="ref103">
                         <head>General note</head>
@@ -863,7 +858,7 @@
                         <unittitle>Local 338, Executive and Membership</unittitle>
                         <container id="cid34913" type="Box" label="Mixed materials ( )">7</container>
                         <container parent="cid34913" type="Folder">2</container>
-                        <unitdate>Jan 1955-Feb 1959 </unitdate>
+                        <unitdate>Jan 1955 - Feb 1959 </unitdate>
                     </did>
                 </c>
                 <c id="ref105" level="otherlevel">
@@ -879,7 +874,7 @@
                         <unittitle>Local 338, Executive Board</unittitle>
                         <container id="cid34911" type="Box" label="Mixed materials ( )">7</container>
                         <container parent="cid34911" type="Folder">4</container>
-                        <unitdate>1963 Jan.-1964 Feb.</unitdate>
+                        <unitdate>Jan 1963 - Feb 1964</unitdate>
                     </did>
                 </c>
                 <c id="ref107" level="otherlevel">
@@ -887,7 +882,7 @@
                         <unittitle>Local 338, Executive Board</unittitle>
                         <container id="cid34910" type="Box" label="Mixed materials ( )">7</container>
                         <container parent="cid34910" type="Folder">5</container>
-                        <unitdate>1964 Mar.-1964 Dec.</unitdate>
+                        <unitdate>Mar 1964 - Dec 1964</unitdate>
                     </did>
                 </c>
                 <c id="ref108" level="otherlevel">
@@ -895,7 +890,7 @@
                         <unittitle>Local 338, Executive Board</unittitle>
                         <container id="cid34909" type="Box" label="Mixed materials ( )">7</container>
                         <container parent="cid34909" type="Folder">6</container>
-                        <unitdate>1965 Jan.-1966 Feb.</unitdate>
+                        <unitdate>Jan 1965 - Feb 1966</unitdate>
                     </did>
                 </c>
                 <c id="ref109" level="otherlevel">
@@ -903,7 +898,7 @@
                         <unittitle>Local 338, Executive Board</unittitle>
                         <container id="cid34908" type="Box" label="Mixed materials ( )">7</container>
                         <container parent="cid34908" type="Folder">7</container>
-                        <unitdate>1966 Mar.-1966 Dec.</unitdate>
+                        <unitdate>Mar 1966 - Dec 1966</unitdate>
                     </did>
                 </c>
                 <c id="ref110" level="otherlevel">
@@ -911,7 +906,7 @@
                         <unittitle>Local 338, Executive Board</unittitle>
                         <container id="cid34907" type="Box" label="Mixed materials ( )">7</container>
                         <container parent="cid34907" type="Folder">8</container>
-                        <unitdate>1967 Jan.-1968 June</unitdate>
+                        <unitdate>Jan 1967 - Jun 1968</unitdate>
                     </did>
                 </c>
                 <c id="ref111" level="otherlevel">
@@ -919,7 +914,7 @@
                         <unittitle>Local 338, Membership</unittitle>
                         <container id="cid34906" type="Box" label="Mixed materials ( )">7</container>
                         <container parent="cid34906" type="Folder">9</container>
-                        <unitdate>1962 Jan.-1968 June</unitdate>
+                        <unitdate>Jan 1962 - Jun 1968</unitdate>
                     </did>
                 </c>
                 <c id="ref112" level="otherlevel">
@@ -927,7 +922,7 @@
                         <unittitle>Local 338, Special Nomination Meetings</unittitle>
                         <container id="cid34905" type="Box" label="Mixed materials ( )">7</container>
                         <container parent="cid34905" type="Folder">10</container>
-                        <unitdate>1963 Apr.-1967 Dec.</unitdate>
+                        <unitdate>Apr 1963 - Dec 1967</unitdate>
                     </did>
                 </c>
                 <c id="ref113" level="otherlevel">
@@ -935,7 +930,7 @@
                         <unittitle>Local 507, Executive Board</unittitle>
                         <container id="cid34904" type="Box" label="Mixed materials (31142050275174)">8</container>
                         <container parent="cid34904" type="Folder">1</container>
-                        <unitdate>1938 Sep.-1947 Jan.</unitdate>
+                        <unitdate>Sep 1938 - Jan 1947</unitdate>
                     </did>
                     <odd id="ref114">
                         <head>General note</head>
@@ -947,7 +942,7 @@
                         <unittitle>Local 507, Executive Board</unittitle>
                         <container id="cid34903" type="Box" label="Mixed materials (31142050275174)">8</container>
                         <container parent="cid34903" type="Folder">2</container>
-                        <unitdate>1939 July-1941 Oct.</unitdate>
+                        <unitdate>Jul 1939 - Oct 1941</unitdate>
                     </did>
                     <odd id="ref116">
                         <head>General note</head>
@@ -959,7 +954,7 @@
                         <unittitle>Local 579, Executive Board</unittitle>
                         <container id="cid34902" type="Box" label="Mixed materials (31142050275174)">8</container>
                         <container parent="cid34902" type="Folder">3</container>
-                        <unitdate>1946 Oct.-1947 Dec.</unitdate>
+                        <unitdate>Oct 1946 - Dec 1947</unitdate>
                     </did>
                 </c>
                 <c id="ref118" level="otherlevel">
@@ -967,7 +962,7 @@
                         <unittitle>Local 579, Executive Board</unittitle>
                         <container id="cid34901" type="Box" label="Mixed materials (31142050275174)">8</container>
                         <container parent="cid34901" type="Folder">4</container>
-                        <unitdate>1948 Jan.-1949 Dec.</unitdate>
+                        <unitdate>Jan 1948 - Dec 1949</unitdate>
                     </did>
                 </c>
                 <c id="ref119" level="otherlevel">
@@ -975,7 +970,7 @@
                         <unittitle>Local 579, Minutes</unittitle>
                         <container id="cid34900" type="Box" label="Mixed materials (31142050275174)">8</container>
                         <container parent="cid34900" type="Folder">5</container>
-                        <unitdate>1945 Mar.-1948 Nov.</unitdate>
+                        <unitdate>Mar 1945 - Nov 1948</unitdate>
                     </did>
                     <odd id="ref120">
                         <head>General note</head>
@@ -987,7 +982,7 @@
                         <unittitle>Local 579, Membership</unittitle>
                         <container id="cid34899" type="Box" label="Mixed materials (31142050275174)">8</container>
                         <container parent="cid34899" type="Folder">6</container>
-                        <unitdate>1946 Sept.-1955 May</unitdate>
+                        <unitdate>Sep 1946 - May 1955</unitdate>
                     </did>
                 </c>
                 <c id="ref122" level="otherlevel">
@@ -995,7 +990,7 @@
                         <unittitle>Local 579, Minutes</unittitle>
                         <container id="cid34898" type="Box" label="Mixed materials (31142050275174)">8</container>
                         <container parent="cid34898" type="Folder">7</container>
-                        <unitdate>1945 Mar.-1948 Nov.</unitdate>
+                        <unitdate>Mar 1945 - Nov 1948</unitdate>
                     </did>
                     <odd id="ref123">
                         <head>General note</head>
@@ -1007,7 +1002,7 @@
                         <unittitle>Local 579, Minutes</unittitle>
                         <container id="cid34897" type="Box" label="Mixed materials (31142050275174)">8</container>
                         <container parent="cid34897" type="Folder">8</container>
-                        <unitdate>1948 Nov.-1950 July</unitdate>
+                        <unitdate>Nov 1948 - Jul 1950</unitdate>
                     </did>
                     <odd id="ref125">
                         <head>General note</head>
@@ -1019,7 +1014,7 @@
                         <unittitle>Local 579, Minutes</unittitle>
                         <container id="cid34896" type="Box" label="Mixed materials (31142050275174)">8</container>
                         <container parent="cid34896" type="Folder">9</container>
-                        <unitdate>1950 Aug.-1952 Sep.</unitdate>
+                        <unitdate>Aug 1950 - Sep 1952</unitdate>
                     </did>
                     <odd id="ref127">
                         <head>General note</head>
@@ -1047,7 +1042,7 @@
                         <unittitle>Baking Industry Labor-Management Apprenticeship Council of Greater New York</unittitle>
                         <container id="cid34893" type="Box" label="Mixed materials (31142050275182)">9</container>
                         <container parent="cid34893" type="Folder">3</container>
-                        <unitdate>1977 Jan.</unitdate>
+                        <unitdate>Jan 1977</unitdate>
                     </did>
                 </c>
                 <c id="ref131" level="otherlevel">
@@ -1071,7 +1066,7 @@
                         <unittitle>Merger-Locals 1, 3, 17, 164, 288, 579</unittitle>
                         <container id="cid34890" type="Box" label="Mixed materials (31142050275182)">9</container>
                         <container parent="cid34890" type="Folder">6</container>
-                        <unitdate>1954 Dec.-1956 Apr.</unitdate>
+                        <unitdate>Dec 1954 - Apr 1956</unitdate>
                     </did>
                 </c>
                 <c id="ref134" level="otherlevel">
@@ -1101,11 +1096,12 @@
             </c>
             <c id="ref138" level="series">
                 <did>
-                    <unittitle>Series II: Officers' Papers, 1946-1987</unittitle>
+                    <unittitle>Series II: Officers' Papers</unittitle>
+                    <unitdate normal="1946/1987" type="inclusive">1946-1987</unitdate>
                 </did>
                 <scopecontent id="ref192">
                     <head>Scope and Contents note</head>
-                    <p>This series, which is arranged alphabetically and chronologically, contains the papers of Presidents Frank Dutto and Harry Lorber and includes two slim folders of the papers of Michael (Mac) Sandroff who served as Business Agent and Editor of the "Local 3 News" from 1955 until his retirement. Unfortunately the absence of many of Dutto's papers in the Collection belies his extensive activities. Of particular interest is an election leaflet from 1947 bearing his picture, and a map with the location of his cemetery plot. The bulk of the material in this series belongs to Lorber. In addition to general files and correspondence related to his activities with Locals 3 and 51, Lorber's papers document his presence at a score of hearings as a member of the International General Executive Board, as well as his involvement with the Baking Industry Labor-Management Apprenticeship Council. He was often called upon as a public speaker and a folder of his speeches can be found in this series.</p>
+                    <p>This series contains the papers of Presidents Frank Dutto and Harry Lorber and includes two slim folders of the papers of Michael (Mac) Sandroff who served as Business Agent and Editor of the "Local 3 News" from 1955 until his retirement. Unfortunately the absence of many of Dutto's papers in the Collection belies his extensive activities. Of particular interest is an election leaflet from 1947 bearing his picture, and a map with the location of his cemetery plot. The bulk of the material in this series belongs to Lorber. In addition to general files and correspondence related to his activities with Locals 3 and 51, Lorber's papers document his presence at a score of hearings as a member of the International General Executive Board, as well as his involvement with the Baking Industry Labor-Management Apprenticeship Council. He was often called upon as a public speaker and a folder of his speeches can be found in this series.</p>
                 </scopecontent>
                 <c id="ref139" level="otherlevel">
                     <did>
@@ -1199,7 +1195,7 @@
                         <unittitle>Lorber Papers, General Files and Correspondence</unittitle>
                         <container id="cid34875" type="Box" label="Mixed materials (31142050275190)">10</container>
                         <container parent="cid34875" type="Folder">12</container>
-                        <unitdate>1976 Jan.-1976 June</unitdate>
+                        <unitdate>Jan 1976 - Jun 1976</unitdate>
                     </did>
                 </c>
                 <c id="ref151" level="otherlevel">
@@ -1207,7 +1203,7 @@
                         <unittitle>Lorber Papers, General Files and Correspondence</unittitle>
                         <container id="cid34874" type="Box" label="Mixed materials (31142050275190)">10</container>
                         <container parent="cid34874" type="Folder">13</container>
-                        <unitdate>1976 July-1976 Dec.</unitdate>
+                        <unitdate>Jul 1976 - Dec 1976</unitdate>
                     </did>
                 </c>
                 <c id="ref152" level="otherlevel">
@@ -1247,7 +1243,7 @@
                         <unittitle>Lorber Papers, International Foundation of Employment Benefit Plans '79 Annual Conference-Lorber Moderator</unittitle>
                         <container id="cid34869" type="Box" label="Mixed materials (31142050275190)">10</container>
                         <container parent="cid34869" type="Folder">18</container>
-                        <unitdate>1979 Oct.</unitdate>
+                        <unitdate>Oct 1979</unitdate>
                     </did>
                 </c>
                 <c id="ref157" level="otherlevel">
@@ -1255,7 +1251,7 @@
                         <unittitle>Lorber Papers, International Association of Industrial Accident Board and Commissions</unittitle>
                         <container id="cid34868" type="Box" label="Mixed materials (31142050275190)">10</container>
                         <container parent="cid34868" type="Folder">19</container>
-                        <unitdate>1979 Sep.</unitdate>
+                        <unitdate>Sep 1979</unitdate>
                     </did>
                 </c>
                 <c id="ref158" level="otherlevel">
@@ -1359,7 +1355,7 @@
                         <unittitle>Lorber Papers, Hearings-Benjamin v. Local 354 (Elmira, NY)</unittitle>
                         <container id="cid34855" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34855" type="Folder">1</container>
-                        <unitdate>1971 Dec.</unitdate>
+                        <unitdate>Dec 1971</unitdate>
                     </did>
                 </c>
                 <c id="ref171" level="otherlevel">
@@ -1367,7 +1363,7 @@
                         <unittitle>Lorber Papers, Hearings-Benjamin v. Local 252 (Calgary, Alberta)</unittitle>
                         <container id="cid34854" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34854" type="Folder">2</container>
-                        <unitdate>1971 Dec.-1972 Jan.</unitdate>
+                        <unitdate>Dec 1971 - Jan 1972</unitdate>
                     </did>
                 </c>
                 <c id="ref172" level="otherlevel">
@@ -1375,7 +1371,7 @@
                         <unittitle>Lorber Papers, Hearings-Brill et al v. Local 372B (Indianapolis, IN)</unittitle>
                         <container id="cid34853" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34853" type="Folder">3</container>
-                        <unitdate>1978 Sep.</unitdate>
+                        <unitdate>Sep 1978</unitdate>
                     </did>
                 </c>
                 <c id="ref173" level="otherlevel">
@@ -1383,7 +1379,7 @@
                         <unittitle>Lorber Papers, Hearings-Graeves v. Local 37 (Los Angeles, CA)</unittitle>
                         <container id="cid34852" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34852" type="Folder">4</container>
-                        <unitdate>1974 Feb.</unitdate>
+                        <unitdate>Feb 1974</unitdate>
                     </did>
                 </c>
                 <c id="ref174" level="otherlevel">
@@ -1391,7 +1387,7 @@
                         <unittitle>Lorber Papers, Hearings-R. Hall (Local 163-Houston, TX) v. S. Pryor</unittitle>
                         <container id="cid34851" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34851" type="Folder">5</container>
-                        <unitdate>1978 Nov.</unitdate>
+                        <unitdate>Nov 1978</unitdate>
                     </did>
                 </c>
                 <c id="ref175" level="otherlevel">
@@ -1399,7 +1395,7 @@
                         <unittitle>Lorber Papers, Hearings-Hernandez v. Local 163 (Houston, TX)</unittitle>
                         <container id="cid34850" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34850" type="Folder">6</container>
-                        <unitdate>1972 Oct.</unitdate>
+                        <unitdate>Oct 1972</unitdate>
                     </did>
                 </c>
                 <c id="ref176" level="otherlevel">
@@ -1407,7 +1403,7 @@
                         <unittitle>Lorber Papers, Hearings-Holmes Appeal Local 149 (Memphis, TN)</unittitle>
                         <container id="cid34849" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34849" type="Folder">7</container>
-                        <unitdate>1984 May-1984 June</unitdate>
+                        <unitdate>May 1984 - Jun 1984</unitdate>
                     </did>
                 </c>
                 <c id="ref177" level="otherlevel">
@@ -1415,7 +1411,7 @@
                         <unittitle>Lorber Papers, Hearings-R. Horton Local 315 (San Diego, CA)</unittitle>
                         <container id="cid34848" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34848" type="Folder">8</container>
-                        <unitdate>1974 Jan.</unitdate>
+                        <unitdate>Jan 1974</unitdate>
                     </did>
                 </c>
                 <c id="ref178" level="otherlevel">
@@ -1423,7 +1419,7 @@
                         <unittitle>Lorber Papers, Hearings-Hummel v. Officers of Local 492 (Philadelphia, PA)</unittitle>
                         <container id="cid34847" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34847" type="Folder">9</container>
-                        <unitdate>1979 Sep.</unitdate>
+                        <unitdate>Sep 1979</unitdate>
                     </did>
                 </c>
                 <c id="ref179" level="otherlevel">
@@ -1431,7 +1427,7 @@
                         <unittitle>Lorber Papers, Hearings-Hummel v. Officers of Local 492-Supporting Material (Philadelphia, PA)</unittitle>
                         <container id="cid34846" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34846" type="Folder">10</container>
-                        <unitdate>1979 Sep.</unitdate>
+                        <unitdate>Sep 1979</unitdate>
                     </did>
                 </c>
                 <c id="ref180" level="otherlevel">
@@ -1439,7 +1435,7 @@
                         <unittitle>Lorber Papers, Hearings-Kelly v. Local 66 (Buena Park, CA)</unittitle>
                         <container id="cid34845" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34845" type="Folder">11</container>
-                        <unitdate>1972 July</unitdate>
+                        <unitdate>Jul 1972</unitdate>
                     </did>
                 </c>
                 <c id="ref181" level="otherlevel">
@@ -1447,7 +1443,7 @@
                         <unittitle>Lorber Papers, Hearings-Judkin v. Local 372B (Indianapolis, IN)</unittitle>
                         <container id="cid34844" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34844" type="Folder">12</container>
-                        <unitdate>1971 Nov.</unitdate>
+                        <unitdate>Nov 1971</unitdate>
                     </did>
                 </c>
                 <c id="ref182" level="otherlevel">
@@ -1455,7 +1451,7 @@
                         <unittitle>Lorber Papers, Hearings-Local 81 Protest of Offices' Election (Traverse City, MI)</unittitle>
                         <container id="cid34843" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34843" type="Folder">13</container>
-                        <unitdate>1984 Nov.</unitdate>
+                        <unitdate>Nov 1984</unitdate>
                     </did>
                 </c>
                 <c id="ref183" level="otherlevel">
@@ -1463,7 +1459,7 @@
                         <unittitle>Lorber Papers, Hearings-Local 434 (Macon, GA)</unittitle>
                         <container id="cid34842" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34842" type="Folder">14</container>
-                        <unitdate>1977 Mar.</unitdate>
+                        <unitdate>Mar 1977</unitdate>
                     </did>
                 </c>
                 <c id="ref184" level="otherlevel">
@@ -1471,7 +1467,7 @@
                         <unittitle>Lorber Papers, Hearings-McIntyre Appeal Local 50 (New York)</unittitle>
                         <container id="cid34841" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34841" type="Folder">15</container>
-                        <unitdate>1980 Oct.</unitdate>
+                        <unitdate>Oct 1980</unitdate>
                     </did>
                 </c>
                 <c id="ref185" level="otherlevel">
@@ -1479,7 +1475,7 @@
                         <unittitle>Lorber Papers, Hearings-Medina v. Local 163 (Houston, TX)</unittitle>
                         <container id="cid34840" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34840" type="Folder">16</container>
-                        <unitdate>1974 July</unitdate>
+                        <unitdate>Jul 1974</unitdate>
                     </did>
                 </c>
                 <c id="ref186" level="otherlevel">
@@ -1495,7 +1491,7 @@
                         <unittitle>Lorber Papers, Hearings-Nails v. Local 163 (Houston, TX)</unittitle>
                         <container id="cid34838" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34838" type="Folder">18</container>
-                        <unitdate>1973 May</unitdate>
+                        <unitdate>May 1973</unitdate>
                     </did>
                 </c>
                 <c id="ref188" level="otherlevel">
@@ -1511,7 +1507,7 @@
                         <unittitle>Lorber Papers, Hearings-Trustee Hearing Local 213 (Cincinnati, OH)</unittitle>
                         <container id="cid34836" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34836" type="Folder">20</container>
-                        <unitdate>1986 Oct.</unitdate>
+                        <unitdate>Oct 1986</unitdate>
                     </did>
                 </c>
                 <c id="ref190" level="otherlevel">
@@ -1519,7 +1515,7 @@
                         <unittitle>Lorber Papers, Hearings-Trusteeship Hearing Local 233 (Danville, VA)</unittitle>
                         <container id="cid34835" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34835" type="Folder">21</container>
-                        <unitdate>1987 Jan.</unitdate>
+                        <unitdate>Jan 1987</unitdate>
                     </did>
                 </c>
                 <c id="ref191" level="otherlevel">
@@ -1527,17 +1523,18 @@
                         <unittitle>Lorber Papers, Hearings-Trusteeship Hearing Local 452 (Brooklyn, NY)</unittitle>
                         <container id="cid34834" type="Box" label="Mixed materials (31142050275208)">11</container>
                         <container parent="cid34834" type="Folder">22</container>
-                        <unitdate>1987 Oct.</unitdate>
+                        <unitdate>Oct 1987</unitdate>
                     </did>
                 </c>
             </c>
             <c id="ref193" level="series">
                 <did>
-                    <unittitle>Series III: Bargaining and Arbitration Records, 1954-1987</unittitle>
+                    <unittitle>Series III: Bargaining and Arbitration Records</unittitle>
+                    <unitdate normal="1954/1987" type="inclusive">1954-1987</unitdate>
                 </did>
                 <scopecontent id="ref220">
                     <head>Scope and Contents note</head>
-                    <p>This series contains Local 3 standard contracts, agreements and negotiation notes, arranged by year. Also included at the end of this series are four files of notes and contracts pertaining to Locals 51, 153, 579 and the Specialty Bakery Owners of America. Included in these files can be found the negotiation notes of Frank Dutto, Harry Lorber and Michael Sandroff. (Note: For the arbitration between Local 3 and particular shops, consult Series IV: Shop Files.)</p>
+                    <p>This series contains Local 3 standard contracts, agreements and negotiation notes. Also included at the end of this series are four files of notes and contracts pertaining to Locals 51, 153, 579 and the Specialty Bakery Owners of America. Included in these files can be found the negotiation notes of Frank Dutto, Harry Lorber and Michael Sandroff. (Note: For the arbitration between Local 3 and particular shops, consult Series IV: Shop Files.)</p>
                 </scopecontent>
                 <c id="ref194" level="otherlevel">
                     <did>
@@ -1750,11 +1747,12 @@
             </c>
             <c id="ref221" level="series">
                 <did>
-                    <unittitle>Series IV: Shop Files, 1964-1989</unittitle>
+                    <unittitle>Series IV: Shop Files</unittitle>
+                    <unitdate normal="1964/1989" type="inclusive">1964-1989</unitdate>
                 </did>
                 <scopecontent id="ref660">
                     <head>Scope and Contents note</head>
-                    <p>These files are arranged alphabetically by shop. All materials dealing with contract negotiation and disputes pertaining to a particular shop or company can be found in these files. Represented here are Local 3's bargaining sessions and agreements with small family-run bake shops, as well as protracted negotiations with corporate entities such as Drakes, Entenmann's and Ellio's Pizza House. In 1974 fierce negotiations took place between union and management at Ellio's -- a tri-lingual shop. Of particular interest are the leaflets in English, Greek, and Spanish that were generated during the conflict. Matzoh-Noodle Shops, Bagel Shops, and the New Jersey Division held separate collective bargaining sessions and files document these negotiations. In a sub-series called "Shops Closed" are the records that the union kept from 1964 - 1976 of shops that either went out of business or ended their union affiliation.</p>
+                    <p>All materials dealing with contract negotiation and disputes pertaining to a particular shop or company can be found in these files. Represented here are Local 3's bargaining sessions and agreements with small family-run bake shops, as well as protracted negotiations with corporate entities such as Drakes, Entenmann's and Ellio's Pizza House. In 1974 fierce negotiations took place between union and management at Ellio's -- a tri-lingual shop. Of particular interest are the leaflets in English, Greek, and Spanish that were generated during the conflict. Matzoh-Noodle Shops, Bagel Shops, and the New Jersey Division held separate collective bargaining sessions and files document these negotiations. In a sub-series called "Shops Closed" are the records that the union kept from 1964 - 1976 of shops that either went out of business or ended their union affiliation.</p>
                 </scopecontent>
                 <c id="ref222" level="otherlevel">
                     <did>
@@ -2145,7 +2143,7 @@
                         <unittitle>Drakes</unittitle>
                         <container id="cid34759" type="Box" label="Mixed materials (31142050275224)">13</container>
                         <container parent="cid34759" type="Folder">49</container>
-                        <unitdate>1984 Jan.-1984 May</unitdate>
+                        <unitdate>Jan 1984 - May 1984</unitdate>
                     </did>
                 </c>
                 <c id="ref271" level="otherlevel">
@@ -2153,7 +2151,7 @@
                         <unittitle>Drakes</unittitle>
                         <container id="cid34758" type="Box" label="Mixed materials (31142050275224)">13</container>
                         <container parent="cid34758" type="Folder">50</container>
-                        <unitdate>1984 June-1984 Dec.</unitdate>
+                        <unitdate>Jun 1984 - Dec 1984</unitdate>
                     </did>
                 </c>
                 <c id="ref272" level="otherlevel">
@@ -2249,7 +2247,7 @@
                         <unittitle>Ellio's Pizza House, Organizing Campaign</unittitle>
                         <container id="cid34745" type="Box" label="Mixed materials (31142050275232)">14</container>
                         <container parent="cid34745" type="Folder">9</container>
-                        <unitdate>1974 Sep.-1974 Dec.</unitdate>
+                        <unitdate>Sep 1974 - Dec 1974</unitdate>
                     </did>
                 </c>
                 <c id="ref285" level="otherlevel">
@@ -2361,7 +2359,7 @@
                         <unittitle>Entenmann's</unittitle>
                         <container id="cid34731" type="Box" label="Mixed materials (31142050275240)">15</container>
                         <container parent="cid34731" type="Folder">3</container>
-                        <unitdate>1981 Jan.-1981 June</unitdate>
+                        <unitdate>Jan 1981 - Jun 1981</unitdate>
                     </did>
                 </c>
                 <c id="ref299" level="otherlevel">
@@ -2369,7 +2367,7 @@
                         <unittitle>Entenmann's</unittitle>
                         <container id="cid34730" type="Box" label="Mixed materials (31142050275240)">15</container>
                         <container parent="cid34730" type="Folder">4</container>
-                        <unitdate>1981 July-1981 Dec.</unitdate>
+                        <unitdate>Jul 1981 - Dec 1981</unitdate>
                     </did>
                 </c>
                 <c id="ref300" level="otherlevel">
@@ -2401,7 +2399,7 @@
                         <unittitle>Entenmann's</unittitle>
                         <container id="cid34726" type="Box" label="Mixed materials (31142050275240)">15</container>
                         <container parent="cid34726" type="Folder">8</container>
-                        <unitdate>1986 Jan.-1986 May</unitdate>
+                        <unitdate>Jan 1986 - May 1986</unitdate>
                     </did>
                 </c>
                 <c id="ref304" level="otherlevel">
@@ -2441,7 +2439,7 @@
                         <unittitle>Entenmann's, Legal-Local 50 Health Benefits Fund v. Local 3</unittitle>
                         <container id="cid34721" type="Box" label="Mixed materials (31142050275240)">15</container>
                         <container parent="cid34721" type="Folder">13</container>
-                        <unitdate>1982 June-1982 July</unitdate>
+                        <unitdate>Jun 1982 - Jul 1982</unitdate>
                     </did>
                 </c>
                 <c id="ref309" level="otherlevel">
@@ -2449,7 +2447,7 @@
                         <unittitle>Entenmann's, Legal-Local 50 Health Benefits Fund v. Local 3</unittitle>
                         <container id="cid34720" type="Box" label="Mixed materials (31142050275240)">15</container>
                         <container parent="cid34720" type="Folder">14</container>
-                        <unitdate>1982 July-1982 Aug.</unitdate>
+                        <unitdate>Jul 1982 - Aug 1982</unitdate>
                     </did>
                 </c>
                 <c id="ref310" level="otherlevel">
@@ -2457,7 +2455,7 @@
                         <unittitle>Entenmann's, Legal-Local 50 Health Benefits Fund v. Local 3</unittitle>
                         <container id="cid34719" type="Box" label="Mixed materials (31142050275240)">15</container>
                         <container parent="cid34719" type="Folder">15</container>
-                        <unitdate>1982 Aug.</unitdate>
+                        <unitdate>Aug 1982</unitdate>
                     </did>
                 </c>
                 <c id="ref311" level="otherlevel">
@@ -2465,7 +2463,7 @@
                         <unittitle>Entenmann's, Legal-Local 50 Health Benefits Fund v. Local 3</unittitle>
                         <container id="cid34718" type="Box" label="Mixed materials (31142050275240)">15</container>
                         <container parent="cid34718" type="Folder">16</container>
-                        <unitdate>1983 Mar.</unitdate>
+                        <unitdate>Mar 1983</unitdate>
                     </did>
                 </c>
                 <c id="ref312" level="otherlevel">
@@ -2633,7 +2631,7 @@
                         <unittitle>Gnome Baking Company (Fink Subsidiary)</unittitle>
                         <container id="cid34697" type="Box" label="Mixed materials (31142050275257)">16</container>
                         <container parent="cid34697" type="Folder">10</container>
-                        <unitdate normal="1979/1981" type="inclusive">1979, , 1981</unitdate>
+                        <unitdate normal="1979/1981" type="inclusive">1979, 1981</unitdate>
                     </did>
                 </c>
                 <c id="ref333" level="otherlevel">
@@ -2641,7 +2639,7 @@
                         <unittitle>Gnome Baking Company (Fink Subsidiary), Office Workers</unittitle>
                         <container id="cid34696" type="Box" label="Mixed materials (31142050275257)">16</container>
                         <container parent="cid34696" type="Folder">11</container>
-                        <unitdate normal="1982/1985" type="inclusive">1982, , 1985</unitdate>
+                        <unitdate normal="1982/1985" type="inclusive">1982, 1985</unitdate>
                     </did>
                 </c>
                 <c id="ref334" level="otherlevel">
@@ -2897,7 +2895,7 @@
                         <unittitle>Industrial Devices, Inc.</unittitle>
                         <container id="cid34664" type="Box" label="Mixed materials (31142050275257)">16</container>
                         <container parent="cid34664" type="Folder">43</container>
-                        <unitdate>1976 May-1976 Dec.</unitdate>
+                        <unitdate>May 1976 - Dec 1976</unitdate>
                     </did>
                 </c>
                 <c id="ref366" level="otherlevel">
@@ -3329,7 +3327,7 @@
                         <unittitle>New Colonial Bakery</unittitle>
                         <container id="cid34610" type="Box" label="Mixed materials (31142050275265)">17</container>
                         <container parent="cid34610" type="Folder">48</container>
-                        <unitdate normal="1981/1987" type="inclusive">1981, , 1987</unitdate>
+                        <unitdate normal="1981/1987" type="inclusive">1981, 1987</unitdate>
                     </did>
                 </c>
                 <c id="ref420" level="otherlevel">
@@ -3337,7 +3335,7 @@
                         <unittitle>New Jersey Division</unittitle>
                         <container id="cid34609" type="Box" label="Mixed materials (31142050275265)">17</container>
                         <container parent="cid34609" type="Folder">49</container>
-                        <unitdate normal="1971/1973" type="inclusive">1971, , 1973</unitdate>
+                        <unitdate normal="1971/1973" type="inclusive">1971, 1973</unitdate>
                     </did>
                 </c>
                 <c id="ref421" level="otherlevel">
@@ -3417,7 +3415,7 @@
                         <unittitle>Paterson Bagel Company</unittitle>
                         <container id="cid34599" type="Box" label="Mixed materials (31142050275273)">18</container>
                         <container parent="cid34599" type="Folder">8</container>
-                        <unitdate normal="1976/1983" type="inclusive">1976, , 1983</unitdate>
+                        <unitdate normal="1976/1983" type="inclusive">1976, 1983</unitdate>
                     </did>
                 </c>
                 <c id="ref431" level="otherlevel">
@@ -5254,11 +5252,12 @@
             </c>
             <c id="ref661" level="series">
                 <did>
-                    <unittitle>Series V: Local 3, Subjects, 1954-1989</unittitle>
+                    <unittitle>Series V: Local 3, Subjects</unittitle>
+                    <unitdate normal="1954/1989" type="inclusive">1954-1989</unitdate>
                 </did>
                 <scopecontent id="ref745">
                     <head>Scope and Contents note</head>
-                    <p>This series, an array of documents relating to the activities and concerns of Local 3, are arranged alphabetically by subject. Election fliers, ballot and campaign materials from the 1950s through the 1980s offer insight into the evolution of the union. A union label file provides excellent and colorful examples of union labels for bread. Also of interest are the files that document corruption within the baking trade in the early 1960s (See: James Cross; Daniel Motto). Many of these subject files may have been used as research material in the monthly publication of "The Local 3 News." Michael Sandroff's notes for the Local 3's 1967 publication of its history, "Progress Through Unity," can also be found here as can his unpublished memoir "I Paid My Dues."</p>
+                    <p>This series contains election fliers, ballot and campaign materials from the 1950s through the 1980s that offer insight into the evolution of the union. A union label file provides excellent and colorful examples of union labels for bread. Also of interest are the files that document corruption within the baking trade in the early 1960s (See: James Cross; Daniel Motto). Many of these subject files may have been used as research material in the monthly publication of "The Local 3 News." Michael Sandroff's notes for the Local 3's 1967 publication of its history, "Progress Through Unity," can also be found here as can his unpublished memoir "I Paid My Dues."</p>
                 </scopecontent>
                 <c id="ref662" level="otherlevel">
                     <did>
@@ -5353,7 +5352,7 @@
                         <unittitle>Arbitration and Holidays</unittitle>
                         <container id="cid34358" type="Box" label="Mixed materials (31142050275307)">21</container>
                         <container parent="cid34358" type="Folder">11</container>
-                        <unitdate normal="1962/1977" type="inclusive">1962, , 1975-1977</unitdate>
+                        <unitdate normal="1962/1977" type="inclusive">1962, 1975-1977</unitdate>
                     </did>
                 </c>
                 <c id="ref674" level="otherlevel">
@@ -5409,7 +5408,7 @@
                         <unittitle>Black History Month Program</unittitle>
                         <container id="cid34351" type="Box" label="Mixed materials (31142050275307)">21</container>
                         <container parent="cid34351" type="Folder">17</container>
-                        <unitdate>22 Feb, 1975</unitdate>
+                        <unitdate>Feb 22, 1975</unitdate>
                     </did>
                 </c>
                 <c id="ref681" level="otherlevel">
@@ -5529,7 +5528,7 @@
                         <unittitle>(Frank) Dutto Banquet</unittitle>
                         <container id="cid34336" type="Box" label="Mixed materials (31142050275307)">21</container>
                         <container parent="cid34336" type="Folder">32</container>
-                        <unitdate>1969 Jun. 4</unitdate>
+                        <unitdate>Jun 4, 1969</unitdate>
                     </did>
                 </c>
                 <c id="ref696" level="otherlevel">
@@ -5633,7 +5632,7 @@
                         <unittitle>Kralstein Address to Local 3</unittitle>
                         <container id="cid34323" type="Box" label="Mixed materials (31142050275315)">22</container>
                         <container parent="cid34323" type="Folder">6</container>
-                        <unitdate>1962 Dec. 15</unitdate>
+                        <unitdate>Dec 15, 1962</unitdate>
                     </did>
                 </c>
                 <c id="ref709" level="otherlevel">
@@ -5689,7 +5688,7 @@
                         <unittitle>Organization Reports</unittitle>
                         <container id="cid34316" type="Box" label="Mixed materials (31142050275315)">22</container>
                         <container parent="cid34316" type="Folder">13</container>
-                        <unitdate>1968 Jan.</unitdate>
+                        <unitdate>Jan 1968</unitdate>
                     </did>
                 </c>
                 <c id="ref716" level="otherlevel">
@@ -5857,7 +5856,7 @@
                         <unittitle>Senior Citizens, Local 3 Seniors Club and General Clippings</unittitle>
                         <container id="cid34295" type="Box" label="Mixed materials (31142050275315)">22</container>
                         <container parent="cid34295" type="Folder">34</container>
-                        <unitdate normal="1960/1993" type="inclusive">undated , ca. 1970-1989</unitdate>
+                        <unitdate normal="1960/1993" type="inclusive">undated, circa 1970-1989</unitdate>
                     </did>
                 </c>
                 <c id="ref737" level="otherlevel">
@@ -5927,7 +5926,8 @@
             </c>
             <c id="ref746" level="series">
                 <did>
-                    <unittitle>Series VI: Welfare and Pension Fund, 1955-1988</unittitle>
+                    <unittitle>Series VI: Welfare and Pension Fund</unittitle>
+                    <unitdate normal="1955/1988" type="inclusive">1955-1988</unitdate>
                 </did>
                 <scopecontent id="ref768">
                     <head>Scope and Contents note</head>
@@ -6058,13 +6058,15 @@
                         <unittitle>Local 3, Welfare and Pension Fund, General Files/Correspondence</unittitle>
                         <container id="cid34271" type="Box" label="Mixed materials (31142050275323)">23</container>
                         <container parent="cid34271" type="Folder">16</container>
-                        <unitdate normal="1974/1983" type="inclusive">undated , 1974-1983</unitdate>
+                        <unitdate normal="1974/1983" type="inclusive">undated, 1974-1983</unitdate>
                     </did>
                 </c>
                 <c id="ref763" level="otherlevel">
                     <did>
-                        <unittitle>Local 3 Welfare and Pension Fund, International Sick &amp; Death Benefit Fund Application A-B</unittitle>
-                        <unitdate normal="1983/1986" type="inclusive">1983, , 1986</unitdate>
+                        <unittitle>Local 3, Welfare and Pension Fund, General Files/Correspondence</unittitle>
+                        <container id="cid34270" type="Box" label="Mixed materials">23</container>
+                        <container parent="cid34270" type="Folder">17</container>
+                        <unitdate normal="1983/1986" type="inclusive">1983, 1986</unitdate>
                     </did>
                     <odd id="ref764">
                         <head>General note</head>
@@ -6073,30 +6075,37 @@
                 </c>
                 <c id="ref765" level="otherlevel">
                     <did>
-                        <unittitle>Local 3 Welfare and Pension Fund, Pension Fund Report</unittitle>
+                        <unittitle>Local 3, Welfare and Pension Fund, Pension Fund Report</unittitle>
+                        <container id="cid34269" type="Box" label="Mixed materials">23</container>
+                        <container parent="cid34269" type="Folder">18</container>
                         <unitdate normal="1955/1955">1955</unitdate>
                     </did>
                 </c>
                 <c id="ref766" level="otherlevel">
                     <did>
-                        <unittitle>Local 3 Welfare and Pension Fund, Pension Fund Report</unittitle>
+                        <unittitle>Local 3, Welfare and Pension Fund, Pension Fund Report</unittitle>
+                        <container id="cid34268" type="Box" label="Mixed materials">23</container>
+                        <container parent="cid34268" type="Folder">19</container>
                         <unitdate normal="1956/1956">1956</unitdate>
                     </did>
                 </c>
                 <c id="ref767" level="otherlevel">
                     <did>
-                        <unittitle>Local 3 Welfare and Pension Fund, Retirement Benefit Plan</unittitle>
+                        <unittitle>Local 3, Welfare and Pension Fund, Retirement Benefit Plan</unittitle>
+                        <container id="cid34267" type="Box" label="Mixed materials">23</container>
+                        <container parent="cid34267" type="Folder">20</container>
                         <unitdate normal="1981/1981">1981</unitdate>
                     </did>
                 </c>
             </c>
             <c id="ref769" level="series">
                 <did>
-                    <unittitle>Series VII: General Files, 1902-1978</unittitle>
+                    <unittitle>Series VII: General Files</unittitle>
+                    <unitdate normal="1902/1978" type="inclusive">1902-1978</unitdate>
                 </did>
                 <scopecontent id="ref835">
                     <head>Scope and Contents note</head>
-                    <p>This series is arranged alphabetically by organization and topic. Included here are the general files and correspondence of the original six unions (Locals 1, 3, 17, 164, 579) that merged to create Local 3 in 1955 as well as a number of other local unions that subsequently merged with Local 3 including Cake Baker's Union Local 51. Insurance claim forms in English and in German from old Local 3, dating from the turn of the century, are located here and represent the oldest documents in the Collection. Also of note are election leaflets from Local 338 which are in Yiddish. Of particular interest are the merger-related documents, including a file on the proposed alliance between the Bakers Union and the International Brotherhood of Teamsters. Included are papers that cover the meetings and negotiations that preceded the 1955 merger, the reunification of the International Union, and the merger between Locals 3 and 51. 
+                    <p>Included in this series are the general files and correspondence of the original six unions (Locals 1, 3, 17, 164, 579) that merged to create Local 3 in 1955 as well as a number of other local unions that subsequently merged with Local 3 including Cake Baker's Union Local 51. Insurance claim forms in English and in German from old Local 3, dating from the turn of the century, are located here and represent the oldest documents in the Collection. Also of note are election leaflets from Local 338 which are in Yiddish. Of particular interest are the merger-related documents, including a file on the proposed alliance between the Bakers Union and the International Brotherhood of Teamsters. Included are papers that cover the meetings and negotiations that preceded the 1955 merger, the reunification of the International Union, and the merger between Locals 3 and 51. 
                         <emph render="bold">NOTE: Boxes 25 is missing as of March 2011.</emph></p>
                 </scopecontent>
                 <c id="ref770" level="otherlevel">
@@ -6104,7 +6113,7 @@
                         <unittitle>Amalgamated Food Workers, 5th Biennial Convention</unittitle>
                         <container id="cid34266" type="Box" label="Mixed materials ( )">24</container>
                         <container parent="cid34266" type="Folder">1</container>
-                        <unitdate>1929 Dec. 7</unitdate>
+                        <unitdate>Dec 7, 1929</unitdate>
                     </did>
                 </c>
                 <c id="ref771" level="otherlevel">
@@ -6184,7 +6193,7 @@
                         <unittitle>Jurisdiction, Hearing Transcript</unittitle>
                         <container id="cid34256" type="Box" label="Mixed materials ( )">24</container>
                         <container parent="cid34256" type="Folder">11</container>
-                        <unitdate>1952 Oct. 20-22</unitdate>
+                        <unitdate>Oct 20, 1952 - Oct 22, 1952</unitdate>
                     </did>
                 </c>
                 <c id="ref781" level="otherlevel">
@@ -6429,7 +6438,7 @@
                         <unittitle>Local 51, Dues Books (Joseph Bless)</unittitle>
                         <container id="cid34233" type="Box" label="Mixed materials ( )">25</container>
                         <container parent="cid34233" type="Folder">6</container>
-                        <unitdate normal="1912/1951" type="inclusive">1912-1923, , 1948-1951</unitdate>
+                        <unitdate normal="1912/1951" type="inclusive">1912-1923, 1948-1951</unitdate>
                     </did>
                 </c>
                 <c id="ref816" level="otherlevel">
@@ -6453,7 +6462,7 @@
                         <unittitle>Local 51, General Files/Correspondence</unittitle>
                         <container id="cid34230" type="Box" label="Mixed materials ( )">25</container>
                         <container parent="cid34230" type="Folder">10</container>
-                        <unitdate normal="1959/1971" type="inclusive">1959-1961, , 1971</unitdate>
+                        <unitdate normal="1959/1971" type="inclusive">1959-1961, 1971</unitdate>
                     </did>
                 </c>
                 <c id="ref819" level="otherlevel">
@@ -6469,7 +6478,7 @@
                         <unittitle>Local 51, Erlich 50th Wedding Anniversary, Cake and Art Exhibit</unittitle>
                         <container id="cid34228" type="Box" label="Mixed materials ( )">25</container>
                         <container parent="cid34228" type="Folder">12</container>
-                        <unitdate>1970 Feb. 28</unitdate>
+                        <unitdate>Feb 28, 1970</unitdate>
                     </did>
                 </c>
                 <c id="ref821" level="otherlevel">
@@ -6509,7 +6518,7 @@
                         <unittitle>Local 338, Correspondence</unittitle>
                         <container id="cid34224" type="Box" label="Mixed materials ( )">25</container>
                         <container parent="cid34224" type="Folder">16</container>
-                        <unitdate>1963 Feb.-1964 Dec.</unitdate>
+                        <unitdate>Feb 1963 - Dec 1964</unitdate>
                     </did>
                 </c>
                 <c id="ref827" level="otherlevel">
@@ -6517,7 +6526,7 @@
                         <unittitle>Local 338, Correspondence</unittitle>
                         <container id="cid34223" type="Box" label="Mixed materials ( )">25</container>
                         <container parent="cid34223" type="Folder">17</container>
-                        <unitdate>1965 Jan.-1971 May</unitdate>
+                        <unitdate>Jan 1965 - May 1971</unitdate>
                     </did>
                 </c>
                 <c id="ref828" level="otherlevel">
@@ -6525,7 +6534,7 @@
                         <unittitle>Local 579, William F. Schnitzer Testimonial Dinner, Guest Lists, Speeches, Telegrams</unittitle>
                         <container id="cid34222" type="Box" label="Mixed materials ( )">25</container>
                         <container parent="cid34222" type="Folder">18</container>
-                        <unitdate>1949 Dec. 20</unitdate>
+                        <unitdate>Dec 20, 1949</unitdate>
                     </did>
                 </c>
                 <c id="ref829" level="otherlevel">
@@ -6557,7 +6566,7 @@
                         <unittitle>Mergers, ABC and B&amp;C First Merger Convention</unittitle>
                         <container id="cid34218" type="Box" label="Mixed materials ( )">25</container>
                         <container parent="cid34218" type="Folder">22</container>
-                        <unitdate>1969 Dec. 4</unitdate>
+                        <unitdate>Dec 4, 1969</unitdate>
                     </did>
                 </c>
                 <c id="ref833" level="otherlevel">
@@ -6579,18 +6588,19 @@
             </c>
             <c id="ref836" level="series">
                 <did>
-                    <unittitle>Series VIII: Souvenir Programs, 1930-1993</unittitle>
+                    <unittitle>Series VIII: Souvenir Programs</unittitle>
+                    <unitdate normal="1930/1993" type="inclusive">1930-1993</unitdate>
                 </did>
                 <scopecontent id="ref886">
                     <head>Scope and Contents note</head>
-                    <p>This series contains the souvenir programs of a variety of locals and trade organizations. The locals are arranged in numerically ascending order; all other organizations are filed alphabetically. Photographs and laudatory accounts of union history are here in abundance. Of particular interest are programs related to the Cake Shows which picture some fine examples of the output of the skilled bakers.</p>
+                    <p>This series contains the souvenir programs of a variety of locals and trade organizations. Photographs and laudatory accounts of union history are here in abundance. Of particular interest are programs related to the Cake Shows which picture some fine examples of the output of the skilled bakers.</p>
                 </scopecontent>
                 <c id="ref837" level="otherlevel">
                     <did>
                         <unittitle>Local 1: 56th Anniversary Celebration Ball and Cake Parade</unittitle>
                         <container id="cid34215" type="Box" label="Mixed materials (31142050275331)">26</container>
                         <container parent="cid34215" type="Folder">1</container>
-                        <unitdate>1942 Mar. 14</unitdate>
+                        <unitdate>Mar 14, 1942</unitdate>
                     </did>
                 </c>
                 <c id="ref838" level="otherlevel">
@@ -6813,6 +6823,14 @@
                         <unitdate normal="1940/1940">1940</unitdate>
                     </did>
                 </c>
+                <c id="ref869" level="otherlevel">
+                    <did>
+                        <unittitle>Local 164 Mask and Civic Ball</unittitle>
+                        <container id="cid34184" type="Box" label="Mixed materials (31142050275331)">26</container>
+                        <container parent="cid34184" type="Folder">31</container>
+                        <unitdate normal="1930/1930">1930</unitdate>
+                    </did>
+                </c>
                 <c id="ref866" level="otherlevel">
                     <did>
                         <unittitle>Local 164 Golden Anniversary Costume and Civic Ball</unittitle>
@@ -6835,14 +6853,6 @@
                         <container id="cid34185" type="Box" label="Mixed materials (31142050275331)">26</container>
                         <container parent="cid34185" type="Folder">30</container>
                         <unitdate normal="1951/1951">1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref869" level="otherlevel">
-                    <did>
-                        <unittitle>Local 164 Mask and Civic Ball</unittitle>
-                        <container id="cid34184" type="Box" label="Mixed materials (31142050275331)">26</container>
-                        <container parent="cid34184" type="Folder">31</container>
-                        <unitdate normal="1930/1930">1930</unitdate>
                     </did>
                 </c>
                 <c id="ref870" level="otherlevel">
@@ -6868,49 +6878,65 @@
                 <c id="ref873" level="otherlevel">
                     <did>
                         <unittitle>Joint Executive Board 50th Anniversary</unittitle>
-                        <unitdate normal="1941/1941">1941</unitdate>
+                        <container id="cid34181" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34181" type="Folder">34</container>
+                        <unitdate normal="1941/1941">Dec 13, 1941</unitdate>
                     </did>
                 </c>
                 <c id="ref874" level="otherlevel">
                     <did>
                         <unittitle>BCWIUA "Our Golden Jubilee" Locals 1, 17, 1, 50, 87, 108, 144, 164, 256</unittitle>
-                        <unitdate normal="1936/1936">1936</unitdate>
+                        <container id="cid34180" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34180" type="Folder">35</container>
+                        <unitdate normal="1936/1936">Feb 1, 1936</unitdate>
                     </did>
                 </c>
                 <c id="ref875" level="otherlevel">
                     <did>
                         <unittitle>BC&amp;TWIU 100 Years Souvenir Program</unittitle>
-                        <unitdate normal="1986/1986">1986</unitdate>
+                        <container id="cid34179" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34179" type="Folder">36</container>
+                        <unitdate normal="1986/1986">May 10, 1986</unitdate>
                     </did>
                 </c>
                 <c id="ref876" level="otherlevel">
                     <did>
                         <unittitle>One Hundred Years: The Condensed History of the BC&amp;TWIU</unittitle>
+                        <container id="cid34178" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34178" type="Folder">37</container>
                         <unitdate normal="1986/1986">1986</unitdate>
                     </did>
                 </c>
                 <c id="ref877" level="otherlevel">
                     <did>
                         <unittitle>BCT: John DeConcini Retirement Dinner</unittitle>
-                        <unitdate normal="1992/1992">1992</unitdate>
+                        <container id="cid34177" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34177" type="Folder">38</container>
+                        <unitdate normal="1992/1992">Sep 26, 1992</unitdate>
                     </did>
                 </c>
                 <c id="ref878" level="otherlevel">
                     <did>
                         <unittitle>Local Union Reunification Committee (LURC) Testimonial Luncheon</unittitle>
-                        <unitdate normal="1961/1961">1961</unitdate>
+                        <container id="cid34176" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34176" type="Folder">39</container>
+                        <unitdate normal="1961/1961">Aug 29, 1961</unitdate>
                     </did>
                 </c>
                 <c id="ref879" level="otherlevel">
                     <did>
                         <unittitle>Associated Retail Bakers of Queens, Nassau, Suffolk and Affiliates Inc.</unittitle>
-                        <unitdate normal="1969/1969">1969</unitdate>
+                        <container id="cid34175" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34175" type="Folder">40</container>
+                        <unitdate normal="1969/1969">Nov 12, 1969</unitdate>
                     </did>
                 </c>
                 <c id="ref880" level="otherlevel">
                     <did>
                         <unittitle>Associated Retail Bakers of NY 45th Annual Dinner</unittitle>
-                        <unitdate normal="1983/1983">1983</unitdate>
+                        <container id="cid34174" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34174" type="Folder">41</container>
+                        <unitdate normal="1983/1983">Nov 13, 1983</unitdate>
                     </did>
                 </c>
                 <c id="ref881" level="otherlevel">
@@ -6922,26 +6948,129 @@
                 <c id="ref882" level="otherlevel">
                     <did>
                         <unittitle>Specialty Bakery Owners of America 43rd Anniversary Banquet</unittitle>
-                        <unitdate normal="1970/1970">1970</unitdate>
+                        <container id="cid34172" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34172" type="Folder">42</container>
+                        <unitdate normal="1970/1970">Jan 7, 1970</unitdate>
                     </did>
                 </c>
                 <c id="ref883" level="otherlevel">
                     <did>
                         <unittitle>Specialty Bakery Owners of America 47th Anniversary Banquet</unittitle>
-                        <unitdate normal="1974/1974">1974</unitdate>
+                        <container id="cid34171" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34171" type="Folder">43</container>
+                        <unitdate normal="1974/1974">Jun 3, 1974</unitdate>
                     </did>
                 </c>
                 <c id="ref884" level="otherlevel">
                     <did>
                         <unittitle>Specialty Bakery Owners of America 50th Anniversary Banquet</unittitle>
-                        <unitdate normal="1977/1977">1977</unitdate>
+                        <container id="cid34170" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34170" type="Folder">44</container>
+                        <unitdate normal="1977/1977">Jun 20, 1977</unitdate>
                     </did>
                 </c>
                 <c id="ref885" level="otherlevel">
                     <did>
                         <unittitle>Specialty Bakery Owners of America Harrison Testimonial Dinner</unittitle>
-                        <unitdate normal="1978/1978">1978</unitdate>
+                        <container id="cid34169" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid34169" type="Folder">45</container>
+                        <unitdate normal="1978/1978">Jun 19, 1978</unitdate>
                     </did>
+                </c>
+                <c id="ref908" level="otherlevel">
+                    <did>
+                        <unittitle>Associated Specialty Bakery Owners of Greater New York</unittitle>
+                        <container id="cid22768001" type="Box" label="Mixed materials">26</container>
+                        <container parent="cid22768001" type="Folder">46</container>
+                        <unitdate normal="1993/1993">Mar 7, 1993</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref896" level="series">
+                <did>
+                    <unittitle>Series IX: Photographs</unittitle>
+                    <unitdate normal="1950/1999" type="inclusive">1950-1990s</unitdate>
+                </did>
+                <arrangement id="ref909">
+                    <head>Arrangement</head>
+                    <p>This series has not been arranged by an archivist.</p>
+                </arrangement>
+                <c id="ref897" level="otherlevel">
+                    <did>
+                        <unittitle>Box 27</unittitle>
+                        <container id="cid22763001" type="Box" label="Mixed materials">27</container>
+                        <unitdate normal="1950/1969" type="inclusive">1950s-1960s</unitdate>
+                    </did>
+                </c>
+                <c id="ref898" level="otherlevel">
+                    <did>
+                        <unittitle>Box 28</unittitle>
+                        <container id="cid22763002" type="Box" label="Mixed materials">28</container>
+                        <unitdate normal="1960/1978" type="inclusive">1960s, 1978</unitdate>
+                    </did>
+                </c>
+                <c id="ref899" level="otherlevel">
+                    <did>
+                        <unittitle>Box 29</unittitle>
+                        <container id="cid22763003" type="Box" label="Mixed materials">29</container>
+                        <unitdate normal="1966/1969" type="inclusive">1950s-1960s, 1966-1969</unitdate>
+                    </did>
+                    <scopecontent id="ref900">
+                        <head>Scope and Content Note</head>
+                        <p>Contains photographs used in the publication 
+                            <emph render="italic">Local 3 News</emph> as well as certificates, Local 3 graphics, and Fred Wright cartoons.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref901" level="otherlevel">
+                    <did>
+                        <unittitle>Box 30</unittitle>
+                        <container id="cid22763004" type="Box" label="Mixed materials">30</container>
+                        <unitdate normal="1971/1980" type="inclusive">1971-1980</unitdate>
+                    </did>
+                </c>
+                <c id="ref902" level="otherlevel">
+                    <did>
+                        <unittitle>Box 31</unittitle>
+                        <container id="cid22763007" type="Box" label="Mixed materials">31</container>
+                        <unitdate normal="1902/1999" type="inclusive">undated</unitdate>
+                    </did>
+                    <scopecontent id="ref903">
+                        <head>Scope and Content Note</head>
+                        <p>Materials related to the civil rights movement, Horn and Hardart organizing, Local 3 Ladies Auxiliary, and work site photographs.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref904" level="otherlevel">
+                    <did>
+                        <unittitle>Box 32</unittitle>
+                        <container id="cid22763008" type="Box" label="Mixed materials">32</container>
+                        <unitdate normal="1988/1992" type="inclusive">1988-1992</unitdate>
+                    </did>
+                    <scopecontent id="ref911">
+                        <head>Scope and Content Note</head>
+                        <p>Contains photographs of membership, shop and Executive Board meetings, elections, press conferences, special events such as Christmas and charity parties, as well as negotiations and conferences.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref905" level="otherlevel">
+                    <did>
+                        <unittitle>Box 33</unittitle>
+                        <container id="cid22763005" type="Box" label="Mixed materials">33</container>
+                        <unitdate normal="1992/1994" type="inclusive">1992-1994</unitdate>
+                    </did>
+                    <scopecontent id="ref912">
+                        <head>Scope and Content Note</head>
+                        <p>Contains photographs of general membership and Executive Board meetings, elections, special events such as luncheons and the Labor Day Parade, as well as negotiations and contract ratifications.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref906" level="otherlevel">
+                    <did>
+                        <unittitle>Box 34</unittitle>
+                        <container id="cid22763006" type="Box" label="Mixed materials">34</container>
+                        <unitdate normal="1990/1995" type="inclusive">circa 1992-1994</unitdate>
+                    </did>
+                    <scopecontent id="ref915">
+                        <head>Scope and Content Note</head>
+                        <p>Contains unidentified photographs of meetings and events, as well as three plaques honoring Local 3 President Harry Lorber, Secretary-Treasurer Harry Rubenstein and the Local 3 welfare program.</p>
+                    </scopecontent>
                 </c>
             </c>
         </dsc>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/v1997_090_jared_j_chambers_photo">v1997_090_jared_j_chambers_photo</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Jared J. Chambers photographic portrait
+                    <num>V1997.090</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-10-27T16:38-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Jared J. Chambers photographic portrait</unittitle>
+            <unitid>V1997.090</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1250004" type="Box" label="Graphic materials">Prints by Accession - 83</container>
+            <physdesc>
+                <extent>0.01 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1941/1941">1941</unitdate>
+            <abstract id="ref1" label="Abstract">One photographic portrait of Jared J. Chambers, President of the 28th Ward Taxpayers' Protection Association, 1941.</abstract>
+        </did>
+        <bioghist id="ref2">
+            <head>Biographical note</head>
+            <p>Jared J. Chambers was born in Massachusetts, around 1854. A longtime resident of Brooklyn, he was actively involved in the community as a member of the Republican Party, and served as president of the 28th Ward Taxpayer's Protection Association for 38 years. He died, in Brooklyn, in 1942.</p>
+            <p>- Based on obituary, Brooklyn Daily Eagle, 19 October 1942</p>
+        </bioghist>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Photograph is presumed to be in the public domain by 2062.</p>
+        </userestrict>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Immediate souce of acquisition is unknown. Photograph was accessioned in 1997.</p>
+        </acqinfo>
+        <relatedmaterial id="ref6">
+            <head>Related Archival Materials note</head>
+            <p>For additional portraits please see BHS's 
+                <extref ns2:href="http://brooklynhistory.org/library/wp/library-collections/portraits/">Portrait Collection</extref>.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname rules="dacs" source="local">28th Ward Taxpayers' Protection Association.</corpname>
+            <persname rules="dacs" source="local">Chambers, Jared J., 1854?-1942</persname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <subject source="lcsh">Civic leaders |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Portraits</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

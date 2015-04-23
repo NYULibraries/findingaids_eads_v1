@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_215_south_brooklyn_savings_institution.html">arc_215_south_brooklyn_savings_institution</eadid>
         <filedesc>
             <titlestmt>
@@ -25,9 +25,9 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-05-01T16:09-0400</date>
+                <date>2015-02-18T11:12-0500</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
@@ -44,10 +44,11 @@
             <container id="cid818001" type="Box" label="Graphic materials">Prints by Accession 47</container>
             <container id="cid818002" type="Box" label="Graphic materials">Prints by Accession 46</container>
             <physdesc>
-                <extent>0.8 Linear feet</extent>
+                <extent>0.8 linear feet</extent>
                 <extent>in two manuscript boxes.</extent>
             </physdesc>
             <unitdate normal="1840/1932" type="inclusive">circa 1850 to 1922</unitdate>
+            <abstract id="ref11" label="Abstract">The South Brooklyn Savings Institution trustees portrait albums date from circa 1850 to 1922 and contain 52 items. The albums are composed of cabinet card portraits of bank trustees, many of whom are identified on album pages. In addition, each volume contains a name index.</abstract>
         </did>
         <scopecontent id="ref2">
             <head>Scope and Contents note</head>
@@ -65,6 +66,7 @@
             <head>Processing Information note</head>
             <p>Fully processed to the item level.</p>
             <p>This collection combines two accessions: V1981.007 and V1981.008.</p>
+            <p>Related archival material note added to finding aid by John Zarrillo in February 2015.</p>
         </processinfo>
         <prefercite id="ref7">
             <head>Preferred Citation</head>
@@ -79,6 +81,11 @@
             <p>Copyright will remain in effect for 120 years following the date of creation. All items in this collection will enter the public domain by 2042. For information on securing rights to publish or reproduce, please see the 
                 <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="Reproduction Rights Policy" ns2:href="http://www.brooklynhistory.org/library/repropolicy.html">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>
         </userestrict>
+        <relatedmaterial id="ref12">
+            <head>Related Archival Materials note</head>
+            <p>Brooklyn Historical Society possesses two related collections:</p>
+            <p>South Brooklyn Savings Bank / Independence Community Bank records and oral histories, 1850-2006 (ARC.269) and eight oil on canvas portaits of bank presidents, 1850 to 1973 (M2007.023.1 through M2007.023.8.). Item-level descriptions and digital versions of all eight portaits are available for searching via the image database in the Othmer Library.</p>
+        </relatedmaterial>
         <controlaccess>
             <corpname rules="dacs" source="local">South Brooklyn Savings Institution (New York, N.Y.).</corpname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>

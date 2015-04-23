@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_023_wilmot_andrews">arms_1985_023_wilmot_andrews</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Wilmot and Andrews ledgers
+                    <num>1985.023</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-10-04T13:25-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Wilmot and Andrews ledgers</unittitle>
+            <unitid>1985.023</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1242001" type="Box" label="Text">A0007</container>
+            <physdesc>
+                <extent>0.1 linear feet</extent>
+                <extent>in 1 folder</extent>
+            </physdesc>
+            <unitdate normal="1839/1915" type="inclusive">1839 to 1915</unitdate>
+            <abstract id="ref4" label="Abstract">This collection consists of two ledgers which belonged to Wilmot and Andrews, each containing lists of daily sales and expenditures dating from 1839-1915.</abstract>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Wilmot and Andrews.</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Historical note</head>
+            <p>Wilmot and Andrews owned a general store and possibly owned rental houses in New York City in the 19th and early 20th centuries.</p>
+        </bioghist>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Immediate source of acquisition unknown. Ledgers accessioned in 1985.</p>
+        </acqinfo>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Wilmot and Andrews ledgers, 1985.023, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>Ledgers are in the public domain.</p>
+        </userestrict>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of two ledgers which belonged to Wilmot and Andrews, each containing lists of daily sales and expenditures dating from 1839-1915. Sales include provisions for families and ships, such as meat, fish, sugar, bread, produce, dairy products, and other goods. Wilmot and Andrews conducted business in New York City.</p>
+        </scopecontent>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <controlaccess>
+            <corpname rules="dacs" source="local">Wilmot and Andrews.</corpname>
+            <genreform source="aat">Account books</genreform>
+            <subject source="lcsh">Business enterprises |z New York (State) |z New York</subject>
+            <genreform source="aat">Business records</genreform>
+            <subject source="lcsh">General stores |z New York (State) |z New York</subject>
+            <genreform source="aat">Ledgers (account books)</genreform>
+            <geogname source="lcsh">New York (N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

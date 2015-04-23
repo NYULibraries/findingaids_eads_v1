@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">alba_photo_011</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_photo_011/">alba_photo_011</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Harry Randall: Fifteenth International Brigade Photograph Collection
+                <titleproper>Guide to the Harry Randall: Fifteenth International Brigade Films and Photographs
                     <num>ALBA.PHOTO.011</num>
                 </titleproper>
                 <author>Finding aid prepared by Elizabeth Compa, Evan Daniel, Laura Helton, Julie Kessler, Gail Malmgreen, Porsche Martin and Jessica Weglein</author>
@@ -25,15 +25,22 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-03-25T18:17-0400</date>
+                <date>2014-04-29T11:48-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>Feb 3, 2014</date>
+                <item>Revised by Rachel Searcy to reflect incorporation of digitized film reels and for compliance with DACS and Tamiment Required Elements for Archival Description</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
-            <unittitle>Harry Randall: Fifteenth International Brigade Photographs</unittitle>
+            <unittitle>Harry Randall: Fifteenth International Brigade Films and Photographs</unittitle>
             <unitid>ALBA.PHOTO.011</unitid>
             <repository>
                 <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
@@ -46,17 +53,19 @@
                 <extent>(approximately 2,000 black and white negatives and prints)</extent>
             </physdesc>
             <unitdate normal="1937/1938" type="inclusive">August 1937-September 1938</unitdate>
-            <physloc id="ref2" label="Location note">Tamiment Library and Robert F. Wagner Labor Archives</physloc>
-            <abstract id="ref3" label="Abstract">Under the supervision of Harry W. Randall, Jr, the Photographic Unit of the 15th International Brigade was charged with documenting the activities of the Brigade during the Spanish Civil War. The collection consists of 1,832 images taken by the Unit from August 1937 to September 1938 and captures the daily life of the volunteers in combat, in the camps, and in the towns, villages, and across the rugged terrain where the Brigade trained and participated in the fighting. In addition, the collection documents political assemblies, congresses, celebrations and the everyday activities of the Spanish populace.</abstract>
+            <abstract id="ref3" label="Abstract">Under the supervision of Harry W. Randall, Jr, the Photographic Unit of the 15th International Brigade was charged with documenting the activities of the Brigade during the Spanish Civil War. The collection consists of 3 reels and 1,832 images taken by the Unit from August 1937 to September 1938 and captures the daily life of the volunteers in combat, in the camps, and in the towns, villages, and across the rugged terrain where the Brigade trained and participated in the fighting. In addition, the collection documents political assemblies, congresses, celebrations and the everyday activities of the Spanish populace.</abstract>
+            <langmaterial id="ref2145" label="Language of Materials">Materials are in English.</langmaterial>
             <origination label="creator">
                 <corpname rules="aacr" source="naf">Spain. Ejercito Popular de la Republica. Brigada Internacional, XV. Photographic Unit.</corpname>
             </origination>
         </did>
+        <odd id="ref2139">
+            <head>Sponsor Note</head>
+            <p>Funding for the digitization of film reels and negatives in this collection was provided by Rickard and Carol-Jeanette Jorgensen, in honor of Harry W. Randall, Jr., head of the 15th International Brigade Photo Unit, and Doreen Randall.</p>
+        </odd>
         <custodhist id="ref4">
-            <head>Provenance</head>
+            <head>Custodial History</head>
             <p>The Harry Randall: 15th International Brigade Photograph Collection represents a substantial portion of the work done by the Photo Unit during the Spanish Civil War. A large body of original negatives and prints was brought to New York from Spain by Harry Randall, who produced additional prints, some of which were distributed to surviving veterans or used in publications. The bulk of the material was left in the Veterans' office, and over the years some of the items were dispersed or lost. Randall and the Veterans of the Abraham Lincoln Brigade donated the remaining material to the Abraham Lincoln Brigade Archives in July 1999. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
-            <p>
-                <emph render="bold">Funding for the digitization of negatives in this collection was provided by Rickard and Carol-Jeanette Jorgensen, in honor of Harry W. Randall, Jr., head of the 15th International Brigade Photo Unit, and Doreen Randall. </emph></p>
             <p></p>
         </custodhist>
         <accessrestrict id="ref5">
@@ -79,36 +88,28 @@
         </bioghist>
         <scopecontent id="ref9">
             <head>Scope and Content Note</head>
-            <p>The Harry Randall: 15th International Brigade Photograph Collection spans the period from August 1937 to September 1938 and contains 1,832 black and white images taken by members of the Photo Unit of the 15th International Brigade during their tour of duty in Spain. The collection is comprised of 1,534 original negatives (ranging in size from 1.1 x 1.5 to 3 x 4.25 inches), and 626 prints (ranging in size from 1.5 x 1 to 8 x 10 inches). Some of the prints came directly from the albums created by the Photo Unit; original numbers and notations are in Randall's hand and the black paper from the photo album still adheres to the back of the prints. The collection also includes 348 copy negatives of which 203 were acquired by ALBA in the 1990s from the International Brigade Archives, housed in the Russian State Archive of Socio-Political History, Moscow. A number of the images are available in more than one format. Consult the collection inventory for details.</p>
+            <p>The Harry Randall: 15th International Brigade Photograph Collection spans the period from August 1937 to September 1938 and contains 1,832 black and white images taken by members of the Photo Unit of the 15th International Brigade during their tour of duty in Spain. The collection is comprised of 3 reels, 1,534 original negatives (ranging in size from 1.1 x 1.5 to 3 x 4.25 inches), and 626 prints (ranging in size from 1.5 x 1 to 8 x 10 inches). Some of the prints came directly from the albums created by the Photo Unit; original numbers and notations are in Randall's hand and the black paper from the photo album still adheres to the back of the prints. The collection also includes 348 copy negatives of which 203 were acquired by ALBA in the 1990s from the International Brigade Archives, housed in the Russian State Archive of Socio-Political History, Moscow. A number of the images are available in more than one format. Consult the collection inventory for details.</p>
             <p>The collection documents the activities of the battalions that made up the 15th International Brigade including the American Lincoln and Washington Battalions (commonly known as the Abraham Lincoln Brigade); the British Battalion; the Canadian MacKenzie-Papineau Battalion; the Dimitroff Battalion (volunteers from Yugoslavia); and the 24th Spanish Battalion (volunteers from Cuba). The images capture the daily life of the volunteers in combat, in the camps, and in the towns, villages, and across the rugged terrain where the Brigade trained and participated in the fighting. In addition, the collection documents political assemblies, congresses, celebrations and the everyday activities of the Spanish populace. Also included are images of visiting dignitaries, journalists and observers including Earl Browder, American military attache Stephen Fuqua, Robert Minor, Ernest Hemingway, Langston Hughes, Meyer Levin and Joseph North.</p>
-            <p>Series A: Miscellaneous, August 1937 - May 1938. The 148 images in this series are among the earliest in the collection. Pictured here are scenes from the battles of Quinto and Belchite. Photographs of the aftermath of aerial bombardment offer evidence of damaged factories, homes and churches. Also documented are artillery units and battalions on the move, and troops under fire at Fuentes de Ebro, and soldiers dug into trenches at the Teruel front.</p>
-            <p>Series B: Individual Portraits, September 1937 - September 1938. The Unit photographers had hoped to photograph every member the 15th Brigade. Although this formidable task was never realized, the 415 portraits in this series depict prominent members of the Brigade including Political Commissars Joseph Dallet, John Robinson, Saul Wellman, George Watt, Archie Brown, and Chief of the Brigade Commissariat Sandor Voros. Portraits of other Brigade members include Chief of Brigade Staff Robert Merriman, Commander Milton Wolff, Commander 15th Brigade Vladimir Copic, Dr. Mark Straus, 
-                <title render="italic">Volunteer for Liberty</title>editor John Tisa, and writers Alvah Bessie and Edwin Rolfe. This series also includes portraits of Photo Unit photographers Ben Katine and Harry Randall.</p>
-            <p>Series C: Group Portraits, September 1937 - August 1938, consists of 259 images, which range from double portraits of volunteers casually posing to more formal group photos of entire units. Included here are the Lincoln Washington Machine-Gunner Company, officers of British Anti-Tank Unit, the 15th International Brigade Transmiciones (the unit in charge of communication or transmission); the 24th Spanish Battalion Machine-Gunner Company; the motor cyclists of 15th Brigade; the Lincoln-Washington ambulance and medical personnel; Earl Browder and officers of the 15th International Brigade; Greeks in the Lincoln Battalion; an African-American machine-gunner crew; Doctor Edward Barsky and a medical colleague; Captain Leonard Lamb with Lieutenant William Digges; and five New York University students -- volunteers with the Abraham Lincoln Brigade.</p>
-            <p>Series D: Miscellaneous, September 1937 - June 1938; August 1938. The 249 images in this series include scenes of the Brigade in battlefields and at rest. Notable images include rustic cane shelters built by the Lincoln Battalion in an olive grove in Almuchel; Fascists taken prisoner at Belchite; the troops on a train from Quinto to Ambite and at a railroad station milling with civilians; soldiers in showers, washing and mending clothes, reading and playing football, and picking olives; peasants weaving; an ambulance from the Teachers Union and American Student Union with Murray Nemeroff driving; the funeral of Lieutenant William Digges at Mollerusa; the Dental Wagon with Dr. Jack Klein at work; School for Commissars at the Ebro Front; and the trial of deserters at Senes.</p>
-            <p>Series E: Miscellaneous, January 1938 - September 1938. Many of the 761 images in this series capture the final battles of the International Brigades. The most arresting shots are those taken at the crossing of the Ebro in July 1938. In an article that appeared in the 
-                <title render="italic">Volunteer for Liberty</title>in September 1938, Randall described the Photo Unit's activities and the photographic record they created during the Ebro Offensive:</p>
-            <p/>
-            <p/>
         </scopecontent>
         <arrangement id="ref10">
             <head>Arrangement</head>
-            <p>Within each series the images are arranged in roughly chronological order.</p>
-            <p>The collection is organized in the five original series (A-E) established by the Photographic Unit:</p>
+            <p>This collection is organized into six series based on format, with the photographs series representing the five original subseries (A-E) established by the Photographic Unit.</p>
+            <p>Within each subseries, images are arranged in roughly chronological order.</p>
             <list type="ordered">
                 <item>Series A: Miscellaneous, August 1937 - May 1938</item>
                 <item>Series B: Individual Portraits, September 1937 September 1938</item>
                 <item>Series C: Group Portraits, September 1937 August 1938</item>
                 <item>Series D: Miscellaneous, September 1937 June 1938; August 1938</item>
                 <item>Series E: Miscellaneous, January 1938 September 1938</item>
+                <item>Series F. Films</item>
             </list>
             <p>NOTE: Use ALBA PHOTO # for ordering and physical retrieval of prints and negatives. Negatives in this collection from the International Brigades Archives: Selected Images are housed in ALBA PHOTO #177.</p>
         </arrangement>
         <relatedmaterial id="ref2066">
             <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>ALBA PHOTO #177, International Brigades Archive: Selected Images</p>
+            <p>ALBA PHOTO 177, International Brigades Archive: Selected Images</p>
             <p>ALBA VF Harry W. Randall, Jr. Oral History (transcript)</p>
-            <p>Film Footage of the 15th International Brigade shot by Harry Randall, Jr. (VHS copy: For access see staff.)</p>
+            <p>ALBA FILMS 001 "With the Lincoln Brigade in Spain": Film Footage of the 15th International Brigade shot by Harry Randall, Jr. (VHS copy: For access see staff.)</p>
         </relatedmaterial>
         <userestrict id="ref2068">
             <head>Use Restrictions</head>
@@ -119,14 +120,14 @@
                 <lb/> New York, NY 10012 
                 <lb/> Phone: (212) 998-2630 
                 <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@nyu.edu 
+                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
                 <lb/></p>
         </userestrict>
         <prefercite id="ref2069">
             <head>Preferred Citation</head>
             <p>Published citations should take the following form: 
                 <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Identification of item, date; Harry Randall: Fifteenth International Brigade Films and Photographs; ALBA PHOTO 011; box number; folder number; 
                 <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
                 <lb/>Elmer Holmes Bobst Library 
                 <lb/>70 Washington Square South 
@@ -194,6 +195,10 @@
                 <did>
                     <unittitle>Series A: Miscellaneous, August 1937-May 1938</unittitle>
                 </did>
+                <scopecontent id="ref2140">
+                    <head>Scope and Content Note</head>
+                    <p>Series IIA: Miscellaneous, August 1937 - May 1938. The 148 images in this series are among the earliest in the collection. Pictured here are scenes from the battles of Quinto and Belchite. Photographs of the aftermath of aerial bombardment offer evidence of damaged factories, homes and churches. Also documented are artillery units and battalions on the move, and troops under fire at Fuentes de Ebro, and soldiers dug into trenches at the Teruel front.</p>
+                </scopecontent>
                 <c id="ref15" level="item">
                     <did>
                         <unittitle>Photo Unit #: A001 
@@ -3177,6 +3182,11 @@
                 <did>
                     <unittitle>Series B: Individual Portraits, September 1937-September 1938</unittitle>
                 </did>
+                <scopecontent id="ref2141">
+                    <head>Scope and Content Note</head>
+                    <p>Series IIB: Individual Portraits, September 1937 - September 1938. The Unit photographers had hoped to photograph every member the 15th Brigade. Although this formidable task was never realized, the 415 portraits in this series depict prominent members of the Brigade including Political Commissars Joseph Dallet, John Robinson, Saul Wellman, George Watt, Archie Brown, and Chief of the Brigade Commissariat Sandor Voros. Portraits of other Brigade members include Chief of Brigade Staff Robert Merriman, Commander Milton Wolff, Commander 15th Brigade Vladimir Copic, Dr. Mark Straus, 
+                        <title render="italic">Volunteer for Liberty</title>editor John Tisa, and writers Alvah Bessie and Edwin Rolfe. This series also includes portraits of Photo Unit photographers Ben Katine and Harry Randall.</p>
+                </scopecontent>
                 <c id="ref190" level="item">
                     <did>
                         <unittitle>Photo Unit #: B001 
@@ -10696,6 +10706,10 @@
                 <did>
                     <unittitle>Series C: Group Portraits, September 1937-August 1938.</unittitle>
                 </did>
+                <scopecontent id="ref2142">
+                    <head>Scope and Content Note</head>
+                    <p>Series IIC: Group Portraits, September 1937 - August 1938, consists of 259 images, which range from double portraits of volunteers casually posing to more formal group photos of entire units. Included here are the Lincoln Washington Machine-Gunner Company, officers of British Anti-Tank Unit, the 15th International Brigade Transmiciones (the unit in charge of communication or transmission); the 24th Spanish Battalion Machine-Gunner Company; the motor cyclists of 15th Brigade; the Lincoln-Washington ambulance and medical personnel; Earl Browder and officers of the 15th International Brigade; Greeks in the Lincoln Battalion; an African-American machine-gunner crew; Doctor Edward Barsky and a medical colleague; Captain Leonard Lamb with Lieutenant William Digges; and five New York University students -- volunteers with the Abraham Lincoln Brigade.</p>
+                </scopecontent>
                 <c id="ref625" level="item">
                     <did>
                         <unittitle>Photo Unit #: C001 
@@ -15716,6 +15730,10 @@
                 <did>
                     <unittitle>Series D: Miscellaneous, September 1937-June 1938; August 1938</unittitle>
                 </did>
+                <scopecontent id="ref2143">
+                    <head>Scope and Content Note</head>
+                    <p>Series IID: Miscellaneous, September 1937 - June 1938; August 1938. The 249 images in this series include scenes of the Brigade in battlefields and at rest. Notable images include rustic cane shelters built by the Lincoln Battalion in an olive grove in Almuchel; Fascists taken prisoner at Belchite; the troops on a train from Quinto to Ambite and at a railroad station milling with civilians; soldiers in showers, washing and mending clothes, reading and playing football, and picking olives; peasants weaving; an ambulance from the Teachers Union and American Student Union with Murray Nemeroff driving; the funeral of Lieutenant William Digges at Mollerusa; the Dental Wagon with Dr. Jack Klein at work; School for Commissars at the Ebro Front; and the trial of deserters at Senes.</p>
+                </scopecontent>
                 <c id="ref935" level="item">
                     <did>
                         <unittitle>Photo Unit #: D001 
@@ -20487,6 +20505,13 @@
                 <did>
                     <unittitle>Series E: Miscellaneous, January 1938-September 1939</unittitle>
                 </did>
+                <scopecontent id="ref2144">
+                    <head>Scope and Content Note</head>
+                    <p>Series IIE: Miscellaneous, January 1938 - September 1938. Many of the 761 images in this series capture the final battles of the International Brigades. The most arresting shots are those taken at the crossing of the Ebro in July 1938. In an article that appeared in the 
+                        <title render="italic">Volunteer for Liberty</title>in September 1938, Randall described the Photo Unit's activities and the photographic record they created during the Ebro Offensive:</p>
+                    <p/>
+                    <p/>
+                </scopecontent>
                 <c id="ref1243" level="item">
                     <did>
                         <unittitle>Photo Unit #: E0001 
@@ -34682,6 +34707,53 @@
                             <p>Photo Unit #: E1542 &lt;lb/&gt;Lincoln-Washington comrades watching planes, Sep 1938 </p>
                         </daodesc>
                     </dao>
+                </c>
+            </c>
+            <c id="ref2126" level="series">
+                <did>
+                    <unittitle>Series F. Films</unittitle>
+                    <unitdate normal="1937/1938" type="inclusive">circa 1937-1938</unitdate>
+                </did>
+                <phystech id="ref2133">
+                    <head>Audiovisual Access Policies and Procedures</head>
+                    <p>Researchers interested in using audiovisual materials in this collection (films, cassette tapes, VHS tapes, et cetera) must use a digitized copy, which we refer to as an access copy. Researchers may view an item’s original container, but the media themselves are not available for playback because of preservation concerns. Materials that already have already been digitized are noted in the collection’s finding aid and can be requested in our reading room; materials not yet digitized will need to have access copies made before they can be used. These requests are free of charge and can be made in anticipation of your visit. The process typically takes four to six weeks. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@library.nyu.edu with the collection name, collection number, and a description of the item(s) requested. A librarian will respond to you with further information.</p>
+                </phystech>
+                <scopecontent id="ref2137">
+                    <head>Scope and Content Note</head>
+                    <p>This series consists of three black-and-white 16 mm reels shot by Harry Randall during the Spanish Civil War. The films document the men and women who volunteered to participate in the conflict, either as members of the International Brigades or the affiliated medical services. The films capture a wide range of footage, including camp sites, military preparations, weather conditions, the landscape of the Spanish countryside, the administration of medical aid, and daily activities such as eating, bathing, sleeping, reading, and writing letters. The films also show the war’s destruction, featuring numerous damaged buildings and structures.</p>
+                </scopecontent>
+                <c id="ref2128" level="file">
+                    <did>
+                        <unittitle>Untitled Film Footage: Reel 1</unittitle>
+                        <container id="cid22891001" type="Box" label="Access DVD">7</container>
+                        <container parent="cid22891001" type="DVD">1</container>
+                        <unitdate>circa 1937-1938</unitdate>
+                        <physdesc id="ref2134" label="Physical Facet note">
+                            <physfacet></physfacet>
+                        </physdesc>
+                    </did>
+                </c>
+                <c id="ref2131" level="file">
+                    <did>
+                        <unittitle>Untitled Film Footage: Reel 2</unittitle>
+                        <container id="cid22891002" type="Box" label="Access DVD">7</container>
+                        <container parent="cid22891002" type="DVD">2</container>
+                        <unitdate>circa 1937-1938</unitdate>
+                        <physdesc id="ref2135" label="Physical Facet note">
+                            <physfacet></physfacet>
+                        </physdesc>
+                    </did>
+                </c>
+                <c id="ref2132" level="file">
+                    <did>
+                        <unittitle>Untitled Film Footage: Reel 3</unittitle>
+                        <container id="cid22891003" type="Box" label="Access DVD">7</container>
+                        <container parent="cid22891003" type="DVD">3</container>
+                        <unitdate>circa 1937-1938</unitdate>
+                        <physdesc id="ref2136" label="Physical Facet note">
+                            <physfacet></physfacet>
+                        </physdesc>
+                    </did>
                 </c>
             </c>
         </dsc>

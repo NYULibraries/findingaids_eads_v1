@@ -22,15 +22,16 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-08-14T12:21-0400</date>
+                <date>2014-12-08T15:29-0500</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>June 2013</date>
-                <item>Revised by Andrew Elrod to reflect rehousing</item>
+                <date>December 2014</date>
+                <item>Revised by Andrew Elrod to reflect rehousing.  Revised by Erika Gottfried to reflect addition of materials and update information on use, arrangement, and language of materials.</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -46,9 +47,11 @@
             </langmaterial>
             <physdesc>
                 <extent>6.5 linear feet</extent>
+                <extent>in 9 boxes</extent>
             </physdesc>
             <unitdate normal="1930/2011" type="inclusive">1930-2011</unitdate>
             <abstract id="ref3" label="Abstract">The Abraham Lincoln Brigade Archives (ALBA) Vertical Files are a rich source for background information on the people, events and topics related to the ALBA collections in the Tamiment Library and include coverage of the International Brigades as well. The files contain a variety of documents such as newspaper clippings, flyers, brochures, biographical material, anniversary and exhibit programs, obituaries, and other items. Consult the folder list in this collection to find material on specific events or topics. See the ALBA Vertical File on Individuals to find biographical material on specific individuals.</abstract>
+            <langmaterial id="ref1180" label="Language of Materials note">Materials are in English and in Czech.</langmaterial>
             <origination label="creator">
                 <corpname source="naf">Tamiment Library.</corpname>
             </origination>
@@ -67,15 +70,7 @@
         </accessrestrict>
         <userestrict id="ref451">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: gail.malmgreen@nyu.edu 
-                <lb/></p>
+            <p>The Tamiment Library does not have information about who owns copyrights to this collection. Materials in this collection are expected to enter the public domain 120 years from their creation. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
         </userestrict>
         <prefercite id="ref7">
             <head>Preferred Citation</head>
@@ -85,11 +80,12 @@
         </prefercite>
         <arrangement id="ref456">
             <head>Arrangement</head>
-            <p>This collection is arranged into one series: Series I: ALBA Subject Files. Folders are arranged alphabetically.</p>
+            <p>This collection is arranged into one series: Series I: ALBA Subject Files. Folders in boxes 1-8 are arranged alphabetically; folders in other boxes are arranged in the order in which they were created.</p>
         </arrangement>
         <controlaccess>
             <corpname source="naf">Abraham Lincoln Brigade Archives.</corpname>
             <corpname source="naf">Abraham Lincoln Brigade.</corpname>
+            <corpname rules="dacs" source="local">Czech Liberty Fighters Association Archives.</corpname>
             <genreform source="aat">Articles.</genreform>
             <genreform source="aat">Broadsides (notices)</genreform>
             <genreform source="aat">Brochures.</genreform>
@@ -101,6 +97,7 @@
             <genreform source="aat">Press releases.</genreform>
             <genreform source="aat">Programs (documents).</genreform>
             <genreform source="aat">Reports.</genreform>
+            <subject source="lcsh">Spain - History - Civil War, 1936-1939 - Participation, Czech</subject>
             <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x African Americans.</geogname>
             <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x International brigades.</geogname>
             <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, American.</geogname>
@@ -1372,6 +1369,46 @@
                         <container parent="cid22405373" type="Folder">23</container>
                     </did>
                 </c>
+                <c id="ref1175" level="file">
+                    <did>
+                        <unittitle>Czechoslovak Volunteers - List of Names and Biographical Information</unittitle>
+                        <container id="cid23471003" type="Box" label="Master CD">9</container>
+                        <container parent="cid23471003" type="Folder">22</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                    <scopecontent id="ref1178">
+                        <head>Scope and Content Note</head>
+                        <p>Compact disc of 641-page document in Czech from Czech Liberty Fighters Association Archives with names and biographical information for 2,329 volunteers.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref1174" level="file">
+                    <did>
+                        <unittitle>Czechoslovak Volunteers - List of Names (copy of document from Czech Liberty Fighters Association Archives) - Introduction through page 315</unittitle>
+                        <container id="cid23471002" type="Box" label="Text">9</container>
+                        <container parent="cid23471002" type="Folder">23</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c>
+                <c id="ref1176" level="file">
+                    <did>
+                        <unittitle>Czechoslovak Volunteers - List of Names (copy of document from Czech Liberty Fighters Association Archives) - page 316-641</unittitle>
+                        <container id="cid23471004" type="Box" label="Text">9</container>
+                        <container parent="cid23471004" type="Folder">24</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                </c>
+                <c id="ref1177" level="file">
+                    <did>
+                        <unittitle>Czechoslovak Volunteers - List of Names (copy of document from Czech Liberty Fighters Association Archives) - page 642-679 (index of names)</unittitle>
+                        <container id="cid23471005" type="Box" label="Text">9</container>
+                        <container parent="cid23471005" type="Folder">25</container>
+                        <unitdate>1975</unitdate>
+                    </did>
+                    <scopecontent id="ref1179">
+                        <head>Scope and Content Note</head>
+                        <p>Contents are not entirely in alphabetical order.</p>
+                    </scopecontent>
+                </c>
                 <c id="ref798" level="file">
                     <did>
                         <unittitle>Daily Worker Coverage</unittitle>
@@ -2049,6 +2086,14 @@
                         <unittitle>Hebrew Orphan Asylum (Sam Katz)</unittitle>
                         <container id="cid22405276" type="Box" label="Mixed materials">4</container>
                         <container parent="cid22405276" type="Folder">44</container>
+                    </did>
+                </c>
+                <c id="ref1171" level="file">
+                    <did>
+                        <unittitle>Himno de Riego and Other Songs</unittitle>
+                        <container id="cid22862001" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid22862001" type="Folder">21</container>
+                        <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref895" level="file">
@@ -2889,6 +2934,14 @@
                         <unittitle>Palestine/Israel Volunteers</unittitle>
                         <container id="cid22405156" type="Box" label="Mixed materials">6</container>
                         <container parent="cid22405156" type="Folder">3</container>
+                    </did>
+                </c>
+                <c id="ref1172" level="file">
+                    <did>
+                        <unittitle>Pamphlets: Rare [Photocopies]</unittitle>
+                        <container id="cid22862002" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid22862002" type="Folder">22</container>
+                        <unitdate normal="1937/1938" type="inclusive">circa 1937-1938</unitdate>
                     </did>
                 </c>
                 <c id="ref1015" level="file">
@@ -3918,6 +3971,13 @@
                         <unittitle>Wisconsin Volunteers</unittitle>
                         <container id="cid22405009" type="Box" label="Mixed materials">8</container>
                         <container parent="cid22405009" type="Folder">9</container>
+                    </did>
+                </c>
+                <c id="ref1173" level="file">
+                    <did>
+                        <unittitle>"Wise and Foolish Dreamers" Exhibit</unittitle>
+                        <container id="cid23208001" type="Flat-File" label="Mixed materials">6</container>
+                        <container parent="cid23208001" type="Drawer">14</container>
                     </did>
                 </c>
                 <c id="ref1162" level="file">

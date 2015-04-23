@@ -25,7 +25,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-08-07T12:50-0400</date>
+                <date>2014-05-17T11:21-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language></langusage>
@@ -116,11 +116,12 @@
         <processinfo id="ref446">
             <head>Processing Information</head>
             <p>Photographs and buttons were separated from this collection during processing and were established as a separate collection, the Independent Association of Publishers' Employees Photographs (PHOTOS 231). In 2013, the photograph and button collection was reincorporated into the Independent Association of Publishers' Employees Records (WAG 238).</p>
+            <p>In 2014, the archived website was added as Series IV.</p>
         </processinfo>
         <controlaccess>
             <persname source="ingest">Chen, Ron.</persname>
             <corpname source="local">Communications Workers of America. Local 1096 (Princeton Junction, N.J.).</corpname>
-            <corpname source="naf">Communications Workers of America.</corpname>
+            <corpname rules="dacs" source="naf">Communications Workers of America.</corpname>
             <persname source="local">Davis, Evelyn Y.</persname>
             <corpname source="naf">Dow Jones &amp; Co.</corpname>
             <corpname source="local">Independent Association of Publishers' Employees.</corpname>
@@ -3531,6 +3532,21 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
+            </c>
+            <c id="ref447" level="series">
+                <did>
+                    <unittitle>Series IV: Archived Website</unittitle>
+                    <unitdate>Mar 1, 2013-ongoing</unitdate>
+                </did>
+                <scopecontent id="ref449">
+                    <head>Scope and Content Note</head>
+                    <p>The Independent Association of Publishers' Employees Inc. (IAPE) was founded 1937 by a group of Dow Jones &amp; Company employees in Manhattan, NY. It has grown to represent employees at various parts of Dow Jones &amp; Company in many locations across the North American continent. In 1997, by vote of the membership, IAPE became Local 1096 of the Communications Workers of America (CWA). Subsequently, IAPE joined The Newspaper Guild sector of the CWA by action of the Board of Directors. The website contains bylaws, grievances, benefits, budgets, their contract, meeting minutes, and news.</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Archived Website" ns2:role="service" ns2:href="http://webarchives.cdlib.org/site/sw1d796p2k">
+                    <daodesc>
+                        <p>Archived Website, Mar 1, 2013-ongoing </p>
+                    </daodesc>
+                </dao>
             </c>
         </dsc>
     </archdesc>

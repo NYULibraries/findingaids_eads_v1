@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid>nyupublications</eadid>
+        <eadid url="http://dlib.nyu.edu/findingaids/html/archives/nyupublications/">nyupublications</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to NYU Publications: Preservation Copies 
-                    <lb/>
-                    <date>1832-1994 </date>
-                    <lb/>
+                <titleproper>Guide to NYU Publications: Preservation Copies
                     <num>RG 1.0</num>
                 </titleproper>
                 <author>Finding aid prepared by New York University Archives staff.</author>
@@ -27,7 +24,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-06-18T17:05-0400</date>
+                <date>2015-01-20T10:42-0500</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
@@ -44,13 +41,13 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>216.0 linear feet</extent>
+                <extent>219.0 linear feet</extent>
             </physdesc>
-            <unitdate normal="1833/1999" type="inclusive">1832-1999</unitdate>
+            <unitdate normal="1832/2009" type="inclusive">1832-2009</unitdate>
             <abstract id="ref2" label="Abstract">This collection contains preservation copies of various New York University publications, primarily yearbooks, dating from the 1990s back to the first years of the University's history.</abstract>
             <physloc id="ref1989" label="Location">Please note that this collection is stored offsite, and you must contact the repository to schedule access.</physloc>
             <origination label="creator">
-                <corpname source="naf">New York University.</corpname>
+                <corpname rules="aacr" source="naf">New York University.</corpname>
             </origination>
         </did>
         <arrangement id="ref15">
@@ -60,6 +57,16 @@
                 <item>Publications</item>
             </list>
         </arrangement>
+        <bioghist id="ref2000">
+            <head>History of New York University Publications</head>
+            <p>Publications and yearbooks that make up the collection include: 
+                <title render="italic">The Violet</title>, 
+                <title render="italic">The Commerce Violet</title>, 
+                <title render="italic">The Album</title>, 
+                <title render="italic">The Torch</title>, 
+                <title render="italic">New York University Bulletin</title>, 
+                <title render="italic">University Bibliography</title>, and commencement programs.</p>
+        </bioghist>
         <scopecontent id="ref14">
             <head>Scope and Content Note</head>
             <p>The collection is comprised of preservation copies of yearbooks and other New York University publications that are stored off site.</p>
@@ -95,20 +102,10 @@
                 <extref ns2:href="http://www.nyu.edu/library/bobst/research/arch/nyupublications.htm">
                     <archref> off-site storage</archref> </extref>.</p>
         </accessrestrict>
-        <bioghist id="ref2000">
-            <head>History of New York University Publications</head>
-            <p>Publications and yearbooks that make up the collection include: 
-                <title render="italic">The Violet</title>, 
-                <title render="italic">The Commerce Violet</title>, 
-                <title render="italic">The Album</title>, 
-                <title render="italic">The Torch</title>, 
-                <title render="italic">New York University Bulletin</title>, 
-                <title render="italic">University Bibliography</title>, and commencement programs.</p>
-        </bioghist>
         <controlaccess>
-            <corpname rules="dacs" source="local">New York University. Students. Periodicals.</corpname>
-            <subject source="local">College students |z New York (State) |z New York |v Periodicals.</subject>
-            <subject source="local">Commencement ceremonies |z New York (State) |z New York |v Periodicals.</subject>
+            <corpname rules="aacr" source="local">New York University. Students |v Periodicals.</corpname>
+            <subject source="lcsh">College students |z New York (State) |z New York |v Periodicals.</subject>
+            <subject source="lcsh">Commencement ceremonies |z New York (State) |z New York |v Periodicals.</subject>
             <genreform source="aat">Periodicals.</genreform>
             <genreform source="aat">School yearbooks.</genreform>
             <subject source="lcsh">Student newspapers and periodicals |z New York (State) |z New York.</subject>
@@ -2182,7 +2179,7 @@
                 </c>
                 <c id="ref496" level="file">
                     <did>
-                        <unittitle>Gnereal Alumni Catalgo</unittitle>
+                        <unittitle>General Alumni Catalog</unittitle>
                         <container id="cid73151" type="Box" label="Mixed materials (31142040585096)">29</container>
                         <container parent="cid73151" type="item">8</container>
                         <unitdate normal="1916/1916">1916</unitdate>
@@ -2939,7 +2936,7 @@
                         <unittitle>The Hall of American Artists</unittitle>
                         <container id="cid73093" type="Box" label="Mixed materials (31142040585146)">34</container>
                         <container parent="cid73093" type="item">18</container>
-                        <unitdate normal="1833/1995" type="inclusive">undated</unitdate>
+                        <unitdate normal="1832/2007" type="inclusive">undated</unitdate>
                     </did>
                     <odd id="ref672">
                         <head>General note</head>
@@ -2952,7 +2949,7 @@
                         <unittitle>Hall of Fame for Great Americans</unittitle>
                         <container id="cid73092" type="Box" label="Mixed materials (31142040585146)">34</container>
                         <container parent="cid73092" type="item">19</container>
-                        <unitdate normal="1833/1995" type="inclusive">undated</unitdate>
+                        <unitdate normal="1832/2007" type="inclusive">undated</unitdate>
                     </did>
                     <odd id="ref675">
                         <head>General note</head>
@@ -3134,7 +3131,7 @@
                         <unittitle>University Bibliography</unittitle>
                         <container id="cid73078" type="Box" label="Mixed materials (31142040585153)">35</container>
                         <container parent="cid73078" type="item">14</container>
-                        <unitdate>1942-19194248-1948</unitdate>
+                        <unitdate normal="1942/1948" type="inclusive">1942-1948</unitdate>
                     </did>
                     <odd id="ref717">
                         <head>General note</head>
@@ -3225,7 +3222,7 @@
                         <unittitle>William Lyndon Wright, a Memoir</unittitle>
                         <container id="cid73071" type="Box" label="Mixed materials (31142040585153)">35</container>
                         <container parent="cid73071" type="item">21</container>
-                        <unitdate normal="1833/1995" type="inclusive">undated</unitdate>
+                        <unitdate normal="1832/2007" type="inclusive">undated</unitdate>
                     </did>
                     <odd id="ref738">
                         <head>General note</head>
@@ -3238,7 +3235,7 @@
                         <unittitle>William Henry Nichols</unittitle>
                         <container id="cid73070" type="Box" label="Mixed materials (31142040585153)">35</container>
                         <container parent="cid73070" type="item">22</container>
-                        <unitdate normal="1833/1995" type="inclusive">undated</unitdate>
+                        <unitdate normal="1832/2007" type="inclusive">undated</unitdate>
                     </did>
                     <odd id="ref741">
                         <head>General note</head>
@@ -3251,7 +3248,7 @@
                         <unittitle>Cornelius Baker</unittitle>
                         <container id="cid73069" type="Box" label="Mixed materials (31142040585153)">35</container>
                         <container parent="cid73069" type="item">23</container>
-                        <unitdate normal="1833/1995" type="inclusive">undated</unitdate>
+                        <unitdate normal="1832/2007" type="inclusive">undated</unitdate>
                     </did>
                     <odd id="ref744">
                         <head>General note</head>
@@ -3264,7 +3261,7 @@
                         <unittitle>A Tribute to Elmer Ellsworth Brown</unittitle>
                         <container id="cid73068" type="Box" label="Mixed materials (31142040585153)">35</container>
                         <container parent="cid73068" type="item">24</container>
-                        <unitdate normal="1833/1995" type="inclusive">undated</unitdate>
+                        <unitdate normal="1832/2007" type="inclusive">undated</unitdate>
                     </did>
                     <odd id="ref747">
                         <head>General note</head>
@@ -3274,10 +3271,10 @@
                 </c>
                 <c id="ref748" level="file">
                     <did>
-                        <unittitle>Henry Mitchel MacCracken In Memoriam</unittitle>
+                        <unittitle>Henry Mitchell MacCracken In Memoriam</unittitle>
                         <container id="cid73067" type="Box" label="Mixed materials (31142040585153)">35</container>
                         <container parent="cid73067" type="item">25</container>
-                        <unitdate normal="1833/1995" type="inclusive">undated</unitdate>
+                        <unitdate normal="1832/2007" type="inclusive">undated</unitdate>
                     </did>
                     <odd id="ref750">
                         <head>General note</head>
@@ -3290,7 +3287,7 @@
                         <unittitle>Biographical History of NYU V.2</unittitle>
                         <container id="cid73066" type="Box" label="Mixed materials (31142040585161)">36</container>
                         <container parent="cid73066" type="item">1</container>
-                        <unitdate normal="1833/1995" type="inclusive">undated</unitdate>
+                        <unitdate normal="1832/2007" type="inclusive">undated</unitdate>
                     </did>
                     <odd id="ref753">
                         <head>General note</head>
@@ -3316,7 +3313,7 @@
                         <unittitle>Graduate School of Arts &amp; Science of NYU: A History</unittitle>
                         <container id="cid73064" type="Box" label="Mixed materials (31142040585161)">36</container>
                         <container parent="cid73064" type="item">3</container>
-                        <unitdate normal="1833/1995" type="inclusive">undated</unitdate>
+                        <unitdate>undated</unitdate>
                     </did>
                     <odd id="ref759">
                         <head>General note</head>
@@ -3339,10 +3336,10 @@
                 </c>
                 <c id="ref763" level="file">
                     <did>
-                        <unittitle>Detication of the Elmer Ellsworth Brown House</unittitle>
+                        <unittitle>Dedication of the Elmer Ellsworth Brown House</unittitle>
                         <container id="cid73062" type="Box" label="Mixed materials (31142040585161)">36</container>
                         <container parent="cid73062" type="item">5</container>
-                        <unitdate normal="1833/1995" type="inclusive">undated</unitdate>
+                        <unitdate normal="1832/2007" type="inclusive">undated</unitdate>
                     </did>
                     <odd id="ref765">
                         <head>General note</head>
@@ -7163,7 +7160,7 @@
                         <unittitle>Alumni Catalog</unittitle>
                         <container id="cid72768" type="Box" label="Mixed materials (31142042257363)">110</container>
                         <container parent="cid72768" type="Folder">2</container>
-                        <unitdate normal="1833/1905" type="inclusive">1833-1905</unitdate>
+                        <unitdate normal="1898/1905" type="inclusive">1898-1905</unitdate>
                     </did>
                     <odd id="ref1647">
                         <head>General note</head>
@@ -9643,6 +9640,1887 @@
                         <container id="cid10338007" type="Box" label="Books (31142042273147)">173</container>
                         <container parent="cid10338007" type="item">7</container>
                         <unitdate normal="1999/1999">1999</unitdate>
+                    </did>
+                </c>
+                <c id="ref2001" level="file">
+                    <did>
+                        <unittitle>Stern School of Business Bulletins</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563001" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563001" type="Folder">1</container>
+                        <unitdate>1996-1998, 2002-2003</unitdate>
+                    </did>
+                </c>
+                <c id="ref2003" level="file">
+                    <did>
+                        <unittitle>School of Social Work Bulletin</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563002" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563002" type="Folder">2</container>
+                        <unitdate>2002-2003</unitdate>
+                    </did>
+                </c>
+                <c id="ref2004" level="file">
+                    <did>
+                        <unittitle>Gallatin School of Individualized Study Bulletin</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563003" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563003" type="Folder">3</container>
+                        <unitdate>1996-1997</unitdate>
+                    </did>
+                </c>
+                <c id="ref2005" level="file">
+                    <did>
+                        <unittitle>Steinhardt School of Education Bulletins</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563004" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563004" type="Folder">4</container>
+                        <unitdate>1971-1972, 1998-2000</unitdate>
+                    </did>
+                </c>
+                <c id="ref2007" level="file">
+                    <did>
+                        <unittitle>Faculty Handbook</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563005" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563005" type="Folder">5</container>
+                        <unitdate>1982</unitdate>
+                    </did>
+                </c>
+                <c id="ref2008" level="file">
+                    <did>
+                        <unittitle>Faculty Handbooks</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563006" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563006" type="Folder">6</container>
+                        <unitdate>1961, 1972</unitdate>
+                    </did>
+                </c>
+                <c id="ref2009" level="file">
+                    <did>
+                        <unittitle>NYU Official Directory</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563007" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563007" type="Folder">7</container>
+                        <unitdate>1968-1969</unitdate>
+                    </did>
+                </c>
+                <c id="ref2010" level="file">
+                    <did>
+                        <unittitle>NYU Official Directory</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563008" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563008" type="Folder">8</container>
+                        <unitdate>1974, 1974-1975</unitdate>
+                    </did>
+                </c>
+                <c id="ref2011" level="file">
+                    <did>
+                        <unittitle>Graduate School of Arts and Science Bulletin</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563009" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563009" type="Folder">9</container>
+                        <unitdate>1971-1973</unitdate>
+                    </did>
+                </c>
+                <c id="ref2012" level="file">
+                    <did>
+                        <unittitle>College of Business and Public Administration Bulletin</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563010" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563010" type="Folder">10</container>
+                        <unitdate>1976-1978</unitdate>
+                    </did>
+                </c>
+                <c id="ref2014" level="file">
+                    <did>
+                        <unittitle>School of Arts Bulletin</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563011" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563011" type="Folder">11</container>
+                        <unitdate>1976-1978</unitdate>
+                    </did>
+                </c>
+                <c id="ref2013" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563012" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563012" type="Folder">12</container>
+                        <unitdate>1937, 1938</unitdate>
+                    </did>
+                </c>
+                <c id="ref2015" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563013" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563013" type="Folder">13</container>
+                        <unitdate>1940, 1944</unitdate>
+                    </did>
+                </c>
+                <c id="ref2016" level="file">
+                    <did>
+                        <unittitle>Commencement Programs (3 copies)</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563014" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563014" type="Folder">14</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c>
+                <c id="ref2017" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563015" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563015" type="Folder">15</container>
+                        <unitdate>1946, 1947</unitdate>
+                    </did>
+                </c>
+                <c id="ref2018" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563016" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563016" type="Folder">16</container>
+                        <unitdate>1948, 1950</unitdate>
+                    </did>
+                </c>
+                <c id="ref2021" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563017" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563017" type="Folder">17</container>
+                        <unitdate>1956, 1958, 1959</unitdate>
+                    </did>
+                </c>
+                <c id="ref2022" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563018" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563018" type="Folder">18</container>
+                        <unitdate>1964, 1965, 1966</unitdate>
+                    </did>
+                </c>
+                <c id="ref2023" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563019" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563019" type="Folder">19</container>
+                        <unitdate>1967, 1968</unitdate>
+                    </did>
+                </c>
+                <c id="ref2024" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563020" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563020" type="Folder">20</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c>
+                <c id="ref2025" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563021" type="Box" label="Mixed materials (31142046892132)">174</container>
+                        <container parent="cid11563021" type="Folder">21</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c>
+                <c id="ref2026" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563022" type="Box" label="Mixed materials (31142046892140)">175</container>
+                        <container parent="cid11563022" type="Folder">1</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c>
+                <c id="ref2027" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563023" type="Box" label="Mixed materials (31142046892140)">175</container>
+                        <container parent="cid11563023" type="Folder">2</container>
+                        <unitdate>1972</unitdate>
+                    </did>
+                </c>
+                <c id="ref2028" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563024" type="Box" label="Mixed materials (31142046892140)">175</container>
+                        <container parent="cid11563024" type="Folder">3</container>
+                        <unitdate>1973</unitdate>
+                    </did>
+                </c>
+                <c id="ref2029" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563025" type="Box" label="Mixed materials (31142046892140)">175</container>
+                        <container parent="cid11563025" type="Folder">4</container>
+                        <unitdate>1973, 1974</unitdate>
+                    </did>
+                </c>
+                <c id="ref2030" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563026" type="Box" label="Mixed materials (31142046892140)">175</container>
+                        <container parent="cid11563026" type="Folder">5</container>
+                        <unitdate>1975, 1977</unitdate>
+                    </did>
+                </c>
+                <c id="ref2031" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563027" type="Box" label="Mixed materials (31142046892140)">175</container>
+                        <container parent="cid11563027" type="Folder">6</container>
+                        <unitdate>1979, 1980</unitdate>
+                    </did>
+                </c>
+                <c id="ref2032" level="file">
+                    <did>
+                        <unittitle>Commencement Programs</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11563028" type="Box" label="Mixed materials (31142046892140)">175</container>
+                        <container parent="cid11563028" type="Folder">7</container>
+                        <unitdate>1982, 1984</unitdate>
+                    </did>
+                </c>
+                <c id="ref2034" level="item">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12027030" type="Box" label="Books (31142046894062)">176</container>
+                        <container parent="cid12027030" type="item">1</container>
+                        <unitdate normal="1903/1903">1903</unitdate>
+                    </did>
+                </c>
+                <c id="ref2035" level="item">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028001" type="Box" label="Books (31142046894062)">176</container>
+                        <container parent="cid12028001" type="item">2</container>
+                        <unitdate normal="1905/1905">1905</unitdate>
+                    </did>
+                </c>
+                <c id="ref2036" level="file">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028002" type="Box" label="Books (31142046894062)">176</container>
+                        <container parent="cid12028002" type="item">3</container>
+                        <unitdate normal="1912/1912">1912</unitdate>
+                    </did>
+                </c>
+                <c id="ref2037" level="file">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028003" type="Box" label="Books (31142046894062)">176</container>
+                        <container parent="cid12028003" type="item">4</container>
+                        <unitdate normal="1925/1925">1925</unitdate>
+                    </did>
+                </c>
+                <c id="ref2038" level="file">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028004" type="Box" label="Books (31142046894062)">176</container>
+                        <container parent="cid12028004" type="item">5</container>
+                        <unitdate normal="1926/1926">1926</unitdate>
+                    </did>
+                </c>
+                <c id="ref2039" level="file">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028005" type="Box" label="Books (31142046894062)">176</container>
+                        <container parent="cid12028005" type="item">6</container>
+                        <unitdate normal="1928/1928">1928</unitdate>
+                    </did>
+                </c>
+                <c id="ref2040" level="file">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028006" type="Box" label="Books (31142046894062)">176</container>
+                        <container parent="cid12028006" type="item">7</container>
+                        <unitdate normal="1929/1929">1929</unitdate>
+                    </did>
+                </c>
+                <c id="ref2041" level="item">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028007" type="Box" label="Books (31142046894062)">176</container>
+                        <container parent="cid12028007" type="item">8</container>
+                        <unitdate normal="1935/1935">1935</unitdate>
+                    </did>
+                </c>
+                <c id="ref2173" level="item">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12079001" type="Box" label="Mixed materials">197</container>
+                        <container parent="cid12079001" type="item">9</container>
+                        <unitdate normal="1897/1897">1897</unitdate>
+                    </did>
+                </c>
+                <c id="ref2042" level="item">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028008" type="Box" label="Books (31142046894070)">177</container>
+                        <container parent="cid12028008" type="item">1</container>
+                        <unitdate normal="1943/1943">1943</unitdate>
+                    </did>
+                </c>
+                <c id="ref2043" level="item">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028009" type="Box" label="Books (31142046894070)">177</container>
+                        <container parent="cid12028009" type="item">2</container>
+                        <unitdate normal="1947/1947">1947</unitdate>
+                    </did>
+                </c>
+                <c id="ref2044" level="item">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028010" type="Box" label="Books (31142046894070)">177</container>
+                        <container parent="cid12028010" type="item">3</container>
+                        <unitdate normal="1954/1954">1954</unitdate>
+                    </did>
+                </c>
+                <c id="ref2045" level="item">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028011" type="Box" label="Books (31142046894070)">177</container>
+                        <container parent="cid12028011" type="item">4</container>
+                        <unitdate normal="1956/1956">1956</unitdate>
+                    </did>
+                </c>
+                <c id="ref2046" level="item">
+                    <did>
+                        <unittitle>Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028012" type="Box" label="Books (31142046894070)">177</container>
+                        <container parent="cid12028012" type="item">5</container>
+                        <unitdate normal="1970/1970">1970</unitdate>
+                    </did>
+                </c>
+                <c id="ref2047" level="item">
+                    <did>
+                        <unittitle>Album</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028013" type="Box" label="Books (31142046894070)">177</container>
+                        <container parent="cid12028013" type="item">6</container>
+                        <unitdate normal="1928/1928">1928</unitdate>
+                    </did>
+                </c>
+                <c id="ref2048" level="item">
+                    <did>
+                        <unittitle>Album</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028014" type="Box" label="Books (31142046894070)">177</container>
+                        <container parent="cid12028014" type="item">7</container>
+                        <unitdate normal="1930/1930">1930</unitdate>
+                    </did>
+                </c>
+                <c id="ref2049" level="item">
+                    <did>
+                        <unittitle>Album</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028015" type="Box" label="Books (31142046894088)">178</container>
+                        <container parent="cid12028015" type="item">1</container>
+                        <unitdate normal="1945/1945">1945</unitdate>
+                    </did>
+                </c>
+                <c id="ref2050" level="item">
+                    <did>
+                        <unittitle>Album</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028016" type="Box" label="Books (31142046894088)">178</container>
+                        <container parent="cid12028016" type="item">2</container>
+                        <unitdate normal="1958/1958">1958</unitdate>
+                    </did>
+                </c>
+                <c id="ref2051" level="item">
+                    <did>
+                        <unittitle>Torch</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028017" type="Box" label="Books (31142046894088)">178</container>
+                        <container parent="cid12028017" type="item">3</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c>
+                <c id="ref2052" level="item">
+                    <did>
+                        <unittitle>Torch</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028018" type="Box" label="Books (31142046894088)">178</container>
+                        <container parent="cid12028018" type="item">4</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c>
+                <c id="ref2053" level="item">
+                    <did>
+                        <unittitle>Torch</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028019" type="Box" label="Books (31142046894088)">178</container>
+                        <container parent="cid12028019" type="item">5</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c>
+                <c id="ref2058" level="file">
+                    <did>
+                        <unittitle>Torch</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028024" type="Box" label="Books (31142046894088)">178</container>
+                        <container parent="cid12028024" type="item">6</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c>
+                <c id="ref2057" level="item">
+                    <did>
+                        <unittitle>Torch</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028023" type="Box" label="Books (31142046894088)">178</container>
+                        <container parent="cid12028023" type="item">7</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c>
+                <c id="ref2056" level="item">
+                    <did>
+                        <unittitle>Torch</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028022" type="Box" label="Books (31142046894088)">178</container>
+                        <container parent="cid12028022" type="item">8</container>
+                        <unitdate normal="1994/1994">1994</unitdate>
+                    </did>
+                </c>
+                <c id="ref2055" level="item">
+                    <did>
+                        <unittitle>Torch</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028021" type="Box" label="Books (31142046894088)">178</container>
+                        <container parent="cid12028021" type="item">9</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did>
+                </c>
+                <c id="ref2054" level="item">
+                    <did>
+                        <unittitle>Torch</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12028020" type="Box" label="Books (31142046894088)">178</container>
+                        <container parent="cid12028020" type="item">10</container>
+                        <unitdate normal="1998/1998">1998</unitdate>
+                    </did>
+                </c>
+                <c id="ref2059" level="item">
+                    <did>
+                        <unittitle>The Bellevue Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029001" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029001" type="item">1</container>
+                        <unitdate normal="1929/1929">1929</unitdate>
+                    </did>
+                </c>
+                <c id="ref2060" level="item">
+                    <did>
+                        <unittitle>The Owl</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029002" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029002" type="item">2</container>
+                        <unitdate normal="1930/1930">1930</unitdate>
+                    </did>
+                </c>
+                <c id="ref2061" level="item">
+                    <did>
+                        <unittitle>Synopsis</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029003" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029003" type="item">3</container>
+                        <unitdate>1943</unitdate>
+                    </did>
+                </c>
+                <c id="ref2062" level="item">
+                    <did>
+                        <unittitle>Synopsis</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029004" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029004" type="item">4</container>
+                        <unitdate normal="1943/1943">1943</unitdate>
+                    </did>
+                </c>
+                <c id="ref2063" level="item">
+                    <did>
+                        <unittitle>Synopsis</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029005" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029005" type="item">5</container>
+                        <unitdate normal="1943/1943">1943</unitdate>
+                    </did>
+                </c>
+                <c id="ref2064" level="item">
+                    <did>
+                        <unittitle>The NYU Mast</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029006" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029006" type="item">6</container>
+                        <unitdate normal="1943/1943">1943</unitdate>
+                    </did>
+                </c>
+                <c id="ref2065" level="item">
+                    <did>
+                        <unittitle>The NYU Mast</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029007" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029007" type="item">7</container>
+                        <unitdate normal="1943/1943">1943</unitdate>
+                    </did>
+                </c>
+                <c id="ref2066" level="item">
+                    <did>
+                        <unittitle>Synopsis</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029008" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029008" type="item">8</container>
+                        <unitdate normal="1944/1944">1944</unitdate>
+                    </did>
+                </c>
+                <c id="ref2067" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029009" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029009" type="item">9</container>
+                        <unitdate normal="1948/1948">1948</unitdate>
+                    </did>
+                </c>
+                <c id="ref2068" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029010" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029010" type="item">10</container>
+                        <unitdate normal="1949/1949">1949</unitdate>
+                    </did>
+                </c>
+                <c id="ref2069" level="file">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029011" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029011" type="item">11</container>
+                        <unitdate normal="1950/1950">1950</unitdate>
+                    </did>
+                </c>
+                <c id="ref2070" level="item">
+                    <did>
+                        <unittitle>Album</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029012" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029012" type="item">12</container>
+                        <unitdate normal="1955/1955">1955</unitdate>
+                    </did>
+                </c>
+                <c id="ref2071" level="item">
+                    <did>
+                        <unittitle>Album</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029013" type="Box" label="Books (31142046894096)">179</container>
+                        <container parent="cid12029013" type="item">13</container>
+                        <unitdate normal="1955/1955">1955</unitdate>
+                    </did>
+                </c>
+                <c id="ref2072" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029014" type="Box" label="Books (31142046894104)">180</container>
+                        <container parent="cid12029014" type="item">1</container>
+                        <unitdate normal="1951/1951">1951</unitdate>
+                    </did>
+                </c>
+                <c id="ref2073" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029015" type="Box" label="Books (31142046894104)">180</container>
+                        <container parent="cid12029015" type="item">2</container>
+                        <unitdate normal="1952/1952">1952</unitdate>
+                    </did>
+                </c>
+                <c id="ref2074" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029016" type="Box" label="Books (31142046894104)">180</container>
+                        <container parent="cid12029016" type="item">3</container>
+                        <unitdate normal="1953/1953">1953</unitdate>
+                    </did>
+                </c>
+                <c id="ref2075" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029017" type="Box" label="Books (31142046894104)">180</container>
+                        <container parent="cid12029017" type="item">4</container>
+                        <unitdate normal="1954/1954">1954</unitdate>
+                    </did>
+                </c>
+                <c id="ref2076" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029018" type="Box" label="Books (31142046894104)">180</container>
+                        <container parent="cid12029018" type="item">5</container>
+                        <unitdate normal="1955/1955">1955</unitdate>
+                    </did>
+                </c>
+                <c id="ref2077" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029019" type="Box" label="Books (31142046894104)">180</container>
+                        <container parent="cid12029019" type="item">6</container>
+                        <unitdate normal="1956/1956">1956</unitdate>
+                    </did>
+                </c>
+                <c id="ref2078" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029020" type="Box" label="Books (31142046894104)">180</container>
+                        <container parent="cid12029020" type="item">7</container>
+                        <unitdate normal="1956/1956">1956</unitdate>
+                    </did>
+                </c>
+                <c id="ref2079" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029021" type="Box" label="Books (31142046894104)">180</container>
+                        <container parent="cid12029021" type="item">8</container>
+                        <unitdate normal="1957/1957">1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref2080" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029022" type="Box" label="Books (31142046894104)">180</container>
+                        <container parent="cid12029022" type="item">9</container>
+                        <unitdate normal="1957/1957">1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref2081" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029023" type="Box" label="Books (31142046894112)">181</container>
+                        <container parent="cid12029023" type="item">1</container>
+                        <unitdate normal="1958/1958">1958</unitdate>
+                    </did>
+                </c>
+                <c id="ref2082" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029024" type="Box" label="Books (31142046894112)">181</container>
+                        <container parent="cid12029024" type="item">2</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c>
+                <c id="ref2083" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029025" type="Box" label="Books (31142046894112)">181</container>
+                        <container parent="cid12029025" type="item">3</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c>
+                <c id="ref2084" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029026" type="Box" label="Books (31142046894112)">181</container>
+                        <container parent="cid12029026" type="item">4</container>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c>
+                <c id="ref2085" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029027" type="Box" label="Books (31142046894112)">181</container>
+                        <container parent="cid12029027" type="item">5</container>
+                        <unitdate normal="1964/1964">1964</unitdate>
+                    </did>
+                </c>
+                <c id="ref2086" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029028" type="Box" label="Books (31142046894112)">181</container>
+                        <container parent="cid12029028" type="item">6</container>
+                        <unitdate normal="1965/1965">1965</unitdate>
+                    </did>
+                </c>
+                <c id="ref2087" level="item">
+                    <did>
+                        <unittitle>Dental Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029029" type="Box" label="Books (31142046894112)">181</container>
+                        <container parent="cid12029029" type="item">7</container>
+                        <unitdate normal="1966/1966">1966</unitdate>
+                    </did>
+                </c>
+                <c id="ref2088" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029030" type="Box" label="Books (31142046894120)">182</container>
+                        <container parent="cid12029030" type="item">1</container>
+                        <unitdate normal="1933/1933">1933</unitdate>
+                    </did>
+                </c>
+                <c id="ref2089" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029031" type="Box" label="Books (31142046894120)">182</container>
+                        <container parent="cid12029031" type="item">2</container>
+                        <unitdate normal="1950/1950">1950</unitdate>
+                    </did>
+                </c>
+                <c id="ref2090" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029032" type="Box" label="Books (31142046894120)">182</container>
+                        <container parent="cid12029032" type="item">3</container>
+                        <unitdate normal="1955/1955">1955</unitdate>
+                    </did>
+                </c>
+                <c id="ref2091" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029033" type="Box" label="Books (31142046894120)">182</container>
+                        <container parent="cid12029033" type="item">4</container>
+                        <unitdate normal="1957/1957">1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref2092" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029034" type="Box" label="Books (31142046894120)">182</container>
+                        <container parent="cid12029034" type="item">5</container>
+                        <unitdate normal="1957/1957">1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref2093" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029035" type="Box" label="Books (31142046894120)">182</container>
+                        <container parent="cid12029035" type="item">6</container>
+                        <unitdate normal="1957/1957">1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref2094" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029036" type="Box" label="Books (31142046894120)">182</container>
+                        <container parent="cid12029036" type="item">8</container>
+                        <unitdate normal="1971/1971">1971</unitdate>
+                    </did>
+                </c>
+                <c id="ref2095" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029037" type="Box" label="Books (31142046894120)">182</container>
+                        <container parent="cid12029037" type="item">8</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c>
+                <c id="ref2096" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029038" type="Box" label="Books (31142046894120)">182</container>
+                        <container parent="cid12029038" type="item">9</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c>
+                <c id="ref2097" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029039" type="Box" label="Books (31142046894120)">182</container>
+                        <container parent="cid12029039" type="item">10</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c>
+                <c id="ref2098" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029040" type="Box" label="Books (31142046894138)">183</container>
+                        <container parent="cid12029040" type="item">1</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c>
+                <c id="ref2099" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029041" type="Box" label="Books (31142046894138)">183</container>
+                        <container parent="cid12029041" type="item">2</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c>
+                <c id="ref2100" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029042" type="Box" label="Books (31142046894138)">183</container>
+                        <container parent="cid12029042" type="item">3</container>
+                        <unitdate normal="1965/1965">1965</unitdate>
+                    </did>
+                </c>
+                <c id="ref2101" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029043" type="Box" label="Books (31142046894138)">183</container>
+                        <container parent="cid12029043" type="item">4</container>
+                        <unitdate normal="1967/1967">1967</unitdate>
+                    </did>
+                </c>
+                <c id="ref2102" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029044" type="Box" label="Books (31142046894138)">183</container>
+                        <container parent="cid12029044" type="item">5</container>
+                        <unitdate normal="1967/1967">1967</unitdate>
+                    </did>
+                </c>
+                <c id="ref2103" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029045" type="Box" label="Books (31142046894138)">183</container>
+                        <container parent="cid12029045" type="item">6</container>
+                        <unitdate normal="1968/1968">1968</unitdate>
+                    </did>
+                </c>
+                <c id="ref2104" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029046" type="Box" label="Books (31142046894138)">183</container>
+                        <container parent="cid12029046" type="item">7</container>
+                        <unitdate normal="1969/1969">1969</unitdate>
+                    </did>
+                </c>
+                <c id="ref2105" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029047" type="Box" label="Books (31142046894138)">183</container>
+                        <container parent="cid12029047" type="item">8</container>
+                        <unitdate normal="1970/1970">1970</unitdate>
+                    </did>
+                </c>
+                <c id="ref2106" level="item">
+                    <did>
+                        <unittitle>The Education Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12029048" type="Box" label="Books (31142046894138)">183</container>
+                        <container parent="cid12029048" type="item">9</container>
+                        <unitdate normal="1970/1970">1970</unitdate>
+                    </did>
+                </c>
+                <c id="ref2107" level="item">
+                    <did>
+                        <unittitle>Education Violet Review</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030001" type="Box" label="Books (31142046894146)">184</container>
+                        <container parent="cid12030001" type="item">1</container>
+                        <unitdate normal="1973/1973">1973</unitdate>
+                    </did>
+                </c>
+                <c id="ref2108" level="item">
+                    <did>
+                        <unittitle>Education Violet Review</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030002" type="Box" label="Books (31142046894146)">184</container>
+                        <container parent="cid12030002" type="item">2</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c>
+                <c id="ref2109" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030003" type="Box" label="Books (31142046894146)">184</container>
+                        <container parent="cid12030003" type="item">3</container>
+                        <unitdate normal="1923/1923">1923</unitdate>
+                    </did>
+                </c>
+                <c id="ref2110" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030004" type="Box" label="Books (31142046894146)">184</container>
+                        <container parent="cid12030004" type="item">4</container>
+                        <unitdate normal="1924/1924">1924</unitdate>
+                    </did>
+                </c>
+                <c id="ref2111" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030005" type="Box" label="Books (31142046894146)">184</container>
+                        <container parent="cid12030005" type="item">5</container>
+                        <unitdate normal="1930/1930">1930</unitdate>
+                    </did>
+                </c>
+                <c id="ref2112" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030006" type="Box" label="Books (31142046894146)">184</container>
+                        <container parent="cid12030006" type="item">6</container>
+                        <unitdate normal="1930/1930">1930</unitdate>
+                    </did>
+                </c>
+                <c id="ref2113" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030007" type="Box" label="Books (31142046894146)">184</container>
+                        <container parent="cid12030007" type="item">7</container>
+                        <unitdate normal="1935/1935">1935</unitdate>
+                    </did>
+                </c>
+                <c id="ref2114" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030008" type="Box" label="Books (31142046894146)">184</container>
+                        <container parent="cid12030008" type="item">8</container>
+                        <unitdate normal="1935/1935">1935</unitdate>
+                    </did>
+                </c>
+                <c id="ref2115" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030009" type="Box" label="Books (31142046894153)">185</container>
+                        <container parent="cid12030009" type="item">1</container>
+                        <unitdate normal="1936/1936">1936</unitdate>
+                    </did>
+                </c>
+                <c id="ref2116" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030010" type="Box" label="Books (31142046894153)">185</container>
+                        <container parent="cid12030010" type="item">2</container>
+                        <unitdate normal="1937/1937">1937</unitdate>
+                    </did>
+                </c>
+                <c id="ref2117" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030011" type="Box" label="Books (31142046894153)">185</container>
+                        <container parent="cid12030011" type="item">3</container>
+                        <unitdate normal="1940/1940">1940</unitdate>
+                    </did>
+                </c>
+                <c id="ref2118" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030012" type="Box" label="Books (31142046894153)">185</container>
+                        <container parent="cid12030012" type="item">4</container>
+                        <unitdate normal="1941/1941">1941</unitdate>
+                    </did>
+                </c>
+                <c id="ref2119" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030013" type="Box" label="Books (31142046894153)">185</container>
+                        <container parent="cid12030013" type="item">5</container>
+                        <unitdate normal="1948/1948">1948</unitdate>
+                    </did>
+                </c>
+                <c id="ref2120" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12030014" type="Box" label="Books (31142046894153)">185</container>
+                        <container parent="cid12030014" type="item">6</container>
+                        <unitdate normal="1948/1948">1948</unitdate>
+                    </did>
+                </c>
+                <c id="ref2122" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031001" type="Box" label="Books (31142046894161)">186</container>
+                        <container parent="cid12031001" type="item">1</container>
+                        <unitdate normal="1949/1949">1949</unitdate>
+                    </did>
+                </c>
+                <c id="ref2123" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031002" type="Box" label="Books (31142046894161)">186</container>
+                        <container parent="cid12031002" type="item">2</container>
+                        <unitdate normal="1949/1949">1949</unitdate>
+                    </did>
+                </c>
+                <c id="ref2124" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031003" type="Box" label="Books (31142046894161)">186</container>
+                        <container parent="cid12031003" type="item">3</container>
+                        <unitdate normal="1957/1957">1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref2125" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031004" type="Box" label="Books (31142046894161)">186</container>
+                        <container parent="cid12031004" type="item">4</container>
+                        <unitdate normal="1958/1958">1958</unitdate>
+                    </did>
+                </c>
+                <c id="ref2126" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031005" type="Box" label="Books (31142046894161)">186</container>
+                        <container parent="cid12031005" type="item">5</container>
+                        <unitdate normal="1959/1959">1959</unitdate>
+                    </did>
+                </c>
+                <c id="ref2127" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031006" type="Box" label="Books (31142046894161)">186</container>
+                        <container parent="cid12031006" type="item">6</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c>
+                <c id="ref2128" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031007" type="Box" label="Books (31142046894179)">187</container>
+                        <container parent="cid12031007" type="item">1</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c>
+                <c id="ref2129" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031008" type="Box" label="Books (31142046894179)">187</container>
+                        <container parent="cid12031008" type="item">2</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c>
+                <c id="ref2130" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031009" type="Box" label="Books (31142046894179)">187</container>
+                        <container parent="cid12031009" type="item">3</container>
+                        <unitdate normal="1967/1967">1967</unitdate>
+                    </did>
+                </c>
+                <c id="ref2131" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031010" type="Box" label="Books (31142046894179)">187</container>
+                        <container parent="cid12031010" type="item">4</container>
+                        <unitdate normal="1967/1967">1967</unitdate>
+                    </did>
+                </c>
+                <c id="ref2132" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031011" type="Box" label="Books (31142046894179)">187</container>
+                        <container parent="cid12031011" type="item">5</container>
+                        <unitdate normal="1967/1967">1967</unitdate>
+                    </did>
+                </c>
+                <c id="ref2133" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031013" type="Box" label="Books (31142046894179)">187</container>
+                        <container parent="cid12031013" type="item">6</container>
+                        <unitdate normal="1970/1970">1970</unitdate>
+                    </did>
+                </c>
+                <c id="ref2134" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031012" type="Box" label="Books (31142046894179)">187</container>
+                        <container parent="cid12031012" type="item">7</container>
+                        <unitdate normal="1971/1971">1971</unitdate>
+                    </did>
+                </c>
+                <c id="ref2135" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031014" type="Box" label="Books (31142046894179)">187</container>
+                        <container parent="cid12031014" type="item">8</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c>
+                <c id="ref2136" level="item">
+                    <did>
+                        <unittitle>Commerce Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12031015" type="Box" label="Books (31142046894179)">187</container>
+                        <container parent="cid12031015" type="item">9</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c>
+                <c id="ref2142" level="item">
+                    <did>
+                        <unittitle>Business and Public Adminstration Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032008" type="Box" label="Books (31142046894187)">188</container>
+                        <container parent="cid12032008" type="item">1</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c>
+                <c id="ref2143" level="item">
+                    <did>
+                        <unittitle>Business and Public Adminstration Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032009" type="Box" label="Books (31142046894187)">188</container>
+                        <container parent="cid12032009" type="item">2</container>
+                        <unitdate normal="1982/1982">1982</unitdate>
+                    </did>
+                </c>
+                <c id="ref2140" level="item">
+                    <did>
+                        <unittitle>Business and Public Adminstration Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032006" type="Box" label="Books (31142046894187)">188</container>
+                        <container parent="cid12032006" type="item">3</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c>
+                <c id="ref2139" level="item">
+                    <did>
+                        <unittitle>Business and Public Adminstration Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032005" type="Box" label="Books (31142046894187)">188</container>
+                        <container parent="cid12032005" type="item">4</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c>
+                <c id="ref2138" level="item">
+                    <did>
+                        <unittitle>Business and Public Adminstration Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032003" type="Box" label="Books (31142046894187)">188</container>
+                        <container parent="cid12032003" type="item">5</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c>
+                <c id="ref2141" level="item">
+                    <did>
+                        <unittitle>Business and Public Adminstration Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032007" type="Box" label="Books (31142046894187)">188</container>
+                        <container parent="cid12032007" type="item">6</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c>
+                <c id="ref2144" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032010" type="Box" label="Books (31142046894187)">188</container>
+                        <container parent="cid12032010" type="item">7</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c>
+                <c id="ref2145" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032011" type="Box" label="Books (31142046894187)">188</container>
+                        <container parent="cid12032011" type="item">8</container>
+                        <unitdate normal="1992/1992">1992</unitdate>
+                    </did>
+                </c>
+                <c id="ref2146" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032012" type="Box" label="Books (31142046894187)">188</container>
+                        <container parent="cid12032012" type="item">9</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c>
+                <c id="ref2148" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032013" type="Box" label="Books (31142046894195)">189</container>
+                        <container parent="cid12032013" type="item">1</container>
+                        <unitdate normal="1994/1994">1994</unitdate>
+                    </did>
+                </c>
+                <c id="ref2149" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032014" type="Box" label="Books (31142046894195)">189</container>
+                        <container parent="cid12032014" type="item">2</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did>
+                </c>
+                <c id="ref2150" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032015" type="Box" label="Books (31142046894195)">189</container>
+                        <container parent="cid12032015" type="item">3</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did>
+                </c>
+                <c id="ref2151" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032016" type="Box" label="Books (31142046894195)">189</container>
+                        <container parent="cid12032016" type="item">4</container>
+                        <unitdate normal="1999/1999">1999</unitdate>
+                    </did>
+                </c>
+                <c id="ref2152" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032017" type="Box" label="Books (31142046894195)">189</container>
+                        <container parent="cid12032017" type="item">5</container>
+                        <unitdate normal="1999/1999">1999</unitdate>
+                    </did>
+                </c>
+                <c id="ref2153" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032018" type="Box" label="Books (31142046894195)">189</container>
+                        <container parent="cid12032018" type="item">6</container>
+                        <unitdate normal="2000/2000">2000</unitdate>
+                    </did>
+                </c>
+                <c id="ref2154" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032019" type="Box" label="Books (31142046894195)">189</container>
+                        <container parent="cid12032019" type="item">7</container>
+                        <unitdate normal="2001/2001">2001</unitdate>
+                    </did>
+                </c>
+                <c id="ref2155" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032020" type="Box" label="Books (31142046894195)">189</container>
+                        <container parent="cid12032020" type="item">8</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                </c>
+                <c id="ref2156" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032021" type="Box" label="Books (31142046894203)">190</container>
+                        <container parent="cid12032021" type="item">1</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c>
+                <c id="ref2157" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032022" type="Box" label="Books (31142046894203)">190</container>
+                        <container parent="cid12032022" type="item">2</container>
+                        <unitdate normal="2004/2004">2004</unitdate>
+                    </did>
+                </c>
+                <c id="ref2158" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032023" type="Box" label="Books (31142046894203)">190</container>
+                        <container parent="cid12032023" type="item">3</container>
+                        <unitdate normal="2005/2005">2005</unitdate>
+                    </did>
+                </c>
+                <c id="ref2159" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032024" type="Box" label="Books (31142046894203)">190</container>
+                        <container parent="cid12032024" type="item">4</container>
+                        <unitdate normal="2006/2006">2006</unitdate>
+                    </did>
+                </c>
+                <c id="ref2160" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032025" type="Box" label="Books (31142046894203)">190</container>
+                        <container parent="cid12032025" type="item">5</container>
+                        <unitdate normal="2006/2006">2006</unitdate>
+                    </did>
+                </c>
+                <c id="ref2161" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032026" type="Box" label="Books (31142046894203)">190</container>
+                        <container parent="cid12032026" type="item">6</container>
+                        <unitdate normal="2006/2006">2006</unitdate>
+                    </did>
+                </c>
+                <c id="ref2162" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032027" type="Box" label="Books (31142046894203)">190</container>
+                        <container parent="cid12032027" type="item">7</container>
+                        <unitdate normal="2006/2006">2006</unitdate>
+                    </did>
+                </c>
+                <c id="ref2163" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032028" type="Box" label="Books (31142046894203)">190</container>
+                        <container parent="cid12032028" type="item">8</container>
+                        <unitdate normal="2007/2007">2007</unitdate>
+                    </did>
+                </c>
+                <c id="ref2164" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032029" type="Box" label="Books (31142046894211)">191</container>
+                        <container parent="cid12032029" type="item">1</container>
+                        <unitdate normal="2008/2008">2008</unitdate>
+                    </did>
+                </c>
+                <c id="ref2165" level="item">
+                    <did>
+                        <unittitle>Stern Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032030" type="Box" label="Books (31142046894211)">191</container>
+                        <container parent="cid12032030" type="item">2</container>
+                        <unitdate normal="2009/2009">2009</unitdate>
+                    </did>
+                </c>
+                <c id="ref2166" level="item">
+                    <did>
+                        <unittitle>Visions (School of the Arts)</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032031" type="Box" label="Books (31142046894211)">191</container>
+                        <container parent="cid12032031" type="item">3</container>
+                        <unitdate normal="1982/1982">1982</unitdate>
+                    </did>
+                </c>
+                <c id="ref2167" level="item">
+                    <did>
+                        <unittitle>Freshman Register</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032032" type="Box" label="Books (31142046894211)">191</container>
+                        <container parent="cid12032032" type="item">4</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c>
+                <c id="ref2168" level="item">
+                    <did>
+                        <unittitle>Freshman Register</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032033" type="Box" label="Books (31142046894211)">191</container>
+                        <container parent="cid12032033" type="item">5</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c>
+                <c id="ref2169" level="item">
+                    <did>
+                        <unittitle>Freshman Register</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032034" type="Box" label="Books (31142046894211)">191</container>
+                        <container parent="cid12032034" type="item">6</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c>
+                <c id="ref2170" level="item">
+                    <did>
+                        <unittitle>Freshman Register</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032035" type="Box" label="Books (31142046894211)">191</container>
+                        <container parent="cid12032035" type="item">7</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c>
+                <c id="ref2171" level="item">
+                    <did>
+                        <unittitle>Freshman Register</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032036" type="Box" label="Books (31142046894211)">191</container>
+                        <container parent="cid12032036" type="item">8</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c>
+                <c id="ref2172" level="item">
+                    <did>
+                        <unittitle>Freshman Register</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12032037" type="Box" label="Books (31142046894211)">191</container>
+                        <container parent="cid12032037" type="item">9</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c>
+                <c id="ref2174" level="item">
+                    <did>
+                        <unittitle>The Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12344001" type="Box" label="Books">191</container>
+                        <container parent="cid12344001" type="item">12</container>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c>
+                <c id="ref2176" level="item">
+                    <did>
+                        <unittitle>The Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12344002" type="Box" label="Books">191</container>
+                        <container parent="cid12344002" type="item">13</container>
+                        <unitdate>1910</unitdate>
+                    </did>
+                </c>
+                <c id="ref2177" level="item">
+                    <did>
+                        <unittitle>The Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12369001" type="Box" label="Books">191</container>
+                        <container parent="cid12369001" type="item">14</container>
+                        <unitdate>1932</unitdate>
+                    </did>
+                </c>
+                <c id="ref2178" level="item">
+                    <did>
+                        <unittitle>The Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12369002" type="Box" label="Books">191</container>
+                        <container parent="cid12369002" type="item">15</container>
+                        <unitdate>1933</unitdate>
+                    </did>
+                </c>
+                <c id="ref2179" level="item">
+                    <did>
+                        <unittitle>The Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12369003" type="Box" label="Books">192</container>
+                        <container parent="cid12369003" type="item">1</container>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c>
+                <c id="ref2180" level="item">
+                    <did>
+                        <unittitle>The Violet</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid12369004" type="Box" label="Books">192</container>
+                        <container parent="cid12369004" type="item">2</container>
+                        <unitdate>1936</unitdate>
                     </did>
                 </c>
             </c>

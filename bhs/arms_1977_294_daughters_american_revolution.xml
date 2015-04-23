@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_294_daughters_american_revolution</eadid>
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_294_daughters_american_revolution.html">arms_1977_294_daughters_american_revolution</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Daughters of the American Revolution, Battle Pass Chapter records
@@ -25,11 +25,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-10T14:18-0500</date>
+                <date>2014-10-02T10:23-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2014</date>
+                <item>Visual materials returned to collection and finding aid revised by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -43,10 +49,12 @@
             </langmaterial>
             <container id="cid843002" type="Box" label="Text">A0060</container>
             <physdesc>
-                <extent>0.2 Linear feet</extent>
-                <extent>in six folders</extent>
+                <extent>0.2 linear feet</extent>
+                <extent>in seven folders</extent>
             </physdesc>
             <unitdate normal="1858/1954" type="inclusive">1858-1954</unitdate>
+            <abstract id="ref6" label="Abstract">The Daughters of the American Revolution, Battle Pass Chapter records span the period 1858 to 1954 and include the chapter's bylaws, dated 1913 to 1954; correspondence, reports, and programs, dated 1922 to 1961; address books, photographs, postcards, and brochures of historical sites; the 
+                <emph render="italic">Book of American Creed</emph>, dated 1921; and various units of United States currency, dated 1858 to 1872.</abstract>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Daughters of the American Revolution. Battle Pass Chapter (Brooklyn, New York, N.Y.).</corpname>
             </origination>

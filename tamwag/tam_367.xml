@@ -1,36 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_367</eadid>
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_367/">tam_367</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Ernest Erber Papers
+                <titleproper>Guide to the Ernest Erber Papers
                     <num>TAM.367</num>
                 </titleproper>
             </titlestmt>
             <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
                 <address>
                     <addressline>Elmer Holmes Bobst Library</addressline>
                     <addressline>70 Washington Square South</addressline>
                     <addressline>New York, NY, 10012</addressline>
                     <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                    <addressline>tamiment.wagner@library.nyu.edu</addressline>
                 </address>
                 <date>2010</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-09-17T10:37-0400</date>
+                <date>2014-12-17T11:05-0500</date>
             </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>Dec 2014</date>
+                <item>Edited by Heather Mulliner to reflect updated administrative information</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
             <unittitle>Ernest Erber Papers</unittitle>
             <unitid>TAM.367</unitid>
             <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
+                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -40,7 +47,7 @@
                 <extent>4.5 linear feet</extent>
                 <extent>(5 boxes)</extent>
             </physdesc>
-            <unitdate>1940s-2000s</unitdate>
+            <unitdate normal="1940/2009" type="inclusive">1940s-2000s</unitdate>
             <origination label="creator">
                 <persname source="local">Erber, Ernest, 1913-</persname>
             </origination>
@@ -54,16 +61,20 @@
         </bioghist>
         <scopecontent id="ref1">
             <head>Scope and Contents note</head>
-            <p>The collection contains extensive files of both incoming and outgoing correspondence. Notable correspondents include Maurice Isserman, Nancy MacDonald, James T. Farrell, Gordon Haskell, Irving Weinstein, Irving Howe, Michael Harrington, Charles Orr and Herbert Reid, among many others. The collection also includes manuscripts and internal bulletins relating to the Workers Party, the Young People's Socialist League, DSOC and DSA; accounts of U.S. Socialist involvement in the Spanish Civil War and of Erber's visit to Spain in 1937; drafts of Erber's unpublished autobiography; a typescript memoir by Gordon Haskell; Erber's statement on resigning from the Workers Party and Max Shachtman's reply (with associated correspondence); and general files relating to Erber's work as a planner and his many historical/political interests. PLEASE DIRECT FURTHER INQUIRIES TO: peter.filardo@nyu.edu</p>
+            <p>The collection contains extensive files of both incoming and outgoing correspondence. Notable correspondents include Maurice Isserman, Nancy MacDonald, James T. Farrell, Gordon Haskell, Irving Weinstein, Irving Howe, Michael Harrington, Charles Orr and Herbert Reid, among many others. The collection also includes manuscripts and internal bulletins relating to the Workers Party, the Young People's Socialist League, DSOC and DSA; accounts of U.S. Socialist involvement in the Spanish Civil War and of Erber's visit to Spain in 1937; drafts of Erber's unpublished autobiography; a typescript memoir by Gordon Haskell; Erber's statement on resigning from the Workers Party and Max Shachtman's reply (with associated correspondence); and general files relating to Erber's work as a planner and his many historical/political interests.</p>
         </scopecontent>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
             <p>Open for research without restrictions.</p>
         </accessrestrict>
-        <custodhist id="ref6">
-            <head>Provenance</head>
-            <p>A small amount of material was donated by Ernest Erber in 2004; the remainder was donated by his daughter, Elena Erber, shortly after his death in 2009.</p>
-        </custodhist>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Ernest Erber sent a gift of his papers in 2004. Shortly after his death in 2009, his daughter Elena Erber sent an additional gift of his remaining papers. The accession number associated with these gifts is 2004.033.</p>
+        </acqinfo>
+        <userestrict id="ref8">
+            <head>Use Restrictions</head>
+            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Ernest Erber are held by his heir Elena Erber. Permission to publish or reproduce materials to which she holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Elena Erber.</p>
+        </userestrict>
         <controlaccess>
             <persname source="local">Erber, Ernest, 1913-</persname>
             <persname source="naf" role="Correspondent (crp)">Farrell, James T. (James Thomas), 1904-1979 -- |v Correspondence</persname>
@@ -71,7 +82,7 @@
             <persname source="naf" role="Correspondent (crp)">Isserman, Maurice                           -- |v Correspondence</persname>
             <persname source="local" role="Correspondent (crp)">Reid, Herbert -- |v Correspondence</persname>
             <corpname source="naf">Workers Party (1940-1949)</corpname>
-            <corpname source="naf">Young People's Socialist League.</corpname>
+            <corpname rules="dacs" source="naf">Young People's Socialist League.</corpname>
             <genreform source="aat">Correspondence.</genreform>
             <genreform source="aat">Manuscripts for publication.</genreform>
             <subject source="lcsh">Socialism |z United States.</subject>

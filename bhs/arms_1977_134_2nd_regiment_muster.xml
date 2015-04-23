@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_134_2nd_regiment_muster">arms_1977_134_2nd_regiment_muster</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the New York State Militia, 2nd Regiment muster rolls
+                    <num>1977.134</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>March 2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-03-21T16:24-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>New York State Militia, 2nd Regiment muster rolls</unittitle>
+            <unitid>1977.134</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1277002" type="Box" label="Text">OS-12</container>
+            <physdesc>
+                <extent>1.5 linear feet</extent>
+                <extent>in one rolled document case</extent>
+            </physdesc>
+            <unitdate normal="1814/1814">1814</unitdate>
+            <abstract id="ref2" label="Abstract">Copies of two muster rolls of a company of detached militia under the command of Capt. Thomas Floyd Jones in the 2nd Regiment of the New York State Infantry commanded by Lieut. Col. Daniel Bedell. The company was organized near Fort Greene, Brooklyn, New York. The muster rolls include soldier lists from September 1814 to November 1814.</abstract>
+            <origination label="creator">
+                <corpname rules="dacs" source="naf">New York (State). Militia. Regiment, 2nd.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Jesse Merritt, 1941.</p>
+        </acqinfo>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <originalsloc id="ref5">
+            <head>Existence and Location of Originals note</head>
+            <p>At the time of donation, the originals were listed as being held at the library of Col. Delancy Floyd-Jones, Massapequa, New York.</p>
+        </originalsloc>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); New York State Militia, 2nd Regiment muster roll, 1977.134, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <accessrestrict id="ref7">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <userestrict id="ref8">
+            <head>Conditions Governing Use note</head>
+            <p>In the public domain.</p>
+        </userestrict>
+        <relatedmaterial id="ref10">
+            <head>Related Archival Materials note</head>
+            <p>Jacques Cortelyou papers, 1706 – 1898 (ARC.025)</p>
+            <p>John and Garret S. Baxter journals, 1790 - 1836 (ARC.257)</p>
+            <p>Jacob and Isaac Rapelye papers, 1812 – 1820 (1974.006)</p>
+            <p>Reuben Fenner habeas corpus writ and affidavit, 1814 (1977.418)</p>
+            <p>New York State Militia, 22nd Brigade general order books, 1814 – 1815 (1977.191)</p>
+            <p>Hannah De Bevoise bond, 1815 (1977.413)</p>
+            <p>Henry Reed Stiles papers, circa 1855-1884 (ARC.218)</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf" role="Donor (dnr)">Merritt, Jesse, 1889-1957</persname>
+            <corpname rules="dacs" source="naf">New York (State). Militia. Regiment, 2nd.</corpname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Kings County (N.Y.) |x History |y War of 1812</geogname>
+            <genreform source="aat">Military records</genreform>
+            <genreform source="aat">Muster rolls</genreform>
+            <geogname source="lcsh">United States |x History |y War of 1812</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

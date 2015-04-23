@@ -25,15 +25,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-11-20T11:00-0500</date>
+                <date>2014-08-25T12:37-0400</date>
             </creation>
             <langusage>Finding Aid is in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>11/14/2013</date>
-                <item>Edited by Maggie Schreiner for compliance with DACS and Tamiment Required Elements for Archival Description and to reflect the incorporation of nonprint materials</item>
+                <date>2013, 2014</date>
+                <item>Edited by Maggie Schreiner for compliance with DACS and Tamiment Required Elements for Archival Description, to reflect the incorporation of nonprint materials as well as updated administrative information</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -61,7 +61,7 @@
         </did>
         <acqinfo id="ref4">
             <head>Immediate Source of Acquisition note</head>
-            <p>Donated by Local presidents Andy Kosar, in 1992, and Mary Lou Algiere, in 2005.</p>
+            <p>Donated by Local president Andy Kosar in 1992. The accession numbers associated with this gift are 1992.003 and 1992.009. Additional materials were donated by Local president Mary Lou Algiere, in 2005. The acceesion numbers NPA.1993.021, NPA.1994.003 and NPA.2006.069 are also associated with this collection.</p>
         </acqinfo>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
@@ -100,19 +100,12 @@
         </relatedmaterial>
         <userestrict id="ref171">
             <head>Use Restrictions</head>
-            <p>Copyright holder unknown. Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
+            <p>Any rights (including copyright and related rights to publicity and privacy) held by the Communications Workers of America, Local 1153, the creator of this collection, were transferred to New York University in 1992. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>
         </userestrict>
         <processinfo id="ref181">
             <head>Processing Information note</head>
             <p>Photographs separated from this collection during processing were established as a separate collection, the Communications Workers of America, Local 1153 Photographs (PHOTOS 056). In 2013, the photograph collection was reincorporated into the Communications Workers of America, Local 1153 Records (WAG 132).</p>
+            <p>In 2014, the archived websites were added as Series VI.</p>
         </processinfo>
         <prefercite id="ref172">
             <head>Preferred Citation</head>
@@ -125,12 +118,12 @@
                 <lb/>New York, NY 10012, New York University Libraries.</p>
         </prefercite>
         <controlaccess>
-            <corpname source="naf">AFL-CIO.</corpname>
+            <corpname rules="dacs" source="naf">AFL-CIO.</corpname>
             <corpname source="naf">American Telephone and Telegraph Company.</corpname>
             <persname source="ingest">Collins, Eleanore., d. 1994</persname>
             <corpname source="local">Communications Workers of America. Local 1173.</corpname>
-            <corpname source="naf">Communications Workers of America.</corpname>
-            <persname source="ingest">Kosar, Andy.</persname>
+            <corpname rules="dacs" source="naf">Communications Workers of America.</corpname>
+            <persname rules="dacs" source="ingest">Kosar, Andy</persname>
             <persname source="ingest">Marley, Paul J.</persname>
             <subject source="lcsh">Affirmative action programs |z United States.</subject>
             <subject source="lcsh">Affirmative Action programs.</subject>
@@ -1473,6 +1466,21 @@
                         <unitdate normal="1986/1986">1986</unitdate>
                     </did>
                 </c>
+            </c>
+            <c id="ref183" level="series">
+                <did>
+                    <unittitle>Series VI: Archived Website</unittitle>
+                    <unitdate>Feb 26, 2009-ongoing </unitdate>
+                </did>
+                <scopecontent id="ref184">
+                    <head>Scope and Content Note</head>
+                    <p>Communications Workers of America, Local 1153 was chartered in 1975, after more than 500 members of the Manhattan-based Local 1150 petitioned for a new local to represent American Telephone &amp; Telegraph's Long Lines (long distance) employees working in the White Plains and Mount Kisco area. 1153 consists of three sections: Plant (construction and maintenance), Traffic (operators) and Administrative (clerical). Local 1153 advocates for many issues, including job losses, job pressures, seniority rights, the creation of new job titles, health and safety, and discrimination based on sex and race. The website contains by-laws, bargaining reports, other reports, event listings, and contracts.</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Archived Website" ns2:role="service" ns2:href="http://webarchives.cdlib.org/site/sw1cz32578">
+                    <daodesc>
+                        <p>Archived Website, Feb 26, 2009-ongoing  </p>
+                    </daodesc>
+                </dao>
             </c>
         </dsc>
     </archdesc>

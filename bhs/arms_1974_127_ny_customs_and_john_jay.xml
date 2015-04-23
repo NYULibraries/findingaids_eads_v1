@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_127_ny_customs_and_john_jay">arms_1974_127_ny_customs_and_john_jay</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to New York Customs House accounting records and John Jay copy of Federalist Paper No. 2
+                    <num>1974.127</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-10-14T15:32-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>New York Customs House accounting records and John Jay copy of Federalist Paper No. 2</unittitle>
+            <unitid>1974.127</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1247002" type="Box" label="Text">OS-4</container>
+            <physdesc>
+                <extent>1.0 linear feet</extent>
+                <extent>, in one flat box</extent>
+            </physdesc>
+            <unitdate normal="1704/1787" type="inclusive">1704-1709, 1787</unitdate>
+            <abstract id="ref2" label="Abstract">The collection includes the receipts and accounts of the Province of New York Customs House (1704-1709) and a handwritten copy of the Federalist Paper No. 2 by John Jay (1787). Although the two items were accessioned as a single unit, the connection between the two is unknown.</abstract>
+            <origination label="creator">
+                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Jay, John, 1745-1829</persname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="dacs" source="Library_of_Congress_Name_Authority_File">New York (Colony). Customs House.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Both items are in the public domain.</p>
+        </userestrict>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The immediate source of acquisition for both items is unknown. They were accessioned in 1974.</p>
+        </acqinfo>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); New York Customs House accounting records and John Jay copy of Federalist Paper No. 2, 1974.127, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <controlaccess>
+            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Jay, John, 1745-1829</persname>
+            <corpname rules="dacs" source="Library_of_Congress_Name_Authority_File">New York (Colony). Customs House.</corpname>
+            <subject source="lcsh">Customs administration |z New York (State) z| New York</subject>
+            <title source="lcsh">Federalist</title>
+            <genreform source="aat">Financial records</genreform>
+            <genreform source="aat">Manuscripts (document genre)</genreform>
+            <geogname source="lcsh">New York (N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

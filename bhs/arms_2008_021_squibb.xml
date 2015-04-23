@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_2008_021_squibb</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2008_021_squibb.html">arms_2008_021_squibb</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Edward R. Squibb collection
@@ -22,19 +22,20 @@
                 </address>
                 <date>November 7, 2011</date>
             </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-22T14:17-0500</date>
+                <date>2015-03-20T13:26-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>February 2015</date>
+                <item>Additional processing and description by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -46,19 +47,36 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid1111003" type="Carton" label="Mixed materials">2008.021 1 of 1</container>
+            <container id="cid1301001" type="Box" label="Realia">2 of 3</container>
+            <container id="cid1302001" type="Box" label="Realia">3 of 3</container>
+            <container id="cid1111003" type="Box" label="Mixed materials">1 of 3</container>
             <physdesc>
-                <extent>1.0 Linear feet</extent>
-                <extent>in one record carton.</extent>
+                <extent>2.75 linear feet</extent>
+                <extent>in one manuscript box and two custom boxes</extent>
             </physdesc>
-            <unitdate>circa 1830s-1970s</unitdate>
+            <unitdate normal="1832/1979" type="inclusive">1832-1979</unitdate>
+            <abstract id="ref8" label="Abstract">This collection contains materials relating to Edward R. Squibb, his family, and his company, Squibb Pharmaceuticals. Items include correspondence, a family bible, books, pamphlets, additional printed materials, and nine antique pharmaceutical containers.</abstract>
             <origination label="creator">
                 <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Squibb, Edward Robinson, 1819-1900</persname>
             </origination>
         </did>
         <scopecontent id="ref2">
             <head>Scope and Contents note</head>
-            <p>This collection contains materials relating to Edward R. Squibb, his family, and his company, Squibb Pharmaceuticals. Items include correspondence, a family bible, books, pamphlets, additional printed materials, and two antique pharmaceutical containers.</p>
+            <p>This collection contains materials relating to Edward R. Squibb, his family, and his company, Squibb Pharmaceuticals. Items include correspondence, a family bible, books, pamphlets, additional printed materials, and nine antique pharmaceutical containers.</p>
+            <p>
+                <emph render="underline">Inventory</emph></p>
+            <p>Letter from Catharine Harrison Squibb to her son Edward R. Squibb (with typed transcript), 1832</p>
+            <p>Squibb family bible, circa 1832</p>
+            <p>Map of the property of J.I. and S. Joseph and Company, in Brooklyn's Fifth Ward, 1836 (Gold Street, between Plymouth Street and Marshall Street, along the East River)</p>
+            <p>Medico Chirurgical Society speech manuscript, 1859</p>
+            <p>2 New York State Medical Society reports, 1861</p>
+            <p>1 medical paper by the Squibb brothers, 1884</p>
+            <p>Journal of Edward Robison Squibb M.D., 1819-1900, bound in two volumes, 1930</p>
+            <p>2 medical reference books, 1919, 1936</p>
+            <p>5 Squibb Company publications, 1945-1979</p>
+            <p>2 glass laboratory storage bottles, circa 1850-1920</p>
+            <p>7 Squibb pharmaceutical products and containers, circa 1880-1920</p>
+            <p>A more detailed inventory is available in the collection's accession file.</p>
         </scopecontent>
         <accessrestrict id="ref1">
             <head>Conditions Governing Access note</head>
@@ -79,7 +97,7 @@
         </bioghist>
         <processinfo id="ref5">
             <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
+            <p>Finding aid authored and collection minimally processed by Nicholas Pavlik in November 2011. Collection rehoused and additional description provided by John Zarrillo in February 2015.</p>
         </processinfo>
         <prefercite id="ref6">
             <head>Preferred Citation</head>
@@ -90,19 +108,23 @@
             <p>Related archival collections at the Brooklyn Historical Society:</p>
             <list numeration="arabic" type="ordered">
                 <item>1977.535, Batt Jones and Edward R. Squibb Civil War letter, 1865</item>
+                <item>2013.022, Brooklyn pharmacy and medicine bottles collection</item>
+                <item>M1975.615.1, photographic portrait of Edward R. Squibb</item>
             </list>
         </relatedmaterial>
         <controlaccess>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">E.R. Squibb &amp; Sons.</corpname>
             <famname source="local">Squibb family</famname>
             <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Squibb, Edward Robinson, 1819-1900</persname>
+            <genreform source="aat">Apothecary containers</genreform>
             <genreform source="aat">Books</genreform>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <subject source="lcgft">Chemists |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Chemists |z New York (State) |z Kings County</subject>
             <genreform source="aat">Correspondence</genreform>
             <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Medicine bottles</genreform>
             <genreform source="aat">Pamphlets</genreform>
-            <subject source="lcgft">Pharmaceutical industry |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Pharmaceutical industry |z New York (State) |z Kings County</subject>
             <subject source="lcsh">Physicians |z New York (State) |z Kings County</subject>
             <genreform source="aat">Printed ephemera</genreform>
             <genreform source="aat">Publications</genreform>

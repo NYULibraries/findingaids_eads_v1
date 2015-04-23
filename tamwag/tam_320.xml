@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_320/">tam_320</eadid>
         <filedesc>
             <titlestmt>
@@ -25,7 +25,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-02-16T11:41-0500</date>
+                <date>2015-03-09T16:26-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
@@ -33,8 +33,8 @@
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>1/10/2013</date>
-                <item>Edited by Rachel Schimke for compliance with DACS and Tamiment Required Elements for Archival Description and to reflect the incorporation of nonprint materials</item>
+                <date>Nov 2014</date>
+                <item>Edited by Rachel Schimke for compliance with DACS and Tamiment Required Elements for Archival Description and to reflect the incorporation of nonprint materials in 2013. Edited by Heather Mulliner to reflect updated administrative information</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -57,12 +57,12 @@
             <abstract id="ref3" label="Abstract">Asian Women United (AWU) was a nonprofit organization formed in 1978 that was based in New York City. With a distinctly feminist point of view, the organization sought to support, educate and empower Asian-American women. AWU explored Asian-American women's history and culture and undertook to mobilize community women in the political arena. AWU organized many events including a concert, fundraisers, a mother/daughter social, and various workshops. The organization also participated in International Women's Day, the Women Working Together conference, the Coalition of Asian Women's Groups, and Asian/Pacific American Heritage festivals. The materials in this collection include newsletters, flyers for events hosted by Asian Women United, flyers for events held in coalition with other groups, workshop notes, meeting notes, administrative files, correspondence, newspaper articles, photographs, oversized collages, and two audiotapes.</abstract>
             <langmaterial id="ref68" label="Language of Materials note">Materials are in English.</langmaterial>
             <origination label="creator">
-                <corpname source="local">Asian Women United.</corpname>
+                <corpname rules="dacs" source="local">Asian Women United.</corpname>
             </origination>
         </did>
         <acqinfo id="ref4">
             <head>Immediate Source of Acquisition note</head>
-            <p>The Asian Women United Records and Photographs were gathered during an AWU reunion in 2004, which was hosted by the New York University Asian/Pacific/American Institute and later donated to the Tamiment Library, NYU. The collages were also donated in 2004 by Evelyn Yee.</p>
+            <p>The Asian Women United Records and Photographs were gathered during an AWU reunion in 2004, which was hosted by the New York University Asian/Pacific/American Institute and later donated to the Tamiment Library, NYU. The accession number associated with this gift is 2004.006. Graphics and photographs from this donation were originally separated and established as separate collections, the Asian Women United Photographs (PHOTOS 217) and Asian Women United Graphics (GRAPHICS 023). Collages initially added to Asian Women United Graphics (GRAPHICS 023) were donated by Evelyn Yee in 2004. The accession number associated with this gift is NPA.2005.241. In 2013, photographs and graphics from these collections were reincorporated into the Asian Women United Records and Photographs (TAM 320). The accession numbers associated with these materials are 2004.004, 2004.014, and NPA.2008.019.</p>
         </acqinfo>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
@@ -103,24 +103,14 @@
         </separatedmaterial>
         <userestrict id="ref59">
             <head>Use Restrictions</head>
-            <p>Copyright held by the Tamiment Library. Please contact the repository at: 
-                <lb/></p>
-            <p>Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
+            <p>Any rights (including copyright and related rights to publicity and privacy) held by Asian Women United, the creator of this collection, were transferred to New York University in 2004. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>
         </userestrict>
-        <prefercite id="ref61">
+        <prefercite id="ref69">
             <head>Preferred Citation</head>
-            <p>Published citations should take the following form:</p>
             <p>Identification of item, date; Asian Women United Records and Photographs; TAM 320; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
         </prefercite>
         <controlaccess>
-            <corpname source="local">Asian Women United.</corpname>
+            <corpname rules="dacs" source="local">Asian Women United.</corpname>
             <persname source="local">Chu, Goldie</persname>
             <genreform source="aat">Articles.</genreform>
             <subject source="lcsh">Asian American women |x Health.</subject>
@@ -132,215 +122,207 @@
             <genreform source="aat">Newsletters.</genreform>
         </controlaccess>
         <dsc>
-            <c01 id="ref16" level="file">
+            <c id="ref16" level="file">
                 <did>
                     <unittitle>Activities in Coalition with other Women’s Groups (including Coalition of Asian Women’s Groups)</unittitle>
                     <container id="cid34143" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34143" type="Folder">1</container>
                     <unitdate normal="1980/1985" type="inclusive">early 1980s</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref17" level="file">
+            </c>
+            <c id="ref17" level="file">
                 <did>
                     <unittitle>Administrative Files</unittitle>
                     <container id="cid34142" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34142" type="Folder">2</container>
                     <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref67" level="file">
-                <did>
-                    <unittitle>Art Collages</unittitle>
-                    <container id="cid22155004" type="Flat-File" label="Mixed materials">2</container>
-                    <container parent="cid22155004" type="Drawer">3</container>
-                    <unitdate normal="1982/1982">circa 1982</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref18" level="file">
+            </c>
+            <c id="ref18" level="file">
                 <did>
                     <unittitle>Articles about AWU (group)</unittitle>
                     <container id="cid34141" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34141" type="Folder">3</container>
                     <unitdate normal="1979/1984" type="inclusive">1979-1984</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref19" level="file">
+            </c>
+            <c id="ref19" level="file">
                 <did>
                     <unittitle>Articles about AWU (individual)</unittitle>
                     <container id="cid34140" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34140" type="Folder">4</container>
                     <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref20" level="file">
+            </c>
+            <c id="ref20" level="file">
                 <did>
                     <unittitle>Articles on Asian Americans</unittitle>
                     <container id="cid34139" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34139" type="Folder">5</container>
                     <unitdate normal="1980/1980">1980</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref21" level="file">
+            </c>
+            <c id="ref21" level="file">
                 <did>
                     <unittitle>Asian American Legal Issues: Information and Pamphlets</unittitle>
                     <container id="cid34138" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34138" type="Folder">6</container>
                     <unitdate normal="1980/1985" type="inclusive">early 1980s</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref22" level="file">
+            </c>
+            <c id="ref22" level="file">
                 <did>
                     <unittitle>Asian American Organizations, Conferences, and Events</unittitle>
                     <container id="cid34137" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34137" type="Folder">7</container>
                     <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref23" level="file">
+            </c>
+            <c id="ref23" level="file">
                 <did>
                     <unittitle>Asian American Plays (including David Henry Hwang’s “The Dance and the Railroad” and “FOB” and Genny Lim’s “Paper Angels”)</unittitle>
                     <container id="cid34136" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34136" type="Folder">8</container>
                     <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref24" level="file">
+            </c>
+            <c id="ref24" level="file">
                 <did>
                     <unittitle>Asian American Women's Caucus</unittitle>
                     <container id="cid34135" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34135" type="Folder">9</container>
                     <unitdate normal="1978/1978">1978</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref25" level="file">
+            </c>
+            <c id="ref25" level="file">
                 <did>
                     <unittitle>Asian Pacific American Heritage Festival</unittitle>
                     <container id="cid34134" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34134" type="Folder">10</container>
                     <unitdate normal="1979/2004" type="inclusive">1979-2004</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref26" level="file">
+            </c>
+            <c id="ref26" level="file">
                 <did>
                     <unittitle>Asian/Pacific Women on the Move Conference</unittitle>
                     <container id="cid34133" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34133" type="Folder">11</container>
                     <unitdate normal="1980/1980">1980</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref27" level="file">
+            </c>
+            <c id="ref27" level="file">
                 <did>
                     <unittitle>Asian Women’s Film Fest (International Women’s Day): “Mitsuye and Nellie” and “Ourselves”</unittitle>
                     <container id="cid34132" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34132" type="Folder">12</container>
                     <unitdate normal="1982/1982">1982</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref28" level="file">
+            </c>
+            <c id="ref28" level="file">
                 <did>
                     <unittitle>AWU Journal (proposal and notes)</unittitle>
                     <container id="cid34131" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34131" type="Folder">13</container>
                     <unitdate normal="1978/1982" type="inclusive">1978-1982</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref29" level="file">
+            </c>
+            <c id="ref29" level="file">
                 <did>
                     <unittitle>AWU Timeline (by Goldie Chu)</unittitle>
                     <container id="cid34130" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34130" type="Folder">14</container>
                     <unitdate normal="1977/1986" type="inclusive">1977-1986</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref30" level="file">
+            </c>
+            <c id="ref30" level="file">
                 <did>
                     <unittitle>Brochures: Drafts and Final</unittitle>
                     <container id="cid34129" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34129" type="Folder">15</container>
                     <unitdate normal="1975/1985" type="inclusive">late 1970s-early 1980s</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref31" level="file">
+            </c>
+            <c id="ref31" level="file">
                 <did>
                     <unittitle>Bylaws</unittitle>
                     <container id="cid34128" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34128" type="Folder">16</container>
                     <unitdate normal="1978/1978">1978</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref32" level="file">
+            </c>
+            <c id="ref32" level="file">
                 <did>
                     <unittitle>Concert: Mellow Yellow Madness (with Sumi Tonooka , Amerasia, and Alex Chin)</unittitle>
                     <container id="cid34127" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34127" type="Folder">17</container>
                     <unitdate normal="1981/1981">1981</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref33" level="file">
+            </c>
+            <c id="ref33" level="file">
                 <did>
                     <unittitle>Correspondence: General</unittitle>
                     <container id="cid34126" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34126" type="Folder">18</container>
                     <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref34" level="file">
+            </c>
+            <c id="ref34" level="file">
                 <did>
                     <unittitle>Correspondence: Regarding Protests and Support (including Silver Palace Restaurant and the Simpson-Mazzoli bill)</unittitle>
                     <container id="cid34125" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34125" type="Folder">19</container>
                     <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref35" level="file">
+            </c>
+            <c id="ref35" level="file">
                 <did>
                     <unittitle>Election of Officers</unittitle>
                     <container id="cid34124" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34124" type="Folder">20</container>
                     <unitdate normal="1978/1978">1978</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref36" level="file">
+            </c>
+            <c id="ref36" level="file">
                 <did>
                     <unittitle>Employee Activities Committee of the American Broadcasting Company</unittitle>
                     <container id="cid34123" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34123" type="Folder">21</container>
                     <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref37" level="file">
+            </c>
+            <c id="ref37" level="file">
                 <did>
                     <unittitle>Events Hosted by AWU</unittitle>
                     <container id="cid34122" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34122" type="Folder">22</container>
                     <unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref38" level="file">
+            </c>
+            <c id="ref38" level="file">
                 <did>
                     <unittitle>Fifth Anniversary Celebration</unittitle>
                     <container id="cid34121" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34121" type="Folder">23</container>
                     <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref39" level="file">
+            </c>
+            <c id="ref39" level="file">
                 <did>
                     <unittitle>General Meeting: Notes, Minutes, and Attendance</unittitle>
                     <container id="cid34120" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34120" type="Folder">24</container>
                     <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref40" level="file">
+            </c>
+            <c id="ref40" level="file">
                 <did>
                     <unittitle>Goldie Chu (AWU’s first president): Notes</unittitle>
                     <container id="cid34119" type="Box" label="Mixed materials">1</container>
                     <container parent="cid34119" type="Folder">25</container>
                     <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref41" level="file">
+            </c>
+            <c id="ref41" level="file">
                 <did>
                     <unittitle>
                         <title render="italic">IKON #9: The AWU Anthology</title>: Notes</unittitle>
@@ -348,48 +330,48 @@
                     <container parent="cid34118" type="Folder">26</container>
                     <unitdate normal="1988/1988">1988</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref42" level="file">
+            </c>
+            <c id="ref42" level="file">
                 <did>
                     <unittitle>International Women’s Day and International Working Women’s Day</unittitle>
                     <container id="cid34117" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34117" type="Folder">1</container>
                     <unitdate normal="1981/1984" type="inclusive">1981-1984</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref43" level="file">
+            </c>
+            <c id="ref43" level="file">
                 <did>
                     <unittitle>Letterhead</unittitle>
                     <container id="cid34116" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34116" type="Folder">2</container>
                     <unitdate normal="1977/2004" type="inclusive">undated</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref44" level="file">
+            </c>
+            <c id="ref44" level="file">
                 <did>
                     <unittitle>Mailing Lists</unittitle>
                     <container id="cid34115" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34115" type="Folder">3</container>
                     <unitdate normal="1980/1989" type="inclusive">c. 1980s</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref45" level="file">
+            </c>
+            <c id="ref45" level="file">
                 <did>
                     <unittitle>Membership Lists</unittitle>
                     <container id="cid34114" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34114" type="Folder">4</container>
                     <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref46" level="file">
+            </c>
+            <c id="ref46" level="file">
                 <did>
                     <unittitle>Membership Questionnaire</unittitle>
                     <container id="cid34113" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34113" type="Folder">5</container>
                     <unitdate normal="1981/1981">1981</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref47" level="file">
+            </c>
+            <c id="ref47" level="file">
                 <did>
                     <unittitle>Newsletter: 
                         <title render="italic">In Touch</title></unittitle>
@@ -397,16 +379,16 @@
                     <container parent="cid34112" type="Folder">6</container>
                     <unitdate normal="1978/1985" type="inclusive">1978-1985</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref48" level="file">
+            </c>
+            <c id="ref48" level="file">
                 <did>
                     <unittitle>Notes by AWU Members</unittitle>
                     <container id="cid34111" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34111" type="Folder">7</container>
                     <unitdate normal="1980/1989" type="inclusive">c. 1980s</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref49" level="file">
+            </c>
+            <c id="ref49" level="file">
                 <did>
                     <unittitle>
                         <title render="italic">Ourselves</title>(film): Publicity and Comment</unittitle>
@@ -414,95 +396,95 @@
                     <container parent="cid34110" type="Folder">8</container>
                     <unitdate normal="1982/1982">1982</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref64" level="file">
+            </c>
+            <c id="ref64" level="file">
                 <did>
                     <unittitle>Photo Album #1</unittitle>
                     <container id="cid22155001" type="Box" label="Photographs">2</container>
                     <container parent="cid22155001" type="Folder">9-10</container>
                     <unitdate normal="1975/1989" type="inclusive">late 1970s-1980s</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref65" level="file">
+            </c>
+            <c id="ref65" level="file">
                 <did>
                     <unittitle>Photo Album #1 - Photocopies (in original order)</unittitle>
                     <container id="cid22155002" type="Box" label="Photographs">2</container>
                     <container parent="cid22155002" type="Folder">11</container>
                     <unitdate normal="1975/1989" type="inclusive">late 1970s-1980s</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref66" level="file">
+            </c>
+            <c id="ref66" level="file">
                 <did>
                     <unittitle>Photo Album #2 - Prints and Photocopies</unittitle>
                     <container id="cid22155003" type="Box" label="Photographs">2</container>
                     <container parent="cid22155003" type="Folder">12</container>
                     <unitdate normal="1975/1989" type="inclusive">late 1970s-1980s</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref50" level="file">
+            </c>
+            <c id="ref50" level="file">
                 <did>
                     <unittitle>Reaching the Young Women of Chinatown: A Youth Diversion Program Specifically for Recent Immigrants</unittitle>
                     <container id="cid34109" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34109" type="Folder">13</container>
                     <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref51" level="file">
+            </c>
+            <c id="ref51" level="file">
                 <did>
                     <unittitle>Remarks Prepared for the Hearings of the Select Commission on Immigration and Refugee Policy</unittitle>
                     <container id="cid34108" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34108" type="Folder">14</container>
                     <unitdate normal="1980/1980">1980</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref52" level="file">
+            </c>
+            <c id="ref52" level="file">
                 <did>
                     <unittitle>Retreat, Annual</unittitle>
                     <container id="cid34107" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34107" type="Folder">15</container>
                     <unitdate normal="1979/1986" type="inclusive">1979-1986</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref53" level="file">
+            </c>
+            <c id="ref53" level="file">
                 <did>
                     <unittitle>Reunion</unittitle>
                     <container id="cid34106" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34106" type="Folder">16</container>
                     <unitdate>Sep 25, 2004</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref54" level="file">
+            </c>
+            <c id="ref54" level="file">
                 <did>
                     <unittitle>Women Against Pornography Notes</unittitle>
                     <container id="cid34105" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34105" type="Folder">17</container>
                     <unitdate normal="1982/1982">1982-1982</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref55" level="file">
+            </c>
+            <c id="ref55" level="file">
                 <did>
                     <unittitle>Women's Rights Pamphlets and Flyers</unittitle>
                     <container id="cid34104" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34104" type="Folder">18</container>
                     <unitdate normal="1980/1989" type="inclusive">early 1980s</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref56" level="file">
+            </c>
+            <c id="ref56" level="file">
                 <did>
                     <unittitle>Workshops</unittitle>
                     <container id="cid34103" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34103" type="Folder">19</container>
                     <unitdate normal="1978/1978">1978</unitdate>
                 </did>
-            </c01>
-            <c01 id="ref58" level="file">
+            </c>
+            <c id="ref58" level="file">
                 <did>
                     <unittitle>Audiotapes and Access Compact Disks: "Older Women in Community Politics – at Laura's" (2 cassettes and 2 CDs)</unittitle>
                     <container id="cid34102" type="Box" label="Mixed materials">2</container>
                     <container parent="cid34102" type="Folder">20</container>
                     <unitdate normal="1984/1984">1984</unitdate>
                 </did>
-            </c01>
+            </c>
         </dsc>
     </archdesc>
 </ead>

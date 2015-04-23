@@ -1,68 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">        <eadid>sturken</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>sturken</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Marita Sturken Papers, 1958 - 1987 
                     <num></num>
-                    <num>MSS.209</num>
+                    <num>MSS 209</num>
                 </titleproper>
                 <author>Finding aid prepared by Lisa Darms.</author>
             </titlestmt>
             <publicationstmt>
-        <address>
-               <addressline>Fales Library and Special Collections<lb/>
-               </addressline>
-               <addressline>Elmer Holmes Bobst Library<lb/>
-               </addressline>
-               <addressline>70 Washington Square South<lb/>
-               </addressline>
-               <addressline>New York, NY 10012<lb/>
-                  <lb/>
-               </addressline>
-               <addressline>Phone: (212) 998-2596<lb/>
-               </addressline>
-               <addressline>Fax: (212) 995-3835<lb/>
-               </addressline>
-               <addressline>Email: fales.library@nyu.edu<lb/>
-                  <lb/>
-               </addressline>
-               <addressline>URL: http://www.nyu.edu/library/bobst/research/fales/cdfa.htm</addressline>
-            </address>
-            <p>&#x00A9;
-               <date era="ce" calendar="gregorian">2008 </date>
-               <address>
-                  <addressline>Fales Library and Special Collections</addressline>
-               </address>
-
-. All rights reserved. </p>
+                <publisher>Fales Library and Special Collections</publisher>
+                <address>
+                    <addressline>Fales Library and Special Collections</addressline>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY 10012</addressline>
+                    <addressline>Phone: (212) 998-2596</addressline>
+                    <addressline>Email: fales.library@nyu.edu</addressline>
+                </address>
             </publicationstmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2008-07-28T11:26-0400.</date>
+                <date>2014-04-03T16:04-0400</date>
             </creation>
-            <langusage>Description is in English</langusage>
-            <descrules></descrules>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
         <did>
             <unittitle>Marita Sturken Papers</unittitle>
-            <unitid>MSS.209</unitid>
+            <unitid>MSS 209</unitid>
             <repository>
-                <corpname>Fales Library</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>0.4 Linear feet</extent>
+                <extent>0.4 linear feet</extent>
             </physdesc>
             <unitdate normal="1958/1987" type="inclusive">1958-1987</unitdate>
-            <abstract id="ref1">The Marita Sturken Papers consist of original research and secondary source materials accumulated by Sturken in the course of writing three articles on the early history of video art for 
+            <abstract id="ref1" label="Abstract">The Marita Sturken Papers consist of original research and secondary source materials accumulated by Sturken in the course of writing three articles on the early history of video art for 
                 <emph render="italic">Afterimage</emph> magazine in the 1980s.</abstract>
             <origination label="creator">
-                <persname source="ingest">Sturken, Marita, 1957-</persname>
+                <persname source="naf">Sturken, Marita, 1957-</persname>
             </origination>
         </did>
         <separatedmaterial id="ref17">
@@ -86,7 +71,7 @@
             <p>
                 <emph render="italic">Alternating Currents</emph> 1978</p>
             <p>
-                <emph render="italic">American Federation of Arts Film Program, The</emph> 1984 </p>
+                <emph render="italic">American Federation of Arts Film Program, The</emph> 1984</p>
             <p>
                 <emph render="italic">American Film Institute Video Festival</emph> Oct 22-25 1987</p>
             <p>
@@ -120,7 +105,7 @@
             <p>
                 <emph render="italic">Eigenwelt Der Apparate-Welt: Pioneers of Electronic Art, Ars Electronica </emph> 1992</p>
             <p>
-                <emph render="italic">Electronic Arts Intermix Catalog</emph> 1975 </p>
+                <emph render="italic">Electronic Arts Intermix Catalog</emph> 1975</p>
             <p>
                 <emph render="italic">Electronic Arts Intermix Catalog</emph> 1976</p>
             <p>
@@ -128,7 +113,7 @@
             <p>
                 <emph render="italic">Electronic Arts Intermix Catalog</emph> 1982</p>
             <p>
-                <emph render="italic">Felix</emph> Vol. 1, No. 2 1992 </p>
+                <emph render="italic">Felix</emph> Vol. 1, No. 2 1992</p>
             <p>
                 <emph render="italic">Felix</emph> Vol. 2, No. 1 1995</p>
             <p>
@@ -138,7 +123,7 @@
             <p>
                 <emph render="italic">From the Academy of the Avant Garde</emph> 1981</p>
             <p>
-                <emph render="italic">From the Academy to the Avant Garde</emph> 1981 </p>
+                <emph render="italic">From the Academy to the Avant Garde</emph> 1981</p>
             <p>
                 <emph render="italic">From TV to Video</emph> Dec 20 1983-Jan 29 1984</p>
             <p>
@@ -313,13 +298,7 @@
         </separatedmaterial>
         <userestrict id="ref15">
             <head>Use Restrictions</head>
-            <p>Collection use is subject to all copyright laws. Permission to publish materials must be obtained in writing from the Director of Fales Library and Special Collections. For more information, contact</p>
-            <p>Fales Library and Special Collections </p>
-            <p>Elmer Holmes Bobst Library </p>
-            <p>70 Washington Square South </p>
-            <p>New York, NY 10012</p>
-            <p>Phone: (212) 998-2596 </p>
-            <p>Fax: (212) 995-3835 </p>
+            <p>Collection use is subject to all copyright laws. Permission to publish materials must be obtained in writing from the Director of Fales Library and Special Collections. Please contact fales.library@nyu.edu. or call 212 998 2596.</p>
         </userestrict>
         <accessrestrict id="ref13">
             <head>Access Restrictions</head>
@@ -327,8 +306,9 @@
         </accessrestrict>
         <prefercite id="ref11">
             <head>Preferred Citation note</head>
-            <p>Published citations should take the following form:</p>
-            <p>Identification of item, date (if known); The Marita Sturken Papers; MSS. # 209; box number; folder number; Fales Library and Special Collections, New York University Libraries. </p>
+            <p>Published citations should take the following form:
+                <lb/>
+                <lb/>Identification of item, date (if known); The Marita Sturken Papers; MSS 209; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
         </prefercite>
         <acqinfo id="ref9">
             <head>Provenance</head>
@@ -340,38 +320,29 @@
                 <emph render="italic">Tourists of History: Memory, Kitsch, and Consumerism from Oklahoma City to Ground Zero </emph>(2007) and 
                 <emph render="italic">Tangled Memories: The Vietnam War, the AIDS Epidemic, and the Politics of Remembering</emph> (1997), and Co-Author of 
                 <emph render="italic">Practices of Looking: An Introduction to Visual Culture</emph> (2001).While working as a critic in the 1980s she wrote a series of articles for 
-                <emph render="italic">Afterimage</emph> magazine documenting the early history of video art and community video. </p>
+                <emph render="italic">Afterimage</emph> magazine documenting the early history of video art and community video.</p>
         </bioghist>
         <scopecontent id="ref5">
             <head>Scope and Content note</head>
-            <p>The Marita Sturken Papers are a part of the Downtown Collection at the Fales Library, New York University. The Fales Library is the primary special collections division of the NYU libraries, housing nearly 200,000 volumes of English and American literature from 1700 to the present. Strengths of the collection include the development of the English and American novel, with an emphasis on the Gothic and the Victorian novel. The Downtown Collection, of which the Marita Sturken Papers are a part, is a comprehensive collection of printed materials, archives, and other materials related to the Downtown New York scene from ca. 1975 to the present. </p>
+            <p>The Marita Sturken Papers are a part of the Downtown Collection at the Fales Library, New York University. The Fales Library is the primary special collections division of the NYU libraries, housing nearly 200,000 volumes of English and American literature from 1700 to the present. Strengths of the collection include the development of the English and American novel, with an emphasis on the Gothic and the Victorian novel. The Downtown Collection, of which the Marita Sturken Papers are a part, is a comprehensive collection of printed materials, archives, and other materials related to the Downtown New York scene from ca. 1975 to the present.</p>
             <p>This collection is made up of original research and secondary source materials accumulated by Sturken while writing three articles about the early history of video and electronic arts for 
-                <emph render="italic">Afterimage</emph> magazine. The articles are "An Interview with George Stoney" (January 1984), "TV as a Creative Medium: Howard Wise and Video Art" (June 1984) and "Howard Klein and the Rockefeller Foundation's Funding of the Media Arts" (January 1987). The first two articles were part of a series on video art funded by the New York State Council on the Arts Media Program. The collection consists of three subseries, representing the research generated for each article. The materials include correspondence, handwritten research notes, typed transcripts of interviews, original gallery catalogs, and photocopies of exhibition catalogs, gallery announcements, newspaper articles and magazine articles.</p>
+                <emph render="italic">Afterimage</emph> magazine. The articles are "An Interview with George Stoney" (January 1984), "TV as a Creative Medium: Howard Wise and Video Art" (June 1984) and "Howard Klein and the Rockefeller Foundation's Funding of the Media Arts" (January 1987). The first two articles were part of a series on video art funded by the New York State Council on the Arts Media Program. The collection consists of three subseries, representing the research generated for each article. The materials include correspondence, handwritten research notes, typed transcripts of interviews, original gallery catalogs, and Xerox copies of exhibition catalogs, gallery announcements, newspaper articles and magazine articles.</p>
         </scopecontent>
         <arrangement id="ref3">
             <head>Arrangement note</head>
-            <p>Following the order of the original materials, the collection is organized into one series (Research Materials) and three subseries. Each subseries represents the research for a single article for 
-                <emph render="italic">Afterimage</emph> magazine. Folders are organized within subseries in alphabetical order, and the materials within folders are in chronological order.</p>
+            <p>The collection is organized into one series (Research Materials) and three subseries. Each subseries represents the research for a single article for 
+                <emph render="italic">Afterimage</emph> magazine. Folders are organized within subseries in alphabetical order, and the materials are in chronological order.</p>
+            <list numeration="arabic" type="ordered">
+                <item>Series I: Research Materials</item>
+            </list>
         </arrangement>
-<controlaccess id="a12">
-<head>Access Points</head>
-<controlaccess>
-<head>Subject Names:</head>
-<persname source="lcsh" encodinganalog="600 10$a" role="subject">Klein, Howard</persname>
-<persname source="lcsh" encodinganalog="600 10$a" role="subject">Paik, Nam June</persname>
-<persname source="lcsh" encodinganalog="600 10$a" role="subject">Stoney, George C.</persname>
-<persname source="lcsh" encodinganalog="600 10$a" role="subject">Sturken, Marita, 1957 - </persname>
-<persname source="lcsh" encodinganalog="600 10$a" role="subject">Wise, Howard</persname>
-</controlaccess>
-<controlaccess>
-<head>Subject Organizations:</head>
-<corpname source="lcnaf" encodinganalog="610 20$a" role="subject">Electronic Arts Intermix (organization)</corpname>
-</controlaccess>
-<controlaccess>
-<head>Subject Topics:</head>
-<subject source="lcsh" encodinganalog="650  $a">Video Art</subject>
-</controlaccess>
-</controlaccess>
+        <controlaccess>
+            <persname rules="dacs" source="local">Klein, Howard</persname>
+            <persname source="naf">Paik, Nam June, 1932-2006</persname>
+            <persname source="naf">Stoney, George C.</persname>
+            <persname rules="dacs" source="naf">Wise, Howard</persname>
+            <genreform source="lcsh">Video art.</genreform>
+        </controlaccess>
         <dsc>
             <c id="ref18" level="series">
                 <did>
@@ -384,112 +355,112 @@
                     <c id="ref20" level="file">
                         <did>
                             <unittitle>Articles</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">1</container>
+                            <container id="cid80" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid80" type="Folder">1</container>
                             <unitdate normal="1966/1969" type="inclusive">1966-1969</unitdate>
                         </did>
                     </c>
                     <c id="ref21" level="file">
                         <did>
                             <unittitle>Articles</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">2</container>
+                            <container id="cid79" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid79" type="Folder">2</container>
                             <unitdate normal="1969/1970" type="inclusive">1969 - 1970 and undated</unitdate>
                         </did>
                     </c>
                     <c id="ref22" level="file">
                         <did>
                             <unittitle>"Charlotte Moorman Playing Opera Sextronique by Nam June Paik" flyer</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">3</container>
+                            <container id="cid78" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid78" type="Folder">3</container>
                             <unitdate normal="1967/1967">February 9, 1967</unitdate>
                         </did>
                     </c>
                     <c id="ref23" level="file">
                         <did>
                             <unittitle>"EAI Video News" Video Newsletter</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">4</container>
+                            <container id="cid77" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid77" type="Folder">4</container>
                             <unitdate>August 1982</unitdate>
                         </did>
                     </c>
                     <c id="ref24" level="file">
                         <did>
                             <unittitle>"Electronic Arts Intermix, Inc - at the Leading Edge of Art" pamphlet</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">5</container>
+                            <container id="cid76" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid76" type="Folder">5</container>
                             <unitdate normal="1973/1973">1973</unitdate>
                         </did>
                     </c>
                     <c id="ref25" level="file">
                         <did>
-                            <unittitle>Howard Wise Gallery Press Releases (photocopies)</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">6</container>
+                            <unittitle>Howard Wise Gallery Press Releases (xeroxes)</unittitle>
+                            <container id="cid75" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid75" type="Folder">6</container>
                             <unitdate normal="1965/1970" type="inclusive">1965-1970</unitdate>
                         </did>
                     </c>
                     <c id="ref26" level="file">
                         <did>
-                            <unittitle>Howard Wise photocopied exhibition catalogs</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">7</container>
+                            <unittitle>Howard Wise Xeroxed exhibition catalogs</unittitle>
+                            <container id="cid74" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid74" type="Folder">7</container>
                             <unitdate normal="1958/1985" type="inclusive">1958-1985</unitdate>
                         </did>
                     </c>
                     <c id="ref27" level="file">
                         <did>
-                            <unittitle>"Light, Motion, Space" photocopied exhibition catalog</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">8</container>
+                            <unittitle>"Light, Motion, Space" Xeroxed exhibition catalog</unittitle>
+                            <container id="cid73" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid73" type="Folder">8</container>
                             <unitdate>1967</unitdate>
                         </did>
                     </c>
                     <c id="ref28" level="file">
                         <did>
                             <unittitle>"Lights in Orbit" exhibition catalog</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">9</container>
+                            <container id="cid72" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid72" type="Folder">9</container>
                             <unitdate>1967</unitdate>
                         </did>
                     </c>
                     <c id="ref29" level="file">
                         <did>
                             <unittitle>"Luminism" exhibition announcement mailing</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">10</container>
+                            <container id="cid71" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid71" type="Folder">10</container>
                             <unitdate>May 25, 1967</unitdate>
                         </did>
                     </c>
                     <c id="ref30" level="file">
                         <did>
                             <unittitle>Press releases (not Wise Gallery)</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">11</container>
+                            <container id="cid70" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid70" type="Folder">11</container>
                             <unitdate>1968 and undated</unitdate>
                         </did>
                     </c>
                     <c id="ref31" level="file">
                         <did>
                             <unittitle>"TV as a Creative Medium" exhibition announcement mailing</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">12</container>
+                            <container id="cid69" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid69" type="Folder">12</container>
                             <unitdate>1969</unitdate>
                         </did>
                     </c>
                     <c id="ref32" level="file">
                         <did>
                             <unittitle>"Uecker - Howard Wise Gallery" exhibition catalog</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">13</container>
+                            <container id="cid68" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid68" type="Folder">13</container>
                             <unitdate>1966</unitdate>
                         </did>
                     </c>
                     <c id="ref33" level="file">
                         <did>
-                            <unittitle>"Vision and Television" photocopied exhibition catalog</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">14</container>
+                            <unittitle>"Vision and Television" Xeroxed exhibition catalog</unittitle>
+                            <container id="cid67" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid67" type="Folder">14</container>
                             <unitdate>1970</unitdate>
                         </did>
                     </c>
@@ -501,93 +472,93 @@
                     <c id="ref35" level="file">
                         <did>
                             <unittitle>Articles</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">15</container>
+                            <container id="cid66" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid66" type="Folder">15</container>
                             <unitdate>1965, 1983, undated</unitdate>
                         </did>
                     </c>
                     <c id="ref36" level="file">
                         <did>
                             <unittitle>Correspondence</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">16</container>
+                            <container id="cid65" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid65" type="Folder">16</container>
                             <unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate>
                         </did>
                     </c>
                     <c id="ref37" level="file">
                         <did>
                             <unittitle>Interview transcripts: Nam June Paik, Russell Connor, David Loxton</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">17</container>
+                            <container id="cid64" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid64" type="Folder">17</container>
                             <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
                         </did>
                     </c>
                     <c id="ref38" level="file">
                         <did>
                             <unittitle>Howard Klein interview transcript</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">18</container>
+                            <container id="cid63" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63" type="Folder">18</container>
                             <unitdate>March 27, 1986</unitdate>
                         </did>
                     </c>
                     <c id="ref39" level="file">
                         <did>
                             <unittitle>Newsletters, pamphlet</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">19</container>
+                            <container id="cid62" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid62" type="Folder">19</container>
                             <unitdate>1983, 1985, undated</unitdate>
                         </did>
                     </c>
                     <c id="ref40" level="file">
                         <did>
                             <unittitle>Newspaper articles re. Rockefeller grants</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">20</container>
+                            <container id="cid61" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid61" type="Folder">20</container>
                             <unitdate normal="1971/1986" type="inclusive">1971 - 1986, undated</unitdate>
                         </did>
                     </c>
                     <c id="ref41" level="file">
                         <did>
                             <unittitle>Photographs</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">21</container>
+                            <container id="cid60" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid60" type="Folder">21</container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
                     <c id="ref42" level="file">
                         <did>
                             <unittitle>Research notes</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">22</container>
+                            <container id="cid59" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid59" type="Folder">22</container>
                             <unitdate normal="1986/1986">1986</unitdate>
                         </did>
                     </c>
                     <c id="ref43" level="file">
                         <did>
                             <unittitle>Research notes</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">23</container>
+                            <container id="cid58" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid58" type="Folder">23</container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
                     <c id="ref44" level="file">
                         <did>
                             <unittitle>List of Rockefeller Grants in Televeision, Video, Film</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">24</container>
+                            <container id="cid57" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid57" type="Folder">24</container>
                             <unitdate normal="1965/1985" type="inclusive">1965-1985</unitdate>
                         </did>
                     </c>
                 </c>
                 <c id="ref45" level="subseries">
                     <did>
-                        <unittitle>Subseries C: George C. Stoney</unittitle>
+                        <unittitle>Subseries C: Geroge C. Stoney</unittitle>
                     </did>
                     <c id="ref46" level="file">
                         <did>
                             <unittitle>Research materials - George Stoney</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">25</container>
+                            <container id="cid56" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid56" type="Folder">25</container>
                             <unitdate normal="1971/1983" type="inclusive">1971 - 1983, undated</unitdate>
                         </did>
                     </c>

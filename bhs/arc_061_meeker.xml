@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_061_meeker</eadid>
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_061_meeker.html">arc_061_meeker</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Meeker brothers land records collection
@@ -30,15 +30,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-22T15:02-0500</date>
+                <date>2014-10-01T10:24-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>July 2010</date>
-                <item>The finding aid was revised and entered into the Archivists' Toolkit by Weatherly Stephan.</item>
+                <date>July 2010; 2014</date>
+                <item>The finding aid was revised and entered into the Archivists' Toolkit by Weatherly Stephan. Visual materials later reintergrated into collection by John Zarrillo</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -56,10 +56,11 @@
             <container id="cid352003" type="Box" label="Text">ARC.061 Box 1</container>
             <container id="cid352001" type="Box" label="Text">ARC.061 Box 3</container>
             <physdesc>
-                <extent>1.25 Linear feet</extent>
+                <extent>1.25 linear feet</extent>
                 <extent>in three manuscript boxes.</extent>
             </physdesc>
             <unitdate normal="1757/1904" type="inclusive">1757-1904</unitdate>
+            <abstract id="ref8" label="Abstract">This collection contains land records dated 1757 to 1904 from the Brooklyn law office of Samuel M. and David E. Meeker. Items include mortgages, deeds, title abstracts, tax bills, wills and correspondence relating to Brooklyn property transactions. The collection also includes two images: a photograph of a winter scene in Prospect Park, circa 1890s, and a photograph of a painted portrait of Rev. Stephen Headley Meeker (1799-1876), Pastor of the Old Bushwick Reformed Church. Folders are arranged by street address and/or approximate location. Names associated with the listed properties are also included on the folders.</abstract>
             <origination label="creator">
                 <persname rules="dacs" source="local">Meeker, David W.</persname>
             </origination>
@@ -86,7 +87,7 @@
         </prefercite>
         <scopecontent id="ref5">
             <head>Scope and Contents</head>
-            <p>This collection contains land records dated 1757 to 1904 from the Brooklyn law office of Samuel M. and David E. Meeker. Items include mortgages, deeds, title abstracts, tax bills, wills and correspondence relating to Brooklyn property transactions. Folders are arranged by street address and/or approximate location. Names associated with the listed properties are also included on the folders.</p>
+            <p>This collection contains land records dated 1757 to 1904 from the Brooklyn law office of Samuel M. and David E. Meeker. Items include mortgages, deeds, title abstracts, tax bills, wills and correspondence relating to Brooklyn property transactions. Folders are arranged by street address and/or approximate location. Names associated with the listed properties are also included on the folders. The collection also includes two images: a photograph of a winter scene in Prospect Park, circa 1890s, and a photograph of a painted portrait of Rev. Stephen Headley Meeker (1799-1876), Pastor of the Old Bushwick Reformed Church.</p>
             <p>The bulk of the land records date from the latter half of the 19th century, a time of rapid urban growth. Most houses and buildings were not numbered until the advent of the modern postal service in the United States, so the earliest-dated properties in this collection do not have numeric street addresses, but rather a general location description. For example, property on South Second Street would not be listed as 234 South Second Street, but rather South Second Street property, north side, between Third and Fourth Avenues. Most property deeds and mortgages include hand drawn maps of the blocks and described property lots, providing a more exact location description.</p>
         </scopecontent>
         <acqinfo id="ref6">
@@ -99,11 +100,15 @@
             <p>This collection is composed of two accessions: 1977.236 and 1980.034.</p>
         </processinfo>
         <controlaccess>
+            <persname rules="dacs" source="local">Meeker, Stephen Headley, Rev., 1799-1876</persname>
+            <corpname source="local">Old Bushwick Reformed Church (Brooklyn, New York, N.Y.).</corpname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
             <subject source="lcsh">Deeds |z New York (State) |z Kings County</subject>
             <genreform source="lcgft">Land titles |z New York (State) |z Kings County</genreform>
             <subject source="lcsh">Lawyers |z New York (State) |z Kings County</subject>
             <subject source="lcsh">Mortgages |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Photographs</genreform>
+            <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
             <subject source="lcsh">Real property</subject>
             <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
             <subject source="lcsh">Wills |z New York (State) |z Kings County</subject>

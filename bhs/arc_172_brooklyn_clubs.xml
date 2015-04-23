@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_172_brooklyn_clubs</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_172_brooklyn_clubs.html">arc_172_brooklyn_clubs</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Brooklyn clubs collection
@@ -20,16 +20,22 @@
                     <addressline>718-222-4111</addressline>
                     <addressline>library@brooklynhistory.org</addressline>
                 </address>
-                <date>January 14, 2011.</date>
+                <date>January 14, 2011</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T10:40-0500</date>
+                <date>2015-01-06T11:59-0500</date>
             </creation>
-            <langusage>English.</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2015</date>
+                <item>Additional processing by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -41,23 +47,25 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid604003" type="Box" label="Text">ARC.172 Box 4 of 9</container>
-            <container id="cid604002" type="Box" label="Text">ARC.172 Box 5 of 9</container>
-            <container id="cid604001" type="Box" label="Text">ARC.172 Box 6 of 9</container>
-            <container id="cid604007" type="Box" label="Text">ARC.172 Box 9 of 9</container>
-            <container id="cid604006" type="Box" label="Text">ARC.172 Box 1 of 9</container>
-            <container id="cid604005" type="Box" label="Text">ARC.172 Box 2 of 9</container>
-            <container id="cid604004" type="Box" label="Text">ARC.172 Box 3 of 9</container>
-            <container id="cid604009" type="Box" label="Text">ARC.172 Box 7 of 9</container>
-            <container id="cid604008" type="Box" label="Text">ARC.172 Box 8 of 9</container>
+            <container id="cid604003" type="Box" label="Text">ARC.172 Box 4 of 8</container>
+            <container id="cid604002" type="Box" label="Text">ARC.172 Box 5 of 8</container>
+            <container id="cid604001" type="Box" label="Text">ARC.172 Box 6 of 8</container>
+            <container id="cid604006" type="Box" label="Text">ARC.172 Box 1 of 8</container>
+            <container id="cid604005" type="Box" label="Text">ARC.172 Box 2 of 8</container>
+            <container id="cid604004" type="Box" label="Text">ARC.172 Box 3 of 8</container>
+            <container id="cid604009" type="Box" label="Text">ARC.172 Box 7 of 8</container>
+            <container id="cid604008" type="Box" label="Text">ARC.172 Box 8 of 8</container>
             <physdesc>
-                <extent>3.75 Linear feet</extent>
-                <extent>in nine manuscript boxes.</extent>
+                <extent>3.3 linear feet</extent>
+                <extent>in eight manuscript boxes.</extent>
             </physdesc>
-            <unitdate normal="1860/1940" type="bulk">Bulk, 1860-1940</unitdate>
-            <unitdate normal="1843/1975" type="inclusive">1843-1975</unitdate>
-            <abstract id="ref8" label="Abstract">The Brooklyn clubs collection spans the dates 1843 to 1975, with bulk dates of 1860 to 1940, and measures 3.75 linear feet. Clubs represented in the collection are varied, with interests ranging from political, to professional, to social. Materials represented in the collection include yearbooks, event programs, constitutions and bylaws, newsletters, bulletins, membership lists, calendars, annual reports, and printed ephemera.</abstract>
+            <unitdate normal="1860/1950" type="bulk">Bulk, 1860-1950</unitdate>
+            <unitdate normal="1843/2005" type="inclusive">1843-2005</unitdate>
+            <abstract id="ref8" label="Abstract">The Brooklyn clubs collection spans the dates 1843 to 2005, with bulk dates of 1860 to 1960, and measures 3.3 linear feet. Clubs represented in the collection are varied, with interests ranging from political, to professional, to social. Materials represented in the collection include yearbooks, event programs, constitutions and bylaws, newsletters, bulletins, membership lists, calendars, annual reports, and printed ephemera.</abstract>
             <langmaterial id="ref9" label="Language of Materials">Materials in English except for the Brooklyn Sangaerbund materials which are in German.</langmaterial>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">12:30 Club of Bay Ridge, Inc.</corpname>
+            </origination>
             <origination label="creator">
                 <corpname rules="dacs" source="local">A Cappella Singers (Brooklyn, New York, N.Y.).</corpname>
             </origination>
@@ -71,58 +79,70 @@
                 <corpname rules="dacs" source="local">American Institute of Bank Clerks. Brooklyn Chapter.</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Arion Ladies Chorus (Brooklyn, New York, N.Y.)  .</corpname>
+                <corpname rules="dacs" source="local">Arion Ladies Chorus (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Arion Singing Society (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Arion Singing Society (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
                 <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Asacog Club (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Booth Dramatic Society (Brooklyn, New York, N.Y.)  .</corpname>
+                <corpname rules="dacs" source="local">Booth Dramatic Society (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Aquarium Society .</corpname>
+                <corpname rules="dacs" source="local">Brooklyn Aquarium Society.</corpname>
             </origination>
             <origination label="creator">
-                <corpname source="local">Brooklyn Athletic Association .</corpname>
+                <corpname source="local">Brooklyn Athletic Association.</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Barnard Club .</corpname>
+                <corpname rules="dacs" source="local">Brooklyn Barnard Club.</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Chautauqua Union (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Brooklyn Catholic Oratorio Society.</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Chorus (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Brooklyn Chautauqua Union (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Club (New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Brooklyn Chorus (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Conchological Club .</corpname>
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Club (New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Concord Club (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Brooklyn Co-Operative Colonization Society.</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Horticultural Society .</corpname>
+                <corpname rules="dacs" source="local">Brooklyn Conchological Club.</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Brooklyn Concord Club (Brooklyn, New York, N.Y.).</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Horticultural Society.</corpname>
             </origination>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Brooklyn Neurological Society.</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Photographic Society (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Brooklyn Photographic Society (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Republican Club (Brooklyn, New York, N.Y.)  .</corpname>
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Republican Club (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Saengerbund (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Brooklyn Saengerbund (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Cambridge Club (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Brooklyn Women's Bar Association.</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Brooklyn Yacht Club.</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Cambridge Club (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
                 <corpname source="local">Daughters of the American Revolution. Fort Greene Chapter (Brooklyn, New York, N.Y.).</corpname>
@@ -131,46 +151,52 @@
                 <corpname rules="dacs" source="local">Democratic Union General Committee of the City of Brooklyn and County of Kings (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Democratic Union Party of the City of Brooklyn and County of Kings (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Democratic Union Party of the City of Brooklyn and County of Kings (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Dramatic Readers (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Dramatic Readers (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
                 <corpname source="local">Entre Nous Dramatic and Literary Association.</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Franklin Literary Society (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Franklin Literary Society (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Friendly Tourists' Club (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Friendly Tourists' Club (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Hanover Club of Brooklyn (New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Hanover Club of Brooklyn (New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Heights Casino (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Heights Casino (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Invincible Club (New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Indian Amateur League of Brooklyn.</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Invincible Club (New York, N.Y.).</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Italian Historical Society (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Junior League of Brooklyn.</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Kings County Civil Employees Benevolent Association (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Kings County Civil Employees Benevolent Association (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Kosmos Club (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Kosmos Club (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Lawyers' Club of Brooklyn (Brooklyn, New York, N.Y.) .</corpname>
+                <corpname rules="dacs" source="local">Lawyers' Club of Brooklyn (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Lincoln Club (New York, N.Y.) .</corpname>
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Lincoln Club (New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="dacs" source="local">Long Island Automobile Club of Brooklyn .</corpname>
+                <corpname rules="dacs" source="local">Long Island Automobile Club of Brooklyn.</corpname>
             </origination>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Long Island Bottlers' Union (Brooklyn, New York, N.Y.).</corpname>
@@ -200,7 +226,13 @@
                 <corpname rules="dacs" source="local">Musaeola Association (Brooklyn, New York, N.Y.).</corpname>
             </origination>
             <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">National Society, Colonial Daughters of the Seventeenth Century .</corpname>
+                <corpname rules="dacs" source="Library_of_Congress_Name_Authority_File">National Association of Negro Business and Professional Women’s Clubs. Brooklyn Club.</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">National Society, Colonial Daughters of the Seventeenth Century.</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">New Utrecht Liberty Pole Association.</corpname>
             </origination>
             <origination label="creator">
                 <corpname rules="dacs" source="local">New York State Association Opposed to Woman Suffrage. Brooklyn Auxiliary.</corpname>
@@ -216,6 +248,9 @@
             </origination>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Rembrandt Club (Brooklyn, New York, N.Y.).</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Republican Party (Kings County, N.Y.). General Committee.</corpname>
             </origination>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Ridgewood Household Club (Brooklyn, New York, N.Y.).</corpname>
@@ -243,6 +278,9 @@
             </origination>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Twenty-first Ward Republican Association (Brooklyn, New York, N.Y.).</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">United War Veterans of Kings County.</corpname>
             </origination>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Winter’s Night Club (Brooklyn, New York, N.Y.).</corpname>
@@ -286,14 +324,33 @@
         <processinfo id="ref5">
             <head>Processing Information note</head>
             <p>Minimally processed to the collection level.</p>
+            <p>Additional material added to the collection by John Zarrillo, 2014-2015.</p>
         </processinfo>
         <relatedmaterial id="ref6">
             <head>Related Materials</head>
-            <p>Brooklyn Historical Society also holds several related collections. Interested researchers should see... Please consult library staff for more information.</p>
+            <p>Brooklyn Historical Society holds a number of collections related to Brooklyn clubs and organizations. These include (but are not limited to):</p>
+            <p>Apollo Club of Brooklyn programs, 1886 – 1967 (ARC.144)</p>
+            <p>Atlantic Yacht Club publications, 1866 – 1891 (ARC.140)</p>
+            <p>Brooklyn animal welfare organizations collection, 1868 – 1903 (ARC.151)</p>
+            <p>Brooklyn Arts and Culture Association publications, 1969 – 1997 (ARC.149)</p>
+            <p>Brooklyn Engineers’ Club publications, 1897 – 1973 (ARC.156)</p>
+            <p>Brooklyn Heights Association collection, 1929 – 1998 (ARC.148)</p>
+            <p>Brooklyn hospitals and health services organizations collection, 1829 – 1998 (ARC.141)</p>
+            <p>Brooklyn League annual reports and publications, 1902 – 1912 (ARC.159)</p>
+            <p>Brooklyn newsletter collection, 1869 - 2004 (ARC.174)</p>
+            <p>Brooklyn Woman’s Club yearbooks, 1903 – 1943 (ARC.158)</p>
+            <p>Brooklyn YMCA Central Branch publications, 1884 – 1967 (ARC.169)</p>
+            <p>Chiropean yearbooks, 1911 – 1965 (ARC.164)</p>
+            <p>Crescent Athletic Club yearbooks and bulletins, 1891 – 1940 (ARC.178)</p>
+            <p>Fraternal organizations of Brooklyn collection, 1845 – 1997 (ARC.147)</p>
+            <p>Kings County Chapter of the New York State Society of Professional Engineers publications, 1940 – 1966 (ARC.146)</p>
+            <p>Rotary Club of Brooklyn publications, 1919 – 1977 (ARC.143)</p>
+            <p>Third Kings Masonic Camp Fund publications, 1937 – 1987 (ARC.162)</p>
+            <p>Union League Club of Brooklyn yearbooks, 1890 – 1912 (ARC.157)</p>
         </relatedmaterial>
         <scopecontent id="ref7">
             <head>Scope and Contents</head>
-            <p>The Brooklyn clubs collection spans the dates 1843 to 1975, with bulk dates of 1860 to 1940, and measures 3.75 linear feet. Clubs represented in the collection are varied, with interests ranging from political, to professional, to social. Materials represented in the collection include yearbooks, event programs, constitutions and bylaws, newsletters, bulletins, membership lists, calendars, annual reports, and printed ephemera.</p>
+            <p>The Brooklyn clubs collection spans the dates 1843 to 2005, with bulk dates of 1860 to 1960, and measures 3.3 linear feet. Clubs represented in the collection are varied, with interests ranging from political, to professional, to social. Materials represented in the collection include yearbooks, event programs, constitutions and bylaws, newsletters, bulletins, membership lists, calendars, annual reports, and printed ephemera.</p>
             <p>The yearbooks are of particular interest as they often include membership lists, names of officers and committee members, constitutions and bylaws, articles of incorporation, and historical information pertaining to the club.</p>
             <p>
                 <emph render="boldunderline">Box 1 contains: </emph></p>
@@ -310,9 +367,11 @@
             <p>Brooklyn Aquarium Society – 
                 <emph render="italic">The Aquarium Bulletin</emph>, 1893</p>
             <p>Brooklyn Athletic Association – First annual winter meeting program, 1886</p>
+            <p>Brooklyn Barnard Club – Yearbooks, 1897, 1898, 1901, and 1903</p>
+            <p>Brooklyn Catholic Oratorio Society - Dvorak's 
+                <emph render="italic">Stabat Mater</emph> program (Brooklyn Academy of Music), 1910</p>
             <p>
                 <emph render="boldunderline">Box 2 contains: </emph></p>
-            <p>Brooklyn Barnard Club – Yearbooks, 1897, 1898, 1901, and 1903</p>
             <p>Brooklyn Chautauqua Union – Yearbook, 1897</p>
             <p>The Brooklyn Chorus – Concert program, 1910</p>
             <p>The Brooklyn Club – Membership list, 1895; newsletter, 
@@ -321,32 +380,40 @@
                 <emph render="italic">Bulletin</emph>, 1907</p>
             <p>Brooklyn Concord Club – Newsletter, 
                 <emph render="italic">Brooklyn Concord Democrat</emph>, 1956</p>
+            <p>Brooklyn Co-Operative Colonization Society - Constitution, circa 1878; memorandum, 1880</p>
             <p>Brooklyn Horticultural Society – Annual report, 1857; constitution and bylaws, 1858; news clippings, printed ephemera, and exhibition programs, circa 1860</p>
             <p>Brooklyn Photographic Society – Constitution, bylaws, and membership list, 1864</p>
             <p>Brooklyn Republican Club – Yearbook, 1893</p>
-            <p>Brooklyn Saengerbund (later, Brooklyn Sängerbund; a German-American singing society) – Annual reports, 1911 to 1912 and 1917 to 1918; membership lists, 1901 to 1930; and travel itinerary for a trip to Germany, 1912.</p>
+            <p>Brooklyn Saengerbund (later, Brooklyn Sängerbund; a German-American singing society) – Annual reports, 1911 to 1912 and 1917 to 1918; membership lists, 1901 to 1930; and travel itinerary for a trip to Germany, 1912</p>
+            <p>Brooklyn Women's Bar Association - 
+                <emph render="italic">A History of the Brooklyn Women's Bar Association: 1993-2005</emph>, by Barbara H. Grcevic</p>
+            <p>Brooklyn Yacht Club - Regatta program, 1872</p>
+            <p>Cambridge Club – Yearbooks and club calendars, 1891 to 1943; program, 1915; 
+                <emph render="italic">A History of the Cambridge Club</emph>, 1911</p>
             <p>
                 <emph render="boldunderline">Box 3 contains:</emph></p>
-            <p>Cambridge Club – Yearbooks and club calendars, 1891 to 1943, program (1915); 
-                <emph render="italic">A History of the Cambridge Club</emph> (1911).</p>
-            <p>Colonial Daughters of the Seventeenth Century – Membership lists, 1933 to 1934, and 1936; and addenda, 1936 to 1937.</p>
-            <p>Daughters of the American Revolution, Fort Greene Chapter – Charter, constitution and bylaws; and officer and membership lists, 1921, 1925 and 1928.</p>
+            <p>Colonial Daughters of the Seventeenth Century – Luncheon program, 1927; Membership lists, 1933 to 1934, and 1936; and addenda, 1936 to 1937</p>
+            <p>Daughters of the American Revolution, Fort Greene Chapter – Charter, constitution and bylaws; and officer and membership lists, 1921, 1925 and 1928</p>
             <p>Democratic Union General Committee of the City of Brooklyn – Constitution and bylaws, 1861</p>
             <p>Democratic Union Party of the City of Brooklyn – Constitution, 1861</p>
             <p>Entre Nous Dramatic and Literary Association of Brooklyn – Constitution and bylaws, 1871</p>
             <p>Dramatic Readers – Constitution and bylaws; and yearbooks, 1945 to 1948</p>
             <p>Franklin Literary Society – Constitution and bylaws, 1843; and two yearbooks (manuals), 1878 and 1884.</p>
             <p>Friendly Tourists' Club – Constitution and bylaws, 1925 and 1941; yearly calendars of programs, 1914 to 1944 (includes membership lists)</p>
+            <p>Hanover Club – Yearbooks, 1900 and 1913</p>
             <p>
                 <emph render="boldunderline">Box 4 contains:</emph></p>
-            <p>Hanover Club – Yearbooks, 1900 and 1913</p>
             <p>Heights Casino – Yearbooks, 1905 to 1963; newsletter, 
-                <emph render="italic">Heights Casino Monthly</emph>, 1953</p>
+                <emph render="italic">Heights Casino Monthly</emph>, 1953; 
+                <emph render="italic">Heights Casino, 1904-2004</emph></p>
+            <p>Indian Amateur League of Brooklyn (athletic clubs) - Annual Spring Games program, 1903; Seminole Athletic Club reception program, 1904</p>
             <p>Invincible Club of Brooklyn (political club, Republican Party) – Constitution and bylaws, 1901</p>
-            <p>Junior League of Brooklyn - 
-                <emph render="italic">Brooklyn Junior League News</emph>, 1960</p>
+            <p>Italian Historical Society - 18th Annual Columbus Day Observance booklet, 1971</p>
+            <p>Junior League of Brooklyn - Sanitary Fair of 1864 program, reproduction gala flyers and clippings, 1930; Golden Anniversary Ball program and invitation, 1960; 
+                <emph render="italic">Brooklyn Junior League News</emph>, 1960; Hemisphere Ball programs and seating list, 1962</p>
             <p>Kings County Civil Employees Benevolent Association - 
                 <emph render="italic">Bulletin</emph>, 1922 to 1923</p>
+            <p>Kings County Republican County Committee - Lincoln Dinner programs and seating arrangements, 1960 to 1965</p>
             <p>Kosmos Club – Constitution and bylaws, 1927 and 1928; yearbooks, 1932 to 1941</p>
             <p>The Lawyers' Club of Brooklyn – Yearbooks, 1922 to 1923 and 1953 to 1954</p>
             <p>The Lincoln Club – Yearbook, 1900</p>
@@ -355,38 +422,44 @@
                 <emph render="boldunderline">Box 5 contains:</emph></p>
             <p>Long Island Bottlers' Union – Bylaws, 1900</p>
             <p>Long Island Library Club – Constitution, officers, and membership list, 1904 and 1912</p>
-            <p>The Marine and Field Club – Yearbooks, 1894, 1897, and 1903</p>
+            <p>The Marine and Field Club – Annual Reception and Law Tennis Tournament program and menu, 1887; Club House memoranda, 1895; Yearbooks, 1894, 1897, and 1903</p>
             <p>Merchants' Association – Newsletter, 
                 <emph render="italic">Greater New York</emph>, 1928 to 1929</p>
             <p>Midwood Club – Scrapbook, circa 1890</p>
             <p>The Monday Club of Brooklyn – Yearbook, 1914</p>
-            <p>Montauk Club – Yearbooks, 1889 to 1924 (incomplete)</p>
+            <p>Montauk Club – Yearbooks, 1889 to 1924 (incomplete); brochures, circa 2005</p>
+            <p>Municipal Club of Brooklyn – Yearbooks, 1918 to 1935 (except for 1926); bulletin, 1899</p>
             <p>
                 <emph render="boldunderline">Box 6 contains: </emph></p>
-            <p>Municipal Club of Brooklyn – Yearbooks, 1918 to 1935 (except for 1926); bulletin, 1899</p>
             <p>Musaeola Association – Constitution, bylaws, and membership list, 1864</p>
+            <p>National Association of Negro Business and Professional Womens Clubs. Brooklyn Club - 7th Annual Founders' Day Luncheon, 1975</p>
             <p>Neurological Society – Officers and membership list, 1920</p>
+            <p>New Utrecht Liberty Pole Association - Membership application, circa 1940s to 1950s</p>
             <p>New York State Association Opposed to Woman Suffrage, Brooklyn Auxiliary – publications, 1908</p>
             <p>Oxford Club of Brooklyn – Yearbooks, 1887, 1888, and 1889</p>
             <p>Philharmonic Society of Brooklyn – Annual reports, 1857 to 1864; constitution and bylaws, 1857; concert programs, circa 1850 to circa 1890; and printed ephemera</p>
             <p>Prospect Club – Yearbook, 1900; Constitution and bylaws, 1916</p>
+            <p>Rembrandt Club – Yearbooks, 1885 to 1980 (incomplete); membership lists</p>
             <p>
                 <emph render="boldunderline">Box 7 contains:</emph></p>
-            <p>Rembrandt Club – Yearbooks, 1885 to 1980 (incomplete); membership lists</p>
             <p>Ridgewood Household Club- First annual report, 1901 to 1902</p>
             <p>The Riding and Driving Club of Brooklyn – Yearbooks, 1896, 1900, 1906, 1910, 1915, and 1927; Horse Show Programs 1893, 1894, 1895</p>
-            <p>Society of Old Brooklynites – Yearbooks, 1880, 1887, and 1924</p>
+            <p>Society of Old Brooklynites – 
+                <emph render="italic">Proceedings of the Society of Old Brooklynites in relation to the Bartholdi Statue of "Liberty Enlightening the World," Address to the French Delegation on that Subject and Report of the Committee Theron</emph>, 1886; Yearbooks, 1880, 1887, and 1924; Golden Jubilee program, 1930 (photocopy); 51st Annual Dinner program, 1931; Brooklyn Centennial Banquet programs and guest list, 1934; Annual Christmas Party program, 1957; Meeting program, 1969; Washington A. Roebling Brooklyn Bridge memorial invitation, 1973</p>
+            <p>Tenth Ward Democratic Buchanan Keystone Club of the City of Brooklyn- Constitution and bylaws, 1856</p>
+            <p>Tree Planting and Fountain Society of Brooklyn – Yearbook, 1890; annual reports, 1896 to 1898; bulletins, 1894 and 1895; miscellaneous printed material</p>
+            <p>Turn-Verein Vorwaerts (also spelled Vorwärts) – Bulletins, 1937; and yearbook, 1939</p>
+            <p>12:15 Club of South Brooklyn – Bound bulletins, 
+                <emph render="italic">Spotlight</emph>, 1934 to 1950; loose issues, 1961</p>
             <p>
                 <emph render="boldunderline">Box 8 contains:</emph></p>
             <p>12:15 Club of South Brooklyn – Bound bulletins, 
-                <emph render="italic">Spotlight</emph>, 1934 to 1950; loose issues, 1961</p>
-            <p>Tree Planting and Fountain Society of Brooklyn – Yearbook, 1890; annual reports, 1896 to 1898; bulletins, 1894 and 1895; miscellaneous printed material</p>
-            <p>Turn-Verein Vorwaerts (also spelled Vorwärts) – Bulletins, 1937; and yearbook, 1939</p>
-            <p>Tenth Ward Democratic Buchanan Keystone Club of the City of Brooklyn- Constitution and bylaws, 1856</p>
+                <emph render="italic">Spotlight</emph>, 1934 to 1950; loose issues, 1961 (continued)</p>
+            <p>12:30 Club of Bay Ridge - 
+                <emph render="italic">High Noon</emph> newsletter, 1957</p>
             <p>Twentieth Century Club (later, Twentieth Century Club of New York City) – Yearbooks, 1896 to 1927 (incomplete)</p>
-            <p>
-                <emph render="boldunderline">Box 9 contains:</emph></p>
             <p>Twenty-first Ward Republican Association – Bylaws, 1887</p>
+            <p>United War Veterans of Kings County - Memorial Day Parade programs, 1948 to 1967</p>
             <p>Winter's Night Club – Yearbooks, 1918 and 1927; membership list; miscellaneous materials</p>
             <p>Women's Christian Temperance Union on the Hill, Brooklyn – First annual report, 1881</p>
             <p>Yacht Racing Association of Gravesend Bay – Bylaws and racing rules, 1913; and yearbook and racing rules, 1914</p>
@@ -396,45 +469,52 @@
             <p>Copyright restrictions may apply. Please consult library staff for more information.</p>
         </userestrict>
         <controlaccess>
+            <corpname rules="dacs" source="local">12:30 Club of Bay Ridge, Inc.</corpname>
             <corpname rules="dacs" source="local">A Cappella Singers (Brooklyn, New York, N.Y.).</corpname>
             <corpname source="local">Alcyone Boat Club.</corpname>
             <corpname rules="dacs" source="local">American Institute of Architects. Brooklyn Chapter.</corpname>
             <corpname rules="dacs" source="local">American Institute of Bank Clerks. Brooklyn Chapter.</corpname>
-            <corpname rules="dacs" source="local">Arion Ladies Chorus (Brooklyn, New York, N.Y.)  .</corpname>
-            <corpname rules="dacs" source="local">Arion Singing Society (Brooklyn, New York, N.Y.) .</corpname>
+            <corpname rules="dacs" source="local">Arion Ladies Chorus (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Arion Singing Society (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Asacog Club (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Booth Dramatic Society (Brooklyn, New York, N.Y.)  .</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Aquarium Society .</corpname>
-            <corpname source="local">Brooklyn Athletic Association .</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Barnard Club .</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Chautauqua Union (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Chorus (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Club (New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Conchological Club .</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Concord Club (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Horticultural Society .</corpname>
+            <corpname rules="dacs" source="local">Booth Dramatic Society (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Aquarium Society.</corpname>
+            <corpname source="local">Brooklyn Athletic Association.</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Barnard Club.</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Catholic Oratorio Society.</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Chautauqua Union (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Chorus (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Club (New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Co-Operative Colonization Society.</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Conchological Club.</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Concord Club (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Horticultural Society.</corpname>
             <corpname rules="dacs" source="local">Brooklyn Neurological Society.</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Photographic Society (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Republican Club (Brooklyn, New York, N.Y.)  .</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Saengerbund (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Cambridge Club (Brooklyn, New York, N.Y.) .</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Photographic Society (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Republican Club (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Saengerbund (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Women's Bar Association.</corpname>
+            <corpname rules="dacs" source="local">Brooklyn Yacht Club.</corpname>
+            <corpname rules="dacs" source="local">Cambridge Club (Brooklyn, New York, N.Y.).</corpname>
             <corpname source="local">Daughters of the American Revolution. Fort Greene Chapter (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Democratic Union Association (New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Democratic Union General Committee of the City of Brooklyn and County of Kings (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Democratic Union Party of the City of Brooklyn and County of Kings (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Dramatic Readers (Brooklyn, New York, N.Y.) .</corpname>
+            <corpname rules="dacs" source="local">Democratic Union Party of the City of Brooklyn and County of Kings (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Dramatic Readers (Brooklyn, New York, N.Y.).</corpname>
             <corpname source="local">Entre Nous Dramatic and Literary Association.</corpname>
-            <corpname rules="dacs" source="local">Franklin Literary Society (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Friendly Tourists' Club (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Hanover Club of Brooklyn (New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Heights Casino (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Invincible Club (New York, N.Y.) .</corpname>
+            <corpname rules="dacs" source="local">Franklin Literary Society (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Friendly Tourists' Club (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Hanover Club of Brooklyn (New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Heights Casino (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Indian Amateur League of Brooklyn.</corpname>
+            <corpname rules="dacs" source="local">Invincible Club (New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Italian Historical Society (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Junior League of Brooklyn.</corpname>
-            <corpname rules="dacs" source="local">Kings County Civil Employees Benevolent Association (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Kosmos Club (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Lawyers' Club of Brooklyn (Brooklyn, New York, N.Y.) .</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Lincoln Club (New York, N.Y.) .</corpname>
-            <corpname rules="dacs" source="local">Long Island Automobile Club of Brooklyn .</corpname>
+            <corpname rules="dacs" source="local">Kings County Civil Employees Benevolent Association (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Kosmos Club (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Lawyers' Club of Brooklyn (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Lincoln Club (New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Long Island Automobile Club of Brooklyn.</corpname>
             <corpname rules="dacs" source="local">Long Island Bottlers' Union (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Long Island Library Club (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Marine and Field Club (Brooklyn, New York, N.Y.).</corpname>
@@ -444,12 +524,15 @@
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Montauk Club of Brooklyn.</corpname>
             <corpname rules="dacs" source="local">Municipal Club of Brooklyn (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Musaeola Association (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">National Society, Colonial Daughters of the Seventeenth Century .</corpname>
+            <corpname rules="dacs" source="Library_of_Congress_Name_Authority_File">National Association of Negro Business and Professional Women’s Clubs. Brooklyn Club.</corpname>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">National Society, Colonial Daughters of the Seventeenth Century.</corpname>
+            <corpname rules="dacs" source="local">New Utrecht Liberty Pole Association.</corpname>
             <corpname rules="dacs" source="local">New York State Association Opposed to Woman Suffrage. Brooklyn Auxiliary.</corpname>
             <corpname rules="dacs" source="local">Oxford Club of Brooklyn.</corpname>
             <corpname source="local">Philharmonic Society of Brooklyn.</corpname>
             <corpname rules="dacs" source="local">Prospect Club (Park Slope, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Rembrandt Club (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Republican Party (Kings County, N.Y.). General Committee.</corpname>
             <corpname rules="dacs" source="local">Ridgewood Household Club (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Riding and Driving Club of Brooklyn.</corpname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Society of Old Brooklynites (Brooklyn, New York, N.Y.).</corpname>
@@ -459,12 +542,13 @@
             <corpname rules="dacs" source="local">Twelve Fifteen Club of South Brooklyn (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Twentieth Century Club (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Twenty-first Ward Republican Association (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">United War Veterans of Kings County.</corpname>
             <corpname rules="dacs" source="local">Winter’s Night Club (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Women's Christian Temperance Union on the Hill (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Yacht Racing Association of Gravesend Bay.</corpname>
             <genreform source="aat">Annual reports</genreform>
             <subject source="lcsh">Art |x Societies, etc.</subject>
-            <genreform source="aat">Articles of incorporation.</genreform>
+            <genreform source="aat">Articles of incorporation</genreform>
             <subject source="lcsh">Athletic clubs |z New York (State) |z Kings County</subject>
             <subject source="lcsh">Automobiles |x Societies, etc.</subject>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_030_cora_williamson">arms_1985_030_cora_williamson</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Cora Williamson ephemera collection
+                    <num>1985.030</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-10-04T16:32-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Cora Williamson ephemera collection</unittitle>
+            <unitid>1985.030</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1242004" type="Box" label="Text">A0009</container>
+            <physdesc>
+                <extent>0.1 linear feet</extent>
+                <extent>in 1 folder</extent>
+            </physdesc>
+            <unitdate normal="1870/1889" type="inclusive">circa 1870s-1880s</unitdate>
+            <abstract id="ref3" label="Abstract">The collection consists of 19th century ephemera belonging to a schoolgirl named Cora Williamson.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Collector (col)">Williamson, Cora, 1867?-1932</persname>
+            </origination>
+        </did>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Cora Williamson ephemera collection, 1985.030, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Immediate source of acquistion is unknown. Collection accessioned in 1985.</p>
+        </acqinfo>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Collection is in the public domain.</p>
+        </userestrict>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The collection consists of 19th century ephemera belonging to a schoolgirl named Cora Williamson. It contains a printed card with a poem entitled "The Little Nurse;" one Reward of Merit certificate to Williamson from Rosa J. Prall, teacher; and one envelope addressed to Williamson at 44 Livingston Street, Brooklyn.</p>
+        </scopecontent>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <bioghist id="ref7">
+            <head>Biographical note</head>
+            <p>Cora Williamson (1867?-1932) was a lifetime resident of Brooklyn Heights, where she resided at 44 Livingston Street. She was the daughter of Mr. and Mrs. S.H. Williamson, had two sisters, Louise and Lilly, and one brother, Alfred. She died in her home in 1932 and is buried in Green-Wood Cemetery.</p>
+        </bioghist>
+        <controlaccess>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+            <genreform source="aat">Ephemera</genreform>
+            <subject source="lcsh">Poetry</subject>
+            <genreform source="aat">Printed ephemera</genreform>
+            <genreform source="aat">Rewards of merit</genreform>
+            <subject source="lcsh">Students |z New York (State) |z Kings County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

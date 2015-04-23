@@ -12,7 +12,7 @@
                 <author>Finding aid prepared by Colin Wells, 2009. Media updated by Rhyannon Rodriguez, 2009, and Mickey Sanchez, 2009</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>© 2009 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -26,8 +26,10 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2009-10-22T14:51-0400</date>
+                <date>2014-04-03T16:10-0400</date>
             </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
@@ -35,13 +37,13 @@
             <unittitle>Judson Memorial Church Oral History Archive</unittitle>
             <unitid>MSS 232</unitid>
             <repository>
-                <corpname>© 2009 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>2.0 Linear feet</extent>
+                <extent>2.0 linear feet</extent>
                 <extent>(3 boxes)</extent>
             </physdesc>
             <unitdate normal="2008/2008">2008</unitdate>
@@ -49,7 +51,8 @@
         </did>
         <relatedmaterial id="ref107">
             <head>Related Archival Materials note</head>
-            <p>The Judson Memorial Church Archive</p>
+            <p>
+                <extref ns2:href="http://dlib.nyu.edu/findingaids/html/fales/judson.html">The Judson Memorial Church Archive</extref></p>
         </relatedmaterial>
         <custodhist id="ref105">
             <head>Provenance</head>
@@ -67,6 +70,11 @@
         <arrangement id="ref102">
             <head>Arrangement</head>
             <p>Materials are arranged alphabetically by either the student or interviewee. Series I is arranged alphabetically by the interviewee. Series II, Subseries A, B, and C are arranged alphabetically by student, and Subseries D is alphabetical by interviewee.</p>
+            <list numeration="arabic" type="ordered">
+                <item>Series I: Administrative Papers</item>
+                <item>Series II: Student-Produced Materials</item>
+                <item>Series III: Oral History Interview Audio Discs</item>
+            </list>
         </arrangement>
         <scopecontent id="ref101">
             <head>Scope and Content note</head>
@@ -134,6 +142,10 @@
             <persname source="local" role="Interviewee (ive)">Halsey, Peggy</persname>
             <persname source="local" role="Interviewee (ive)">Harwig, Peggy</persname>
             <persname source="local" role="Interviewee (ive)">James, Rose</persname>
+            <corpname source="naf">Judson Dance Theater.</corpname>
+            <corpname source="naf">Judson Gallery (New York, N.Y.).</corpname>
+            <corpname source="naf">Judson Memorial Church (New York, N.Y.).</corpname>
+            <corpname source="naf">Judson Poet's Theater.</corpname>
             <persname source="local" role="Interviewee (ive)">Koutoukas, Harry</persname>
             <persname source="local" role="Interviewee (ive)">Levin, Arthur</persname>
             <persname source="local" role="Interviewee (ive)">Meyer, Mary</persname>
@@ -146,10 +158,6 @@
             <persname source="local" role="Interviewee (ive)">Studnicka, Steve</persname>
             <persname source="local" role="Interviewee (ive)">Tenney, Rachel</persname>
             <persname source="local" role="Interviewee (ive)">Trexel, Bethene</persname>
-            <subject source="lcsh">Judson Dance Theater.</subject>
-            <subject source="lcsh">Judson Gallery (New York, N.Y.)</subject>
-            <subject source="lcsh">Judson Memorial Church (New York, N.Y.)</subject>
-            <subject source="lcsh">Judson Poet's Theatre.</subject>
         </controlaccess>
         <dsc>
             <c id="ref1" level="series">
@@ -166,16 +174,16 @@
                 <c id="ref3" level="file">
                     <did>
                         <unittitle>Administrative Papers 1 of 2</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">1</container>
+                        <container id="cid110262" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid110262" type="Folder">1</container>
                         <unitdate normal="2008/2008">2008</unitdate>
                     </did>
                 </c>
                 <c id="ref4" level="file">
                     <did>
                         <unittitle>Administrative Papers 2 of 2</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">2</container>
+                        <container id="cid110256" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid110256" type="Folder">2</container>
                         <unitdate normal="2008/2008">2008</unitdate>
                     </did>
                 </c>
@@ -203,8 +211,8 @@
                     <c id="ref9" level="file">
                         <did>
                             <unittitle>Fieldwork Analysis Papers</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">3</container>
+                            <container id="cid110257" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110257" type="Folder">3</container>
                             <unitdate normal="2008/2008">Fall 2008</unitdate>
                         </did>
                     </c>
@@ -220,79 +228,79 @@
                     <c id="ref11" level="file">
                         <did>
                             <unittitle>"Something in the Air": Civil Rights, Women's Rights, and Activism in the 1960s</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">4</container>
+                            <container id="cid110258" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110258" type="Folder">4</container>
                         </did>
                     </c>
                     <c id="ref13" level="file">
                         <did>
                             <unittitle>The Life History of Ms. Rose James</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">5</container>
+                            <container id="cid110259" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110259" type="Folder">5</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref14" level="file">
                         <did>
                             <unittitle>History in Layers</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">6</container>
+                            <container id="cid110260" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110260" type="Folder">6</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref15" level="file">
                         <did>
                             <unittitle>Judson Memorial Church: You Are Here</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">7</container>
+                            <container id="cid110261" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110261" type="Folder">7</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref16" level="file">
                         <did>
                             <unittitle>Voices of New York 1950-1970</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">8</container>
+                            <container id="cid110263" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110263" type="Folder">8</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref17" level="file">
                         <did>
                             <unittitle>Avant-Garde Theater -- Greenwich Village -- 1960s and 70s</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">9</container>
+                            <container id="cid110264" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110264" type="Folder">9</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref18" level="file">
                         <did>
                             <unittitle>Judson Memorial Church: "It's All in the Timing": The Tenure of Reverend Howard Moody 1956-1992</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">10</container>
+                            <container id="cid110265" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110265" type="Folder">10</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref19" level="file">
                         <did>
                             <unittitle>Judson Memorial Church and the Reproductive Rights Movement</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">11</container>
+                            <container id="cid110266" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110266" type="Folder">11</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref20" level="file">
                         <did>
                             <unittitle>"A Sanctuary for Artistic Expression": Judson Dance Theater 1962-1966</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">12</container>
+                            <container id="cid110280" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110280" type="Folder">12</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref21" level="file">
                         <did>
                             <unittitle>Voices of Judson Memorial Church: "Creating Community Across Generations"</unittitle>
-                            <container type="Box">1</container>
-                            <container type="Folder">13</container>
+                            <container id="cid110281" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid110281" type="Folder">13</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
@@ -308,99 +316,99 @@
                     <c id="ref23" level="file">
                         <did>
                             <unittitle>Women and Social Movements, Elizabeth Banks, Ashley Welch, 12/17/08</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">1</container>
-                            <container type="Disk">ID: 232.0035</container>
+                            <container id="cid110244" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110244" type="Folder">1</container>
+                            <container parent="cid110244" type="Disk">ID: 232.0035</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref24" level="file">
                         <did>
                             <unittitle>Documents and Images for History in Layers Exhibit, Keara Duggan, 18 December 2008, Oral History-NYU, Fall 2008</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">2</container>
-                            <container type="Disk">ID: 232.0036</container>
+                            <container id="cid110245" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110245" type="Folder">2</container>
+                            <container parent="cid110245" type="Disk">ID: 232.0036</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref25" level="file">
                         <did>
                             <unittitle>Audio Clips, History in Layers Exhibit, Keara Duggan, Fall 2008 Oral History Course, Created 11 Dec. 2008</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">3</container>
-                            <container type="Disk">ID: 232.0037</container>
+                            <container id="cid110246" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110246" type="Folder">3</container>
+                            <container parent="cid110246" type="Disk">ID: 232.0037</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref26" level="file">
                         <did>
                             <unittitle>Voices of New York 1950-1970, Blog and Attachments for Archives, Adina Langer, 12/13/08</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">4</container>
-                            <container type="Disk">ID: 232.0038</container>
+                            <container id="cid110247" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110247" type="Folder">4</container>
+                            <container parent="cid110247" type="Disk">ID: 232.0038</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref27" level="file">
                         <did>
                             <unittitle>Walking Tour of the Avant-Garde Theaters, by Kaitlyn Medley</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">5</container>
-                            <container type="Disk">ID: 232.0039</container>
+                            <container id="cid110248" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110248" type="Folder">5</container>
+                            <container parent="cid110248" type="Disk">ID: 232.0039</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref28" level="file">
                         <did>
                             <unittitle>Howard Moody, Oral History, Public History Exhibit, PowerPoint, Stacey Satchell, Fall Semester 2008</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">6</container>
-                            <container type="Disk">ID: 232.0040</container>
+                            <container id="cid110249" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110249" type="Folder">6</container>
+                            <container parent="cid110249" type="Disk">ID: 232.0040</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref29" level="file">
                         <did>
                             <unittitle>Judson Memorial Church and the Reproductive Rights Movement, http://voicesofjudson.blogspot.com, Breanne Scanlon, 2008</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">7</container>
-                            <container type="Disk">ID: 232.0041</container>
+                            <container id="cid110250" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110250" type="Folder">7</container>
+                            <container parent="cid110250" type="Disk">ID: 232.0041</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref30" level="file">
                         <did>
                             <unittitle>Audio Clips Used on http://voicesofjudson.blogspot.com, Howard Moody, Anna Lou Pickett, Mary Meyer, Breanne Scanlon, NYU Fall '08</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">8</container>
-                            <container type="Disk">ID: 232.0042</container>
+                            <container id="cid110251" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110251" type="Folder">8</container>
+                            <container parent="cid110251" type="Disk">ID: 232.0042</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref31" level="file">
                         <did>
                             <unittitle>Philip Corner's "On Tape from the Judson Years"</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">9</container>
-                            <container type="Disk">ID: 232.0043</container>
+                            <container id="cid110252" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110252" type="Folder">9</container>
+                            <container parent="cid110252" type="Disk">ID: 232.0043</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref32" level="file">
                         <did>
                             <unittitle>Final Project on Judson Dance Theater (PowerPoint), Joanna Steinberg</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">10</container>
-                            <container type="Disk">ID: 232.0044</container>
+                            <container id="cid110253" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110253" type="Folder">10</container>
+                            <container parent="cid110253" type="Disk">ID: 232.0044</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
                     <c id="ref33" level="file">
                         <did>
                             <unittitle>Voices of Judson Memorial Church - Final Project, Final PowerPoint, Oral History Audio Clips, Laura Zeccardi 12/15/08</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">11</container>
-                            <container type="Disk">ID: 232.0045</container>
+                            <container id="cid110254" type="Box" label="Computer disks / tapes">2</container>
+                            <container parent="cid110254" type="Folder">11</container>
+                            <container parent="cid110254" type="Disk">ID: 232.0045</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
                     </c>
@@ -419,8 +427,8 @@
                     <c id="ref186" level="item">
                         <did>
                             <unittitle>Bebe Anderson Oral History, Interviewed by Ashley Welch, 12/9/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0047</container>
+                            <container id="cid15684001" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684001" type="Media">ID: 232.0047</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref257">
@@ -443,8 +451,8 @@
                     <c id="ref188" level="item">
                         <did>
                             <unittitle>Holly Bean Oral History Parts I &amp; II, Interviewed by Elizabeth Banks, 11/18/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0049, ID: 232.0051</container>
+                            <container id="cid15684002" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684002" type="Media">ID: 232.0049, ID: 232.0051</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref259">
@@ -470,8 +478,8 @@
                     <c id="ref189" level="item">
                         <did>
                             <unittitle>Reathel Bean Oral History Parts I &amp; II, Interviewed by Kait Medley, 10/10/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0053, ID: 232.0055</container>
+                            <container id="cid15684003" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684003" type="Media">ID: 232.0053, ID: 232.0055</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref261">
@@ -492,8 +500,8 @@
                     <c id="ref190" level="item">
                         <did>
                             <unittitle>Keen Berger Oral History Parts I &amp; II, Interviewed by Elizabeth Banks, 10/10/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0057, ID: 232.0059</container>
+                            <container id="cid15684004" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684004" type="Media">ID: 232.0057, ID: 232.0059</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref264">
@@ -517,8 +525,8 @@
                     <c id="ref191" level="item">
                         <did>
                             <unittitle>Malcolm Goldstein Oral History Parts I &amp; II, Interviewed by Joanna Steinberg, 10/16/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0061, ID: 232.0063</container>
+                            <container id="cid15684005" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684005" type="Media">ID: 232.0061, ID: 232.0063</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref265">
@@ -544,16 +552,16 @@
                     <c id="ref192" level="item">
                         <did>
                             <unittitle>Grace Goodman Oral History Parts I &amp; II, Interviewed by Brigid Harmon, 10/16/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0065, ID: 232.0067</container>
+                            <container id="cid15684006" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684006" type="Media">ID: 232.0065, ID: 232.0067</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref193" level="item">
                         <did>
                             <unittitle>Peggy Halsey Oral History Parts I &amp; II, Interviewed by Ashley Welch, 10/20/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0069, ID: 232.0071</container>
+                            <container id="cid15684007" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684007" type="Media">ID: 232.0069, ID: 232.0071</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref268">
@@ -579,8 +587,8 @@
                     <c id="ref194" level="item">
                         <did>
                             <unittitle>Sue Harwig Oral History Part One, Interviewed by Adina Langer, 10/17/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0073</container>
+                            <container id="cid15684008" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684008" type="Media">ID: 232.0073</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref269">
@@ -591,8 +599,8 @@
                     <c id="ref195" level="item">
                         <did>
                             <unittitle>Sue Harwig Oral History Part Two, Interviewed by Adina Langer, 10/17/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0075</container>
+                            <container id="cid15684009" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684009" type="Media">ID: 232.0075</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref272">
@@ -603,8 +611,8 @@
                     <c id="ref196" level="item">
                         <did>
                             <unittitle>Sue Harwig Oral History Part Three, Interviewed by Adina Langer, 10/17/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0077</container>
+                            <container id="cid15684010" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684010" type="Media">ID: 232.0077</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref273">
@@ -615,24 +623,24 @@
                     <c id="ref197" level="item">
                         <did>
                             <unittitle>Rose James Oral History Part One, 10/17/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0079</container>
+                            <container id="cid15684011" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684011" type="Media">ID: 232.0079</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref198" level="item">
                         <did>
                             <unittitle>Rose James Oral History Part Two, 11/10/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0081</container>
+                            <container id="cid15684012" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684012" type="Media">ID: 232.0081</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref199" level="item">
                         <did>
                             <unittitle>Harry Koutoukas Oral History, Interviewed by Kait Medley, 11/11/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0083</container>
+                            <container id="cid15684013" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684013" type="Media">ID: 232.0083</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref276">
@@ -653,8 +661,8 @@
                     <c id="ref200" level="item">
                         <did>
                             <unittitle>Arthur Levin Oral History Part One, Interviewed by Stacey Satchell, 11/24/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0085</container>
+                            <container id="cid15684014" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684014" type="Media">ID: 232.0085</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref277">
@@ -679,8 +687,8 @@
                     <c id="ref201" level="item">
                         <did>
                             <unittitle>Arthur Levin Oral History Part Two, Interviewed by Stacey Satchell, 11/24/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0087</container>
+                            <container id="cid15684015" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684015" type="Media">ID: 232.0087</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref280">
@@ -702,24 +710,24 @@
                     <c id="ref202" level="item">
                         <did>
                             <unittitle>Mary Meyer Oral History Part One, Interviewed by Breanne Scanlon, 10/26/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0089</container>
+                            <container id="cid15684016" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684016" type="Media">ID: 232.0089</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref203" level="item">
                         <did>
                             <unittitle>Mary Meyer Oral History Part Two, Interviewed by Breanne Scanlon, 10/26/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0091</container>
+                            <container id="cid15684017" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684017" type="Media">ID: 232.0091</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref204" level="item">
                         <did>
                             <unittitle>Howard Moody Oral History Part One, Disc One, Interviewed by Stacey Satchell, 10/15/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0093</container>
+                            <container id="cid15684018" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684018" type="Media">ID: 232.0093</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref281">
@@ -746,8 +754,8 @@
                     <c id="ref205" level="item">
                         <did>
                             <unittitle>Howard Moody Oral History Part One, Disc Two, Interviewed by Stacey Satchell, 10/15/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0095</container>
+                            <container id="cid15684019" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684019" type="Media">ID: 232.0095</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref284">
@@ -768,8 +776,8 @@
                     <c id="ref206" level="item">
                         <did>
                             <unittitle>Howard Moody Oral History Part Two, Disc One, Interviewed by Stacey Satchell, 11/18/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0097</container>
+                            <container id="cid15684020" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684020" type="Media">ID: 232.0097</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref285">
@@ -790,8 +798,8 @@
                     <c id="ref207" level="item">
                         <did>
                             <unittitle>Howard Moody Oral History Part Two, Disc Two, Interviewed by Stacey Satchell, 11/18/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0099</container>
+                            <container id="cid15684021" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684021" type="Media">ID: 232.0099</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref288">
@@ -812,8 +820,8 @@
                     <c id="ref208" level="item">
                         <did>
                             <unittitle>Howard Moody Oral History Part Two, Disc Three, Interviewed by Stacey Satchell, 11/18/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0101</container>
+                            <container id="cid15684022" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684022" type="Media">ID: 232.0101</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref289">
@@ -836,8 +844,8 @@
                     <c id="ref209" level="item">
                         <did>
                             <unittitle>Maxine Phillips Oral History Part One, Interviewed by Laura Zeccardi, 10/21/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0103</container>
+                            <container id="cid15684023" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684023" type="Media">ID: 232.0103</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref292">
@@ -870,8 +878,8 @@
                     <c id="ref210" level="item">
                         <did>
                             <unittitle>Maxine Phillips Oral History Part Two, Interviewed by Laura Zeccardi, 10/21/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0105</container>
+                            <container id="cid15684024" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684024" type="Media">ID: 232.0105</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref293">
@@ -904,24 +912,24 @@
                     <c id="ref211" level="item">
                         <did>
                             <unittitle>Anna Lou Pickett Oral History Part One, Interviewed by Breanne Scanlon, 10/19/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0107</container>
+                            <container id="cid15684025" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684025" type="Media">ID: 232.0107</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref212" level="item">
                         <did>
                             <unittitle>Anna Lou Pickett Oral History Part Two, Interviewed by Breanne Scanlon, 10/19/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0109</container>
+                            <container id="cid15684026" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684026" type="Media">ID: 232.0109</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref213" level="item">
                         <did>
                             <unittitle>Tom Roderick Oral History Part One, Interviewed by Adina Langer, 10/24/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0111</container>
+                            <container id="cid15684027" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684027" type="Media">ID: 232.0111</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref296">
@@ -938,8 +946,8 @@
                     <c id="ref214" level="item">
                         <did>
                             <unittitle>Tom Roderick Oral History Part Two, Interviewed by Adina Langer, 10/24/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0113</container>
+                            <container id="cid15684028" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684028" type="Media">ID: 232.0113</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref297">
@@ -950,8 +958,8 @@
                     <c id="ref215" level="item">
                         <did>
                             <unittitle>Tom Roderick Oral History Part Three, Interviewed by Adina Langer, 10/24/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0115</container>
+                            <container id="cid15684029" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684029" type="Media">ID: 232.0115</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref300">
@@ -962,8 +970,8 @@
                     <c id="ref216" level="item">
                         <did>
                             <unittitle>Tamara Rowe Oral History, Interviewed by Keara Duggan, 11/02/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0117</container>
+                            <container id="cid15684030" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684030" type="Media">ID: 232.0117</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref301">
@@ -986,8 +994,8 @@
                     <c id="ref217" level="item">
                         <did>
                             <unittitle>Carolee Schneemann Oral History, Interviewed by Joanna Steinberg, 11/25/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0119</container>
+                            <container id="cid15684031" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684031" type="Media">ID: 232.0119</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref304">
@@ -1006,8 +1014,8 @@
                     <c id="ref218" level="item">
                         <did>
                             <unittitle>Rachel Tenney and Bethene Trexel Oral History Part One, Interviewed by Laura Zeccardi, 11/19/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0121</container>
+                            <container id="cid15684032" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684032" type="Media">ID: 232.0121</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref305">
@@ -1038,8 +1046,8 @@
                     <c id="ref219" level="item">
                         <did>
                             <unittitle>Rachel Tenney and Bethene Trexel Oral History Part Two, Interviewed by Laura Zeccardi, 11/19/2008</unittitle>
-                            <container type="Shelf">Media</container>
-                            <container type="Media">ID: 232.0123</container>
+                            <container id="cid15684033" type="Shelf" label="Media">Media</container>
+                            <container parent="cid15684033" type="Media">ID: 232.0123</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref308">
@@ -1076,8 +1084,8 @@
                     <c id="ref222" level="item">
                         <did>
                             <unittitle>Bebe Anderson Oral History, Interviewed by Ashley Welch, 12/9/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.001</container>
+                            <container id="cid15684034" type="Box" label="Media">3</container>
+                            <container parent="cid15684034" type="Media">ID: 232.001</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref258">
@@ -1100,8 +1108,8 @@
                     <c id="ref223" level="item">
                         <did>
                             <unittitle>Holly Bean Oral History, Interviewed by Elizabeth Banks, 11/18/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0002</container>
+                            <container id="cid15684035" type="Box" label="Media">3</container>
+                            <container parent="cid15684035" type="Media">ID: 232.0002</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref260">
@@ -1127,8 +1135,8 @@
                     <c id="ref224" level="item">
                         <did>
                             <unittitle>Reathel Bean Oral History, Interviewed by Kait Medley, 10/10/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0003</container>
+                            <container id="cid15684036" type="Box" label="Media">3</container>
+                            <container parent="cid15684036" type="Media">ID: 232.0003</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref262">
@@ -1149,8 +1157,8 @@
                     <c id="ref225" level="item">
                         <did>
                             <unittitle>Keen Berger Oral History, Interviewed by Elizabeth Banks, 10/10/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0004</container>
+                            <container id="cid15684037" type="Box" label="Media">3</container>
+                            <container parent="cid15684037" type="Media">ID: 232.0004</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref263">
@@ -1174,8 +1182,8 @@
                     <c id="ref226" level="item">
                         <did>
                             <unittitle>Malcolm Goldstein Oral History, Interviewed by Joanna Steinberg, 10/16/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0005</container>
+                            <container id="cid15684038" type="Box" label="Media">3</container>
+                            <container parent="cid15684038" type="Media">ID: 232.0005</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref266">
@@ -1201,16 +1209,16 @@
                     <c id="ref227" level="item">
                         <did>
                             <unittitle>Grace Goodman Oral History, Interviewed by Brigid Harmon, 10/16/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0006</container>
+                            <container id="cid15684039" type="Box" label="Media">3</container>
+                            <container parent="cid15684039" type="Media">ID: 232.0006</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref228" level="item">
                         <did>
                             <unittitle>Peggy Halsey Oral History, Interviewed by Ashley Welch, 10/20/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0007</container>
+                            <container id="cid15684040" type="Box" label="Media">3</container>
+                            <container parent="cid15684040" type="Media">ID: 232.0007</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref267">
@@ -1236,8 +1244,8 @@
                     <c id="ref229" level="item">
                         <did>
                             <unittitle>Sue Harwig Oral History Part One, Interviewed by Adina Langer, 10/17/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0008</container>
+                            <container id="cid15684041" type="Box" label="Media">3</container>
+                            <container parent="cid15684041" type="Media">ID: 232.0008</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref270">
@@ -1248,8 +1256,8 @@
                     <c id="ref230" level="item">
                         <did>
                             <unittitle>Sue Harwig Oral History Part Two, Interviewed Adina Langer, 10/17/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0009</container>
+                            <container id="cid15684042" type="Box" label="Media">3</container>
+                            <container parent="cid15684042" type="Media">ID: 232.0009</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref271">
@@ -1260,8 +1268,8 @@
                     <c id="ref231" level="item">
                         <did>
                             <unittitle>Sue Harwig Oral History Part Three, Interviewed by Adina Langer, 10/17/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0010</container>
+                            <container id="cid15684043" type="Box" label="Media">3</container>
+                            <container parent="cid15684043" type="Media">ID: 232.0010</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref274">
@@ -1272,24 +1280,24 @@
                     <c id="ref232" level="item">
                         <did>
                             <unittitle>Rose James Oral History Part One, 10/17/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0011</container>
+                            <container id="cid15684044" type="Box" label="Media">3</container>
+                            <container parent="cid15684044" type="Media">ID: 232.0011</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref233" level="item">
                         <did>
                             <unittitle>Rose James Oral History Part Two, 11/10/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0012</container>
+                            <container id="cid15684045" type="Box" label="Media">3</container>
+                            <container parent="cid15684045" type="Media">ID: 232.0012</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref234" level="item">
                         <did>
                             <unittitle>Harry Koutoukas Oral History, Interviewed by Kait Medley, 11/11/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0013</container>
+                            <container id="cid15684046" type="Box" label="Media">3</container>
+                            <container parent="cid15684046" type="Media">ID: 232.0013</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref275">
@@ -1310,8 +1318,8 @@
                     <c id="ref235" level="item">
                         <did>
                             <unittitle>Arthur Levin Oral History Part One, Interviewed by Stacey Satchell, 11/24/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0014</container>
+                            <container id="cid15684047" type="Box" label="Media">3</container>
+                            <container parent="cid15684047" type="Media">ID: 232.0014</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref278">
@@ -1336,8 +1344,8 @@
                     <c id="ref236" level="item">
                         <did>
                             <unittitle>Arthur Levin Oral History Part Two, Interviewed by Stacey Satchell, 11/24/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0015</container>
+                            <container id="cid15684048" type="Box" label="Media">3</container>
+                            <container parent="cid15684048" type="Media">ID: 232.0015</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref279">
@@ -1359,24 +1367,24 @@
                     <c id="ref237" level="item">
                         <did>
                             <unittitle>Mary Meyer Oral History Part One, Interviewed by Breanne Scanlon, 10/26/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0016</container>
+                            <container id="cid15684049" type="Box" label="Media">3</container>
+                            <container parent="cid15684049" type="Media">ID: 232.0016</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref238" level="item">
                         <did>
                             <unittitle>Mary Meyer Oral History Part Two, Interviewed by Breanne Scanlon, 10/26/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0017</container>
+                            <container id="cid15684050" type="Box" label="Media">3</container>
+                            <container parent="cid15684050" type="Media">ID: 232.0017</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref239" level="item">
                         <did>
                             <unittitle>Howard Moody Oral History Part One, Disc One, Interviewed by Stacey Satchell, 10/15/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0018</container>
+                            <container id="cid15684051" type="Box" label="Media">3</container>
+                            <container parent="cid15684051" type="Media">ID: 232.0018</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref282">
@@ -1403,8 +1411,8 @@
                     <c id="ref240" level="item">
                         <did>
                             <unittitle>Howard Moody Oral History Part One, Disc Two, Interviewed by Stacey Satchell, 10/15/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0019</container>
+                            <container id="cid15684052" type="Box" label="Media">3</container>
+                            <container parent="cid15684052" type="Media">ID: 232.0019</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref283">
@@ -1425,8 +1433,8 @@
                     <c id="ref241" level="item">
                         <did>
                             <unittitle>Howard Moody Oral History Part Two, Disc One, Interviewed by Stacey Satchell, 11/18/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0020</container>
+                            <container id="cid15684053" type="Box" label="Media">3</container>
+                            <container parent="cid15684053" type="Media">ID: 232.0020</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref286">
@@ -1447,8 +1455,8 @@
                     <c id="ref242" level="item">
                         <did>
                             <unittitle>Howard Moody Oral History Part Two, Disc Two, Interviewed by Stacey Satchell, 11/18/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0021</container>
+                            <container id="cid15684054" type="Box" label="Media">3</container>
+                            <container parent="cid15684054" type="Media">ID: 232.0021</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref287">
@@ -1469,8 +1477,8 @@
                     <c id="ref243" level="item">
                         <did>
                             <unittitle>Howard Moody Oral History Part Two, Disc Three, Interviewed by Stacey Satchell, 11/18/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0022</container>
+                            <container id="cid15684055" type="Box" label="Media">3</container>
+                            <container parent="cid15684055" type="Media">ID: 232.0022</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref290">
@@ -1493,8 +1501,8 @@
                     <c id="ref244" level="item">
                         <did>
                             <unittitle>Maxine Phillips Oral History Part One, Interviewed by Laura Zeccardi, 10/21/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0023</container>
+                            <container id="cid15684056" type="Box" label="Media">3</container>
+                            <container parent="cid15684056" type="Media">ID: 232.0023</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref291">
@@ -1527,8 +1535,8 @@
                     <c id="ref246" level="item">
                         <did>
                             <unittitle>Maxine Phillips Oral History Part Two, Interviewed by Laura Zeccardi, 10/21/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0024</container>
+                            <container id="cid15684057" type="Box" label="Media">3</container>
+                            <container parent="cid15684057" type="Media">ID: 232.0024</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref294">
@@ -1561,24 +1569,24 @@
                     <c id="ref247" level="item">
                         <did>
                             <unittitle>Anna Lou Pickett Oral History Part One, Interviewed by Breanne Scanlon, 10/19/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0025</container>
+                            <container id="cid15684058" type="Box" label="Media">3</container>
+                            <container parent="cid15684058" type="Media">ID: 232.0025</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref248" level="item">
                         <did>
                             <unittitle>Anna Lou Pickett Oral History Part Two, Interviewed by Breanne Scanlon, 10/19/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0026</container>
+                            <container id="cid15684059" type="Box" label="Media">3</container>
+                            <container parent="cid15684059" type="Media">ID: 232.0026</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref249" level="item">
                         <did>
                             <unittitle>Tom Roderick Oral History Part One, Interviewed by Adina Langer, 10/24/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0027</container>
+                            <container id="cid15684060" type="Box" label="Media">3</container>
+                            <container parent="cid15684060" type="Media">ID: 232.0027</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref295">
@@ -1595,8 +1603,8 @@
                     <c id="ref250" level="item">
                         <did>
                             <unittitle>Tom Roderick Oral History Part Two, Interviewed by Adina Langer, 10/24/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0028</container>
+                            <container id="cid15684061" type="Box" label="Media">3</container>
+                            <container parent="cid15684061" type="Media">ID: 232.0028</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref298">
@@ -1607,8 +1615,8 @@
                     <c id="ref251" level="item">
                         <did>
                             <unittitle>Tom Roderick Oral History Part Three, Interviewed by Adina Langer, 10/24/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0029</container>
+                            <container id="cid15684062" type="Box" label="Media">3</container>
+                            <container parent="cid15684062" type="Media">ID: 232.0029</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref299">
@@ -1619,8 +1627,8 @@
                     <c id="ref252" level="item">
                         <did>
                             <unittitle>Tamara Rowe Oral History, Interviewed by Keara Duggan, 11/02/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0030</container>
+                            <container id="cid15684063" type="Box" label="Media">3</container>
+                            <container parent="cid15684063" type="Media">ID: 232.0030</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref302">
@@ -1643,8 +1651,8 @@
                     <c id="ref253" level="item">
                         <did>
                             <unittitle>Carolee Schneemann Oral History, Interviewed by Joanna Steinberg, 11/25/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0031</container>
+                            <container id="cid15684064" type="Box" label="Media">3</container>
+                            <container parent="cid15684064" type="Media">ID: 232.0031</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref303">
@@ -1663,16 +1671,16 @@
                     <c id="ref254" level="item">
                         <did>
                             <unittitle>Steve Studnicka Oral History, Interviewed by Brigid Harmon, 12/02/2008 [No Readable Access Copy Available]</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0032</container>
+                            <container id="cid15684065" type="Box" label="Media">3</container>
+                            <container parent="cid15684065" type="Media">ID: 232.0032</container>
                             <unitdate>2008</unitdate>
                         </did>
                     </c>
                     <c id="ref255" level="item">
                         <did>
                             <unittitle>Rachel Tenney and Bethene Trexel Oral History Part One, Interviewed by Laura Zeccardi, 11/19/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0033</container>
+                            <container id="cid15684066" type="Box" label="Media">3</container>
+                            <container parent="cid15684066" type="Media">ID: 232.0033</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref306">
@@ -1703,8 +1711,8 @@
                     <c id="ref256" level="item">
                         <did>
                             <unittitle>Rachel Tenney and Bethene Trexel Oral History Part Two, Interviewed by Laura Zeccardi, 11/19/2008</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Media">ID: 232.0034</container>
+                            <container id="cid15684067" type="Box" label="Media">3</container>
+                            <container parent="cid15684067" type="Media">ID: 232.0034</container>
                             <unitdate>2008</unitdate>
                         </did>
                         <odd id="ref307">
@@ -1736,8 +1744,8 @@
                 <c id="ref98" level="file">
                     <did>
                         <unittitle>Audio CD Inserts</unittitle>
-                        <container type="Box">3</container>
-                        <container type="Folder">1</container>
+                        <container id="cid110321" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid110321" type="Folder">1</container>
                         <physdesc>
                             <extent>1 folder</extent>
                         </physdesc>

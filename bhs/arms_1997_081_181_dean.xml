@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1997_081_181_dean">arms_1997_081_181_dean</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Abstract of ownership of 181 Dean Street, Brooklyn, NY
+                    <num>1997.081</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-10-15T15:27-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Abstract of ownership of 181 Dean Street, Brooklyn, NY</unittitle>
+            <unitid>1997.081</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1242007" type="Box" label="Text">Box 0011</container>
+            <physdesc>
+                <extent>0.01 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1891/1891">1891</unitdate>
+            <abstract id="ref4" label="Abstract">The document is officially titled "Abstract of the Title of John Goetz" and concerns the property located at 181 Dean St., Brooklyn, NY. Dated 1891, it contains a summary of property transactions dating back to 1766.</abstract>
+        </did>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <userestrict id="ref2">
+            <head>Conditions Governing Use note</head>
+            <p>Abstract is in the public domain.</p>
+        </userestrict>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Abstract of ownership of 181 Dean Street, Brooklyn, NY, 1997.081, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Donated to the Brooklyn Historical Society by Mauro Zulli in 1997.</p>
+        </acqinfo>
+        <scopecontent id="ref3">
+            <head>Scope and Contents</head>
+            <p>The document is officially titled "Abstract of the Title of John Goetz" and concerns the property located at 181 Dean St., Brooklyn, NY. Dated 1891, it contains a summary of property transactions dating back to 1766.</p>
+        </scopecontent>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <p>The 
+                <extref ns2:href="http://brooklynhistory.org/library/wp/brooklyn-land-conveyances/">Brooklyn Land Conveyances</extref>, circa 1699-1896, may contain additional property ownership information.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="dacs" source="local">Goetz, John</persname>
+            <persname rules="dacs" source="local" role="Donor (dnr)">Zulli, Mauro</persname>
+            <genreform source="aat">Abstracts (summaries)</genreform>
+            <subject source="lcsh">Acquisition of property |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Boerum Hill (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <geogname source="local">Dean Street (New York, N.Y.)</geogname>
+            <subject source="lcsh">Property |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Real property |z New York (State) |z Kings County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

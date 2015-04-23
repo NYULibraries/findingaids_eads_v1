@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_197</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_197/">wag_197</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the National Association of Broadcast Employees and Technicians (NABET-CWA) Records
@@ -25,11 +25,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-10-08T12:13-0400</date>
+                <date>2014-05-17T11:48-0400</date>
             </creation>
-            <langusage>Description is in 
-                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <langusage>Finding aid is written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>Feb 2014</date>
+                <item>Edited by Maggie Schreiner for compliance with DACS and Tamiment Required Elements for Archival Description</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -43,24 +49,24 @@
             </langmaterial>
             <physdesc>
                 <extent>19.0 linear feet</extent>
-                <extent>(19 boxes)</extent>
+                <extent>19 records cartoons and two oversize flat file folders.</extent>
             </physdesc>
             <unitdate normal="1970/1990" type="bulk">Bulk, 1970-1990</unitdate>
             <unitdate normal="1958/1995" type="inclusive">1958-1995</unitdate>
-            <abstract id="ref3" label="Abstract">National Association of Broadcast Employees and Technicians (now known as NABET-CWA) represents professional and non-professional employees in the broadcast industry. Initially founded in the mid-1930s as a company union for the National Broadcasting Company, it has grown to represent over 10,000 workers in many bargaining units. In 1951, NABET joined the Congress of Industrial Organizations. Some internal disputes in the 1960s led the union to give greater autonomy to local networks and affiliates, a concession that has contributed to the present structure of the organization. NABET led two major strikes against the national networks, American Broadcasting Company in 1977 and National Broadcasting Company in 1987. In 1994 the union merged with the Communications Workers of America to become NABET-CWA. The collection contains bargaining and organizing notes, convention records, materials from the merger conference with the Communications Workers of America, and strike materials. 
-                <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></abstract>
+            <physloc id="ref402" label="Location note">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@library.nyu.edu at least two business days prior to research visit.</physloc>
+            <langmaterial id="ref401" label="Language of Materials note">Materials are in English</langmaterial>
+            <abstract id="ref3" label="Abstract">National Association of Broadcast Employees and Technicians (now known as NABET-CWA) represents professional and non-professional employees in the broadcast industry. Initially founded in the mid-1930s as a company union for the National Broadcasting Company, it has grown to represent over 10,000 workers in many bargaining units. In 1951, NABET joined the Congress of Industrial Organizations. Some internal disputes in the 1960s led the union to give greater autonomy to local networks and affiliates, a concession that has contributed to the present structure of the organization. NABET led two major strikes against the national networks, American Broadcasting Company in 1977 and National Broadcasting Company in 1987. In 1994 the union merged with the Communications Workers of America to become NABET-CWA. The collection contains bargaining and organizing notes, convention records, materials from the merger conference with the Communications Workers of America, and strike materials.</abstract>
             <origination label="creator">
                 <corpname source="naf">National Association of Broadcast Employees and Technicians.</corpname>
             </origination>
         </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>The collection was donated to the Tamiment Library/Robert F. Wagner Labor Archives, NYU by NABET-CWA, and was received as part of a shipment of 290 boxes of CWA records in 2001.</p>
-        </custodhist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The collection was donated to the Tamiment Library/Robert F. Wagner Labor Archives by NABET-CWA, and was received as part of a shipment of 290 boxes of CWA records in 2001.</p>
+        </acqinfo>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
-            <p>Open for research without restrictions. 
-                <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></p>
+            <p>Open for research without restrictions.</p>
         </accessrestrict>
         <bioghist id="ref8">
             <head>Historical/Biographical Note</head>
@@ -74,25 +80,19 @@
         </bioghist>
         <scopecontent id="ref9">
             <head>Scope and Content Note</head>
-            <p>
-                <emph render="bold">Series I: General Files</emph>includes bargaining files of small and individual-station broadcasting companies, assorted records of the 1994 merger conference with CWA, NABET convention records 1968-1990, correspondence of the International Secretary-Treasurer and Regional Vice-Presidents, NABET Severance Benefit Trust records, and correspondence with the OPEIU.</p>
-            <p>
-                <emph render="bold">Series II: Bargaining Files</emph>. Sub-series II: A, National Networks is comprised of the bargaining files of the American Broadcasting Company and the National Broadcasting Company. Includes minutes, proposals, correspondence, negotiation notes, and assorted files from the ABC strike of 1977 and the NBC strike of 1987. Sub-series II: B, Local Affiliates includes the bargaining and organizing files of local and affiliate stations. The files are organized alphabetically by state and call letters, and then in date order.</p>
-            <p>
-                <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></p>
+            <p>This colllection includes bargaining files of small and individual-station broadcasting companies, assorted records of the 1994 merger conference with CWA, NABET convention records 1968-1990, correspondence of the International Secretary-Treasurer and Regional Vice-Presidents, NABET Severance Benefit Trust records, and correspondence with the OPEIU. Also included are the bargaining files of the American Broadcasting Company and the National Broadcasting Company, including minutes, proposals, correspondence, negotiation notes, and assorted files from the ABC strike of 1977 and the NBC strike of 1987. Materials pertaining to local affiliates includes the bargaining and organizing files of local and affiliate stations.</p>
         </scopecontent>
         <arrangement id="ref10">
             <head>Arrangement</head>
-            <p>Folders are arranged alphabetically.</p>
-            <p>The files are grouped into two series:</p>
-            <list type="ordered">
-                <item>I, General Files</item>
-                <item>II, Bargaining Files</item>
-            </list>
+            <p>Folders are arranged alphabetically. The files are grouped into two series, one of which is arranged into subseries:</p>
+            <p>Series I: General Files, 1958-1995</p>
+            <p>Series II: Bargaining Files, 1959-1995</p>
+            <p>Subseries II:A: National Networks, 1959-1988</p>
+            <p>Subseries II:B: Local Affiliates, 1974-1995</p>
         </arrangement>
         <userestrict id="ref396">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
+            <p>Copyright holder unknown. Permission to publish materials must be obtained in writing from the: 
                 <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
                 <lb/> Elmer Holmes Bobst Library 
                 <lb/> 70 Washington Square South 
@@ -106,15 +106,19 @@
             <head>Preferred Citation</head>
             <p>Published citations should take the following form: 
                 <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Identification of item, date; National Association of Broadcast Employees and Technicians (NABET) Records; WAG 197; box number; folder number; 
                 <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
                 <lb/>Elmer Holmes Bobst Library 
                 <lb/>70 Washington Square South 
                 <lb/>New York, NY 10012, New York University Libraries.</p>
         </prefercite>
+        <processinfo id="ref407">
+            <head>Processing Information note</head>
+            <p>In 2014, the archived website was added as series III.</p>
+        </processinfo>
         <controlaccess>
             <corpname source="naf">American Broadcasting Company.</corpname>
-            <corpname source="naf">Communications Workers of America.</corpname>
+            <corpname rules="dacs" source="naf">Communications Workers of America.</corpname>
             <corpname source="naf">National Association of Broadcast Employees and Technicians.</corpname>
             <corpname source="naf">National Broadcasting Company.</corpname>
             <corpname source="naf">Office and Professional Employees International Union.</corpname>
@@ -142,10 +146,11 @@
         <dsc>
             <c id="ref13" level="series">
                 <did>
-                    <unittitle>Series I: General Files, 1958-1995</unittitle>
+                    <unittitle>Series I: General Files</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
+                    <unitdate>1958-1995</unitdate>
                 </did>
                 <c id="ref14" level="file">
                     <did>
@@ -902,17 +907,19 @@
             </c>
             <c id="ref108" level="series">
                 <did>
-                    <unittitle>Series II: Bargaining Files, 1959-1995</unittitle>
+                    <unittitle>Series II: Bargaining Files</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
+                    <unitdate>1959-1995</unitdate>
                 </did>
                 <c id="ref109" level="subseries">
                     <did>
-                        <unittitle>Subseries II:A: National Networks, 1959-1988</unittitle>
+                        <unittitle>Subseries II:A: National Networks</unittitle>
                         <langmaterial>
                             <language langcode="eng"/>
                         </langmaterial>
+                        <unitdate>1959-1988</unitdate>
                     </did>
                     <c id="ref110" level="file">
                         <did>
@@ -2351,10 +2358,11 @@
                 </c>
                 <c id="ref287" level="subseries">
                     <did>
-                        <unittitle>Subseries II:B: Local Affiliates, 1974-1995</unittitle>
+                        <unittitle>Subseries II:B: Local Affiliates</unittitle>
                         <langmaterial>
                             <language langcode="eng"/>
                         </langmaterial>
+                        <unitdate>1974-1995</unitdate>
                     </did>
                     <c id="ref288" level="file">
                         <did>
@@ -3221,6 +3229,21 @@
                         </did>
                     </c>
                 </c>
+            </c>
+            <c id="ref404" level="series">
+                <did>
+                    <unittitle>Series III: Archived Website</unittitle>
+                    <unitdate>Mar 15, 2009-ongoing</unitdate>
+                </did>
+                <scopecontent id="ref406">
+                    <head>Scope and Content Note</head>
+                    <p>National Association of Broadcast Employees and Technicians-Communications Workers of America (NABET-CWA), founded in 1934, is a Union of workers who are employed in the broadcasting, distributing, telecasting, recording, cable, video, sound recording and related industries in North America. NABET-CWA has contracts with ABC, NBC, FOX and other networks, as well as local TV stations across the country and members include engineers, photographers, editors, directors, technicians, graphic artists, traffic coordinators, clerical workers, truck operators, writers, reporters, anchors, producers and others in the television and cable industry. The website includes news and event listings, their newsletters, training materials, and audiovisual materials.</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Archived Website" ns2:role="service" ns2:href="http://webarchives.cdlib.org/site/sw1rn3080k">
+                    <daodesc>
+                        <p>Archived Website, Mar 15, 2009-ongoing </p>
+                    </daodesc>
+                </dao>
             </c>
         </dsc>
     </archdesc>

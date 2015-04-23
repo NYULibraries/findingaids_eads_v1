@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_036</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_036/">wag_036</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Actors' Fund of America Records
                     <num>WAG.036</num>
                 </titleproper>
-                <author>Finding aid prepared by Craig Savino, 2006-2008, Adrien Hilton, 2009</author>
+                <author>Finding aid prepared by Craig Savino, 2006-2008 and Adrien Hilton, 2009; Series XI added by Giana Ricci and Rachel Schimke.</author>
             </titlestmt>
             <editionstmt>
                 <p>Actors' Fund, Wag 36.doc</p>
@@ -25,11 +25,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-10-02T18:13-0400</date>
+                <date>2014-12-12T15:36-0500</date>
             </creation>
-            <langusage>Description is in 
-                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <langusage>Finding aid is in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>December 2014</date>
+                <item>Edited by Maggie Schreiner to update administrative information and by Erika Gottfried to reflect addition of materials.</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -42,25 +48,28 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>37.25 linear feet</extent>
-                <extent>(40 boxes)</extent>
+                <extent>46.25 linear feet</extent>
+                <extent>in 52 boxes</extent>
             </physdesc>
-            <unitdate normal="1880/2005" type="inclusive">1880-2005</unitdate>
-            <abstract id="ref3" label="Abstract">Founded in 1882, largely through the leadership of Harrison Grey Fiske, the Actors’ Fund of America is a human services organization that makes available aid to professionals in the performing arts and entertainment industry. In general, the Actors’ Fund acts as a safety net, offering a range of social and health-related services for members of the performing arts community who are in need or crisis. The Fund maintains a home for the elderly with an extended care nursing facility, runs the Al Hirschfeld Free Health Clinic in New York City, and directs a number of other programs and initiatives, including the Actors Work Program, the AIDS Training and Education Project and the Phyllis Newman Women’s Health Initiative. Over the years the Fund has raised money to support its programs through annual galas, benefit performances of theatrical productions, fairs, bazaars, auctions, and fundraising drives. The collection includes minutes, annual reports, and general subject files of the Actors’ Fund from its founding to 2005. There is substantial documentation of fundraising activities, including files on the planning of benefit performances and lavishly illustrated souvenir programs. A series of scrapbooks, comprised mostly of clippings and printed ephemera about the Actors’ Fund and its benefit performances, also includes obituaries of theater professionals and memorabilia collected by individuals associated with the Fund. The collection also contains records entrusted to the Fund by individuals or families and material produced by related organizations, for example, the Basil Rathbone Family Papers and records of the Catholic Actors Guild and the Society of Stage Directors and Choreographers. 
-                <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></abstract>
-            <physloc audience="internal" id="ref1207" label="Location note">Offsite</physloc>
+            <unitdate normal="1880/2014" type="inclusive">1880-2014</unitdate>
+            <abstract id="ref3" label="Abstract">Founded in 1882, largely through the leadership of Harrison Grey Fiske, the Actors’ Fund of America is a human services organization that makes available aid to professionals in the performing arts and entertainment industry. In general, the Actors’ Fund acts as a safety net, offering a range of social and health-related services for members of the performing arts community who are in need or crisis. The Fund maintains a home for the elderly with an extended care nursing facility, runs the Al Hirschfeld Free Health Clinic in New York City, and directs a number of other programs and initiatives, including the Actors Work Program, the AIDS Training and Education Project and the Phyllis Newman Women’s Health Initiative. Over the years the Fund has raised money to support its programs through annual galas, benefit performances of theatrical productions, fairs, bazaars, auctions, and fundraising drives. The collection includes minutes, annual reports, and general subject files of the Actors’ Fund from its founding to 2014. There is substantial documentation of fundraising activities, including files on the planning of benefit performances and lavishly illustrated souvenir programs. A series of scrapbooks, comprised mostly of clippings and printed ephemera about the Actors’ Fund and its benefit performances, also includes obituaries of theater professionals and memorabilia collected by individuals associated with the Fund. The collection also contains records entrusted to the Fund by individuals or families and material produced by related organizations, for example, the Basil Rathbone Family Papers, the Aldrich Family Papers, and records of the Catholic Actors Guild and the Society of Stage Directors and Choreographers.</abstract>
+            <physloc id="ref1207" label="Location note">Boxes 1-38 are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit. Boxes 39-51 are located onsite at the Tamiment Library.</physloc>
             <origination label="creator">
                 <corpname source="naf">Actors' Fund of America.</corpname>
             </origination>
         </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>The collection was given to the Tamiment Library/Robert F. Wagner Labor Archives, NYU by the Actors’ Fund in several donations between 1985 and 2007.</p>
-        </custodhist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The collection was intially donated by the Actors' Fund in 1985. The accession number associated with this gift is 1985.019. Several more donations followed beween 1985 and 2007.</p>
+            <p>An additional donation of the materials that comprise Series XI was made by David Engelman on behalf of the Actors' Fund in 2014. The accession number associated with this donation is 2014.014. Materials relating to Fundraising Updates from 2002 were found in repository in May 2014. The accession number associated with this material is 2014.059. An additional donation of materials was made by Mr. Engelman on behalf of the Actors' fund in November 2014. The accession number associated with this donation is 2014.176.</p>
+        </acqinfo>
+        <phystech id="ref1239">
+            <head>Audiovisual Access Policies and Procedures</head>
+            <p>Researchers interested in using audiovisual materials in this collection (films, cassette tapes, VHS tapes, et cetera) must use a digitized copy, which we refer to as an access copy. Researchers may view an item’s original container, but the media themselves are not available for playback because of preservation concerns. Materials that already have already been digitized are noted in the collection’s finding aid and can be requested in our reading room; materials not yet digitized will need to have access copies made before they can be used. These requests are free of charge and can be made in anticipation of your visit. The process typically takes four to six weeks. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@library.nyu.edu with the collection name, collection number, and a description of the item(s) requested. A librarian will respond to you with further information.</p>
+        </phystech>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
-            <p>Open for research without restrictions, except for Box 39. 
-                <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></p>
+            <p>Open for research without restrictions.</p>
         </accessrestrict>
         <bioghist id="ref8">
             <head>Historical/Biographical Note</head>
@@ -96,7 +105,7 @@
             <p>
                 <emph render="bold">Series I: Minutes, 1880-1991</emph>, consists of the minutes of the Actors’ Fund annual meetings from 1880-1991, nearly every year is represented. The minutes provide detailed information on the financials of the Actors’ Fund, outlining funds coming from donations, bequests, benefits and other fund raising events. Also provided in the minutes is information about major activities of the fund pertaining to burials and the Actors’ Fund Home. This series includes minutes of meetings of the Board of Trustees from 1887-1987, the Executive Committee from 1882-1894, and of the Directors of the Actors’ Fund Home from 1957-1985.</p>
             <p>
-                <emph render="bold">Series II: Annual Reports, 1882-2000</emph>, consists of annual reports of the Actors’ Fund from 1882-2000. The annual reports provide a general overview of activities, providing lists of officers and the Board of Trustees, life members, and physicians who were aiding the fund. Also included is the annual address from the acting President. Each annual report contains reports from standing committees and outlines major donations and sources of income for the year. (The reports from 1882-1975 are in bound volumes.)</p>
+                <emph render="bold">Series II: Annual Reports, 1882-2012</emph>, consists of annual reports of the Actors’ Fund from 1882-2012. The annual reports provide a general overview of activities, providing lists of officers and the Board of Trustees, life members, and physicians who were aiding the fund. Also included is the annual address from the acting President. Each annual report contains reports from standing committees and outlines major donations and sources of income for the year. (The reports from 1882-1975 are in bound volumes.)</p>
             <p>
                 <emph render="bold">Series III: General Files, 1881-2005</emph>, the general files are by no means the complete working files of the organization, but do represent the major personnel and activities of the Actors’ Fund from its founding. Included are files on the Actors’ Fund Home, on AIDS relief work and AIDS benefits, on establishing the monument at Kensico Cemetery, and on the Fund’s Blood Banks and Blood Drives. The files contain correspondence on varied topics; of note are a telegram from then President Franklin D. Roosevelt and a note in support of the Fund from Thomas Edison. Also represented in the general files is material on particular individuals of prominence in the theatrical community and in the Fund’s history and development, as well as financial material, press releases, clippings, souvenir programs and Playbills, and material on the Western Council, which supports the work of the Western regional office and programs based in Los Angeles.</p>
             <p>
@@ -114,12 +123,15 @@
                 <emph render="bold">Series IX: Oversized Items, 1891-1965</emph>, consists of items of graphic interest that were removed from Actors’ Fund scrapbooks after microfilming, as well as oversized items from the general collection. These items include clippings from publications around the country on the Actors’ Fund Fairs of 1910 and 1917, as well as an edition of the 
                 <emph render="italic">Friars Epistle</emph>, which was published specifically for the 1917 Fair. There are two collages of newspaper clippings that depict the Actors’ Fund founding in general and the founding of the Actors’ Fund Home; these date from 1900 and 1902. Removed from microfilmed scrapbooks is graphic material related to the Fund’s anniversary events, benefits, “Bread Basket Campaigns,” and annual softball game. Additionally, there are souvenir programs from theater and Grand Opera productions dating from 1891.</p>
             <p>
-                <emph render="bold">Series X: Scrapbooks and Unprocessed Material, 1900-1973</emph>. Subseries A: Hardcopy Scrapbooks, consists of 14 hardcopy scrapbooks documenting a number of activities of the Actors’ Fund. There are scrapbooks of clippings on the Fund generally and on benefit and special benefit performances. In addition, there are five volumes of theater programs and playbills unrelated to productions of the Actors’ Fund; these scrapbooks are chronologically arranged from 1908-1933. There are four volumes of obituaries, documenting the deaths of members of the theater community from 1913-1933. Of special interest is the Louis Simon scrapbook, which includes original correspondence, programs, press clippings, and production photographs documenting Simon’s theatre work, particularly his involvement in Works Progress Administration (WPA) Federal Theatre projects. Also of note is the scrapbook composer Ray O’Brien compiled of the USO tour of Olie Olsen and Chick Johnson’s “Hellz-a-Poppin” Show, which toured army posts across the country during World War II. The cast included Milt Douglas, Jack Leornard, Ben Dova, the Emerald Sisters, the Three Grace Notes, Claire Louise Evans, Harry Hines, Joan Blondell, and Maxine Turner. Subseries B: Microfilmed Scrapbooks, 1900-1961, consists of an additional 15 Actors’ Fund scrapbooks that have been microfilmed (on 4 reels, Tamiment microfilm call numbers R-7822/1-4). Through clippings from local publications from around the country, the microfilmed scrapbooks provide a rich source of historical information not only about the Actors’ Fund but about the theatrical community at large. Their unique narrative of major events in the Fund’s history includes documentation, mostly through newspaper clippings, of fundraising and major donations, the life of the Actors’ Fund Home, and Daniel Frohman’s long reign as president of the Fund. There are also cartoons, flyers, press releases, and telegrams. Included, and filmed in full, are sumptuously decorated Souvenir Programs of the Fund’s annual benefit shows. Most of the material in this subseries was in extremely fragile and deteriorated condition and was discarded after filming. The original Souvenir Programs and other items of exceptional graphic interest or historical value have been preserved in Series III and V of the archival collection. Subseries C: Unprocessed Material, 2000s, consists mostly of research material on the life of Edwin Forrest, as well as some documents relating to the AF's Forrest Home.</p>
+                <emph render="bold">Series X: Scrapbooks and Unprocessed Material, 1900-1973</emph>. Subseries A: Hardcopy Scrapbooks, consists of 14 hardcopy scrapbooks documenting a number of activities of the Actors’ Fund. There are scrapbooks of clippings on the Fund generally and on benefit and special benefit performances. In addition, there are five volumes of theater programs and playbills unrelated to productions of the Actors’ Fund; these scrapbooks are chronologically arranged from 1908-1933. There are four volumes of obituaries, documenting the deaths of members of the theater community from 1913-1933. Of special interest is the Louis Simon scrapbook, which includes original correspondence, programs, press clippings, and production photographs documenting Simon’s theatre work, particularly his involvement in Works Progress Administration (WPA) Federal Theatre projects. Also of note is the scrapbook composer Ray O’Brien compiled of the USO tour of Olie Olsen and Chick Johnson’s “Hellz-a-Poppin” Show, which toured army posts across the country during World War II. The cast included Milt Douglas, Jack Leornard, Ben Dova, the Emerald Sisters, the Three Grace Notes, Claire Louise Evans, Harry Hines, Joan Blondell, and Maxine Turner. Subseries B: Microfilmed Scrapbooks, 1900-1961, consists of an additional 15 Actors’ Fund scrapbooks that have been microfilmed (on 4 reels, Tamiment microfilm call numbers R-7822/1-4). Through clippings from local publications from around the country, the microfilmed scrapbooks provide a rich source of historical information not only about the Actors’ Fund but about the theatrical community at large. Their unique narrative of major events in the Fund’s history includes documentation, mostly through newspaper clippings, of fundraising and major donations, the life of the Actors’ Fund Home, and Daniel Frohman’s long reign as president of the Fund. There are also cartoons, flyers, press releases, and telegrams. Included, and filmed in full, are sumptuously decorated Souvenir Programs of the Fund’s annual benefit shows. Most of the material in this subseries was in extremely fragile and deteriorated condition and was discarded after filming. The original Souvenir Programs and other items of exceptional graphic interest or historical value have been preserved in Series III and V of the archival collection. Subseries C: Unprocessed materials include research materials for annual reports and about actor Edwin Forrest; programs for, and invitations to fundraising performances, annual galas, and other benefit events; souvenir programs and playbills; photographs (some from early 20th century), snapshots, hand-drawn cartoons of, and press clippings and scrapbook pages for Joe Smith and Charles Dale, the comedic vaudeville duo who were models for the Neil Simon play, 
+                <title render="italic">The Sunshine Boys. </title> DVDs document Actors Fund benefits and events from 2001-2013 that include performances or appearances by Jason Alexander; Alec Baldwin; Harry Belafonte; Annette Bening; Polly Bergen; Jed Bernstein; Matthew Broderick; Betty Buckley; Charles Busch; Liz Callaway; Mario Cantone; Bonnie Comley; John Cullum; Christine Ebersole; Eartha Kitt; Judy Kuhn; Rocco Landesman; Stewart F. Lane; Lorna Luft; Patti LuPone; Terrence Mann; Karen Mason; Kevin McCollum; Audra McDonald; Rebe McEntire; Anne Meara;Randie Levine Miller; Liza Minnelli; Brian Stokes Mitchell; Bebe Neuwirth; Al Pacino; Chita Rivera; Seth Rudetsky; Emily Skinner; David Steiner; Mike Stengel; Jerry Stiller; Elaine Stritch; Jonathan Tisch; and Nia Vardalos.</p>
+            <p>
+                <emph render="bold">Series XI: Aldrich Family Papers, circa 1850-1940.</emph> This series pertains to Louis Aldrich's acting career and work with the Actors' Fund, though the majority of the material is related to Aldrich family history. The series contains seven scrapbooks of mostly news clippings and programs, two on the topic of Aldrich's acting career and work with the Actors' Fund, and the rest related to Aldrich and his family more generally. There are numerous photographs of Aldrich and his family members, some with annotations on the back identifying the individuals in the photos. The dancing career of Frances Aldrich is particularly well represented in these photographs.</p>
         </scopecontent>
         <arrangement id="ref10">
             <head>Arrangement</head>
-            <p>Series are arranged alphabetically, except for Series II and Series V (subseries B and D), which are arranged chronologically, and Box 38, Unprocessed Material.</p>
-            <p>The Actors’ Fund of America Records are organized into 10 series:</p>
+            <p>Series are arranged alphabetically, except for Series II and Series V (subseries B and D), which are arranged chronologically, and Boxes 38 and 52, Unprocessed Material.</p>
+            <p>The Actors’ Fund of America Records are organized into 11 series:</p>
             <list type="ordered">
                 <item>I, Minutes, 1880-1991.</item>
                 <item>II, Annual Reports, 1882-2000.</item>
@@ -131,37 +143,35 @@
                 <item>VIII, Society of Stage Directors and Choreographers Records, 1959-1980.</item>
                 <item>IX, Oversized Items, 1891-1965.</item>
                 <item>X, Scrapbooks and Unprocessed Material, 1900-1973, 2000s.</item>
+                <item>Series XI, Aldrich Family Papers, circa 1850-1940.</item>
+                <item>Series XII, Archived Website</item>
             </list>
         </arrangement>
         <relatedmaterial id="ref13">
             <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>Actors’ Fund Photographs. (Photographs #240)</p>
-            <p>Actors’ Equity Association Records. (Wagner #11)</p>
-            <p>Associated Actors and Artistes of America Records. (Wagner #110)</p>
-            <p>Theater Authority Records. (Wagner #183)</p>
+            <p>Actors’ Fund Photographs (PHOTOS 240)
+                <lb/> Actors’ Equity Association Records (WAG 11)
+                <lb/> Associated Actors and Artistes of America Records (WAG 110)
+                <lb/> Theater Authority Records (WAG 183)</p>
         </relatedmaterial>
         <userestrict id="ref1198">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
+            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by the Actors' Fund of America are held by the Actors' Fund of America. Permission to publish or reproduce materials to which the organization holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting the Actors' Fund of America.</p>
         </userestrict>
         <prefercite id="ref1199">
             <head>Preferred Citation</head>
-            <p>Published citations should take the following form: 
-                <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
-                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/>Elmer Holmes Bobst Library 
-                <lb/>70 Washington Square South 
-                <lb/>New York, NY 10012, New York University Libraries.</p>
+            <p>Published citations should take the following form:
+                <lb/></p>
+            <p>Identification of item, date; Actors' Fund of America Records; WAG 036; Box number; Folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
         </prefercite>
+        <appraisal id="ref1233">
+            <head>Appraisal note</head>
+            <p>Books from the 2014 donation already held by the Tamiment Library were not retained.</p>
+        </appraisal>
+        <processinfo id="ref1225">
+            <head>Processing Information note</head>
+            <p>The materials that comprise Series XI were added in 2014. The materials were treated for mold and rehoused in archival quality boxes and folders. Also in 2014, the archived websites were added as Series XII.</p>
+        </processinfo>
         <controlaccess>
             <persname source="naf">Abbott, George, 1887-1995</persname>
             <corpname source="naf">Actors' Equity Association.</corpname>
@@ -223,7 +233,7 @@
         <dsc>
             <c id="ref14" level="series">
                 <did>
-                    <unittitle>Series I: Minutes, 1880-1991.</unittitle>
+                    <unittitle>Series I: Minutes, 1880-1991</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
@@ -759,7 +769,7 @@
             </c>
             <c id="ref81" level="series">
                 <did>
-                    <unittitle>Series II: Annual Reports, 1882-2000.</unittitle>
+                    <unittitle>Series II: Annual Reports, 1882-2012</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
@@ -1538,10 +1548,18 @@
                         <unitdate normal="1998/2000" type="inclusive">1998-2000</unitdate>
                     </did>
                 </c>
+                <c id="ref1241" level="file">
+                    <did>
+                        <unittitle>Annual Reports</unittitle>
+                        <container id="cid23477001" type="Box" label="Text">52</container>
+                        <container parent="cid23477001" type="Folder">13</container>
+                        <unitdate normal="2004/2012" type="inclusive">2004-2012</unitdate>
+                    </did>
+                </c>
             </c>
             <c id="ref180" level="series">
                 <did>
-                    <unittitle>Series III: General Files, 1881-2005.</unittitle>
+                    <unittitle>Series III: General Files, 1881-2013</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
@@ -2498,6 +2516,22 @@
                         <unitdate normal="1999/2004" type="inclusive">1999-2004</unitdate>
                     </did>
                 </c>
+                <c id="ref1242" level="file">
+                    <did>
+                        <unittitle>Marquee (newsletter)</unittitle>
+                        <container id="cid23477002" type="Box" label="Text">52</container>
+                        <container parent="cid23477002" type="Folder">14</container>
+                        <unitdate normal="2003/2009" type="inclusive">2003-2009</unitdate>
+                    </did>
+                </c>
+                <c id="ref1243" level="file">
+                    <did>
+                        <unittitle>Marquee (newsletter)</unittitle>
+                        <container id="cid23477003" type="Box" label="Text">52</container>
+                        <container parent="cid23477003" type="Folder">15</container>
+                        <unitdate normal="2010/2013" type="inclusive">2010-2013</unitdate>
+                    </did>
+                </c>
                 <c id="ref297" level="file">
                     <did>
                         <unittitle>McGlinn, Frank (Trustee)</unittitle>
@@ -3088,7 +3122,7 @@
             </c>
             <c id="ref370" level="series">
                 <did>
-                    <unittitle>Series IV: Actors Work Program, 1986-1999.</unittitle>
+                    <unittitle>Series IV: Actors Work Program, 1986-1999</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
@@ -3368,7 +3402,7 @@
             </c>
             <c id="ref405" level="series">
                 <did>
-                    <unittitle>Series V: Fundraising Activities, 1886-2002.</unittitle>
+                    <unittitle>Series V: Fundraising Activities, 1886-2002</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
@@ -7952,11 +7986,19 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
+                    <c id="ref1238" level="file">
+                        <did>
+                            <unittitle>Fundraising Updates</unittitle>
+                            <container id="cid23242001" type="Box" label="Mixed materials">24</container>
+                            <container parent="cid23242001" type="Folder">18</container>
+                            <unitdate normal="2002/2002">2002</unitdate>
+                        </did>
+                    </c>
                     <c id="ref921" level="file">
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435268" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435268" type="Folder">18</container>
+                            <container parent="cid18435268" type="Folder">19</container>
                             <unitdate normal="1959/1959">1959</unitdate>
                         </did>
                     </c>
@@ -7964,7 +8006,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435267" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435267" type="Folder">19</container>
+                            <container parent="cid18435267" type="Folder">20</container>
                             <unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate>
                         </did>
                     </c>
@@ -7972,7 +8014,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435266" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435266" type="Folder">20</container>
+                            <container parent="cid18435266" type="Folder">21</container>
                             <unitdate normal="1963/1963">1963</unitdate>
                         </did>
                     </c>
@@ -7980,7 +8022,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435265" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435265" type="Folder">21</container>
+                            <container parent="cid18435265" type="Folder">22</container>
                             <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
                         </did>
                     </c>
@@ -7988,7 +8030,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435264" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435264" type="Folder">22</container>
+                            <container parent="cid18435264" type="Folder">23</container>
                             <unitdate normal="1966/1969" type="inclusive">1966-1969</unitdate>
                         </did>
                     </c>
@@ -7996,7 +8038,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435263" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435263" type="Folder">23</container>
+                            <container parent="cid18435263" type="Folder">24</container>
                             <unitdate normal="1970/1970">1970</unitdate>
                         </did>
                     </c>
@@ -8004,7 +8046,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435262" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435262" type="Folder">24</container>
+                            <container parent="cid18435262" type="Folder">25</container>
                             <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
                         </did>
                     </c>
@@ -8012,7 +8054,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435261" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435261" type="Folder">25</container>
+                            <container parent="cid18435261" type="Folder">26</container>
                             <unitdate normal="1973/1973">1973</unitdate>
                         </did>
                     </c>
@@ -8020,7 +8062,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435260" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435260" type="Folder">26</container>
+                            <container parent="cid18435260" type="Folder">27</container>
                             <unitdate normal="1974/1974">1974</unitdate>
                         </did>
                     </c>
@@ -8028,7 +8070,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435259" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435259" type="Folder">27</container>
+                            <container parent="cid18435259" type="Folder">28</container>
                             <unitdate normal="1975/1975">1975</unitdate>
                         </did>
                     </c>
@@ -8036,7 +8078,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435258" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435258" type="Folder">28</container>
+                            <container parent="cid18435258" type="Folder">29</container>
                             <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
                         </did>
                     </c>
@@ -8044,7 +8086,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435257" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435257" type="Folder">29</container>
+                            <container parent="cid18435257" type="Folder">30</container>
                             <unitdate normal="1978/1978">1978</unitdate>
                         </did>
                     </c>
@@ -8052,7 +8094,7 @@
                         <did>
                             <unittitle>Cancelled Performances</unittitle>
                             <container id="cid18435256" type="Box" label="Mixed materials (31142042186679)">24</container>
-                            <container parent="cid18435256" type="Folder">30</container>
+                            <container parent="cid18435256" type="Folder">31</container>
                             <unitdate normal="1991/1991">1991</unitdate>
                         </did>
                     </c>
@@ -9228,7 +9270,7 @@
             </c>
             <c id="ref1080" level="series">
                 <did>
-                    <unittitle>Series VI: Catholic Actors Guild Records, 1924-1980.</unittitle>
+                    <unittitle>Series VI: Catholic Actors Guild Records, 1924-1980</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
@@ -9504,7 +9546,7 @@
             </c>
             <c id="ref1108" level="series">
                 <did>
-                    <unittitle>Series VII: Rathbone Family Papers, 1903-1974.</unittitle>
+                    <unittitle>Series VII: Rathbone Family Papers, 1903-1974</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
@@ -9708,7 +9750,7 @@
             </c>
             <c id="ref1133" level="series">
                 <did>
-                    <unittitle>Series VIII: Society of Stage Directors and Choreographers Records, 1959-1980.</unittitle>
+                    <unittitle>Series VIII: Society of Stage Directors and Choreographers Records, 1959-1980</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
@@ -9812,7 +9854,7 @@
             </c>
             <c id="ref1146" level="series">
                 <did>
-                    <unittitle>Series IX: Oversize Items, 1891-1965.</unittitle>
+                    <unittitle>Series IX: Oversize Items, 1891-1965</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
@@ -9993,10 +10035,11 @@
             </c>
             <c id="ref1162" level="series">
                 <did>
-                    <unittitle>Series X: Scrapbooks and Unprocessed Material, 1900-1973.</unittitle>
+                    <unittitle>Series X: Scrapbooks and Unprocessed Material, 1875-2014</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
+                    <unitdate>1875-2013</unitdate>
                 </did>
                 <c id="ref1163" level="subseries">
                     <did>
@@ -10266,7 +10309,7 @@
                 </c>
                 <c id="ref1205" level="subseries">
                     <did>
-                        <unittitle>Subseries X:C: Unprocessed Material. Consists Mostly of Research Materials on Edwin Forrest.</unittitle>
+                        <unittitle>Subseries X:C: Unprocessed Material, 1875-2014.</unittitle>
                     </did>
                     <c id="ref1210" level="file">
                         <did>
@@ -10284,12 +10327,99 @@
                     </c>
                     <c id="ref1213" level="file">
                         <did>
-                            <unittitle>George M. Cohan Dinner Phonograph Records (RESTRICTED: Fragile)</unittitle>
+                            <unittitle>George M. Cohan Dinner Phonograph Records (Fragile)</unittitle>
                             <container id="cid20779003" type="Box" label="Audio">39</container>
                             <unitdate normal="1938/1938">1938</unitdate>
                         </did>
                     </c>
+                    <c id="ref1235" level="file">
+                        <did>
+                            <unittitle>Arrangements of Funerals and Burials for Actor's Fund Members</unittitle>
+                            <container id="cid23183001" type="Box" label="Mixed materials">49</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref1236" level="file">
+                        <did>
+                            <unittitle>Annual Report Research Materials</unittitle>
+                            <container id="cid23183002" type="Box" label="Mixed materials">50</container>
+                            <unitdate>circa 1990-1999</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref1237" level="file">
+                        <did>
+                            <unittitle>Development Files</unittitle>
+                            <container id="cid23183003" type="Box" label="Mixed materials">51</container>
+                            <unitdate>1996</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref1240" level="file">
+                        <did>
+                            <unittitle>Programs, Photographs and DVDs of Events and Benefits; Brochures; Miscellaneous Historical Materials</unittitle>
+                            <container id="cid23477005" type="Box" label="Mixed materials">52</container>
+                            <unitdate normal="1875/2014" type="inclusive">1875-2014</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref1244" level="file">
+                        <did>
+                            <unittitle>Oversized Historical Materials</unittitle>
+                            <container id="cid23477004" type="Box" label="Mixed materials">MSOS006</container>
+                            <unitdate>1900s-1960s</unitdate>
+                        </did>
+                        <scopecontent id="ref1245">
+                            <head>Scope and Content Note</head>
+                            <p>Includes early photographs of Joe Smith and Charles Dale, as well as a 1920s photograph of the Board of Trustees for The Actors Fund.</p>
+                        </scopecontent>
+                    </c>
                 </c>
+            </c>
+            <c id="ref1226" level="series">
+                <did>
+                    <unittitle>Series XI: Aldrich Family Papers, circa 1850-1940</unittitle>
+                </did>
+                <c id="ref1229" level="file">
+                    <did>
+                        <unittitle>Scrapbooks, Photographs, Programs, and Publicity Materials</unittitle>
+                        <container id="cid23180001" type="Box" label="Mixed materials">41</container>
+                        <unitdate>circa 1850-1940</unitdate>
+                    </did>
+                </c>
+                <c id="ref1230" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid23180002" type="Box" label="Mixed materials">42-46</container>
+                        <unitdate>circa 1850-1940</unitdate>
+                    </did>
+                </c>
+                <c id="ref1231" level="file">
+                    <did>
+                        <unittitle>Oversize Photographs</unittitle>
+                        <container id="cid23180003" type="Box" label="Mixed materials">47</container>
+                        <unitdate>circa 1850-1940</unitdate>
+                    </did>
+                </c>
+                <c id="ref1234" level="file">
+                    <did>
+                        <unittitle>Actors' Fund Scrapbooks</unittitle>
+                        <container id="cid23180004" type="Box" label="Mixed materials">48</container>
+                        <unitdate>circa 1850-1940</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref1223" level="series">
+                <did>
+                    <unittitle>Series XII: Archived Website</unittitle>
+                    <unitdate>Mar 29, 2009-ongoing</unitdate>
+                </did>
+                <scopecontent id="ref1224">
+                    <head>Scope and Content Note</head>
+                    <p>The Actors Fund, a nonprofit human services organization founded in 1882, serves professionals in film, theater, television, music, opera, and dance through programs that address their professional needs. The Fund serves more than 12,000 performing arts and entertainment professionals across the country every year, and reaches hundreds of thousand through the Fund’s online resources. The Fund operates as a safety net, to provide programs and services, including comprehensive social services, health services, supportive and affordable housing, employment and training services, and skilled nursing and assisted living care for performing arts and entertainment professionals in need. The website contains information on their services and programs, tickets to upcoming performances and events, and education and workshops.</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Archived Website" ns2:href="sw1pr7mv1g">
+                    <daodesc>
+                        <p>Archived Website, Mar 29, 2009-ongoing </p>
+                    </daodesc>
+                </dao>
             </c>
         </dsc>
     </archdesc>

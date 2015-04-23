@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid>cooper</eadid>
+        <eadid url="http://dlib.nyu.edu/findingaids/html/fales/cooper/">cooper</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Dennis Cooper Papers 
@@ -15,7 +15,7 @@
                 <p>This version was derived from MS Word document: cooper finding aid.doc</p>
             </editionstmt>
             <publicationstmt>
-                <publisher>© 2012 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -28,7 +28,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-10-09T15:48-0400</date>
+                <date>2015-03-19T17:07-0400</date>
             </creation>
         </profiledesc>
     </eadheader>
@@ -37,7 +37,7 @@
             <unittitle>Dennis Cooper Papers</unittitle>
             <unitid>MSS 085</unitid>
             <repository>
-                <corpname>© 2012 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -46,11 +46,11 @@
                 <extent>20.0 linear feet</extent>
                 <extent>(25 boxes)</extent>
             </physdesc>
-            <unitdate>1970-2002</unitdate>
+            <unitdate normal="1970/2002" type="inclusive">1970-2002</unitdate>
             <abstract id="ref3" label="Abstract">The Dennis Cooper Papers cover his career from approximately 1970 to 2002 and include correspondence and manuscripts of many notable literary and cultural figures, scrapbooks, manuscripts, collaborative projects, journals, journalism, reviews, business/production files for each book project, posters, videocassettes, and tapes. Dennis Cooper's creative output includes poetry, journalism and fiction that at times explores 'extreme subjects.' In the late 1970's, Cooper became involved with the nascent punk scene and began Little Caesar Magazine, and later, Little Caesar Press. He is the author of novels such as: Closer (1989) and Frisk (1992), has contributed to the 
                 <emph render="italic">Village Voice</emph>, 
                 <emph render="italic">Spin</emph>, 
-                <emph render="italic">The Advocate</emph>and 
+                <emph render="italic">The Advocate</emph> and 
                 <emph render="italic">L.A. Weekly</emph>, and co-curated an exhibit with Richard Hawkins entitled "Against Nature: A Group Show of Work by Homosexual Men." Presently, Cooper lives in Los Angeles.</abstract>
         </did>
         <custodhist id="ref4">
@@ -59,7 +59,7 @@
         </custodhist>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
-            <p>Open to researchers. Written permission must be secured for researchers to consult the J.T. Leroy photographs. Appointments are necessary for the use of manuscript and archival materials.</p>
+            <p>Open to researchers. Appointments are necessary for the use of manuscript and archival materials.</p>
         </accessrestrict>
         <userestrict id="ref6">
             <head>Use Restrictions</head>
@@ -250,7 +250,7 @@
             <persname source="naf">Boone, Bruce</persname>
             <persname source="naf">Brite, Poppy Z.</persname>
             <persname source="naf">Clark, Tom, 1941-</persname>
-            <persname source="naf">Cooper, Dennis, 1953-</persname>
+            <persname rules="aacr" source="naf">Cooper, Dennis, 1953-</persname>
             <persname source="naf">Dlugos, Tim</persname>
             <persname source="naf">Equi, Elaine</persname>
             <persname source="local">Fecteau, Vincent</persname>
@@ -269,14 +269,13 @@
             <persname source="naf">Skelley, Jack, 1956-</persname>
             <persname source="naf">Stadler, Matthew</persname>
             <persname source="naf">Stark, Frances</persname>
-            <corpname source="ingest"></corpname>
             <persname source="naf">Tillman, Lynne</persname>
             <persname source="naf">Trinidad, David, 1953-</persname>
             <persname source="naf">Waters, John, 1946-</persname>
             <persname source="naf">Weissman, Benjamin</persname>
             <persname source="naf">Wojnarowicz, David</persname>
             <subject source="lcsh">American literature |y 20th century.</subject>
-            <subject source="lcsh">Artists and community  |z United States.</subject>
+            <subject source="lcsh">Artists and community |z United States.</subject>
             <subject source="lcsh">Authors, American |y 20th century.</subject>
             <subject source="lcsh">Avant-garde (Aesthetics)</subject>
             <subject source="local">Beyond Baroque Literary Arts Center.</subject>
@@ -292,15 +291,15 @@
             <genreform source="aat">Magazines (periodicals)</genreform>
             <genreform source="aat">Manuscripts for publication.</genreform>
             <geogname source="lcsh">New York (N.Y.)</geogname>
-            <subject source="lcsh">New York (N.Y.) |x Intellectual life |y 20th century.</subject>
-            <subject source="lcsh">Poets, American |y 20th Century.</subject>
+            <geogname source="lcsh">New York (N.Y.) |x Intellectual life |y 20th century.</geogname>
+            <subject source="lcsh">Poets, American |y 20th century.</subject>
             <genreform source="aat">Posters.</genreform>
             <genreform source="aat">Reviews (document genre)</genreform>
             <genreform source="aat">Scrapbooks.</genreform>
             <genreform source="aat">Scripts (documents)</genreform>
             <subject source="lcsh">Small presses |z California |z Los Angeles.</subject>
             <genreform source="aat">Sound recordings.</genreform>
-            <subject source="lcsh">Venice (Los Angeles, Calif.) |x Intellectual life |y 20th century.</subject>
+            <geogname source="lcsh">Venice (Los Angeles, Calif.) |x Intellectual life |y 20th century.</geogname>
             <genreform source="aat">Video recordings.</genreform>
         </controlaccess>
         <dsc>
@@ -8237,18 +8236,9 @@
                     <head>Scope and Contents note</head>
                     <p>Series contains all media for the Dennis Cooper Papers.</p>
                 </scopecontent>
-                <c id="ref964" level="subseries">
-                    <did>
-                        <unittitle>Subseries A: Video Recordings - Access Copies</unittitle>
-                    </did>
-                    <scopecontent id="ref965">
-                        <head>Scope and Contents note</head>
-                        <p>There are currently no video access copies available. Please check with Fales archivist.</p>
-                    </scopecontent>
-                </c>
                 <c id="ref966" level="subseries">
                     <did>
-                        <unittitle>Subseries B: Video Recordings - Originals</unittitle>
+                        <unittitle>Subseries A: Video Recordings</unittitle>
                     </did>
                     <scopecontent id="ref987">
                         <head>Scope and Contents note</head>
@@ -8263,9 +8253,13 @@
                         </did>
                         <odd id="ref968">
                             <head>General note</head>
-                            <p>Format: VHS</p>
-                            <p>TRT: 00:50:00</p>
+                            <p>Original Format: VHS</p>
+                            <p>Duration: 00:50:00</p>
                         </odd>
+                        <accessrestrict id="ref1368">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref969" level="otherlevel">
                         <did>
@@ -8276,9 +8270,13 @@
                         </did>
                         <odd id="ref970">
                             <head>General note</head>
-                            <p>Format: VHS</p>
-                            <p>TRT: [Unknown]</p>
+                            <p>Original Format: VHS</p>
+                            <p>Duration: [Unknown]</p>
                         </odd>
+                        <accessrestrict id="ref1369">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref971" level="otherlevel">
                         <did>
@@ -8289,9 +8287,13 @@
                         </did>
                         <odd id="ref972">
                             <head>General note</head>
-                            <p>Format: VHS</p>
-                            <p>TRT: 01:25:27</p>
+                            <p>Original Format: VHS</p>
+                            <p>Duration: 01:25:27</p>
                         </odd>
+                        <accessrestrict id="ref1370">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref973" level="otherlevel">
                         <did>
@@ -8302,9 +8304,13 @@
                         </did>
                         <odd id="ref974">
                             <head>General note</head>
-                            <p>Format: VHS</p>
-                            <p>TRT: 01:28:19</p>
+                            <p>Original Format: VHS</p>
+                            <p>Duration: 01:28:19</p>
                         </odd>
+                        <accessrestrict id="ref1371">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref975" level="otherlevel">
                         <did>
@@ -8315,9 +8321,13 @@
                         </did>
                         <odd id="ref976">
                             <head>General note</head>
-                            <p>Format: VHS</p>
-                            <p>TRT: [Unknown]</p>
+                            <p>Original Format: VHS</p>
+                            <p>Duration: [Unknown]</p>
                         </odd>
+                        <accessrestrict id="ref1372">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref977" level="otherlevel">
                         <did>
@@ -8328,9 +8338,13 @@
                         </did>
                         <odd id="ref978">
                             <head>General note</head>
-                            <p>Format: VHS</p>
-                            <p>TRT: [Unknown]</p>
+                            <p>Original Format: VHS</p>
+                            <p>Duration: [Unknown]</p>
                         </odd>
+                        <accessrestrict id="ref1373">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref979" level="otherlevel">
                         <did>
@@ -8341,9 +8355,13 @@
                         </did>
                         <odd id="ref980">
                             <head>General note</head>
-                            <p>Format: VHS</p>
-                            <p>TRT: [Unknown]</p>
+                            <p>Original Format: VHS</p>
+                            <p>Duration: [Unknown]</p>
                         </odd>
+                        <accessrestrict id="ref1374">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref981" level="otherlevel">
                         <did>
@@ -8354,9 +8372,13 @@
                         </did>
                         <odd id="ref982">
                             <head>General note</head>
-                            <p>Format: VHS</p>
-                            <p>TRT: [Unknown]</p>
+                            <p>Original Format: VHS</p>
+                            <p>Duration: [Unknown]</p>
                         </odd>
+                        <accessrestrict id="ref1375">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref983" level="otherlevel">
                         <did>
@@ -8367,9 +8389,13 @@
                         </did>
                         <odd id="ref984">
                             <head>General note</head>
-                            <p>Format: VHS</p>
-                            <p>TRT: 00:20:00</p>
+                            <p>Original Format: VHS</p>
+                            <p>Duration: 00:20:00</p>
                         </odd>
+                        <accessrestrict id="ref1376">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref985" level="otherlevel">
                         <did>
@@ -8380,23 +8406,18 @@
                         </did>
                         <odd id="ref986">
                             <head>General note</head>
-                            <p>Format: VHS</p>
-                            <p>TRT: [Unknown]</p>
+                            <p>Original Format: VHS</p>
+                            <p>Duration: [Unknown]</p>
                         </odd>
+                        <accessrestrict id="ref1377">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
-                </c>
-                <c id="ref988" level="subseries">
-                    <did>
-                        <unittitle>Subseries C: Audio Recordings - Access Copies</unittitle>
-                    </did>
-                    <scopecontent id="ref989">
-                        <head>Scope and Contents note</head>
-                        <p>There are currently no audio access copies available. Please check with Fales archivist.</p>
-                    </scopecontent>
                 </c>
                 <c id="ref990" level="subseries">
                     <did>
-                        <unittitle>Subseries D: Audio Recordings - Originals</unittitle>
+                        <unittitle>Subseries B: Audio Recordings</unittitle>
                     </did>
                     <scopecontent id="ref999">
                         <head>Scope and Contents note</head>
@@ -8411,9 +8432,13 @@
                         </did>
                         <odd id="ref992">
                             <head>General note</head>
-                            <p>Format: audiocassette</p>
-                            <p>TRT: [Unknown]</p>
+                            <p>Original Format: audiocassette</p>
+                            <p>Duration: [Unknown]</p>
                         </odd>
+                        <accessrestrict id="ref1378">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref993" level="otherlevel">
                         <did>
@@ -8424,9 +8449,13 @@
                         </did>
                         <odd id="ref994">
                             <head>General note</head>
-                            <p>Format: audiocassette</p>
-                            <p>TRT: [Unknown]</p>
+                            <p>Original Format: audiocassette</p>
+                            <p>Duration: [Unknown]</p>
                         </odd>
+                        <accessrestrict id="ref1379">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref995" level="otherlevel">
                         <did>
@@ -8437,9 +8466,13 @@
                         </did>
                         <odd id="ref996">
                             <head>General note</head>
-                            <p>Format: audiocassette</p>
-                            <p>TRT: [Unknown]</p>
+                            <p>Original Format: audiocassette</p>
+                            <p>Duration: [Unknown]</p>
                         </odd>
+                        <accessrestrict id="ref1380">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref997" level="otherlevel">
                         <did>
@@ -8450,9 +8483,13 @@
                         </did>
                         <odd id="ref998">
                             <head>General note</head>
-                            <p>Format: audiocassette</p>
-                            <p>TRT: [Unknown]</p>
+                            <p>Original Format: audiocassette</p>
+                            <p>Duration: [Unknown]</p>
                         </odd>
+                        <accessrestrict id="ref1381">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable.</p>
+                        </accessrestrict>
                     </c>
                 </c>
             </c>
@@ -8818,7 +8855,9 @@
                             <emph render="italic">Joezine.</emph>New York: joezine. N.d., Second Tissue. 
                             <lb/>
                             <emph render="italic">johnny tomorrow.</emph>Chicago, IL: Davey Houle. 1996 
-                            <lb/></unittitle>
+                            <lb/>
+                            <lb/>
+                            <emph render="italic">Swish! Toronto, Canada: J.D.'s.</emph>No. 8 1991</unittitle>
                         <container id="cid115060" type="Box" label="Mixed materials">14</container>
                         <container parent="cid115060" type="Folder">944</container>
                         <unitdate>1996</unitdate>
@@ -9080,8 +9119,6 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Strange Looking Exile.</emph>Minneapolis, MN: Strange Looking Exile. #1, #2, #4. 
-                            <lb/>
-                            <emph render="italic">Swish! Toronto, Canada: J.D.'s.</emph>No. 8 1991 
                             <lb/>
                             <emph render="italic">SWSII San Francisco, CA: SWSll.</emph>1993-94. 
                             <lb/>
@@ -10384,7 +10421,7 @@
                 </c>
                 <c id="ref1262" level="otherlevel">
                     <did>
-                        <unittitle>Terminator (JT Leory), manuscript</unittitle>
+                        <unittitle>Terminator (JT Leroy), manuscript</unittitle>
                         <container id="cid114844" type="Box" label="Mixed materials">2</container>
                         <container parent="cid114844" type="Folder">87</container>
                         <unitdate>undated</unitdate>
@@ -11135,6 +11172,10 @@
                             <container parent="cid114760" type="Folder">ID: 085.0015</container>
                             <unitdate>undated</unitdate>
                         </did>
+                        <odd id="ref1382">
+                            <head>General note</head>
+                            <p>This VHS tape is blank.</p>
+                        </odd>
                     </c>
                 </c>
                 <c id="ref1353" level="subseries">

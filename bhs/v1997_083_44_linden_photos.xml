@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/v1997_083_44_linden_photos">v1997_083_44_linden_photos</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the 44 Linden Street interior photographs
+                    <num>V1997.083</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-10-21T16:46-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>44 Linden Street interior photographs</unittitle>
+            <unitid>V1997.083</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1248001" type="Box" label="Graphic materials">OS-15 (Prints by Accession)</container>
+            <physdesc>
+                <extent>1.0 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1880/1930" type="inclusive">circa 1910</unitdate>
+            <abstract id="ref1" label="Abstract">Collection contains three photographs of the interior of 44 Linden Street, Brooklyn, taken sometime in the late 19th or early 20th century. The photographs are mounted on board and appear to have been part of an album or scrapbook.</abstract>
+        </did>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); 44 Linden Street interior photographs, v1997.083, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Immediate source of acquisition unknown. Photographs were accessioned in 1997.</p>
+        </acqinfo>
+        <userestrict id="ref3">
+            <head>Conditions Governing Use note</head>
+            <p>Creator and date of creation of the images are unknown. Photographs are presumed to be in the public domain by 2030.</p>
+        </userestrict>
+        <accessrestrict id="ref2">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <controlaccess>
+            <subject source="lcsh">Buildings |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
+            <genreform source="aat">Interior views</genreform>
+            <geogname source="local">Linden Street (Brooklyn, New York, N.Y.)</geogname>
+            <genreform source="aat">Photographs</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

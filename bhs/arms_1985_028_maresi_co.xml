@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_028_maresi_co.html">arms_1985_028_maresi_co</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Maresi Company Confectioners and Caterers invoice
+                    <num>1985.028</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-10-04T16:17-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Maresi Company Confectioners and Caterers invoice</unittitle>
+            <unitid>1985.028</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1242003" type="Box" label="Text">A0009</container>
+            <physdesc>
+                <extent>0.1 linear feet</extent>
+                <extent>in 1 folder</extent>
+            </physdesc>
+            <unitdate normal="1903/1903">1903</unitdate>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Maresi Company Confectioners and Caterers.</corpname>
+            </origination>
+        </did>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Maresi Company invoice, 1985.028, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Immediate source of acquisition is unknown. Collection was accessioned in 1985.</p>
+        </acqinfo>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>Invoice is in the public domain.</p>
+        </userestrict>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <bioghist id="ref3">
+            <head>Historical note</head>
+            <p>The Maresi Company Confectioners and Caterers had locations in Brooklyn (30 Clinton Street; 76 Seventh Avenue) and Manhattan (719 Sixth Avenue; 589 Madison Avenue; 320 Columbus Avenue).</p>
+        </bioghist>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The collection contains one invoice from 1903 for catering an event at the Flushing Institute in Flushing, Long Island. The invoice includes a list of menu items served at the event.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname rules="dacs" source="Library_of_Congress_Name_Authority_File">Flushing Institute.</corpname>
+            <corpname rules="dacs" source="local">Maresi Company Confectioners and Caterers.</corpname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <subject source="lcsh">Caterers and catering |z New York (State) |z New York</subject>
+            <geogname source="lcsh">Flushing (New York, N.Y.)</geogname>
+            <subject source="lcsh">Food</subject>
+            <genreform source="aat">Invoices</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

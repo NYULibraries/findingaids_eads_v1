@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid>amberg</eadid>
+        <eadid url="http://dlib.nyu.edu/findingaids/html/archives/amberg/index.html">amberg</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the George Amberg and Robert Gessner Papers 
@@ -26,10 +26,11 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-06-29T14:58-0400</date>
+                <date>2014-09-08T15:55-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
@@ -49,6 +50,7 @@
             <unitdate normal="1940/1970" type="bulk">Bulk, 1940-1970</unitdate>
             <unitdate normal="1913/1978" type="inclusive">1913-1978</unitdate>
             <abstract id="ref2" label="Abstract">The George Amberg and Robert Gessner Papers contains the personal and professional papers of George Amberg and Robert Gessner. The bulk of the collection was created by Gessner. The collection documents the development of university film education, the formation of The Society of Cinematologists, and Gessner's career as a screenwriter, novelist, and poet. Amberg's work at New York University, the University of Minnesota, and the Minneapolis School of Art is also documented.</abstract>
+            <physloc id="ref517" label="Location">Much of the material in this collection is located in offsite storage. Please contact the repository for details.</physloc>
             <origination label="creator">
                 <persname source="naf">Gessner, Robert, 1907-1968</persname>
             </origination>
@@ -167,8 +169,7 @@
         </prefercite>
         <userestrict id="ref8">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the:
-                <lb/>
+            <p>Permission to publish materials must be obtained in writing from the: 
                 <address>
                     <addressline>New York University Archives
                         <lb/> </addressline>
@@ -206,17 +207,17 @@
             <genreform source="aat">Correspondence.</genreform>
             <genreform source="aat">Essays.</genreform>
             <subject source="lcsh">Film criticism.</subject>
-            <genreform source="aat">Manuscripts (document genre).</genreform>
+            <genreform source="aat">Manuscripts (document genre)</genreform>
             <subject source="lcsh">Motion picture plays |x History and criticism</subject>
             <genreform source="aat">Motion pictures (visual works).</genreform>
             <genreform source="aat">Notebooks</genreform>
             <genreform source="lcsh">Notes.</genreform>
-            <genreform source="aat">Reviews (document genre).</genreform>
+            <genreform source="aat">Reviews (document genre)</genreform>
         </controlaccess>
         <dsc>
             <c id="ref20" level="series">
                 <did>
-                    <unittitle>Series I: Correspondence.</unittitle>
+                    <unittitle>Series I: Correspondence</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
@@ -352,19 +353,6 @@
                             <unitdate normal="1962/1964" type="inclusive">1962 , 1964</unitdate>
                         </did>
                         <odd id="ref299">
-                            <head>General note</head>
-                            <p>
-                                <emph render="bold">barcode#</emph>:31142042277924</p>
-                        </odd>
-                    </c>
-                    <c id="ref34" level="file">
-                        <did>
-                            <unittitle>"Comm. Int. Ex. Persons"</unittitle>
-                            <container id="cid10732" type="Box" label="Mixed materials (31142042277924)">1</container>
-                            <container parent="cid10732" type="Folder">10</container>
-                            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
-                        </did>
-                        <odd id="ref300">
                             <head>General note</head>
                             <p>
                                 <emph render="bold">barcode#</emph>:31142042277924</p>
@@ -3191,11 +3179,6 @@
                         </langmaterial>
                         <container id="cid10457002" type="Box" label="Mixed materials (31142042278054)">16</container>
                     </did>
-                    <odd id="ref508">
-                        <head>General note</head>
-                        <p>
-                            <emph render="bold">barcode#</emph>:31142042278054</p>
-                    </odd>
                 </c>
             </c>
             <c id="ref509" level="series">

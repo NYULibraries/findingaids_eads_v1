@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">alba_graphics_001</eadid>
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_graphics_001/">alba_graphics_001</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Spanish Civil War Poster Collection
@@ -22,11 +22,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-10-29T11:44-0400</date>
+                <date>2015-02-02T15:40-0500</date>
             </creation>
-            <langusage>Description is in 
-                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <langusage>Description is in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>11-20-2014</date>
+                <item>Revised by Erika Gottfried and Maggie Schreiner to reflect the incorporation of unprocessed materials into the collection.</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -48,19 +54,19 @@
                 <corpname source="naf">Tamiment Library.</corpname>
             </origination>
         </did>
-        <odd id="ref179">
-            <head>General Note</head>
+        <altformavail id="ref179">
+            <head>Existence and Location of Copies note</head>
             <p>Most of the images in Series II may be viewed online--both on-site and remotely--via the ARTstor website at http://library.artstor.org/library/welcome.html by researchers who are affiliated with New York University. Researchers not affiliated with New York University may view these images online only while visiting the Tamiment Library.</p>
-        </odd>
+        </altformavail>
         <custodhist id="ref3">
-            <head>Provenance</head>
+            <head>Custodial History note</head>
             <p>Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. The core group of posters in this group came to the Tamiment Library as part of the Abraham Lincoln Brigade Archives Collection, which was acquired by New York University in 2001. Other posters have been donated since, and the collection continues to grow.</p>
-            <p>Series II: Spanish Civil War Posters from the Tamiment Library Poster Collection (TAM Graphics 002), 1936-1938. This group of posters form part of the Library's general poster collection. It is an open collection, acquired by the library over many years, from many sources.</p>
+            <p>Series II: Spanish Civil War Posters from the Tamiment Library Poster Collection (TAM Graphics 002), 1936-1938. This group of posters form part of the Library's general poster collection. It is an assembled collection, acquired by the library over many years, from many sources.</p>
+            <p>The accession number 1950.157 is associated with this collection.</p>
         </custodhist>
         <accessrestrict id="ref4">
             <head>Access Restrictions</head>
-            <p>Open for research without restrictions. To view original posters an appointment is required; contact Erika Gottfried tamiment.wagner@library.nyu.edu</p>
-            <p>Most of the images in Series II may be viewed online--both on-site and remotely--via the ARTstor website at http://library.artstor.org/library/welcome.html by researchers who are affiliated with New York University. Researchers not affiliated with New York University may view these images online only while visiting the Tamiment Library.</p>
+            <p>Open for research without restrictions. To view original posters an appointment is required; contact Erika Gottfried at tamiment.wagner@library.nyu.edu.</p>
         </accessrestrict>
         <userestrict id="ref5">
             <head>Use Restrictions</head>
@@ -77,7 +83,7 @@
             <head>Preferred Citation</head>
             <p>Published citations should take the following form: 
                 <lb/>
-                <lb/>Identification of item, date (if known); Spanish Civil War Poster Collection; ALBA GRAPHICS 1; item number; Tamiment Library; New York University.</p>
+                <lb/>Identification of item, date (if known); Spanish Civil War Poster Collection; ALBA GRAPHICS 001; item number; Tamiment Library; New York University.</p>
         </prefercite>
         <bioghist id="ref7">
             <head>Historical/Biographical Note</head>
@@ -116,12 +122,12 @@
             <persname source="naf">Briones Martinez, José</persname>
             <persname source="local">Calandin, José</persname>
             <persname source="local">Clusellas, Enric</persname>
-            <corpname source="naf">Confederación Nacional del Trabajo (Spain).</corpname>
+            <corpname rules="dacs" source="naf">Confederación Nacional del Trabajo (Spain).</corpname>
             <persname source="naf">Espert, José Luis</persname>
             <corpname source="naf">Federación Ibérica de Juventudes Libertarias.</corpname>
             <corpname source="naf">Friends of the Abraham Lincoln Brigade.</corpname>
             <corpname source="local">Front Popular de Catalunya.</corpname>
-            <persname source="naf">Gellert, Hugo, 1892-1985.</persname>
+            <persname rules="dacs" source="naf">Gellert, Hugo, 1892-1985</persname>
             <persname source="ingest">Goñi, Lorenzo.</persname>
             <corpname source="naf">International Red Aid.</corpname>
             <corpname source="naf">Joint Anti-Fascist Refugee Committee.</corpname>
@@ -135,12 +141,12 @@
             <persname source="naf">Renau, Josep, 1907-1982</persname>
             <corpname source="local">Sindicato Profesionales Bellas Artes.</corpname>
             <corpname source="naf">Socorro Rojo de España.</corpname>
-            <corpname source="naf">Unión General de Trabajadores de España.</corpname>
+            <corpname rules="dacs" source="naf">Unión General de Trabajadores de España.</corpname>
             <persname source="naf">Vila Gimeno, Vicente, 1908-2009</persname>
             <persname source="ingest">Xirinius Juez, Juame.</persname>
             <genreform source="aat">Posters.</genreform>
             <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Posters.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939.</geogname>
+            <subject source="lcsh">Spain |x History |y Civil War, 1936-1939.</subject>
             <geogname source="lcsh">Spain.</geogname>
         </controlaccess>
         <dsc>
@@ -189,6 +195,15 @@
                             <container parent="cid18440939" type="Folder">4</container>
                             <container parent="cid18440939" type="item">ALBA-ES 32</container>
                             <unitdate normal="1936/2003" type="inclusive">Undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref187" level="file">
+                        <did>
+                            <unittitle>Bardasano, José. “Su Excelencia el Presidente de la República ha dicho: ...cuando yo hablo de mi nación.” Imprint “Ortega, Valencia. Control U.G.T.-C.N.T.” H: 25.5 x W: 34.5 inches.</unittitle>
+                            <container id="cid23524003" type="Drawer" label="Mixed materials">FFC: 6-2</container>
+                            <container parent="cid23524003" type="Folder">10</container>
+                            <container parent="cid23524003" type="item">ALBA-ES 91</container>
+                            <unitdate>Undated</unitdate>
                         </did>
                     </c>
                     <c id="ref18" level="file">
@@ -560,6 +575,15 @@
                             <unitdate normal="1936/1936">1936</unitdate>
                         </did>
                     </c>
+                    <c id="ref188" level="file">
+                        <did>
+                            <unittitle>Puyol, Ramón. “El Rumor. !Guerra a muerte al rumor! Que intenta destrozar nuestra moral y nuestra unión.” [Published by] S[ocorro] R[oio] I[nternacional]. Imprint “Ortega - intervenido, U.G.T.-C.N.T. - Valencia.” H: 34.5 x W: 25 inches.</unittitle>
+                            <container id="cid23524004" type="Drawer" label="Mixed materials">FFC: 6-3</container>
+                            <container parent="cid23524004" type="Folder">10</container>
+                            <container parent="cid23524004" type="item">ALBA-ES 112</container>
+                            <unitdate normal="1936/1936">1936</unitdate>
+                        </did>
+                    </c>
                     <c id="ref59" level="file">
                         <did>
                             <unittitle>Reinoso.  “No tireis los trapos viejos.  Pues con ellos se fabricaran telas de abrigo para nuestros defensores.” H: 26 x W: 17.5 inches.</unittitle>
@@ -830,6 +854,15 @@
                             <unitdate normal="1936/2003" type="inclusive">Undated</unitdate>
                         </did>
                     </c>
+                    <c id="ref186" level="file">
+                        <did>
+                            <unittitle>“Hablar de la falange es nombrar a España.” H: 27.5 x W: 19.5 inches.</unittitle>
+                            <container id="cid23524002" type="Drawer" label="Mixed materials">FFC: 6-2</container>
+                            <container parent="cid23524002" type="Folder">9</container>
+                            <container parent="cid23524002" type="item">ALBA-ES 88</container>
+                            <unitdate>Undated</unitdate>
+                        </did>
+                    </c>
                     <c id="ref88" level="file">
                         <did>
                             <unittitle>“Homenaje a Madrid. !Madrid, asesinados sus hijos, arrasados sus monumentos, en llamas sus tesoros de Arte!” [Published by] Ministerio de Propaganda.  H: 38.6 x W: 26.4 inches.  </unittitle>
@@ -957,6 +990,15 @@
                             <container parent="cid18440856" type="Folder">2</container>
                             <container parent="cid18440856" type="item">ALBA-ES 12</container>
                             <unitdate normal="1936/2003" type="inclusive">Undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref184" level="file">
+                        <did>
+                            <unittitle>“Vuestres hijos estan bien atendidos. Un nuevo y cariñoso hogar para los niños refugiados.” [Published by] Ministerio de Instrucción Pública. Imprint “Union Poligrafica, C.O. - Madrid.” H: 38 x W: 26 inches.</unittitle>
+                            <container id="cid23524001" type="Drawer" label="Mixed materials">FFC: 6-2</container>
+                            <container parent="cid23524001" type="Folder">9</container>
+                            <container parent="cid23524001" type="item">ALBA-ES 87</container>
+                            <unitdate>Undated</unitdate>
                         </did>
                     </c>
                 </c>

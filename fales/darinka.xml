@@ -11,7 +11,7 @@
                 <author>Finding aid prepared by Colin Torre, 2012. Finding aid created by Laura Newsome. Media updates by Rhyannon J. Rodriguez.</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>© 2012 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -24,8 +24,10 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-01-10T12:50-0500</date>
+                <date>2015-01-23T16:45-0500</date>
             </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
@@ -33,13 +35,14 @@
             <unittitle>Darinka Archive</unittitle>
             <unitid>MSS 340</unitid>
             <repository>
-                <corpname>© 2012 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>10.0 boxes</extent>
+                <extent>12.0 linear feet</extent>
+                <extent>(12 boxes)</extent>
             </physdesc>
             <unitdate normal="1973/2010" type="inclusive">1973-2010</unitdate>
             <abstract id="ref573" label="Abstract">Darinka: A Performance Studio was opened in 1984 by Gary Ray Bugarcic (aka Gary Ray). The club served as a venue for artists of all disciplines, including performance, theatre, music, dance, film, video, fine art, and poetry and prose, until its closing in 1987. The archive includes reviews, letters, subject files, contracts, flyers, stencils, photographs, audio and video recordings of performances, and digital data storage disks.</abstract>
@@ -94,9 +97,10 @@
             <subject source="lcsh">Alternative rock music.</subject>
             <subject source="lcsh">Alternative spaces (Arts facilities)</subject>
             <genreform source="aat">Audiocassettes.</genreform>
-            <genreform source="local">Downtown writers.</genreform>
-            <subject source="lcsh">East Village (New York, N.Y.)</subject>
+            <subject source="local">Downtown writers.</subject>
+            <geogname source="lcsh">East Village (New York, N.Y.)</geogname>
             <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
+            <subject source="lcsh">Nightclubs.</subject>
             <subject source="lcsh">Performance art.</subject>
             <genreform source="aat">Photographs.</genreform>
             <genreform source="aat">Printed ephemera.</genreform>
@@ -184,6 +188,13 @@
                         <unitdate>Undated</unitdate>
                     </did>
                 </c>
+                <c id="ref618" level="file">
+                    <did>
+                        <unittitle>Clay Spohn - Annotated bible 11/24/1916</unittitle>
+                        <container id="cid19019001" type="Box" label="Mixed materials">5</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                </c>
                 <c id="ref14" level="file">
                     <did>
                         <unittitle>Club Promo Material</unittitle>
@@ -198,6 +209,14 @@
                         <container id="cid17462011" type="Box" label="Mixed materials">1</container>
                         <container parent="cid17462011" type="Folder">11</container>
                         <unitdate>Undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref620" level="file">
+                    <did>
+                        <unittitle>Darinka Arrest Papers</unittitle>
+                        <container id="cid19104002" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid19104002" type="Folder">11a</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
                     </did>
                 </c>
                 <c id="ref16" level="file">
@@ -230,6 +249,14 @@
                         <container id="cid17462015" type="Box" label="Mixed materials">1</container>
                         <container parent="cid17462015" type="Folder">15</container>
                         <unitdate>c. 1984</unitdate>
+                    </did>
+                </c>
+                <c id="ref619" level="file">
+                    <did>
+                        <unittitle>Darinka Leases</unittitle>
+                        <container id="cid19104003" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid19104003" type="Folder">15a</container>
+                        <unitdate normal="1986/1988" type="inclusive">1986-1988</unitdate>
                     </did>
                 </c>
                 <c id="ref20" level="file">
@@ -3156,7 +3183,7 @@
                     <did>
                         <unittitle>Twad Schuetrum</unittitle>
                         <container id="cid17467117" type="Box" label="Media">10</container>
-                        <container parent="cid17467117" type="Cassette">ID: 340.0216</container>
+                        <container parent="cid17467117" type="Media">ID: 340.0216</container>
                         <unitdate>11/1/85</unitdate>
                     </did>
                     <phystech id="ref531">
@@ -3168,10 +3195,34 @@
                     <did>
                         <unittitle>Richard Kern, "Manhattan Love Suicides"</unittitle>
                         <container id="cid17467107" type="Box" label="Media">10</container>
-                        <container parent="cid17467107" type="Cassette">ID: 340.0206</container>
+                        <container parent="cid17467107" type="Media">ID: 340.0206</container>
                         <unitdate>1985</unitdate>
                     </did>
                     <phystech id="ref511">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: VHS</p>
+                    </phystech>
+                </c>
+                <c id="ref606" level="item">
+                    <did>
+                        <unittitle>Kimberly Flynn at Darinka</unittitle>
+                        <container id="cid18837001" type="Box" label="Media">10</container>
+                        <container parent="cid18837001" type="Media">ID: 340.0217</container>
+                        <unitdate>9/19/86</unitdate>
+                    </did>
+                    <phystech id="ref607">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: VHS</p>
+                    </phystech>
+                </c>
+                <c id="ref608" level="item">
+                    <did>
+                        <unittitle>Avant Garde Arama with Kimberly Flynn</unittitle>
+                        <container id="cid18837002" type="Box" label="Media">10</container>
+                        <container parent="cid18837002" type="Media">ID: 340.0218</container>
+                        <unitdate>10/17/86</unitdate>
+                    </did>
+                    <phystech id="ref609">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Format: VHS</p>
                     </phystech>
@@ -3180,10 +3231,22 @@
                     <did>
                         <unittitle>Gary Ray : It Comes In Waves (Rough Edit)</unittitle>
                         <container id="cid17467103" type="Box" label="Media">10</container>
-                        <container parent="cid17467103" type="Cassette">ID: 340.0202</container>
+                        <container parent="cid17467103" type="Media">ID: 340.0202</container>
                         <unitdate>c. 1986</unitdate>
                     </did>
                     <phystech id="ref503">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: VHS</p>
+                    </phystech>
+                </c>
+                <c id="ref610" level="item">
+                    <did>
+                        <unittitle>The Agaloff Sisters at La Mama (with Kimberly Flynn)</unittitle>
+                        <container id="cid18837003" type="Box" label="Media">10</container>
+                        <container parent="cid18837003" type="Media">ID: 340.0219</container>
+                        <unitdate>11/14/87</unitdate>
+                    </did>
+                    <phystech id="ref611">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Format: VHS</p>
                     </phystech>
@@ -3192,7 +3255,7 @@
                     <did>
                         <unittitle>"The Doorman"</unittitle>
                         <container id="cid17467106" type="Box" label="Media">10</container>
-                        <container parent="cid17467106" type="Cassette">ID: 340.0205</container>
+                        <container parent="cid17467106" type="Media">ID: 340.0205</container>
                         <unitdate>1987</unitdate>
                     </did>
                     <phystech id="ref509">
@@ -3204,7 +3267,7 @@
                     <did>
                         <unittitle>Jason Brandenburg, "Moonglow"</unittitle>
                         <container id="cid17467109" type="Box" label="Media">10</container>
-                        <container parent="cid17467109" type="Cassette">ID: 340.0208</container>
+                        <container parent="cid17467109" type="Media">ID: 340.0208</container>
                         <unitdate>1987</unitdate>
                     </did>
                     <phystech id="ref515">
@@ -3216,7 +3279,7 @@
                     <did>
                         <unittitle>Jason Brandenburg, "Moonglow"</unittitle>
                         <container id="cid17467108" type="Box" label="Media">10</container>
-                        <container parent="cid17467108" type="Cassette">ID: 340.0207</container>
+                        <container parent="cid17467108" type="Media">ID: 340.0207</container>
                         <unitdate>[1987]</unitdate>
                     </did>
                     <phystech id="ref513">
@@ -3228,7 +3291,7 @@
                     <did>
                         <unittitle>Blind Double Date</unittitle>
                         <container id="cid17467102" type="Box" label="Media">10</container>
-                        <container parent="cid17467102" type="Cassette">ID: 340.0201</container>
+                        <container parent="cid17467102" type="Media">ID: 340.0201</container>
                         <unitdate>1989</unitdate>
                     </did>
                     <phystech id="ref501">
@@ -3240,7 +3303,7 @@
                     <did>
                         <unittitle>Theory of Total Blame, Rapp Art Center NYC: Karen Finley</unittitle>
                         <container id="cid17467116" type="Box" label="Media">10</container>
-                        <container parent="cid17467116" type="Cassette">ID: 340.0215</container>
+                        <container parent="cid17467116" type="Media">ID: 340.0215</container>
                         <unitdate>June 18, 1989</unitdate>
                     </did>
                     <phystech id="ref529">
@@ -3252,7 +3315,7 @@
                     <did>
                         <unittitle>Church of the Little Green Man at Max Fish</unittitle>
                         <container id="cid17467104" type="Box" label="Media">10</container>
-                        <container parent="cid17467104" type="Cassette">ID: 340.0203</container>
+                        <container parent="cid17467104" type="Media">ID: 340.0203</container>
                         <unitdate>10/1990</unitdate>
                     </did>
                     <phystech id="ref505">
@@ -3264,7 +3327,7 @@
                     <did>
                         <unittitle>Czolgosz at PS122</unittitle>
                         <container id="cid17467105" type="Box" label="Media">10</container>
-                        <container parent="cid17467105" type="Cassette">ID: 340.0204</container>
+                        <container parent="cid17467105" type="Media">ID: 340.0204</container>
                         <unitdate>c. 1990</unitdate>
                     </did>
                     <phystech id="ref507">
@@ -3276,7 +3339,7 @@
                     <did>
                         <unittitle>Gary Ray: Organic Extensionism</unittitle>
                         <container id="cid17467110" type="Box" label="Media">10</container>
-                        <container parent="cid17467110" type="Cassette">ID: 340.0209</container>
+                        <container parent="cid17467110" type="Media">ID: 340.0209</container>
                         <unitdate>5/16/92</unitdate>
                     </did>
                     <phystech id="ref517">
@@ -3288,7 +3351,7 @@
                     <did>
                         <unittitle>Biohazardous</unittitle>
                         <container id="cid17467101" type="Box" label="Media">10</container>
-                        <container parent="cid17467101" type="Cassette">ID: 340.0200</container>
+                        <container parent="cid17467101" type="Media">ID: 340.0200</container>
                         <unitdate>2001</unitdate>
                     </did>
                     <phystech id="ref499">
@@ -3300,7 +3363,7 @@
                     <did>
                         <unittitle>Gary Ray hosting AGA</unittitle>
                         <container id="cid17467100" type="Box" label="Media">10</container>
-                        <container parent="cid17467100" type="Cassette">ID: 340.0199</container>
+                        <container parent="cid17467100" type="Media">ID: 340.0199</container>
                         <unitdate>2003</unitdate>
                     </did>
                     <phystech id="ref497">
@@ -3312,7 +3375,7 @@
                     <did>
                         <unittitle>"A Slice of Life," William Kent</unittitle>
                         <container id="cid17467114" type="Box" label="Media">10</container>
-                        <container parent="cid17467114" type="Cassette">ID: 340.0213</container>
+                        <container parent="cid17467114" type="Media">ID: 340.0213</container>
                         <unitdate>Undated</unitdate>
                     </did>
                     <phystech id="ref525">
@@ -3324,7 +3387,7 @@
                     <did>
                         <unittitle>Chett Grant: A Portrait of the Man</unittitle>
                         <container id="cid17467113" type="Box" label="Media">10</container>
-                        <container parent="cid17467113" type="Cassette">ID: 340.0212</container>
+                        <container parent="cid17467113" type="Media">ID: 340.0212</container>
                         <unitdate>Undated</unitdate>
                     </did>
                     <phystech id="ref523">
@@ -3336,7 +3399,7 @@
                     <did>
                         <unittitle>"Poison" (Rough Cut)</unittitle>
                         <container id="cid17467111" type="Box" label="Media">10</container>
-                        <container parent="cid17467111" type="Cassette">ID: 340.0210</container>
+                        <container parent="cid17467111" type="Media">ID: 340.0210</container>
                         <unitdate>Undated</unitdate>
                     </did>
                     <phystech id="ref519">
@@ -3348,7 +3411,7 @@
                     <did>
                         <unittitle>"Poltergash"</unittitle>
                         <container id="cid17467112" type="Box" label="Media">10</container>
-                        <container parent="cid17467112" type="Cassette">ID: 340.0211</container>
+                        <container parent="cid17467112" type="Media">ID: 340.0211</container>
                         <unitdate>Undated</unitdate>
                     </did>
                     <phystech id="ref521">
@@ -3360,7 +3423,7 @@
                     <did>
                         <unittitle>Milestone Film, "Spread the Word"</unittitle>
                         <container id="cid17467115" type="Box" label="Media">10</container>
-                        <container parent="cid17467115" type="Cassette">ID: 340.0214</container>
+                        <container parent="cid17467115" type="Media">ID: 340.0214</container>
                         <unitdate>Undated</unitdate>
                     </did>
                     <phystech id="ref527">
@@ -3498,13 +3561,56 @@
                     </phystech>
                 </c>
             </c>
+            <c id="ref612" level="series">
+                <did>
+                    <unittitle>Series VI: Photographs</unittitle>
+                </did>
+                <c id="ref82" level="item">
+                    <did>
+                        <unittitle>Photo album (black cover)</unittitle>
+                        <container id="cid17464006" type="Box" label="Mixed materials">5</container>
+                        <unitdate>Undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref81" level="item">
+                    <did>
+                        <unittitle>Photo album (red cover)</unittitle>
+                        <container id="cid17464007" type="Box" label="Mixed materials">12</container>
+                        <unitdate>Undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref617" level="file">
+                    <did>
+                        <unittitle>Lenticular photograph: Ethyl Eichelberger performing at Darinka</unittitle>
+                        <container id="cid19020002" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid19020002" type="Folder">1</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                </c>
+                <c id="ref615" level="file">
+                    <did>
+                        <unittitle>Lenticular photograph: Washington Square Park</unittitle>
+                        <container id="cid19020003" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid19020003" type="Folder">2</container>
+                        <unitdate>ca. 1985</unitdate>
+                    </did>
+                </c>
+                <c id="ref616" level="file">
+                    <did>
+                        <unittitle>Lenticular photograph: Larry Steger and Emily Sherman Marynczak at Darinka</unittitle>
+                        <container id="cid19020004" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid19020004" type="Folder">2</container>
+                        <unitdate>ca. 1984</unitdate>
+                    </did>
+                </c>
+            </c>
             <c id="ref4" level="series">
                 <did>
                     <unittitle>Oversize Series I: Darinka Files</unittitle>
                 </did>
                 <scopecontent id="ref557">
                     <head>Scope and Content</head>
-                    <p>This series contains the oversize material from series I.</p>
+                    <p>This series contains the oversize material separated from series I, including posters and magazine clippings.</p>
                 </scopecontent>
                 <c id="ref76" level="file">
                     <did>
@@ -3519,14 +3625,6 @@
                         <unittitle>Carlo McCormick benefit poster</unittitle>
                         <container id="cid17464002" type="Box" label="Mixed materials">4</container>
                         <container parent="cid17464002" type="Folder">2</container>
-                        <unitdate>Undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref567" level="item">
-                    <did>
-                        <unittitle>Clay Spohn - Annotated bible 11/24/1916</unittitle>
-                        <container id="cid17483022" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid17483022" type="Object">C</container>
                         <unitdate>Undated</unitdate>
                     </did>
                 </c>
@@ -3672,22 +3770,6 @@
                         <container id="cid17462065" type="Box" label="Mixed materials">3</container>
                         <container parent="cid17462065" type="Folder">16</container>
                         <unitdate>1986</unitdate>
-                    </did>
-                </c>
-                <c id="ref82" level="item">
-                    <did>
-                        <unittitle>Photo album (black cover)</unittitle>
-                        <container id="cid17464006" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid17464006" type="Photo-Album">A</container>
-                        <unitdate>Undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref81" level="item">
-                    <did>
-                        <unittitle>Photo album (red cover)</unittitle>
-                        <container id="cid17464007" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid17464007" type="Photo-Album">B</container>
-                        <unitdate>Undated</unitdate>
                     </did>
                 </c>
                 <c id="ref70" level="file">

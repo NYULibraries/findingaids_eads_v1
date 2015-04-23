@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1978_121_better_brooklyn_committee</eadid>
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_121_better_brooklyn_committee.html">arms_1978_121_better_brooklyn_committee</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Better Brooklyn Committee records
@@ -25,7 +25,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-17T16:36-0500</date>
+                <date>2014-09-26T13:30-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
@@ -43,10 +43,11 @@
             </langmaterial>
             <container id="cid941003" type="Box" label="Text">A0083</container>
             <physdesc>
-                <extent>0.1 Linear feet</extent>
+                <extent>0.1 linear feet</extent>
                 <extent>in one folder</extent>
             </physdesc>
             <unitdate normal="1963/1967" type="inclusive">1963-1967</unitdate>
+            <abstract id="ref8" label="Abstract">The Better Brooklyn Committee records include correspondence, memorabilia, minutes, pamphlets, partial list of supporters, lists of candidates, and recipients of Brooklyn Hall of Fame and College Student Awards. The records also include two photographs, portraits of Charles Isaacs (L.I.U. Brooklyn Center) and F.W. Richmond.</abstract>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Better Brooklyn Committee.</corpname>
             </origination>
@@ -65,19 +66,22 @@
         </bioghist>
         <scopecontent id="ref2">
             <head>Scope and Contents note</head>
-            <p>The Better Brooklyn Committee records include correspondence, memorabilia, minutes, pamphlets, partial list of supporters, lists of candidates, and recipients of Brooklyn Hall of Fame and College Student Awards.</p>
+            <p>The Better Brooklyn Committee records include correspondence, memorabilia, minutes, pamphlets, partial list of supporters, lists of candidates, and recipients of Brooklyn Hall of Fame and College Student Awards.The records also include two photographs, portraits of Charles Isaacs (L.I.U. Brooklyn Center) and F.W. Richmond.</p>
         </scopecontent>
         <accessrestrict id="ref1">
             <head>Conditions Governing Access note</head>
             <p>Open to users without restriction.</p>
         </accessrestrict>
         <controlaccess>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Long Island University.</corpname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
             <subject source="lcsh">Charities |z New York (State) |z Kings County</subject>
             <genreform source="aat">Correspondence</genreform>
             <genreform source="aat">Lists (document genres)</genreform>
             <genreform source="aat">Memorabilia</genreform>
             <genreform source="aat">Pamphlets</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Portraits</genreform>
             <subject source="lcsh">Scholarships |z New York (State) |z Kings County</subject>
         </controlaccess>
         <dsc/>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/v1997_023_dudley_buck">v1997_023_dudley_buck</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Dudley Buck portraits
+                    <num>V1997.023</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-10-21T16:23-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Dudley Buck portraits</unittitle>
+            <unitid>V1997.023</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1250002" type="Box" label="Graphic materials">Prints by Accession - 83</container>
+            <physdesc>
+                <extent>0.01 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1890/1910" type="inclusive">circa 1900</unitdate>
+            <abstract id="ref1" label="Abstract">Two portraits of composer-organist Dudley Buck, circa 1900. Both portraits are mounted on board. One is autographed by Buck.</abstract>
+        </did>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Dudley Buck portraits, V1997.023, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Immediate source of acquisition unknown. Accessioned in 1997.</p>
+        </acqinfo>
+        <bioghist id="ref2">
+            <head>Biographical note</head>
+            <p>Dudley Buck was born in Hartford, Connecticut, on March 19, 1839. He served as a church organist and touring concert organist for many years. In 1875, he moved to New York. Two years later, Buck assumed the position of organist/choirmaster at Brooklyn's Church of the Holy Trinity. In the same year, he began his tenure as founding director of the Brooklyn Apollo Club's male chorus. In 1898, Buck was honored by election to the National Institute of Arts and Letters. Eleven years later, on October 6, 1909, the composer died at the age of 70.</p>
+            <p>-- from the 
+                <extref ns2:href="http://memory.loc.gov/diglib/ihas/loc.natlib.ihas.200153247/default.html">Library of Congress Performing Arts Encyclopedia</extref></p>
+        </bioghist>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Portraits are assumed to be in the public domain by 2021.</p>
+        </userestrict>
+        <relatedmaterial id="ref7">
+            <head>Related Archival Materials note</head>
+            <p>BHS holds the following related collections:</p>
+            <p>Apollo Club of Brooklyn minute book (2000.016)</p>
+            <p>Apollo Club of Brooklyn programs (ARC.144)</p>
+            <p>Church of the Holy Trinity collection (1986.025)</p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname source="local">Apollo Club of Brooklyn (Brooklyn, New York, N.Y.).</corpname>
+            <persname rules="local" source="Library_of_Congress_Name_Authority_File">Buck, Dudley, 1839-1909</persname>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Church of the Holy Trinity (Brooklyn, New York, N.Y.).</corpname>
+            <subject source="lcsh">Composers |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Organists |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Portraits</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

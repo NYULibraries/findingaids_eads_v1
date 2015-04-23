@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2002_020_boys_and_ps247_photos">arms_2002_020_boys_and_ps247_photos</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Boys' High School and PS 247 class photographs
+                    <num>2002.020</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>March 2015</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-03-19T16:38-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Boys' High School and PS 247 class photographs</unittitle>
+            <unitid>2002.020</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1274002" type="Cabinet" label="Graphic materials">Flat File B - Drawer 4</container>
+            <physdesc>
+                <extent>0.1 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1928/1948" type="inclusive">1928, 1948</unitdate>
+            <abstract id="ref2" label="Abstract">Two Brooklyn school class photographs, Boys' High School class of 1928 and PS 247 class of 1948.</abstract>
+        </did>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <relatedmaterial id="ref6">
+            <head>Related Archival Materials note</head>
+            <p>Boys’ High School register and publications, 1892-1943 (ARC.123)</p>
+            <p>Brody family papers, 1927-2001 (2014.005)</p>
+        </relatedmaterial>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Boys' High School and PS 247 class photographs, 2002.020, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Lucille Wright, 2002.</p>
+        </acqinfo>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>The Boys' High School class photograph will enter the public domain by 2048. The PS 247 class photograph will enter the public domain in June 2068.</p>
+        </userestrict>
+        <controlaccess>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Boys' High School (Brooklyn, New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">P.S. 247 (Brooklyn, New York, N.Y.).</corpname>
+            <persname rules="dacs" source="local" role="Donor (dnr)">Wright, Lucille</persname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">Public schools |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Schools |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Students |z New York (State) |z Kings County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

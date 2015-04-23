@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_024/">wag_024</eadid>
         <filedesc>
             <titlestmt>
@@ -25,11 +25,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-10-30T14:48-0400</date>
+                <date>2014-08-05T16:22-0400</date>
             </creation>
-            <langusage>Finding aid is in English</langusage>
+            <langusage>Description is in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>August 2014</date>
+                <item>Edited by Maggie Schreiner to reflect updated administrative information</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -43,24 +49,23 @@
             </langmaterial>
             <physdesc>
                 <extent>20.5 linear feet</extent>
-                <extent>in 21 boxes</extent>
+                <extent>in 21 boxes.</extent>
             </physdesc>
             <unitdate normal="1970/1999" type="bulk">Bulk, 1970-1999</unitdate>
             <unitdate normal="1937/2007" type="inclusive">1937-2007, (Bulk 1970-1999)</unitdate>
-            <abstract id="ref3" label="Abstract">The Civil Service Technical Guild (American Federation of State, County and Municipal Employees, Local 375) was organized in 1937. It represents engineers, architects, chemists, and technical inspectors employed by the City of New York; employees of various City departments are organized into separate chapters, each with its own officers. The Guild has fought against “farming out” of city contracts to private firms, has won expanded benefits for its members, has opposed political patronage in hiring and has supported reform of the City’s Civil Service examination and job classification systems. This comprehensive collection of union records was donated by former Guild presidents, Philip Brueck, Alexander Lurkis, Joseph Collins and Louis Albano, as well as by individual Guild members. 
-                <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></abstract>
+            <abstract id="ref3" label="Abstract">The Civil Service Technical Guild (American Federation of State, County and Municipal Employees, Local 375) was organized in 1937. It represents engineers, architects, chemists, and technical inspectors employed by the City of New York; employees of various City departments are organized into separate chapters, each with its own officers. The Guild has fought against “farming out” of city contracts to private firms, has won expanded benefits for its members, has opposed political patronage in hiring and has supported reform of the City’s Civil Service examination and job classification systems. This comprehensive collection of union records was donated by former Guild presidents, Philip Brueck, Alexander Lurkis, Joseph Collins and Louis Albano, as well as by individual Guild members.</abstract>
+            <physloc id="ref599" label="Location note">Materials stored offsite and advance notice required for use. Please contact tamiment.wagner@library.nyu.edu at least two business days prior to research visit.</physloc>
             <origination label="creator">
-                <corpname source="naf">Civil Service Technical Guild.</corpname>
+                <corpname rules="dacs" source="naf">Civil Service Technical Guild.</corpname>
             </origination>
         </did>
         <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>The records of the Civil Service Technical Guild were assembled by the union in cooperation with the Robert F. Wagner Labor Archives, NYU during an oral history project initiated in 1984 in preparation for the Guild`s fiftieth anniversary. In the absence of a body of official union records, items were donated from the private collections of the following officers and members: Philip Brueck, President 1938-1955, Alexander Lurkis, President 1956-1958, Bill Goldsborough, William Malloy, Joseph Collins, President 1958-1972, Louis Albano, President 1981-1998, David Jacobson, James Parker, Eleanor Eastman, David Sedacca, and Harold Haldorsen.</p>
+            <head>Custodial History note</head>
+            <p>The records of the Civil Service Technical Guild were assembled by the union in cooperation with the Robert F. Wagner Labor Archives, NYU during an oral history project initiated in 1984 in preparation for the Guild`s fiftieth anniversary. In the absence of a body of official union records, items were donated from the private collections of the following officers and members: Philip Brueck, President 1938-1955, Alexander Lurkis, President 1956-1958, Bill Goldsborough, William Malloy, Joseph Collins, President 1958-1972, Louis Albano, President 1981-1998, David Jacobson, James Parker, Eleanor Eastman, David Sedacca, and Harold Haldorsen. The accession number associated with these materials is 1984.009. Additional materials were later donated by Louis Albano. The accession number associated with these materials is 2012.078.</p>
         </custodhist>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
-            <p>Open for research without restrictions. 
-                <emph render="bold">NOTE: This collection is housed offsite and advance notice is required for use.</emph></p>
+            <p>Open for research without restrictions.</p>
         </accessrestrict>
         <bioghist id="ref8">
             <head>Historical/Biographical Note</head>
@@ -100,6 +105,10 @@
             <p>
                 <emph render="bold">Series X: Women's Committee, 1985-2007</emph>. Contains publicity material for events sponsored by the committee as well as documentation of the founding of the committee, finances, and correspondence.</p>
         </scopecontent>
+        <processinfo id="ref597">
+            <head>Processing Information note</head>
+            <p>In 2014, the archived websites were added as Series XII.</p>
+        </processinfo>
         <arrangement id="ref10">
             <head>Arrangement</head>
             <p>Series I-IV and VI are arranged chronologically; other series are arranged alphabetically by topic.</p>
@@ -115,37 +124,27 @@
                 <item>VIII, General Files</item>
                 <item>IX, Newsletters, Bulletins and Clippings</item>
                 <item>X, Women's Committee</item>
+                <item>XI, Unprocessed Material</item>
+                <item>XII, Archived Website</item>
             </list>
         </arrangement>
         <relatedmaterial id="ref13">
             <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>
-                <archref>
-                    <extref ns2:href="http://dlib.nyu.edu/eadapp/transform?source=tamwag/cwa_1180.xml&amp;style=tamwag/tamwag.xsl">Records of Communications Workers of America, Local 1180 (Wagner 63).</extref> </archref></p>
+            <p>Communications Workers of America, Local 1180 (WAG 063)</p>
         </relatedmaterial>
         <separatedmaterial id="ref14">
             <head>Separated Material</head>
-            <p>
-                <archref>
-                    <extref ns2:href="http://dlib.nyu.edu/eadapp/transform?source=tamwag/np12_cstg.xml&amp;style=tamwag/tamwag.xsl">Civil Service Technical Guild Photographs (Phototgraphs 12) </extref> </archref></p>
+            <p>Photographs were separated to Civil Service Technical Guild Photographs (PHOTOS 012)</p>
         </separatedmaterial>
         <userestrict id="ref559">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
+            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by the Civil Service Technical Guild are held by the Civil Service Technical Guild. Permission to publish or reproduce materials to which the union holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting the Civil Service Technical Guild.</p>
         </userestrict>
         <prefercite id="ref560">
             <head>Preferred Citation</head>
             <p>Published citations should take the following form: 
                 <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Identification of item, date; Civil Service Technical Guild Records; WAG 024; box number; folder number; 
                 <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
                 <lb/>Elmer Holmes Bobst Library 
                 <lb/>70 Washington Square South 
@@ -156,7 +155,7 @@
             <persname source="local">Albano, Louis.</persname>
             <persname source="local">Brueck, Philip</persname>
             <corpname source="local">Civil Service Forum (New York, N.Y.).</corpname>
-            <corpname source="naf">Civil Service Technical Guild.</corpname>
+            <corpname rules="dacs" source="naf">Civil Service Technical Guild.</corpname>
             <persname source="ingest">Collins, Joseph.</persname>
             <persname source="local">Commer, Roy</persname>
             <persname source="ingest">Izzo, Richard.</persname>
@@ -4772,6 +4771,21 @@
                         <container id="cid20862001" type="Box" label="Mixed materials">19-21</container>
                     </did>
                 </c>
+            </c>
+            <c id="ref595" level="series">
+                <did>
+                    <unittitle>Series XII: Archived Website</unittitle>
+                    <unitdate>Mar 5, 2009-ongoing</unitdate>
+                </did>
+                <scopecontent id="ref598">
+                    <head>Scope and Content Note</head>
+                    <p>The Civil Service Technical Guild (Local 375, DC 37), founded in 1929, represents 7,000 engineers, architects, scientists, chemists, planners, and other technical inspectors working for the City of New York. The guild’s goals include the prevention of the outsourcing city contracts, fighting for the adherence to civil service laws, enforcing contracts, and fighting privatization. The union is affiliated with the ASFCME and the AFL-CIO. The website contains news listings, their newsletter, Local 375 Update, event listings, contracts, and job descriptions.</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Archived Website" ns2:role="service" ns2:href="http://webarchives.cdlib.org/site/sw1fx73z5r">
+                    <daodesc>
+                        <p>Archived Website, Mar 5, 2009-ongoing </p>
+                    </daodesc>
+                </dao>
             </c>
         </dsc>
     </archdesc>

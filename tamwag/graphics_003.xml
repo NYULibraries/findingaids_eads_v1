@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">graphics_003</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/graphics_003/">graphics_003</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Charters and Certificates of Affiliation Collection
@@ -21,10 +21,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-10-02T18:05-0400</date>
+                <date>2014-09-03T11:04-0400</date>
             </creation>
             <langusage>Description is in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>August 2014</date>
+                <item>Edited by Maggie Schreiner to reflect updated administrative information</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -37,8 +44,8 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>1.0 linear feet</extent>
-                <extent>(27 items)</extent>
+                <extent>3.0 linear feet</extent>
+                <extent>in 2 oversize boxes and 1 flat-file folder</extent>
             </physdesc>
             <unitdate normal="1888/1986" type="inclusive">1888-1986</unitdate>
             <langmaterial id="ref30" label="Language of Materials note">Materials are in English</langmaterial>
@@ -50,24 +57,16 @@
         </accessrestrict>
         <userestrict id="ref29">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
+            <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
         </userestrict>
         <bioghist id="ref36">
             <head>Historical/Biographical Note</head>
             <p>The Tamiment Library, New York University, a special collection documenting the history of United States radicalism, labor, and progressive social action, accumulated this artificial collection of charters and certificates gradually over the years.</p>
         </bioghist>
-        <custodhist id="ref35">
-            <head>Provenance</head>
-            <p>The provenance of the material in the collection is varied. Generally the charters and certificates of affiliation were pulled out of manuscript collections at the Tamiment Library.</p>
-        </custodhist>
+        <acqinfo id="ref35">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Materials found in repository; provenance is unknown. Materials were likely separated from manuscript collections at the Tamiment Library. The following accession numbers are associated with this collection: 1950.255, NPA.1995.010, NPA.2000.033, NPA.2003.076, NPA.2005.248, NPA.2006.065, NPA.2006.069, NPA.2006.071, NPA.2008.003 and NPA.2009.003.</p>
+        </acqinfo>
         <arrangement id="ref34">
             <head>Arrangement</head>
             <p>The Collection is arranged into two Series divided based on size. Items are arranged alphabetically.</p>
@@ -84,7 +83,7 @@
             <head>Preferred Citation</head>
             <p>Published citations should take the following form: 
                 <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+                <lb/>Identification of item, date; Charters and Certificates of Affiliation Collection; GRAPHICS 003; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
         </prefercite>
         <relatedmaterial id="ref39">
             <head>Related Archival Material</head>
@@ -95,7 +94,7 @@
             <p>Young People's Socialist League Records (TAM 309)</p>
         </relatedmaterial>
         <controlaccess>
-            <corpname source="naf">AFSCME.</corpname>
+            <corpname rules="dacs" source="naf">AFSCME.</corpname>
             <corpname source="naf">American Guild of Variety Artists.</corpname>
             <corpname source="naf">Associated Actors and Artistes of America.</corpname>
             <corpname source="local">Communications Workers of America. Local 1153 (Valhalla, N.Y.).</corpname>
@@ -105,7 +104,7 @@
             <corpname source="naf">Screen Actors Guild.</corpname>
             <corpname rules="aacr" source="naf">United Brotherhood of Carpenters and Joiners of America.</corpname>
             <corpname source="naf">United Hebrew Trades.</corpname>
-            <corpname source="naf">Young People's Socialist League.</corpname>
+            <corpname rules="dacs" source="naf">Young People's Socialist League.</corpname>
             <genreform source="aat">Certificates.</genreform>
             <genreform source="aat">Charters.</genreform>
             <subject source="lcsh">Trade unions |z United States.</subject>
@@ -210,6 +209,14 @@
                         <container id="cid21422024" type="Box" label="Mixed materials">1</container>
                         <container parent="cid21422024" type="Folder">2</container>
                         <unitdate normal="1968/1968">1968</unitdate>
+                    </did>
+                </c>
+                <c id="ref41" level="file">
+                    <did>
+                        <unittitle>New York City Central Labor Council: Certificate of Affiliation</unittitle>
+                        <container id="cid23199001" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid23199001" type="Folder">6</container>
+                        <unitdate normal="1959/1959">circa 1959</unitdate>
                     </did>
                 </c>
                 <c id="ref22" level="item">

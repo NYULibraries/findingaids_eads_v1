@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_662_hooper</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_662_hooper.html">arms_1977_662_hooper</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the John Hooper lecture transcription
@@ -25,11 +25,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-17T11:36-0500</date>
+                <date>2015-03-17T11:03-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2015</date>
+                <item>Revised by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -43,7 +49,7 @@
             </langmaterial>
             <container id="cid907008" type="Box" label="Text">A0073</container>
             <physdesc>
-                <extent>0.1 Linear feet</extent>
+                <extent>0.1 linear feet</extent>
                 <extent>in one folder</extent>
             </physdesc>
             <unitdate normal="1865/1865">1865</unitdate>
@@ -65,13 +71,19 @@
             <head>Preferred Citation</head>
             <p>Identification of item, date (if known); John Hooper lecture transcription, 1977.662, Box and Folder number; Brooklyn Historical Society.</p>
         </prefercite>
+        <relatedmaterial id="ref6">
+            <head>Related Archival Materials note</head>
+            <p>Robert B. Lawrence scrapbooks (1977.155)</p>
+        </relatedmaterial>
         <controlaccess>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Historical Society (Brooklyn, New York, N.Y.).</corpname>
+            <persname rules="dacs" source="local">Hooper, John</persname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Long Island Historical Society.</corpname>
             <subject source="lcsh">Birds |z New York (State) |z Long Island</subject>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
             <genreform source="aat">Lecture notes</genreform>
             <subject source="lcsh">Lectures and lecturing |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Long Island (N.Y.)</geogname>
             <genreform source="aat">Transcripts</genreform>
         </controlaccess>
         <dsc/>
