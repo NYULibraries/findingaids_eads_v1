@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_025_001</eadid>
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_025_001/">wag_025_001</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to the Jewish Labor Committee Records, Part I: Holocaust Era Files
+                <titleproper>Guide to the Jewish Labor Committee Records, Part I
                     <num>WAG.025.001</num>
                 </titleproper>
                 <author>Finding aid prepared by Gail Malmgreen, Karl Dunkel, Ethel Lobman, et al., 1990-1996.</author>
@@ -12,31 +12,37 @@
                 <p>This version was derived from jlc part 1 template.doc</p>
             </editionstmt>
             <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
                 <address>
                     <addressline>Elmer Holmes Bobst Library</addressline>
                     <addressline>70 Washington Square South</addressline>
                     <addressline>New York, NY, 10012</addressline>
                     <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                    <addressline>tamiment.wagner@library.nyu.edu</addressline>
                 </address>
                 <date>2009</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-06-01T10:51-0400</date>
+                <date>2014-08-07T12:02-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>August 2014</date>
+                <item>Edited by Nicole Greenhouse to reflect updated administrtive information.</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
-            <unittitle>Jewish Labor Committee (U.S.) Records, Part I: Holocaust Era Files</unittitle>
+            <unittitle>Jewish Labor Committee Records, Part I</unittitle>
             <unitid>WAG.025.001</unitid>
             <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
+                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -51,13 +57,17 @@
                 <corpname source="naf">Jewish Labor Committee (U.S.).</corpname>
             </origination>
         </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>The Jewish Labor Committee (U.S.) records were donated to the Tamiment Library/Robert F. Wagner Labor Archives, through an agreement by JLC Executive Director Martin Lapan, in 1984. The first shipment of records came to the archives in early 1985. A number of additions to the collection have been made by the JLC over the years. Some printed material was transferred to the Library after microfilming, and deteriorated clippings scrapbooks were not retained after filming)</p>
-        </custodhist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The first shipment of the Jewish Labor Committee Records arrived at the Tamiment Library in 1984. The accession numbers associated with these donations are 1984.002 and 1984.006. A number of addition donations to the collection have been made by the JLC and its individual members over the years.</p>
+        </acqinfo>
+        <altformavail id="ref4039">
+            <head>Existence and Location of Copies note</head>
+            <p>Microfilm copy available; researchers must use microfilm in the Tamiment reading room (Call Number R-7015).</p>
+        </altformavail>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
-            <p>Open for research without restrictions. Note: Microfilm copy available; Tamiment Reel numbers R7015/1-168; researchers must use microfilm, and should order reels by Tamiment microfilm series number (7015) and individual reel number.</p>
+            <p>Open for research without restrictions.</p>
         </accessrestrict>
         <bioghist id="ref8">
             <head>Historical/Biographical Note</head>
@@ -143,39 +153,43 @@
         </arrangement>
         <relatedmaterial id="ref4032">
             <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>Records of the Jewish Labor Committee (U.S.), Part II, Holocaust Era Records, 1947-1956 (WAG 025.2) Recorss of the Jewish Labor Committee (U.S.), Part III, Administrative Files and Anti-Discrimination Files, 1945-1993 (WAG 025.3) Papers of Julius Bernstein (WAG 116) Papers of Edward S. Goldstein: Jewish Labor Committee Research Files (WAG 232) Records of the Jewish Labor Committee, Boston (WAG 159) 
-                <archref>
-                    <extref ns2:href="http://dlib.nyu.edu/eadapp/transform?source=tamwag/jlc_2003.xml&amp;style=tamwag/tamwag.xsl">Records of the Jewish Labor Committee, Chicago (WAG 160)</extref> </archref> Jewish Labor Committee (U.S.) Oral History Collection (OH 027) 
-                <archref>
-                    <extref ns2:href="http://dlib.nyu.edu/eadapp/transform?source=tamwag/minkoff.xml&amp;style=tamwag/tamwag.xsl">Papers of Isaiah Minkoff (WAG 086)</extref> </archref>
-                <archref>
-                    <extref ns2:href="http://dlib.nyu.edu/eadapp/transform?source=tamwag/pat.xml&amp;style=tamwag/tamwag.xsl">Papers of Jacob Pat (WAG 127)</extref> </archref>
-                <archref>
-                    <extref ns2:href="http://dlib.nyu.edu/eadapp/transform?source=tamwag/vladeck.xml&amp;style=tamwag/tamwag.xsl">Papers of Baruch Charney Vladeck (TAM 037)</extref> </archref>
-                <archref>
-                    <extref ns2:href="http://www.nyu.edu/library/bobst/collections/exhibits/tam/JLC/opener.html">Jewish Labor and the Holocaust</extref>," a web exhibit based on the JLC records and featuring more than 100 graphics from the collection.</archref></p>
+            <p>The following Jewish Labor Committee materials are located at this repository:</p>
+            <p>Jewish Labor Committee (U.S.) Records, Part I (WAG 025.001)</p>
+            <p>Jewish Labor Committee (U.S.) Records, Part II (WAG 025.002)</p>
+            <p>Jewish Labor Committee, Boston Records (WAG 159)</p>
+            <p>Jewish Labor Committee, Chicago Records (WAG 160)</p>
+            <p>Jewish Labor Committee (U.S.) Oral History Collection (OH 027)</p>
+            <p>Jewish Labor Committee (U.S.) Photograph Collection (PHOTOS 048)</p>
+            <p>Jewish Labor Committee Ephemera (EPHEMERA 003)</p>
+            <p>Issues of the JLC Review</p>
+            <p>Issues of JLC Outlook</p>
+            <p>Issues of the JLC Civil Rights Newsletter</p>
+            <p>JLC Biennial Convention Journals</p>
+            <p>The following related archival collections are also located at the Tamiment Library:</p>
+            <p>Ad Hoc Committee on the Human Rights and Genocide Treaties Records (WAG 037)</p>
+            <p>Julius Bernstein Papers (WAG 116)</p>
+            <p>Edward S. Goldstein: Jewish Labor Committee Research Files (WAG 232)</p>
+            <p>Isaiah Minkoff Papers (WAG 086)</p>
+            <p>Jacob Pat Papers (WAG 127)</p>
+            <p>Baruch Charney Vladeck Papers (TAM 037)</p>
+            <p>The records of the National Conference on Soviet Jewry and the National Jewish Community Relations Advisory</p>
+            <p>Council are located at the Center for Jewish History's American Jewish Historical Society in New York City.</p>
         </relatedmaterial>
         <separatedmaterial id="ref4033">
             <head>Separated Material</head>
-            <p>A large collection of photographs and other graphic material was separated to the Non-Print Department of the Tamiment Library. See Jewish Labor Committee Photograph Collection (NP 48).</p>
+            <p>During the processing work that occurred after 1985 through 2012, some materials from the Jewish Labor Committee Records were separated to other Tamiment Library collections. Photographs and other graphic material were separated to the partially processed Jewish Labor Committee (U.S.) Photographs (PHOTOS 048). Posters, artwork, artifacts, and other ephemera were separated to the unprocessed Jewish Labor Committee Ephemera (EPHEMERA 003) collection.</p>
+            <p>Also during this period, certain materials were separated to external institutions. A portion of materials from the JLC Records at the Tamiment Library were donated to the Center for Jewish History's American Jewish Historical Society in 1997. Throughout the 1990s, Tamiment donated approximately 300 audio tapes, mostly recordings of the JLC's radio broadcasts or of various JLC events, to the Center for Jewish History's YIVO Institute for Jewish Research. In 2009, Tamiment also donated to YIVO approximately 4 linear feet of Yiddish transcripts of the JLC's radio program, as well as family photographs of Martin Lapan, former Executive Director of the JLC. Eight volumes of Holocaust survivor lists, which were duplicated in the JLC records at Tamiment, were donated to the Museum of Jewish Heritage in 1990.</p>
+            <p>During the processing work that occurred in 2013 and 2014, significant runs of the JLC’s publications and the publications of other organizations collected by the JLC were separated for library cataloging. These publications are accessible via NYU's online catalog, BobCat.</p>
         </separatedmaterial>
         <userestrict id="ref4034">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: peter.filardo@nyu.edu 
-                <lb/></p>
+            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by the Jewish Labor Committee are held by the Jewish Labor Committee. Permission to publish or reproduce materials to which the organization holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting the Jewish Labor Committee.</p>
         </userestrict>
         <prefercite id="ref4035">
             <head>Preferred Citation</head>
             <p>Published citations should take the following form: 
                 <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Identification of item, date; Jewish Labor Committee (U.S.) Records, Part I: Holocaust Era Files; WAG 025.001; box number; folder number; 
                 <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
                 <lb/>Elmer Holmes Bobst Library 
                 <lb/>70 Washington Square South 
@@ -190,7 +204,7 @@
             <corpname source="naf">General Jewish Council (U.S.).</corpname>
             <persname source="ingest">Gierowitz, Natahn</persname>
             <persname source="ingest">Held, Adolph, 1885-1969.</persname>
-            <corpname source="naf">International Ladies' Garment Workers' Union.</corpname>
+            <corpname rules="dacs" source="naf">International Ladies' Garment Workers' Union.</corpname>
             <corpname source="naf">Jewish Labor Committee (U.S.). Atran Center for Jewish Culture.</corpname>
             <corpname source="naf">Jewish Labor Committee (U.S.).</corpname>
             <corpname source="ingest">Jewish Labor Committee, Chicago.</corpname>
@@ -201,15 +215,15 @@
             <persname source="naf">Pat, Jacob, 1890-1966.</persname>
             <corpname source="local">Roumanian Labor League.</corpname>
             <persname source="local">Tabachinsky, Benjamin</persname>
-            <persname source="naf">Vladeck, B. (Baruch), 1886-1938.</persname>
+            <persname rules="dacs" source="naf">Vladeck, B. (Baruch), 1886-1938.</persname>
             <corpname source="naf">Workmen's Circle/Arbeter Ring.</corpname>
             <subject source="lcsh">Anti-fascist movements |z United States.</subject>
-            <genreform source="aat">Clippings (information artifacts).</genreform>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
             <subject source="lcsh">Concentration camps.</subject>
             <genreform source="aat">Correspondence.</genreform>
             <genreform source="aat">Fliers (printed matter)</genreform>
             <geogname source="lcsh">France |x History |y 20th century.</geogname>
-            <geogname source="lcsh">France.</geogname>
+            <geogname source="tgn">France.</geogname>
             <geogname source="lcsh">Germany.</geogname>
             <subject source="lcsh">Holocaust, Jewish (1939-1945)</subject>
             <subject source="lcsh">Jewish labor unions.</subject>
@@ -218,7 +232,7 @@
             <geogname source="lcsh">New York (N.Y.)</geogname>
             <genreform source="aat">Newsletters.</genreform>
             <geogname source="lcsh">Poland |x History |y 1918-1945.</geogname>
-            <geogname source="lcsh">Poland.</geogname>
+            <geogname source="tgn">Poland.</geogname>
             <subject source="lcsh">Refugee camps.</subject>
             <genreform source="aat">Reports.</genreform>
             <geogname source="lcsh">Sweden |x History |y 20th century.</geogname>

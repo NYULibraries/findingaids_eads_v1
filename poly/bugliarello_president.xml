@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid>bugliarello_president</eadid>
+        <eadid countrycode="US">bugliarello_president</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Administrative Papers of President George Bugliarello
@@ -9,37 +9,38 @@
                 <author>Finding aid prepared by Julianna Monjeau and Lindsay Anderberg</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>Archivist Toolkit</publisher>
+                <publisher>Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology</publisher>
+                <address>
+                    <addressline>Bern Dibner Library of Science and Technology</addressline>
+                    <addressline>5 MetroTech Center</addressline>
+                    <addressline>Brooklyn, New York, 11201</addressline>
+                    <addressline>718-260-3943</addressline>
+                    <addressline>archives@library.poly.edu</addressline>
+                </address>
                 <date>December 2012</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-11-26T12:25-0500</date>
+                <date>2014-04-03T15:37-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>November 2013</date>
-                <item></item>
-            </change>
-        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
             <unittitle>Guide to the Administrative Papers of the President George Bugliarello</unittitle>
             <unitid>RG.006</unitid>
             <repository>
-                <corpname>Archivist Toolkit</corpname>
+                <corpname>Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
                 <extent>59.0 Linear feet</extent>
-                <extent>(52 boxes)</extent>
+                <extent>(56 boxes)</extent>
             </physdesc>
             <unitdate normal="1973/1994" type="bulk">Bulk, 1973-1994</unitdate>
             <unitdate normal="1952/1997" type="inclusive">1973-1994</unitdate>
@@ -74,6 +75,7 @@
                 <item>Photographs</item>
                 <item>Early Career</item>
                 <item>Addendum</item>
+                <item>Addendum II</item>
             </list>
         </arrangement>
         <custodhist id="ref1861">
@@ -100,7 +102,8 @@
         <prefercite id="ref1857">
             <head>Preferred Citation</head>
             <p>Please observe copyright restrictions. Permission to view materials does not confer permission to reproduce or publish. If material is quoted, please use the following citation format:</p>
-            <p>Title of document, date (volume, issue/number, page, if relevant); collection name; box number; folder number; Bern Dibner Library, NYU-Poly.</p>
+            <p>Published citations should take the following form:</p>
+            <p>Identification of item, date; RG-006: Administrative Papers of the President George Bugliarello; box number; folder number; Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology.</p>
         </prefercite>
         <otherfindaid id="ref2007">
             <head>Sponsor note</head>
@@ -12264,7 +12267,7 @@
             </c>
             <c id="ref7" level="series">
                 <did>
-                    <unittitle>Series V: Speeches &amp; Symposiums</unittitle>
+                    <unittitle>Series V: Speeches &amp; Symposia</unittitle>
                 </did>
                 <scopecontent id="ref20">
                     <head>Scope and Content Note</head>
@@ -12854,11 +12857,19 @@
                             <unitdate normal="1986/1986">1986 June 4</unitdate>
                         </did>
                     </c>
+                    <c id="ref2131" level="file">
+                        <did>
+                            <unittitle>Minneapolis Speech Notes (see folder 53)</unittitle>
+                            <container id="cid198001" type="Box" label="Text">40</container>
+                            <container parent="cid198001" type="Folder">54</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
                     <c id="ref1041" level="file">
                         <did>
                             <unittitle>Sal Nuzzo Dinner – Long Island, NY</unittitle>
                             <container id="cid7010" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7010" type="Folder">54</container>
+                            <container parent="cid7010" type="Folder">55</container>
                             <unitdate normal="1986/1986">1986 September </unitdate>
                         </did>
                     </c>
@@ -12866,7 +12877,7 @@
                         <did>
                             <unittitle>“Business, Industry and the University” – Erie, Pennsylvania</unittitle>
                             <container id="cid7011" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7011" type="Folder">55</container>
+                            <container parent="cid7011" type="Folder">56</container>
                             <unitdate normal="1986/1986">1986 October </unitdate>
                         </did>
                     </c>
@@ -12874,7 +12885,7 @@
                         <did>
                             <unittitle>Board Meeting / Retreat Address</unittitle>
                             <container id="cid7012" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7012" type="Folder">56</container>
+                            <container parent="cid7012" type="Folder">57</container>
                             <unitdate normal="1986/1986">1986 October 30-November 1</unitdate>
                         </did>
                     </c>
@@ -12882,7 +12893,7 @@
                         <did>
                             <unittitle>“Lo Spazio Dell’ingegneria Nella Scienza Moderna” Conference – Torino, Italy</unittitle>
                             <container id="cid7014" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7014" type="Folder">57</container>
+                            <container parent="cid7014" type="Folder">58</container>
                             <unitdate normal="1987/1987">1987 October </unitdate>
                         </did>
                     </c>
@@ -12890,7 +12901,7 @@
                         <did>
                             <unittitle>“The Future of Science” – Achievement Rewards for College Scientists (ARCS) – Hotel Pierre, New York City</unittitle>
                             <container id="cid29096" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid29096" type="Folder">58</container>
+                            <container parent="cid29096" type="Folder">59</container>
                             <unitdate normal="1991/1991">1991 May 15</unitdate>
                         </did>
                     </c>
@@ -12898,7 +12909,7 @@
                         <did>
                             <unittitle>Third International Conference on Management of Technology – University of Miami</unittitle>
                             <container id="cid29097" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid29097" type="Folder">59</container>
+                            <container parent="cid29097" type="Folder">60</container>
                             <unitdate normal="1992/1992">1992 February 17-21</unitdate>
                         </did>
                     </c>
@@ -12906,7 +12917,7 @@
                         <did>
                             <unittitle>“Technology Transfer: A Socio-Technological Paradigm” – Presentation at the Symposium on Development and Transfer of Industry Technology – 20th Anniversary Celebration of the Industrial Technology Research Institute – Taipei, Taiwan</unittitle>
                             <container id="cid7021" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7021" type="Folder">60</container>
+                            <container parent="cid7021" type="Folder">61</container>
                             <unitdate normal="1993/1993">1993 July 6-7</unitdate>
                         </did>
                     </c>
@@ -12914,7 +12925,7 @@
                         <did>
                             <unittitle>“La Regione Giuliano- Dalmata – Una Veduta della sua storia e del Suo Futuro” – Al Convegno Internazionale Dell Associazione – New York</unittitle>
                             <container id="cid7028" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7028" type="Folder">61</container>
+                            <container parent="cid7028" type="Folder">62</container>
                             <unitdate normal="1993/1993">1993 September 5</unitdate>
                         </did>
                     </c>
@@ -12922,7 +12933,7 @@
                         <did>
                             <unittitle>“Bridge Between American and Italian Engineering Education &amp; Research” – Seminar – Polytechnic University</unittitle>
                             <container id="cid7029" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7029" type="Folder">62</container>
+                            <container parent="cid7029" type="Folder">63</container>
                             <unitdate normal="1993/1993">1993 September 21</unitdate>
                         </did>
                     </c>
@@ -12930,7 +12941,7 @@
                         <did>
                             <unittitle>“The Role of University, Industry and International Collaboration” – Seminar on Changing Characteristics of Science and Technology in International Development – National Research Council - Washington D.C.</unittitle>
                             <container id="cid7030" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7030" type="Folder">63</container>
+                            <container parent="cid7030" type="Folder">64</container>
                             <unitdate normal="1993/1993">1993 September 27</unitdate>
                         </did>
                     </c>
@@ -12938,7 +12949,7 @@
                         <did>
                             <unittitle>“The Role of Universities in Charting a Path” – Seminar on Changing Characteristics of Science and Technology in International Development – National Research Council – Washington, DC</unittitle>
                             <container id="cid7031" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7031" type="Folder">64</container>
+                            <container parent="cid7031" type="Folder">65</container>
                             <unitdate normal="1993/1993">1993 October 2</unitdate>
                         </did>
                     </c>
@@ -12946,7 +12957,7 @@
                         <did>
                             <unittitle>“Thoughts on the Future of Science and Engineering” – Commencement Address, Illinois Institute of Technology</unittitle>
                             <container id="cid29098" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid29098" type="Folder">65</container>
+                            <container parent="cid29098" type="Folder">66</container>
                             <unitdate normal="1993/1993">1993 December 19</unitdate>
                         </did>
                     </c>
@@ -12954,7 +12965,7 @@
                         <did>
                             <unittitle>“The Future of Engineering” – Polytechnic University at Westchester</unittitle>
                             <container id="cid7033" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7033" type="Folder">66</container>
+                            <container parent="cid7033" type="Folder">67</container>
                             <unitdate normal="1994/1994">1994 February </unitdate>
                         </did>
                     </c>
@@ -12962,15 +12973,23 @@
                         <did>
                             <unittitle>Material for possible use in speeches</unittitle>
                             <container id="cid7037" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7037" type="Folder">67</container>
+                            <container parent="cid7037" type="Folder">68</container>
                             <unitdate normal="1978/1989" type="inclusive">1978-1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2132" level="file">
+                        <did>
+                            <unittitle>Commencement</unittitle>
+                            <container id="cid198002" type="Box" label="Text">40</container>
+                            <container parent="cid198002" type="Folder">69</container>
+                            <unitdate>undated</unitdate>
                         </did>
                     </c>
                     <c id="ref1766" level="file">
                         <did>
                             <unittitle>“Computer and Soviet Society” – New School for Social Research</unittitle>
                             <container id="cid29099" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid29099" type="Folder">68</container>
+                            <container parent="cid29099" type="Folder">70</container>
                             <unitdate>Undated</unitdate>
                         </did>
                     </c>
@@ -12978,7 +12997,7 @@
                         <did>
                             <unittitle>"How Science and Engineering Operate"</unittitle>
                             <container id="cid7034" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7034" type="Folder">69</container>
+                            <container parent="cid7034" type="Folder">71</container>
                             <unitdate>Undated</unitdate>
                         </did>
                     </c>
@@ -12986,7 +13005,7 @@
                         <did>
                             <unittitle>Overhead Projection Slides – Lectures</unittitle>
                             <container id="cid7036" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid7036" type="Folder">70</container>
+                            <container parent="cid7036" type="Folder">72</container>
                             <unitdate>Undated</unitdate>
                         </did>
                     </c>
@@ -13079,7 +13098,7 @@
             </c>
             <c id="ref10" level="series">
                 <did>
-                    <unittitle>Series VI: Publications and Manuscripts</unittitle>
+                    <unittitle>Series VI: Publications &amp; Manuscripts</unittitle>
                 </did>
                 <scopecontent id="ref19">
                     <head>Scope and Content Note</head>
@@ -15019,7 +15038,7 @@
                 <c id="ref2112" level="file">
                     <did>
                         <unittitle>Miscellaneous</unittitle>
-                        <container id="cid196003" type="Box" label="Text">44,1</container>
+                        <container id="cid196003" type="Box" label="Text">44.1</container>
                         <container parent="cid196003" type="Folder">29</container>
                         <unitdate>1967-1995, undated</unitdate>
                     </did>
@@ -15796,6 +15815,735 @@
                         <container id="cid135003" type="Box" label="Mixed materials">49</container>
                         <unitdate>Undated</unitdate>
                     </did>
+                </c>
+            </c>
+            <c id="ref2121" level="series">
+                <did>
+                    <unittitle>Series XII: Addendum II</unittitle>
+                </did>
+                <arrangement id="ref2136">
+                    <head>Arrangement note</head>
+                    <p>The arrangement of this series mirrors the arrangement of the previous series in the collection, with subseries as follows:</p>
+                    <list numeration="upperalpha" type="ordered">
+                        <head>Arrangement</head>
+                        <item>MetroTech Center</item>
+                        <item>Vote of "No Confidence"</item>
+                        <item>Speeches &amp; Symposia</item>
+                        <item>Publications &amp; Notes</item>
+                        <item>Correspondence</item>
+                        <item>Clippings</item>
+                        <item>Polytechnic documents</item>
+                        <item>Memoranda, Newsletters, &amp; Brochures</item>
+                        <item>MetroTech model</item>
+                    </list>
+                </arrangement>
+                <scopecontent id="ref2122">
+                    <head>Scope and Contents note</head>
+                    <p>The additional material in this series was donated to the Poly Archives by Virginia Bugliarello on October 24, 2013. Some of the material was integrated into existing series within the collection, including Speeches &amp; Symposia, Publications &amp; Manuscripts, Correspondence, Clippings, and Photographs. The remainder of the additional material, which could not be integrated due to physical limitations, is in Addendum II.</p>
+                    <p>Virginia Bugliarello's donation letter for this additional material is in the first box (Box 50) of Addendum II.</p>
+                </scopecontent>
+                <c id="ref2124" level="subseries">
+                    <did>
+                        <unittitle>Subseries A: MetroTech Center</unittitle>
+                        <unitdate normal="1984/2004" type="inclusive">1984-2004</unitdate>
+                    </did>
+                    <c id="ref2137" level="file">
+                        <did>
+                            <unittitle>Donation letter to Virginia Bugliarello</unittitle>
+                            <container id="cid199001" type="Box" label="Text">50</container>
+                            <container parent="cid199001" type="Folder">1</container>
+                            <unitdate>2013 October 24</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2138" level="file">
+                        <did>
+                            <unittitle>Correspondence- George Bugliarello</unittitle>
+                            <container id="cid199002" type="Box" label="Text">50</container>
+                            <container parent="cid199002" type="Folder">2</container>
+                            <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2139" level="file">
+                        <did>
+                            <unittitle>Correspondence- MetroTech and donations</unittitle>
+                            <container id="cid199003" type="Box" label="Text">50</container>
+                            <container parent="cid199003" type="Folder">3</container>
+                            <unitdate normal="1978/1998" type="inclusive">1978-1998</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2140" level="file">
+                        <did>
+                            <unittitle>Speeches- Bugliarello</unittitle>
+                            <container id="cid199004" type="Box" label="Text">50</container>
+                            <container parent="cid199004" type="Folder">4</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2141" level="file">
+                        <did>
+                            <unittitle>MetroTech proposal, agreements, and fact sheet</unittitle>
+                            <container id="cid199005" type="Box" label="Text">50</container>
+                            <container parent="cid199005" type="Folder">5</container>
+                            <unitdate normal="1989/2007" type="inclusive">1989-2007</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2142" level="file">
+                        <did>
+                            <unittitle>MetroTech golden shovel invitation</unittitle>
+                            <container id="cid199006" type="Box" label="Text">50</container>
+                            <container parent="cid199006" type="Folder">6</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2143" level="file">
+                        <did>
+                            <unittitle>MetroTech publications</unittitle>
+                            <container id="cid199007" type="Box" label="Text">50</container>
+                            <container parent="cid199007" type="Folder">7</container>
+                            <unitdate normal="1992/1999" type="inclusive">1992-1999</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2144" level="file">
+                        <did>
+                            <unittitle>N.Y. Building Congress Leadership Awards and Park Ranking Index</unittitle>
+                            <container id="cid199008" type="Box" label="Text">50</container>
+                            <container parent="cid199008" type="Folder">8</container>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2145" level="file">
+                        <did>
+                            <unittitle>MetroTech Case Study</unittitle>
+                            <container id="cid199009" type="Box" label="Text">50</container>
+                            <container parent="cid199009" type="Folder">9</container>
+                            <unitdate normal="2004/2004">2004</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2146" level="file">
+                        <did>
+                            <unittitle>Notes- MetroTech: NY Response to Silicon Valley</unittitle>
+                            <container id="cid199010" type="Box" label="Text">50</container>
+                            <container parent="cid199010" type="Folder">10</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2147" level="file">
+                        <did>
+                            <unittitle>MetroTech and Tenopolis</unittitle>
+                            <container id="cid199011" type="Box" label="Text">50</container>
+                            <container parent="cid199011" type="Folder">11</container>
+                            <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2148" level="file">
+                        <did>
+                            <unittitle>Clippings- MetroTech</unittitle>
+                            <container id="cid199012" type="Box" label="Text">50</container>
+                            <container parent="cid199012" type="Folder">12</container>
+                            <unitdate normal="1989/1997" type="inclusive">1989-1997</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2149" level="file">
+                        <did>
+                            <unittitle>Clippings- Oversize</unittitle>
+                            <container id="cid199013" type="Box" label="Text">50</container>
+                            <container parent="cid199013" type="Folder">13</container>
+                            <unitdate normal="1985/1990" type="inclusive">1985-1990</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2150" level="file">
+                        <did>
+                            <unittitle>Newspapers</unittitle>
+                            <container id="cid199014" type="Box" label="Text">50</container>
+                            <container parent="cid199014" type="Folder">14</container>
+                            <unitdate normal="1982/1989" type="inclusive">1982-1989</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref2130" level="subseries">
+                    <did>
+                        <unittitle>Subseries B: Vote of "No Confidence"</unittitle>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                    <arrangement id="ref2151">
+                        <head>Arrangement note</head>
+                        <p>The folders follow the arrangement of the papers within an envelope labeled, "Vote of 'no confidence' 1989."</p>
+                    </arrangement>
+                    <c id="ref2152" level="file">
+                        <did>
+                            <unittitle>"A Caution on Unions"</unittitle>
+                            <container id="cid202001" type="Box" label="Text">51</container>
+                            <container parent="cid202001" type="Folder">1</container>
+                            <unitdate normal="1975/1975">1975</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2153" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid199015" type="Box" label="Text">51</container>
+                            <container parent="cid199015" type="Folder">2</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2154" level="file">
+                        <did>
+                            <unittitle>Tuition Increase- Commentary and reports</unittitle>
+                            <container id="cid199016" type="Box" label="Text">51</container>
+                            <container parent="cid199016" type="Folder">3</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2155" level="file">
+                        <did>
+                            <unittitle>"Resolution"</unittitle>
+                            <container id="cid199017" type="Box" label="Text">51</container>
+                            <container parent="cid199017" type="Folder">4</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2156" level="file">
+                        <did>
+                            <unittitle>Memoranda- Members of the Faculty and the Corporation</unittitle>
+                            <container id="cid199018" type="Box" label="Text">51</container>
+                            <container parent="cid199018" type="Folder">5</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2157" level="file">
+                        <did>
+                            <unittitle>George Bugliarello's Remarks and Annual Report</unittitle>
+                            <container id="cid199019" type="Box" label="Text">51</container>
+                            <container parent="cid199019" type="Folder">6</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2158" level="file">
+                        <did>
+                            <unittitle>Correspondence- Regarding Governor Carey</unittitle>
+                            <container id="cid199020" type="Box" label="Text">51</container>
+                            <container parent="cid199020" type="Folder">7</container>
+                            <unitdate normal="1974/1974">1974</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref2123" level="subseries">
+                    <did>
+                        <unittitle>Subseries C: Speeches &amp; Symposia</unittitle>
+                    </did>
+                    <c id="ref2159" level="file">
+                        <did>
+                            <unittitle>Commencement- First Year for Polytechnic Institute of New York (PINY)</unittitle>
+                            <container id="cid199021" type="Box" label="Text">51</container>
+                            <container parent="cid199021" type="Folder">8</container>
+                            <unitdate normal="1974/1974">1974</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2160" level="file">
+                        <did>
+                            <unittitle>Oral Statement by George Bugliarello before the Subcommittee on HUD</unittitle>
+                            <container id="cid200001" type="Box" label="Text">51</container>
+                            <container parent="cid200001" type="Folder">9</container>
+                            <unitdate>1989 May 4</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2161" level="file">
+                        <did>
+                            <unittitle>Caledonian Hospital</unittitle>
+                            <container id="cid200002" type="Box" label="Text">51</container>
+                            <container parent="cid200002" type="Folder">10</container>
+                            <unitdate>1989 June 2</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2162" level="file">
+                        <did>
+                            <unittitle>The Reward of Innovation</unittitle>
+                            <container id="cid200003" type="Box" label="Text">51</container>
+                            <container parent="cid200003" type="Folder">11</container>
+                            <unitdate>1990 January 5</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2163" level="file">
+                        <did>
+                            <unittitle>Commencement Address, Milwaukee School of Engineering</unittitle>
+                            <container id="cid200004" type="Box" label="Text">51</container>
+                            <container parent="cid200004" type="Folder">12</container>
+                            <unitdate>1991 November 23</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2164" level="file">
+                        <did>
+                            <unittitle>Confidential: I.O.R.C. Position Paper (draft, by Bugliarello)</unittitle>
+                            <container id="cid200005" type="Box" label="Text">51</container>
+                            <container parent="cid200005" type="Folder">13</container>
+                            <unitdate>circa 1975</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2165" level="file">
+                        <did>
+                            <unittitle>Regional Role of Engineering College Conference</unittitle>
+                            <container id="cid200006" type="Box" label="Text">51</container>
+                            <container parent="cid200006" type="Folder">14</container>
+                            <unitdate normal="1973/1973">1973</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2166" level="file">
+                        <did>
+                            <unittitle>Cornell Seminar</unittitle>
+                            <container id="cid200007" type="Box" label="Text">51</container>
+                            <container parent="cid200007" type="Folder">15</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2167" level="file">
+                        <did>
+                            <unittitle>Introduction to Newcomen Society</unittitle>
+                            <container id="cid200008" type="Box" label="Text">51</container>
+                            <container parent="cid200008" type="Folder">16</container>
+                            <unitdate>1975 September 18</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2168" level="file">
+                        <did>
+                            <unittitle>Interview with Jeff Newman</unittitle>
+                            <container id="cid200009" type="Box" label="Text">51</container>
+                            <container parent="cid200009" type="Folder">17</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2169" level="file">
+                        <did>
+                            <unittitle>Inauguration Speech Materials</unittitle>
+                            <container id="cid200010" type="Box" label="Text">51</container>
+                            <container parent="cid200010" type="Folder">18</container>
+                            <unitdate normal="1955/1974" type="inclusive">1955-1974</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2170" level="file">
+                        <did>
+                            <unittitle>Humanity 3000: Symposium No. 1 Proceedings</unittitle>
+                            <container id="cid200011" type="Box" label="Text">51</container>
+                            <container parent="cid200011" type="Folder">19</container>
+                            <unitdate normal="2000/2000">2000</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2171" level="file">
+                        <did>
+                            <unittitle>The University: How Neutral is Neutral?</unittitle>
+                            <container id="cid200012" type="Box" label="Text">51</container>
+                            <container parent="cid200012" type="Folder">20</container>
+                            <unitdate>1975 January 26</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2172" level="file">
+                        <did>
+                            <unittitle>Third Annual Clinical Engineering Symposium and Technical Exhibition</unittitle>
+                            <container id="cid200013" type="Box" label="Text">51</container>
+                            <container parent="cid200013" type="Folder">21</container>
+                            <unitdate>1987 October 7-9</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2173" level="file">
+                        <did>
+                            <unittitle>Speech notes, 1973</unittitle>
+                            <container id="cid200014" type="Box" label="Text">51</container>
+                            <container parent="cid200014" type="Folder">22</container>
+                            <unitdate>1973; undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2208" level="file">
+                        <did>
+                            <unittitle>Speech notes</unittitle>
+                            <container id="cid203001" type="Box" label="Text">51</container>
+                            <container parent="cid203001" type="Folder">23</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref2128" level="subseries">
+                    <did>
+                        <unittitle>Subseries D: Publications &amp; Notes</unittitle>
+                    </did>
+                    <c id="ref2174" level="file">
+                        <did>
+                            <unittitle>L'Aerazione dello Stramazzo Tipo</unittitle>
+                            <container id="cid200015" type="Box" label="Text">51</container>
+                            <container parent="cid200015" type="Folder">24</container>
+                            <unitdate normal="1951/1951">1951</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2175" level="file">
+                        <did>
+                            <unittitle>The Peripheral Plasma Layer in Pulsatile Flow in Hollow Glass Fibers</unittitle>
+                            <container id="cid200016" type="Box" label="Text">51</container>
+                            <container parent="cid200016" type="Folder">25</container>
+                            <unitdate normal="1969/1969">1969</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2176" level="file">
+                        <did>
+                            <unittitle>The New Engineering Education</unittitle>
+                            <container id="cid200017" type="Box" label="Text">51</container>
+                            <container parent="cid200017" type="Folder">26</container>
+                            <unitdate normal="1973/1973">1973</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2177" level="file">
+                        <did>
+                            <unittitle>LC Science Tracer Bulletin</unittitle>
+                            <container id="cid200018" type="Box" label="Text">51</container>
+                            <container parent="cid200018" type="Folder">27</container>
+                            <unitdate normal="1975/1975">1975</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2178" level="file">
+                        <did>
+                            <unittitle>Peace, Welfare and Security for Mankind through Educations</unittitle>
+                            <container id="cid200019" type="Box" label="Text">51</container>
+                            <container parent="cid200019" type="Folder">28</container>
+                            <unitdate normal="1975/1975">1975</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2179" level="file">
+                        <did>
+                            <unittitle>The City as an Adaptive Entity</unittitle>
+                            <container id="cid200020" type="Box" label="Text">51</container>
+                            <container parent="cid200020" type="Folder">29</container>
+                            <unitdate normal="1999/1999">1999</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2180" level="file">
+                        <did>
+                            <unittitle>Technological Innovation</unittitle>
+                            <container id="cid200021" type="Box" label="Text">51</container>
+                            <container parent="cid200021" type="Folder">30</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2181" level="file">
+                        <did>
+                            <unittitle>Technological Forecasting</unittitle>
+                            <container id="cid200022" type="Box" label="Text">51</container>
+                            <container parent="cid200022" type="Folder">31</container>
+                            <unitdate normal="1973/1973">1973</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2182" level="file">
+                        <did>
+                            <unittitle>Toward a Check List for Human Factors in Environmental Engineering</unittitle>
+                            <container id="cid200023" type="Box" label="Text">51</container>
+                            <container parent="cid200023" type="Folder">32</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2183" level="file">
+                        <did>
+                            <unittitle>Prospectives in Bioengineering Research for Civil Engineers</unittitle>
+                            <container id="cid200024" type="Box" label="Text">51</container>
+                            <container parent="cid200024" type="Folder">33</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2184" level="file">
+                        <did>
+                            <unittitle>Stochastic Simulation of Convective Diffusion in the Axial Plasmatic Gaps of Capillaries</unittitle>
+                            <container id="cid200025" type="Box" label="Text">51</container>
+                            <container parent="cid200025" type="Folder">34</container>
+                            <unitdate normal="1966/1966">1966</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2209" level="file">
+                        <did>
+                            <unittitle>Publications not by Bugliarello</unittitle>
+                            <container id="cid203002" type="Box" label="Text">51</container>
+                            <container parent="cid203002" type="Folder">35</container>
+                            <unitdate normal="1962/1984" type="inclusive">1962-1984</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2210" level="file">
+                        <did>
+                            <unittitle>Notes- Poly Endowment</unittitle>
+                            <container id="cid203003" type="Box" label="Text">51</container>
+                            <container parent="cid203003" type="Folder">36</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2211" level="file">
+                        <did>
+                            <unittitle>Notes- Nassau County Dinners</unittitle>
+                            <container id="cid203004" type="Box" label="Text">51</container>
+                            <container parent="cid203004" type="Folder">37</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2185" level="file">
+                        <did>
+                            <unittitle>Miscellaneous drafts and notes</unittitle>
+                            <container id="cid200026" type="Box" label="Text">51</container>
+                            <container parent="cid200026" type="Folder">38</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2186" level="file">
+                        <did>
+                            <unittitle>Comments on conference</unittitle>
+                            <container id="cid200027" type="Box" label="Text">51</container>
+                            <container parent="cid200027" type="Folder">39</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2187" level="file">
+                        <did>
+                            <unittitle>Miscellaneous notes, 1974</unittitle>
+                            <container id="cid200028" type="Box" label="Text">51</container>
+                            <container parent="cid200028" type="Folder">40</container>
+                            <unitdate normal="1974/1974">1974</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2188" level="file">
+                        <did>
+                            <unittitle>Miscellaneous notes</unittitle>
+                            <container id="cid200029" type="Box" label="Text">51</container>
+                            <container parent="cid200029" type="Folder">41</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2212" level="file">
+                        <did>
+                            <unittitle>Notes</unittitle>
+                            <container id="cid203005" type="Box" label="Text">51</container>
+                            <container parent="cid203005" type="Folder">42</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2213" level="file">
+                        <did>
+                            <unittitle>Notes</unittitle>
+                            <container id="cid203006" type="Box" label="Text">51</container>
+                            <container parent="cid203006" type="Folder">43</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2214" level="file">
+                        <did>
+                            <unittitle>Notes</unittitle>
+                            <container id="cid203007" type="Box" label="Text">51</container>
+                            <container parent="cid203007" type="Folder">44</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2215" level="file">
+                        <did>
+                            <unittitle>Notes</unittitle>
+                            <container id="cid203008" type="Box" label="Text">51</container>
+                            <container parent="cid203008" type="Folder">45</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2216" level="file">
+                        <did>
+                            <unittitle>Notebooks</unittitle>
+                            <container id="cid203009" type="Box" label="Text">51</container>
+                            <container parent="cid203009" type="Folder">46</container>
+                            <unitdate normal="1956/1956">1956</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref2127" level="subseries">
+                    <did>
+                        <unittitle>Subseries E: Correspondence</unittitle>
+                    </did>
+                    <c id="ref2189" level="file">
+                        <did>
+                            <unittitle>Correspondence, 1955</unittitle>
+                            <container id="cid201001" type="Box" label="Text">51</container>
+                            <container parent="cid201001" type="Folder">47</container>
+                            <unitdate normal="1955/1955">1955</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2190" level="file">
+                        <did>
+                            <unittitle>Correspondence, 1966</unittitle>
+                            <container id="cid201002" type="Box" label="Text">51</container>
+                            <container parent="cid201002" type="Folder">48</container>
+                            <unitdate normal="1966/1966">1966</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2191" level="file">
+                        <did>
+                            <unittitle>Correspondence, 1970s</unittitle>
+                            <container id="cid201003" type="Box" label="Text">51</container>
+                            <container parent="cid201003" type="Folder">49</container>
+                            <unitdate normal="1971/1979" type="inclusive">1971-1979</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2192" level="file">
+                        <did>
+                            <unittitle>Correspondence, 1981</unittitle>
+                            <container id="cid201004" type="Box" label="Text">51</container>
+                            <container parent="cid201004" type="Folder">50</container>
+                            <unitdate normal="1981/1981">1981</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2193" level="file">
+                        <did>
+                            <unittitle>Correspondence, 1990s</unittitle>
+                            <container id="cid201005" type="Box" label="Text">51</container>
+                            <container parent="cid201005" type="Folder">51</container>
+                            <unitdate normal="1991/1999" type="inclusive">1991-1999</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2194" level="file">
+                        <did>
+                            <unittitle>Correspondence, 2007</unittitle>
+                            <container id="cid201006" type="Box" label="Text">51</container>
+                            <container parent="cid201006" type="Folder">52</container>
+                            <unitdate normal="2007/2007">2007</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref2125" level="subseries">
+                    <did>
+                        <unittitle>Subseries F: Clippings</unittitle>
+                    </did>
+                    <c id="ref2196" level="file">
+                        <did>
+                            <unittitle>Clippings, 1970s</unittitle>
+                            <container id="cid201007" type="Box" label="Text">51</container>
+                            <container parent="cid201007" type="Folder">53</container>
+                            <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2197" level="file">
+                        <did>
+                            <unittitle>Clippings, Poly-Long Island</unittitle>
+                            <container id="cid201008" type="Box" label="Text">51</container>
+                            <container parent="cid201008" type="Folder">54</container>
+                            <unitdate normal="1975/1979" type="inclusive">1975-1979</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2198" level="file">
+                        <did>
+                            <unittitle>Clippings, 1980s</unittitle>
+                            <container id="cid201009" type="Box" label="Text">51</container>
+                            <container parent="cid201009" type="Folder">55</container>
+                            <unitdate normal="1982/1989" type="inclusive">1982-1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2199" level="file">
+                        <did>
+                            <unittitle>Clippings, 1990s</unittitle>
+                            <container id="cid201010" type="Box" label="Text">51</container>
+                            <container parent="cid201010" type="Folder">56</container>
+                            <unitdate normal="1990/1999" type="inclusive">1990-1999</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2200" level="file">
+                        <did>
+                            <unittitle>Clippings, 2000s</unittitle>
+                            <container id="cid201011" type="Box" label="Text">41</container>
+                            <container parent="cid201011" type="Folder">57</container>
+                            <unitdate normal="2007/2011" type="inclusive">2007-2011</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref2217" level="subseries">
+                    <did>
+                        <unittitle>Subseries G: Polytechnic documents</unittitle>
+                    </did>
+                    <c id="ref2218" level="file">
+                        <did>
+                            <unittitle>Student aid grant summary and Expenditure report</unittitle>
+                            <container id="cid203010" type="Box" label="Text">51</container>
+                            <container parent="cid203010" type="Folder">58</container>
+                            <unitdate normal="1973/1973">1973</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2219" level="file">
+                        <did>
+                            <unittitle>Application for reserach grant</unittitle>
+                            <container id="cid203011" type="Box" label="Text">51</container>
+                            <container parent="cid203011" type="Folder">59</container>
+                            <unitdate normal="1965/1965">1965</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2220" level="file">
+                        <did>
+                            <unittitle>Miscellaneous</unittitle>
+                            <container id="cid203012" type="Box" label="Text">51</container>
+                            <container parent="cid203012" type="Folder">60</container>
+                            <unitdate>1968-1975; undated</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref2126" level="subseries">
+                    <did>
+                        <unittitle>Subseries H: Memorada, Newsletters, &amp; Brochures</unittitle>
+                    </did>
+                    <c id="ref2201" level="file">
+                        <did>
+                            <unittitle>Memorada and News Releases</unittitle>
+                            <container id="cid201012" type="Box" label="Text">41</container>
+                            <container parent="cid201012" type="Folder">61</container>
+                            <unitdate normal="1990/1994" type="inclusive">1990-1994</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2202" level="file">
+                        <did>
+                            <unittitle>Newsletters</unittitle>
+                            <container id="cid201013" type="Box" label="Text">51</container>
+                            <container parent="cid201013" type="Folder">62</container>
+                            <unitdate normal="1974/1989" type="inclusive">1974-1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2203" level="file">
+                        <did>
+                            <unittitle>Conference Programs, 1960s</unittitle>
+                            <container id="cid201014" type="Box" label="Text">52</container>
+                            <container parent="cid201014" type="Folder">1</container>
+                            <unitdate normal="1965/1969" type="inclusive">1965-1969</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2204" level="file">
+                        <did>
+                            <unittitle>Conference Programs, 1970s</unittitle>
+                            <container id="cid203013" type="Box" label="Text">52</container>
+                            <container parent="cid203013" type="Folder">2</container>
+                            <unitdate normal="1972/1977" type="inclusive">1972-1977</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2205" level="file">
+                        <did>
+                            <unittitle>Conference Programs, 1980s</unittitle>
+                            <container id="cid203014" type="Box" label="Text">53</container>
+                            <container parent="cid203014" type="Folder">1</container>
+                            <unitdate normal="1987/1989" type="bulk">Bulk, 1987-1989</unitdate>
+                            <unitdate normal="1987/1999" type="inclusive">1987-1999</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2206" level="file">
+                        <did>
+                            <unittitle>Polytechnic Brochures and Commencement Programs</unittitle>
+                            <container id="cid203015" type="Box" label="Text">53</container>
+                            <container parent="cid203015" type="Folder">2</container>
+                            <unitdate normal="1975/2013" type="inclusive">1975-2013</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2207" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Brochures and Publications</unittitle>
+                            <container id="cid201015" type="Box" label="Text">54</container>
+                            <unitdate normal="1966/1997" type="inclusive">1966-1997</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref2134" level="subseries">
+                    <did>
+                        <unittitle>Subseries H: MetroTech model</unittitle>
+                    </did>
+                    <scopecontent id="ref2135">
+                        <head>Scope and Contents note</head>
+                        <p>The MetroTech model was commissioned by Forest City Ratner by Real Models, Inc. Atlanta. It is on loan from Virigina Bugliarello.</p>
+                    </scopecontent>
                 </c>
             </c>
         </dsc>

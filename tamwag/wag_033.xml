@@ -6,7 +6,7 @@
                 <titleproper>Guide to the Labor Theater Records
                     <num>WAG.033</num>
                 </titleproper>
-                <author>Finding aid prepared by Claire Freedman</author>
+                <author>Finding aid prepared by Claire Freedman (1985); Edited by Nicole Greenhouse for compliance with DACS and Tamiment Required Elements for Archival Description (2013)</author>
             </titlestmt>
             <publicationstmt>
                 <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
@@ -22,13 +22,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-05-15T12:39-0400</date>
+                <date>2014-08-07T11:27-0400</date>
             </creation>
+            <langusage>Description is in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>January 25, 2013</date>
-                <item>Edited by Nicole Greenhouse for compliance with DACS and Tamiment Required Elements for Archival Description.</item>
+                <date>August 2015</date>
+                <item>Edited by Maggie Schreiner to reflect updated administrative information</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -51,7 +53,7 @@
             <langmaterial id="ref223" label="Language of Materials note">Materials are in English.</langmaterial>
             <physloc id="ref441" label="Location note">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@library.nyu.edu at least two business days prior to research visit.</physloc>
             <origination label="creator">
-                <corpname source="local">Labor Theater (New York, N.Y.).</corpname>
+                <corpname rules="dacs" source="naf">Labor Theater (New York, N.Y.).</corpname>
             </origination>
         </did>
         <bioghist id="ref2">
@@ -80,7 +82,7 @@
         </scopecontent>
         <acqinfo id="ref440">
             <head>Immediate Source of Acquisition note</head>
-            <p>The Labor Theater Records were donated to the Tamiment Library and Robert F. Wagner Labor Archives by Bette Craig and Charles Portz in 1985.</p>
+            <p>The Labor Theater Records were donated to the Tamiment Library and Robert F. Wagner Labor Archives by Bette Craig and Charles Portz in 1985. The accession numbers associated with this gift are 1985.016, 1985.017, NPA.2000.302 and NPA.2008.009.</p>
         </acqinfo>
         <processinfo id="ref439">
             <head>Processing Information note</head>
@@ -88,32 +90,24 @@
         </processinfo>
         <userestrict id="ref226">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@nyu.edu 
-                <lb/></p>
+            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created the the Labor Theater are held by the Labor Theater. Permission to publish or reproduce materials to which the theater holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting the Labor Theater.</p>
         </userestrict>
         <separatedmaterial id="ref444">
             <head>Separated Materials</head>
-            <p>Seven cans of partially edited footage of the Amalgamated Clothing Workers Union, filmed in 1974, were separated to the Tamiment/Wagner Moving Images Collections under the tape numbers 254-260. (FILMS.001).</p>
+            <p>Seven cans of partially edited footage of the Amalgamated Clothing Workers Union, filmed in 1974, were separated to the Tamiment/Wagner Moving Images Collections under the tape numbers 254-260. (FILMS 001).</p>
         </separatedmaterial>
         <controlaccess>
-            <corpname source="naf">Amalgamated Clothing and Textile Workers Union.</corpname>
+            <corpname rules="dacs" source="naf">Amalgamated Clothing and Textile Workers Union.</corpname>
             <corpname source="naf">American Theatre Association.</corpname>
             <persname source="naf">Craig, Bette</persname>
-            <corpname source="local">Labor Theater (New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="naf">Labor Theater (New York, N.Y.).</corpname>
             <persname source="naf">Portz, Chuck</persname>
             <corpname source="local">St. Peter's Performing Arts Center.</corpname>
             <subject source="lcsh">Motion pictures.</subject>
             <genreform source="aat">Photographic prints.</genreform>
             <genreform source="aat">Programs (documents).</genreform>
             <genreform source="aat">Questionnaires.</genreform>
-            <subject source="lcsh">Working class |z United States</subject>
+            <subject source="lcsh">Working class |z United States.</subject>
         </controlaccess>
         <dsc>
             <c id="ref3" level="series">
@@ -3129,6 +3123,20 @@
                         <unittitle>"Elegy for Stanley Gorski," by Emanuel Fried</unittitle>
                         <container id="cid22187120" type="Box" label="Mixed materials (31142054609618)">12</container>
                         <container parent="cid22187120" type="Folder">19</container>
+                    </did>
+                </c>
+                <c id="ref447" level="file">
+                    <did>
+                        <unittitle>Tillie Olsen reading "Hey Sailor"</unittitle>
+                        <container id="cid22373001" type="Box" label="Master Cassette">12</container>
+                        <unitdate normal="1983/1983">Oct 23, 1983</unitdate>
+                    </did>
+                </c>
+                <c id="ref448" level="file">
+                    <did>
+                        <unittitle>Herbert Benjamin, BBH and Songs, Sis Cunningham</unittitle>
+                        <container id="cid22373002" type="Box" label="Master Cassette">12</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
                     </did>
                 </c>
             </c>

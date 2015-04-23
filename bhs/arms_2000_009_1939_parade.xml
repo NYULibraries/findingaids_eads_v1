@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_2000_009_1939_parade</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2000_009_1939_parade.html">arms_2000_009_1939_parade</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to the Photographs of 1939 parade
+                <titleproper>Guide to the George Schlesinger collection of Cadman Plaza parade photographs
                     <num>2000.009</num>
                 </titleproper>
                 <author>Finding aid prepared by Nicholas Pavlik</author>
@@ -22,23 +22,24 @@
                 </address>
                 <date>November 11, 2011</date>
             </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-22T11:06-0500</date>
+                <date>2014-10-02T10:12-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2014</date>
+                <item>Revised by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
-            <unittitle>Photographs of 1939 parade</unittitle>
+            <unittitle>George Schlesinger collection of Cadman Plaza parade photographs</unittitle>
             <unitid>2000.009</unitid>
             <repository>
                 <corpname>Brooklyn Historical Society</corpname>
@@ -46,34 +47,49 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid1119003" type="Folder" label="Graphic materials">2000.009 1 of 1</container>
+            <container id="cid1119003" type="Box" label="Graphic materials">A0011</container>
             <physdesc>
-                <extent>0.02 Linear feet</extent>
+                <extent>0.02 linear feet</extent>
                 <extent>in one folder.</extent>
             </physdesc>
             <unitdate normal="1939/1939">1939</unitdate>
-            <abstract id="ref2" label="Abstract">Nine photographs of a parade in Brooklyn in 1939.</abstract>
+            <abstract id="ref2" label="Abstract">Nine black-and-white photographic prints of a parade at Cadman Plaza, Brooklyn in 1939.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Collector (col)">Schlesinger, George</persname>
+            </origination>
         </did>
+        <scopecontent id="ref6">
+            <head>Scope and Contents</head>
+            <p>Nine black-and-white photographic prints of a parade at Cadman Plaza, Brooklyn in 1939. Various youth organizations are visible in the photographs, including Boy Scouts. Tracks of the elevated railroad are also visible. The photographs were owned by George Schlesinger. The identity of the photographer is unknown.</p>
+        </scopecontent>
         <accessrestrict id="ref1">
             <head>Conditions Governing Access note</head>
             <p>Open to users without restriction.</p>
         </accessrestrict>
         <prefercite id="ref4">
             <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Photographs of 1939 parade, 2000.009, Box and Folder number; Brooklyn Historical Society.</p>
+            <p>Identification of item, date (if known); George Schlesinger collection of Cadman Plaza parade photographs, 2000.009, Box and Folder number; Brooklyn Historical Society.</p>
         </prefercite>
         <acqinfo id="ref3">
             <head>Immediate Source of Acquisition note</head>
-            <p>Gift of the Schlesinger family, 2000.</p>
+            <p>Gift of George Schlesinger, 1999.</p>
         </acqinfo>
+        <userestrict id="ref7">
+            <head>Conditions Governing Use note</head>
+            <p>Photographs will enter the public domain in 2059.</p>
+        </userestrict>
         <processinfo id="ref5">
             <head>Processing Information note</head>
             <p>Minimally processed to the collection level.</p>
         </processinfo>
         <controlaccess>
+            <genreform source="aat">Black-and-white prints (photographs)</genreform>
+            <subject source="lcsh">Boy Scouts |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Cadman Plaza (New York, N.Y.)</geogname>
             <subject source="lcsh">Parades |z New York (State) |z Kings County</subject>
             <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">Railroads, Elevated |z New York (State) |z Kings County</subject>
         </controlaccess>
         <dsc/>
     </archdesc>

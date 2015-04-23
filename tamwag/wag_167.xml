@@ -22,15 +22,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-11-18T11:35-0500</date>
+                <date>2015-01-28T11:29-0500</date>
             </creation>
-            <langusage>Finding Aid is in English</langusage>
+            <langusage>Description is in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
                 <date>11/13/2013</date>
-                <item>Edited by Maggie Schreiner for compliance with DACS and Tamiment Required Elements for Archival Description and to reflect the incorporation of nonprint materials, </item>
+                <item>Edited by Maggie Schreiner for compliance with DACS and Tamiment Required Elements for Archival Description, to reflect the incorporation of nonprint materials, and to update administrative information</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -58,7 +58,7 @@
         </did>
         <acqinfo id="ref4">
             <head>Immediate Source of Acquisition note</head>
-            <p>The collection was donated to the Tamiment Library/Robert F. Wagner Labor Archives by Richard T. Anderson, President of the New York Building Congress, in 1999. Additional material was donated in 2009 and 2011.</p>
+            <p>Donated by Richard T. Anderson, President of the New York Building Congress, in 1999. The accession numbers 1999.013, 1999.014 and NPA.2003.081 are associated with this gift. Additional material was donated in 2009, 2011 and 2012. The accession numbers 2009.021, 2011.015 and 2012.011 are associated with these materials.</p>
         </acqinfo>
         <separatedmaterial id="ref5">
             <head>Separated Materials</head>
@@ -108,18 +108,11 @@
         <processinfo id="ref10">
             <head>Processing Information note</head>
             <p>Photographs separated from this collection during processing were established as a separate collection, the New York Building Congress Photographs (PHOTOS 109). In 2013, the photograph collection was reincorporated into the New York Building Congress Records (WAG 167).</p>
+            <p>In 2014, the archived websites were added as Series IX.</p>
         </processinfo>
         <userestrict id="ref11">
             <head>Use Restrictions</head>
-            <p>Copyright holder unknown. Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
+            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by the New York Building Congress are held by the New York Building Congress. Permission to publish or reproduce materials to which the Congress holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting the New York Building Congress.</p>
         </userestrict>
         <prefercite id="ref12">
             <head>Preferred Citation</head>
@@ -136,13 +129,13 @@
             <p>A limited number of rolled photographs (approximately 15) are noted in the container list. Please consult Tamiment staff for access to these materials.</p>
         </phystech>
         <controlaccess>
-            <corpname source="ingest">1989 Charter Revision Commission (New York, N.Y.).</corpname>
-            <persname source="ingest">Anderson, Richard T. (Richard Theodore), 1940-</persname>
-            <corpname source="ingest">Building Trades Employers' Association.</corpname>
-            <persname source="ingest">Coletti, Louis J.</persname>
-            <persname source="ingest">Hennessey, John F.</persname>
+            <corpname source="naf">1989 Charter Revision Commission (New York, N.Y.).</corpname>
+            <persname source="naf">Anderson, Richard T. (Richard Theodore), 1940-</persname>
+            <corpname source="naf">Building Trades Employers' Association.</corpname>
+            <persname source="local">Coletti, Louis J.</persname>
+            <persname source="local">Hennessey, John F.</persname>
             <corpname source="ingest">New York Building Congress.</corpname>
-            <corpname source="ingest">New York City Charter Revision Commission (1986-1988).</corpname>
+            <corpname source="naf">New York City Charter Revision Commission (1986-1988).</corpname>
             <persname source="ingest">Schaffner, Charles</persname>
             <genreform source="aat">Audiovisual materials.</genreform>
             <subject source="lcsh">Building laws |z New York (State) |z New York.</subject>
@@ -13262,6 +13255,7 @@
                     <c id="ref1644" level="item">
                         <did>
                             <unittitle>Senator Hillary Rodham Clinton speaking at NYBC Luncheon Forum</unittitle>
+                            <container id="cid23456001" type="Box" label="Access DVD">WAG ACCESS 1</container>
                             <container id="cid22725013" type="Box" label="Moving Images">24</container>
                             <container parent="cid22725013" type="Folder">11</container>
                             <unitdate normal="2001/2001">Apr 30, 2001</unitdate>
@@ -13366,6 +13360,21 @@
                         <unitdate normal="1921/1989" type="inclusive">1921-1989</unitdate>
                     </did>
                 </c>
+            </c>
+            <c id="ref1665" level="series">
+                <did>
+                    <unittitle>Series IX: Archived Website</unittitle>
+                    <unitdate>Mar 14, 2009-ongoing</unitdate>
+                </did>
+                <scopecontent id="ref1666">
+                    <head>Scope and Content Note</head>
+                    <p>The New York Building Congress, founded in 1921, is a coalition of 400 constituent organizations comprising more than 250,000 skilled trades people and professionals that works to advance economic and infrastructure investment and job creation. The Congress publishes reports and analysis related to building projects in New York City. The Congress also created the New York Building Foundation, which promotes research, education, and philanthropy in the construction industry. The website contains reports, committee and council information, and event listings.</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Archived Website" ns2:role="service" ns2:href="http://webarchives.cdlib.org/site/sw1qn5zc1k">
+                    <daodesc>
+                        <p>Archived Website, Mar 14, 2009-ongoing </p>
+                    </daodesc>
+                </dao>
             </c>
         </dsc>
     </archdesc>

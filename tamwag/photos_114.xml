@@ -22,10 +22,16 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-02-21T11:21-0500</date>
+                <date>2014-09-18T11:10-0400</date>
             </creation>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>September 2014</date>
+                <item>Edited to include updated administrative information</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -44,9 +50,6 @@
             <unitdate>undated</unitdate>
             <langmaterial id="ref9" label="Language of Materials note">Materials are in English.</langmaterial>
             <abstract id="ref1" label="Abstract">John Louis Spivak (1897-1981) was a writer, journalist, and communist, mostly active in the 1920s and 1930s. This collection contains four photographs of Spivak.</abstract>
-            <origination label="creator">
-                <persname source="naf">Spivak, John L. (John Louis), 1897-1981</persname>
-            </origination>
         </did>
         <relatedmaterial id="ref14">
             <head>Related Archival Materials</head>
@@ -65,19 +68,11 @@
         </prefercite>
         <acqinfo id="ref7">
             <head>Immediate Source of Acquisition note</head>
-            <p>Source unknown.</p>
+            <p>Source unknown. The accession numbers associated with this gift are 1950.200 and NPA.2003.032.</p>
         </acqinfo>
         <userestrict id="ref6">
             <head>Use Restrictions</head>
-            <p>Copyright status unknown. Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
+            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2101. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
         </userestrict>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
@@ -103,18 +98,21 @@
             <p>This collection has not been arranged by an archivist.</p>
         </arrangement>
         <controlaccess>
+            <persname source="naf">Spivak, John L. (John Louis), 1897-1981</persname>
             <subject source="lcsh">Authors, American.</subject>
             <subject source="lcsh">Journalists |z United States.</subject>
             <genreform source="aat">Photographs.</genreform>
         </controlaccess>
         <dsc>
-            <c01 id="ref15" level="file">
+            <c id="ref15" level="file">
                 <did>
                     <unittitle>Photographs</unittitle>
                     <container id="cid22224014" type="Box" label="Mixed materials">A002</container>
+                    <container id="cid22239003" type="Flat-File" label="Mixed materials">6</container>
+                    <container parent="cid22239003" type="Drawer">15</container>
                     <unitdate>undated</unitdate>
                 </did>
-            </c01>
+            </c>
         </dsc>
     </archdesc>
 </ead>

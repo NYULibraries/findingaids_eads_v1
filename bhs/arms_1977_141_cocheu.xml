@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_141_cocheu</eadid>
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_141_cocheu.html">arms_1977_141_cocheu</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Cocheu family papers
                     <num>1977.141</num>
                 </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
+                <author>Finding aid prepared by Matthew Gorham (2011); Updated by John Zarrillo (2014)</author>
                 <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
             </titlestmt>
             <publicationstmt>
@@ -25,7 +25,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-09T16:24-0500</date>
+                <date>2014-09-30T15:05-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
@@ -47,6 +47,7 @@
                 <extent>in two bound volumes in one folder</extent>
             </physdesc>
             <unitdate normal="1863/1959" type="inclusive">1863-1959</unitdate>
+            <abstract id="ref6" label="Abstract">Included in the papers are two scrapbooks that include news clippings, poems, a marriage certificate, photographs, obituaries, prayers, programs, and correspondence, dated 1863 to 1959.</abstract>
             <origination label="creator">
                 <famname rules="dacs" source="local">Cocheu family</famname>
             </origination>
@@ -66,7 +67,7 @@
         </bioghist>
         <scopecontent id="ref2">
             <head>Scope and Contents note</head>
-            <p>The Cocheu family papers measure 0.3 linear feet and span the period 1863 to 1959. Included in the papers are two scrapbooks that include news clippings, poems, a marriage certificate, photographs, obituaries, prayers, programs, and correspondence, dated 1863 to 1959. One scrapbook consists of clippings of Frank Cocheu and his military activities during the First World War. The second scrapbook consists of materials relating to Theodore and Catherine Cocheu. There is also a folder of miscellaneous items including four photographs of the Cocheu and Benson families, correspondence to and from Frank Cocheu, and biographical materials on Frank Cocheu.</p>
+            <p>The Cocheu family papers measure 0.3 linear feet and span the period 1863 to 1959. Included in the papers are two scrapbooks that include news clippings, poems, a marriage certificate, photographs, obituaries, prayers, programs, and correspondence, dated 1863 to 1959. One scrapbook consists of clippings of Frank Cocheu and his military activities during the First World War. The second scrapbook consists of materials relating to Theodore and Catherine Cocheu. There is also a folder of miscellaneous items including four photographs of the Cocheu and Benson families, correspondence to and from Frank Cocheu, biographical materials on Frank Cocheu, and images related to the U.S. Navy and naval warfare.</p>
         </scopecontent>
         <accessrestrict id="ref1">
             <head>Conditions Governing Access note</head>
@@ -86,10 +87,12 @@
             <genreform source="aat">Correspondence</genreform>
             <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
             <genreform source="aat">Marriage certificates</genreform>
+            <subject source="lcsh">Naval art and science</subject>
             <genreform source="aat">Photographs</genreform>
             <genreform source="aat">Programs (documents)</genreform>
             <genreform source="aat">Scrapbooks</genreform>
             <geogname source="lcsh">United States |x Armed Forces |x Officers</geogname>
+            <subject source="lcsh">United States. Navy</subject>
             <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
             <subject source="lcsh">World War, 1914-1918</subject>
         </controlaccess>

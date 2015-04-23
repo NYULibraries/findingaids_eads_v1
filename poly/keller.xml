@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US">keller</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Keller Mechanical Engineering Corporation Collection
-                    <num>RG.1</num>
+                    <num>RG.001</num>
                 </titleproper>
                 <author>Finding aid prepared by Lindsay Anderberg</author>
                 <sponsor>This project was made possible in part by a grant from the Documentary Heritage Program of the New York State Archives, a program of the State Education Department.</sponsor>
@@ -22,7 +22,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-01-23T12:18-0500</date>
+                <date>2014-04-03T15:30-0400</date>
             </creation>
             <langusage>english (eng)</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
@@ -31,7 +31,7 @@
     <archdesc level="collection">
         <did>
             <unittitle>Guide to the Keller Mechanical Engineering Corporation Collection, 1916-1962</unittitle>
-            <unitid>RG.1</unitid>
+            <unitid>RG.001</unitid>
             <repository>
                 <corpname>Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology</corpname>
             </repository>
@@ -54,7 +54,7 @@
         <prefercite id="ref283">
             <head>Preferred Citation note</head>
             <p>Published citations should take the following form:</p>
-            <p>Identification of item, date (volume, issue, page); Keller Mechanical Engineering Corporation Collection; box number; folder number; Bern Dibner Library; Poly Archives &amp;Special Collections at Bern Dibner Library of Science and Technology.</p>
+            <p>Identification of item, date; RG-001: Keller Mechanical Engineering Corporation Collection; box number; folder number; Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology.</p>
         </prefercite>
         <userestrict id="ref282">
             <head>Conditions Governing Use note</head>
@@ -110,6 +110,9 @@
                 <did>
                     <unittitle>Series I: Records and Operating Manuals</unittitle>
                     <unitdate normal="1921/1962" type="inclusive">1921-1962</unitdate>
+                    <physdesc id="ref305" label="Series container summary">
+                        <dimensions audience="internal">3 boxes (11.5" x 15" x 3") and one bound volume</dimensions>
+                    </physdesc>
                 </did>
                 <scopecontent id="ref110">
                     <head>Scope and Contents note</head>
@@ -152,6 +155,9 @@
                 <did>
                     <unittitle>Series II: Notebooks</unittitle>
                     <unitdate>20th century</unitdate>
+                    <physdesc id="ref306" label="Series container summary">
+                        <dimensions audience="internal">10 letter-size manuscript boxes</dimensions>
+                    </physdesc>
                 </did>
                 <scopecontent id="ref288">
                     <head>Scope and Contents note</head>
@@ -1511,6 +1517,10 @@
                         <unittitle>Subseries I: G.I. File Notebooks</unittitle>
                         <unitdate normal="1934/1960" type="inclusive">1934-1960</unitdate>
                     </did>
+                    <scopecontent audience="internal" id="ref226">
+                        <head>Scope and Contents note</head>
+                        <p>The three G.I. Notebooks contain photographs, diagrams, descriptions, and hand-written annotations on three Keller machines: BL3620 3-Spindle #M-1701, BG-3 #M-1721, and #M-1739 Model D.</p>
+                    </scopecontent>
                     <c id="ref227" level="file">
                         <did>
                             <unittitle>BL3620 3-Spdle M1710</unittitle>
@@ -1557,6 +1567,9 @@
                 <did>
                     <unittitle>Series III: Scrapbooks</unittitle>
                     <unitdate>20th century</unitdate>
+                    <physdesc id="ref307" label="Series container summary">
+                        <dimensions audience="internal">1 letter-size manuscript box and 8 deep lid print boxes (14.5” x 18.5” x 3”)</dimensions>
+                    </physdesc>
                 </did>
                 <scopecontent id="ref289">
                     <head>Scope and Contents note</head>
@@ -1936,6 +1949,9 @@
                 <did>
                     <unittitle>Series IV: Photographs</unittitle>
                     <unitdate normal="1927/1962" type="inclusive">1927-1962</unitdate>
+                    <physdesc id="ref308" label="Series container summary">
+                        <dimensions audience="internal">1 letter-size manuscript box and 1 print box (11.5" x 15" x 3")</dimensions>
+                    </physdesc>
                 </did>
                 <scopecontent id="ref242">
                     <head>Scope and Contents note</head>
@@ -2132,6 +2148,9 @@
                     <unittitle>Series V: Publications</unittitle>
                     <container id="cid48002" type="Box" label="Mixed materials">24</container>
                     <unitdate normal="1921/1935" type="inclusive">1921-1935</unitdate>
+                    <physdesc id="ref309" label="Dimensions note">
+                        <dimensions audience="internal">letter-size manuscript box</dimensions>
+                    </physdesc>
                 </did>
                 <c id="ref15" level="file">
                     <did>
@@ -2150,7 +2169,7 @@
                             <container id="cid77010" type="Box" label="Mixed materials">24</container>
                             <container parent="cid77010" type="Folder">1</container>
                             <container parent="cid77010" type="Object">1</container>
-                            <unitdate>September, 1921</unitdate>
+                            <unitdate>1921 September</unitdate>
                             <origination label="creator">
                                 <persname rules="dacs" source="local" role="Author (aut)">Keller, Joseph F.</persname>
                             </origination>
@@ -2187,7 +2206,7 @@
                         <container id="cid77001" type="Box" label="Mixed materials">24</container>
                         <container parent="cid77001" type="Folder">3</container>
                         <container parent="cid77001" type="Object">1</container>
-                        <unitdate normal="1925/1925">August, 1925</unitdate>
+                        <unitdate normal="1925/1925">1925 August</unitdate>
                     </did>
                 </c>
                 <c id="ref2" level="file">
@@ -2207,7 +2226,7 @@
                             <container id="cid77005" type="Box" label="Mixed materials">24</container>
                             <container parent="cid77005" type="Folder">4</container>
                             <container parent="cid77005" type="Object">1</container>
-                            <unitdate>September 17, 1925</unitdate>
+                            <unitdate>1925 September 17</unitdate>
                         </did>
                     </c>
                 </c>
@@ -2228,7 +2247,7 @@
                             <container id="cid77011" type="Box" label="Mixed materials">24</container>
                             <container parent="cid77011" type="Folder">5</container>
                             <container parent="cid77011" type="Object">1</container>
-                            <unitdate>April, 1930</unitdate>
+                            <unitdate>1930 April </unitdate>
                             <origination label="creator">
                                 <persname rules="dacs" source="naf" role="Author (aut)">Mercer, George J.</persname>
                             </origination>
@@ -2252,7 +2271,7 @@
                             <container id="cid77009" type="Box" label="Mixed materials">24</container>
                             <container parent="cid77009" type="Folder">6</container>
                             <container parent="cid77009" type="Object">1</container>
-                            <unitdate>February, 1934</unitdate>
+                            <unitdate>1934 February</unitdate>
                         </did>
                     </c>
                 </c>
@@ -2273,7 +2292,7 @@
                             <container id="cid77007" type="Box" label="Mixed materials">24</container>
                             <container parent="cid77007" type="Folder">7</container>
                             <container parent="cid77007" type="Object">1</container>
-                            <unitdate>March 28, 1935</unitdate>
+                            <unitdate>1935 March 28</unitdate>
                         </did>
                     </c>
                 </c>
@@ -2325,7 +2344,7 @@
                         </langmaterial>
                         <container id="cid50024" type="Box" label="Mixed materials">24</container>
                         <container parent="cid50024" type="Folder">9</container>
-                        <unitdate normal="1916/1916">December 7, 1916</unitdate>
+                        <unitdate normal="1916/1916">1916 December 7</unitdate>
                     </did>
                 </c>
                 <c id="ref31" level="file">
@@ -2336,7 +2355,7 @@
                         </langmaterial>
                         <container id="cid50025" type="Box" label="Mixed materials">24</container>
                         <container parent="cid50025" type="Folder">10</container>
-                        <unitdate normal="1918/1918">June, 1918</unitdate>
+                        <unitdate normal="1918/1918">1918 June</unitdate>
                     </did>
                 </c>
                 <c id="ref32" level="file">
@@ -2347,7 +2366,7 @@
                         </langmaterial>
                         <container id="cid50026" type="Box" label="Mixed materials">24</container>
                         <container parent="cid50026" type="Folder">11</container>
-                        <unitdate normal="1926/1926">October, 1926</unitdate>
+                        <unitdate normal="1926/1926">1926 October</unitdate>
                     </did>
                 </c>
                 <c id="ref29" level="file">
@@ -2425,6 +2444,9 @@
             <c id="ref265" level="series">
                 <did>
                     <unittitle>Series VII: Oversize</unittitle>
+                    <physdesc id="ref310" label="Series container summary">
+                        <dimensions audience="internal">1deep lid print box (14.5” x 18.5” x 3”)</dimensions>
+                    </physdesc>
                 </did>
                 <c id="ref270" level="file">
                     <did>
@@ -2435,6 +2457,7 @@
                         <container id="cid48025" type="Box" label="Graphic materials">25</container>
                         <container parent="cid48025" type="Folder">1</container>
                         <unitdate normal="1921/1921">1921</unitdate>
+                        <physdesc audience="internal" id="ref271" label="General Physical Description note">This certificate was removed from a broken frame. The linen backing to the frame is also in the folder.</physdesc>
                     </did>
                 </c>
                 <c id="ref269" level="file">
@@ -2481,6 +2504,9 @@
                     <unittitle>Series VIII: Product samples: Pratt &amp; Whitney, Keller Department</unittitle>
                     <container id="cid48028" type="Box" label="Realia">26</container>
                     <unitdate>undated</unitdate>
+                    <physdesc id="ref311" label="Series container summary">
+                        <dimensions audience="internal">1 deep lid print box (14.5” x 18.5” x 3”)</dimensions>
+                    </physdesc>
                 </did>
                 <scopecontent id="ref273">
                     <head>Scope and Contents note</head>
@@ -2607,6 +2633,17 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
+            </c>
+            <c audience="internal" id="ref274" level="series">
+                <did>
+                    <unittitle>Series IX: Covers: Notebooks and photo albums</unittitle>
+                    <container id="cid48029" type="Box" label="Realia">27</container>
+                    <unitdate>undated</unitdate>
+                    <physdesc audience="internal" id="ref275" label="General Physical Description note">Many notebook and photo album covers were discarded due to mold infestation. Two of the three examples sustained mold damage and are encapsulated in plastic. The third did not sustain mold damage, but the photographs were removed from the album due to the damaging adhesive backing on the album pages. Use caution when observing these materials, especially those with mold allergies or respiratory issues.</physdesc>
+                    <physdesc id="ref312" label="Series container summary">
+                        <dimensions audience="internal">1 deep lid print box (14.5” x 18.5” x 3”)</dimensions>
+                    </physdesc>
+                </did>
             </c>
         </dsc>
     </archdesc>

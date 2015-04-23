@@ -22,7 +22,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-09-11T13:17-0400</date>
+                <date>2013-09-20T12:59-0400</date>
             </creation>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
@@ -76,7 +76,7 @@
         </custodhist>
         <phystech id="ref32">
             <head>Physical Characteristics and Technical Requirements note</head>
-            <p>Researchers must use microfilm (R-7099) for boxes 1-10. Researchers can use papers for boxes 11-15.</p>
+            <p>Researchers must use microfilm (R-7099) for boxes 1-10. Researchers are permitted access to boxes 11-15.</p>
         </phystech>
         <accessrestrict id="ref10">
             <head>Access Restrictions</head>
@@ -216,12 +216,44 @@
                 <did>
                     <unittitle>Series VII: Photographs and Other Nonprint Materials</unittitle>
                     <container id="cid22350001" type="Box" label="Mixed materials">15</container>
+                    <container id="cid22575001" type="Flat-File" label="Photographs">7</container>
+                    <container parent="cid22575001" type="Drawer">14</container>
                     <unitdate normal="1910/1959" type="inclusive">1910s-1950s</unitdate>
                 </did>
                 <scopecontent id="ref28">
                     <head>Scope and Content Note</head>
                     <p>This series mostly contains black-and-white photographs of varying sizes, related to the New York WTUL. The photographs are made up of headshots of leaders and other shots of WTUL officials, publicity shots, events, meetings, performances, conventions, and other photographs. There a significant amount of photographs that feature Eleanor Roosevelt. The series also contains a cloth banner bearing the legend: "New York Women's Trade Union League; Organized 1903."</p>
                 </scopecontent>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>8 x 10 and 5 x 7 black and white prints</unittitle>
+                        <container id="cid22586002" type="Box" label="Photographs">15</container>
+                        <unitdate>1935-1949, undated</unitdate>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Content Note</head>
+                        <p>Ten folders including: undated headshots (mostly publicity photographs); staff; Nora Piore, dance class, meeting with Rose Schneiderman ca. 1940s; Washington, DC trip for students (1938); "Pilgrimage and Picnic," June 1947 (shots take at Franklin D. Roosevelt gravesite and on "Mrs. [Eleanor] Roosevelt's grounds" [Valkill?]; events arranged chronologically between 1923-1949; performances; portraits of Eleanor Roosevelt; social gatherings; cookout/camping (possibly at Valkill, group shot with Eleanor Roosevelt) ca. 1930s; classroom shots; photocopies of pages from a scrapbook.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Oversize and Panoramic Black and White Prints</unittitle>
+                        <container id="cid22586001" type="Flat-File" label="Photographs">6</container>
+                        <container parent="cid22586001" type="Drawer">14</container>
+                        <unitdate normal="1929/1947" type="inclusive">1929-1947</unitdate>
+                    </did>
+                    <scopecontent id="ref40">
+                        <head>Scope and Content Note</head>
+                        <p>Group portraits and celebratory dinners.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Cloth Banner: "New York Women's Trade Union League; Organized 1903"</unittitle>
+                        <container id="cid22586003" type="Box" label="Realia">5 - Ephemera and Artifacts</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
             </c01>
         </dsc>
     </archdesc>

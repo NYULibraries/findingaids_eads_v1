@@ -22,14 +22,14 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-04-03T13:13-0400</date>
+                <date>2014-10-03T16:37-0400</date>
             </creation>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>April 3, 2013</date>
-                <item>Edited by Erika Gottfried to reflect the incorporation of nonprint materials and for compliance with DACS and Tamiment Required Elements for Archival Description.</item>
+                <date>April 3, 2013; October 2014</date>
+                <item>Edited by Erika Gottfried to reflect the incorporation of nonprint materials and for compliance with DACS and Tamiment Required Elements for Archival Description. Edited by Nicole Greenhouse to reflect updated administrative information</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -43,7 +43,6 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid18927001" type="Box" label="Mixed materials">1</container>
             <physdesc>
                 <extent>0.25 linear feet</extent>
                 <extent>in one manuscript box</extent>
@@ -57,7 +56,7 @@
         </did>
         <bioghist id="ref16">
             <head>Historical/Biographical Note</head>
-            <p>Theodore Schapiro (1898-1998), was a political activist and the last director of the Rand School of Social Science (1943-56). His early training in art and industrial design at Cooper Union, the Art Students' League, and the Beaux Arts Institute of Design led to a career in industrial design. He joined the Socialist Party early in his life and assisted in planning the Party's platform for Norman Thomas' presidential bid in 1940. He served as an organizer for the Textile Workers Union as well as other unions, and he taught adult education classes for them and for the International Ladies' Garment Workers Union. During the 1930s he was employed by the Works Progress Administration's Federal Arts Project.</p>
+            <p>Theodore Schapiro (1898-1998) was a political activist and the last director of the Rand School of Social Science (1943-56). His early training in art and industrial design at Cooper Union, the Art Students' League, and the Beaux Arts Institute of Design led to a career in industrial design. He joined the Socialist Party early in his life and assisted in planning the Party's platform for Norman Thomas' presidential bid in 1940. He served as an organizer for the Textile Workers Union as well as other unions, and he taught adult education classes for them and for the International Ladies' Garment Workers Union. During the 1930s he was employed by the Works Progress Administration's Federal Arts Project.</p>
         </bioghist>
         <processinfo id="ref24">
             <head>Processing Information note</head>
@@ -65,24 +64,15 @@
         </processinfo>
         <prefercite id="ref23">
             <head>Preferred Citation</head>
-            <p>Identification of item, date; Theodore Schapiro Papers and Photographs; TAM.217; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+            <p>Identification of item, date; Theodore Schapiro Papers and Photographs; TAM 217; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
         </prefercite>
         <acqinfo id="ref21">
             <head>Immediate Source of Acquisition note</head>
-            <p>The Theodore Schapiro Papers and Photographs were donated to the Tamiment Libray in 1998, by Mr. Schapiro and/or his family.</p>
+            <p>Provenance unknown, but Theodore Schapiro likely sent a gift of photographs and papers in 1998. The accession numbers associated with this gift are NPA.1999.017 and 1999.023.</p>
         </acqinfo>
         <userestrict id="ref20">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
-            <p>Copyright status of these materials is unknown.</p>
+            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Theodore Schapiro are held by the Schapiro Family. Permission to publish or reproduce materials to which s/he holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Schapiro Family.</p>
         </userestrict>
         <accessrestrict id="ref19">
             <head>Access Restrictions</head>
@@ -105,7 +95,7 @@
             <corpname source="naf">Rand School of Social Science.</corpname>
             <persname source="ingest">Schapiro, Miriam</persname>
             <persname source="local">Schapiro, Theodore, 1898-1998</persname>
-            <persname source="naf">Thomas, Norman, 1884-1968</persname>
+            <persname rules="dacs" source="naf">Thomas, Norman, 1884-1968</persname>
             <subject source="lcsh">Adult education |z New York (State) |z New York.</subject>
             <genreform source="aat">Biography files.</genreform>
             <genreform source="aat">Black-and-white photographs.</genreform>
@@ -117,61 +107,61 @@
             <subject source="lcsh">Working class |x Education |z New York (State) |z New York.</subject>
         </controlaccess>
         <dsc>
-            <c01 id="ref3" level="series">
+            <c id="ref3" level="series">
                 <did>
                     <unittitle>Papers</unittitle>
                     <unitdate normal="1913/1956" type="inclusive">1913-1956</unitdate>
                 </did>
-                <c02 id="ref5" level="file">
+                <c id="ref5" level="file">
                     <did>
                         <unittitle>Biographical</unittitle>
                         <container id="cid22308001" type="Box" label="Text">1</container>
                         <container parent="cid22308001" type="Folder">1</container>
                         <unitdate normal="1913/1935" type="inclusive">1913-1935</unitdate>
                     </did>
-                </c02>
-                <c02 id="ref6" level="file">
+                </c>
+                <c id="ref6" level="file">
                     <did>
                         <unittitle>"The Commie's Lament or, Custer's Last Stand" (poem/lyrics?)</unittitle>
                         <container id="cid22308002" type="Box" label="Text">1</container>
                         <container parent="cid22308002" type="Folder">2</container>
                         <unitdate>undated</unitdate>
                     </did>
-                </c02>
-                <c02 id="ref7" level="file">
+                </c>
+                <c id="ref7" level="file">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid22308003" type="Box" label="Text">1</container>
                         <container parent="cid22308003" type="Folder">3</container>
                         <unitdate normal="1931/1956" type="inclusive">1931-1956</unitdate>
                     </did>
-                </c02>
-                <c02 id="ref8" level="file">
+                </c>
+                <c id="ref8" level="file">
                     <did>
                         <unittitle>Printed Ephmera, Miscellaneous</unittitle>
                         <container id="cid22308004" type="Box" label="Text">1</container>
                         <container parent="cid22308004" type="Folder">4</container>
                         <unitdate normal="1936/1964" type="inclusive">circa 1936, 1957, 1964, undated</unitdate>
                     </did>
-                </c02>
-                <c02 id="ref14" level="file">
+                </c>
+                <c id="ref14" level="file">
                     <did>
                         <unittitle>Rand School of Social Science/Institute ot Social Studies</unittitle>
                         <container id="cid22308009" type="Box" label="Text">1</container>
                         <container parent="cid22308009" type="Folder">5</container>
                         <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
                     </did>
-                </c02>
-                <c02 id="ref15" level="file">
+                </c>
+                <c id="ref15" level="file">
                     <did>
                         <unittitle>WPA - Federal Art Project</unittitle>
                         <container id="cid22308010" type="Box" label="Text">1</container>
                         <container parent="cid22308010" type="Folder">6</container>
                         <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
                     </did>
-                </c02>
-            </c01>
-            <c01 id="ref4" level="series">
+                </c>
+            </c>
+            <c id="ref4" level="series">
                 <did>
                     <unittitle>Photographs</unittitle>
                     <unitdate normal="1914/1954" type="inclusive">1914-circa 1959</unitdate>
@@ -180,39 +170,39 @@
                     <head>Scope and Content Note</head>
                     <p>Fifty-six black and white photographs, including a few portraits of Schapiro and of Schapiro speaking, events at the Rand School of Social Science (classroom and lecture images; individuals include Sidney Hook), and Socialist Party-related events. The latter images include what appear to be campaign workers for one or more of Meyer London's campaigns for Congress for New York State's 12th congressional district (between 1914 and 1920), with an interior splashed with Socialist Party campaign posters; one image includes London himself.</p>
                 </scopecontent>
-                <c02 id="ref10" level="file">
+                <c id="ref10" level="file">
                     <did>
                         <unittitle>Theodore Schapiro - Portraits</unittitle>
                         <container id="cid22308005" type="Box" label="Photographs">1</container>
                         <container parent="cid22308005" type="Folder">6</container>
                         <unitdate normal="1920/1929" type="inclusive">circa 1920-1929</unitdate>
                     </did>
-                </c02>
-                <c02 id="ref11" level="file">
+                </c>
+                <c id="ref11" level="file">
                     <did>
                         <unittitle>Rand School of Social Science</unittitle>
                         <container id="cid22308006" type="Box" label="Photographs">1</container>
                         <container parent="cid22308006" type="Folder">7</container>
                         <unitdate normal="1940/1954" type="inclusive">circa 1940-circa 1954</unitdate>
                     </did>
-                </c02>
-                <c02 id="ref12" level="file">
+                </c>
+                <c id="ref12" level="file">
                     <did>
                         <unittitle>Socialist Party</unittitle>
                         <container id="cid22308007" type="Box" label="Photographs">1</container>
                         <container parent="cid22308007" type="Folder">8</container>
                         <unitdate normal="1914/1940" type="inclusive">circa 1914-circa 1940</unitdate>
                     </did>
-                </c02>
-                <c02 id="ref13" level="file">
+                </c>
+                <c id="ref13" level="file">
                     <did>
                         <unittitle>Unidentified Events</unittitle>
                         <container id="cid22308008" type="Box" label="Photographs">1</container>
                         <container parent="cid22308008" type="Folder">9</container>
                         <unitdate normal="1940/1959" type="inclusive">circa 1940-1959</unitdate>
                     </did>
-                </c02>
-            </c01>
+                </c>
+            </c>
         </dsc>
     </archdesc>
 </ead>

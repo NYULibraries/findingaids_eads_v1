@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="dlib.nyu.edu/findingaids/html/tamwag/tam_219">tam_219</eadid>
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_219">tam_219</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Gerhart Eisler FOIA Files
@@ -22,14 +22,14 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-07-03T14:36-0400</date>
+                <date>2014-10-09T17:10-0400</date>
             </creation>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
                 <date>07-01-2013</date>
-                <item>Revised by Erika Gottfried.</item>
+                <item>Revised by Erika Gottfried. Edited by Nicole Greenhouse in 2014 to reflect updated administrative information</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -48,12 +48,13 @@
                 <extent>in 9 record cartons</extent>
             </physdesc>
             <unitdate normal="1947/1951" type="bulk">Bulk, 1947-1951</unitdate>
-            <unitdate normal="1941/1968" type="inclusive">circa 1941-1968</unitdate>
+            <unitdate normal="1941/1968" type="inclusive">1941-1968</unitdate>
             <physloc id="ref20" label="Location note">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@library at least two business days prior to research visit.</physloc>
             <langmaterial id="ref19" label="Language of Materials note">Materials are in English</langmaterial>
+            <physloc audience="internal" id="ref4" label="Location note">Building: Bobst Area: Kitchen From Aisle: 17 From Range: D From Shelf: 4</physloc>
             <abstract id="ref36" label="Abstract">Gerhart Eisler (1897-1968) was a journalist and prominent communist activist in Austria, Germany, the United States, and the German Democratic Republic (East Germany). A political refugee from Europe, he arrived in the United States in 1941. In 1947 he was publicly accused of being an agent of the Soviet Union, and was charged and stood trial on separate charges of contempt of Congress (because he refused to be sworn in at a hearing before the U.S. Congress' House Un-American Activities Committee) and of perjury for misrepresenting his Communist Party affiliation on his immigration application. He was sentenced to one and three years in prison, but was released on bond. In May 1947 he jumped bail and fled the country, making his way to the German Democratic Republic (East Germany), where he remained for the rest of his life. The materials in this collection are photocopies of original documents obtained through Freedom of Information Act (FOIA) requests made to the United States Federal Bureau of Investigation for records pertaining to Eisler. They document the intense scrutiny and surveillance of Gerhard Eisler, his wife, and associates, by the United States government from the 1940s through the 1960s.</abstract>
             <origination label="creator">
-                <persname source="naf">Schrecker, Ellen</persname>
+                <persname rules="dacs" source="naf">Schrecker, Ellen</persname>
             </origination>
             <origination label="creator">
                 <corpname source="naf">United States. Federal Bureau of Investigation.</corpname>
@@ -73,7 +74,7 @@
         </prefercite>
         <acqinfo id="ref18">
             <head>Immediate Source of Acquisition note</head>
-            <p>Historian Ellen Schrecker donated this collection. She obtained the documents in it as a result of a number of separate requests she made to the United States Federal Bureau of Investigation (FBI) and other U.S. federal agencies, using the mechanism of the Freedom of Information Act (FOIA), for records pertaining to Gerhard Eisler.</p>
+            <p>Ellen Schrecker sent a gift of documents obtained as a result of a number of separate requests she made to the United States Federal Bureau of Investigation (FBI) and other U.S. federal agencies, using the mechanism of the Freedom of Information Act (FOIA), for records pertaining to Gerhard Eisler in 2007. The accession number associated with this gift is 2008.006.</p>
         </acqinfo>
         <scopecontent id="ref1">
             <head>Scope and Contents note</head>
@@ -96,16 +97,7 @@
         </separatedmaterial>
         <userestrict id="ref17">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
-            <p>Documents created by the Federal government are in the public domain.</p>
+            <p>Materials created by the federal government in this collection are in the public domain. Users need not secure permission from the Tamiment library to publish or reproduce materials in this collection.</p>
         </userestrict>
         <accessrestrict id="ref16">
             <head>Access Restrictions</head>
@@ -127,17 +119,17 @@
             <persname source="naf">Eisler, Gerhart</persname>
             <persname source="naf">Eisler, Hanns, 1898-1962</persname>
             <persname source="naf">Fischer, Ruth, 1895-</persname>
-            <persname source="naf">Schrecker, Ellen</persname>
+            <persname rules="dacs" source="naf">Schrecker, Ellen</persname>
             <subject source="lcsh">Anti-communist movements |z United States.</subject>
             <subject source="lcsh">Communism |z United States.</subject>
             <subject source="lcsh">Communists |z China.</subject>
-            <subject source="lcsh">Communists |z United States</subject>
-            <subject source="lcsh">Communists, Germany.</subject>
+            <subject source="lcsh">Communists |z Germany.</subject>
+            <subject source="lcsh">Communists |z United States.</subject>
             <subject source="lcsh">Deportation |z United States.</subject>
             <geogname source="lcsh">Germany |x History |y 1918-1933.</geogname>
         </controlaccess>
         <dsc>
-            <c01 id="ref6" level="file">
+            <c id="ref6" level="file">
                 <did>
                     <unittitle>Eisler State Department 1949; File HQ 100-32520, Section #s 1-6</unittitle>
                     <container id="cid22426001" type="Box" label="Text (31142054627768)">1</container>
@@ -148,8 +140,8 @@
                     <p>Notable are a 1942 memo from U.S. Immigration and Naturalization Service to FBI Director J. Edgar Hoover to re Eisler’s attempts to secure a work permit in the U.S., and FBI response including report from confidential informant; correspondence between the FBI and wartime postal censorship department; a memo from Director Hoover to Office of Strategic Services Director William Donovan; a detailed chronology of Eisler’s movements and correspondence about him between FBI and INS and State prepared for Hoover; translations from German of issues of 
                         <emph render="italic">The German American</emph>; lists of names of people who sent postcards to the State Department protesting denial of an exit permit to Eisler.</p>
                 </scopecontent>
-            </c01>
-            <c01 id="ref7" level="file">
+            </c>
+            <c id="ref7" level="file">
                 <did>
                     <unittitle>File HQ 100-32520, Section #s 6-10</unittitle>
                     <container id="cid22426002" type="Box" label="Text (31142054627776)">2</container>
@@ -159,8 +151,8 @@
                     <head>Scope and Content Note</head>
                     <p>Notable documents include information on FBI interviews with a notary public who witnessed Eisler’s signature on his application for an exit visa.</p>
                 </scopecontent>
-            </c01>
-            <c01 id="ref8" level="file">
+            </c>
+            <c id="ref8" level="file">
                 <did>
                     <unittitle>File HQ 100-32520, Section #s 11-27</unittitle>
                     <container id="cid22426003" type="Box" label="Text (31142054627784)">3</container>
@@ -170,8 +162,8 @@
                     <head>Scope and Content Note</head>
                     <p>Includes translations of and informant reports about conversations between the Czechoslovakian consul in New York and the Czech ambassador in 1948.</p>
                 </scopecontent>
-            </c01>
-            <c01 id="ref9" level="file">
+            </c>
+            <c id="ref9" level="file">
                 <did>
                     <unittitle>File HQ 100-32520, Section #s 28-31 and File NY 100-12376, Section #s 1-5</unittitle>
                     <container id="cid22426004" type="Box" label="Text (31142054627792)">4</container>
@@ -181,8 +173,8 @@
                     <head>Scope and Content Note</head>
                     <p>Includes surveillance reports on Eisler from 1943 and 1944, and requests from FBI headquarters for information on Eisler made to its Newark, Chicago, St. Louis, San Franciso, and Los Angeles offices; a letter from a local postmaster acknowledging an FBI request to monitor Eisler’s mail; an FBI request made to the New Rochelle, New York police department for information on Eisler, crime laboratory reports (including crytographers’ worksheets) on tests made on letters from Eisler and his wife submitted by the FBI; reports on information provided by confidential informants, including Eisler’s sister, Ruth, and a 1949 surveillance report (produced at FBI’s behest) by an IRS intelligence unit looking for possible income tax violations by Eisler.</p>
                 </scopecontent>
-            </c01>
-            <c01 id="ref10" level="file">
+            </c>
+            <c id="ref10" level="file">
                 <did>
                     <unittitle>File NY 100-12376 Section #s 6-12</unittitle>
                     <container id="cid22426005" type="Box" label="Text (31142054627800)">5</container>
@@ -192,8 +184,8 @@
                     <head>Scope and Content Note</head>
                     <p>Includes reports from numerous confidential informants.</p>
                 </scopecontent>
-            </c01>
-            <c01 id="ref11" level="file">
+            </c>
+            <c id="ref11" level="file">
                 <did>
                     <unittitle>File NY 100-12376 Section #s 12-14 Part A</unittitle>
                     <container id="cid22426006" type="Box" label="Text (31142054627818)">6</container>
@@ -203,8 +195,8 @@
                     <head>Scope and Content Note</head>
                     <p>Reports by confidential informants, letters from anonymous informants, reports, and news clippings.</p>
                 </scopecontent>
-            </c01>
-            <c01 id="ref12" level="file">
+            </c>
+            <c id="ref12" level="file">
                 <did>
                     <unittitle>File NY 100-12376, Section 14 A&amp;B; File HQ 100-32520, Section # 6 of 6; File NY12376 – supplemental release</unittitle>
                     <container id="cid22426007" type="Box" label="Text (31142054627826)">7</container>
@@ -214,8 +206,8 @@
                     <head>Scope and Content Note</head>
                     <p>Includes over 300 pages of documents collated by the FBI as part of a “report prepared in an attempt to summarize the pertinent information to date relating to the activities of Gerhard Eisler” that includes poor quality copies of surveillance photographs, as well as a reference to surveillance motion picture film having been shot of Eisler.</p>
                 </scopecontent>
-            </c01>
-            <c01 id="ref13" level="file">
+            </c>
+            <c id="ref13" level="file">
                 <did>
                     <unittitle>File HQ 100-32520, Subfile A, Section #s 1-12 ; File NY 100-12376 Subfile 1A Section #1 - File NY 100-12376 Subfile A, Section #5</unittitle>
                     <container id="cid22426008" type="Box" label="Text (31142054627834)">8</container>
@@ -225,8 +217,8 @@
                     <head>Scope and Content Note</head>
                     <p>Newspaper clippings arranged in chronological order within their folders, and files (each including a list of its contents of that file) including correspondence between the FBI and police forces in Europe and documents from Europe (including Nazi Germany) re Eisler and his associates, surveillance photographs, intercepted mail and telegrams, surveillance reports.</p>
                 </scopecontent>
-            </c01>
-            <c01 id="ref14" level="file">
+            </c>
+            <c id="ref14" level="file">
                 <did>
                     <unittitle>File NY 12376, Subfile A Section #6 – NY 12376 Subfile B, Section 3; FOIA requests and materials from United States Federal Agencies in addition to the FBI</unittitle>
                     <container id="cid22426009" type="Box" label="Text (31142054627842)">9</container>
@@ -236,7 +228,7 @@
                     <head>Scope and Content Note</head>
                     <p>Includes briefs relating to Eisler’s court cases, files from and correspondence to Ellen Schrecker (from additional US government agencies besides the FBI) in response to her FOIA requests, including the State Department, Immigration and Naturalization Service (INS), Department of Justice Criminal Division, Central Intelligence and the Army. The INS file includes copy stenographers minutes of Eisler’s 1947 hearing by its Alien Enemy Board, documents detailing surveillance by U.S. government operatives in Frankfurt, Germany in 1952, 1953 looking for information on Eisler, and documents of 1952/1956 discussions between the FBI and U.S. officials in Bonn regarding unsuccessful attempts to persuade Eisler to defect from East Germany.</p>
                 </scopecontent>
-            </c01>
+            </c>
         </dsc>
     </archdesc>
 </ead>

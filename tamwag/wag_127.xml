@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_127</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_167/">wag_127</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to the Papers of Jacob Pat
+                <titleproper>Guide to the Jacob Pat Papers
                     <num>WAG.127</num>
                 </titleproper>
                 <author>Finding aid prepared by Jessica Weglein and Anton Weiss-Wendt, 1998</author>
@@ -12,50 +12,58 @@
                 <p>This version was derived from Pat, Jacob.wpd</p>
             </editionstmt>
             <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
                 <address>
                     <addressline>Elmer Holmes Bobst Library</addressline>
                     <addressline>70 Washington Square South</addressline>
                     <addressline>New York, NY, 10012</addressline>
                     <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                    <addressline>tamiment.wagner@library.nyu.edu</addressline>
                 </address>
                 <date>2009</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-04-20T12:11-0400</date>
+                <date>2014-05-08T12:06-0400</date>
             </creation>
-            <langusage>Description is in 
-                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <langusage>Finding aid is in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>Dec 2013</date>
+                <item>Edited by Maggie Schreiner for compliance with DACS and Tamiment Required Elements for Archival Description and to reflect the incorporation of nonprint materials</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
             <unittitle>Jacob Pat Papers</unittitle>
             <unitid>WAG.127</unitid>
             <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
+                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>2.0 linear feet</extent>
-                <extent>(2 boxes)</extent>
+                <extent>2.5 linear feet</extent>
+                <extent>in 2 record cartons, 1 manuscript box and 1 oversize folder.</extent>
             </physdesc>
             <unitdate normal="1944/1960" type="bulk">Bulk, 1944-1960</unitdate>
-            <unitdate normal="1935/1978" type="inclusive">1935-1978, (Bulk 1944-1960)</unitdate>
-            <abstract id="ref3" label="Abstract">Jacob Pat was a journalist, writer and activist born in Bialystok, Russian Empire, in 1890. He served as the General Secretary of the Jewish Labor Bund's Central Association of Yiddish Schools in Warsaw, Poland in the years preceding World War II. A fund-raising trip in the fall of 1938 brought Jacob Pat to the United States where he was compelled to remain due to the war. He then devoted his efforts to anti-Nazi activity and rescue work and became the Executive Secretary of the Jewish Labor Comittee, a position he held until his retirement in 1963. He also served as a member of the Delegation of the Jewish Labor Bund to the U.S., and as a chairman of the Congress of Jewish Culture. These papers include correspondence, essays and writings, in particular, material pertaining to Pat's work with the Jewish Labor Committee.</abstract>
+            <unitdate normal="1930/1978" type="inclusive">circa 1930-1978</unitdate>
+            <abstract id="ref3" label="Abstract">Jacob Pat was a journalist, writer and activist born in Bialystok, Russian Empire, in 1890. He served as the General Secretary of the Jewish Labor Bund's Central Association of Yiddish Schools in Warsaw, Poland in the years preceding World War II. A fund-raising trip in the fall of 1938 brought Jacob Pat to the United States where he was compelled to remain due to the war. He then devoted his efforts to anti-Nazi activity and rescue work and became the Executive Secretary of the Jewish Labor Comittee, a position he held until his retirement in 1963. He also served as a member of the Delegation of the Jewish Labor Bund to the U.S., and as a chairman of the Congress of Jewish Culture. These papers include correspondence, essays, writings, and photographs, in particular material pertaining to Pat's work with the Jewish Labor Committee.</abstract>
+            <langmaterial id="ref220" label="Language of Materials note">Materials are in English, Yiddish and Hebrew.</langmaterial>
             <origination label="creator">
                 <persname source="naf">Pat, Jacob, 1890-1966.</persname>
             </origination>
         </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>The papers of Jacob Pat were donated to the Robert F. Wagner Labor Archives by his granddaughter, Rebecca Patt Cohen, in 1998.</p>
-        </custodhist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The papers of Jacob Pat were donated to the Robert F. Wagner Labor Archives by his granddaughter, Rebecca Patt Cohen, in 1996.</p>
+            <p>A negative and some accompanying correspondence found in the repository was added to the collection in 2014. The accession number associated with this accession is 2014.112.</p>
+        </acqinfo>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
             <p>Open for research without restrictions.</p>
@@ -71,34 +79,27 @@
         </bioghist>
         <scopecontent id="ref9">
             <head>Scope and Content Note</head>
-            <p>Series I: Biographical/Correspondence (1937-1971) includes one file of obituary and memorial articles, and thirty-two files of correspondence, arranged chronologically. The correspondence includes both incoming and outgoing letters, reflecting Pat's involvement with a wide range of Jewish political and cultural organizations, and personal correspondence with friends from many countries. Of special note is a file of correspondence related to the publication of his Conversations with Jewish Writers, 1959-1960. Also included is a small number of letters addressed to or written by other Jewish Labor Committee and Jewish Labor Bund officers and staff, which came into Pat's possession in the course of his work.</p>
-            <p>Series II: Subject Files (1935-1978), arranged alphabetically by topic, include a substantial amount of material illustrating Pat's work with the Jewish Labor Committee, manuscript and printed reports and essays on a variety of topics related to the Holocaust and Jewish survival, and records of his travels. A small number of documents dating from the years after Jacob Pat's death in 1966 were preserved by his widow, Frieda.</p>
+            <p>This collection consists of correspondence, including both incoming and outgoing letters which reflect Pat's involvement with a wide range of Jewish political and cultural organizations, and personal correspondence with friends from many countries. Of special note is a file of correspondence related to the publication of his Conversations with Jewish Writers, 1959-1960. Also included in the correspondence files are a small number of letters addressed to or written by other Jewish Labor Committee and Jewish Labor Bund officers and staff, which came into Pat's possession in the course of his work. The collection also includes a substantial amount of material illustrating Pat's work with the Jewish Labor Committee, manuscript and printed reports and essays on a variety of topics related to the Holocaust and Jewish survival, and records of his travels. A small number of documents dating from the years after Jacob Pat's death in 1966 were preserved by his widow, Frieda. Approximately three hundred and fifty black and white photographs document Pat’s travels throughout Europe, Israel and South America on behalf of the Jewish Labor Committee and the Joint Distribution Committee. Also represented in the photographs are meetings, events and family members and friends. Notable individuals included in the photographs include Baruch Charney Vladeck, Szmul Zygielbojm and Golda Meir.</p>
+            <p></p>
+            <p></p>
         </scopecontent>
         <arrangement id="ref10">
             <head>Arrangement</head>
-            <p>Organized into 2 series: I. Biographical and Correspondence, 1937-1971 and II. Subject files, 1935-1978.</p>
-            <p>Series I is arranged chronologically and series II is arranged alphabetically by subject, and thereunder chronologically.</p>
+            <p>Organized into 3 series:</p>
+            <p>Series I: Biographical and Correspondence, 1937-1971</p>
+            <p>Series II: Subject files, 1935-1978</p>
+            <p>Series III: Photographs, circa 1930-1969.</p>
+            <p>Series I is arranged chronologically and series II and III are arranged alphabetically by subject, and thereunder chronologically.</p>
         </arrangement>
-        <relatedmaterial id="ref213">
-            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>Records of the Jewish Labor Committee</p>
-            <p>
-                <archref>
-                    <extref ns2:href="http://dlib.nyu.edu/eadapp/transform?source=tamwag/jlc_2003.xml&amp;style=tamwag/tamwag.xsl">The Jewish Labor Committee, Chicago (Wagner 110)</extref> </archref></p>
-        </relatedmaterial>
-        <separatedmaterial id="ref214">
-            <head>Separated Material</head>
-            <p>Photographs from the Jacob Pat collection have been separated and are in the Non-Print Department of the Wagner Labor Archives/Tamiment Library.</p>
-        </separatedmaterial>
         <originalsloc id="ref215">
-            <head>Microfilm</head>
-            <p>Film R-7200</p>
+            <head>Existence and Location of Originals note</head>
+            <p>Series I and II of the Jacob Pat Papers were microfilmed in 2005 by the OCLC Digital Collection and Preservation Services, with funding provided by the United States Holocaust Memorial Museum. Researchers must use microfilm for Series I and II of this collection (Film R-7200, Reels 1-5).</p>
         </originalsloc>
         <prefercite id="ref217">
             <head>Preferred Citation</head>
             <p>Published citations should take the following form: 
                 <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Identification of item, date; Jacob Pat Papers; WAG 127; box number; folder number; 
                 <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
                 <lb/>Elmer Holmes Bobst Library 
                 <lb/>70 Washington Square South 
@@ -106,16 +107,31 @@
         </prefercite>
         <userestrict id="ref218">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
+            <p>Copyright holder unknown. Permission to publish materials must be obtained in writing from the: 
                 <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
                 <lb/> Elmer Holmes Bobst Library 
                 <lb/> 70 Washington Square South 
                 <lb/> New York, NY 10012 
                 <lb/> Phone: (212) 998-2630 
                 <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@nyu.edu 
+                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
                 <lb/></p>
         </userestrict>
+        <processinfo id="ref221">
+            <head>Processing Information note</head>
+            <p>Photographs separated from this collection during processing were established as a separate collection, the Jacob Pat Photographs (PHOTOS 143). In 2013, the photograph collection was reincorporated into the Jacob Pat Papers (WAG 127).</p>
+            <p>Materials in Box 3, Folder 14 were discovered in the repository and added to WAG 127 in 2014.</p>
+        </processinfo>
+        <relatedmaterial id="ref237">
+            <head>Related Archival Materials</head>
+            <p>Jewish Labor Committee, Chicago Records and Photographs (WAG 160)</p>
+            <p>Jewish Labor Committee Oral History Collection (OH 027)</p>
+            <p>Jewish Labor Committee Photographs (PHOTOS 048)</p>
+            <p>Jewish Labor Committee Records, Part I: Holocaust Era Files (WAG 025.1)</p>
+            <p>Jewish Labor Committee Records, Part II: Holocaust Era Files (WAG 025.2)</p>
+            <p>Jewish Labor Committee (U.S.) Records, Part III: Post-war Administrative Files and Anti-Discrimination Department Files (WAG 025.003)</p>
+            <p>Jewish Labor Committee Records, Part IV: Addendum (WAG 025.4)</p>
+        </relatedmaterial>
         <controlaccess>
             <corpname source="naf">American Jewish Joint Distribution Committee.</corpname>
             <corpname source="local">American Labor Committee.</corpname>
@@ -125,7 +141,7 @@
             <corpname source="naf">General Jewish Council (U.S.).</corpname>
             <persname source="ingest">Held, Adolph, 1885-1969.</persname>
             <corpname source="naf">International Jewish Labor Bund.</corpname>
-            <corpname source="naf">International Ladies' Garment Workers' Union.</corpname>
+            <corpname rules="dacs" source="naf">International Ladies' Garment Workers' Union.</corpname>
             <corpname source="naf">Jewish Labor Committee (U.S.).</corpname>
             <corpname source="naf">Ogólny Żydowski Związek Robotniczy "Bund" w Polsce.</corpname>
             <persname source="ingest">Pat, Frieda Wider.</persname>
@@ -145,17 +161,19 @@
             <subject source="lcsh">Jews |x Persecutions |z Europe.</subject>
             <subject source="lcsh">Jews |x Politics and government.</subject>
             <subject source="lcsh">Labor movement |z Poland.</subject>
+            <genreform source="aat">Photographs.</genreform>
             <geogname source="lcsh">Poland |x History |y 1918-1945.</geogname>
             <subject source="lcsh">Political parties |z Poland.</subject>
             <geogname source="lcsh">Soviet Union |x Foreign public opinion, French.</geogname>
             <subject source="lcsh">World War, 1939-1945 |x Jews |x Rescue.</subject>
         </controlaccess>
         <dsc>
-            <c01 id="ref11" level="series">
+            <c id="ref11" level="series">
                 <did>
                     <unittitle>Series I: Biographical/Correspondence</unittitle>
+                    <unitdate normal="1937/1971" type="inclusive">1937-1971</unitdate>
                 </did>
-                <c02 id="ref12" level="otherlevel">
+                <c id="ref12" level="otherlevel">
                     <did>
                         <unittitle>Biographical/Obituary Information</unittitle>
                         <container id="cid107368" type="Box" label="Mixed materials">1</container>
@@ -166,8 +184,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref14" level="otherlevel">
+                </c>
+                <c id="ref14" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107367" type="Box" label="Mixed materials">1</container>
@@ -178,8 +196,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref16" level="otherlevel">
+                </c>
+                <c id="ref16" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107366" type="Box" label="Mixed materials">1</container>
@@ -190,8 +208,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref18" level="otherlevel">
+                </c>
+                <c id="ref18" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107365" type="Box" label="Mixed materials">1</container>
@@ -202,8 +220,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref20" level="otherlevel">
+                </c>
+                <c id="ref20" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107364" type="Box" label="Mixed materials">1</container>
@@ -214,8 +232,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref22" level="otherlevel">
+                </c>
+                <c id="ref22" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107363" type="Box" label="Mixed materials">1</container>
@@ -226,8 +244,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref24" level="otherlevel">
+                </c>
+                <c id="ref24" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107362" type="Box" label="Mixed materials">1</container>
@@ -238,8 +256,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref26" level="otherlevel">
+                </c>
+                <c id="ref26" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107361" type="Box" label="Mixed materials">1</container>
@@ -250,8 +268,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref28" level="otherlevel">
+                </c>
+                <c id="ref28" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107360" type="Box" label="Mixed materials">1</container>
@@ -262,8 +280,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref30" level="otherlevel">
+                </c>
+                <c id="ref30" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107359" type="Box" label="Mixed materials">1</container>
@@ -274,8 +292,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref32" level="otherlevel">
+                </c>
+                <c id="ref32" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107358" type="Box" label="Mixed materials">1</container>
@@ -286,8 +304,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref34" level="otherlevel">
+                </c>
+                <c id="ref34" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107357" type="Box" label="Mixed materials">1</container>
@@ -298,8 +316,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref36" level="otherlevel">
+                </c>
+                <c id="ref36" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107356" type="Box" label="Mixed materials">1</container>
@@ -310,8 +328,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref38" level="otherlevel">
+                </c>
+                <c id="ref38" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107355" type="Box" label="Mixed materials">1</container>
@@ -322,8 +340,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref40" level="otherlevel">
+                </c>
+                <c id="ref40" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107354" type="Box" label="Mixed materials">1</container>
@@ -334,8 +352,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref42" level="otherlevel">
+                </c>
+                <c id="ref42" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107353" type="Box" label="Mixed materials">1</container>
@@ -346,8 +364,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref44" level="otherlevel">
+                </c>
+                <c id="ref44" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107352" type="Box" label="Mixed materials">1</container>
@@ -358,8 +376,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref46" level="otherlevel">
+                </c>
+                <c id="ref46" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107351" type="Box" label="Mixed materials">1</container>
@@ -370,8 +388,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref48" level="otherlevel">
+                </c>
+                <c id="ref48" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107350" type="Box" label="Mixed materials">1</container>
@@ -382,8 +400,8 @@
                         <head>General note</head>
                         <p>Reel 1</p>
                     </odd>
-                </c02>
-                <c02 id="ref50" level="otherlevel">
+                </c>
+                <c id="ref50" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107349" type="Box" label="Mixed materials">1</container>
@@ -394,8 +412,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref52" level="otherlevel">
+                </c>
+                <c id="ref52" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107348" type="Box" label="Mixed materials">1</container>
@@ -406,8 +424,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref54" level="otherlevel">
+                </c>
+                <c id="ref54" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107347" type="Box" label="Mixed materials">1</container>
@@ -418,8 +436,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref56" level="otherlevel">
+                </c>
+                <c id="ref56" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107346" type="Box" label="Mixed materials">1</container>
@@ -430,8 +448,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref58" level="otherlevel">
+                </c>
+                <c id="ref58" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107345" type="Box" label="Mixed materials">1</container>
@@ -442,8 +460,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref60" level="otherlevel">
+                </c>
+                <c id="ref60" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107344" type="Box" label="Mixed materials">1</container>
@@ -454,8 +472,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref62" level="otherlevel">
+                </c>
+                <c id="ref62" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107343" type="Box" label="Mixed materials">1</container>
@@ -466,8 +484,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref64" level="otherlevel">
+                </c>
+                <c id="ref64" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107342" type="Box" label="Mixed materials">1</container>
@@ -478,8 +496,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref66" level="otherlevel">
+                </c>
+                <c id="ref66" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107341" type="Box" label="Mixed materials">1</container>
@@ -490,8 +508,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref68" level="otherlevel">
+                </c>
+                <c id="ref68" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107340" type="Box" label="Mixed materials">1</container>
@@ -502,8 +520,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref70" level="otherlevel">
+                </c>
+                <c id="ref70" level="otherlevel">
                     <did>
                         <unittitle>Correspondence</unittitle>
                         <container id="cid107339" type="Box" label="Mixed materials">1</container>
@@ -514,8 +532,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref72" level="otherlevel">
+                </c>
+                <c id="ref72" level="otherlevel">
                     <did>
                         <unittitle>Correspondence: Bialystoker Book</unittitle>
                         <container id="cid107338" type="Box" label="Mixed materials">1</container>
@@ -526,8 +544,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref74" level="otherlevel">
+                </c>
+                <c id="ref74" level="otherlevel">
                     <did>
                         <unittitle>Correspondence: Related to Sihot im Soforim Yehudiyim (Conversations with Jewish Writers)</unittitle>
                         <container id="cid107337" type="Box" label="Mixed materials">1</container>
@@ -538,8 +556,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref76" level="otherlevel">
+                </c>
+                <c id="ref76" level="otherlevel">
                     <did>
                         <unittitle>Correspondence: Sherer, Emanuel</unittitle>
                         <container id="cid107336" type="Box" label="Mixed materials">1</container>
@@ -550,13 +568,14 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-            </c01>
-            <c01 id="ref78" level="series">
+                </c>
+            </c>
+            <c id="ref78" level="series">
                 <did>
                     <unittitle>Series II: Subject Files</unittitle>
+                    <unitdate normal="1935/1978" type="inclusive">1935-1978</unitdate>
                 </did>
-                <c02 id="ref79" level="otherlevel">
+                <c id="ref79" level="otherlevel">
                     <did>
                         <unittitle>Address Books &amp; Business Cards</unittitle>
                         <container id="cid107335" type="Box" label="Mixed materials">1</container>
@@ -567,8 +586,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref81" level="otherlevel">
+                </c>
+                <c id="ref81" level="otherlevel">
                     <did>
                         <unittitle>American Jewish Joint Distribution Committee</unittitle>
                         <container id="cid107334" type="Box" label="Mixed materials">1</container>
@@ -579,8 +598,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref83" level="otherlevel">
+                </c>
+                <c id="ref83" level="otherlevel">
                     <did>
                         <unittitle>American Labor Committee</unittitle>
                         <container id="cid107333" type="Box" label="Mixed materials">1</container>
@@ -591,8 +610,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref85" level="otherlevel">
+                </c>
+                <c id="ref85" level="otherlevel">
                     <did>
                         <unittitle>Australia</unittitle>
                         <container id="cid107332" type="Box" label="Mixed materials">1</container>
@@ -603,8 +622,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref87" level="otherlevel">
+                </c>
+                <c id="ref87" level="otherlevel">
                     <did>
                         <unittitle>Australia: Trip - Clippings</unittitle>
                         <container id="cid107331" type="Box" label="Mixed materials">1</container>
@@ -615,8 +634,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref89" level="otherlevel">
+                </c>
+                <c id="ref89" level="otherlevel">
                     <did>
                         <unittitle>Australia: Trip - Correspondence</unittitle>
                         <container id="cid107330" type="Box" label="Mixed materials">1</container>
@@ -627,8 +646,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref91" level="otherlevel">
+                </c>
+                <c id="ref91" level="otherlevel">
                     <did>
                         <unittitle>Bessarabian Jewry</unittitle>
                         <container id="cid107329" type="Box" label="Mixed materials">1</container>
@@ -639,8 +658,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref93" level="otherlevel">
+                </c>
+                <c id="ref93" level="otherlevel">
                     <did>
                         <unittitle>Bialystok</unittitle>
                         <container id="cid107328" type="Box" label="Mixed materials">1</container>
@@ -651,8 +670,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref95" level="otherlevel">
+                </c>
+                <c id="ref95" level="otherlevel">
                     <did>
                         <unittitle>Bialystok: Research by Nachman Blumental</unittitle>
                         <container id="cid107327" type="Box" label="Mixed materials">1</container>
@@ -663,8 +682,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref97" level="otherlevel">
+                </c>
+                <c id="ref97" level="otherlevel">
                     <did>
                         <unittitle>Chanin: Zionism &amp; Communism</unittitle>
                         <container id="cid107326" type="Box" label="Mixed materials">1</container>
@@ -675,8 +694,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref99" level="otherlevel">
+                </c>
+                <c id="ref99" level="otherlevel">
                     <did>
                         <unittitle>China (Mezhiborsky, D., memorabilia)</unittitle>
                         <container id="cid107325" type="Box" label="Mixed materials">1</container>
@@ -687,8 +706,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref101" level="otherlevel">
+                </c>
+                <c id="ref101" level="otherlevel">
                     <did>
                         <unittitle>Citizens Committee on Displaced Persons</unittitle>
                         <container id="cid107324" type="Box" label="Mixed materials">1</container>
@@ -699,8 +718,8 @@
                         <head>General note</head>
                         <p>Reel 2</p>
                     </odd>
-                </c02>
-                <c02 id="ref103" level="otherlevel">
+                </c>
+                <c id="ref103" level="otherlevel">
                     <did>
                         <unittitle>Citizens Committee on Displaced Persons</unittitle>
                         <container id="cid107323" type="Box" label="Mixed materials">1</container>
@@ -711,8 +730,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref105" level="otherlevel">
+                </c>
+                <c id="ref105" level="otherlevel">
                     <did>
                         <unittitle>Common Council for American Unity</unittitle>
                         <container id="cid107322" type="Box" label="Mixed materials">1</container>
@@ -723,8 +742,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref107" level="otherlevel">
+                </c>
+                <c id="ref107" level="otherlevel">
                     <did>
                         <unittitle>Conference: Goals of the Jewish Labor Movement</unittitle>
                         <container id="cid107321" type="Box" label="Mixed materials">1</container>
@@ -735,8 +754,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref109" level="otherlevel">
+                </c>
+                <c id="ref109" level="otherlevel">
                     <did>
                         <unittitle>Congress for Jewish Culture</unittitle>
                         <container id="cid107320" type="Box" label="Mixed materials">1</container>
@@ -747,8 +766,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref111" level="otherlevel">
+                </c>
+                <c id="ref111" level="otherlevel">
                     <did>
                         <unittitle>Diaries</unittitle>
                         <container id="cid107319" type="Box" label="Mixed materials">1</container>
@@ -759,8 +778,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref113" level="otherlevel">
+                </c>
+                <c id="ref113" level="otherlevel">
                     <did>
                         <unittitle>Displaced Persons Act</unittitle>
                         <container id="cid107318" type="Box" label="Mixed materials">1</container>
@@ -771,8 +790,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref115" level="otherlevel">
+                </c>
+                <c id="ref115" level="otherlevel">
                     <did>
                         <unittitle>Displaced Persons Bill</unittitle>
                         <container id="cid107317" type="Box" label="Mixed materials">1</container>
@@ -783,8 +802,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref117" level="otherlevel">
+                </c>
+                <c id="ref117" level="otherlevel">
                     <did>
                         <unittitle>Displaced Persons Screening</unittitle>
                         <container id="cid107316" type="Box" label="Mixed materials">1</container>
@@ -795,8 +814,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref119" level="otherlevel">
+                </c>
+                <c id="ref119" level="otherlevel">
                     <did>
                         <unittitle>Erlich and Alter Case</unittitle>
                         <container id="cid107315" type="Box" label="Mixed materials">1</container>
@@ -807,8 +826,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref121" level="otherlevel">
+                </c>
+                <c id="ref121" level="otherlevel">
                     <did>
                         <unittitle>Exhibition: "Europe's Fighting Underground"</unittitle>
                         <container id="cid107314" type="Box" label="Mixed materials">1</container>
@@ -819,8 +838,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref123" level="otherlevel">
+                </c>
+                <c id="ref123" level="otherlevel">
                     <did>
                         <unittitle>France: Mouvement National Contre le Racisme- pamphlets &amp; newsletters</unittitle>
                         <container id="cid107313" type="Box" label="Mixed materials">2</container>
@@ -831,8 +850,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref125" level="otherlevel">
+                </c>
+                <c id="ref125" level="otherlevel">
                     <did>
                         <unittitle>France: Protest of Soviet Anti-Semitism</unittitle>
                         <container id="cid107312" type="Box" label="Mixed materials">2</container>
@@ -843,8 +862,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref127" level="otherlevel">
+                </c>
+                <c id="ref127" level="otherlevel">
                     <did>
                         <unittitle>Fund Transfer: European</unittitle>
                         <container id="cid107311" type="Box" label="Mixed materials">2</container>
@@ -855,8 +874,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref129" level="otherlevel">
+                </c>
+                <c id="ref129" level="otherlevel">
                     <did>
                         <unittitle>General Jewish Council</unittitle>
                         <container id="cid107310" type="Box" label="Mixed materials">2</container>
@@ -867,8 +886,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref131" level="otherlevel">
+                </c>
+                <c id="ref131" level="otherlevel">
                     <did>
                         <unittitle>Germany</unittitle>
                         <container id="cid107309" type="Box" label="Mixed materials">2</container>
@@ -879,8 +898,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref133" level="otherlevel">
+                </c>
+                <c id="ref133" level="otherlevel">
                     <did>
                         <unittitle>Held, Adolph - Speeches &amp; Addresses</unittitle>
                         <container id="cid107308" type="Box" label="Mixed materials">2</container>
@@ -891,8 +910,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref135" level="otherlevel">
+                </c>
+                <c id="ref135" level="otherlevel">
                     <did>
                         <unittitle>Hungarian Reports</unittitle>
                         <container id="cid107307" type="Box" label="Mixed materials">2</container>
@@ -903,8 +922,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref137" level="otherlevel">
+                </c>
+                <c id="ref137" level="otherlevel">
                     <did>
                         <unittitle>Hungarian Rescue</unittitle>
                         <container id="cid107306" type="Box" label="Mixed materials">2</container>
@@ -915,8 +934,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref139" level="otherlevel">
+                </c>
+                <c id="ref139" level="otherlevel">
                     <did>
                         <unittitle>Immigration</unittitle>
                         <container id="cid107305" type="Box" label="Mixed materials">2</container>
@@ -927,8 +946,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref141" level="otherlevel">
+                </c>
+                <c id="ref141" level="otherlevel">
                     <did>
                         <unittitle>Immigration</unittitle>
                         <container id="cid107304" type="Box" label="Mixed materials">2</container>
@@ -939,8 +958,8 @@
                         <head>General note</head>
                         <p>Reel 3</p>
                     </odd>
-                </c02>
-                <c02 id="ref143" level="otherlevel">
+                </c>
+                <c id="ref143" level="otherlevel">
                     <did>
                         <unittitle>Immigration</unittitle>
                         <container id="cid107303" type="Box" label="Mixed materials">2</container>
@@ -951,8 +970,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref145" level="otherlevel">
+                </c>
+                <c id="ref145" level="otherlevel">
                     <did>
                         <unittitle>International Ladies' Garment Workers' Union (ILGWU)</unittitle>
                         <container id="cid107302" type="Box" label="Mixed materials">2</container>
@@ -963,8 +982,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref147" level="otherlevel">
+                </c>
+                <c id="ref147" level="otherlevel">
                     <did>
                         <unittitle>ILGWU</unittitle>
                         <container id="cid107301" type="Box" label="Mixed materials">2</container>
@@ -975,8 +994,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref149" level="otherlevel">
+                </c>
+                <c id="ref149" level="otherlevel">
                     <did>
                         <unittitle>Israel</unittitle>
                         <container id="cid107300" type="Box" label="Mixed materials">2</container>
@@ -987,8 +1006,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref151" level="otherlevel">
+                </c>
+                <c id="ref151" level="otherlevel">
                     <did>
                         <unittitle>Italian-American Labor Council</unittitle>
                         <container id="cid107299" type="Box" label="Mixed materials">2</container>
@@ -999,8 +1018,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref153" level="otherlevel">
+                </c>
+                <c id="ref153" level="otherlevel">
                     <did>
                         <unittitle>Jewish Labor Committee (JLC): General</unittitle>
                         <container id="cid107298" type="Box" label="Mixed materials">2</container>
@@ -1011,8 +1030,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref155" level="otherlevel">
+                </c>
+                <c id="ref155" level="otherlevel">
                     <did>
                         <unittitle>JLC: Ab. Cahan Fund</unittitle>
                         <container id="cid107297" type="Box" label="Mixed materials">2</container>
@@ -1023,8 +1042,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref157" level="otherlevel">
+                </c>
+                <c id="ref157" level="otherlevel">
                     <did>
                         <unittitle>JLC: Correspondence</unittitle>
                         <container id="cid107296" type="Box" label="Mixed materials">2</container>
@@ -1035,8 +1054,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref159" level="otherlevel">
+                </c>
+                <c id="ref159" level="otherlevel">
                     <did>
                         <unittitle>JLC: Correspondence</unittitle>
                         <container id="cid107295" type="Box" label="Mixed materials">2</container>
@@ -1047,8 +1066,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref161" level="otherlevel">
+                </c>
+                <c id="ref161" level="otherlevel">
                     <did>
                         <unittitle>JLC: Correspondence</unittitle>
                         <container id="cid107294" type="Box" label="Mixed materials">2</container>
@@ -1059,8 +1078,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref163" level="otherlevel">
+                </c>
+                <c id="ref163" level="otherlevel">
                     <did>
                         <unittitle>JLC: Correspondence</unittitle>
                         <container id="cid107293" type="Box" label="Mixed materials">2</container>
@@ -1071,8 +1090,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref165" level="otherlevel">
+                </c>
+                <c id="ref165" level="otherlevel">
                     <did>
                         <unittitle>JLC: Correspondence</unittitle>
                         <container id="cid107292" type="Box" label="Mixed materials">2</container>
@@ -1083,8 +1102,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref167" level="otherlevel">
+                </c>
+                <c id="ref167" level="otherlevel">
                     <did>
                         <unittitle>JLC: Leivick Fund</unittitle>
                         <container id="cid107291" type="Box" label="Mixed materials">2</container>
@@ -1095,8 +1114,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref169" level="otherlevel">
+                </c>
+                <c id="ref169" level="otherlevel">
                     <did>
                         <unittitle>JLC: Minutes of National Executive Committee Meeting (excerpt), 20 Nov 1943. "Report &amp; Discussion on the General Jewish Conference"</unittitle>
                         <container id="cid107290" type="Box" label="Mixed materials">2</container>
@@ -1107,8 +1126,8 @@
                         <head>General note</head>
                         <p>Reel 4</p>
                     </odd>
-                </c02>
-                <c02 id="ref171" level="otherlevel">
+                </c>
+                <c id="ref171" level="otherlevel">
                     <did>
                         <unittitle>JLC: Printed Material</unittitle>
                         <container id="cid107289" type="Box" label="Mixed materials">2</container>
@@ -1119,8 +1138,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref173" level="otherlevel">
+                </c>
+                <c id="ref173" level="otherlevel">
                     <did>
                         <unittitle>JLC: Reports</unittitle>
                         <container id="cid107288" type="Box" label="Mixed materials">2</container>
@@ -1131,8 +1150,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref175" level="otherlevel">
+                </c>
+                <c id="ref175" level="otherlevel">
                     <did>
                         <unittitle>JLC: Women's Division</unittitle>
                         <container id="cid107287" type="Box" label="Mixed materials">2</container>
@@ -1143,8 +1162,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref177" level="otherlevel">
+                </c>
+                <c id="ref177" level="otherlevel">
                     <did>
                         <unittitle>JLC: Workmen's Circle Division</unittitle>
                         <container id="cid107286" type="Box" label="Mixed materials">2</container>
@@ -1155,8 +1174,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref179" level="otherlevel">
+                </c>
+                <c id="ref179" level="otherlevel">
                     <did>
                         <unittitle>Labor Chest (AFL)</unittitle>
                         <container id="cid107285" type="Box" label="Mixed materials">2</container>
@@ -1167,8 +1186,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref181" level="otherlevel">
+                </c>
+                <c id="ref181" level="otherlevel">
                     <did>
                         <unittitle>League for Human Rights</unittitle>
                         <container id="cid107284" type="Box" label="Mixed materials">2</container>
@@ -1179,8 +1198,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref183" level="otherlevel">
+                </c>
+                <c id="ref183" level="otherlevel">
                     <did>
                         <unittitle>Pat, Frieda</unittitle>
                         <container id="cid107283" type="Box" label="Mixed materials">2</container>
@@ -1191,8 +1210,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref185" level="otherlevel">
+                </c>
+                <c id="ref185" level="otherlevel">
                     <did>
                         <unittitle>Patt, Emanuel</unittitle>
                         <container id="cid107282" type="Box" label="Mixed materials">2</container>
@@ -1203,8 +1222,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref187" level="otherlevel">
+                </c>
+                <c id="ref187" level="otherlevel">
                     <did>
                         <unittitle>Poland</unittitle>
                         <container id="cid107281" type="Box" label="Mixed materials">2</container>
@@ -1215,8 +1234,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref189" level="otherlevel">
+                </c>
+                <c id="ref189" level="otherlevel">
                     <did>
                         <unittitle>Report: "Some Confidential Information on the Last Days"</unittitle>
                         <container id="cid107280" type="Box" label="Mixed materials">2</container>
@@ -1227,8 +1246,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref191" level="otherlevel">
+                </c>
+                <c id="ref191" level="otherlevel">
                     <did>
                         <unittitle>Reports, Notes, &amp; Writings</unittitle>
                         <container id="cid107279" type="Box" label="Mixed materials">2</container>
@@ -1239,8 +1258,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref193" level="otherlevel">
+                </c>
+                <c id="ref193" level="otherlevel">
                     <did>
                         <unittitle>Retirement</unittitle>
                         <container id="cid107278" type="Box" label="Mixed materials">2</container>
@@ -1251,8 +1270,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref195" level="otherlevel">
+                </c>
+                <c id="ref195" level="otherlevel">
                     <did>
                         <unittitle>Soviet Jewry</unittitle>
                         <container id="cid107277" type="Box" label="Mixed materials">2</container>
@@ -1263,8 +1282,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref197" level="otherlevel">
+                </c>
+                <c id="ref197" level="otherlevel">
                     <did>
                         <unittitle>Vilna: Refugee List</unittitle>
                         <container id="cid107276" type="Box" label="Mixed materials">2</container>
@@ -1275,8 +1294,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref199" level="otherlevel">
+                </c>
+                <c id="ref199" level="otherlevel">
                     <did>
                         <unittitle>Warsaw Ghetto Exhibition (Pictorial Statistics)</unittitle>
                         <container id="cid107275" type="Box" label="Mixed materials">2</container>
@@ -1287,8 +1306,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref201" level="otherlevel">
+                </c>
+                <c id="ref201" level="otherlevel">
                     <did>
                         <unittitle>Warsaw Ghetto Memorial</unittitle>
                         <container id="cid107274" type="Box" label="Mixed materials">2</container>
@@ -1299,8 +1318,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref203" level="otherlevel">
+                </c>
+                <c id="ref203" level="otherlevel">
                     <did>
                         <unittitle>Wise, Shmuel: "Jewish Workers' Movement in the United States"</unittitle>
                         <container id="cid107273" type="Box" label="Mixed materials">2</container>
@@ -1311,8 +1330,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref205" level="otherlevel">
+                </c>
+                <c id="ref205" level="otherlevel">
                     <did>
                         <unittitle>Workmen's Circle, Branch 303 ("Jacob Pat Branch")</unittitle>
                         <container id="cid107272" type="Box" label="Mixed materials">2</container>
@@ -1323,8 +1342,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref207" level="otherlevel">
+                </c>
+                <c id="ref207" level="otherlevel">
                     <did>
                         <unittitle>Workmen's Circle: Constitution</unittitle>
                         <container id="cid107271" type="Box" label="Mixed materials">2</container>
@@ -1335,8 +1354,8 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref209" level="otherlevel">
+                </c>
+                <c id="ref209" level="otherlevel">
                     <did>
                         <unittitle>World Conference of Jewish Organizations</unittitle>
                         <container id="cid107270" type="Box" label="Mixed materials">2</container>
@@ -1347,16 +1366,16 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-                <c02 id="ref219" level="file">
+                </c>
+                <c id="ref219" level="file">
                     <did>
                         <unittitle>Yiddish Culture Organization</unittitle>
                         <container id="cid21722001" type="Box" label="Mixed materials">2</container>
                         <container parent="cid21722001" type="Folder">45</container>
                         <unitdate>Jan 1945</unitdate>
                     </did>
-                </c02>
-                <c02 id="ref211" level="otherlevel">
+                </c>
+                <c id="ref211" level="otherlevel">
                     <did>
                         <unittitle>Yugentruf</unittitle>
                         <container id="cid107269" type="Box" label="Mixed materials">2</container>
@@ -1367,8 +1386,134 @@
                         <head>General note</head>
                         <p>Reel 5</p>
                     </odd>
-                </c02>
-            </c01>
+                </c>
+            </c>
+            <c id="ref222" level="series">
+                <did>
+                    <unittitle>Series III: Photographs</unittitle>
+                    <unitdate normal="1930/1969" type="inclusive">circa 1930-1969</unitdate>
+                </did>
+                <c id="ref223" level="file">
+                    <did>
+                        <unittitle>Album: Argentina and Brazil</unittitle>
+                        <container id="cid22804001" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804001" type="Folder">1</container>
+                        <unitdate normal="1948/1948">Mar 1948 - Jul 1948</unitdate>
+                    </did>
+                </c>
+                <c id="ref224" level="file">
+                    <did>
+                        <unittitle>Album: Children's Home in Lodz (A gift from the JLC)</unittitle>
+                        <container id="cid22804002" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804002" type="Folder">2</container>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c>
+                <c id="ref225" level="file">
+                    <did>
+                        <unittitle>Canado, Trinidad and Brazil</unittitle>
+                        <container id="cid22804003" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804003" type="Folder">3</container>
+                        <unitdate normal="1935/1978" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref226" level="file">
+                    <did>
+                        <unittitle>General</unittitle>
+                        <container id="cid22804004" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804004" type="Folder">4</container>
+                        <unitdate normal="1930/1939" type="inclusive">1930s</unitdate>
+                    </did>
+                </c>
+                <c id="ref227" level="file">
+                    <did>
+                        <unittitle>General (includes Szmul Zygielbojm)</unittitle>
+                        <container id="cid22804005" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804005" type="Folder">5</container>
+                        <unitdate normal="1940/1949" type="inclusive">1940s</unitdate>
+                    </did>
+                </c>
+                <c id="ref228" level="file">
+                    <did>
+                        <unittitle>General</unittitle>
+                        <container id="cid22804006" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804006" type="Folder">6</container>
+                        <unitdate normal="1950/1959" type="inclusive">1950s</unitdate>
+                    </did>
+                </c>
+                <c id="ref229" level="file">
+                    <did>
+                        <unittitle>General</unittitle>
+                        <container id="cid22804007" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804007" type="Folder">7</container>
+                        <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+                    </did>
+                </c>
+                <c id="ref230" level="file">
+                    <did>
+                        <unittitle>General</unittitle>
+                        <container id="cid22804008" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804008" type="Folder">8</container>
+                        <unitdate normal="1935/1978" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref231" level="file">
+                    <did>
+                        <unittitle>Israel and Europe</unittitle>
+                        <container id="cid22804009" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804009" type="Folder">9</container>
+                        <unitdate normal="1940/1949" type="inclusive">1940s</unitdate>
+                    </did>
+                </c>
+                <c id="ref232" level="file">
+                    <did>
+                        <unittitle>Israel and Europe (includes Golda Meir)</unittitle>
+                        <container id="cid22804010" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804010" type="Folder">10</container>
+                        <unitdate normal="1949/1949">1949</unitdate>
+                    </did>
+                </c>
+                <c id="ref233" level="file">
+                    <did>
+                        <unittitle>Negatives</unittitle>
+                        <container id="cid22804011" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804011" type="Folder">11</container>
+                        <unitdate normal="1935/1978" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref236" level="file">
+                    <did>
+                        <unittitle>Oversize Portrait</unittitle>
+                        <container id="cid22805001" type="Box" label="Mixed materials">OS 007</container>
+                        <container parent="cid22805001" type="Folder">1</container>
+                        <unitdate normal="1930/1978" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref234" level="file">
+                    <did>
+                        <unittitle>Photographs from Correspondence</unittitle>
+                        <container id="cid22804012" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804012" type="Folder">12</container>
+                        <unitdate normal="1935/1978" type="inclusive">1953-1956; undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref235" level="file">
+                    <did>
+                        <unittitle>Uruguay (Joint Distribution Committee)</unittitle>
+                        <container id="cid22804013" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid22804013" type="Folder">13</container>
+                        <unitdate normal="1948/1948">1948</unitdate>
+                    </did>
+                </c>
+                <c id="ref238" level="file">
+                    <did>
+                        <unittitle>Laskier, Kaplan, and Cukierman in German Military Uniforms</unittitle>
+                        <container id="cid23174003" type="Box" label="Photographs">3</container>
+                        <container parent="cid23174003" type="Folder">14</container>
+                        <unitdate>circa 1942, 1997</unitdate>
+                    </did>
+                </c>
+            </c>
         </dsc>
     </archdesc>
 </ead>

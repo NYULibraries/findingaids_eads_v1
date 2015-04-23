@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_337_brooklyn_roads">arms_1977_337_brooklyn_roads</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Brooklyn roads records
+                    <num>1977.337</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>March 2015</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-03-17T11:11-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Brooklyn roads records</unittitle>
+            <unitid>1977.337</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1259001" type="Box" label="Text">1 of 1</container>
+            <physdesc>
+                <extent>0.75 linear feet</extent>
+                <extent>in one oversize manuscript box</extent>
+            </physdesc>
+            <unitdate normal="1825/1883" type="inclusive">1825-1883</unitdate>
+            <abstract id="ref2" label="Abstract">The collection includes petitions, surveys, contracts, maps, and notices for assessment for 91 streets in Brooklyn, including seven in the neighborhood of Williamsburg.</abstract>
+            <origination label="creator">
+                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn (New York, N.Y.).</corpname>
+            </origination>
+        </did>
+        <processinfo id="ref5">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>The records are in the public domain.</p>
+        </userestrict>
+        <arrangement id="ref3">
+            <head>Arrangement note</head>
+            <p>The records are arranged alphabetically by street name.</p>
+        </arrangement>
+        <relatedmaterial id="ref6">
+            <head>Related Archival Materials note</head>
+            <p>The Brooklyn, N.Y., Department of Law, Corporation Counsel records contain a series of similiar street improvement records (2013.015).</p>
+        </relatedmaterial>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <controlaccess>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn (New York, N.Y.). Common Council.</corpname>
+            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn (New York, N.Y.).</corpname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <genreform source="aat">Contracts</genreform>
+            <subject source="lcsh">Ferries |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Legal documents</genreform>
+            <genreform source="aat">Maps</genreform>
+            <genreform source="aat">Petitions</genreform>
+            <subject source="lcsh">Roads |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Streets |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Tax assessment |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

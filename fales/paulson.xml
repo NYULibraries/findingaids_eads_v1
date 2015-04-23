@@ -15,7 +15,7 @@
                 <p>This version was derived from paulson.doc</p>
             </editionstmt>
             <publicationstmt>
-                <publisher>© 2009 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -29,7 +29,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2009-05-07T15:48-0400</date>
+                <date>2014-04-03T16:16-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
@@ -40,13 +40,13 @@
             <unittitle>Arvid Paulson Papers</unittitle>
             <unitid>MSS 043</unitid>
             <repository>
-                <corpname>© 2009 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>8.5 Linear feet</extent>
+                <extent>8.5 linear feet</extent>
                 <extent>(21 boxes)</extent>
             </physdesc>
             <unitdate>1875-1977</unitdate>
@@ -80,6 +80,14 @@
         <arrangement id="ref11">
             <head>Arrangement</head>
             <p>The collection has been organized into five Series. Each series initiates a new numbering sequence. Oversize material is listed toward the end of the collection.</p>
+            <list numeration="arabic" type="ordered">
+                <item>Series I: Correspondence</item>
+                <item>Series II: Manuscripts</item>
+                <item>Series III: Publications</item>
+                <item>Series IV: Printed Matter and Memorabilia</item>
+                <item>Series V: Paulson's Personal Papers</item>
+                <item>Oversize</item>
+            </list>
         </arrangement>
         <separatedmaterial id="ref277">
             <head>Separated Material</head>
@@ -873,21 +881,25 @@
             <head>Conditions Governing Use</head>
             <p>Collection use is subject to all copyright laws. Permission to publish materials must be obtained in writing from the Director of Fales Library and Special Collections. Please contact fales.library@nyu.edu. or call 212 998 2596.</p>
         </userestrict>
+        <odd id="ref283">
+            <head>Offsite boxes &amp; barcodes</head>
+            <p>Box 1 - Barcode: 31142042237159 Box 2 - Barcode: 31142042237167 Box 3 - Barcode: 31142042237175 Box 4 - Barcode: 31142042237183 Box 5 - Barcode: 31142042237191 Box 6 - Barcode: 31142042237209 Box 7 - Barcode: 31142042237217 Box 8 - Barcode: 31142042237225 Box 9 - Barcode: 31142042237233 Box 10 - Barcode: 31142042237241 Box 11 - Barcode: 31142042237258 Box 12 - Barcode: 31142042237266 Box 13 - Barcode: 31142042237274 Box 14 - Barcode: 31142042237282 Box 15 - Barcode: 31142042237290 Box 16 - Barcode: 31142042237308 Box 17 - Barcode: 31142042237316 Box 18 - Barcode: 31142042237324 Box 19 - Barcode: 31142042237332 Box 20 - Barcode: 31142042237340 Box 21 - Barcode: 31142042237357</p>
+        </odd>
         <controlaccess>
-            <persname source="ingest">Ibsen, Henrik</persname>
-            <persname source="ingest">Strindberg, August</persname>
-            <genreform source="aat">Articles and reprints</genreform>
-            <genreform source="aat">Correspondence</genreform>
-            <subject source="lcsh">Ibsen, Henrik, 1828-1906</subject>
-            <genreform source="aat">Manuscripts</genreform>
-            <genreform source="aat">Periodicals</genreform>
-            <genreform source="aat">Photographs</genreform>
-            <genreform source="aat">Playbills</genreform>
-            <genreform source="aat">Postcards</genreform>
-            <subject source="lcsh">Scandinavian Literature 19th century</subject>
-            <subject source="lcsh">Strindberg, August, 1849-1912</subject>
-            <subject source="lcsh">Theatre History 20th century</subject>
-            <subject source="lcsh">Translations, Literature</subject>
+            <persname source="naf">Ibsen, Henrik, 1828-1906</persname>
+            <persname source="naf">Strindberg, August, 1849-1912</persname>
+            <genreform source="aat">Correspondence.</genreform>
+            <subject source="lcsh">Ibsen, Henrik, |d 1828-1906.</subject>
+            <genreform source="aat">Manuscripts for publication.</genreform>
+            <genreform source="aat">Periodicals.</genreform>
+            <genreform source="aat">Photographs.</genreform>
+            <genreform source="aat">Playbills.</genreform>
+            <genreform source="aat">Postcards.</genreform>
+            <genreform source="aat">Reprints.</genreform>
+            <subject source="lcsh">Scandinavian literature |y 19th century.</subject>
+            <subject source="lcsh">Strindberg, August, |d 1849-1912.</subject>
+            <subject source="lcsh">Theater |x History |y 20th century.</subject>
+            <subject source="lcsh">Translations |x Literature.</subject>
         </controlaccess>
         <dsc>
             <c id="ref12" level="series">
@@ -901,112 +913,112 @@
                 <c id="ref13" level="otherlevel">
                     <did>
                         <unittitle>Correspondence to various people from Paulson, re: Harriet Bosse</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">1</container>
+                        <container id="cid31174" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31174" type="Folder">1</container>
                         <unitdate>1955-1958</unitdate>
                     </did>
                 </c>
                 <c id="ref14" level="otherlevel">
                     <did>
                         <unittitle>Correspondence to various people from Paulson, re: publishing and the theatre</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">2</container>
+                        <container id="cid31173" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31173" type="Folder">2</container>
                         <unitdate>1916-1968</unitdate>
                     </did>
                 </c>
                 <c id="ref15" level="otherlevel">
                     <did>
                         <unittitle>Correspondence between Paulson and Ben-Ali Bobker, re: The 1952 Pasadena Playhouse production of Strindberg's "The Great Highway"</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">3</container>
+                        <container id="cid31172" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31172" type="Folder">3</container>
                         <unitdate>1952</unitdate>
                     </did>
                 </c>
                 <c id="ref16" level="otherlevel">
                     <did>
                         <unittitle>Correspondence between Paulson and Dudley Nichols, re: movie productions of Strindberg's plays</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">4</container>
+                        <container id="cid31171" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31171" type="Folder">4</container>
                         <unitdate>1952-1955</unitdate>
                     </did>
                 </c>
                 <c id="ref17" level="otherlevel">
                     <did>
                         <unittitle>Correspondence from various actors and writers</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">5</container>
+                        <container id="cid31170" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31170" type="Folder">5</container>
                         <unitdate>1920-1968</unitdate>
                     </did>
                 </c>
                 <c id="ref18" level="otherlevel">
                     <did>
                         <unittitle>Correspondence from various people</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">6</container>
+                        <container id="cid31169" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31169" type="Folder">6</container>
                         <unitdate>1912-1925</unitdate>
                     </did>
                 </c>
                 <c id="ref19" level="otherlevel">
                     <did>
                         <unittitle>Correspondence from various people</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">7</container>
+                        <container id="cid31168" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31168" type="Folder">7</container>
                         <unitdate>1926-1936</unitdate>
                     </did>
                 </c>
                 <c id="ref20" level="otherlevel">
                     <did>
                         <unittitle>Correspondence from various people</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">8</container>
+                        <container id="cid31167" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31167" type="Folder">8</container>
                         <unitdate>1938-1952</unitdate>
                     </did>
                 </c>
                 <c id="ref21" level="otherlevel">
                     <did>
                         <unittitle>Correspondence from various people</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">9</container>
+                        <container id="cid31166" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31166" type="Folder">9</container>
                         <unitdate>1954-1965</unitdate>
                     </did>
                 </c>
                 <c id="ref22" level="otherlevel">
                     <did>
                         <unittitle>Correspondence from various people</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">10</container>
+                        <container id="cid31165" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31165" type="Folder">10</container>
                         <unitdate>1966-1974</unitdate>
                     </did>
                 </c>
                 <c id="ref23" level="otherlevel">
                     <did>
                         <unittitle>Correspondence: Christmas Cards</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">11</container>
+                        <container id="cid31164" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31164" type="Folder">11</container>
                         <unitdate>n.d.</unitdate>
                     </did>
                 </c>
                 <c id="ref24" level="otherlevel">
                     <did>
                         <unittitle>Correspondence from various people</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">12</container>
+                        <container id="cid31163" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31163" type="Folder">12</container>
                         <unitdate>n.d.</unitdate>
                     </did>
                 </c>
                 <c id="ref25" level="otherlevel">
                     <did>
                         <unittitle>Correspondence from various people</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">13</container>
+                        <container id="cid31162" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31162" type="Folder">13</container>
                         <unitdate>n.d.</unitdate>
                     </did>
                 </c>
                 <c id="ref26" level="otherlevel">
                     <did>
                         <unittitle>Correspondence from Paulson, re: Strindberg Society, Strindberg statue, etc.</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">14</container>
+                        <container id="cid31161" type="Box" label="Mixed materials (31142042237159)">1</container>
+                        <container parent="cid31161" type="Folder">14</container>
                         <unitdate>1923-1974</unitdate>
                     </did>
                 </c>
@@ -1026,145 +1038,145 @@
                     <c id="ref30" level="otherlevel">
                         <did>
                             <unittitle>Brand: The Shrieve. Trans. Miles M. Dawson</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">1</container>
+                            <container id="cid31160" type="Box" label="Mixed materials (31142042237167)">2</container>
+                            <container parent="cid31160" type="Folder">1</container>
                             <unitdate>n.d.</unitdate>
                         </did>
                     </c>
                     <c id="ref31" level="otherlevel">
                         <did>
                             <unittitle>Bergwitz, Jon K. Henrik Ibsen: I sin Avstamning Norsk eller Fremmed?</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">2</container>
+                            <container id="cid31159" type="Box" label="Mixed materials (31142042237167)">2</container>
+                            <container parent="cid31159" type="Folder">2</container>
                             <unitdate>1916</unitdate>
                         </did>
                     </c>
                     <c id="ref32" level="otherlevel">
                         <did>
                             <unittitle>The Doll's House (Act III)</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">3</container>
+                            <container id="cid31158" type="Box" label="Mixed materials (31142042237167)">2</container>
+                            <container parent="cid31158" type="Folder">3</container>
                         </did>
                     </c>
                     <c id="ref33" level="otherlevel">
                         <did>
                             <unittitle>Ghosts (synopsis)</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">4</container>
+                            <container id="cid31157" type="Box" label="Mixed materials (31142042237167)">2</container>
+                            <container parent="cid31157" type="Folder">4</container>
                         </did>
                     </c>
                     <c id="ref34" level="otherlevel">
                         <did>
                             <unittitle>Ghosts</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">5</container>
+                            <container id="cid31156" type="Box" label="Mixed materials (31142042237167)">2</container>
+                            <container parent="cid31156" type="Folder">5</container>
                         </did>
                     </c>
                     <c id="ref35" level="otherlevel">
                         <did>
                             <unittitle>Hedda Gabler (I)</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">6</container>
+                            <container id="cid31155" type="Box" label="Mixed materials (31142042237167)">2</container>
+                            <container parent="cid31155" type="Folder">6</container>
                         </did>
                     </c>
                     <c id="ref36" level="otherlevel">
                         <did>
                             <unittitle>Hedda Gabler (II)</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">7</container>
+                            <container id="cid31154" type="Box" label="Mixed materials (31142042237167)">2</container>
+                            <container parent="cid31154" type="Folder">7</container>
                         </did>
                     </c>
                     <c id="ref37" level="otherlevel">
                         <did>
                             <unittitle>John Gabriel Borkman</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">8</container>
+                            <container id="cid31153" type="Box" label="Mixed materials (31142042237167)">2</container>
+                            <container parent="cid31153" type="Folder">8</container>
                         </did>
                     </c>
                     <c id="ref38" level="otherlevel">
                         <did>
                             <unittitle>The Master Builder (I)</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">9</container>
+                            <container id="cid31152" type="Box" label="Mixed materials (31142042237167)">2</container>
+                            <container parent="cid31152" type="Folder">9</container>
                         </did>
                     </c>
                     <c id="ref39" level="otherlevel">
                         <did>
                             <unittitle>The Master Builder (II)</unittitle>
-                            <container type="Box">2</container>
-                            <container type="Folder">10</container>
+                            <container id="cid31151" type="Box" label="Mixed materials (31142042237167)">2</container>
+                            <container parent="cid31151" type="Folder">10</container>
                         </did>
                     </c>
                     <c id="ref40" level="otherlevel">
                         <did>
                             <unittitle>Master Olaf</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Folder">11</container>
+                            <container id="cid31150" type="Box" label="Mixed materials (31142042237175)">3</container>
+                            <container parent="cid31150" type="Folder">11</container>
                         </did>
                     </c>
                     <c id="ref41" level="otherlevel">
                         <did>
                             <unittitle>Peer Gynt</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Folder">12</container>
+                            <container id="cid31149" type="Box" label="Mixed materials (31142042237175)">3</container>
+                            <container parent="cid31149" type="Folder">12</container>
                         </did>
                     </c>
                     <c id="ref42" level="otherlevel">
                         <did>
                             <unittitle>Rosmersholm</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Folder">13</container>
+                            <container id="cid31148" type="Box" label="Mixed materials (31142042237175)">3</container>
+                            <container parent="cid31148" type="Folder">13</container>
                         </did>
                     </c>
                     <c id="ref43" level="otherlevel">
                         <did>
                             <unittitle>When We Dead Awaken</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Folder">14</container>
+                            <container id="cid31147" type="Box" label="Mixed materials (31142042237175)">3</container>
+                            <container parent="cid31147" type="Folder">14</container>
                         </did>
                     </c>
                     <c id="ref44" level="otherlevel">
                         <did>
                             <unittitle>Ostvedt, Einar. Henrik Ibsen og hans Barndomshjem i Skien og Gjerpen; Henrik Ibsen og hans barndomsmiljo</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Folder">15</container>
+                            <container id="cid31146" type="Box" label="Mixed materials (31142042237175)">3</container>
+                            <container parent="cid31146" type="Folder">15</container>
                             <unitdate>1958</unitdate>
                         </did>
                     </c>
                     <c id="ref45" level="otherlevel">
                         <did>
                             <unittitle>Biography of Ibsen</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Folder">16</container>
+                            <container id="cid31145" type="Box" label="Mixed materials (31142042237175)">3</container>
+                            <container parent="cid31145" type="Folder">16</container>
                         </did>
                     </c>
                     <c id="ref46" level="otherlevel">
                         <did>
                             <unittitle>Ibsen Memorial Committee Letterheads</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Folder">17</container>
+                            <container id="cid31144" type="Box" label="Mixed materials (31142042237175)">3</container>
+                            <container parent="cid31144" type="Folder">17</container>
                         </did>
                     </c>
                     <c id="ref47" level="otherlevel">
                         <did>
                             <unittitle>Ibsen Memorial Performance</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Folder">18</container>
+                            <container id="cid31143" type="Box" label="Mixed materials (31142042237175)">3</container>
+                            <container parent="cid31143" type="Folder">18</container>
                         </did>
                     </c>
                     <c id="ref48" level="otherlevel">
                         <did>
                             <unittitle>Playbills (var. Ibsen plays)</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Folder">19</container>
+                            <container id="cid31142" type="Box" label="Mixed materials (31142042237175)">3</container>
+                            <container parent="cid31142" type="Folder">19</container>
                             <unitdate>1935-1970</unitdate>
                         </did>
                     </c>
                     <c id="ref49" level="otherlevel">
                         <did>
                             <unittitle>Postcard depicting Ibsen's home near Skien, Norway (blank)</unittitle>
-                            <container type="Box">3</container>
-                            <container type="Folder">20</container>
+                            <container id="cid31141" type="Box" label="Mixed materials (31142042237175)">3</container>
+                            <container parent="cid31141" type="Folder">20</container>
                         </did>
                     </c>
                 </c>
@@ -1175,407 +1187,407 @@
                     <c id="ref51" level="otherlevel">
                         <did>
                             <unittitle>Alone (I)</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">1</container>
+                            <container id="cid31140" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31140" type="Folder">1</container>
                         </did>
                     </c>
                     <c id="ref52" level="otherlevel">
                         <did>
                             <unittitle>Alone (II)</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">2</container>
+                            <container id="cid31139" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31139" type="Folder">2</container>
                         </did>
                     </c>
                     <c id="ref53" level="otherlevel">
                         <did>
                             <unittitle>Alone (III)/ Days of Loneliness</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">3</container>
+                            <container id="cid31138" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31138" type="Folder">3</container>
                         </did>
                     </c>
                     <c id="ref54" level="otherlevel">
                         <did>
                             <unittitle>Alone (IV) / The Wolves Are Howling</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">4</container>
+                            <container id="cid31137" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31137" type="Folder">4</container>
                         </did>
                     </c>
                     <c id="ref55" level="otherlevel">
                         <did>
                             <unittitle>Alone (V) / Days of Loneliness</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">5</container>
+                            <container id="cid31136" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31136" type="Folder">5</container>
                         </did>
                     </c>
                     <c id="ref56" level="otherlevel">
                         <did>
                             <unittitle>Alone (VI) / Days of Loneliness</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">6</container>
+                            <container id="cid31135" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31135" type="Folder">6</container>
                         </did>
                     </c>
                     <c id="ref57" level="otherlevel">
                         <did>
                             <unittitle>An Attempt at Reform</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">7</container>
+                            <container id="cid31134" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31134" type="Folder">7</container>
                         </did>
                     </c>
                     <c id="ref58" level="otherlevel">
                         <did>
                             <unittitle>The Black Glove</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">8</container>
+                            <container id="cid31133" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31133" type="Folder">8</container>
                         </did>
                     </c>
                     <c id="ref59" level="otherlevel">
                         <did>
                             <unittitle>The Buried Premises (I)</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">9</container>
+                            <container id="cid31132" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31132" type="Folder">9</container>
                         </did>
                     </c>
                     <c id="ref60" level="otherlevel">
                         <did>
                             <unittitle>The Buried Premises (II)</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">10</container>
+                            <container id="cid31131" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31131" type="Folder">10</container>
                         </did>
                     </c>
                     <c id="ref61" level="otherlevel">
                         <did>
                             <unittitle>China</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">11</container>
+                            <container id="cid31130" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31130" type="Folder">11</container>
                         </did>
                     </c>
                     <c id="ref62" level="otherlevel">
                         <did>
                             <unittitle>Queen Christina of Sweden</unittitle>
-                            <container type="Box">4</container>
-                            <container type="Folder">12</container>
+                            <container id="cid31129" type="Box" label="Mixed materials (31142042237183)">4</container>
+                            <container parent="cid31129" type="Folder">12</container>
                         </did>
                     </c>
                     <c id="ref63" level="otherlevel">
                         <did>
                             <unittitle>Comrades (I)</unittitle>
-                            <container type="Box">5</container>
-                            <container type="Folder">13</container>
+                            <container id="cid31128" type="Box" label="Mixed materials (31142042237191)">5</container>
+                            <container parent="cid31128" type="Folder">13</container>
                         </did>
                     </c>
                     <c id="ref64" level="otherlevel">
                         <did>
                             <unittitle>Comrades (II)</unittitle>
-                            <container type="Box">5</container>
-                            <container type="Folder">14</container>
+                            <container id="cid31127" type="Box" label="Mixed materials (31142042237191)">5</container>
+                            <container parent="cid31127" type="Folder">14</container>
                         </did>
                     </c>
                     <c id="ref65" level="otherlevel">
                         <did>
                             <unittitle>Crimes and Crimes (I)</unittitle>
-                            <container type="Box">5</container>
-                            <container type="Folder">15</container>
+                            <container id="cid31126" type="Box" label="Mixed materials (31142042237191)">5</container>
+                            <container parent="cid31126" type="Folder">15</container>
                         </did>
                     </c>
                     <c id="ref66" level="otherlevel">
                         <did>
                             <unittitle>Crimes and Crimes (II)</unittitle>
-                            <container type="Box">5</container>
-                            <container type="Folder">16</container>
+                            <container id="cid31125" type="Box" label="Mixed materials (31142042237191)">5</container>
+                            <container parent="cid31125" type="Folder">16</container>
                         </did>
                     </c>
                     <c id="ref67" level="otherlevel">
                         <did>
                             <unittitle>Crimes and Crimes (III)</unittitle>
-                            <container type="Box">5</container>
-                            <container type="Folder">17</container>
+                            <container id="cid31124" type="Box" label="Mixed materials (31142042237191)">5</container>
+                            <container parent="cid31124" type="Folder">17</container>
                         </did>
                     </c>
                     <c id="ref68" level="otherlevel">
                         <did>
                             <unittitle>Creditors</unittitle>
-                            <container type="Box">5</container>
-                            <container type="Folder">18</container>
+                            <container id="cid31123" type="Box" label="Mixed materials (31142042237191)">5</container>
+                            <container parent="cid31123" type="Folder">18</container>
                         </did>
                     </c>
                     <c id="ref69" level="otherlevel">
                         <did>
                             <unittitle>To Damascus, Part I.</unittitle>
-                            <container type="Box">5</container>
-                            <container type="Folder">19</container>
+                            <container id="cid31122" type="Box" label="Mixed materials (31142042237191)">5</container>
+                            <container parent="cid31122" type="Folder">19</container>
                         </did>
                     </c>
                     <c id="ref70" level="otherlevel">
                         <did>
                             <unittitle>The Dance of Death</unittitle>
-                            <container type="Box">5</container>
-                            <container type="Folder">20</container>
+                            <container id="cid31121" type="Box" label="Mixed materials (31142042237191)">5</container>
+                            <container parent="cid31121" type="Folder">20</container>
                         </did>
                     </c>
                     <c id="ref71" level="otherlevel">
                         <did>
                             <unittitle>A Dream Play (I)</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">21</container>
+                            <container id="cid31120" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31120" type="Folder">21</container>
                         </did>
                     </c>
                     <c id="ref72" level="otherlevel">
                         <did>
                             <unittitle>A Dream Play (II)</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">22</container>
+                            <container id="cid31119" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31119" type="Folder">22</container>
                         </did>
                     </c>
                     <c id="ref73" level="otherlevel">
                         <did>
                             <unittitle>A Dream Play (III)</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">23</container>
+                            <container id="cid31118" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31118" type="Folder">23</container>
                         </did>
                     </c>
                     <c id="ref74" level="otherlevel">
                         <did>
                             <unittitle>Easter</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">24</container>
+                            <container id="cid31117" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31117" type="Folder">24</container>
                         </did>
                     </c>
                     <c id="ref75" level="otherlevel">
                         <did>
                             <unittitle>Erik XIV</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">25</container>
+                            <container id="cid31116" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31116" type="Folder">25</container>
                         </did>
                     </c>
                     <c id="ref76" level="otherlevel">
                         <did>
                             <unittitle>The First Warning</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">26</container>
+                            <container id="cid31115" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31115" type="Folder">26</container>
                         </did>
                     </c>
                     <c id="ref77" level="otherlevel">
                         <did>
                             <unittitle>The Ghost Sonata</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">27</container>
+                            <container id="cid31114" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31114" type="Folder">27</container>
                         </did>
                     </c>
                     <c id="ref78" level="otherlevel">
                         <did>
                             <unittitle>The Great Highway (I)</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">28</container>
+                            <container id="cid31113" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31113" type="Folder">28</container>
                         </did>
                     </c>
                     <c id="ref79" level="otherlevel">
                         <did>
                             <unittitle>The Great Highway (II)</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">29</container>
+                            <container id="cid31112" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31112" type="Folder">29</container>
                         </did>
                     </c>
                     <c id="ref80" level="otherlevel">
                         <did>
                             <unittitle>The Great Highway (III)</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">30</container>
+                            <container id="cid31111" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31111" type="Folder">30</container>
                         </did>
                     </c>
                     <c id="ref81" level="otherlevel">
                         <did>
                             <unittitle>The Great Highway (IV)</unittitle>
-                            <container type="Box">6</container>
-                            <container type="Folder">31</container>
+                            <container id="cid31110" type="Box" label="Mixed materials (31142042237209)">6</container>
+                            <container parent="cid31110" type="Folder">31</container>
                         </did>
                     </c>
                     <c id="ref82" level="otherlevel">
                         <did>
                             <unittitle>Hellas (Socrates)</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">32</container>
+                            <container id="cid31109" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31109" type="Folder">32</container>
                         </did>
                     </c>
                     <c id="ref83" level="otherlevel">
                         <did>
                             <unittitle>Hermione</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">33</container>
+                            <container id="cid31108" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31108" type="Folder">33</container>
                         </did>
                     </c>
                     <c id="ref84" level="otherlevel">
                         <did>
                             <unittitle>Hemsoborna</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">34</container>
+                            <container id="cid31107" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31107" type="Folder">34</container>
                         </did>
                     </c>
                     <c id="ref85" level="otherlevel">
                         <did>
                             <unittitle>Jubal without a Self</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">35</container>
+                            <container id="cid31106" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31106" type="Folder">35</container>
                         </did>
                     </c>
                     <c id="ref86" level="otherlevel">
                         <did>
                             <unittitle>Miss Julie (I)</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">36</container>
+                            <container id="cid31105" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31105" type="Folder">36</container>
                         </did>
                     </c>
                     <c id="ref87" level="otherlevel">
                         <did>
                             <unittitle>Miss Julie (II)</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">37</container>
+                            <container id="cid31104" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31104" type="Folder">37</container>
                         </did>
                     </c>
                     <c id="ref88" level="otherlevel">
                         <did>
                             <unittitle>The Lamb and the Beast</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">38</container>
+                            <container id="cid31103" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31103" type="Folder">38</container>
                         </did>
                     </c>
                     <c id="ref89" level="otherlevel">
                         <did>
                             <unittitle>Letters to Harriet Bosse</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">39</container>
+                            <container id="cid31102" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31102" type="Folder">39</container>
                         </did>
                     </c>
                     <c id="ref90" level="otherlevel">
                         <did>
                             <unittitle>Memorandum to the Members of the Intima Theatre</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">40</container>
+                            <container id="cid31101" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31101" type="Folder">40</container>
                         </did>
                     </c>
                     <c id="ref91" level="otherlevel">
                         <did>
                             <unittitle>Modern Scandinavian Plays</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">41</container>
+                            <container id="cid31100" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31100" type="Folder">41</container>
                         </did>
                     </c>
                     <c id="ref92" level="otherlevel">
                         <did>
                             <unittitle>Christ Trilogy</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">42</container>
+                            <container id="cid31099" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31099" type="Folder">42</container>
                         </did>
                     </c>
                     <c id="ref93" level="otherlevel">
                         <did>
                             <unittitle>Moses / Through the Desert to Ancestral Lands</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">43</container>
+                            <container id="cid31098" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31098" type="Folder">43</container>
                         </did>
                     </c>
                     <c id="ref94" level="otherlevel">
                         <did>
                             <unittitle>The Nightingale of Wittenberg</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">44</container>
+                            <container id="cid31097" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31097" type="Folder">44</container>
                         </did>
                     </c>
                     <c id="ref95" level="otherlevel">
                         <did>
                             <unittitle>The Outlaw</unittitle>
-                            <container type="Box">7</container>
-                            <container type="Folder">45</container>
+                            <container id="cid31096" type="Box" label="Mixed materials (31142042237217)">7</container>
+                            <container parent="cid31096" type="Folder">45</container>
                         </did>
                     </c>
                     <c id="ref96" level="otherlevel">
                         <did>
                             <unittitle>The Pelican</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">46</container>
+                            <container id="cid31095" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31095" type="Folder">46</container>
                         </did>
                     </c>
                     <c id="ref97" level="otherlevel">
                         <did>
                             <unittitle>Poems</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">47</container>
+                            <container id="cid31094" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31094" type="Folder">47</container>
                         </did>
                     </c>
                     <c id="ref98" level="otherlevel">
                         <did>
                             <unittitle>The Scapegoat (I)</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">48</container>
+                            <container id="cid31093" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31093" type="Folder">48</container>
                         </did>
                     </c>
                     <c id="ref99" level="otherlevel">
                         <did>
                             <unittitle>The Scapegoat (II)</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">49</container>
+                            <container id="cid31092" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31092" type="Folder">49</container>
                         </did>
                     </c>
                     <c id="ref100" level="otherlevel">
                         <did>
                             <unittitle>The Scapegoat (III)</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">50</container>
+                            <container id="cid31091" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31091" type="Folder">50</container>
                         </did>
                     </c>
                     <c id="ref101" level="otherlevel">
                         <did>
                             <unittitle>"Shakespeare's Outlook on Life"</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">51</container>
+                            <container id="cid31090" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31090" type="Folder">51</container>
                         </did>
                     </c>
                     <c id="ref102" level="otherlevel">
                         <did>
                             <unittitle>Stormclouds (I)</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">52</container>
+                            <container id="cid31089" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31089" type="Folder">52</container>
                         </did>
                     </c>
                     <c id="ref103" level="otherlevel">
                         <did>
                             <unittitle>Stormclouds (II)</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">53</container>
+                            <container id="cid31088" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31088" type="Folder">53</container>
                         </did>
                     </c>
                     <c id="ref104" level="otherlevel">
                         <did>
                             <unittitle>The Stronger</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">54</container>
+                            <container id="cid31087" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31087" type="Folder">54</container>
                         </did>
                     </c>
                     <c id="ref105" level="otherlevel">
                         <did>
                             <unittitle>Swanwhite</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">55</container>
+                            <container id="cid31086" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31086" type="Folder">55</container>
                         </did>
                     </c>
                     <c id="ref106" level="otherlevel">
                         <did>
                             <unittitle>Vestman's Sealing Adventure</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">56</container>
+                            <container id="cid31085" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31085" type="Folder">56</container>
                         </did>
                     </c>
                     <c id="ref107" level="otherlevel">
                         <did>
                             <unittitle>World Historical Plays</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">57</container>
+                            <container id="cid31084" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31084" type="Folder">57</container>
                         </did>
                     </c>
                     <c id="ref108" level="otherlevel">
                         <did>
                             <unittitle>World Historical Plays</unittitle>
-                            <container type="Box">8</container>
-                            <container type="Folder">58</container>
+                            <container id="cid31083" type="Box" label="Mixed materials (31142042237225)">8</container>
+                            <container parent="cid31083" type="Folder">58</container>
                         </did>
                     </c>
                 </c>
@@ -1586,169 +1598,169 @@
                     <c id="ref110" level="otherlevel">
                         <did>
                             <unittitle>Eight Expressionist Plays (I)</unittitle>
-                            <container type="Box">9</container>
-                            <container type="Folder">59</container>
+                            <container id="cid31082" type="Box" label="Mixed materials (31142042237233)">9</container>
+                            <container parent="cid31082" type="Folder">59</container>
                         </did>
                     </c>
                     <c id="ref111" level="otherlevel">
                         <did>
                             <unittitle>Eight Expressionist Plays (II)</unittitle>
-                            <container type="Box">9</container>
-                            <container type="Folder">60</container>
+                            <container id="cid31081" type="Box" label="Mixed materials (31142042237233)">9</container>
+                            <container parent="cid31081" type="Folder">60</container>
                         </did>
                     </c>
                     <c id="ref112" level="otherlevel">
                         <did>
                             <unittitle>Eight Expressionist Plays (III)</unittitle>
-                            <container type="Box">9</container>
-                            <container type="Folder">61</container>
+                            <container id="cid31080" type="Box" label="Mixed materials (31142042237233)">9</container>
+                            <container parent="cid31080" type="Folder">61</container>
                         </did>
                     </c>
                     <c id="ref113" level="otherlevel">
                         <did>
                             <unittitle>Eight Expressionist Plays (IV)</unittitle>
-                            <container type="Box">9</container>
-                            <container type="Folder">62</container>
+                            <container id="cid31079" type="Box" label="Mixed materials (31142042237233)">9</container>
+                            <container parent="cid31079" type="Folder">62</container>
                         </did>
                     </c>
                     <c id="ref114" level="otherlevel">
                         <did>
                             <unittitle>Eight Expressionist Plays (V)</unittitle>
-                            <container type="Box">9</container>
-                            <container type="Folder">63</container>
+                            <container id="cid31078" type="Box" label="Mixed materials (31142042237233)">9</container>
+                            <container parent="cid31078" type="Folder">63</container>
                         </did>
                     </c>
                     <c id="ref115" level="otherlevel">
                         <did>
                             <unittitle>The Natives of Hemso, Ch. I-IV (I)</unittitle>
-                            <container type="Box">10</container>
-                            <container type="Folder">64</container>
+                            <container id="cid31077" type="Box" label="Mixed materials (31142042237241)">10</container>
+                            <container parent="cid31077" type="Folder">64</container>
                         </did>
                     </c>
                     <c id="ref116" level="otherlevel">
                         <did>
                             <unittitle>The Natives of Hemso, Ch. V-VII (II)</unittitle>
-                            <container type="Box">10</container>
-                            <container type="Folder">65</container>
+                            <container id="cid31076" type="Box" label="Mixed materials (31142042237241)">10</container>
+                            <container parent="cid31076" type="Folder">65</container>
                         </did>
                     </c>
                     <c id="ref117" level="otherlevel">
                         <did>
                             <unittitle>The Natives of Hemso, Ch. I-IV (III)</unittitle>
-                            <container type="Box">10</container>
-                            <container type="Folder">66</container>
+                            <container id="cid31075" type="Box" label="Mixed materials (31142042237241)">10</container>
+                            <container parent="cid31075" type="Folder">66</container>
                         </did>
                     </c>
                     <c id="ref118" level="otherlevel">
                         <did>
                             <unittitle>The Natives of Hemso, Ch. V-VII (IV)</unittitle>
-                            <container type="Box">10</container>
-                            <container type="Folder">67</container>
+                            <container id="cid31074" type="Box" label="Mixed materials (31142042237241)">10</container>
+                            <container parent="cid31074" type="Folder">67</container>
                         </did>
                     </c>
                     <c id="ref119" level="otherlevel">
                         <did>
                             <unittitle>The Natives of Hemso, Ch. I-IV (V)</unittitle>
-                            <container type="Box">10</container>
-                            <container type="Folder">68</container>
+                            <container id="cid31073" type="Box" label="Mixed materials (31142042237241)">10</container>
+                            <container parent="cid31073" type="Folder">68</container>
                         </did>
                     </c>
                     <c id="ref120" level="otherlevel">
                         <did>
                             <unittitle>The Natives of Hemso, Ch. V-VII (VI)</unittitle>
-                            <container type="Box">10</container>
-                            <container type="Folder">69</container>
+                            <container id="cid31072" type="Box" label="Mixed materials (31142042237241)">10</container>
+                            <container parent="cid31072" type="Folder">69</container>
                         </did>
                     </c>
                     <c id="ref121" level="otherlevel">
                         <did>
                             <unittitle>The Natives of Hemso (VII)</unittitle>
-                            <container type="Box">10</container>
-                            <container type="Folder">70</container>
+                            <container id="cid31071" type="Box" label="Mixed materials (31142042237241)">10</container>
+                            <container parent="cid31071" type="Folder">70</container>
                         </did>
                     </c>
                     <c id="ref122" level="otherlevel">
                         <did>
                             <unittitle>One Act Prose Plays (I)</unittitle>
-                            <container type="Box">11</container>
-                            <container type="Folder">71</container>
+                            <container id="cid31070" type="Box" label="Mixed materials (31142042237258)">11</container>
+                            <container parent="cid31070" type="Folder">71</container>
                         </did>
                     </c>
                     <c id="ref123" level="otherlevel">
                         <did>
                             <unittitle>One Act Prose Plays (II)</unittitle>
-                            <container type="Box">11</container>
-                            <container type="Folder">72</container>
+                            <container id="cid31069" type="Box" label="Mixed materials (31142042237258)">11</container>
+                            <container parent="cid31069" type="Folder">72</container>
                         </did>
                     </c>
                     <c id="ref124" level="otherlevel">
                         <did>
                             <unittitle>One Act Prose Plays (III)</unittitle>
-                            <container type="Box">11</container>
-                            <container type="Folder">73</container>
+                            <container id="cid31068" type="Box" label="Mixed materials (31142042237258)">11</container>
+                            <container parent="cid31068" type="Folder">73</container>
                         </did>
                     </c>
                     <c id="ref125" level="otherlevel">
                         <did>
                             <unittitle>One Act Prose Plays (IV)</unittitle>
-                            <container type="Box">11</container>
-                            <container type="Folder">74</container>
+                            <container id="cid31067" type="Box" label="Mixed materials (31142042237258)">11</container>
+                            <container parent="cid31067" type="Folder">74</container>
                         </did>
                     </c>
                     <c id="ref126" level="otherlevel">
                         <did>
                             <unittitle>One Act Plays (I)</unittitle>
-                            <container type="Box">11</container>
-                            <container type="Folder">75</container>
+                            <container id="cid31066" type="Box" label="Mixed materials (31142042237258)">11</container>
+                            <container parent="cid31066" type="Folder">75</container>
                         </did>
                     </c>
                     <c id="ref127" level="otherlevel">
                         <did>
                             <unittitle>One Act Plays (II)</unittitle>
-                            <container type="Box">11</container>
-                            <container type="Folder">76</container>
+                            <container id="cid31065" type="Box" label="Mixed materials (31142042237258)">11</container>
+                            <container parent="cid31065" type="Folder">76</container>
                         </did>
                     </c>
                     <c id="ref128" level="otherlevel">
                         <did>
                             <unittitle>One Act Plays (III)</unittitle>
-                            <container type="Box">11</container>
-                            <container type="Folder">77</container>
+                            <container id="cid31064" type="Box" label="Mixed materials (31142042237258)">11</container>
+                            <container parent="cid31064" type="Folder">77</container>
                         </did>
                     </c>
                     <c id="ref129" level="otherlevel">
                         <did>
                             <unittitle>The Strindberg Reader (I)</unittitle>
-                            <container type="Box">12</container>
-                            <container type="Folder">78</container>
+                            <container id="cid31063" type="Box" label="Mixed materials (31142042237266)">12</container>
+                            <container parent="cid31063" type="Folder">78</container>
                         </did>
                     </c>
                     <c id="ref130" level="otherlevel">
                         <did>
                             <unittitle>The Strindberg Reader (II)</unittitle>
-                            <container type="Box">12</container>
-                            <container type="Folder">79</container>
+                            <container id="cid31062" type="Box" label="Mixed materials (31142042237266)">12</container>
+                            <container parent="cid31062" type="Folder">79</container>
                         </did>
                     </c>
                     <c id="ref131" level="otherlevel">
                         <did>
                             <unittitle>The Strindberg Reader (III)</unittitle>
-                            <container type="Box">12</container>
-                            <container type="Folder">80</container>
+                            <container id="cid31061" type="Box" label="Mixed materials (31142042237266)">12</container>
+                            <container parent="cid31061" type="Folder">80</container>
                         </did>
                     </c>
                     <c id="ref132" level="otherlevel">
                         <did>
                             <unittitle>The Strindberg Reader (IV)</unittitle>
-                            <container type="Box">12</container>
-                            <container type="Folder">81</container>
+                            <container id="cid31060" type="Box" label="Mixed materials (31142042237266)">12</container>
+                            <container parent="cid31060" type="Folder">81</container>
                         </did>
                     </c>
                     <c id="ref133" level="otherlevel">
                         <did>
                             <unittitle>The Strindberg Reader [proofs] (V)</unittitle>
-                            <container type="Box">12</container>
-                            <container type="Folder">82</container>
+                            <container id="cid31059" type="Box" label="Mixed materials (31142042237266)">12</container>
+                            <container parent="cid31059" type="Folder">82</container>
                         </did>
                     </c>
                 </c>
@@ -1759,64 +1771,64 @@
                     <c id="ref135" level="otherlevel">
                         <did>
                             <unittitle>Geijerstam, Gustav. Big Klaus and Little Klaus (I)</unittitle>
-                            <container type="Box">13</container>
-                            <container type="Folder">1</container>
+                            <container id="cid31058" type="Box" label="Mixed materials (31142042237274)">13</container>
+                            <container parent="cid31058" type="Folder">1</container>
                         </did>
                     </c>
                     <c id="ref136" level="otherlevel">
                         <did>
                             <unittitle>Geijerstam, Gustav. Big Klaus and Little Klaus (II)</unittitle>
-                            <container type="Box">13</container>
-                            <container type="Folder">2</container>
+                            <container id="cid31057" type="Box" label="Mixed materials (31142042237274)">13</container>
+                            <container parent="cid31057" type="Folder">2</container>
                         </did>
                     </c>
                     <c id="ref137" level="otherlevel">
                         <did>
                             <unittitle>Geijerstam, Gustav. Big Klaus and Little Klaus (III)</unittitle>
-                            <container type="Box">13</container>
-                            <container type="Folder">3</container>
+                            <container id="cid31056" type="Box" label="Mixed materials (31142042237274)">13</container>
+                            <container parent="cid31056" type="Folder">3</container>
                         </did>
                     </c>
                     <c id="ref138" level="otherlevel">
                         <did>
                             <unittitle>Hamsun, Knut. Plays.</unittitle>
-                            <container type="Box">13</container>
-                            <container type="Folder">4</container>
+                            <container id="cid31055" type="Box" label="Mixed materials (31142042237274)">13</container>
+                            <container parent="cid31055" type="Folder">4</container>
                         </did>
                     </c>
                     <c id="ref139" level="otherlevel">
                         <did>
                             <unittitle>Heden, Erik. Strindberg: An Index of his Achievement</unittitle>
-                            <container type="Box">13</container>
-                            <container type="Folder">5</container>
+                            <container id="cid31054" type="Box" label="Mixed materials (31142042237274)">13</container>
+                            <container parent="cid31054" type="Folder">5</container>
                         </did>
                     </c>
                     <c id="ref140" level="otherlevel">
                         <did>
                             <unittitle>Moberg, Vilhelm. What's Yours is Mine.</unittitle>
-                            <container type="Box">13</container>
-                            <container type="Folder">6</container>
+                            <container id="cid31053" type="Box" label="Mixed materials (31142042237274)">13</container>
+                            <container parent="cid31053" type="Folder">6</container>
                         </did>
                     </c>
                     <c id="ref141" level="otherlevel">
                         <did>
                             <unittitle>Oh, Olga. Judge Not!</unittitle>
-                            <container type="Box">13</container>
-                            <container type="Folder">7</container>
+                            <container id="cid31052" type="Box" label="Mixed materials (31142042237274)">13</container>
+                            <container parent="cid31052" type="Folder">7</container>
                         </did>
                     </c>
                     <c id="ref142" level="otherlevel">
                         <did>
                             <unittitle>Prince Wilhelm of Sweden (I)</unittitle>
-                            <container type="Box">13</container>
-                            <container type="Folder">8</container>
+                            <container id="cid31051" type="Box" label="Mixed materials (31142042237274)">13</container>
+                            <container parent="cid31051" type="Folder">8</container>
                         </did>
                     </c>
                     <c id="ref143" level="otherlevel">
                         <did>
                             <unittitle>Prince Wilhelm of Sweden (II)</unittitle>
-                            <container type="Box">14</container>
-                            <container type="Folder">9</container>
+                            <container id="cid31050" type="Box" label="Mixed materials (31142042237282)">14</container>
+                            <container parent="cid31050" type="Folder">9</container>
                         </did>
                     </c>
                 </c>
@@ -1827,155 +1839,155 @@
                     <c id="ref145" level="otherlevel">
                         <did>
                             <unittitle>Summary of criticism on Strindberg's The Father</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">1</container>
+                            <container id="cid31049" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31049" type="Folder">1</container>
                         </did>
                     </c>
                     <c id="ref146" level="otherlevel">
                         <did>
                             <unittitle>Eyes in the Dark</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">2</container>
+                            <container id="cid31048" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31048" type="Folder">2</container>
                         </did>
                     </c>
                     <c id="ref147" level="otherlevel">
                         <did>
                             <unittitle>Fourth of July</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">3</container>
+                            <container id="cid31047" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31047" type="Folder">3</container>
                         </did>
                     </c>
                     <c id="ref148" level="otherlevel">
                         <did>
                             <unittitle>The Grass</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">4</container>
+                            <container id="cid31046" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31046" type="Folder">4</container>
                         </did>
                     </c>
                     <c id="ref149" level="otherlevel">
                         <did>
                             <unittitle>In the Dark</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">5</container>
+                            <container id="cid31045" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31045" type="Folder">5</container>
                         </did>
                     </c>
                     <c id="ref150" level="otherlevel">
                         <did>
                             <unittitle>Introductions</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">6</container>
+                            <container id="cid31044" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31044" type="Folder">6</container>
                         </did>
                     </c>
                     <c id="ref151" level="otherlevel">
                         <did>
                             <unittitle>To Amandus Johnson, Pioneer</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">7</container>
+                            <container id="cid31043" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31043" type="Folder">7</container>
                         </did>
                     </c>
                     <c id="ref152" level="otherlevel">
                         <did>
                             <unittitle>The Lady with the Leaking Valve / The Graft of Mrs. Plummer</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">8</container>
+                            <container id="cid31042" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31042" type="Folder">8</container>
                         </did>
                     </c>
                     <c id="ref153" level="otherlevel">
                         <did>
                             <unittitle>One Less</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">9</container>
+                            <container id="cid31041" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31041" type="Folder">9</container>
                         </did>
                     </c>
                     <c id="ref154" level="otherlevel">
                         <did>
                             <unittitle>Poem by Paulson [xerox]</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">10</container>
+                            <container id="cid31040" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31040" type="Folder">10</container>
                         </did>
                     </c>
                     <c id="ref155" level="otherlevel">
                         <did>
                             <unittitle>John Rockefeller as told by George Cohan</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">11</container>
+                            <container id="cid31039" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31039" type="Folder">11</container>
                         </did>
                     </c>
                     <c id="ref156" level="otherlevel">
                         <did>
                             <unittitle>The Snake Pit</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">12</container>
+                            <container id="cid31038" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31038" type="Folder">12</container>
                         </did>
                     </c>
                     <c id="ref157" level="otherlevel">
                         <did>
                             <unittitle>Strindberg biography</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">13</container>
+                            <container id="cid31037" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31037" type="Folder">13</container>
                         </did>
                     </c>
                     <c id="ref158" level="otherlevel">
                         <did>
                             <unittitle>A Swedish Captain</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">14</container>
+                            <container id="cid31036" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31036" type="Folder">14</container>
                         </did>
                     </c>
                     <c id="ref159" level="otherlevel">
                         <did>
                             <unittitle>The Viking Flowers</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">15</container>
+                            <container id="cid31035" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31035" type="Folder">15</container>
                         </did>
                     </c>
                     <c id="ref160" level="otherlevel">
                         <did>
                             <unittitle>Lagerlof, Selma. The Hobgoblin of Toreby</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">16</container>
+                            <container id="cid31034" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31034" type="Folder">16</container>
                         </did>
                     </c>
                     <c id="ref161" level="otherlevel">
                         <did>
                             <unittitle>Notes and Fragments of Plays</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">17</container>
+                            <container id="cid31033" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31033" type="Folder">17</container>
                         </did>
                     </c>
                     <c id="ref162" level="otherlevel">
                         <did>
                             <unittitle>Berendsohn, Walter. Misc. Criticism</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">18</container>
+                            <container id="cid31032" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31032" type="Folder">18</container>
                         </did>
                     </c>
                     <c id="ref163" level="otherlevel">
                         <did>
                             <unittitle>Mansfield, Richard. Poems.</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">19</container>
+                            <container id="cid31031" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31031" type="Folder">19</container>
                         </did>
                     </c>
                     <c id="ref164" level="otherlevel">
                         <did>
                             <unittitle>Vowles, Richard B. Introduction to Strindberg</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">20</container>
+                            <container id="cid31030" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31030" type="Folder">20</container>
                         </did>
                     </c>
                     <c id="ref165" level="otherlevel">
                         <did>
                             <unittitle>Charles XII</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">21</container>
+                            <container id="cid31029" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31029" type="Folder">21</container>
                         </did>
                     </c>
                     <c id="ref166" level="otherlevel">
                         <did>
                             <unittitle>Unidentified mss., fragments</unittitle>
-                            <container type="Box">15</container>
-                            <container type="Folder">22</container>
+                            <container id="cid31028" type="Box" label="Mixed materials (31142042237290)">15</container>
+                            <container parent="cid31028" type="Folder">22</container>
                         </did>
                     </c>
                 </c>
@@ -1995,88 +2007,88 @@
                     <c id="ref170" level="otherlevel">
                         <did>
                             <unittitle>"On Translating Strindberg." The Performing Arts Review. 3:1</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">1</container>
+                            <container id="cid31027" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31027" type="Folder">1</container>
                             <unitdate>1972</unitdate>
                         </did>
                     </c>
                     <c id="ref171" level="otherlevel">
                         <did>
                             <unittitle>"August Strindberg, A Foe of Hypocrisy and Sham." Vasastjaernan. 55:5</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">2</container>
+                            <container id="cid31026" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31026" type="Folder">2</container>
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
                     <c id="ref172" level="otherlevel">
                         <did>
                             <unittitle>"Henrik Ibsen." Equity</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">3</container>
+                            <container id="cid31025" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31025" type="Folder">3</container>
                             <unitdate>1928</unitdate>
                         </did>
                     </c>
                     <c id="ref173" level="otherlevel">
                         <did>
                             <unittitle>"Henrik Ibsen." The Scandinavian-American Bulletin. 13:3</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">4</container>
+                            <container id="cid31024" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31024" type="Folder">4</container>
                             <unitdate>1968</unitdate>
                         </did>
                     </c>
                     <c id="ref174" level="otherlevel">
                         <did>
                             <unittitle>"Probing Strindberg's Psyche." American-Scandinavian Review. 3:1</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">5</container>
+                            <container id="cid31023" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31023" type="Folder">5</container>
                             <unitdate>1965</unitdate>
                         </did>
                     </c>
                     <c id="ref175" level="otherlevel">
                         <did>
                             <unittitle>"Strindberg's Future in America." American-Swedish Historical Foundation Yearbook</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">6</container>
+                            <container id="cid31022" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31022" type="Folder">6</container>
                             <unitdate>1966</unitdate>
                         </did>
                     </c>
                     <c id="ref176" level="otherlevel">
                         <did>
                             <unittitle>"Strindberg's Pilgrimage Dramas, I-II." The Chronicle</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">7</container>
+                            <container id="cid31021" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31021" type="Folder">7</container>
                             <unitdate>1954-1955</unitdate>
                         </did>
                     </c>
                     <c id="ref177" level="otherlevel">
                         <did>
                             <unittitle>Lagerlof, Selma. "The Hobgoblin of Toreby." World Fiction (Sept)</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">8</container>
+                            <container id="cid31020" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31020" type="Folder">8</container>
                             <unitdate>1922</unitdate>
                         </did>
                     </c>
                     <c id="ref178" level="otherlevel">
                         <did>
                             <unittitle>Skappel, Arvid. "Fresh Bread." World Fiction (Nov)</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">9</container>
+                            <container id="cid31019" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31019" type="Folder">9</container>
                             <unitdate>1922</unitdate>
                         </did>
                     </c>
                     <c id="ref179" level="otherlevel">
                         <did>
                             <unittitle>Strindberg, August. "Vestman's Sealing Adventure." The American-Scandinavian Review 54:1</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">10</container>
+                            <container id="cid31018" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31018" type="Folder">10</container>
                             <unitdate>1966</unitdate>
                         </did>
                     </c>
                     <c id="ref180" level="otherlevel">
                         <did>
                             <unittitle>Strindberg, August. "Leontopolis." The American-Scandinavian Review 51:4</unittitle>
-                            <container type="Box">16</container>
-                            <container type="Folder">11</container>
+                            <container id="cid31017" type="Box" label="Mixed materials (31142042237308)">16</container>
+                            <container parent="cid31017" type="Folder">11</container>
                             <unitdate>1964</unitdate>
                         </did>
                     </c>
@@ -2088,160 +2100,160 @@
                     <c id="ref182" level="otherlevel">
                         <did>
                             <unittitle>Androssy, Stella. "Uncle August: A Memoir of Strindberg." American Mercury 75:343</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">1</container>
+                            <container id="cid31016" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31016" type="Folder">1</container>
                             <unitdate>1952</unitdate>
                         </did>
                     </c>
                     <c id="ref183" level="otherlevel">
                         <did>
                             <unittitle>Strindberg, August. "Half a Sheet of Paper." Trans. Velma Swanston Howard. American-Scandinavian Review 1:1 (Jan)</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">2</container>
+                            <container id="cid31015" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31015" type="Folder">2</container>
                             <unitdate>1913</unitdate>
                         </did>
                     </c>
                     <c id="ref184" level="otherlevel">
                         <did>
                             <unittitle>Wittrock, Ulf. "Strindberg och Heidenstams sista mote." Bonniers Litterar Magasin 18:5</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">3</container>
+                            <container id="cid31014" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31014" type="Folder">3</container>
                             <unitdate>1949</unitdate>
                         </did>
                     </c>
                     <c id="ref185" level="otherlevel">
                         <did>
                             <unittitle>Bonniers Litterara Magasin (Strindberg Issue) 38:6</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">4</container>
+                            <container id="cid31013" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31013" type="Folder">4</container>
                             <unitdate>1969</unitdate>
                         </did>
                     </c>
                     <c id="ref186" level="otherlevel">
                         <did>
                             <unittitle>Bonniers Manadshaften: Strindbergsnummer 6</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">5</container>
+                            <container id="cid31012" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31012" type="Folder">5</container>
                             <unitdate>1912</unitdate>
                         </did>
                     </c>
                     <c id="ref187" level="otherlevel">
                         <did>
                             <unittitle>Bulletin of the American Swedish Institute: Strindberg Issue 4:3</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">6</container>
+                            <container id="cid31011" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31011" type="Folder">6</container>
                             <unitdate>1949</unitdate>
                         </did>
                     </c>
                     <c id="ref188" level="otherlevel">
                         <did>
                             <unittitle>Meddelanden fran Strindbergssallskapet, no. 1-15</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">7</container>
+                            <container id="cid31010" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31010" type="Folder">7</container>
                             <unitdate>1945-1953</unitdate>
                         </did>
                     </c>
                     <c id="ref189" level="otherlevel">
                         <did>
                             <unittitle>Meddelanden fran Strindbergssallskapet, no. 16-29</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">8</container>
+                            <container id="cid31009" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31009" type="Folder">8</container>
                             <unitdate>1954-1961</unitdate>
                         </did>
                     </c>
                     <c id="ref190" level="otherlevel">
                         <did>
                             <unittitle>Meddelanden fran Strindbergssallskapet, no.s 30-31, 51-52</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">9</container>
+                            <container id="cid31008" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31008" type="Folder">9</container>
                             <unitdate>1962/1963</unitdate>
                         </did>
                     </c>
                     <c id="ref191" level="otherlevel">
                         <did>
                             <unittitle>Modern Drama: Strindberg Issue 5:3 (Dec)</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">10</container>
+                            <container id="cid31007" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31007" type="Folder">10</container>
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
                     <c id="ref192" level="otherlevel">
                         <did>
                             <unittitle>Berendsohn, Walter A. "Struktur- och stilanalysen: ett nodvandigt komplement till den svenska Strindbergsforskningen." Horisont 5</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">11</container>
+                            <container id="cid31006" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31006" type="Folder">11</container>
                             <unitdate>1964</unitdate>
                         </did>
                     </c>
                     <c id="ref193" level="otherlevel">
                         <did>
                             <unittitle>Kungliga Dramatiska Teatern: Strindbergsjubileet (Strindberg issue)</unittitle>
-                            <container type="Box">17</container>
-                            <container type="Folder">12</container>
+                            <container id="cid31005" type="Box" label="Mixed materials (31142042237316)">17</container>
+                            <container parent="cid31005" type="Folder">12</container>
                             <unitdate>1949</unitdate>
                         </did>
                     </c>
                     <c id="ref194" level="otherlevel">
                         <did>
                             <unittitle>Lindstrom, Goran. "Strindberg Studies, 1915-1962" Scandinavica 2:1</unittitle>
-                            <container type="Box">18</container>
-                            <container type="Folder">13</container>
+                            <container id="cid31004" type="Box" label="Mixed materials (31142042237324)">18</container>
+                            <container parent="cid31004" type="Folder">13</container>
                             <unitdate>1963</unitdate>
                         </did>
                     </c>
                     <c id="ref195" level="otherlevel">
                         <did>
                             <unittitle>Herrlin, Axel. "August Strindberg's Lundatid och hans dramatiska diktning: Nagra episoder." Skansk Kalender</unittitle>
-                            <container type="Box">18</container>
-                            <container type="Folder">14</container>
+                            <container id="cid31003" type="Box" label="Mixed materials (31142042237324)">18</container>
+                            <container parent="cid31003" type="Folder">14</container>
                             <unitdate>1936</unitdate>
                         </did>
                     </c>
                     <c id="ref196" level="otherlevel">
                         <did>
                             <unittitle>Theatre Arts: Swedish Theatre Issue (Aug) 23: 8 (Aug)</unittitle>
-                            <container type="Box">18</container>
-                            <container type="Folder">15</container>
+                            <container id="cid31002" type="Box" label="Mixed materials (31142042237324)">18</container>
+                            <container parent="cid31002" type="Folder">15</container>
                             <unitdate>1940</unitdate>
                         </did>
                     </c>
                     <c id="ref197" level="otherlevel">
                         <did>
                             <unittitle>Gassner, John. "Strindberg in America." Theatre Arts 33:4 (May)</unittitle>
-                            <container type="Box">18</container>
-                            <container type="Folder">16</container>
+                            <container id="cid31001" type="Box" label="Mixed materials (31142042237324)">18</container>
+                            <container parent="cid31001" type="Folder">16</container>
                             <unitdate>1949</unitdate>
                         </did>
                     </c>
                     <c id="ref198" level="otherlevel">
                         <did>
                             <unittitle>"Two Swedish Immortals: Strindberg and Lagerkvist" Tribute to Sweden (Nov)</unittitle>
-                            <container type="Box">18</container>
-                            <container type="Folder">17</container>
+                            <container id="cid31000" type="Box" label="Mixed materials (31142042237324)">18</container>
+                            <container parent="cid31000" type="Folder">17</container>
                             <unitdate>1960</unitdate>
                         </did>
                     </c>
                     <c id="ref199" level="otherlevel">
                         <did>
                             <unittitle>Strindberg, August. "The Pelican." Trans. Evert Sprinchorn. The Tulane Drama Review 4:3</unittitle>
-                            <container type="Box">18</container>
-                            <container type="Folder">18</container>
+                            <container id="cid30999" type="Box" label="Mixed materials (31142042237324)">18</container>
+                            <container parent="cid30999" type="Folder">18</container>
                             <unitdate>1960</unitdate>
                         </did>
                     </c>
                     <c id="ref200" level="otherlevel">
                         <did>
                             <unittitle>World Theatre: Special Strindberg Issue 11:1</unittitle>
-                            <container type="Box">18</container>
-                            <container type="Folder">19</container>
+                            <container id="cid30998" type="Box" label="Mixed materials (31142042237324)">18</container>
+                            <container parent="cid30998" type="Folder">19</container>
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
                     <c id="ref201" level="otherlevel">
                         <did>
                             <unittitle>Misc. Articles on Strindberg</unittitle>
-                            <container type="Box">18</container>
-                            <container type="Folder">20</container>
+                            <container id="cid30997" type="Box" label="Mixed materials (31142042237324)">18</container>
+                            <container parent="cid30997" type="Folder">20</container>
                         </did>
                     </c>
                 </c>
@@ -2261,208 +2273,208 @@
                     <c id="ref205" level="otherlevel">
                         <did>
                             <unittitle>Playbills: Strindberg</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">1</container>
+                            <container id="cid30996" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30996" type="Folder">1</container>
                             <unitdate>1918-1933</unitdate>
                         </did>
                     </c>
                     <c id="ref206" level="otherlevel">
                         <did>
                             <unittitle>Playbills: Strindberg</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">2</container>
+                            <container id="cid30995" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30995" type="Folder">2</container>
                             <unitdate>1942-1949</unitdate>
                         </did>
                     </c>
                     <c id="ref207" level="otherlevel">
                         <did>
                             <unittitle>Playbills: Strindberg</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">3</container>
+                            <container id="cid30994" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30994" type="Folder">3</container>
                             <unitdate>1952-1958</unitdate>
                         </did>
                     </c>
                     <c id="ref208" level="otherlevel">
                         <did>
                             <unittitle>Playbills: Strindberg</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">4</container>
+                            <container id="cid30993" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30993" type="Folder">4</container>
                             <unitdate>1962-1969</unitdate>
                         </did>
                     </c>
                     <c id="ref209" level="otherlevel">
                         <did>
                             <unittitle>Playbills: Strindberg</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">5</container>
+                            <container id="cid30992" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30992" type="Folder">5</container>
                             <unitdate>1970s</unitdate>
                         </did>
                     </c>
                     <c id="ref210" level="otherlevel">
                         <did>
                             <unittitle>Playbills: Paulson's own performances in Strindberg's plays; performances based on Paulson's translations</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">6</container>
+                            <container id="cid30991" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30991" type="Folder">6</container>
                             <unitdate>1915-1970</unitdate>
                         </did>
                     </c>
                     <c id="ref211" level="otherlevel">
                         <did>
                             <unittitle>Press clippings: Strindberg's "The Great Highway"</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">7</container>
+                            <container id="cid30990" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30990" type="Folder">7</container>
                             <unitdate>1949/1952</unitdate>
                         </did>
                     </c>
                     <c id="ref212" level="otherlevel">
                         <did>
                             <unittitle>Photographs: Strindberg's "The Great Highway" (set design)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">8</container>
+                            <container id="cid30989" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30989" type="Folder">8</container>
                             <unitdate>1949</unitdate>
                         </did>
                     </c>
                     <c id="ref213" level="otherlevel">
                         <did>
                             <unittitle>Photographs: Strindberg's "The Great Highway" (performance)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">9</container>
+                            <container id="cid30988" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30988" type="Folder">9</container>
                             <unitdate>1952</unitdate>
                         </did>
                     </c>
                     <c id="ref214" level="otherlevel">
                         <did>
                             <unittitle>Photographs: Strindberg's "Brott och Brott" (set design)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">10</container>
+                            <container id="cid30987" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30987" type="Folder">10</container>
                             <unitdate>1951</unitdate>
                         </did>
                     </c>
                     <c id="ref215" level="otherlevel">
                         <did>
                             <unittitle>Photographs: Strindberg's "Miss Julie" (performance)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">11</container>
+                            <container id="cid30986" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30986" type="Folder">11</container>
                             <unitdate>1951/1958</unitdate>
                         </did>
                     </c>
                     <c id="ref216" level="otherlevel">
                         <did>
                             <unittitle>Photographs: Strindberg's "Stormclouds" (performance)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">12</container>
+                            <container id="cid30985" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30985" type="Folder">12</container>
                             <unitdate>n.d.</unitdate>
                         </did>
                     </c>
                     <c id="ref217" level="otherlevel">
                         <did>
                             <unittitle>Photographs: misc. (performance)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">13</container>
+                            <container id="cid30984" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30984" type="Folder">13</container>
                             <unitdate>n.d.</unitdate>
                         </did>
                     </c>
                     <c id="ref218" level="otherlevel">
                         <did>
                             <unittitle>Photographs, obituary: Richard and Beatrice Mansfield (actors)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">14</container>
+                            <container id="cid30983" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30983" type="Folder">14</container>
                             <unitdate>1890s?</unitdate>
                         </did>
                     </c>
                     <c id="ref219" level="otherlevel">
                         <did>
                             <unittitle>Photographs: (writer, actor and producer) Prins Wilhelm of Sweden, unknown woman (actress?)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">15</container>
+                            <container id="cid30982" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30982" type="Folder">15</container>
                             <unitdate>1924, n.d.</unitdate>
                         </did>
                     </c>
                     <c id="ref220" level="otherlevel">
                         <did>
                             <unittitle>Tickets, invitations: Performances of Strindberg and Ibsen</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">16</container>
+                            <container id="cid30981" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30981" type="Folder">16</container>
                             <unitdate>1928, n.d.</unitdate>
                         </did>
                     </c>
                     <c id="ref221" level="otherlevel">
                         <did>
                             <unittitle>Programs, invitations: Misc. Plays and Readings in which Paulson performed</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">17</container>
+                            <container id="cid30980" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30980" type="Folder">17</container>
                             <unitdate>1915-1921</unitdate>
                         </did>
                     </c>
                     <c id="ref222" level="otherlevel">
                         <did>
                             <unittitle>Reviews: Paulson's productions and performances</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">18</container>
+                            <container id="cid30979" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30979" type="Folder">18</container>
                             <unitdate>1920s-1930s</unitdate>
                         </did>
                     </c>
                     <c id="ref223" level="otherlevel">
                         <did>
                             <unittitle>Program leaflets, invitations: Paulson reads from his Strindberg translations</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">19</container>
+                            <container id="cid30978" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30978" type="Folder">19</container>
                             <unitdate>n.d.</unitdate>
                         </did>
                     </c>
                     <c id="ref224" level="otherlevel">
                         <did>
                             <unittitle>Program leaflets, invitations, notes: Paulson reads from his Strindberg translations at the Library of Congress</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">20</container>
+                            <container id="cid30977" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30977" type="Folder">20</container>
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
                     <c id="ref225" level="otherlevel">
                         <did>
                             <unittitle>Misc. periodicals, publications about the theatre: "An Endowed Theatre," The Dramatist, (Actor's) Equity, The New Dawn</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">21</container>
+                            <container id="cid30976" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30976" type="Folder">21</container>
                             <unitdate>1910-1934</unitdate>
                         </did>
                     </c>
                     <c id="ref226" level="otherlevel">
                         <did>
                             <unittitle>Misc. theatre material: "Theatre Annual" postcard (1943), "A Service Manual for Theatre Staff" (1941), "The Ten Commandments in Playwriting"</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">22</container>
+                            <container id="cid30975" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30975" type="Folder">22</container>
                             <unitdate>1940s</unitdate>
                         </did>
                     </c>
                     <c id="ref227" level="otherlevel">
                         <did>
                             <unittitle>Press releases: Paulson's translations of Strindberg (Bantam and Phaedra)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">23</container>
+                            <container id="cid30974" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30974" type="Folder">23</container>
                             <unitdate>1960-1970</unitdate>
                         </did>
                     </c>
                     <c id="ref228" level="otherlevel">
                         <did>
                             <unittitle>Reviews (extracts, typed quotes): Paulson's translations</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">24</container>
+                            <container id="cid30973" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30973" type="Folder">24</container>
                             <unitdate>1950-1970</unitdate>
                         </did>
                     </c>
                     <c id="ref229" level="otherlevel">
                         <did>
                             <unittitle>Catalogues, lists: Svenska Forfattare (Bonniers), "Northern Literature" (Engberg-Holmberg)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">25</container>
+                            <container id="cid30972" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30972" type="Folder">25</container>
                             <unitdate>1911</unitdate>
                         </did>
                     </c>
                     <c id="ref230" level="otherlevel">
                         <did>
                             <unittitle>Press Release: Strindberg's "Ockulta Dagboken"</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">26</container>
+                            <container id="cid30971" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30971" type="Folder">26</container>
                             <unitdate>n.d.</unitdate>
                         </did>
                     </c>
@@ -2474,54 +2486,54 @@
                     <c id="ref232" level="otherlevel">
                         <did>
                             <unittitle>Photographs from a book: Strindberg's home, Strindberg at his desk, Strindberg writi</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">27</container>
+                            <container id="cid30970" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30970" type="Folder">27</container>
                         </did>
                     </c>
                     <c id="ref233" level="otherlevel">
                         <did>
                             <unittitle>Photocopy of Strindberg's last will (handwritten; 23 March)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">28</container>
+                            <container id="cid30969" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30969" type="Folder">28</container>
                             <unitdate>1911</unitdate>
                         </did>
                     </c>
                     <c id="ref234" level="otherlevel">
                         <did>
                             <unittitle>Postcards: Strindberg; paintings and library</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">29</container>
+                            <container id="cid30968" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30968" type="Folder">29</container>
                         </did>
                     </c>
                     <c id="ref235" level="otherlevel">
                         <did>
                             <unittitle>Stamps: Strindberg stamps</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">30</container>
+                            <container id="cid30967" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30967" type="Folder">30</container>
                             <unitdate>1949</unitdate>
                         </did>
                     </c>
                     <c id="ref236" level="otherlevel">
                         <did>
                             <unittitle>Strindberg: A Catalogue of his Paintings, from an exhibition at Gummesons Konsthall (8-31 Jan)</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">31</container>
+                            <container id="cid30966" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30966" type="Folder">31</container>
                             <unitdate>1924</unitdate>
                         </did>
                     </c>
                     <c id="ref237" level="otherlevel">
                         <did>
                             <unittitle>The Strindberg Museum: An Exhibition of Edward Munch's work</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">32</container>
+                            <container id="cid30965" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30965" type="Folder">32</container>
                             <unitdate>1977</unitdate>
                         </did>
                     </c>
                     <c id="ref238" level="otherlevel">
                         <did>
                             <unittitle>The Strindberg Society: Membership List</unittitle>
-                            <container type="Box">19</container>
-                            <container type="Folder">33</container>
+                            <container id="cid30964" type="Box" label="Mixed materials (31142042237332)">19</container>
+                            <container parent="cid30964" type="Folder">33</container>
                             <unitdate>1955</unitdate>
                         </did>
                     </c>
@@ -2538,75 +2550,75 @@
                 <c id="ref241" level="otherlevel">
                     <did>
                         <unittitle>Photographs: Arvid Paulson</unittitle>
-                        <container type="Box">20</container>
-                        <container type="Folder">1</container>
+                        <container id="cid30963" type="Box" label="Mixed materials (31142042237340)">20</container>
+                        <container parent="cid30963" type="Folder">1</container>
                         <unitdate>1933-1977</unitdate>
                     </did>
                 </c>
                 <c id="ref242" level="otherlevel">
                     <did>
                         <unittitle>Photographs: Misc. people</unittitle>
-                        <container type="Box">20</container>
-                        <container type="Folder">2</container>
+                        <container id="cid30962" type="Box" label="Mixed materials (31142042237340)">20</container>
+                        <container parent="cid30962" type="Folder">2</container>
                         <unitdate>[1950]/1961</unitdate>
                     </did>
                 </c>
                 <c id="ref243" level="otherlevel">
                     <did>
                         <unittitle>Speech, notes: Paulson receives award from the Royal Swedish Academy of Letters</unittitle>
-                        <container type="Box">20</container>
-                        <container type="Folder">3</container>
+                        <container id="cid30961" type="Box" label="Mixed materials (31142042237340)">20</container>
+                        <container parent="cid30961" type="Folder">3</container>
                         <unitdate>1964</unitdate>
                     </did>
                 </c>
                 <c id="ref244" level="otherlevel">
                     <did>
                         <unittitle>Program leaflet: Paulson receives honorary degree from Upsala College</unittitle>
-                        <container type="Box">20</container>
-                        <container type="Folder">4</container>
+                        <container id="cid30960" type="Box" label="Mixed materials (31142042237340)">20</container>
+                        <container parent="cid30960" type="Folder">4</container>
                         <unitdate>1973</unitdate>
                     </did>
                 </c>
                 <c id="ref245" level="otherlevel">
                     <did>
                         <unittitle>Biography: Material assembled for an (auto-?)biography of Paulson</unittitle>
-                        <container type="Box">20</container>
-                        <container type="Folder">6</container>
+                        <container id="cid30959" type="Box" label="Mixed materials (31142042237340)">20</container>
+                        <container parent="cid30959" type="Folder">6</container>
                     </did>
                 </c>
                 <c id="ref246" level="otherlevel">
                     <did>
                         <unittitle>Tickets and invitations to misc. events</unittitle>
-                        <container type="Box">20</container>
-                        <container type="Folder">8</container>
+                        <container id="cid30958" type="Box" label="Mixed materials (31142042237340)">20</container>
+                        <container parent="cid30958" type="Folder">8</container>
                     </did>
                 </c>
                 <c id="ref247" level="otherlevel">
                     <did>
                         <unittitle>Calling Cards</unittitle>
-                        <container type="Box">20</container>
-                        <container type="Folder">9</container>
+                        <container id="cid30957" type="Box" label="Mixed materials (31142042237340)">20</container>
+                        <container parent="cid30957" type="Folder">9</container>
                     </did>
                 </c>
                 <c id="ref248" level="otherlevel">
                     <did>
                         <unittitle>Legal Papers</unittitle>
-                        <container type="Box">20</container>
-                        <container type="Folder">10</container>
+                        <container id="cid30956" type="Box" label="Mixed materials (31142042237340)">20</container>
+                        <container parent="cid30956" type="Folder">10</container>
                     </did>
                 </c>
                 <c id="ref249" level="otherlevel">
                     <did>
                         <unittitle>Miscellaneous: Magazines</unittitle>
-                        <container type="Box">20</container>
-                        <container type="Folder">11</container>
+                        <container id="cid30955" type="Box" label="Mixed materials (31142042237340)">20</container>
+                        <container parent="cid30955" type="Folder">11</container>
                     </did>
                 </c>
                 <c id="ref250" level="otherlevel">
                     <did>
                         <unittitle>Miscellaneous: Maeterlinck quotations (typed)</unittitle>
-                        <container type="Box">20</container>
-                        <container type="Folder">12</container>
+                        <container id="cid30954" type="Box" label="Mixed materials (31142042237340)">20</container>
+                        <container parent="cid30954" type="Folder">12</container>
                     </did>
                 </c>
             </c>
@@ -2621,170 +2633,170 @@
                 <c id="ref253" level="otherlevel">
                     <did>
                         <unittitle>Series II, Subseries A: Mss. Ibsen, Peer Gynt</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">12B</container>
+                        <container id="cid30953" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30953" type="Folder">12B</container>
                     </did>
                 </c>
                 <c id="ref254" level="otherlevel">
                     <did>
                         <unittitle>Series II, Subseries A: Mss. Ibsen Memorial Speech</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">18B</container>
+                        <container id="cid30952" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30952" type="Folder">18B</container>
                     </did>
                 </c>
                 <c id="ref255" level="otherlevel">
                     <did>
                         <unittitle>Series II, Subseries A: Ibsen Productions in America, 1869-1916 (typed list)</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">19B</container>
+                        <container id="cid30951" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30951" type="Folder">19B</container>
                     </did>
                 </c>
                 <c id="ref256" level="otherlevel">
                     <did>
                         <unittitle>Series II, Subseries B: Strindberg's "Natives of Hemso" (galleys)</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">70B</container>
+                        <container id="cid30950" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30950" type="Folder">70B</container>
                     </did>
                 </c>
                 <c id="ref257" level="otherlevel">
                     <did>
                         <unittitle>Series II, Subseries D: Wilcox, Ella Wheeler. Mss. Poems.</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">10</container>
+                        <container id="cid30949" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30949" type="Folder">10</container>
                     </did>
                 </c>
                 <c id="ref258" level="otherlevel">
                     <did>
                         <unittitle>Series II, Subseries E: List of Strindberg's plays, 1869-1909.</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">1B</container>
+                        <container id="cid30948" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30948" type="Folder">1B</container>
                     </did>
                 </c>
                 <c id="ref259" level="otherlevel">
                     <did>
                         <unittitle>Series III, Subseries B: Berg, John. "August Strindberg: En orientering i hans forfattarskap." Studiekamraten</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">21</container>
+                        <container id="cid30947" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30947" type="Folder">21</container>
                         <unitdate>1949</unitdate>
                     </did>
                 </c>
                 <c id="ref260" level="otherlevel">
                     <did>
                         <unittitle>Series III, Subseries B: Misc. Articles on Strindberg</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">22</container>
+                        <container id="cid30946" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30946" type="Folder">22</container>
                     </did>
                 </c>
                 <c id="ref261" level="otherlevel">
                     <did>
                         <unittitle>Series III, Subseries B: Obliques: The Strindberg Issue</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">23</container>
+                        <container id="cid30945" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30945" type="Folder">23</container>
                     </did>
                 </c>
                 <c id="ref262" level="otherlevel">
                     <did>
                         <unittitle>Series III, Subseries B: Mansfield, Richard. "Little Theater in Big America." The Chronicle</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">24</container>
+                        <container id="cid30944" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30944" type="Folder">24</container>
                         <unitdate>1917</unitdate>
                     </did>
                 </c>
                 <c id="ref263" level="otherlevel">
                     <did>
                         <unittitle>Series IV, Subseries A: Playbill: Ibsen</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">1A</container>
+                        <container id="cid30943" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30943" type="Folder">1A</container>
                         <unitdate>n.d.</unitdate>
                     </did>
                 </c>
                 <c id="ref264" level="otherlevel">
                     <did>
                         <unittitle>Series IV, Subseries A: Photograph: Strindberg's (?) "Gustav Vasa" (performance)</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">13B</container>
+                        <container id="cid30942" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30942" type="Folder">13B</container>
                         <unitdate>n.d.</unitdate>
                     </did>
                 </c>
                 <c id="ref265" level="otherlevel">
                     <did>
                         <unittitle>Series IV, Subseries A: Photograph: Actor in role as Chinese...?</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">15B</container>
+                        <container id="cid30941" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30941" type="Folder">15B</container>
                         <unitdate>n.d.</unitdate>
                     </did>
                 </c>
                 <c id="ref266" level="otherlevel">
                     <did>
                         <unittitle>Series IV, Subseries A: Interview with Paulson about "Peer Gynt" (script)</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">19B</container>
+                        <container id="cid30940" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30940" type="Folder">19B</container>
                         <unitdate>1938</unitdate>
                     </did>
                 </c>
                 <c id="ref267" level="otherlevel">
                     <did>
                         <unittitle>Series IV, Subseries A: Program</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">22C</container>
+                        <container id="cid30939" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30939" type="Folder">22C</container>
                         <unitdate>n.d.</unitdate>
                     </did>
                 </c>
                 <c id="ref268" level="otherlevel">
                     <did>
                         <unittitle>Series IV, Subseries B: Strindberg photo book (photos extracted)</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">27A</container>
+                        <container id="cid30938" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30938" type="Folder">27A</container>
                     </did>
                 </c>
                 <c id="ref269" level="otherlevel">
                     <did>
                         <unittitle>Series IV, Subseries B: Strindberg Book Jackets</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">27B</container>
+                        <container id="cid30937" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30937" type="Folder">27B</container>
                     </did>
                 </c>
                 <c id="ref270" level="otherlevel">
                     <did>
                         <unittitle>Series IV, Subseries B: Copy of Strindberg's mss. for "Branda Tomten"</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">28B</container>
+                        <container id="cid30936" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30936" type="Folder">28B</container>
                         <unitdate>1907</unitdate>
                     </did>
                 </c>
                 <c id="ref271" level="otherlevel">
                     <did>
                         <unittitle>Series V: Paulson's Medal from the Royal Swedish Academy</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">3B</container>
+                        <container id="cid30935" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30935" type="Folder">3B</container>
                     </did>
                 </c>
                 <c id="ref272" level="otherlevel">
                     <did>
                         <unittitle>Series V: Paulson's original mss., "Armistice Day" and "Union Soldier"</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">5</container>
+                        <container id="cid30934" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30934" type="Folder">5</container>
                     </did>
                 </c>
                 <c id="ref273" level="otherlevel">
                     <did>
                         <unittitle>Series V: Biographical material on Paulson</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">6B</container>
+                        <container id="cid30933" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30933" type="Folder">6B</container>
                     </did>
                 </c>
                 <c id="ref274" level="otherlevel">
                     <did>
                         <unittitle>Series V: Paulson's notes for his "Strindberg Collections"</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">7</container>
+                        <container id="cid30932" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30932" type="Folder">7</container>
                     </did>
                 </c>
                 <c id="ref275" level="otherlevel">
                     <did>
                         <unittitle>Series V: Miscellaneous: Flyer (Roosevelt v. Wilkie)</unittitle>
-                        <container type="Box">21</container>
-                        <container type="Folder">13</container>
+                        <container id="cid30931" type="Box" label="Mixed materials (31142042237357)">21</container>
+                        <container parent="cid30931" type="Folder">13</container>
                     </did>
                 </c>
             </c>

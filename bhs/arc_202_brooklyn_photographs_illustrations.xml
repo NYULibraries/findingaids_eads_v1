@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_202_brooklyn_photographs_illustrations.html">arc_202_brooklyn_photographs_illustrations</eadid>
         <filedesc>
             <titlestmt>
@@ -25,9 +25,9 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-05-01T16:08-0400</date>
+                <date>2015-02-12T09:50-0500</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
@@ -57,7 +57,7 @@
             <container id="cid778009" type="Box" label="Graphic materials">ARC.202 15 of 23</container>
             <container id="cid778010" type="Box" label="Graphic materials">ARC.202 14 of 23</container>
             <container id="cid778011" type="Box" label="Graphic materials">ARC.202 13 of 23</container>
-            <container id="cid778012" type="Box" label="Graphic materials">ARC.201 14 of 16; ARC.202 1 of 23</container>
+            <container id="cid778012" type="Box" label="Graphic materials">ARC.202 1 of 23</container>
             <container id="cid778013" type="Box" label="Graphic materials">ARC.202 2 of 23</container>
             <container id="cid778014" type="Box" label="Graphic materials">ARC.202 3 of 23</container>
             <container id="cid778015" type="Box" label="Graphic materials">ARC.202 4 of 23</container>
@@ -69,10 +69,11 @@
             <container id="cid778006" type="Box" label="Graphic materials">ARC.202 18 of 23</container>
             <container id="cid778007" type="Box" label="Graphic materials">ARC.202 17 of 23</container>
             <physdesc>
-                <extent>12.6 Linear feet</extent>
+                <extent>12.6 linear feet</extent>
                 <extent>in 23 manuscript boxes, one oversize box, one extra oversize box, and one flat file drawer.</extent>
             </physdesc>
             <unitdate normal="1890/1960" type="inclusive">circa 1900 to 1950</unitdate>
+            <abstract id="ref8" label="Abstract">The Brooklyn photograph and illustration collection contains approximately 7000 items dating from the early to mid 20th century.</abstract>
         </did>
         <scopecontent id="ref1">
             <head>Scope and Contents note</head>
@@ -96,18 +97,21 @@
             <head>Processing Information note</head>
             <p>Fully processed to the item level.</p>
             <p>This collection combines the accessions V1973.5, V1973.6, V1991.012, and V1991.032.</p>
+            <p>Finding aid authored by Weatherly Stephan on April 27, 2011. Additional content contributed by Patricia Glowinski on November 4, 2011. Immediate Source of Acquisition note and Conditions Governing Use note updated by John Zarrillo in February 2015.</p>
         </processinfo>
         <acqinfo id="ref6">
             <head>Immediate Source of Acquisition note</head>
-            <p>This collection was assembled through a variety of sources, dates unknown.</p>
+            <p>The bulk of the collection was formalized into a collection in 1973, but material was collected throughout the 20th century from various news agencies, magazines, journals, and other print publications.</p>
         </acqinfo>
         <userestrict id="ref7">
             <head>Conditions Governing Use note</head>
-            <p>Reproduction rights vary for each item in the collection and have not been evaluated. Please consult with library staff for more information.</p>
+            <p>BHS does not hold the rights to any images in this collection. Images published before 1923 are in the public domain. Copyright status for images published after 1923 have not been evaluated. Unpublished images will enter the public domain 70 years from the death of their creator (when the identity of the creator is known) or 120 years from the date of creation (for works made for hire (corporate authorship), anonymous works, or when the death date of the creator is unknown). For more information please consult library staff.</p>
         </userestrict>
         <controlaccess>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">New York Naval Shipyard.</corpname>
             <subject source="lcsh">Aerial photographs</subject>
+            <subject source="lcsh">Armories |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Banks and banking |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Bath Beach (New York, N.Y.)</geogname>
             <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
             <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
@@ -116,6 +120,7 @@
             <genreform source="aat">Black-and-white prints (prints on paper)</genreform>
             <geogname source="lcsh">Boerum Hill (New York, N.Y.)</geogname>
             <geogname source="lcsh">Borough Park (New York, N.Y.)</geogname>
+            <subject source="lcsh">Bridges |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Brighton Beach (New York, N.Y.)</geogname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
@@ -124,6 +129,8 @@
             <subject source="lcsh">Business enterprises |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Canarsie (New York, N.Y.)</geogname>
             <geogname source="lcsh">Carroll Gardens (New York, N.Y.)</geogname>
+            <subject source="lcsh">Church buildings |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Civic improvement |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Clinton Hill (New York, N.Y.)</geogname>
             <geogname source="lcsh">Cobble Hill (New York, N.Y.)</geogname>
             <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
@@ -132,6 +139,7 @@
             <subject source="lcsh">Dwellings |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Dyker Heights (New York, N.Y.)</geogname>
             <genreform source="aat">Exterior views</genreform>
+            <subject source="lcsh">Fire departments |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
             <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
             <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
@@ -141,18 +149,27 @@
             <geogname source="lcsh">Greenpoint (New York, N.Y.)</geogname>
             <genreform source="aat">Illustrations (layout features)</genreform>
             <genreform source="aat">Interior views</genreform>
+            <subject source="lcsh">Libraries |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Manhattan Beach (New York, N.Y.)</geogname>
+            <subject source="lcsh">Museums |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">New Lots (New York, N.Y.)</geogname>
             <geogname source="lcsh">New Utrecht (New York, N.Y.)</geogname>
             <genreform source="aat">Panoramas</genreform>
             <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
+            <subject source="lcsh">Parks |z New York (State) |z Kings County</subject>
             <genreform source="aat">Photographs</genreform>
-            <geogname source="lcsh">Prospect Heights (New York, N.Y.) </geogname>
+            <subject source="lcsh">Police |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Post office buildings |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Prisons |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Prospect Heights (New York, N.Y.)</geogname>
             <geogname source="lcsh">Prospect Park South (New York, N.Y.)</geogname>
+            <subject source="lcsh">Railroads |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Red Hook (New York, N.Y.)</geogname>
+            <subject source="lcsh">Schools |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Sea Gate (New York, N.Y.)</geogname>
             <geogname source="lcsh">Sheepshead Bay (New York, N.Y.)</geogname>
             <genreform source="aat">Studio portraits</genreform>
+            <subject source="lcsh">Subway stations |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Sunset Park (New York, N.Y.)</geogname>
             <subject source="lcsh">Waterfronts |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>

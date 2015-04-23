@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2007_026_switzer_family">arms_2007_026_switzer_family</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Switzer family papers
+                    <num>2007.026</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>March 2015</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-03-21T16:48-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Switzer family papers</unittitle>
+            <unitid>2007.026</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1277006" type="Box" label="Mixed materials">1 of 1</container>
+            <container id="cid1277005" type="Item" label="Realia">Parasol</container>
+            <physdesc>
+                <extent>3.25 linear feet</extent>
+                <extent>in one half manuscript box and one loose object</extent>
+            </physdesc>
+            <unitdate normal="1890/1930" type="bulk">Bulk, 1890-1930</unitdate>
+            <unitdate normal="1868/2003" type="inclusive">1868-2003</unitdate>
+            <abstract id="ref3" label="Abstract">The papers consist of material pertaining to Louise M. Switzer and her family. Items include a wedding book and invitation, genealogical material, photographs (which also include the Romaine family), and a parasol with the monogram "L.M.S." The Switzer family resided on Putnam Avenue in Brooklyn in the late 19th and early 20th centuries.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Collector (col)">Berg, Evelyn L.</persname>
+            </origination>
+            <origination label="creator">
+                <famname rules="dacs" source="local">Switzer family</famname>
+            </origination>
+        </did>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>All photographs are presumed to be in the public domain by 2030.</p>
+        </userestrict>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Switzer family papers, 2007.026, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The papers consist of material pertaining to Louise M. Switzer and her family. Items include a wedding book and invitation, genealogical material, photographs (which also include the Romaine family), and a parasol with the monogram "L.M.S." The Switzer family resided on Putnam Avenue in Brooklyn in the late 19th and early 20th centuries.</p>
+            <p>The books in the collection include: 
+                <emph render="italic">The Revellers</emph>, by Rev. Edward A. Monroe (1849), 
+                <emph render="italic">Tales of a Wayside Inn</emph>, by Henry Wadsworth Longfellow (1928), and one Holy Bible (circa 1875).</p>
+        </scopecontent>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Evelyn L. Berg, 2007.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="dacs" source="local" role="Donor (dnr)">Berg, Evelyn L.</persname>
+            <famname rules="dacs" source="local">Romaine family</famname>
+            <famname rules="dacs" source="local">Switzer family</famname>
+            <persname rules="dacs" source="local">Switzer, Louise M.</persname>
+            <genreform source="aat">Bible</genreform>
+            <genreform source="aat">Books</genreform>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <genreform source="aat">Genealogies</genreform>
+            <subject source="lcsh">Genealogy</subject>
+            <genreform source="aat">Parasols</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">Weddings |z New York (State) |z Kings County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

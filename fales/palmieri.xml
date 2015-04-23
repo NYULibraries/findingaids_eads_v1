@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid>palmieri</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://dlib.nyu.edu/findingaids/html/fales/palmieri/">palmieri</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the April Palmieri Papers
                     <lb/>
                     <date calendar="gregorian" era="ce">1980-1990</date>
                     <lb/>
-                    <num>MSS 115</num>
                     <num>MSS 115</num>
                 </titleproper>
                 <author>Finding aid prepared by Processed by: Matt Moore, 2001.</author>
@@ -17,7 +15,7 @@
                 <p>This version was derived from Palmieri finding aid.doc</p>
             </editionstmt>
             <publicationstmt>
-                <publisher>© 2012 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -30,7 +28,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-02-15T17:19-0500</date>
+                <date>2014-10-16T14:23-0400</date>
             </creation>
             <langusage>Description is in 
                 <language>English</language>.</langusage>
@@ -41,7 +39,7 @@
             <unittitle>April Palmieri Papers</unittitle>
             <unitid>MSS 115</unitid>
             <repository>
-                <corpname>© 2012 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -50,7 +48,7 @@
                 <extent>3.5 linear feet</extent>
                 <extent>(3 boxes)</extent>
             </physdesc>
-            <unitdate>1980-1990</unitdate>
+            <unitdate normal="1980/1990" type="inclusive">1980-1990</unitdate>
             <abstract id="ref3" label="Abstract">In the 1980's, April Palmieri was a member of the East Village band, Pulsallama, and a close friend of an eminent performer and member of the scene, John Sex. Included in the collection are Sex's videotapes of his performances, flyers, posters, and other materials about Palmieri and Sex.</abstract>
         </did>
         <custodhist id="ref4">
@@ -116,15 +114,14 @@
             <persname source="local">Palmieri, April</persname>
             <corpname source="naf">Pulsallama (Musical Group).</corpname>
             <persname source="local">Sex, John</persname>
-            <persname source="ingest"></persname>
-            <subject source="lcsh">Artists and community  |z United States.</subject>
+            <subject source="lcsh">Artists and community |z United States.</subject>
             <subject source="lcsh">Avant-garde (Aesthetics)</subject>
             <genreform source="aat">Clippings (information artifacts)</genreform>
             <genreform source="aat">Correspondence.</genreform>
             <genreform source="aat">Fliers (printed matter)</genreform>
             <subject source="lcsh">Male striptease.</subject>
             <geogname source="lcsh">New York (N.Y.)</geogname>
-            <subject source="lcsh">New York (N.Y.) |x Intellectual life |y 20th century.</subject>
+            <geogname source="lcsh">New York (N.Y.) |x Intellectual life |y 20th century.</geogname>
             <subject source="lcsh">Nightclubs.</subject>
             <subject source="lcsh">Performance art |z United States.</subject>
             <genreform source="aat">Posters.</genreform>
@@ -387,6 +384,253 @@
                         <container parent="cid125967" type="Folder">ID: 115.0035</container>
                         <unitdate>undated</unitdate>
                     </did>
+                </c>
+                <c id="ref67" level="item">
+                    <did>
+                        <unittitle>Pulsallama at Danceteria, 1/21/1983</unittitle>
+                        <container id="cid17282001" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282001" type="Media">ID: 115.0038</container>
+                        <unitdate>1/21/1983</unitdate>
+                    </did>
+                    <phystech id="ref85">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:33:00</p>
+                        <p>Original Format: 3/4" Umatic</p>
+                        <p>Source: ID: 115.0001</p>
+                    </phystech>
+                </c>
+                <c id="ref68" level="item">
+                    <did>
+                        <unittitle>The John Sex Story, 11/1983- 7/29/1985</unittitle>
+                        <container id="cid17282002" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282002" type="Media">ID: 115.0040</container>
+                        <unitdate>11/1983- 7/29/1985</unitdate>
+                    </did>
+                    <phystech id="ref86">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 02:01:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0003</p>
+                    </phystech>
+                </c>
+                <c id="ref69" level="item">
+                    <did>
+                        <unittitle>Peter Pan at Danceteria, 12/22/1983</unittitle>
+                        <container id="cid17282003" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282003" type="Media">ID: 115.0042</container>
+                        <unitdate>12/22/1983</unitdate>
+                    </did>
+                    <phystech id="ref87">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 01:57:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0005</p>
+                    </phystech>
+                </c>
+                <c id="ref70" level="item">
+                    <did>
+                        <unittitle>Pyramid NHK Show</unittitle>
+                        <container id="cid17282004" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282004" type="Media">ID: 115.0044</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                    <phystech id="ref88">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:18:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0007</p>
+                    </phystech>
+                </c>
+                <c id="ref71" level="item">
+                    <did>
+                        <unittitle>Cutting Edge; Fleshtones, Space Party, John Sex and Bodacious TaTas at the Limelight, 6/15/1985</unittitle>
+                        <container id="cid17282005" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282005" type="Media">ID: 115.0046</container>
+                        <unitdate>6/15/1985</unitdate>
+                    </did>
+                    <phystech id="ref89">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 01:16:30</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0009</p>
+                    </phystech>
+                </c>
+                <c id="ref72" level="item">
+                    <did>
+                        <unittitle>CNN News Interview WITH John Sex, 7/2/1986</unittitle>
+                        <container id="cid17282006" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282006" type="Media">ID: 115.0048</container>
+                        <unitdate>7/2/1986</unitdate>
+                    </did>
+                    <phystech id="ref90">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:07:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0011</p>
+                    </phystech>
+                </c>
+                <c id="ref73" level="item">
+                    <did>
+                        <unittitle>Pyramid Show, 10/17/1986</unittitle>
+                        <container id="cid17282007" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282007" type="Media">ID: 115.0050</container>
+                        <unitdate>10/17/1986</unitdate>
+                    </did>
+                    <phystech id="ref91">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:56:30</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0013</p>
+                    </phystech>
+                </c>
+                <c id="ref74" level="item">
+                    <did>
+                        <unittitle>Club Nu Show, 4/24/1987</unittitle>
+                        <container id="cid17282008" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282008" type="Media">ID: 115.0052</container>
+                        <unitdate>4/24/1987</unitdate>
+                    </did>
+                    <phystech id="ref92">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:25:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0015</p>
+                    </phystech>
+                </c>
+                <c id="ref75" level="item">
+                    <did>
+                        <unittitle>John Sex in Graceland, Vancouver, 4/11/1988</unittitle>
+                        <container id="cid17282009" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282009" type="Media">ID: 115.0054</container>
+                        <unitdate>4/11/1988</unitdate>
+                    </did>
+                    <phystech id="ref93">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:58:45</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0017</p>
+                    </phystech>
+                </c>
+                <c id="ref76" level="item">
+                    <did>
+                        <unittitle>Baci Italiani</unittitle>
+                        <container id="cid17282010" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282010" type="Media">ID: 115.0056</container>
+                    </did>
+                    <phystech id="ref94">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:55:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0020</p>
+                    </phystech>
+                </c>
+                <c id="ref77" level="item">
+                    <did>
+                        <unittitle>Baci Italiani at Limelight</unittitle>
+                        <container id="cid17282011" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282011" type="Media">ID: 115.0058</container>
+                    </did>
+                    <phystech id="ref95">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 01:12:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0022</p>
+                    </phystech>
+                </c>
+                <c id="ref78" level="item">
+                    <did>
+                        <unittitle>CNN (Danceteria Footage)/ ABC NEWS: Liberace Radio City/ John Sex montage (silent)</unittitle>
+                        <container id="cid17282012" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282012" type="Media">ID: 115.0060</container>
+                    </did>
+                    <phystech id="ref96">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:30:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0025</p>
+                    </phystech>
+                </c>
+                <c id="ref79" level="item">
+                    <did>
+                        <unittitle>Rubnitz, Tom. "Undercover Me!"</unittitle>
+                        <container id="cid17282013" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282013" type="Media">ID: 115.0062</container>
+                    </did>
+                    <phystech id="ref97">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:04:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0026</p>
+                    </phystech>
+                </c>
+                <c id="ref80" level="item">
+                    <did>
+                        <unittitle>The Saint- Birthday Show; Bye Bye Birdie</unittitle>
+                        <container id="cid17282014" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282014" type="Media">ID: 115.0064</container>
+                    </did>
+                    <phystech id="ref98">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:54:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0028</p>
+                    </phystech>
+                </c>
+                <c id="ref81" level="item">
+                    <did>
+                        <unittitle>John Sex-Bump and Grind, Pulsallama,…</unittitle>
+                        <container id="cid17282015" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282015" type="Media">ID: 115.0066</container>
+                    </did>
+                    <phystech id="ref99">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:38:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0030</p>
+                    </phystech>
+                </c>
+                <c id="ref82" level="item">
+                    <did>
+                        <unittitle>Extra Exit Fashion Show &amp; John Sex</unittitle>
+                        <container id="cid17282016" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282016" type="Media">ID: 115.0068</container>
+                    </did>
+                    <phystech id="ref100">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 01:29:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0032</p>
+                    </phystech>
+                </c>
+                <c id="ref83" level="item">
+                    <did>
+                        <unittitle>John Sex; Live at 5; Palladium Show</unittitle>
+                        <container id="cid17282017" type="Shelf" label="Media">Media</container>
+                        <container parent="cid17282017" type="Media">ID: 115.0070</container>
+                    </did>
+                    <phystech id="ref84">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Format: DVD</p>
+                        <p>TRT: 00:04:00</p>
+                        <p>Original Format: VHS</p>
+                        <p>Source ID: 115.0034</p>
+                    </phystech>
                 </c>
             </c>
             <c id="ref44" level="series">

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid>fales_man</eadid>
         <filedesc>
             <titlestmt>
@@ -16,7 +15,7 @@
                 <p>This version was derived from Fales MS Finding Aid.doc</p>
             </editionstmt>
             <publicationstmt>
-                <publisher>© 2012 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -29,7 +28,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-02-15T16:46-0500</date>
+                <date>2014-08-15T10:48-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
@@ -40,7 +39,7 @@
             <unittitle>Fales Manuscript Collection</unittitle>
             <unitid>MSS 001</unitid>
             <repository>
-                <corpname>© 2012 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -83,7 +82,7 @@
         </arrangement>
         <relatedmaterial id="ref4755">
             <head>Related Material at the Fales Library and Special Collections</head>
-            <p>See the avant–garde collections such as Angel Hair, Second Aeon, El Cornu Emplamado, C: Comics; the Alfred Berol Collection for Lewis Carroll materials; the Portrait and Theater files for illustrative materials; The Sterling Lord Papers for Beat writers.</p>
+            <p>See the avant–garde collections such as Angel Hair, Second Aeon, El Corno Emplumado, C: Comics; the Alfred Berol Collection for Lewis Carroll materials; the Portrait and Theater files for illustrative materials; The Sterling Lord Papers for Beat writers.</p>
         </relatedmaterial>
         <separatedmaterial id="ref4756">
             <head>Separated Material</head>
@@ -177,12 +176,12 @@
             <subject source="lcsh">American literature |y 19th century.</subject>
             <subject source="lcsh">American literature |y 20th century.</subject>
             <subject source="lcsh">Authors, American |x Correspondence.</subject>
-            <subject source="lcsh">Authors, American |y 19th century |x Correspondence.</subject>
-            <subject source="lcsh">Authors, American |y 20th century |x Correspondence.</subject>
+            <subject source="lcsh">Authors, American |y 19th century |v Correspondence.</subject>
+            <subject source="lcsh">Authors, American |y 20th century |v Correspondence.</subject>
             <subject source="lcsh">Authors, English |x Correspondence.</subject>
-            <subject source="lcsh">Authors, English |y 18th century |x Correspondence.</subject>
-            <subject source="lcsh">Authors, English |y 19th century |x Correspondence.</subject>
-            <subject source="lcsh">Authors, English |y 20th century |x Correspondence.</subject>
+            <subject source="lcsh">Authors, English |y 18th century |v Correspondence.</subject>
+            <subject source="lcsh">Authors, English |y 19th century |v Correspondence.</subject>
+            <subject source="lcsh">Authors, English |y 20th century |v Correspondence.</subject>
             <genreform source="aat">Correspondence.</genreform>
             <genreform source="aat">Drawings.</genreform>
             <subject source="lcsh">English fiction.</subject>
@@ -692,7 +691,7 @@
                 </c>
                 <c id="ref4485" level="otherlevel">
                     <did>
-                        <unittitle>Corman, Cid : Correspondence to Sampieri, Frank</unittitle>
+                        <unittitle>Corman, Cid : Correspondence to Samperi, Frank</unittitle>
                         <container id="cid53551" type="Box" label="Mixed materials">4</container>
                         <container parent="cid53551" type="Folder">1</container>
                         <unitdate normal="1690/2000" type="inclusive">undated</unitdate>
@@ -3422,6 +3421,14 @@
                         <container id="cid57961" type="Box" label="Mixed materials">2</container>
                         <container parent="cid57961" type="Folder">2c</container>
                         <unitdate normal="1690/2000" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref4781" level="otherlevel">
+                    <did>
+                        <unittitle>American Literary Anthology - Ardery, Peter</unittitle>
+                        <container id="cid18773006" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid18773006" type="Folder">2d</container>
+                        <unitdate>1968</unitdate>
                     </did>
                 </c>
                 <c id="ref75" level="otherlevel">
@@ -6418,6 +6425,14 @@
                         <container id="cid57587" type="Box" label="Mixed materials">21</container>
                         <container parent="cid57587" type="Folder">6a</container>
                         <unitdate normal="1690/2000" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref4782" level="file">
+                    <did>
+                        <unittitle>Bowles, Emily</unittitle>
+                        <container id="cid18967001" type="Box" label="Mixed materials">21</container>
+                        <container parent="cid18967001" type="Folder">6a1</container>
+                        <unitdate normal="1908/1908">1908</unitdate>
                     </did>
                 </c>
                 <c id="ref449" level="otherlevel">
@@ -11393,10 +11408,34 @@
                 </c>
                 <c id="ref1068" level="otherlevel">
                     <did>
-                        <unittitle>Douglas, Alfred (Lord) (1870-1945)</unittitle>
+                        <unittitle>Douglas, Alfred (Lord) (1870-1945) [Letter to Wilde]</unittitle>
                         <container id="cid56967" type="Box" label="Mixed materials">46.5</container>
                         <container parent="cid56967" type="Folder">6</container>
                         <unitdate normal="1690/2000" type="inclusive">undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref4778" level="file">
+                    <did>
+                        <unittitle>Douglas, Alfred (Lord) (1870-1945)</unittitle>
+                        <container id="cid18679001" type="Box" label="Mixed materials">46.5</container>
+                        <container parent="cid18679001" type="Folder">6a</container>
+                        <unitdate normal="1917/1934" type="inclusive">1917-1934</unitdate>
+                    </did>
+                </c>
+                <c id="ref4779" level="file">
+                    <did>
+                        <unittitle>Douglas, Alfred (Lord) (1870-1945)</unittitle>
+                        <container id="cid18679002" type="Box" label="Mixed materials">46.5</container>
+                        <container parent="cid18679002" type="Folder">6b</container>
+                        <unitdate normal="1929/1940" type="inclusive">1929-1940</unitdate>
+                    </did>
+                </c>
+                <c id="ref4780" level="file">
+                    <did>
+                        <unittitle>Douglas, Alfred (Lord) (1870-1945) [Transcriptions and Biographical Info]</unittitle>
+                        <container id="cid18679003" type="Box" label="Mixed materials">46.5</container>
+                        <container parent="cid18679003" type="Folder">6c</container>
+                        <unitdate>Undated</unitdate>
                     </did>
                 </c>
                 <c id="ref1069" level="otherlevel">

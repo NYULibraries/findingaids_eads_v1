@@ -26,17 +26,11 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-04-18T15:57-0400</date>
+                <date>2015-03-20T13:29-0400</date>
             </creation>
-            <langusage>written in English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>January 13, 2011.</date>
-                <item>Additional content contributed by Emily Reynolds on January 13, 2011.</item>
-            </change>
-        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -49,13 +43,16 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>0.25 Linear feet</extent>
-                <extent>in one document box and two slide storage boxes.</extent>
+                <extent>1.0 linear feet</extent>
+                <extent>in one manuscript box and two slide storage boxes</extent>
             </physdesc>
             <unitdate normal="1973/1978" type="bulk">Bulk, 1973-1978</unitdate>
-            <unitdate normal="1861/1988" type="inclusive">1861-1988</unitdate>
+            <unitdate normal="1861/2011" type="inclusive">1861-2011</unitdate>
             <langmaterial id="ref11" label="Language of Materials">Materials in English</langmaterial>
             <abstract id="ref25" label="Abstract">The Frank J. Trezza Seatrain Shipbuilding Collection documents shipbuilding activities at the Brooklyn Navy Yard from its closing by the Department of Defense in the mid-1960s through its rebirth and eventual demise under the management of the Seatrain Shipbuilding Corp. Frank J. Trezza was hired by Seatrain Shipbuilding as a Mechanic Helper at the Brooklyn Navy Yard in 1973 and eventually worked his way up to the position of First Class Marine Electrician. Though the dates of the collection span from 1861 to 1988, the bulk of the records span the period 1973-1978, when Frank J. Trezza was an employee of Seatrain Shipbuilding. Included in the collection are newspaper clippings, union publications, pamphlets and newspapers published by Seatrain, a Seatrain employee orientation kit, black &amp; white photographs, color photographs, color slides, and black &amp; white negatives. All of the documents in the collection were either collected or created by Frank J. Trezza. The majority of newspaper clippings in the collection document two subjects: the closing of the Brooklyn Navy Yard by the Department of Defense in 1966, and the final years of shipbuilding there under the Seatrain Shipbuilding Corp. during the 1970s.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Trezza, Frank J.</persname>
+            </origination>
         </did>
         <accessrestrict id="ref8">
             <head>Conditions Governing Access</head>
@@ -63,11 +60,11 @@
         </accessrestrict>
         <acqinfo id="ref10">
             <head>Immediate Source of Acquisition</head>
-            <p>Donated by Frank J. Trezza in 1988.</p>
+            <p>Donated by Frank J. Trezza in 1988. Additional clippings donated by Frank J. Trezza in 2011.</p>
         </acqinfo>
         <processinfo id="ref12">
-            <head>Processing Information</head>
-            <p>The collection was processed by Brooklyn Historical Society staff members in 1988, and further processed by Matthew Gorham in June 2009. The finding aid was written and entered into Archivist's Toolkit by Matthew Gorham in June 2009.</p>
+            <head>Processing Information note</head>
+            <p>The collection was processed by Brooklyn Historical Society staff members in 1988, and further processed by Matthew Gorham in June 2009. The finding aid was written by Matthew Gorham in June 2009. Additional content contributed by Emily Reynolds on January 13, 2011. In December 2011, Frank J. Trezza contributed an additional set of clippings to the collection, which he had collected between 1999 and 2011. These clippings were added to Series 1 by John Zarrillo in February 2015.</p>
         </processinfo>
         <prefercite id="ref13">
             <head>Preferred Citation</head>
@@ -106,8 +103,14 @@
             <persname rules="dacs" source="local" role="Donor (dnr)">Trezza, Frank J.</persname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">United States. Navy.</corpname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
+            <genreform source="aat">Color slides</genreform>
+            <genreform source="aat">Negatives (photographic)</genreform>
             <genreform source="aat">Photographs</genreform>
-            <subject source="lcsh">Shipbuilding |z New York (State) |z New York</subject>
+            <subject source="lcsh">Shipbuilding industry |x Employees |x Labor unions</subject>
+            <subject source="lcsh">Shipbuilding |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Ships |x Maintenance and repair</subject>
+            <subject source="lcsh">Ships |z New York (State) |z Kings County</subject>
         </controlaccess>
         <dsc>
             <c id="ref7" level="series">
@@ -116,7 +119,7 @@
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
-                    <unitdate normal="1923/1988" type="inclusive">1923-1988</unitdate>
+                    <unitdate normal="1923/2011" type="inclusive">1923-2011</unitdate>
                 </did>
                 <c id="ref2" level="file">
                     <did>
@@ -182,6 +185,22 @@
                         <container id="cid262009" type="Box" label="Text">1</container>
                         <container parent="cid262009" type="Folder">6</container>
                         <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
+                    </did>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>Report on the Trans-Alaska Pipeline Service Tanker Structure Failure Study</unittitle>
+                        <container id="cid1301005" type="Box" label="Text">1</container>
+                        <container parent="cid1301005" type="Folder">10</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>Clippings - Internet print-outs</unittitle>
+                        <container id="cid1301004" type="Box" label="Text">1</container>
+                        <container parent="cid1301004" type="Folder">11</container>
+                        <unitdate normal="1999/2011" type="inclusive">1999-2011</unitdate>
                     </did>
                 </c>
             </c>

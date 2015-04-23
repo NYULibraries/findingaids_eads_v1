@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_242_religious_organizations</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_242_religious_organizations.html">arc_242_religious_organizations</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the religious organizations of Brooklyn collection
@@ -22,17 +22,12 @@
                 </address>
                 <date>December 7, 2010</date>
             </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T11:31-0500</date>
+                <date>2014-12-08T16:00-0500</date>
             </creation>
-            <langusage>English.</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
@@ -51,7 +46,7 @@
             <container id="cid531002" type="Box" label="Text">ARC.242 3 of 4</container>
             <container id="cid598004" type="Oversize" label="Text">ARC.242 4 of 4</container>
             <physdesc>
-                <extent>1.3 Linear feet</extent>
+                <extent>1.3 linear feet</extent>
                 <extent>in three manuscript boxes and one oversize folder.</extent>
             </physdesc>
             <unitdate normal="1841/1931" type="bulk">Bulk, 1841-1931</unitdate>
@@ -142,6 +137,9 @@
                 <corpname source="local">Presbyterian Church in the U.S.A.. Synod of Long Island. Woman's Home and Foreign Missionary Society.</corpname>
             </origination>
             <origination label="creator">
+                <corpname rules="dacs" source="local">Prospect Heights Presbyterian Church (New York, N.Y.). Young People's Society of Christian Endeavor.</corpname>
+            </origination>
+            <origination label="creator">
                 <corpname source="local">Sixth Avenue Baptist Sunday School (Brooklyn, New York, N.Y.). Boys' Mission Band.</corpname>
             </origination>
             <origination label="creator">
@@ -203,6 +201,7 @@
             <head>Processing Information note</head>
             <p>Minimally processed to the collection level.</p>
             <p>The collection combines the accessions 1985.096 and 1985.110.</p>
+            <p>Young People's Society of Christian Endeavor (Prospect Heights Presbyterian Church) file added to collection by John Zarrillo, December 2014.</p>
         </processinfo>
         <scopecontent id="ref5">
             <head>Scope and Contents</head>
@@ -241,6 +240,7 @@
             <p>Wartburg Lutheran Home for Aged and Infirm</p>
             <p>Woman's National Sabbath Alliance, Brooklyn Auxiliary</p>
             <p>Women's Home and Foreign Missionary Society of the Brooklyn Presbytery</p>
+            <p>Young People's Society of Christian Endeavor (Prospect Heights Presbyterian Church)</p>
         </scopecontent>
         <acqinfo id="ref6">
             <head>Immediate Source of Acquisition note</head>
@@ -275,6 +275,7 @@
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Peoples Pulpit Association.</corpname>
             <corpname source="local">Presbyterian Church in the U.S.A.. Presbytery of Brooklyn. Woman's Home and Foreign Missionary Society.</corpname>
             <corpname source="local">Presbyterian Church in the U.S.A.. Synod of Long Island. Woman's Home and Foreign Missionary Society.</corpname>
+            <corpname rules="dacs" source="local">Prospect Heights Presbyterian Church (New York, N.Y.). Young People's Society of Christian Endeavor.</corpname>
             <corpname source="local">Sixth Avenue Baptist Sunday School (Brooklyn, New York, N.Y.). Boys' Mission Band.</corpname>
             <corpname source="local">Society of St. Vincent de Paul. Diocesan Central Council of Brooklyn.</corpname>
             <corpname source="local">St. Phebe's Mission and Convalescent Home (Brooklyn, New York, N.Y.).</corpname>
@@ -289,7 +290,7 @@
             <corpname source="local">Woman's National Sabbath Alliance. Brooklyn Auxiliary.</corpname>
             <corpname source="local">Women's Baptist Home Mission Society. Long Island Division.</corpname>
             <genreform source="aat">Annual reports</genreform>
-            <genreform source="aat">Articles of incorporation.</genreform>
+            <genreform source="aat">Articles of incorporation</genreform>
             <subject source="lcsh">Baptists |z New York (State) |z Kings County</subject>
             <subject source="lcsh">Baptists |z New York (State) |z Kings County |x Charities</subject>
             <subject source="lcsh">Baptists |z New York (State) |z Kings County |x Missions</subject>
@@ -300,7 +301,7 @@
             <genreform source="aat">Catalogs</genreform>
             <subject source="lcsh">Catholic Church |z New York (State) |z Kings County |x Charities</subject>
             <subject source="lcsh">Catholics |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Charitable giving</subject>
+            <subject source="lcsh">Charitable giving</subject>
             <subject source="lcsh">Church charities |z New York (State) |z Kings County</subject>
             <subject source="lcsh">Church charities |z New York (State) |z Kings County |x History</subject>
             <subject source="lcsh">Church societies |z New York (State) |z Kings County</subject>

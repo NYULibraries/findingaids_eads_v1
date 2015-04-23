@@ -8,10 +8,10 @@
                     <lb/>
                     <num>MSS 236</num>
                 </titleproper>
-                <author>Finding aid prepared by / collection processed by Colin Wells</author>
+                <author>Finding aid prepared by Colin Wells</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>© 2009 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -25,8 +25,10 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2009-03-19T16:47-0400</date>
+                <date>2014-04-03T16:06-0400</date>
             </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
@@ -34,14 +36,14 @@
             <unittitle>David H. Greene Collection of Sean O'Casey Letters</unittitle>
             <unitid>MSS 236</unitid>
             <repository>
-                <corpname>© 2009 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>0.2 Linear feet</extent>
-                <extent>in 1 manuscript box</extent>
+                <extent>0.2 linear feet</extent>
+                <extent>(1 box)</extent>
             </physdesc>
             <unitdate normal="1944/1962" type="inclusive">1944-1962</unitdate>
             <abstract id="ref19" label="Abstract">Sean O'Casey (1880-1964) was an Irish playwright and memoirist noted for his portrayal of the lives of Ireland's working class and poor. O'Casey is assoicated with Dublin's Abbey Theatre, and his significant plays include "The Shadow of a Gunman", "Juno and the Paycock", "The Plough and the Stars", "Cock-A-Doodle Dandy", and "The Bishop's Bonfire". Casey also produced a six-volume autobiography. This collection consists of letters written by O'Casey to David H. Greene, a leading scholar of Irish literature. Greene edited 
@@ -49,7 +51,7 @@
                 <emph render="italic">An Anthology of Irish Literature</emph>, and co-edited 
                 <emph render="italic">The Matter with Ireland</emph>, a collection of writings from George Bernard Shaw. He also co-wrote the authorized biography of Irish dramatist John M. Synge. O'Casey and Greene met in the 1930s, and continued a friendship and correspondence until O'Casey's death in 1964.</abstract>
             <origination label="creator">
-                <persname source="ingest" role="Author (aut)">O'Casey, Sean, 1880-1964</persname>
+                <persname source="naf" role="Author (aut)">O'Casey, Sean, 1880-1964</persname>
             </origination>
         </did>
         <prefercite id="ref24">
@@ -62,9 +64,20 @@
             <head>Provenance</head>
             <p>The David H. Greene Collection of Sean O'Casey Letters were donated to the Fales Library in 2005 by David H. Greene from his personal papers .</p>
         </custodhist>
+        <userestrict id="ref22">
+            <head>Use Restrictions</head>
+            <p>Collection use is subject to all copyright laws. Permission to publish materials must be obtained in writing from the Director of Fales Library and Special Collections. Please contact fales.library@nyu.edu. or call 212 998 2596.</p>
+        </userestrict>
+        <accessrestrict id="ref21">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers. Appointments are necessary for the use of manuscript and archival collections.</p>
+        </accessrestrict>
         <arrangement id="ref20">
             <head>Arrangement</head>
             <p>Materials are arranged chronologically.</p>
+            <list numeration="arabic" type="ordered">
+                <item>Series I: Correspondence</item>
+            </list>
         </arrangement>
         <bioghist id="ref27">
             <head>Biographical Note</head>
@@ -98,15 +111,20 @@
             <head>Scope and Content note</head>
             <p>The David H. Green Collection of Sean O'Casey Letters consists of one series containing correspondence primarily from Sean O'Casey to David H. Greene from 1944 to 1962. The letters contain comments by O'Casey on Irish literature, theater, and criticism, as well as discussions of his personal life. There are two letters written by Eileen O'Casey, Sean O'Casey's spouse, on his behalf while he was ill. In addition, there is one letter addressed to Catherine Greene, David Greene's spouse. A small number of letters include enclosures such as newspaper clippings and other correspondence.</p>
         </scopecontent>
+        <relatedmaterial id="ref26">
+            <head>Related Archival Materials note</head>
+            <p>
+                <extref ns2:href="http://dlib.nyu.edu/findingaids/html/fales/fales_man.html">The Fales Manuscript Collection</extref></p>
+        </relatedmaterial>
         <controlaccess>
-            <persname source="LOC">Greene, David H. (David Herbert), 1913-2008</persname>
-            <persname source="ingest">O'Casey, Sean, 1880-1964</persname>
-            <subject source="lcsh">O'Casey, Sean, 1880-1964--Correspondence</subject>
-            <subject source="lcsh">Authors, Irish--20th century--Correspondence</subject>
-            <subject source="lcsh">Abbey Theatre</subject>
-            <subject source="lcsh">Dramatists, Irish--20th century--Correspondence.</subject>
-            <subject source="lcsh">Irish literature--20th century.</subject>
-            <subject source="lcsh">Irish drama--20th century. </subject>
+            <persname source="naf">Greene, David H.,  (David Herbert), 1913-2008</persname>
+            <persname source="naf">O'Casey, Sean, 1880-1964</persname>
+            <subject source="local">Abbey Theatre.</subject>
+            <subject source="lcsh">Authors, Irish |y 20th century |v Correspondence</subject>
+            <subject source="lcsh">Dramatists, Irish |y 20th century |x Correspondence.</subject>
+            <subject source="lcsh">Irish drama |y 20th century.</subject>
+            <subject source="lcsh">Irish literature |y 20th century.</subject>
+            <subject source="lcsh">O’Casey, Sean, |d 1880-1964 |x Correspondence.</subject>
         </controlaccess>
         <dsc>
             <c id="ref1" level="series">
@@ -120,128 +138,128 @@
                 <c id="ref2" level="file">
                     <did>
                         <unittitle>Autograph Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">1</container>
+                        <container id="cid146911" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146911" type="Folder">1</container>
                         <unitdate normal="1944/1944">1944</unitdate>
                     </did>
                 </c>
                 <c id="ref3" level="file">
                     <did>
                         <unittitle>Autograph Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">2</container>
+                        <container id="cid146912" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146912" type="Folder">2</container>
                         <unitdate normal="1945/1945">1945</unitdate>
                     </did>
                 </c>
                 <c id="ref4" level="file">
                     <did>
                         <unittitle>Autograph Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">3</container>
+                        <container id="cid146913" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146913" type="Folder">3</container>
                         <unitdate normal="1947/1947">1947</unitdate>
                     </did>
                 </c>
                 <c id="ref5" level="file">
                     <did>
                         <unittitle>Autograph and Typescript Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">4</container>
+                        <container id="cid146914" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146914" type="Folder">4</container>
                         <unitdate normal="1948/1948">1948</unitdate>
                     </did>
                 </c>
                 <c id="ref6" level="file">
                     <did>
                         <unittitle>Autograph Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">5</container>
+                        <container id="cid146915" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146915" type="Folder">5</container>
                         <unitdate normal="1949/1949">1949</unitdate>
                     </did>
                 </c>
                 <c id="ref7" level="file">
                     <did>
                         <unittitle>Autograph Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">6</container>
+                        <container id="cid146916" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146916" type="Folder">6</container>
                         <unitdate normal="1950/1950">1950</unitdate>
                     </did>
                 </c>
                 <c id="ref8" level="file">
                     <did>
                         <unittitle>Autograph and Typescript Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">7</container>
+                        <container id="cid146917" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146917" type="Folder">7</container>
                         <unitdate normal="1951/1951">1951</unitdate>
                     </did>
                 </c>
                 <c id="ref9" level="file">
                     <did>
                         <unittitle>Typescript Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">8</container>
+                        <container id="cid146918" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146918" type="Folder">8</container>
                         <unitdate normal="1952/1952">1952</unitdate>
                     </did>
                 </c>
                 <c id="ref10" level="file">
                     <did>
                         <unittitle>Autograph and Typescript Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">9</container>
+                        <container id="cid146919" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146919" type="Folder">9</container>
                         <unitdate normal="1953/1953">1953</unitdate>
                     </did>
                 </c>
                 <c id="ref11" level="file">
                     <did>
                         <unittitle>Autograph and Typescript Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">10</container>
+                        <container id="cid146920" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146920" type="Folder">10</container>
                         <unitdate normal="1954/1954">1954</unitdate>
                     </did>
                 </c>
                 <c id="ref12" level="file">
                     <did>
                         <unittitle>Autograph Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">11</container>
+                        <container id="cid146921" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146921" type="Folder">11</container>
                         <unitdate normal="1955/1955">1955</unitdate>
                     </did>
                 </c>
                 <c id="ref13" level="file">
                     <did>
                         <unittitle>Autograph and Typescript Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">12</container>
+                        <container id="cid146922" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146922" type="Folder">12</container>
                         <unitdate normal="1956/1956">1956</unitdate>
                     </did>
                 </c>
                 <c id="ref14" level="file">
                     <did>
                         <unittitle>Autograph and Typescript Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">13</container>
+                        <container id="cid146923" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146923" type="Folder">13</container>
                         <unitdate normal="1957/1957">1957</unitdate>
                     </did>
                 </c>
                 <c id="ref15" level="file">
                     <did>
                         <unittitle>Typescript Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">14</container>
+                        <container id="cid146924" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146924" type="Folder">14</container>
                         <unitdate normal="1958/1958">1958</unitdate>
                     </did>
                 </c>
                 <c id="ref16" level="file">
                     <did>
                         <unittitle>Autograph Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">15</container>
+                        <container id="cid146925" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146925" type="Folder">15</container>
                         <unitdate normal="1959/1959">1959</unitdate>
                     </did>
                 </c>
                 <c id="ref17" level="file">
                     <did>
                         <unittitle>Autograph and Typescript Correspondence</unittitle>
-                        <container type="Box">1</container>
-                        <container type="Folder">16</container>
+                        <container id="cid146926" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid146926" type="Folder">16</container>
                         <unitdate normal="1962/1962">1962</unitdate>
                     </did>
                 </c>

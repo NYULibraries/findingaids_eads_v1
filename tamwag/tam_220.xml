@@ -25,15 +25,16 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-11-15T16:47-0500</date>
+                <date>2014-10-09T17:57-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>November 2013</date>
-                <item>Edited by  Nicole Greenhouse for compliance with DACS and Tamiment Required Elements for Archival Description and to reflect the incorporation of nonprint materials.</item>
+                <date>2014</date>
+                <item>Edited by  Nicole Greenhouse for compliance with DACS and Tamiment Required Elements for Archival Description, to reflect the incorporation of nonprint materials, and to include updated administrative information</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -61,10 +62,11 @@
         <processinfo id="ref87">
             <head>Processing Information note</head>
             <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Committees of Correspondence (U.S.) Photographs (PHOTOS 208). In 2013, the photograph collection was reincorporated into the Committees of Correspondence (U.S.) Records.</p>
+            <p>In 2014, the archived websites were added as a series.</p>
         </processinfo>
         <acqinfo id="ref4">
             <head>Immediate Source of Acquisition note</head>
-            <p>Donated by the Committees of Correspondence in February, 2000.</p>
+            <p>Provenance unknown, but we have reason to believe that the Committees of Correspondence sent a gift of six boxes in February 2000. The accession numbers associated with this collection are 2000.010, 2000.011, and 2005.071.</p>
         </acqinfo>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
@@ -76,13 +78,11 @@
         </bioghist>
         <scopecontent id="ref9">
             <head>Scope and Content Note</head>
-            <p>The content of this collection reflects the origins of the Committees on Correspondence. Since the split with the CPUSA was in large measure connected to different approaches towards democratic processes within the Party, these procedures take up a lot of room in the discussions. There is also discussion of the meaning and relevance of socialism and socialist ideas in light of the collapse of the Communist bloc. Discussions of the envisioned character of the new organization are in various forms: letters, memos, statements, executive committee and national coordinating committee meeting minutes, photographs of members, and emails. The national leadership discussions are documented in detailed minutes and, frequently, hand-written notes by participants; the same is true for the national conventions. Although the Committees on Correspondence consisted of many local branches, it is only the Northern Californians whose activities are reflected here. The correspondence is largely national with some contacts to the international leftist scene.</p>
+            <p>The content of this collection reflects the origins of the Committees of Correspondence. Since the split with the CPUSA was in large measure connected to different approaches towards democratic processes within the Party, these procedures take up a lot of room in the discussions. There is also discussion of the meaning and relevance of socialism and socialist ideas in light of the collapse of the Communist bloc. Discussions of the envisioned character of the new organization are in various forms: letters, memos, statements, executive committee and national coordinating committee meeting minutes, photographs of members, and emails. The national leadership discussions are documented in detailed minutes and, frequently, hand-written notes by participants; the same is true for the national conventions. Although the Committees of Correspondence consisted of many local branches, it is only the Northern Californians whose activities are reflected here. The correspondence is largely national with some contacts to the international leftist scene.</p>
         </scopecontent>
         <relatedmaterial id="ref78">
             <head>Related Archival Materials note</head>
             <p>Gil Green Papers (TAM 095)</p>
-            <p>Tamiment also archives the website, which can be found here: 
-                <extref ns2:href="http://webarchives.cdlib.org/site/sw19s1kp9v">http://webarchives.cdlib.org/site/sw19s1kp9v</extref></p>
         </relatedmaterial>
         <arrangement id="ref82">
             <head>Arrangement</head>
@@ -94,21 +94,13 @@
         </prefercite>
         <userestrict id="ref85">
             <head>Use Restrictions</head>
-            <p>Copyright holder unknown. Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
+            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Committees of Correspondence are held by Committees of Correspondence. Permission to publish or reproduce materials to which s/he holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Committees of Correspondence.</p>
         </userestrict>
         <controlaccess>
             <corpname source="naf">Committees of Correspondence (U.S.).</corpname>
             <corpname source="local">Committees of Correspondence for Democracy and Socialism (U.S.).</corpname>
             <corpname source="naf">Communist Party of the United States of America.</corpname>
-            <persname source="naf">Green, Gil, 1906-</persname>
+            <persname rules="dacs" source="naf">Green, Gil, 1906-</persname>
             <subject source="lcsh">Communism |z United States.</subject>
             <genreform source="aat">Correspondence.</genreform>
             <genreform source="aat">Electronic mail.</genreform>
@@ -635,6 +627,21 @@
                     <container parent="cid41507" type="Folder">11</container>
                     <unitdate normal="1997/1997">1997</unitdate>
                 </did>
+            </c>
+            <c otherlevel="website" id="ref88" level="otherlevel">
+                <did>
+                    <unittitle>Archived Website</unittitle>
+                    <unitdate>Aug 13, 2009-ongoing</unitdate>
+                </did>
+                <scopecontent id="ref89">
+                    <head>Scope and Content Note</head>
+                    <p>The Committees on Correspondence was organized in 1992 after the 1991 Communist Party USA convention as a non-Leninist, democratic socialist organization to dispute the policies and leadership of CPUSA head, Gus Hall. The movement centered around veteran communist and former leading CP official, Gil Green (1906-1997). The Committees on Correspondence sought to reach out to others on the left outside the Party, and held conferences in 1992 and 1994 to formally establish the new organization. Around 2000, the Committee on Correspondence changed its name to the Committees of Correspondence for Democracy and Socialism. The website contains information on their conventions, publications, including their newsletter, the Mobilizer, by- laws, and other materials.</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Archived Website" ns2:role="service" ns2:href="http://webarchives.cdlib.org/site/sw19s1kp9v">
+                    <daodesc>
+                        <p>Archived Website, Aug 13, 2009-ongoing </p>
+                    </daodesc>
+                </dao>
             </c>
         </dsc>
     </archdesc>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">photos_160</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_160/">photos_160</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Ed Roth Photographs
@@ -22,11 +22,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-03-18T11:25-0400</date>
+                <date>2014-09-25T15:18-0400</date>
             </creation>
             <langusage>Finding aid is in English.</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2014</date>
+                <item>Historical biographical note and abstract revised by Erika Gottfried. Edited to reflect updated administrative information by Nicole Greenhouse</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -43,7 +49,7 @@
                 <extent>in 1 folder</extent>
             </physdesc>
             <unitdate normal="1940/1998" type="inclusive">circa 1940s-1998</unitdate>
-            <abstract id="ref10" label="Abstract">Ed Roth was a member of the United Automobile Workers of America (UAW), District 65 (now known as the United Automobile, Aerospace and Agricultural Implement Workers of America). In 1940, he joined UAW's Camera Club, and in 1941 he became the club's president. The photographs in the collection, which span from the early 1940s to the late 1990s, are personal in nature and include portraits of Ed Roth and pictures of Roth with his family and friends.</abstract>
+            <abstract id="ref10" label="Abstract">Ed Roth was a member of District 65, United Retail and Wholesale Employees of America (which later affiliated with and separated from a number of larger labor unions, culminating with its joining the United Automobile Workers of America (UAW)). In 1940, he joined District 65's Camera Club, and in 1941 he became the club's president. The photographs in the collection, which span from the early 1940s to the late 1990s, are personal in nature and include portraits of Ed Roth and pictures of Roth with his family and friends.</abstract>
             <langmaterial id="ref9" label="Language of Materials note">Materials are in English</langmaterial>
             <origination label="creator">
                 <persname source="local">Roth family</persname>
@@ -51,14 +57,7 @@
         </did>
         <userestrict id="ref3">
             <head>Use Restrictions</head>
-            <p>Copyright holder unknown. Permission to publish must be secured from the repository and the copyright holder. Contact the repository at:</p>
-            <p>Tamiment Library/Robert F. Wagner Labor Archives
-                <lb/> Elmer Holmes Bobst Library
-                <lb/> 70 Washington Square South
-                <lb/> New York, NY 10012
-                <lb/> Phone: (212) 998-2630
-                <lb/> Fax: (212) 995-4225
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu</p>
+            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Ed Roth are held by Carol Roth Korgood. Permission to publish or reproduce materials to which s/he holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Carol Roth Korgood.</p>
         </userestrict>
         <accessrestrict id="ref2">
             <head>Access Restrictions</head>
@@ -67,17 +66,17 @@
         <relatedmaterial id="ref5">
             <head>Related Archival Materials at the Tamiment Library and Robert F. Wagner Labor Archives</head>
             <p>There is an interview with Ed Roth in the United Automobile Workers of America, District 65 Oral History Collection (OH 019).</p>
-            <p>Researchers interested in photographs of UAW, District 65 members and events (many taken by Roth) may wish to consult the United Automobile Workers of America, District 65 Photographs, Part I: Negatives (PHOTOS 023) and the United Automobile Workers of America, District 65 Photographs, Part II: Photographic Prints (PHOTOS 023.001).</p>
+            <p>Researchers interested in photographs of UAW, District 65 members and events (many shot by Roth) may wish to consult the United Automobile Workers of America, District 65 Photographs, Part I: Negatives (PHOTOS 023) and the United Automobile Workers of America, District 65 Photographs, Part II: Photographic Prints (PHOTOS 023.001).</p>
         </relatedmaterial>
         <bioghist id="ref4">
             <head>Historical/Biographical Note</head>
-            <p>Ed Roth was a member of the United Automobile Workers of America (UAW), District 65 (now known as the United Automobile, Aerospace and Agricultural Implement Workers of America). In 1940, he joined UAW's Camera Club, which originated in 1938 as a recreational group for UAW's amateur photographers. Since participants in the club often attended and photographed strikes and other union events, many Camera Club members came to serve as staff photographers for the union's newspaper, 
+            <p>Ed Roth was a member of District 65, United Retail and Wholesale Employees of America (which later affiliated with and separated from a number of larger labor unions, culminating with its affiliating with the United Automobile Workers of America (UAW)). In 1940, he joined District 65's Camera Club, which originated in 1938 as a recreational group for the union's amateur photographers. Since participants in the club often attended and photographed strikes and other union events, many Camera Club members came to serve as staff photographers for the union's newspaper, 
                 <emph render="italic">Union Voice</emph>.</p>
-            <p>Roth became president of the Camera Club in 1941 and served until around 1948, but was most active with the club during World War II. He also worked as a photographer outside of his association with UAW. After leaving UAW, District 65, Roth worked in the construction industry. He was part of the crew that worked on the Verrazano-Narrows Bridge, which was built between 1959 and 1964, and took photographs of the bridge as it was being constructed.</p>
+            <p>Roth became president of the Camera Club in 1941 and served until around 1948, but was most active with the club during World War II. He also worked as a photographer outside of his association with District 65. After leaving District 65, Roth worked in the construction industry. He was part of the crew that worked on the Verrazano-Narrows Bridge, which was built between 1959 and 1964, and took photographs of the bridge as it was being constructed.</p>
         </bioghist>
         <acqinfo id="ref6">
             <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Carol Roth Korgood, 2000</p>
+            <p>We have reason to believe that Carol Roth Korgood sent a gift of photographs in 2000. The accession numbers associated with this collection is 1950.170 and NPA.2000.134.</p>
         </acqinfo>
         <processinfo id="ref7">
             <head>Processing Information note</head>

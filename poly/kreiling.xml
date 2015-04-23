@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid>kreiling</eadid>
+        <eadid countrycode="US">kreiling</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Frederick Kreiling Papers
-                    <num>RG.12</num>
+                    <num>RG.012</num>
                 </titleproper>
                 <author>Finding aid prepared by Lindsay Anderberg</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>Archivist Toolkit</publisher>
+                <publisher>Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology</publisher>
+                <address>
+                    <addressline>Bern Dibner Library of Science and Technology</addressline>
+                    <addressline>5 MetroTech Center</addressline>
+                    <addressline>Brooklyn, New York, 11201</addressline>
+                    <addressline>718-260-3943</addressline>
+                    <addressline>archives@library.poly.edu</addressline>
+                </address>
                 <date>April 26, 2013</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-04-26T12:46-0400</date>
+                <date>2014-04-03T15:42-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
@@ -24,9 +31,9 @@
     <archdesc level="collection">
         <did>
             <unittitle>Guide to the Frederick Kreiling Papers, 1962-1968</unittitle>
-            <unitid>RG.12</unitid>
+            <unitid>RG.012</unitid>
             <repository>
-                <corpname>Archivist Toolkit</corpname>
+                <corpname>Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -64,7 +71,7 @@
         <prefercite id="ref26">
             <head>Preferred Citation note</head>
             <p>Published citations should take the following form:</p>
-            <p>Identification of item, date (volume, issue, page); Keller Mechanical Engineering Corporation Collection; box number; folder number; Bern Dibner Library; Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology.</p>
+            <p>Identification of item, date; RG-012: Frederick Kreiling Papers; box number; folder number; Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology.</p>
         </prefercite>
         <userestrict id="ref27">
             <head>Conditions Governing Use note</head>
@@ -115,7 +122,7 @@
                     </c>
                     <c id="ref5" level="file">
                         <did>
-                            <unittitle>Correspondence, June - Dec. 1966</unittitle>
+                            <unittitle>Correspondence, 1966 June - December</unittitle>
                             <container id="cid149003" type="Box" label="Text">1</container>
                             <container parent="cid149003" type="Folder">3</container>
                             <unitdate normal="1966/1966">1966</unitdate>
@@ -123,7 +130,7 @@
                     </c>
                     <c id="ref6" level="file">
                         <did>
-                            <unittitle>Correspondence, Feb - May 1966</unittitle>
+                            <unittitle>Correspondence, 1966 February - May</unittitle>
                             <container id="cid149004" type="Box" label="Text">1</container>
                             <container parent="cid149004" type="Folder">4</container>
                             <unitdate normal="1966/1966">1966</unitdate>
@@ -169,7 +176,7 @@
                 </did>
                 <c id="ref20" level="file">
                     <did>
-                        <unittitle>Graduate Level Program in History of Science Brochures and Enrollment Cards</unittitle>
+                        <unittitle>Graduate Level Program in History of Science Brochures and Enrollment Cards, 1965</unittitle>
                         <container id="cid150001" type="Box" label="Text">1</container>
                         <container parent="cid150001" type="Folder">8</container>
                         <unitdate normal="1965/1965">1965</unitdate>
@@ -177,7 +184,7 @@
                 </c>
                 <c id="ref21" level="file">
                     <did>
-                        <unittitle>Annual Reports of the Department of Air Pollution, City of New York</unittitle>
+                        <unittitle>Annual Reports of the Department of Air Pollution, City of New Yorkm 1962-1963</unittitle>
                         <container id="cid150002" type="Box" label="Text">1</container>
                         <container parent="cid150002" type="Folder">9</container>
                         <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
@@ -185,7 +192,7 @@
                 </c>
                 <c id="ref22" level="file">
                     <did>
-                        <unittitle>Biographical Information</unittitle>
+                        <unittitle>Biographical Information, 2004</unittitle>
                         <container id="cid150003" type="Box" label="Text">1</container>
                         <container parent="cid150003" type="Folder">10</container>
                         <unitdate normal="2004/2004">2004</unitdate>

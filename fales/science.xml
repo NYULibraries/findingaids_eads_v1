@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid>science</eadid>
+        <eadid url="http://dlib.nyu.edu/findingaids/html/fales/science/">science</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Johnny Science Papers
@@ -11,7 +11,7 @@
                 <author>Finding aid prepared by Rhyannon J. Rodriguez, 2012.</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>© 2012 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -24,8 +24,10 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-08-28T16:15-0400</date>
+                <date>2014-05-05T13:36-0400</date>
             </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
@@ -33,7 +35,7 @@
             <unittitle>Johnny Science Papers</unittitle>
             <unitid>MSS 268</unitid>
             <repository>
-                <corpname>© 2012 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -42,8 +44,11 @@
                 <extent>8.72 linear feet</extent>
             </physdesc>
             <unitdate normal="1988/1998" type="bulk">Bulk, 1988-1998</unitdate>
-            <unitdate normal="1948/2000" type="inclusive">1948 - 2000</unitdate>
+            <unitdate normal="1948/2000" type="inclusive">1948-2000</unitdate>
             <abstract id="ref524" label="Abstract">Johnny Science (1955-2007) was a musician, make-up artist, and LGBT community leader. The Johnny Science Papers contain materials that directly relate to Science's music and community leadership, ranging from the early 1980s through 2003. In addition, the collection preserves Science's personal creative exploration, writing, and research.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Science, Johnny, 1955-2007</persname>
+            </origination>
         </did>
         <arrangement id="ref314">
             <head>Arrangement</head>
@@ -77,10 +82,6 @@
                 <lb/>
                 <lb/> Identification of item, date (if known); collection name; MSS number; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
         </prefercite>
-        <userestrict id="ref515">
-            <head>Conditions Governing Use</head>
-            <p>Collection use is subject to all copyright laws. Permission to publish materials must be obtained in writing from the Director of Fales Library and Special Collections. Please contact fales.library@nyu.edu. or call 212 998 2596.</p>
-        </userestrict>
         <accessrestrict id="ref514">
             <head>Conditions Governing Access</head>
             <p>Open to researchers. Appointments are necessary for the use of manuscript and archival collections.</p>
@@ -93,7 +94,12 @@
             <head>Provenance</head>
             <p>The Collection was donated to the Fales Library by Katherine Rachlin and Chrysoula Artemis-Gomez in 2009.</p>
         </custodhist>
+        <userestrict id="ref540">
+            <head>Conditions Governing Use</head>
+            <p>NYU's Fales Library &amp; Special Collections is not the copyright owner for this collection. Collection use is subject to all copyright laws. Researchers wishing to reproduce collection material should contact rights holders for permission.</p>
+        </userestrict>
         <controlaccess>
+            <persname rules="aacr" source="local">Science, Johnny, 1955-2007</persname>
             <persname source="naf" role="Performer (prf)">Sprinkle, Annie</persname>
             <persname source="naf" role="Performer (prf)">Torr, Diane</persname>
             <subject source="lcsh">Gay activists |z New York (State) |z New York.</subject>
@@ -112,7 +118,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">8 x 10 Visual Entertainment Magazine</emph> - Volume 2000 [Magazine]</unittitle>
-                        <container id="cid17293001" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293001" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293001" type="Folder">1</container>
                         <unitdate>2000</unitdate>
                     </did>
@@ -121,7 +127,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">100 Ways to Disappear and Live Free</emph> - Eden Press [Pamphlet]</unittitle>
-                        <container id="cid17293002" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293002" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293002" type="Folder">2</container>
                         <unitdate>1972</unitdate>
                     </did>
@@ -130,7 +136,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">AARP Modern Maturity</emph> - Volume 38, Number 1 [Magazine]</unittitle>
-                        <container id="cid17293003" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293003" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293003" type="Folder">3</container>
                         <unitdate>January - February 1995</unitdate>
                     </did>
@@ -139,7 +145,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Amboy Dukes</emph> by Irving Shulman [Book]</unittitle>
-                        <container id="cid17366001" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17366001" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17366001" type="Folder">4</container>
                         <unitdate>1948</unitdate>
                     </did>
@@ -147,7 +153,7 @@
                 <c id="ref29" level="file">
                     <did>
                         <unittitle>"A New Subscriber" [Short Story with S/M Survey]</unittitle>
-                        <container id="cid17293004" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293004" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293004" type="Folder">5</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -156,7 +162,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Adam's World</emph> - Volume 1, Number 2 [Newsletter]</unittitle>
-                        <container id="cid17293005" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293005" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293005" type="Folder">6</container>
                         <unitdate>September 1989</unitdate>
                     </did>
@@ -164,7 +170,7 @@
                 <c id="ref31" level="file">
                     <did>
                         <unittitle>"Agenda 1/95 - 10/96"</unittitle>
-                        <container id="cid17293006" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293006" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293006" type="Folder">7</container>
                         <unitdate>1995 - 1996</unitdate>
                     </did>
@@ -172,7 +178,7 @@
                 <c id="ref32" level="file">
                     <did>
                         <unittitle>[Art: Clippings]</unittitle>
-                        <container id="cid17293007" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293007" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293007" type="Folder">8</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -180,7 +186,7 @@
                 <c id="ref33" level="file">
                     <did>
                         <unittitle>[Art: Flyers]</unittitle>
-                        <container id="cid17293008" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293008" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293008" type="Folder">9</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -188,7 +194,7 @@
                 <c id="ref34" level="file">
                     <did>
                         <unittitle>"Art Swipe File: Gay XXX"</unittitle>
-                        <container id="cid17293009" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293009" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293009" type="Folder">10</container>
                         <unitdate>c1996</unitdate>
                     </did>
@@ -197,7 +203,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Australian Women's Forum</emph> - #53 [Magazine]</unittitle>
-                        <container id="cid17293010" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293010" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293010" type="Folder">11</container>
                         <unitdate>April 1996</unitdate>
                     </did>
@@ -205,7 +211,7 @@
                 <c id="ref36" level="file">
                     <did>
                         <unittitle>"Awaiting the Weight of the Whip" [by Johnny Science]</unittitle>
-                        <container id="cid17293011" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293011" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293011" type="Folder">12</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -214,7 +220,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Bandanna: The Gay East Coast Leather Scene</emph> - Volume 3, Issue 1 and 3 [Magazine]</unittitle>
-                        <container id="cid17293012" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293012" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293012" type="Folder">13</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -223,7 +229,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Bear Essentials: The Newsletter of the Teddy Bear Leather Club of Virginia</emph> - Volume 4, Number 4 [Newsletter]</unittitle>
-                        <container id="cid17293013" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293013" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293013" type="Folder">14</container>
                         <unitdate>July 1996</unitdate>
                     </did>
@@ -232,7 +238,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Bear Paws II</emph> [Pamphlet]</unittitle>
-                        <container id="cid17293014" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293014" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293014" type="Folder">15</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -240,7 +246,7 @@
                 <c id="ref40" level="file">
                     <did>
                         <unittitle>"Best Wrapping Paper Christmas '97" [Notebook]</unittitle>
-                        <container id="cid17293015" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293015" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293015" type="Folder">16</container>
                         <unitdate>1997</unitdate>
                     </did>
@@ -249,7 +255,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Black Leather in Color</emph> - Issues 5-7 [Magazines]</unittitle>
-                        <container id="cid17293016" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293016" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293016" type="Folder">17</container>
                         <unitdate>1995 - 1997</unitdate>
                     </did>
@@ -258,7 +264,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Black Leather Jacket</emph> by Mick Farren [Book]</unittitle>
-                        <container id="cid17293017" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293017" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293017" type="Folder">18</container>
                         <unitdate>1985</unitdate>
                     </did>
@@ -270,7 +276,7 @@
                 <c id="ref44" level="file">
                     <did>
                         <unittitle>"Body Language: Gay Male Essays on Sex, Sexuality, and Sexual Politics - A Proposal" by Lawrence Schimel, editor</unittitle>
-                        <container id="cid17293018" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293018" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293018" type="Folder">19</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -278,7 +284,7 @@
                 <c id="ref45" level="file">
                     <did>
                         <unittitle>[Bondage: Clippings]</unittitle>
-                        <container id="cid17293019" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293019" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293019" type="Folder">20</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -287,7 +293,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Boot Licking Slave</emph> by George Wilson [Book]</unittitle>
-                        <container id="cid17366002" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17366002" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17366002" type="Folder">21</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -296,7 +302,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Cary Grant</emph> by Richard Schickel [Book]</unittitle>
-                        <container id="cid17293020" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293020" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293020" type="Folder">22</container>
                         <unitdate>1983</unitdate>
                     </did>
@@ -309,7 +315,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The CDG Dungeoneer</emph> - Volume 9, Number 3 [Journal]</unittitle>
-                        <container id="cid17293021" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293021" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293021" type="Folder">23</container>
                         <unitdate>July - August 1996</unitdate>
                     </did>
@@ -318,7 +324,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Chainlink</emph> - Volume 2, Issues 3-4 [Newsletters]</unittitle>
-                        <container id="cid17293022" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17293022" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17293022" type="Folder">24</container>
                         <unitdate>June  - July 1996</unitdate>
                     </did>
@@ -327,7 +333,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Collars</emph> - Volume 1, Issue 6 [Newsletter]</unittitle>
-                        <container id="cid17299001" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17299001" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17299001" type="Folder">25</container>
                         <unitdate>April 1996</unitdate>
                     </did>
@@ -335,7 +341,7 @@
                 <c id="ref51" level="file">
                     <did>
                         <unittitle>"Cover Songs" / "Song Sheets" by Suzy Science</unittitle>
-                        <container id="cid17299002" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17299002" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17299002" type="Folder">26</container>
                         <unitdate>c1980</unitdate>
                     </did>
@@ -343,7 +349,7 @@
                 <c id="ref52" level="file">
                     <did>
                         <unittitle>"Creative Writing 101" by Dan Austen</unittitle>
-                        <container id="cid17299003" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17299003" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17299003" type="Folder">27</container>
                         <unitdate>c1996</unitdate>
                     </did>
@@ -352,7 +358,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">D + D</emph> [Newsletter]</unittitle>
-                        <container id="cid17299005" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17299005" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17299005" type="Folder">28</container>
                         <unitdate>June 1996</unitdate>
                     </did>
@@ -361,7 +367,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Daddy the Magazine</emph> - Numbers 8-9 [Magazines]</unittitle>
-                        <container id="cid17299006" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17299006" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17299006" type="Folder">29</container>
                         <unitdate>1991</unitdate>
                     </did>
@@ -369,7 +375,7 @@
                 <c id="ref53" level="file">
                     <did>
                         <unittitle>[Dan /John Austen Work Flyers]</unittitle>
-                        <container id="cid17299004" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17299004" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17299004" type="Folder">30</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -378,7 +384,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Decadent Cafe's Bourbon Reader</emph> - Volume 2, Number 2 [Zine]</unittitle>
-                        <container id="cid17299007" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17299007" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17299007" type="Folder">31</container>
                         <unitdate>1991</unitdate>
                     </did>
@@ -386,7 +392,7 @@
                 <c id="ref58" level="file">
                     <did>
                         <unittitle>"Diary of a Pansexual Slaveboy" by Danny Boy Austen</unittitle>
-                        <container id="cid17299008" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17299008" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17299008" type="Folder">32</container>
                         <unitdate>1992, 1995</unitdate>
                     </did>
@@ -394,7 +400,7 @@
                 <c id="ref59" level="file">
                     <did>
                         <unittitle>"Dirty Reader Survey"</unittitle>
-                        <container id="cid17301001" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301001" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301001" type="Folder">33</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -402,7 +408,7 @@
                 <c id="ref60" level="file">
                     <did>
                         <unittitle>"Dr. Science Cures Computerphobia" [Flyers]</unittitle>
-                        <container id="cid17301002" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301002" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301002" type="Folder">34</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -410,7 +416,7 @@
                 <c id="ref62" level="file">
                     <did>
                         <unittitle>[Drag Kings: Clippings]</unittitle>
-                        <container id="cid17301004" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301004" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301004" type="Folder">35</container>
                         <unitdate>1990 - 1999</unitdate>
                     </did>
@@ -418,7 +424,7 @@
                 <c id="ref61" level="file">
                     <did>
                         <unittitle>[Drag Kings: Flyers]</unittitle>
-                        <container id="cid17301003" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301003" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301003" type="Folder">36</container>
                         <unitdate>c1996 - 1998</unitdate>
                     </did>
@@ -427,7 +433,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Dungeon Master</emph> - Yearbook 1 [Newsletter]</unittitle>
-                        <container id="cid17301005" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301005" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301005" type="Folder">37</container>
                         <unitdate>1979</unitdate>
                     </did>
@@ -436,7 +442,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Dungeon Master</emph> - Numbers 1, 3, 7-9, 11-12 [Newsletters]</unittitle>
-                        <container id="cid17301006" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301006" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301006" type="Folder">38</container>
                         <unitdate>1979 - 1981</unitdate>
                     </did>
@@ -445,7 +451,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Dungeon Master</emph> - Numbers 14-20 [Newsletters]</unittitle>
-                        <container id="cid17301007" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301007" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301007" type="Folder">39</container>
                         <unitdate>1982 - 1983</unitdate>
                     </did>
@@ -454,7 +460,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Dungeon Master</emph> - Numbers 21-22, 24, 29 [Newsletters]</unittitle>
-                        <container id="cid17301008" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301008" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301008" type="Folder">40</container>
                         <unitdate>1983 - 1984, 1989</unitdate>
                     </did>
@@ -463,7 +469,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Eat Leather: Eclectic Apparel Toys</emph> [Catalog]</unittitle>
-                        <container id="cid17301009" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301009" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301009" type="Folder">41</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -472,7 +478,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Engle Log 1972</emph> - Dwight Morrow High School [Yearbook]</unittitle>
-                        <container id="cid17301010" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301010" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301010" type="Folder">42</container>
                         <unitdate>1972</unitdate>
                     </did>
@@ -481,7 +487,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Engle Log 1973</emph> - Dwight Morrow High School [Yearbook]</unittitle>
-                        <container id="cid17301011" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301011" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301011" type="Folder">43</container>
                         <unitdate>1973</unitdate>
                     </did>
@@ -490,7 +496,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Ever Leonard: A Service in Celebration of the Life of Leonard John Davis</emph> [Book with Project Proposal]</unittitle>
-                        <container id="cid17301012" type="Box" label="Mixed materials">1</container>
+                        <container id="cid17301012" type="Box" label="Mixed materials (31142054886059)">1</container>
                         <container parent="cid17301012" type="Folder">44</container>
                         <unitdate>February 15, 1997</unitdate>
                     </did>
@@ -498,7 +504,7 @@
                 <c id="ref71" level="file">
                     <did>
                         <unittitle>F2M Fraternity: [Administrative File]</unittitle>
-                        <container id="cid17301013" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17301013" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17301013" type="Folder">1</container>
                         <unitdate>c1994 - 1999</unitdate>
                     </did>
@@ -506,7 +512,7 @@
                 <c id="ref72" level="file">
                     <did>
                         <unittitle>F2M Fraternity: "F2M Info-Book #1" [Manuscript]</unittitle>
-                        <container id="cid17301014" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17301014" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17301014" type="Folder">2</container>
                         <unitdate>1990</unitdate>
                     </did>
@@ -514,7 +520,7 @@
                 <c id="ref73" level="file">
                     <did>
                         <unittitle>F2M Fraternity: [Flyers, Membership Forms]</unittitle>
-                        <container id="cid17301015" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17301015" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17301015" type="Folder">3</container>
                         <unitdate>April 1991</unitdate>
                     </did>
@@ -522,7 +528,7 @@
                 <c id="ref74" level="file">
                     <did>
                         <unittitle>F2M Fraternity: [Hormones, Phalloplasty Resources]</unittitle>
-                        <container id="cid17301016" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17301016" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17301016" type="Folder">4</container>
                         <unitdate>c1991</unitdate>
                     </did>
@@ -530,7 +536,7 @@
                 <c id="ref75" level="file">
                     <did>
                         <unittitle>F2M Fraternity: [Index Cards]</unittitle>
-                        <container id="cid17301017" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17301017" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17301017" type="Folder">5</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -539,7 +545,7 @@
                     <did>
                         <unittitle>F2M Fraternity: 
                             <emph render="italic">Rites of Passage</emph> - Volume 1, Number 1 [Newsletter]</unittitle>
-                        <container id="cid17301018" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17301018" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17301018" type="Folder">6</container>
                         <unitdate>March 1989</unitdate>
                     </did>
@@ -548,7 +554,7 @@
                     <did>
                         <unittitle>F2M Fraternity: 
                             <emph render="italic">Rites of Passage</emph> - Volume 1, Number 2 [Newsletter]</unittitle>
-                        <container id="cid17301019" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17301019" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17301019" type="Folder">7</container>
                         <unitdate>December 1989</unitdate>
                     </did>
@@ -556,7 +562,7 @@
                 <c id="ref78" level="file">
                     <did>
                         <unittitle>F2M Fraternity: The Drag-King Club [Administrative File]</unittitle>
-                        <container id="cid17302001" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302001" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302001" type="Folder">8</container>
                         <unitdate>1995 - 1999</unitdate>
                     </did>
@@ -564,7 +570,7 @@
                 <c id="ref79" level="file">
                     <did>
                         <unittitle>F2M Fraternity: The Drag-King Club [Administrative Red Notebook]</unittitle>
-                        <container id="cid17302002" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302002" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302002" type="Folder">9</container>
                         <unitdate>c1992</unitdate>
                     </did>
@@ -572,7 +578,7 @@
                 <c id="ref80" level="file">
                     <did>
                         <unittitle>F2M Fraternity: The Drag-King Club [Contact Lists]</unittitle>
-                        <container id="cid17302003" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302003" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302003" type="Folder">10</container>
                         <unitdate>c1992 - 1999</unitdate>
                     </did>
@@ -580,7 +586,7 @@
                 <c id="ref81" level="file">
                     <did>
                         <unittitle>F2M Fraternity: The Drag-King Club [Diane Torr]</unittitle>
-                        <container id="cid17302004" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302004" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302004" type="Folder">11</container>
                         <unitdate>c1995</unitdate>
                     </did>
@@ -588,7 +594,7 @@
                 <c id="ref86" level="file">
                     <did>
                         <unittitle>F2M Fraternity: The Drag-King Club [Drag Ball Photography, Press]</unittitle>
-                        <container id="cid17302009" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302009" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302009" type="Folder">12</container>
                         <unitdate>1992</unitdate>
                     </did>
@@ -596,7 +602,7 @@
                 <c id="ref82" level="file">
                     <did>
                         <unittitle>F2M Fraternity: The Drag-King Club [Flyers, Graphics]</unittitle>
-                        <container id="cid17302005" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302005" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302005" type="Folder">13</container>
                         <unitdate>c1992, 1995</unitdate>
                     </did>
@@ -604,7 +610,7 @@
                 <c id="ref83" level="file">
                     <did>
                         <unittitle>F2M Fraternity: The Drag-King Club [Johnny Science, Make-Up Artist]</unittitle>
-                        <container id="cid17302006" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302006" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302006" type="Folder">14</container>
                         <unitdate>1999</unitdate>
                     </did>
@@ -612,7 +618,7 @@
                 <c id="ref84" level="file">
                     <did>
                         <unittitle>F2M Fraternity: The Drag-King Club [MNN Guidelines]</unittitle>
-                        <container id="cid17302007" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302007" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302007" type="Folder">15</container>
                         <unitdate>1993, 1995</unitdate>
                     </did>
@@ -620,7 +626,7 @@
                 <c id="ref85" level="file">
                     <did>
                         <unittitle>F2M Fraternity: The Drag-King Club [Shelly Mars]</unittitle>
-                        <container id="cid17302008" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302008" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302008" type="Folder">16</container>
                         <unitdate>c1997</unitdate>
                     </did>
@@ -628,7 +634,7 @@
                 <c id="ref87" level="file">
                     <did>
                         <unittitle>F2M Fraternity: The Drag-King Club [Workshop Materials]</unittitle>
-                        <container id="cid17302010" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302010" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302010" type="Folder">17</container>
                         <unitdate>c1992</unitdate>
                     </did>
@@ -636,7 +642,7 @@
                 <c id="ref88" level="file">
                     <did>
                         <unittitle>F2M Fraternity: "That Show with Johnny Science" [Limited Consent, Release Forms]</unittitle>
-                        <container id="cid17302011" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302011" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302011" type="Folder">18</container>
                         <unitdate>1999</unitdate>
                     </did>
@@ -644,7 +650,7 @@
                 <c id="ref89" level="file">
                     <did>
                         <unittitle>F2M Fraternity: "That Show with Johnny Science" [TV Graphics]</unittitle>
-                        <container id="cid17302012" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302012" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302012" type="Folder">19</container>
                         <unitdate>1998</unitdate>
                     </did>
@@ -653,7 +659,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Factor Press: "Celebrating the Bodyspirit"</emph> [Catalog]</unittitle>
-                        <container id="cid17302013" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302013" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302013" type="Folder">20</container>
                         <unitdate>1992</unitdate>
                     </did>
@@ -662,7 +668,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Fig Leaf: The World's Finest Gay Entertainment!</emph> - Volume 2, Issue 29 [Catalog]</unittitle>
-                        <container id="cid17302014" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302014" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302014" type="Folder">21</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -670,7 +676,7 @@
                 <c id="ref92" level="file">
                     <did>
                         <unittitle>[Film: Clippings]</unittitle>
-                        <container id="cid17302015" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302015" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302015" type="Folder">22</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -678,7 +684,7 @@
                 <c id="ref93" level="file">
                     <did>
                         <unittitle>[Film: Flyers]</unittitle>
-                        <container id="cid17302016" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302016" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302016" type="Folder">23</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -686,7 +692,7 @@
                 <c id="ref94" level="file">
                     <did>
                         <unittitle>"FTM 101: Dispelling Myths About the Invisible and the Impossible" by Katherine Rachlin, Ph.D.</unittitle>
-                        <container id="cid17302017" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302017" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302017" type="Folder">24</container>
                         <unitdate>1997</unitdate>
                     </did>
@@ -695,7 +701,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">FTM Newsletter</emph> - Issues 20, 23-24</unittitle>
-                        <container id="cid17302018" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302018" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302018" type="Folder">25</container>
                         <unitdate>1992 - 1993</unitdate>
                     </did>
@@ -704,7 +710,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">FTM Newsletter</emph> - Issues 26-28</unittitle>
-                        <container id="cid17302019" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302019" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302019" type="Folder">26</container>
                         <unitdate>1994 - 1995</unitdate>
                     </did>
@@ -713,7 +719,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Fuzzbox: At War Issue</emph> - Volume 2, Number 5 [Zine]</unittitle>
-                        <container id="cid17302020" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302020" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302020" type="Folder">27</container>
                         <unitdate>Fall 1991</unitdate>
                     </did>
@@ -721,7 +727,7 @@
                 <c id="ref98" level="file">
                     <did>
                         <unittitle>Gay Male S/M Activists: [Member Materials]</unittitle>
-                        <container id="cid17302021" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302021" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302021" type="Folder">28</container>
                         <unitdate>c1996</unitdate>
                     </did>
@@ -729,7 +735,7 @@
                 <c id="ref99" level="file">
                     <did>
                         <unittitle>"Gay XXXmas Carols" by Johnny Science</unittitle>
-                        <container id="cid17302022" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302022" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302022" type="Folder">29</container>
                         <unitdate>1987</unitdate>
                     </did>
@@ -737,7 +743,7 @@
                 <c id="ref100" level="file">
                     <did>
                         <unittitle>[Gender: Clippings]</unittitle>
-                        <container id="cid17302023" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302023" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302023" type="Folder">30</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -745,7 +751,7 @@
                 <c id="ref101" level="file">
                     <did>
                         <unittitle>"Gender Pretenders: A Drag King Ethnography" by Lauren W. Hasten</unittitle>
-                        <container id="cid17302024" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302024" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302024" type="Folder">31</container>
                         <unitdate>February 1999</unitdate>
                     </did>
@@ -754,7 +760,7 @@
                     <did>
                         <unittitle>Girth + Mirth of New York: 
                             <emph render="italic">Fat Apple Review</emph> [Membership Materials, Newsletters]</unittitle>
-                        <container id="cid17302025" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302025" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302025" type="Folder">32</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -763,7 +769,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Green Egg</emph> - Volume 27, Number 104 [Journal]</unittitle>
-                        <container id="cid17302026" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302026" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302026" type="Folder">33</container>
                         <unitdate>Spring 1994</unitdate>
                     </did>
@@ -772,7 +778,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Guide: Gay Travel, Entertainment, Politics + Sex</emph> [Magazine]</unittitle>
-                        <container id="cid17302027" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302027" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302027" type="Folder">34</container>
                         <unitdate>June 1996</unitdate>
                     </did>
@@ -781,7 +787,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">A Handbook for Dungeon Masters &amp; Mistresses</emph> Published by Orgasm</unittitle>
-                        <container id="cid17302028" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302028" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302028" type="Folder">35</container>
                         <unitdate>1990</unitdate>
                     </did>
@@ -789,7 +795,7 @@
                 <c id="ref106" level="file">
                     <did>
                         <unittitle>"Hanky Code" by Johnny Science</unittitle>
-                        <container id="cid17302029" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302029" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302029" type="Folder">36</container>
                         <unitdate>1/8/96</unitdate>
                     </did>
@@ -798,7 +804,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">HX for Her</emph> - Issue 17 [Magazine]</unittitle>
-                        <container id="cid17302030" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302030" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302030" type="Folder">37</container>
                         <unitdate>April 30, 1997</unitdate>
                     </did>
@@ -807,7 +813,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">HX: Homo Xtra</emph> - Volume 5 #43, Volume 3 #12, #385, #424 [Magazines]</unittitle>
-                        <container id="cid17302031" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302031" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302031" type="Folder">38</container>
                         <unitdate>1995, 1999</unitdate>
                     </did>
@@ -815,7 +821,7 @@
                 <c id="ref109" level="file">
                     <did>
                         <unittitle>"I am Male. I am a Man." by Johnny Science</unittitle>
-                        <container id="cid17302032" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302032" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302032" type="Folder">39</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -823,7 +829,7 @@
                 <c id="ref110" level="file">
                     <did>
                         <unittitle>[Illustrations by Johnny Science]</unittitle>
-                        <container id="cid17302033" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302033" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302033" type="Folder">40</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -831,7 +837,7 @@
                 <c id="ref111" level="file">
                     <did>
                         <unittitle>"Independence Day" by Charles John Austen</unittitle>
-                        <container id="cid17302034" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302034" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302034" type="Folder">41</container>
                         <unitdate>July 4, 1985</unitdate>
                     </did>
@@ -840,7 +846,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Information for the Female to Male Cross Dresser and Transsexual, 3rd Edition</emph> by Lou Sullivan</unittitle>
-                        <container id="cid17302035" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302035" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302035" type="Folder">42</container>
                         <unitdate>October 1990</unitdate>
                     </did>
@@ -849,7 +855,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">In Uniform</emph> - Issue 11 [Magazine]</unittitle>
-                        <container id="cid17302036" type="Box" label="Mixed materials">2</container>
+                        <container id="cid17302036" type="Box" label="Mixed materials (31142054886067)">2</container>
                         <container parent="cid17302036" type="Folder">43</container>
                         <unitdate>1998</unitdate>
                     </did>
@@ -857,7 +863,7 @@
                 <c id="ref114" level="file">
                     <did>
                         <unittitle>"The Johnny Science Story"</unittitle>
-                        <container id="cid17303001" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303001" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303001" type="Folder">1</container>
                         <unitdate>c1999</unitdate>
                     </did>
@@ -865,7 +871,7 @@
                 <c id="ref115" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Administrative File]</unittitle>
-                        <container id="cid17303002" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303002" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303002" type="Folder">2</container>
                         <unitdate>1996 - 1998</unitdate>
                     </did>
@@ -873,7 +879,7 @@
                 <c id="ref116" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "An Ancient Dance" [Flyers]</unittitle>
-                        <container id="cid17303003" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303003" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303003" type="Folder">3</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -881,7 +887,7 @@
                 <c id="ref117" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Binder of Flyers]</unittitle>
-                        <container id="cid17303004" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303004" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303004" type="Folder">4</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -889,7 +895,7 @@
                 <c id="ref276" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "April Fool's Play Party" [Flyers]</unittitle>
-                        <container id="cid17336001" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17336001" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17336001" type="Folder">4</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -897,7 +903,7 @@
                 <c id="ref277" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Black Notebook]</unittitle>
-                        <container id="cid17336002" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17336002" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17336002" type="Folder">5</container>
                         <unitdate>c1995</unitdate>
                     </did>
@@ -905,7 +911,7 @@
                 <c id="ref278" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Blank Calendars]</unittitle>
-                        <container id="cid17336003" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17336003" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17336003" type="Folder">6</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -913,7 +919,7 @@
                 <c id="ref120" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Boots Scrap-Book"</unittitle>
-                        <container id="cid17303007" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303007" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303007" type="Folder">7</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -921,7 +927,7 @@
                 <c id="ref121" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Boots Scrap-Book" [Assorted Clippings]</unittitle>
-                        <container id="cid17303008" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303008" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303008" type="Folder">8</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -929,7 +935,7 @@
                 <c id="ref279" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Cardstock Print]</unittitle>
-                        <container id="cid17336004" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17336004" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17336004" type="Folder">9</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -937,7 +943,7 @@
                 <c id="ref122" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Crew Cuts Party" [Flyers]</unittitle>
-                        <container id="cid17303009" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303009" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303009" type="Folder">10</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -945,7 +951,7 @@
                 <c id="ref123" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Flyers Source Materials]</unittitle>
-                        <container id="cid17303010" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303010" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303010" type="Folder">11</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -953,7 +959,7 @@
                 <c id="ref280" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Font Samples, Typeface]</unittitle>
-                        <container id="cid17336005" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17336005" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17336005" type="Folder">12</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -961,7 +967,7 @@
                 <c id="ref281" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Halloween File]</unittitle>
-                        <container id="cid17336006" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17336006" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17336006" type="Folder">13</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -969,7 +975,7 @@
                 <c id="ref124" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Holiday Clippings]</unittitle>
-                        <container id="cid17303011" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303011" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303011" type="Folder">14</container>
                         <unitdate>c1996</unitdate>
                     </did>
@@ -977,7 +983,7 @@
                 <c id="ref125" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Holiday Social" [Flyer Mock-Ups]</unittitle>
-                        <container id="cid17303012" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303012" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303012" type="Folder">15</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -985,7 +991,7 @@
                 <c id="ref126" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Jupiter Flyers]</unittitle>
-                        <container id="cid17303013" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303013" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303013" type="Folder">16</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -993,7 +999,7 @@
                 <c id="ref127" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Kick Back &amp; Relax" [Flyers Materials]</unittitle>
-                        <container id="cid17303014" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303014" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303014" type="Folder">17</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1001,7 +1007,7 @@
                 <c id="ref128" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Leather Night" [Flyers]</unittitle>
-                        <container id="cid17303015" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303015" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303015" type="Folder">18</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1009,7 +1015,7 @@
                 <c id="ref129" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Levi &amp; Leather Party" [Flyers]</unittitle>
-                        <container id="cid17303016" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17303016" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17303016" type="Folder">19</container>
                         <unitdate>1997</unitdate>
                     </did>
@@ -1017,7 +1023,7 @@
                 <c id="ref130" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Membership Forms / Statement of Purpose"</unittitle>
-                        <container id="cid17304001" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304001" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304001" type="Folder">20</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1025,7 +1031,7 @@
                 <c id="ref131" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Monday Night Socials" [Flyers]</unittitle>
-                        <container id="cid17304002" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304002" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304002" type="Folder">21</container>
                         <unitdate>c1995</unitdate>
                     </did>
@@ -1033,7 +1039,7 @@
                 <c id="ref133" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Play Party Leather Duo Flyers]</unittitle>
-                        <container id="cid17304004" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304004" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304004" type="Folder">22</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -1041,7 +1047,7 @@
                 <c id="ref134" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Play Party Three-Way Flyers]</unittitle>
-                        <container id="cid17304005" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304005" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304005" type="Folder">23</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -1049,7 +1055,7 @@
                 <c id="ref135" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Play Party Tuxuedo Flyers]</unittitle>
-                        <container id="cid17304006" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304006" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304006" type="Folder">24</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -1057,7 +1063,7 @@
                 <c id="ref132" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [Play Party - Various]</unittitle>
-                        <container id="cid17304003" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304003" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304003" type="Folder">25</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -1065,7 +1071,7 @@
                 <c id="ref136" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Safesex Play Party" [Flyers]</unittitle>
-                        <container id="cid17304007" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304007" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304007" type="Folder">26</container>
                         <unitdate>1998</unitdate>
                     </did>
@@ -1073,7 +1079,7 @@
                 <c id="ref137" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Sex &amp; the Single Sexagenarian" [Flyers]</unittitle>
-                        <container id="cid17304008" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304008" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304008" type="Folder">27</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -1081,7 +1087,7 @@
                 <c id="ref138" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: "Tuesday Night Socials" [Flyers]</unittitle>
-                        <container id="cid17304009" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304009" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304009" type="Folder">28</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -1089,7 +1095,7 @@
                 <c id="ref282" level="file">
                     <did>
                         <unittitle>Jovian Gentlemen: [St. Peter Flyers, Images]</unittitle>
-                        <container id="cid17336007" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17336007" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17336007" type="Folder">29</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1097,7 +1103,7 @@
                 <c id="ref139" level="file">
                     <did>
                         <unittitle>[Juvenilia]</unittitle>
-                        <container id="cid17304010" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304010" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304010" type="Folder">30</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1105,7 +1111,7 @@
                 <c id="ref140" level="file">
                     <did>
                         <unittitle>"The Kinky Night Before Christmas" by Tony Papajohn</unittitle>
-                        <container id="cid17304011" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304011" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304011" type="Folder">31</container>
                         <unitdate>1995</unitdate>
                     </did>
@@ -1114,7 +1120,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Lavendar Line</emph> - Volume 2, Number 2 [Newsletter]</unittitle>
-                        <container id="cid17304012" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304012" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304012" type="Folder">32</container>
                         <unitdate>Spring 1996</unitdate>
                     </did>
@@ -1122,7 +1128,7 @@
                 <c id="ref142" level="file">
                     <did>
                         <unittitle>[Leather: Clippings]</unittitle>
-                        <container id="cid17304013" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17304013" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17304013" type="Folder">33</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1130,7 +1136,7 @@
                 <c id="ref143" level="file">
                     <did>
                         <unittitle>[LGBT: Clippings]</unittitle>
-                        <container id="cid17306001" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17306001" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17306001" type="Folder">34</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1138,7 +1144,7 @@
                 <c id="ref144" level="file">
                     <did>
                         <unittitle>[LGBT: Clippings - Body Image/Weight]</unittitle>
-                        <container id="cid17306002" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17306002" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17306002" type="Folder">35</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1146,7 +1152,7 @@
                 <c id="ref145" level="file">
                     <did>
                         <unittitle>[LGBT: Clippings - Seniors]</unittitle>
-                        <container id="cid17306003" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17306003" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17306003" type="Folder">36</container>
                         <unitdate>c1996</unitdate>
                     </did>
@@ -1154,7 +1160,7 @@
                 <c id="ref146" level="file">
                     <did>
                         <unittitle>[LGBT: Flyers]</unittitle>
-                        <container id="cid17306004" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17306004" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17306004" type="Folder">37</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1162,7 +1168,7 @@
                 <c id="ref147" level="file">
                     <did>
                         <unittitle>[LGBT: Flyers - Seniors]</unittitle>
-                        <container id="cid17306005" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17306005" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17306005" type="Folder">38</container>
                         <unitdate>c1996</unitdate>
                     </did>
@@ -1171,7 +1177,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Liebography</emph> - Issue #2 [Zine]</unittitle>
-                        <container id="cid17306008" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17306008" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17306008" type="Folder">39</container>
                         <unitdate>1999</unitdate>
                     </did>
@@ -1179,7 +1185,7 @@
                 <c id="ref151" level="file">
                     <did>
                         <unittitle>"Linda/Les &amp; Annie" [Video Promotional Material]</unittitle>
-                        <container id="cid17306009" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17306009" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17306009" type="Folder">40</container>
                         <unitdate>c1990</unitdate>
                     </did>
@@ -1187,7 +1193,7 @@
                 <c id="ref148" level="file">
                     <did>
                         <unittitle>[Literature: Clippings]</unittitle>
-                        <container id="cid17306006" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17306006" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17306006" type="Folder">41</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -1197,7 +1203,7 @@
                         <unittitle>
                             <emph render="italic">Locker Room Tales</emph> / 
                             <emph render="italic">ManTalk</emph>: [Annotated Clippings]</unittitle>
-                        <container id="cid17306010" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17306010" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17306010" type="Folder">42</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1205,7 +1211,7 @@
                 <c id="ref153" level="file">
                     <did>
                         <unittitle>"Master-Slave Contract" by J. Dan Austen</unittitle>
-                        <container id="cid17308001" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17308001" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17308001" type="Folder">43</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1214,7 +1220,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Metamorphosis: The Newsletter Exclusively for F-M Men</emph> - Volume 1, Numbers 1-6</unittitle>
-                        <container id="cid17308002" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17308002" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17308002" type="Folder">44</container>
                         <unitdate>February - December 1982</unitdate>
                     </did>
@@ -1223,7 +1229,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Metropolitan Slave</emph> - Volume 2, Issue 9 and Volume 3, issue 14 [Magazines]</unittitle>
-                        <container id="cid17308003" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17308003" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17308003" type="Folder">45</container>
                         <unitdate>Fall 1994, Winter 1995</unitdate>
                     </did>
@@ -1232,7 +1238,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">MNNews</emph> - July/Oct 1994, Sept/Dec 1996, Winter 1997, Fall 1998 [Program Newsletters]</unittitle>
-                        <container id="cid17308004" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17308004" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17308004" type="Folder">46</container>
                         <unitdate>1994, 1996 - 1998</unitdate>
                     </did>
@@ -1241,7 +1247,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Modern Maturity</emph> - Volume 38, Number 3 [Magazine]</unittitle>
-                        <container id="cid17308005" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17308005" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17308005" type="Folder">47</container>
                         <unitdate>May - June 1995</unitdate>
                     </did>
@@ -1249,7 +1255,7 @@
                 <c id="ref159" level="file">
                     <did>
                         <unittitle>"Mr. Northeast Drummer" [Event Program]</unittitle>
-                        <container id="cid17309001" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17309001" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17309001" type="Folder">48</container>
                         <unitdate>1997</unitdate>
                     </did>
@@ -1258,7 +1264,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Mr. S. Leather Company &amp; Fetters USA Catalog</emph></unittitle>
-                        <container id="cid17308006" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17308006" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17308006" type="Folder">49</container>
                         <unitdate>c1991</unitdate>
                     </did>
@@ -1266,7 +1272,7 @@
                 <c id="ref160" level="file">
                     <did>
                         <unittitle>[Music: Flyers]</unittitle>
-                        <container id="cid17309002" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17309002" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17309002" type="Folder">50</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1275,7 +1281,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Myths &amp; Legends of Wales</emph> by Tony Roberts [Book]</unittitle>
-                        <container id="cid17366003" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17366003" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17366003" type="Folder">51</container>
                         <unitdate>1979</unitdate>
                     </did>
@@ -1283,7 +1289,7 @@
                 <c id="ref161" level="file">
                     <did>
                         <unittitle>National Leather Association: [Administrative File]</unittitle>
-                        <container id="cid17309003" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17309003" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17309003" type="Folder">52</container>
                         <unitdate>c1994 - 1996</unitdate>
                     </did>
@@ -1291,7 +1297,7 @@
                 <c id="ref162" level="file">
                     <did>
                         <unittitle>National Leather Association: "April Showes" [Flyers]</unittitle>
-                        <container id="cid17309004" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17309004" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17309004" type="Folder">53</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1299,7 +1305,7 @@
                 <c id="ref163" level="file">
                     <did>
                         <unittitle>National Leather Association: "Are You Curious?" [Flyers]</unittitle>
-                        <container id="cid17309005" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17309005" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17309005" type="Folder">54</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1307,7 +1313,7 @@
                 <c id="ref164" level="file">
                     <did>
                         <unittitle>National Leather Association: "Art for The Inquistor"</unittitle>
-                        <container id="cid17309006" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17309006" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17309006" type="Folder">55</container>
                         <unitdate>c1995</unitdate>
                     </did>
@@ -1315,7 +1321,7 @@
                 <c id="ref165" level="file">
                     <did>
                         <unittitle>National Leather Association "The Art of Spanking" [Flyers]</unittitle>
-                        <container id="cid17309007" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17309007" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17309007" type="Folder">56</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1323,7 +1329,7 @@
                 <c id="ref166" level="file">
                     <did>
                         <unittitle>National Leather Association: "Boots &amp; Uniform" [Clippings, Flyers]</unittitle>
-                        <container id="cid17309008" type="Box" label="Mixed materials">3</container>
+                        <container id="cid17309008" type="Box" label="Mixed materials (31142054886075)">3</container>
                         <container parent="cid17309008" type="Folder">57</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1331,7 +1337,7 @@
                 <c id="ref167" level="file">
                     <did>
                         <unittitle>National Leather Association: "Bulging Boobs &amp; Balls" [Flyers]</unittitle>
-                        <container id="cid17309009" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17309009" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17309009" type="Folder">1</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1339,7 +1345,7 @@
                 <c id="ref168" level="file">
                     <did>
                         <unittitle>National Leather Association: Calendar of Events</unittitle>
-                        <container id="cid17309010" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17309010" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17309010" type="Folder">2</container>
                         <unitdate>1993, 1995, 1996</unitdate>
                     </did>
@@ -1347,7 +1353,7 @@
                 <c id="ref169" level="file">
                     <did>
                         <unittitle>National Leather Association: "Fundamentals of Flagellation" [Flyers]</unittitle>
-                        <container id="cid17309011" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17309011" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17309011" type="Folder">3</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1355,7 +1361,7 @@
                 <c id="ref170" level="file">
                     <did>
                         <unittitle>National Leather Association: "Hands on Flogging" [Flyers]</unittitle>
-                        <container id="cid17309012" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17309012" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17309012" type="Folder">4</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1363,7 +1369,7 @@
                 <c id="ref171" level="file">
                     <did>
                         <unittitle>National Leather Association: "Hidden Desires" [Flyers]</unittitle>
-                        <container id="cid17309013" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17309013" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17309013" type="Folder">5</container>
                         <unitdate>1993</unitdate>
                     </did>
@@ -1372,7 +1378,7 @@
                     <did>
                         <unittitle>National Leather Association: 
                             <emph render="italic">The Inquisitor</emph> - Volume 3, Numbers 1 &amp; 4, Volume 5, Issue 1 [Newsletters]</unittitle>
-                        <container id="cid17309014" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17309014" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17309014" type="Folder">6</container>
                         <unitdate>1993, 1995</unitdate>
                     </did>
@@ -1380,7 +1386,7 @@
                 <c id="ref173" level="file">
                     <did>
                         <unittitle>National Leather Association: "Intergenerational Play Party" [Flyers]</unittitle>
-                        <container id="cid17309015" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17309015" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17309015" type="Folder">7</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1388,7 +1394,7 @@
                 <c id="ref174" level="file">
                     <did>
                         <unittitle>National Leather Association: "Kinky Story-Time" [Flyers]</unittitle>
-                        <container id="cid17309016" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17309016" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17309016" type="Folder">8</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1396,7 +1402,7 @@
                 <c id="ref175" level="file">
                     <did>
                         <unittitle>National Leather Association: "Kinky Video Party" [Flyers]</unittitle>
-                        <container id="cid17309017" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17309017" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17309017" type="Folder">9</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1404,7 +1410,7 @@
                 <c id="ref176" level="file">
                     <did>
                         <unittitle>National Leather Association: "Lash Mates" [Flyers]</unittitle>
-                        <container id="cid17309018" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17309018" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17309018" type="Folder">10</container>
                         <unitdate>April 1994</unitdate>
                     </did>
@@ -1412,7 +1418,7 @@
                 <c id="ref177" level="file">
                     <did>
                         <unittitle>National Leather Association: "Leather Pride" [Flyers]</unittitle>
-                        <container id="cid17321007" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321007" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321007" type="Folder">11</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1420,7 +1426,7 @@
                 <c id="ref178" level="file">
                     <did>
                         <unittitle>National Leather Association: "The Leathermen's Menu"</unittitle>
-                        <container id="cid17321008" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321008" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321008" type="Folder">12</container>
                         <unitdate>Thanksgiving 1996</unitdate>
                     </did>
@@ -1429,7 +1435,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">National Leather Association: The Link</emph> - Issue 8, #1 [Newsletter]</unittitle>
-                        <container id="cid17321009" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321009" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321009" type="Folder">13</container>
                         <unitdate>January/February 1994</unitdate>
                     </did>
@@ -1437,7 +1443,7 @@
                 <c id="ref180" level="file">
                     <did>
                         <unittitle>National Leather Association: [Logo Graphics]</unittitle>
-                        <container id="cid17321010" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321010" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321010" type="Folder">14</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1445,7 +1451,7 @@
                 <c id="ref181" level="file">
                     <did>
                         <unittitle>National Leather Association: "The Lore of the Lash" [Flyers]</unittitle>
-                        <container id="cid17321011" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321011" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321011" type="Folder">15</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1453,7 +1459,7 @@
                 <c id="ref182" level="file">
                     <did>
                         <unittitle>National Leather Association: Membership Application</unittitle>
-                        <container id="cid17321012" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321012" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321012" type="Folder">16</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1461,7 +1467,7 @@
                 <c id="ref183" level="file">
                     <did>
                         <unittitle>National Leather Association: MNY Chapter Collection of Flyers</unittitle>
-                        <container id="cid17321013" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321013" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321013" type="Folder">17</container>
                         <unitdate>1995 - 1996</unitdate>
                     </did>
@@ -1469,7 +1475,7 @@
                 <c id="ref184" level="file">
                     <did>
                         <unittitle>National Leather Association: "The Mummy's Wrap" [Pamphlet Mock-Ups]</unittitle>
-                        <container id="cid17321014" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321014" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321014" type="Folder">18</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1477,7 +1483,7 @@
                 <c id="ref185" level="file">
                     <did>
                         <unittitle>National Leather Association: "A Night in Hellfire" [Flyers]</unittitle>
-                        <container id="cid17321015" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321015" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321015" type="Folder">19</container>
                         <unitdate>1995</unitdate>
                     </did>
@@ -1485,7 +1491,7 @@
                 <c id="ref186" level="file">
                     <did>
                         <unittitle>National Leather Association: "Pony Boys/Girls" [Flyers]</unittitle>
-                        <container id="cid17321016" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321016" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321016" type="Folder">20</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1494,7 +1500,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">National Leather Association: The Scarlet Leather</emph> - Volume 3, Issues 2-3 [Newsletters]</unittitle>
-                        <container id="cid17321017" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321017" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321017" type="Folder">21</container>
                         <unitdate>March - June 1996</unitdate>
                     </did>
@@ -1502,7 +1508,7 @@
                 <c id="ref188" level="file">
                     <did>
                         <unittitle>National Leather Association: Statement of Purpose</unittitle>
-                        <container id="cid17321018" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321018" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321018" type="Folder">22</container>
                         <unitdate>c1992</unitdate>
                     </did>
@@ -1510,7 +1516,7 @@
                 <c id="ref189" level="file">
                     <did>
                         <unittitle>National Leather Association: "Pansexual Play Party" [Flyers]</unittitle>
-                        <container id="cid17321019" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321019" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321019" type="Folder">23</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1518,7 +1524,7 @@
                 <c id="ref190" level="file">
                     <did>
                         <unittitle>National Leather Association: "Strap &amp; Paddle Party" [Flyers]</unittitle>
-                        <container id="cid17321020" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321020" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321020" type="Folder">24</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1526,7 +1532,7 @@
                 <c id="ref191" level="file">
                     <did>
                         <unittitle>National Leather Association: "Shrimper's Delight" [Flyers]</unittitle>
-                        <container id="cid17321021" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321021" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321021" type="Folder">25</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1534,7 +1540,7 @@
                 <c id="ref192" level="file">
                     <did>
                         <unittitle>National Leather Association: "S/M Survey"</unittitle>
-                        <container id="cid17321022" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321022" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321022" type="Folder">26</container>
                         <unitdate>May 11, 1992</unitdate>
                     </did>
@@ -1542,7 +1548,7 @@
                 <c id="ref193" level="file">
                     <did>
                         <unittitle>National Leather Association: "What's a Bottom?" [Flyers]</unittitle>
-                        <container id="cid17321023" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321023" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321023" type="Folder">27</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1550,7 +1556,7 @@
                 <c id="ref194" level="file">
                     <did>
                         <unittitle>National Leather Association: "Whips" [Scrap Book Images]</unittitle>
-                        <container id="cid17321024" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321024" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321024" type="Folder">28</container>
                         <unitdate>c1995</unitdate>
                     </did>
@@ -1558,7 +1564,7 @@
                 <c id="ref195" level="file">
                     <did>
                         <unittitle>National Leather Association: "The Year In Review" [Flyers/Fragments]</unittitle>
-                        <container id="cid17321025" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321025" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321025" type="Folder">29</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1567,7 +1573,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">New York Native</emph> - Issue 687</unittitle>
-                        <container id="cid17321026" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321026" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321026" type="Folder">30</container>
                         <unitdate>June 17, 1996</unitdate>
                     </did>
@@ -1576,7 +1582,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">NewsLink: The Newsletter of Gay Male S/M Activists</emph> - Numbers 24, 34-36, 38</unittitle>
-                        <container id="cid17321027" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321027" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321027" type="Folder">31</container>
                         <unitdate>1992 - 1993, 1995 - 1997</unitdate>
                     </did>
@@ -1585,7 +1591,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">NEXT Magazine</emph> - Volume 4, Issue 39</unittitle>
-                        <container id="cid17321028" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321028" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321028" type="Folder">32</container>
                         <unitdate>April 11, 1997</unitdate>
                     </did>
@@ -1593,7 +1599,7 @@
                 <c id="ref149" level="file">
                     <did>
                         <unittitle>[Nightlife: Flyers]</unittitle>
-                        <container id="cid17306007" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17306007" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17306007" type="Folder">33</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -1602,7 +1608,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Noose Letter: Hangman's Noose Club</emph> - Issue 5 [Newsletter]</unittitle>
-                        <container id="cid17321029" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321029" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321029" type="Folder">34</container>
                         <unitdate>Fall 1995</unitdate>
                     </did>
@@ -1611,7 +1617,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Official 1995 Drag King Calendar</emph></unittitle>
-                        <container id="cid17321030" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321030" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321030" type="Folder">35</container>
                         <unitdate>1995</unitdate>
                     </did>
@@ -1620,7 +1626,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">On the Wilde Side</emph> - Volume 4, Number 1 [Magazine]</unittitle>
-                        <container id="cid17321031" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321031" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321031" type="Folder">36</container>
                         <unitdate>November 1995</unitdate>
                     </did>
@@ -1628,7 +1634,7 @@
                 <c id="ref283" level="file">
                     <did>
                         <unittitle>"Original Songs" by Johnny Science</unittitle>
-                        <container id="cid17338001" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17338001" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17338001" type="Folder">37</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1637,7 +1643,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Outlaw Biker Tattoo Revue #5</emph> - Volume 2, Number 3 [Magazine]</unittitle>
-                        <container id="cid17321032" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321032" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321032" type="Folder">38</container>
                         <unitdate>1989</unitdate>
                     </did>
@@ -1646,7 +1652,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Paper Trip II</emph>, Published by Eden Press</unittitle>
-                        <container id="cid17321033" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321033" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321033" type="Folder">39</container>
                         <unitdate>1987</unitdate>
                     </did>
@@ -1655,7 +1661,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Petal &amp; The Thorn: The Black Rose Newsletter</emph></unittitle>
-                        <container id="cid17321034" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321034" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321034" type="Folder">40</container>
                         <unitdate>May/June 1996</unitdate>
                     </did>
@@ -1664,7 +1670,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Penis Press</emph> - [Annotated Magazine with Illustrations by Johnny Science]</unittitle>
-                        <container id="cid17321035" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321035" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321035" type="Folder">41</container>
                         <unitdate>1979</unitdate>
                     </did>
@@ -1672,7 +1678,7 @@
                 <c id="ref207" level="file">
                     <did>
                         <unittitle>[Periodicals, Literature: Flyers]</unittitle>
-                        <container id="cid17321036" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321036" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321036" type="Folder">42</container>
                         <unitdate>c1997</unitdate>
                     </did>
@@ -1680,7 +1686,7 @@
                 <c id="ref208" level="file">
                     <did>
                         <unittitle>[Phalloplasty / Transgender Health: Clippings]</unittitle>
-                        <container id="cid17321037" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321037" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321037" type="Folder">43</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1689,7 +1695,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Playbill Magazines</emph></unittitle>
-                        <container id="cid17321038" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321038" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321038" type="Folder">44</container>
                         <unitdate>1995 - 1998</unitdate>
                     </did>
@@ -1697,7 +1703,7 @@
                 <c id="ref210" level="file">
                     <did>
                         <unittitle>[Pocket Notebook]</unittitle>
-                        <container id="cid17321039" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321039" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321039" type="Folder">45</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1705,7 +1711,7 @@
                 <c id="ref211" level="file">
                     <did>
                         <unittitle>[Pocket / Day-Timer Planner]</unittitle>
-                        <container id="cid17321040" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321040" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321040" type="Folder">46</container>
                         <unitdate>July 1989</unitdate>
                     </did>
@@ -1713,7 +1719,7 @@
                 <c id="ref212" level="file">
                     <did>
                         <unittitle>[Poetry by Johnny Science]</unittitle>
-                        <container id="cid17321041" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321041" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321041" type="Folder">47</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1721,7 +1727,7 @@
                 <c id="ref284" level="file">
                     <did>
                         <unittitle>[Politics: Clippings]</unittitle>
-                        <container id="cid17338002" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17338002" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17338002" type="Folder">48</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1730,7 +1736,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Porn Free</emph> - Issue 7 [Zine]</unittitle>
-                        <container id="cid17321042" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321042" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321042" type="Folder">49</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1739,7 +1745,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Powerplay</emph> #7 [Magazine]</unittitle>
-                        <container id="cid17321043" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321043" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321043" type="Folder">50</container>
                         <unitdate>August 1995</unitdate>
                     </did>
@@ -1748,7 +1754,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Prime Timer</emph> - Volume 5, Number 7 [Newsletter]</unittitle>
-                        <container id="cid17321044" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321044" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321044" type="Folder">51</container>
                         <unitdate>July 1992</unitdate>
                     </did>
@@ -1756,7 +1762,7 @@
                 <c id="ref216" level="file">
                     <did>
                         <unittitle>[Professional Profile / Resume Drafts]</unittitle>
-                        <container id="cid17321045" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321045" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321045" type="Folder">52</container>
                         <unitdate>c2000</unitdate>
                     </did>
@@ -1764,7 +1770,7 @@
                 <c id="ref217" level="file">
                     <did>
                         <unittitle>[Record Book]</unittitle>
-                        <container id="cid17321046" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321046" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321046" type="Folder">53</container>
                         <unitdate>c1971</unitdate>
                     </did>
@@ -1772,7 +1778,7 @@
                 <c id="ref218" level="file">
                     <did>
                         <unittitle>[Red Notebook - Poetry]</unittitle>
-                        <container id="cid17321047" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321047" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321047" type="Folder">54</container>
                         <unitdate>1978</unitdate>
                     </did>
@@ -1781,7 +1787,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Red Tails: The Newsletter for the Spanking Enthusiast</emph> - Volume 20</unittitle>
-                        <container id="cid17321048" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321048" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321048" type="Folder">55</container>
                         <unitdate>August 1995</unitdate>
                     </did>
@@ -1790,7 +1796,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Renegade</emph> - Volume 5.2 [Newsletter]</unittitle>
-                        <container id="cid17321049" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321049" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321049" type="Folder">56</container>
                         <unitdate>March / April 1996</unitdate>
                     </did>
@@ -1798,7 +1804,7 @@
                 <c id="ref221" level="file">
                     <did>
                         <unittitle>"Risqué Guys Glee Club" [Music, Flyers]</unittitle>
-                        <container id="cid17321050" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321050" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321050" type="Folder">57</container>
                         <unitdate>c1999</unitdate>
                     </did>
@@ -1806,7 +1812,7 @@
                 <c id="ref222" level="file">
                     <did>
                         <unittitle>"Rites of Passage" by Johnny Science</unittitle>
-                        <container id="cid17321051" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321051" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321051" type="Folder">58</container>
                         <unitdate>1991</unitdate>
                     </did>
@@ -1815,7 +1821,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Sage</emph> [Newsletters]</unittitle>
-                        <container id="cid17321052" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321052" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321052" type="Folder">59</container>
                         <unitdate>August - September 1996</unitdate>
                     </did>
@@ -1824,7 +1830,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Sandmutopia Guardian &amp; Dungeon Journal</emph> - Issues 3, 4</unittitle>
-                        <container id="cid17321053" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321053" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321053" type="Folder">60</container>
                         <unitdate>1988 - 1989</unitdate>
                     </did>
@@ -1833,7 +1839,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Sandmutopia Supply Company</emph> - Catalog 3, Supplement 1</unittitle>
-                        <container id="cid17321054" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321054" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321054" type="Folder">61</container>
                         <unitdate>1983</unitdate>
                     </did>
@@ -1841,7 +1847,7 @@
                 <c id="ref226" level="file">
                     <did>
                         <unittitle>Science: [Cardboard Art]</unittitle>
-                        <container id="cid17321055" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17321055" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17321055" type="Folder">62</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1849,7 +1855,7 @@
                 <c id="ref227" level="file">
                     <did>
                         <unittitle>Science: [Collages / Flyers Mock-Ups]</unittitle>
-                        <container id="cid17323001" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17323001" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17323001" type="Folder">63</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1857,7 +1863,7 @@
                 <c id="ref230" level="file">
                     <did>
                         <unittitle>Science: [Songs, Song Sheets, Servicemark Contracts]</unittitle>
-                        <container id="cid17323004" type="Box" label="Mixed materials">4</container>
+                        <container id="cid17323004" type="Box" label="Mixed materials (31142054886083)">4</container>
                         <container parent="cid17323004" type="Folder">64</container>
                         <unitdate>1979 - 1983</unitdate>
                     </did>
@@ -1865,7 +1871,7 @@
                 <c id="ref228" level="file">
                     <did>
                         <unittitle>Science: "Textbook Images &amp; Text"</unittitle>
-                        <container id="cid17323002" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323002" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323002" type="Folder">1</container>
                         <unitdate>c1980</unitdate>
                     </did>
@@ -1873,7 +1879,7 @@
                 <c id="ref231" level="file">
                     <did>
                         <unittitle>[Science/VON LMO Max's Kansas City Flyers]</unittitle>
-                        <container id="cid17323005" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323005" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323005" type="Folder">2</container>
                         <unitdate>c1980</unitdate>
                     </did>
@@ -1881,7 +1887,7 @@
                 <c id="ref229" level="file">
                     <did>
                         <unittitle>"Science with Roland Alphonso at Max's Kansas City" [Flyer Mock-Up]</unittitle>
-                        <container id="cid17323003" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323003" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323003" type="Folder">3</container>
                         <unitdate>1980</unitdate>
                     </did>
@@ -1889,7 +1895,7 @@
                 <c id="ref232" level="file">
                     <did>
                         <unittitle>[Science Zine]</unittitle>
-                        <container id="cid17323006" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323006" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323006" type="Folder">4</container>
                         <unitdate>c1980</unitdate>
                     </did>
@@ -1897,7 +1903,7 @@
                 <c id="ref233" level="file">
                     <did>
                         <unittitle>"The Second Coming Out: A Self Help Guide for Heavy Set Gay Men" [Survey]</unittitle>
-                        <container id="cid17323007" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323007" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323007" type="Folder">5</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1905,7 +1911,7 @@
                 <c id="ref234" level="file">
                     <did>
                         <unittitle>"Secret Occult Info Revealed!" [Flyers]</unittitle>
-                        <container id="cid17323008" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323008" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323008" type="Folder">6</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1913,7 +1919,7 @@
                 <c id="ref235" level="file">
                     <did>
                         <unittitle>[Sex Cards / My Personal Ad" [Flyers, Notes]</unittitle>
-                        <container id="cid17323009" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323009" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323009" type="Folder">7</container>
                         <unitdate>1990 - 1995</unitdate>
                     </did>
@@ -1922,7 +1928,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Sex Catalog: Products for Men</emph></unittitle>
-                        <container id="cid17323010" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323010" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323010" type="Folder">8</container>
                         <unitdate>4/20/99</unitdate>
                     </did>
@@ -1930,7 +1936,7 @@
                 <c id="ref237" level="file">
                     <did>
                         <unittitle>[S/M: Clippings, Flyers]</unittitle>
-                        <container id="cid17323011" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323011" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323011" type="Folder">9</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -1938,7 +1944,7 @@
                 <c id="ref238" level="file">
                     <did>
                         <unittitle>"S/M Comic Book" [Illustrations by Johnny Science]</unittitle>
-                        <container id="cid17323012" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323012" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323012" type="Folder">10</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1946,7 +1952,7 @@
                 <c id="ref239" level="file">
                     <did>
                         <unittitle>[S/M: "Dangerous Top" Research]</unittitle>
-                        <container id="cid17323013" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323013" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323013" type="Folder">11</container>
                         <unitdate>1996</unitdate>
                     </did>
@@ -1954,7 +1960,7 @@
                 <c id="ref240" level="file">
                     <did>
                         <unittitle>"The Sneaky Little Sadist" [Premise by Johnny Science]</unittitle>
-                        <container id="cid17323014" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323014" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323014" type="Folder">12</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -1962,7 +1968,7 @@
                 <c id="ref241" level="file">
                     <did>
                         <unittitle>"Speech at the 11th Annual L/G/B Pride Rally" by Bet Power</unittitle>
-                        <container id="cid17323015" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323015" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323015" type="Folder">13</container>
                         <unitdate>May 9, 1992</unitdate>
                     </did>
@@ -1971,7 +1977,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The SS: The Third Reich</emph> [Time Life Book]</unittitle>
-                        <container id="cid17323016" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323016" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323016" type="Folder">19</container>
                         <unitdate>1988</unitdate>
                     </did>
@@ -1979,7 +1985,7 @@
                 <c id="ref243" level="file">
                     <did>
                         <unittitle>[St. Anthony: Religious Flyers, Pamphlets]</unittitle>
-                        <container id="cid17323017" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323017" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323017" type="Folder">15</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1987,7 +1993,7 @@
                 <c id="ref249" level="file">
                     <did>
                         <unittitle>[Stewart, Patrick - Clippings]</unittitle>
-                        <container id="cid17323023" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323023" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323023" type="Folder">16</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -1996,7 +2002,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Straight to Hell: The Manhattan Review of Unnatural Acts</emph> - Number 54</unittitle>
-                        <container id="cid17323018" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323018" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323018" type="Folder">17</container>
                         <unitdate>c1982</unitdate>
                     </did>
@@ -2005,7 +2011,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Strange Motorcycle Gangs: Cycle Outlaws</emph> - Special Issue Volume 1, Number 1</unittitle>
-                        <container id="cid17323019" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323019" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323019" type="Folder">18</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2013,7 +2019,7 @@
                 <c id="ref246" level="file">
                     <did>
                         <unittitle>"Swipe File" [Loose Clippings, Images]</unittitle>
-                        <container id="cid17323020" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323020" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323020" type="Folder">19</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2021,7 +2027,7 @@
                 <c id="ref248" level="file">
                     <did>
                         <unittitle>"Teddy Bare" [Flyers, Mock-Ups]</unittitle>
-                        <container id="cid17323022" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323022" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323022" type="Folder">20</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2029,7 +2035,7 @@
                 <c id="ref247" level="file">
                     <did>
                         <unittitle>"Teddy Bear, Inc." [Letterhead, Notes]</unittitle>
-                        <container id="cid17323021" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323021" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323021" type="Folder">21</container>
                         <unitdate>1995</unitdate>
                     </did>
@@ -2037,7 +2043,7 @@
                 <c id="ref250" level="file">
                     <did>
                         <unittitle>[Theater: Clippings]</unittitle>
-                        <container id="cid17323024" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323024" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323024" type="Folder">22</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -2045,7 +2051,7 @@
                 <c id="ref251" level="file">
                     <did>
                         <unittitle>[Theater: Flyers]</unittitle>
-                        <container id="cid17323025" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323025" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323025" type="Folder">23</container>
                         <unitdate>1990s</unitdate>
                     </did>
@@ -2053,7 +2059,7 @@
                 <c id="ref252" level="file">
                     <did>
                         <unittitle>[Tom of Finland: Clippings]</unittitle>
-                        <container id="cid17323026" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323026" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323026" type="Folder">24</container>
                         <unitdate>1996 - 1997</unitdate>
                     </did>
@@ -2062,7 +2068,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Underground: An Erotic Emporium, Inc.</emph> [Catalog]</unittitle>
-                        <container id="cid17323027" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323027" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323027" type="Folder">25</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2071,7 +2077,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Urban Herbalist</emph> - Number 11 [Zine]</unittitle>
-                        <container id="cid17323028" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323028" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323028" type="Folder">26</container>
                         <unitdate>May 1994</unitdate>
                     </did>
@@ -2080,7 +2086,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Ursus Major</emph> - Volume 1 Number 1, Volume 1 [Newsletters]</unittitle>
-                        <container id="cid17323029" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323029" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323029" type="Folder">27</container>
                         <unitdate>Winter 1996, May 1997</unitdate>
                     </did>
@@ -2088,7 +2094,7 @@
                 <c id="ref256" level="file">
                     <did>
                         <unittitle>"The Valuable Intrinsic Worth of Individuality" by Johnny Science</unittitle>
-                        <container id="cid17323030" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323030" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323030" type="Folder">28</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2097,7 +2103,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">VICE: Art + Entertainment Magazine</emph> - 1st Annual Photography Issue</unittitle>
-                        <container id="cid17323031" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323031" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323031" type="Folder">29</container>
                         <unitdate>September 1995</unitdate>
                     </did>
@@ -2106,7 +2112,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Wings Video Club</emph> - Catalog Number 6</unittitle>
-                        <container id="cid17323032" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17323032" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17323032" type="Folder">30</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2119,7 +2125,7 @@
                 <c id="ref260" level="file">
                     <did>
                         <unittitle>[Addressed to Dan Austen / Johnny Science]</unittitle>
-                        <container id="cid17327001" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327001" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327001" type="Folder">31</container>
                         <unitdate>1995 - 1999</unitdate>
                     </did>
@@ -2127,7 +2133,7 @@
                 <c id="ref261" level="file">
                     <did>
                         <unittitle>[Addressed to Suzy Greengras]</unittitle>
-                        <container id="cid17327002" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327002" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327002" type="Folder">32</container>
                         <unitdate>1971</unitdate>
                     </did>
@@ -2135,7 +2141,7 @@
                 <c id="ref262" level="file">
                     <did>
                         <unittitle>[Harley Davidson Notebook: Phone Messages]</unittitle>
-                        <container id="cid17327003" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327003" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327003" type="Folder">33</container>
                         <unitdate>c1996</unitdate>
                     </did>
@@ -2143,7 +2149,7 @@
                 <c id="ref263" level="file">
                     <did>
                         <unittitle>[Phone Sex File]</unittitle>
-                        <container id="cid17327004" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327004" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327004" type="Folder">34</container>
                         <unitdate>1995 - 1997</unitdate>
                     </did>
@@ -2151,7 +2157,7 @@
                 <c id="ref264" level="file">
                     <did>
                         <unittitle>[Rachlin, Katherine "Kit"]</unittitle>
-                        <container id="cid17327005" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327005" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327005" type="Folder">35</container>
                         <unitdate>1988, 1994, 2010</unitdate>
                     </did>
@@ -2159,7 +2165,7 @@
                 <c id="ref265" level="file">
                     <did>
                         <unittitle>[Schwartz, Bill]</unittitle>
-                        <container id="cid17327006" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327006" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327006" type="Folder">36</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -2167,7 +2173,7 @@
                 <c id="ref266" level="file">
                     <did>
                         <unittitle>[Sohlberg, Eric Russell]</unittitle>
-                        <container id="cid17327007" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327007" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327007" type="Folder">37</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -2175,7 +2181,7 @@
                 <c id="ref267" level="file">
                     <did>
                         <unittitle>[Sprinkle, Annie]</unittitle>
-                        <container id="cid17327008" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327008" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327008" type="Folder">38</container>
                         <unitdate>c1996</unitdate>
                     </did>
@@ -2183,7 +2189,7 @@
                 <c id="ref268" level="file">
                     <did>
                         <unittitle>[Subscriptions]</unittitle>
-                        <container id="cid17327009" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327009" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327009" type="Folder">39</container>
                         <unitdate>various</unitdate>
                     </did>
@@ -2196,7 +2202,7 @@
                 <c id="ref269" level="file">
                     <did>
                         <unittitle>[Drag King Club Photography 1]</unittitle>
-                        <container id="cid17327010" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327010" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327010" type="Folder">40</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2204,7 +2210,7 @@
                 <c id="ref270" level="file">
                     <did>
                         <unittitle>[Max's Kansas City Scrapbook Pages]</unittitle>
-                        <container id="cid17327011" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327011" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327011" type="Folder">41</container>
                         <unitdate>1970, 1978 - 1980</unitdate>
                     </did>
@@ -2212,7 +2218,7 @@
                 <c id="ref271" level="file">
                     <did>
                         <unittitle>[Mixed Scrapbook Pages]</unittitle>
-                        <container id="cid17327012" type="Box" label="Mixed materials">5</container>
+                        <container id="cid17327012" type="Box" label="Mixed materials (31142054886091)">5</container>
                         <container parent="cid17327012" type="Folder">42</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -3756,6 +3762,13 @@
                         <unittitle>Jovian Gentlemen Umbrella</unittitle>
                         <container id="cid17346002" type="Box" label="Mixed materials">8</container>
                         <container parent="cid17346002" type="Object">ID: 268.2.0007</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref539" level="item">
+                    <did>
+                        <unittitle>Leather jacket and cap</unittitle>
+                        <container id="cid18808001" type="Box" label="Mixed materials">12</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>

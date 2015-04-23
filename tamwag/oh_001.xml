@@ -25,7 +25,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-12-04T15:34-0500</date>
+                <date>2014-04-10T12:01-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
@@ -51,7 +51,7 @@
                 <persname source="naf">Bernhardt, Debra E.</persname>
             </origination>
             <origination label="creator">
-                <corpname source="naf">Robert F. Wagner Labor Archives.</corpname>
+                <corpname rules="dacs" source="naf">Robert F. Wagner Labor Archives.</corpname>
             </origination>
         </did>
         <custodhist id="ref4">
@@ -59,7 +59,7 @@
         </custodhist>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
-            <p>Some restrictions on use. For information contact: Michael Nash, Director, Tamiment Library, 70 Washington Square South, New York, N.Y. 10012; 212-998-2428; Michael.Nash@nyu.edu.</p>
+            <p>Some restrictions on access. For information contact: tamiment.wagner@library.nyu.edu.</p>
         </accessrestrict>
         <bioghist id="ref8">
             <head>Historical/Biographical Note</head>
@@ -74,11 +74,8 @@
         </scopecontent>
         <arrangement id="ref10">
             <head>Arrangement</head>
-            <p>The interviews are grouped into 1 series, arranged alphabetically by the name of the interviewee.</p>
+            <p>The interviews are grouped into 1 series, arranged alphabetically by the name of the interviewee in finding aid. Access compact disks have been assigned numbers based on order of digitization.</p>
         </arrangement>
-        <separatedmaterial id="ref427">
-            <head>Separated Material</head>
-        </separatedmaterial>
         <userestrict id="ref482">
             <head>Use Restrictions</head>
             <p>Permission to publish materials must be obtained in writing from the: 
@@ -110,19 +107,19 @@
             <persname source="naf">Brennan, Peter J., 1918-1996</persname>
             <persname source="ingest">Carey, Philip A.--Interviews.</persname>
             <persname source="naf">Cleary, Edward J. (Edward John), 1906-</persname>
-            <corpname source="naf">Coalition of Labor Union Women (U.S.).</corpname>
+            <corpname rules="dacs" source="naf">Coalition of Labor Union Women (U.S.).</corpname>
             <persname source="naf">Cogen, Charles, 1903- -- |v Interviews</persname>
             <corpname source="naf">Communist Party of the United States of America.</corpname>
             <persname source="naf">Dolgoff, Sam, 1902- -- |v Interviews</persname>
-            <persname source="naf">Fasanella, Ralph -- |v Interviews</persname>
+            <persname rules="dacs" source="naf">Fasanella, Ralph -- |v Interviews</persname>
             <persname source="naf">Flaxer, Abram, 1904- -- |v Interviews</persname>
             <persname source="ingest">Fleischman, Harry. -- |v Interviews</persname>
-            <persname source="ingest">Fried, Philoine--Interviews.</persname>
+            <persname source="ingest">Fried, Philoine</persname>
             <persname source="naf">Huerta, Dolores, 1930-</persname>
             <corpname source="local">International Brotherhood of Electrical Workers. Local 3 (New York, N.Y.).</corpname>
             <corpname source="naf">International Jewelry Workers Union.</corpname>
-            <corpname source="naf">International Ladies' Garment Workers' Union.</corpname>
-            <corpname source="naf">International Longshoremen's Association.</corpname>
+            <corpname rules="dacs" source="naf">International Ladies' Garment Workers' Union.</corpname>
+            <corpname rules="dacs" source="naf">International Longshoremen's Association.</corpname>
             <corpname source="naf">International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. District 65.</corpname>
             <persname source="ingest">Kheel, Theodore Woodrow--Interviews.</persname>
             <persname source="local">Krupat, Kitty</persname>
@@ -138,8 +135,8 @@
             <persname source="ingest">Stack, Joe--Interviews.</persname>
             <persname source="ingest">Sverdlove, Leon--Interviews.</persname>
             <corpname source="naf">United Electrical, Radio and Machine Workers of America.</corpname>
-            <corpname source="naf">United Farm Workers of America.</corpname>
-            <corpname source="naf">United Federation of Teachers.</corpname>
+            <corpname rules="dacs" source="naf">United Farm Workers of America.</corpname>
+            <corpname rules="dacs" source="naf">United Federation of Teachers.</corpname>
             <corpname source="naf">United Office and Professional Workers of America.</corpname>
             <corpname source="naf">United Storeworkers (Organization). Local 3 (New York, N.Y.).</corpname>
             <persname source="local">Zeller, Belle, 1903-</persname>
@@ -621,7 +618,7 @@
                 <did>
                     <unittitle>
                         <name role="Interviewee">Thomas R. Brooks</name></unittitle>
-                    <container id="cid18429098" type="CD" label="Mixed materials">OH-01-029 / OH-01-030</container>
+                    <container id="cid18429098" type="CD" label="Mixed materials">OH-01-492 / OH-01-029 / OH-01-030</container>
                     <container id="cid18432138" type="Cassette" label="Mixed materials">210A - 210B</container>
                     <unitdate normal="1991/1991">1991</unitdate>
                 </did>
@@ -821,6 +818,10 @@
                     <head>General note</head>
                     <p>Transcript available Box 2</p>
                 </odd>
+                <relatedmaterial id="ref533">
+                    <head>Related Archival Materials</head>
+                    <p>Additional transcript of this interview can be found in the Asian Garment Workers in New York City Oral History Collection (OH 018).</p>
+                </relatedmaterial>
             </c>
             <c id="ref85" level="item">
                 <did>
@@ -1032,12 +1033,12 @@
                 <did>
                     <unittitle>
                         <name role="Interviewee">Bob Croghan</name></unittitle>
-                    <container id="cid19615001" type="CD" label="Mixed materials">OH-01-489</container>
+                    <container id="cid19615001" type="DVD" label="Mixed materials">OH-01-489 / OH-01-490</container>
                     <unitdate>undated</unitdate>
                 </did>
                 <odd id="ref509">
                     <head>General note</head>
-                    <p>Beta File</p>
+                    <p>Beta File; Access DVD</p>
                 </odd>
             </c>
             <c id="ref113" level="item">
@@ -1593,8 +1594,7 @@
                     <unittitle>
                         <name role="Interviewee">Paul Hall </name>
                         <lb/>Description: Seafarers International Union</unittitle>
-                    <container id="cid22267005" type="Box" label="Access CD">8</container>
-                    <container parent="cid22267005" type="CD">Hall 1</container>
+                    <container id="cid22267005" type="CD" label="Access CD">OH-01-491</container>
                     <container id="cid18430039" type="Cassette" label="Mixed materials">47A</container>
                     <unitdate>1969</unitdate>
                 </did>
@@ -2152,8 +2152,7 @@
                     <unittitle>
                         <name role="Interviewee">Sam Madell</name>
                         <lb/>Description: International Longshoremen's Association; Waterfront rank and file, 1930s-1940s</unittitle>
-                    <container id="cid22267004" type="Box" label="Access CD">8</container>
-                    <container parent="cid22267004" type="CD">Madell 1-3</container>
+                    <container id="cid22267004" type="CD" label="Access CD">OH-01-493 / OH-01-494 / OH-01-495</container>
                     <container id="cid18430015" type="Cassette" label="Mixed materials">73A - 73C</container>
                     <unitdate normal="1980/1980">Jul 16, 1980</unitdate>
                 </did>
@@ -2236,6 +2235,10 @@
                     <container id="cid18433005" type="Cassette" label="Mixed materials">261A</container>
                     <unitdate>undated</unitdate>
                 </did>
+                <relatedmaterial id="ref531">
+                    <head>Related Archival Materials</head>
+                    <p>A transcript of this interview can be found in the Asian Garment Workers in New York City Oral History Collection (OH 018).</p>
+                </relatedmaterial>
             </c>
             <c id="ref462" level="item">
                 <did>
@@ -2888,6 +2891,10 @@
                     <container id="cid18433003" type="Cassette" label="Mixed materials">260A</container>
                     <unitdate normal="2003/2003">Apr 1, 2003</unitdate>
                 </did>
+                <relatedmaterial id="ref532">
+                    <head>Related Archival Materials</head>
+                    <p>A transcript of this interview can be found in the Asian Garment Workers in New York City Oral History Collection (OH 018).</p>
+                </relatedmaterial>
             </c>
             <c id="ref338" level="item">
                 <did>
@@ -3417,7 +3424,8 @@
                     <unittitle>
                         <name role="Interviewee">Richard Walsh</name>
                         <lb/>Description: IATSE</unittitle>
-                    <container id="cid18433011" type="Cassette" label="Mixed materials">149A - 149B MISSING</container>
+                    <container id="cid18433011" type="Cassette" label="Mixed materials">149A - 149B</container>
+                    <container id="cid23109001" type="CD" label="Mixed materials">OH-01-496 / OH-01-497</container>
                     <unitdate normal="1987/1987">Nov 4, 1987</unitdate>
                 </did>
                 <odd id="ref406">

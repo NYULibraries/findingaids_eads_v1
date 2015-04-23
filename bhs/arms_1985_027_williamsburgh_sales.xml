@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_027_williamsburgh_sales.html">arms_1985_027_williamsburgh_sales</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Village of Williamsburgh declarations of sale
+                    <num>1985.027</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-10-04T13:54-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Village of Williamsburgh declarations of sale</unittitle>
+            <unitid>1985.027</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1242002" type="Box" label="Text">A0007</container>
+            <physdesc>
+                <extent>0.1 linear feet</extent>
+                <extent>in 1 folder</extent>
+            </physdesc>
+            <unitdate normal="1836/1837" type="inclusive">1836 to 1837</unitdate>
+            <abstract id="ref6" label="Abstract">The collection contains seven declarations of sale for property in Village of Williamsburgh, dated 1836 to 1837.</abstract>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Village of Williamsburgh (Kings County, N.Y.).</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The immediate source of the acquisition is unknown. The collection was accessioned in 1985.</p>
+        </acqinfo>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>The documents are in the public domain.</p>
+        </userestrict>
+        <bioghist id="ref3">
+            <head>Historical note</head>
+            <p>The Village of Williamsburgh, which was part of the Town of Bushwick, was incorporated in 1827. In 1840, it separated from Bushwick, and was established as the independent Town of Williamsburgh. In 1852, it incorporated as the City of Williamsburg, and shortly thereafter was annexed by the City of Brooklyn in 1855.</p>
+        </bioghist>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The collection contains seven declarations of sale for property in Village of Williamsburgh, dated 1836 to 1837. The property was seized by the village trustees for unpaid tax assessments, and then sold at auction. The following names are found in the collection: Alanson Ackerly, Andrew Brady, Daniel Ewen, Henry Meigs, Daniel Olmstead, Jacob Taylor, and Samuel Wiswell.</p>
+        </scopecontent>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <controlaccess>
+            <genreform source="aat">Deeds</genreform>
+            <subject source="lcsh">Real property auctions |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Real property |x Ownership |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Tax assessment |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

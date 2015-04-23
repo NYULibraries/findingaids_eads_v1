@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid>thane</eadid>
         <filedesc>
             <titlestmt>
@@ -11,7 +11,7 @@
                 <author>Finding aid prepared by Laura Newsome, 2010.</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>© 2012 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -24,8 +24,10 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-03-08T17:01-0500</date>
+                <date>2015-02-19T11:28-0500</date>
             </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
@@ -33,7 +35,7 @@
             <unittitle>Lucy Thane Riot Grrrl Collection</unittitle>
             <unitid>MSS 287</unitid>
             <repository>
-                <corpname>© 2012 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -95,7 +97,7 @@
             <genreform source="aat">Videotapes.</genreform>
         </controlaccess>
         <dsc>
-            <c id="ref2" level="series">
+            <c01 id="ref2" level="series">
                 <did>
                     <unittitle>Series I: Audiovisual Material</unittitle>
                 </did>
@@ -103,11 +105,11 @@
                     <head>Conditions Governing Access</head>
                     <p>Contact a Fales archivist with questions about access.</p>
                 </scopecontent>
-                <c id="ref9" level="subseries">
+                <c02 id="ref9" level="subseries">
                     <did>
                         <unittitle>Subseries A: Access Copies</unittitle>
                     </did>
-                    <c id="ref51" level="item">
+                    <c03 id="ref51" level="item">
                         <did>
                             <unittitle>Liz and Kathleen, Bull and Gate B-K Show and Audience in Toilets</unittitle>
                             <container id="cid17174001" type="Shelf" label="Media">Media</container>
@@ -117,11 +119,11 @@
                         <phystech id="ref70">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 02:52:11</p>
+                            <p>Duration: 02:52:11</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                    <c id="ref52" level="item">
+                    </c03>
+                    <c03 id="ref52" level="item">
                         <did>
                             <unittitle>Bikini Kill Shett Univ.</unittitle>
                             <container id="cid17174002" type="Shelf" label="Media">Media</container>
@@ -131,11 +133,11 @@
                         <phystech id="ref71">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 01:34:36</p>
+                            <p>Duration: 01:34:36</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                    <c id="ref53" level="item">
+                    </c03>
+                    <c03 id="ref53" level="item">
                         <did>
                             <unittitle>Bikini Kill, Manchester</unittitle>
                             <container id="cid17174003" type="Shelf" label="Media">Media</container>
@@ -145,11 +147,11 @@
                         <phystech id="ref72">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 01:53:35</p>
+                            <p>Duration: 01:53:35</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                    <c id="ref54" level="item">
+                    </c03>
+                    <c03 id="ref54" level="item">
                         <did>
                             <unittitle>Sheffield / Leeds, Kathleen and audience interviews</unittitle>
                             <container id="cid17174004" type="Shelf" label="Media">Media</container>
@@ -159,11 +161,11 @@
                         <phystech id="ref73">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 01:33:40</p>
+                            <p>Duration: 01:33:40</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                    <c id="ref55" level="item">
+                    </c03>
+                    <c03 id="ref55" level="item">
                         <did>
                             <unittitle>Bikini Kill, Liz Naylor interview</unittitle>
                             <container id="cid17174005" type="Shelf" label="Media">Media</container>
@@ -173,11 +175,11 @@
                         <phystech id="ref74">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 02:52:11</p>
+                            <p>Duration: 02:52:11</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                    <c id="ref56" level="item">
+                    </c03>
+                    <c03 id="ref56" level="item">
                         <did>
                             <unittitle>Kathleen and Girls interview, Leeds</unittitle>
                             <container id="cid17174006" type="Shelf" label="Media">Media</container>
@@ -187,11 +189,11 @@
                         <phystech id="ref75">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 01:26:30</p>
+                            <p>Duration: 01:26:30</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                    <c id="ref57" level="item">
+                    </c03>
+                    <c03 id="ref57" level="item">
                         <did>
                             <unittitle>Liz interview</unittitle>
                             <container id="cid17174007" type="Shelf" label="Media">Media</container>
@@ -201,11 +203,11 @@
                         <phystech id="ref76">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 02:05:00</p>
+                            <p>Duration: 02:05:00</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                    <c id="ref58" level="item">
+                    </c03>
+                    <c03 id="ref58" level="item">
                         <did>
                             <unittitle>Queercore UK copy; Clissold Park, Liz - Builders' Arms</unittitle>
                             <container id="cid17174008" type="Shelf" label="Media">Media</container>
@@ -215,11 +217,11 @@
                         <phystech id="ref77">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 01:17:46</p>
+                            <p>Duration: 01:17:46</p>
                             <p>Original Format: VHS</p>
                         </phystech>
-                    </c>
-                    <c id="ref59" level="item">
+                    </c03>
+                    <c03 id="ref59" level="item">
                         <did>
                             <unittitle>Free to Fight Oakland, Lynn Breedlove / Leslie Blondie's Q Tip, Kicking Giant, Sue P. Fox</unittitle>
                             <container id="cid17174009" type="Shelf" label="Media">Media</container>
@@ -229,11 +231,11 @@
                         <phystech id="ref78">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 01:40:56</p>
+                            <p>Duration: 01:40:56</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                    <c id="ref60" level="item">
+                    </c03>
+                    <c03 id="ref60" level="item">
                         <did>
                             <unittitle>Bikini Kill, Manchester Backstage</unittitle>
                             <container id="cid17174010" type="Shelf" label="Media">Media</container>
@@ -243,11 +245,11 @@
                         <phystech id="ref79">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 01:04:22</p>
+                            <p>Duration: 01:04:22</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                    <c id="ref61" level="item">
+                    </c03>
+                    <c03 id="ref61" level="item">
                         <did>
                             <unittitle>Bikini Kill and Andreas, Sheffield (Tape 1)</unittitle>
                             <container id="cid17174011" type="Shelf" label="Media">Media</container>
@@ -257,11 +259,11 @@
                         <phystech id="ref80">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 01:04:16</p>
+                            <p>Duration: 01:04:16</p>
                             <p>Original Format: S-VHS Pro</p>
                         </phystech>
-                    </c>
-                    <c id="ref62" level="item">
+                    </c03>
+                    <c03 id="ref62" level="item">
                         <did>
                             <unittitle>Bikini Kill and Andreas, Sheffield (Tape 2); Boardwalk- Manchester Gordon</unittitle>
                             <container id="cid17174012" type="Shelf" label="Media">Media</container>
@@ -271,11 +273,11 @@
                         <phystech id="ref81">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 00:33:35</p>
+                            <p>Duration: 00:33:35</p>
                             <p>Original Format: S-VHS Pro</p>
                         </phystech>
-                    </c>
-                    <c id="ref63" level="item">
+                    </c03>
+                    <c03 id="ref63" level="item">
                         <did>
                             <unittitle>Bikini Kill, Sheffield [Int. from] stage, Rockstar</unittitle>
                             <container id="cid17174013" type="Shelf" label="Media">Media</container>
@@ -285,11 +287,11 @@
                         <phystech id="ref82">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 00:32:37</p>
+                            <p>Duration: 00:32:37</p>
                             <p>Original Format: S-VHS Pro</p>
                         </phystech>
-                    </c>
-                    <c id="ref64" level="item">
+                    </c03>
+                    <c03 id="ref64" level="item">
                         <did>
                             <unittitle>Bikini Kill Leeds</unittitle>
                             <container id="cid17174014" type="Shelf" label="Media">Media</container>
@@ -299,11 +301,11 @@
                         <phystech id="ref83">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 00:29:45</p>
+                            <p>Duration: 00:29:45</p>
                             <p>Original Format: VHS</p>
                         </phystech>
-                    </c>
-                    <c id="ref65" level="item">
+                    </c03>
+                    <c03 id="ref65" level="item">
                         <did>
                             <unittitle>Dat Sound, Sheffield, Leeds and Manchester Boardwalk (Disc 1 of 2)</unittitle>
                             <container id="cid17174019" type="Shelf" label="Media">Media</container>
@@ -314,11 +316,11 @@
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>NOTE: AUDIO ONLY</p>
                             <p>Format: Audio CD</p>
-                            <p>TRT: 00:29:45</p>
+                            <p>Duration: 00:29:45</p>
                             <p>Original Format: S-VHS Pro</p>
                         </phystech>
-                    </c>
-                    <c id="ref88" level="item">
+                    </c03>
+                    <c03 id="ref88" level="item">
                         <did>
                             <unittitle>Dat Sound, Sheffield, Leeds and Manchester Boardwalk (Disc 2 of 2)</unittitle>
                             <container id="cid17174020" type="Shelf" label="Media">Media</container>
@@ -328,11 +330,11 @@
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>NOTE: AUDIO ONLY</p>
                             <p>Format: Audio CD</p>
-                            <p>TRT: 00:44:56</p>
+                            <p>Duration: 00:44:56</p>
                             <p>Original Format: S-VHS Pro</p>
                         </phystech>
-                    </c>
-                    <c id="ref66" level="item">
+                    </c03>
+                    <c03 id="ref66" level="item">
                         <did>
                             <unittitle>Huggy Bear on Wall</unittitle>
                             <container id="cid17174015" type="Shelf" label="Media">Media</container>
@@ -342,11 +344,11 @@
                         <phystech id="ref84">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 00:15:53</p>
+                            <p>Duration: 00:15:53</p>
                             <p>Original Format: S-VHS Pro</p>
                         </phystech>
-                    </c>
-                    <c id="ref67" level="item">
+                    </c03>
+                    <c03 id="ref67" level="item">
                         <did>
                             <unittitle>Liz interview contd / Kathleen and Liz / Kathleen and Ana; Tobi / Backstage Glasgow Cathans part 1</unittitle>
                             <container id="cid17174016" type="Shelf" label="Media">Media</container>
@@ -356,11 +358,11 @@
                         <phystech id="ref85">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 03:05:20</p>
+                            <p>Duration: 03:05:20</p>
                             <p>Original Format: VHS</p>
                         </phystech>
-                    </c>
-                    <c id="ref68" level="item">
+                    </c03>
+                    <c03 id="ref68" level="item">
                         <did>
                             <unittitle>Sister George rehearsal and interview pt. 1; Monarch concert (Sist. G.); Sister George sound check, Kathleen (Leeds int.)</unittitle>
                             <container id="cid17174017" type="Shelf" label="Media">Media</container>
@@ -370,11 +372,11 @@
                         <phystech id="ref86">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 02:36:30</p>
+                            <p>Duration: 02:36:30</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                    <c id="ref69" level="item">
+                    </c03>
+                    <c03 id="ref69" level="item">
                         <did>
                             <unittitle>SF Show and Gee Bag</unittitle>
                             <container id="cid17174018" type="Shelf" label="Media">Media</container>
@@ -384,12 +386,12 @@
                         <phystech id="ref87">
                             <head>Physical Characteristics and Technical Requirements note</head>
                             <p>Format: DVD</p>
-                            <p>TRT: 01:33:51</p>
+                            <p>Duration: 01:33:51</p>
                             <p>Original Format: Video 8mm</p>
                         </phystech>
-                    </c>
-                </c>
-                <c id="ref10" level="subseries">
+                    </c03>
+                </c02>
+                <c02 id="ref10" level="subseries">
                     <did>
                         <unittitle>Subseries B: Originals</unittitle>
                     </did>
@@ -397,7 +399,7 @@
                         <head>Conditions Governing Access</head>
                         <p>Researchers should request viewing copies from Series I, Subseries A: Access Copies</p>
                     </accessrestrict>
-                    <c id="ref4" level="item">
+                    <c03 id="ref4" level="item">
                         <did>
                             <unittitle>Liz and Kathleen, Bull and Gate B-K Show and Audience in Toilets</unittitle>
                             <container id="cid16534001" type="Box" label="Media">1</container>
@@ -409,8 +411,8 @@
                             <p>Format: Hi 8</p>
                             <p>Standard: [PAL]</p>
                         </phystech>
-                    </c>
-                    <c id="ref5" level="item">
+                    </c03>
+                    <c03 id="ref5" level="item">
                         <did>
                             <unittitle>Bikini Kill Shett Univ.</unittitle>
                             <container id="cid16534002" type="Box" label="Media">1</container>
@@ -422,8 +424,8 @@
                             <p>Format: Hi 8</p>
                             <p>Standard: [PAL]</p>
                         </phystech>
-                    </c>
-                    <c id="ref8" level="item">
+                    </c03>
+                    <c03 id="ref8" level="item">
                         <did>
                             <unittitle>Bikini Kill, Manchester</unittitle>
                             <container id="cid16534003" type="Box" label="Media">1</container>
@@ -435,8 +437,8 @@
                             <p>Format: Hi 8</p>
                             <p>Standard: [PAL]</p>
                         </phystech>
-                    </c>
-                    <c id="ref12" level="item">
+                    </c03>
+                    <c03 id="ref12" level="item">
                         <did>
                             <unittitle>Sheffield / Leeds, Kathleen and audience interviews</unittitle>
                             <container id="cid16534004" type="Box" label="Media">1</container>
@@ -448,8 +450,8 @@
                             <p>Format: Hi 8</p>
                             <p>Standard: [PAL]</p>
                         </phystech>
-                    </c>
-                    <c id="ref14" level="item">
+                    </c03>
+                    <c03 id="ref14" level="item">
                         <did>
                             <unittitle>Bikini Kill, Liz Naylor interview</unittitle>
                             <container id="cid16534005" type="Box" label="Media">1</container>
@@ -461,8 +463,8 @@
                             <p>Format: Video 8</p>
                             <p>Standard: PAL</p>
                         </phystech>
-                    </c>
-                    <c id="ref16" level="item">
+                    </c03>
+                    <c03 id="ref16" level="item">
                         <did>
                             <unittitle>Kathleen and Girls interview, Leeds</unittitle>
                             <container id="cid16534006" type="Box" label="Media">1</container>
@@ -474,8 +476,8 @@
                             <p>Format: Hi 8</p>
                             <p>Standard: [PAL]</p>
                         </phystech>
-                    </c>
-                    <c id="ref18" level="item">
+                    </c03>
+                    <c03 id="ref18" level="item">
                         <did>
                             <unittitle>Liz interview</unittitle>
                             <container id="cid16534007" type="Box" label="Media">1</container>
@@ -487,8 +489,8 @@
                             <p>Format: Hi 8</p>
                             <p>Standard: PAL</p>
                         </phystech>
-                    </c>
-                    <c id="ref20" level="item">
+                    </c03>
+                    <c03 id="ref20" level="item">
                         <did>
                             <unittitle>Queer Core UK copy; Clissold Park, Liz - Builders' Arms</unittitle>
                             <container id="cid16534008" type="Box" label="Media">1</container>
@@ -500,8 +502,8 @@
                             <p>Format: VHS</p>
                             <p>Standard: [PAL]</p>
                         </phystech>
-                    </c>
-                    <c id="ref22" level="item">
+                    </c03>
+                    <c03 id="ref22" level="item">
                         <did>
                             <unittitle>Free to Fight Oakland, Lynn Breedlove / Leslie Blondie's Q Tip, Kicking Giants, Sue P. Fox</unittitle>
                             <container id="cid16534009" type="Box" label="Media">1</container>
@@ -513,8 +515,8 @@
                             <p>Format: Video 8</p>
                             <p>Standard: [PAL]</p>
                         </phystech>
-                    </c>
-                    <c id="ref24" level="item">
+                    </c03>
+                    <c03 id="ref24" level="item">
                         <did>
                             <unittitle>Bikini Kill, Manchester Backstage</unittitle>
                             <container id="cid16534010" type="Box" label="Media">1</container>
@@ -526,8 +528,8 @@
                             <p>Format: SVHS</p>
                             <p>Standard: PAL</p>
                         </phystech>
-                    </c>
-                    <c id="ref26" level="item">
+                    </c03>
+                    <c03 id="ref26" level="item">
                         <did>
                             <unittitle>Bikini Kill and Andreas, Sheffield (Tape 1)</unittitle>
                             <container id="cid16534011" type="Box" label="Media">1</container>
@@ -539,8 +541,8 @@
                             <p>Format: SVHS</p>
                             <p>Standard: PAL</p>
                         </phystech>
-                    </c>
-                    <c id="ref28" level="item">
+                    </c03>
+                    <c03 id="ref28" level="item">
                         <did>
                             <unittitle>Bikini Kill and Andreas, Sheffield (Tape 2); Boardwalk- Manchester Gordon</unittitle>
                             <container id="cid16534012" type="Box" label="Media">1</container>
@@ -552,8 +554,8 @@
                             <p>Format: SVHS</p>
                             <p>Standard: PAL</p>
                         </phystech>
-                    </c>
-                    <c id="ref30" level="item">
+                    </c03>
+                    <c03 id="ref30" level="item">
                         <did>
                             <unittitle>Bikini Kill, Sheffield [Int. from] stage, Rockstar</unittitle>
                             <container id="cid16534013" type="Box" label="Media">1</container>
@@ -565,8 +567,8 @@
                             <p>Format: SVHS</p>
                             <p>Standard: PAL</p>
                         </phystech>
-                    </c>
-                    <c id="ref32" level="item">
+                    </c03>
+                    <c03 id="ref32" level="item">
                         <did>
                             <unittitle>Bikini Kill Leeds</unittitle>
                             <container id="cid16534014" type="Box" label="Media">1</container>
@@ -578,8 +580,8 @@
                             <p>Format: VHS</p>
                             <p>Standard: PAL</p>
                         </phystech>
-                    </c>
-                    <c id="ref34" level="item">
+                    </c03>
+                    <c03 id="ref34" level="item">
                         <did>
                             <unittitle>Dat Sound, Sheffield, Leeds and Manchester Boardwalk</unittitle>
                             <container id="cid16534015" type="Box" label="Media">1</container>
@@ -591,8 +593,8 @@
                             <p>Format: SVHS</p>
                             <p>Standard: PAL</p>
                         </phystech>
-                    </c>
-                    <c id="ref36" level="item">
+                    </c03>
+                    <c03 id="ref36" level="item">
                         <did>
                             <unittitle>Huggy Bear on Wall</unittitle>
                             <container id="cid16534016" type="Box" label="Media">1</container>
@@ -604,8 +606,8 @@
                             <p>Format: SVHS</p>
                             <p>Standard: [PAL]</p>
                         </phystech>
-                    </c>
-                    <c id="ref38" level="item">
+                    </c03>
+                    <c03 id="ref38" level="item">
                         <did>
                             <unittitle>Liz interview contd / Kathleen and Liz / Kathleen and Ana; Tobi / Backstage Glasgow Cathans part 1</unittitle>
                             <container id="cid16534017" type="Box" label="Media">1</container>
@@ -617,8 +619,8 @@
                             <p>Format: VHS</p>
                             <p>Standard: PAL</p>
                         </phystech>
-                    </c>
-                    <c id="ref40" level="item">
+                    </c03>
+                    <c03 id="ref40" level="item">
                         <did>
                             <unittitle>Sister George rehearsal and interview pt. 1; Monarch concert (Sist. G.); Sister George sound check, Kathleen (Leeds int.)</unittitle>
                             <container id="cid16534018" type="Box" label="Media">1</container>
@@ -630,8 +632,8 @@
                             <p>Format: SVHS</p>
                             <p>Standard: PAL</p>
                         </phystech>
-                    </c>
-                    <c id="ref42" level="item">
+                    </c03>
+                    <c03 id="ref42" level="item">
                         <did>
                             <unittitle>SF Show and Gee Bag</unittitle>
                             <container id="cid16534019" type="Box" label="Media">1</container>
@@ -643,9 +645,9 @@
                             <p>Format: Video 8</p>
                             <p>Standard: [PAL]</p>
                         </phystech>
-                    </c>
-                </c>
-            </c>
+                    </c03>
+                </c02>
+            </c01>
         </dsc>
     </archdesc>
 </ead>

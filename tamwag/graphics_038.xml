@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/andrews_graphics.html">graphics_038</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Bill Andrews Editorial Cartoons and Papers
                     <num>GRAPHICS.038</num>
                 </titleproper>
-                <author>Finding aid prepared by Hillel Arnold</author>
+                <author>Finding aid prepared by Hillel Arnold (2011); Updated by David Olson to include oral history interview (2014)</author>
             </titlestmt>
             <publicationstmt>
                 <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
@@ -22,11 +22,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-10-10T18:07-0400</date>
+                <date>2014-09-02T11:38-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2014</date>
+                <item>Updated by Maggie Schreiner to reflect updated administrative information</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -42,8 +48,9 @@
                 <extent>48.0 boxes</extent>
             </physdesc>
             <unitdate normal="1968/1977" type="bulk">Bulk, 1968-1977</unitdate>
-            <unitdate normal="1941/1999" type="inclusive">1941-2009</unitdate>
+            <unitdate normal="1941/2011" type="inclusive">1941-2011</unitdate>
             <langmaterial id="ref637" label="Language of Materials note">Materials are in English and Spanish.</langmaterial>
+            <physloc id="ref680" label="Location note">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@library.nyu.edu at least two business days prior to research visit.</physloc>
             <abstract id="ref676" label="Abstract">Bill Andrews, born William Grant Andrews on June 2, 1937 in Tucson, Arizona, is a graphic artist, photographer and journalist. After graduating from high school in 1955, he worked as a copy editor, writer, photographer and staff cartoonist at the 
                 <emph render="italic">Arizona Republic</emph> in Phoenix, and then as a a one-man art department at KNME-TV in Albuquerque. In April 1963, shortly after graduating from the University of New Mexico, Andrews moved to New York City, where, he began to draw cartoons for the 
                 <emph render="italic">La Nueva Voz</emph>. Shortly therafter, he was hired as a staff photographer for 
@@ -59,7 +66,7 @@
             <p>Artwork created by other artists for publication in the 
                 <emph render="italic">Daily Worker</emph>, 
                 <emph render="italic">The Worker</emph> and the 
-                <emph render="italic">Daily World</emph> including Fred Ellis, Ollie Harrington and Erik (James Erickson) was separated to the Daily Worker/Daily World Cartoons Collection (GRAPHICS 24.1).</p>
+                <emph render="italic">Daily World</emph> including Fred Ellis, Ollie Harrington and Erik (James Erickson) was separated to the Daily Worker/Daily World Cartoons Collection (GRAPHICS 24.001). Negatives were separated to The Daily Worker and the Daily World Negatives Collection PHOTOS 223.001, and photographs were separated to The Daily Worker and the Daily World Photographs Collection (PHOTOS 223).</p>
         </separatedmaterial>
         <arrangement id="ref633">
             <head>Arrangement</head>
@@ -76,10 +83,6 @@
                 <emph render="italic">Daily World</emph> is also present in the collection. This includes promotional artwork from the 
                 <emph render="italic">Arizona Republic</emph>, KNME-TV and the University of New Mexico. A significant amount of material, including promotional material, departmental brochures, informational flyers and event posters, produced while Andrews was employed by Arizona State University is also part of the collection.</p>
         </scopecontent>
-        <relatedmaterial id="ref640">
-            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p/>
-        </relatedmaterial>
         <processinfo id="ref639">
             <head>Processing Information note</head>
             <p>Materials were placed in new acid-free folders and boxes. Acidic dust covers were removed from artwork and replaced with buffered interleaving tissue. A scrapbook was unbound and the contents of each page foldered individually.</p>
@@ -89,23 +92,15 @@
             <head>Preferred Citation</head>
             <p>Published citations should take the following form: 
                 <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+                <lb/>Identification of item, date; Bill Andrews Editorial Cartoons and Papers; GRAPHICS 038; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
         </prefercite>
-        <custodhist id="ref636">
-            <head>Provenance</head>
-            <p>The collection was donated to the Tamiment Library/Robert F. Wagner Labor Archive in January 2010.</p>
-        </custodhist>
+        <acqinfo id="ref636">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Donated by Bill Andrews in 2010. The accession number associated with this collection is 2011.120.</p>
+        </acqinfo>
         <userestrict id="ref635">
             <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@nyu.edu 
-                <lb/></p>
+            <p>Any rights (including copyright and related rights to publicity and privacy) held by Bill Andrews, the creator of this collection, were transferred to New York University in 2009. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>
         </userestrict>
         <accessrestrict id="ref634">
             <head>Access Restrictions</head>
@@ -126,12 +121,19 @@
                 <emph render="italic">Voz del Pueblo</emph> until October 1977. Although initially hired as a photographer, Andrews soon became a staff cartoonist as well, creating artwork for the paper on a daily basis, as well as authoring comic strips including "Is This the Way it Was?," "Nix!" and "The Optic Nerve." In addition, he wrote articles and music reviews for the paper, sometimes under the pseudonyms of Stark Jeffreys and Neil Harris. During this time, he received the Newspaper Guild of New York's Page One Award honoring outstanding achievement in journalism for his cartoons in 1972, 1973 and 1974. He was also awarded a Silurian Society Medallion in 1974.</p>
             <p>After leaving the paper in October 1977, Andrews returned to Arizona, where he worked in Arizona State University's Graphics Department from January 1978 until 1997.</p>
         </bioghist>
+        <relatedmaterial id="ref681">
+            <head>Related Archival Materials</head>
+            <p>Daily Worker/Daily World Photographs Collection (PHOTOS 223)</p>
+            <p>Daily Worker/Daily World Negatives Collection (PHOTOS 223.1)</p>
+            <p>Daily Worker/Daily World Cartoons Collection (GRAPHICS 24.1)</p>
+            <p>Communist Party of the United States of America Oral History Collection (OH 065)</p>
+        </relatedmaterial>
         <controlaccess>
             <persname rules="dacs" source="local">Andrews, Bill, 1937-</persname>
             <corpname rules="aacr" source="naf">Arizona State University.</corpname>
             <corpname source="naf">Communist Party of the United States of America.</corpname>
             <corpname source="local">Daily World (New York, N.Y.).</corpname>
-            <persname source="naf">Meany, George, 1894-1980.</persname>
+            <persname rules="dacs" source="naf">Meany, George, 1894-1980.</persname>
             <persname source="naf">Nixon, Richard M. (Richard Milhous), 1913-1994</persname>
             <persname source="naf">Rockefeller, Nelson A. (Nelson Aldrich), 1908-1979</persname>
             <subject source="lcsh">Caricatures and cartoons |z United States.</subject>
@@ -3985,7 +3987,7 @@
                 <scopecontent id="ref646">
                     <head>Scope and Content Note</head>
                     <p>Contains clippings, correspondence, clippings of Andrews' published artwork, typescripts and topical files assembled by Andrews. Of particular significance are typescripts of Andrews' talks describing his creative process as well as the editorial processes of the 
-                        <emph render="italic">Daily World</emph>, leaflets and flyers he collected during the 1960s and 1970s, typescripts of articles (including musical album and concert reviews), and materials from his March 1977 trip to Moscow to participate in the Satire in the Struggle for Peace Exhibition. A folder containing photographs of Andrews is also present in the collection.</p>
+                        <emph render="italic">Daily World</emph>, leaflets and flyers he collected during the 1960s and 1970s, typescripts of articles (including musical album and concert reviews), and materials from his March 1977 trip to Moscow to participate in the Satire in the Struggle for Peace Exhibition. A folder containing photographs of Andrews is also present in the collection. The series also contains an oral history interview with Andrews, taken following the processing of the collection.</p>
                 </scopecontent>
                 <c id="ref499" level="file">
                     <did>
@@ -4511,6 +4513,18 @@
                         <container parent="cid21313062" type="Folder">587</container>
                         <unitdate>undated</unitdate>
                     </did>
+                </c>
+                <c id="ref678" level="file">
+                    <did>
+                        <unittitle>Oral History Interview</unittitle>
+                        <container id="cid22997001" type="Box" label="Mixed materials">42</container>
+                        <container parent="cid22997001" type="Folder">626.1</container>
+                        <unitdate normal="2011/2011">Dec 5, 2011 and Dec 7, 2011</unitdate>
+                    </did>
+                    <scopecontent id="ref679">
+                        <head>Scope and Content Note</head>
+                        <p>This oral history of Bill Andrews on DVD was taken via Skype by Hillel Arnold over two sessions in 2011, following Arnold's work processing the collection.</p>
+                    </scopecontent>
                 </c>
                 <c id="ref561" level="file">
                     <did>

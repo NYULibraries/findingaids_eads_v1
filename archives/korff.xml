@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid>korff</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to the Papers of Serge A. Korff 
-                    <lb/>
-                    <date calendar="gregorian" era="ce">1928-1989 </date>
-                    <lb/>
-                    <num>MC 110 </num>
+                <titleproper>Guide to the Papers of Serge A. Korff
                     <num>MC 110</num>
                 </titleproper>
-                <author>Finding aid prepared by Susan Aprill</author>
+                <author>Finding aid prepared by Susan Aprill.</author>
             </titlestmt>
             <editionstmt>
                 <p>This version was derived from Korff.xml</p>
@@ -29,7 +25,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2009-11-16T18:21-0500</date>
+                <date>2014-06-10T12:47-0400</date>
             </creation>
             <langusage>Description is in 
                 <language>English</language>.</langusage>
@@ -46,16 +42,19 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>12.0 Linear feet</extent>
+                <extent>12.0 linear feet</extent>
                 <extent>(8 boxes)</extent>
             </physdesc>
-            <unitdate>1928-1989</unitdate>
-            <physloc id="ref1" label="Location note">18/F/1-4</physloc>
+            <unitdate normal="1928/1989" type="inclusive">1928-1989</unitdate>
             <abstract id="ref2" label="Abstract">Serge A. Korff was a prominent cosmic ray physicist active in academic, governmental and international settings whose tenure at NYU was from 1941-1989. The collection encompasses Korff's professional career and includes correspondence with leading American, South American and European physicists, graduate students and post-doctoral fellows, academicians from other disciplines, professional scientific organizations, government agencies, military personnel, commercial equipment suppliers, and publishing concerns. Also included in the collection is information on research projects and expeditions; grant proposals and reports; materials on scientific conferences; students' theses and dissertations; administrative records pertaining to NYU and its physics department; and reprints of scholarly articles by Korff and others.</abstract>
             <origination label="creator">
                 <persname source="naf">Korff, Serge Alexander, 1906-</persname>
             </origination>
         </did>
+        <odd id="ref888">
+            <head>Physical Access</head>
+            <p>Please note that this collection is stored offsite, and you must contact the repository to schedule access.</p>
+        </odd>
         <separatedmaterial id="ref885">
             <head>Separated Material</head>
             <p>No documentation of anything separated from the collection.</p>
@@ -102,7 +101,9 @@
         </userestrict>
         <accessrestrict id="ref6">
             <head>Access Restrictions</head>
-            <p>Open to researchers.</p>
+            <p>Open to researchers. This collection is in
+                <extref ns2:href="http://www.nyu.edu/library/bobst/research/arch/korff.htm">
+                    <archref> off-site storage</archref> </extref>.</p>
         </accessrestrict>
         <custodhist id="ref4">
             <head>Provenance</head>
@@ -117,31 +118,31 @@
             <persname source="naf">Korff, Serge Alexander, 1906-</persname>
             <persname source="naf">Libby, Leona Marshal, 1919-</persname>
             <persname source="naf">Libby, Willard F.</persname>
-            <persname source="ingest">Mendell, Rosalind B.</persname>
-            <corpname source="ingest">New York Academy of Sciences.</corpname>
-            <persname source="ingest">New York University. Dept. of Physics.</persname>
-            <persname source="ingest">Sandoval Vallarta, Manuel.</persname>
-            <genreform source="aat">Admnistrative records.</genreform>
+            <persname source="naf">Mendell, Rosalind B.</persname>
+            <corpname source="naf">New York Academy of Sciences.</corpname>
+            <corpname source="naf">New York University. Dept. of Physics.</corpname>
+            <persname source="naf">Sandoval Vallarta, Manuel, 1899-1977</persname>
+            <genreform source="aat">Administrative records.</genreform>
             <subject source="lcsh">Atmosphere physics.</subject>
-            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Correspondence.</genreform>
             <subject source="lcsh">Cosmic physics.</subject>
             <subject source="lcsh">Cosmic ray neutrons.</subject>
-            <subject source="lcsh">Dispension.</subject>
+            <subject source="lcsh">Dispersion.</subject>
             <genreform source="aat">Dissertations.</genreform>
             <genreform source="aat">Drafts (documents).</genreform>
             <genreform source="aat">Grant proposals.</genreform>
             <genreform source="aat">Memoirs.</genreform>
-            <geogname source="lcsh">New York (State)--New York.</geogname>
-            <genreform source="aat">Photographs</genreform>
-            <subject source="lcsh">Physics -- Political aspects.</subject>
-            <subject source="lcsh">Physics -- Social aspects.</subject>
-            <subject source="lcsh">Physics -- Study and teaching -- United States.</subject>
+            <geogname source="lcsh">New York (N.Y.)</geogname>
+            <genreform source="aat">Photographs.</genreform>
+            <subject source="lcsh">Physics |x Political aspects.</subject>
+            <subject source="lcsh">Physics |x Social aspects.</subject>
+            <subject source="lcsh">Physics |x Study and teaching |z United States.</subject>
             <subject source="lcsh">Proportional counters.</subject>
-            <subject source="lcsh">Radiation -- Measurement.</subject>
+            <subject source="lcsh">Radiation |x Measurement.</subject>
             <genreform source="aat">Reports.</genreform>
             <genreform source="aat">Reprints.</genreform>
-            <genreform source="aat">Researching.</genreform>
-            <subject source="lcsh">Science -- International cooperation.</subject>
+            <genreform source="aat">Research (document genres).</genreform>
+            <subject source="lcsh">Science |x International cooperation.</subject>
         </controlaccess>
         <dsc>
             <c id="ref17" level="series">
@@ -1487,18 +1488,6 @@
                         <head>Scope and Contents note</head>
                         <p>(arranged alphabetically by project title or grantor, then chronologically where appropriate)</p>
                     </scopecontent>
-                    <c id="ref352" level="file">
-                        <did>
-                            <unittitle>List of Research Grants and Contracts</unittitle>
-                            <container id="cid61537" type="Box" label="Mixed materials">3</container>
-                            <container parent="cid61537" type="Folder">17</container>
-                            <unitdate normal="1960/1980" type="inclusive">ca.1970</unitdate>
-                        </did>
-                        <odd id="ref354">
-                            <head>General note</head>
-                            <p>Barcode #: 3 1142 04225409 7</p>
-                        </odd>
-                    </c>
                     <c id="ref355" level="file">
                         <did>
                             <unittitle>High Altitude Flights, Lima, Peru</unittitle>
@@ -3020,32 +3009,6 @@
                         <odd id="ref738">
                             <head>General note</head>
                             <p>Barcode #: 3 1142 04225412 1</p>
-                        </odd>
-                    </c>
-                    <c id="ref739" level="file">
-                        <did>
-                            <unittitle>Student grades</unittitle>
-                            <container id="cid61413" type="Box" label="Mixed materials">7</container>
-                            <container parent="cid61413" type="Folder">1</container>
-                            <unitdate normal="1958/1972" type="inclusive">1958-1972</unitdate>
-                        </did>
-                        <odd id="ref741">
-                            <head>General note</head>
-                            <p>Barcode #: 3 1142 04225413 9
-                                <lb/>restricted</p>
-                        </odd>
-                    </c>
-                    <c id="ref742" level="file">
-                        <did>
-                            <unittitle>Hakner, Richard</unittitle>
-                            <container id="cid61412" type="Box" label="Mixed materials">7</container>
-                            <container parent="cid61412" type="Folder">2</container>
-                            <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
-                        </did>
-                        <odd id="ref744">
-                            <head>General note</head>
-                            <p>Barcode #: 3 1142 04225413 9
-                                <lb/>restricted</p>
                         </odd>
                     </c>
                     <c id="ref745" level="file">

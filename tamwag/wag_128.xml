@@ -21,7 +21,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-08-30T13:44-0400</date>
+                <date>2014-05-20T12:51-0400</date>
             </creation>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
@@ -70,6 +70,18 @@
             <head>Access Restrictions</head>
             <p>Open for research without restrictions.</p>
         </accessrestrict>
+        <prefercite id="ref39">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date; Communications Workers of America, Local 1032 Records; WAG 128; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+        </prefercite>
+        <processinfo id="ref44">
+            <head>Processing Information note</head>
+            <p>The archived websites were added as a series in 2014.</p>
+        </processinfo>
+        <acqinfo id="ref40">
+            <head>Immediate Sourceof Acquisition</head>
+            <p>Donated by Jim Marketti on behalf of the Communication Workers of America, Local 1032 in November of 2000.</p>
+        </acqinfo>
         <userestrict id="ref36">
             <head>Use Restrictions</head>
             <p>Copyright held by Tamiment Library. Permission to publish materials must be obtained in writing from the: 
@@ -82,14 +94,6 @@
                 <lb/> E-mail: tamiment.wagner@library.nyu.edu 
                 <lb/></p>
         </userestrict>
-        <prefercite id="ref39">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Communications Workers of America, Local 1032 Records; WAG 128; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <acqinfo id="ref40">
-            <head>Immediate Sourceof Acquisition</head>
-            <p>Donated by Jim Marketti on behalf of the Communication Workers of America, Local 1032 in November of 2000.</p>
-        </acqinfo>
         <controlaccess>
             <corpname source="local">Communications Workers of America. Local 1032 (Ewing, N.J.).</corpname>
             <corpname source="naf">New Jersey. Dept. of Transportation.</corpname>
@@ -272,6 +276,21 @@
                     <container id="cid20717044" type="Box" label="Mixed materials (31142051742594)">25</container>
                     <unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate>
                 </did>
+            </c>
+            <c otherlevel="website" id="ref41" level="otherlevel">
+                <did>
+                    <unittitle>Archived Website</unittitle>
+                    <unitdate>Feb 26, 2009-ongoing </unitdate>
+                </did>
+                <scopecontent id="ref42">
+                    <head>Scope and Content Note</head>
+                    <p>Communications Workers of America Local 1032 represents about 6,000 workers in a variety of professions and fields in several New Jersey State Departments, the Port Authority of New York and New Jersey, several New Jersey towns and counties as well as several private sector work sites.</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Archived Website" ns2:role="service" ns2:href="http://webarchives.cdlib.org/site/sw1z02z91k">
+                    <daodesc>
+                        <p>Archived Website, Feb 26, 2009-ongoing  </p>
+                    </daodesc>
+                </dao>
             </c>
         </dsc>
     </archdesc>

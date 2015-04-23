@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_466</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Radical Philosophy Association Records
+                <titleproper>Guide to the Radical Philosophy Association Records
                     <num>TAM.466</num>
                 </titleproper>
                 <author>Finding aid prepared by Tamiment staff</author>
@@ -22,13 +22,14 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-06-28T12:03-0400</date>
+                <date>2014-07-24T11:34-0400</date>
             </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>3/30/2010</date>
-                <item>reflects addendum</item>
+                <date>May 2014</date>
+                <item>Revised on 3/30/2010 to reflect addendum.  Edited by Bonnie Gordon to reflect the incorporation of materials found in repository and for compliance with DACS and Tamiment Required Elements for Archival Description</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -42,12 +43,14 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid21037001" type="Box" label="Mixed materials">1-14</container>
             <physdesc>
-                <extent>12.75 linear feet</extent>
-                <extent>(14 boxes)</extent>
+                <extent>12.5 linear feet</extent>
+                <extent>in 12 record cartons and 1 manuscript box.</extent>
             </physdesc>
-            <unitdate>undated</unitdate>
+            <unitdate normal="1982/2010" type="inclusive">circa 1982-2010</unitdate>
+            <abstract id="ref15" label="Abstract">The records relate to both the Radical Philosophy Association and to its journal 
+                <emph render="italic">Radical Philosophy Review</emph>, and contain correspondence, minutes, typescripts, conference materials membership and financial materials, and printed ephemera and other internal documents related to its political activism, including within the American Philosophical Association.</abstract>
+            <langmaterial id="ref14" label="Language of Materials note">Materials are in English</langmaterial>
             <origination label="creator">
                 <corpname source="local">Radical Philosophy Association.</corpname>
             </origination>
@@ -57,6 +60,14 @@
             <p>Founded in 1982, the Radical Philosophy Association is an international organization whose members struggle against capitalism, racism, sexism, homophobia, disability discrimination, environmental ruin, and all other forms of domination, drawing upon a variety of radical traditions including phenomenology, Marxism, anarchism, post-structuralism, post-colonial theory and environmentalism. Its efforts center on conferences and publications. The RPA also publishes the journal 
                 <emph render="italic">Radical Philosophy Review</emph>.</p>
         </bioghist>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>In 2014, the archived website was added as a series.</p>
+        </processinfo>
+        <arrangement id="ref16">
+            <head>Arrangement</head>
+            <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
+        </arrangement>
         <scopecontent id="ref2">
             <head>Scope and Content Note</head>
             <p>The records relate to both the Radical Philosophy Association and to its journal 
@@ -66,6 +77,26 @@
             <head>Appraisal note</head>
             <p>Select financial documents, mostly from conference registration, were appraised and destroyed, based on the presence of sensitive personal information and a relative lack of evidential, intrinsic, or informational value.</p>
         </appraisal>
+        <userestrict id="ref13">
+            <head>Use Restrictions</head>
+            <p>Any copyright held by the Radical Philosophy Association, the creator of this collection, were transferred to New York University in February 2009. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>
+        </userestrict>
+        <accessrestrict id="ref12">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <prefercite id="ref11">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+        </prefercite>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The Alternative Press Center held these records until 2009 when it donated them to the Tamiment Library/Robert F. Wagner Labor Archives. The Radical Philosophy Association allowed the Tamiment Library/Wagner Labor Archives to take possession of these items in 2009 and sent additional materials in 2010. The associated accession numbers are 1950.284, 2010.020, and 2011.103. A poster for the 9th Biennial Conference was donated in 2010 and found in repository; its associated accession number is 2014.084.</p>
+        </acqinfo>
+        <separatedmaterial id="ref18">
+            <head>Separated Materials</head>
+            <p>Photographs and slides were separated from this collection and established as the Radical Philosophy Association Photographs and Slides (PHOTOS 272).</p>
+        </separatedmaterial>
         <controlaccess>
             <corpname source="naf">American Philosophical Association.</corpname>
             <persname rules="dacs" source="local" role="Donor (dnr)">Jones, Richard A. </persname>
@@ -75,6 +106,29 @@
             <subject source="lcsh">Philosophers |x Societies, etc.</subject>
             <subject source="lcsh">Philosophy |x Political aspects.</subject>
         </controlaccess>
-        <dsc/>
+        <dsc>
+            <c id="ref17" level="series">
+                <did>
+                    <unittitle>Records</unittitle>
+                    <container id="cid23231001" type="Box" label="Mixed materials">1-13</container>
+                    <unitdate normal="1982/2010" type="inclusive">circa 1982-2010</unitdate>
+                </did>
+            </c>
+            <c id="ref6" level="series">
+                <did>
+                    <unittitle>Archived Website</unittitle>
+                    <unitdate>Nov 29, 2008-ongoing</unitdate>
+                </did>
+                <scopecontent id="ref7">
+                    <head>Scope and Content Note</head>
+                    <p>Founded in 1982, the Radical Philosophy Association is an international organization whose members struggle against capitalism, racism, sexism, homophobia, disability discrimination, environmental ruin, and all other forms of domination, drawing upon a variety of radical traditions including phenomenology, Marxism, anarchism, post-structuralism, post-colonial theory and environmentalism. Its efforts center on conferences and publications. The RPA also publishes the journal Radical Philosophy Review.</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Archived Website" ns2:role="service" ns2:href="http://webarchives.cdlib.org/site/sw1g44hq6n">
+                    <daodesc>
+                        <p>Archived Website, Nov 29, 2008-ongoing </p>
+                    </daodesc>
+                </dao>
+            </c>
+        </dsc>
     </archdesc>
 </ead>
