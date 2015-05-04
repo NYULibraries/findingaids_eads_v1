@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2007_047_53rd_precinct">arms_2007_047_53rd_precinct</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the 53rd Precinct police group photograph
+                    <num>2007.047</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>February 2015</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-05-04T10:29-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>53rd Precinct police group photograph</unittitle>
+            <unitid>2007.047</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1290004" type="Box" label="Graphic materials">OS-22</container>
+            <physdesc>
+                <extent>0.01 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1924/1929" type="inclusive">circa 1925</unitdate>
+            <abstract id="ref2" label="Abstract">Group photograph of policemen and others at the 53rd Precinct Police Station in Far Rockaway, Queens, New York. The photograph was taken by commercial photographer M. Siebel around 1925. The photograph was owned by George Roethel, who is pictured as the fourth policeman from the right in the photograph.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Photographer (pht)">Siebel, M.</persname>
+            </origination>
+        </did>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); 53rd Precinct police group photograph, 2007.047, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Photograph will enter the public domain by 2045.</p>
+        </userestrict>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Pauline L. McCabe, 2007.</p>
+        </acqinfo>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <bioghist id="ref6">
+            <head>Historical note</head>
+            <p>The 53rd Precinct of the New York Police Department was established in Far Rockaway, Queens, New York, as the 125th Precinct. On July 18, 1924, the city's precincts were renumbered, and the 125th Precinct became the 53rd Precinct. On July 3, 1929, the city's precincts were renumbered for a final time, and the 53rd Precinct became the 101st Precinct.</p>
+            <p>Source: "Precinct History," NYPD Angels website. http://nypdangels.com/a_bit_of_history/index.php. Accessed on February 3, 2015.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="dacs" source="local" role="Donor (dnr)">McCabe, Pauline</persname>
+            <corpname rules="dacs" source="Library_of_Congress_Name_Authority_File">New York (N.Y.). Police Department.</corpname>
+            <persname rules="dacs" source="local">Roethel, George</persname>
+            <geogname source="lcsh">Far Rockaway (New York, N.Y.)</geogname>
+            <genreform source="aat">Photographic prints</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">Police |z New York (State) |z Queens County</subject>
+            <geogname source="lcsh">Queens (New York, N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
