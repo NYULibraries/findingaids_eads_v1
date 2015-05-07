@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_408</eadid>
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_408/">tam_408</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Coalition for Education in District 1 Records (Community School District 1 (New York, N.Y.)
@@ -22,9 +22,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-07-30T18:00-0400</date>
+                <date>2015-05-07T15:38-0400</date>
             </creation>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>May 2015</date>
+                <item>Edited by Heather Mulliner to reflect updated administrative information</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -41,7 +47,8 @@
                 <extent>2.5 linear feet</extent>
                 <extent>(4 boxes)</extent>
             </physdesc>
-            <unitdate>1970s</unitdate>
+            <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+            <abstract id="ref5" label="Abstract">The Coalition for Education in District 1 (Lower East Side, New York, N.Y.) was an organization of parents and teachers in the district concerned with various education and school employment issues in the district. The collection contains correspondence, flyers, newsletters, and other documents produced by the Coalition particularly in reference to school board elections, parents associations, racial issues, and boycotts. There are some photographs. The Coalition opposed the slates of candidates endorsed by the United Federation of Teachers, and many of their policies and political positions. Material is in several languages including English, Spanish, and Chinese.</abstract>
             <origination label="creator">
                 <corpname source="local">Coalition for Education in District 1 (Community School District 1 (New York, N.Y.).</corpname>
             </origination>
@@ -52,12 +59,24 @@
         </bioghist>
         <scopecontent id="ref1">
             <head>Scope and Contents note</head>
-            <p>The collection contains correspondence, flyers, newsletters, and other documents produced by the Coalition particularly in reference to school board elections, parents associations, racial issues, and boycotts. There are some photographs. The Coalition opposed the slates of candidates endorsed by the United Federation of Teachers, and many of their policies and political positions. Material is in several languages including English, Spanish, and Chinese. PLEASE DIRECT FURTHER INQUIRIES TO: peter.filardo@nyu.edu</p>
+            <p>The collection contains correspondence, flyers, newsletters, and other documents produced by the Coalition particularly in reference to school board elections, parents associations, racial issues, and boycotts. There are some photographs. The Coalition opposed the slates of candidates endorsed by the United Federation of Teachers, and many of their policies and political positions. Material is in several languages including English, Spanish, and Chinese.</p>
         </scopecontent>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Tamiment Library received a donation of the records of the Coalition for Education in District 1; the date of this donation is unknown. The accession number associated with this collection is 1980.025.</p>
+        </acqinfo>
+        <accessrestrict id="ref7">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <userestrict id="ref8">
+            <head>Use Restrictions</head>
+            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain beginning in 2090. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+        </userestrict>
         <controlaccess>
             <corpname source="local">Coalition for Education in District 1 (Community School District 1 (New York, N.Y.).</corpname>
             <corpname source="local">Community School District 1 (New York, N.Y.).</corpname>
-            <corpname source="naf">United Federation of Teachers.</corpname>
+            <corpname rules="dacs" source="naf">United Federation of Teachers.</corpname>
             <corpname source="local">United Parents Associations (New York, N.Y.).</corpname>
             <genreform source="aat">Black-and-white photographs.</genreform>
             <genreform source="aat">Correspondence.</genreform>
