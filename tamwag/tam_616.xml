@@ -21,7 +21,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-05-06T14:36-0400</date>
+                <date>2015-05-11T15:51-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
@@ -422,7 +422,7 @@
                         <container id="cid23602032" type="Box" label="Access DVD">Access2</container>
                         <container parent="cid23602032" type="DVD">ref301</container>
                         <container id="cid23602031" type="Box" label="Videos">13</container>
-                        <container parent="cid23602031" type="DVD">301</container>
+                        <container parent="cid23602031" type="Cassette">301</container>
                     </did>
                     <phystech id="ref1588">
                         <head>Physical Characteristics and Technical Requirements note</head>
@@ -500,7 +500,7 @@
                         <container id="cid23595003" type="Box" label="Access DVD">Access3</container>
                         <container parent="cid23595003" type="DVD">ref321</container>
                         <container id="cid23595004" type="Box" label="Videos">14</container>
-                        <container parent="cid23595004" type="Video">321</container>
+                        <container parent="cid23595004" type="Cassette">321</container>
                     </did>
                     <phystech id="ref1467">
                         <head>Physical Characteristics and Technical Requirements note</head>
@@ -647,8 +647,8 @@
                 <c id="ref322" level="file">
                     <did>
                         <unittitle>Footage: Guantanamo</unittitle>
-                        <container id="cid22299521" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid22299521" type="Cassette">322</container>
+                        <container id="cid23671001" type="Box" label="Videos">14</container>
+                        <container parent="cid23671001" type="Cassette">322</container>
                         <container id="cid23602051" type="Box" label="Access DVD">Access 3</container>
                         <container parent="cid23602051" type="DVD">ref322</container>
                     </did>
@@ -908,6 +908,29 @@
                         <p>Original format Umatic. Access DVD Runtime: 00:50:17.</p>
                     </phystech>
                 </c>
+                <c id="ref686" level="file">
+                    <did>
+                        <unittitle>Papenfus, Johan: Interview, airport</unittitle>
+                        <container id="cid23670002" type="Box" label="Videos">34</container>
+                        <container parent="cid23670002" type="Cassette">686</container>
+                        <unitdate normal="1989/1989">Nov 29, 1989</unitdate>
+                    </did>
+                </c>
+                <c id="ref687" level="file">
+                    <did>
+                        <unittitle>Papenfus, Johan: Interview ("BUMP")</unittitle>
+                        <container id="cid23670003" type="Box" label="Videos">34</container>
+                        <container parent="cid23670003" type="Cassette">687</container>
+                    </did>
+                    <bioghist id="ref1988">
+                        <head>Historical/Biographical Note</head>
+                        <p>Johan Papenfus was a South African soldier wounded in the war in Angola on May 4, 1988. He was taken to Cuba where he received medical attention and was held unitl March of 1989. He was the only Cuban prisoner of war from the Angola/South Africa conflict and was part of an exchange for three Cubans who had been held in South Africa.</p>
+                    </bioghist>
+                    <scopecontent id="ref1989">
+                        <head>Scope and Content Note</head>
+                        <p>"BUMP" is an Estela Bravo annotation which indicates clips selected from a previous, longer, piece of footage. It is assumed that this tape consists of selected portions of interviews with Johan Papenfus.</p>
+                    </scopecontent>
+                </c>
             </c>
             <c id="ref944" level="series">
                 <did>
@@ -983,7 +1006,7 @@
                     </did>
                     <bioghist id="ref1970">
                         <head>Historical/Biographical Note</head>
-                        <p>Gary LeShaw, an attorney with the Atlanta Legal Aid Society. represented a number of the Cuban detainees.</p>
+                        <p>Gary LeShaw, an attorney with the Atlanta Legal Aid Society, represented a number of the Cuban detainees.</p>
                     </bioghist>
                 </c>
                 <c id="ref1108" level="file">
@@ -1161,8 +1184,8 @@
                 <c id="ref391" level="file">
                     <did>
                         <unittitle>"Block II": Interview footage, detainees</unittitle>
-                        <container id="cid22299452" type="Box" label="Mixed Materials">17</container>
-                        <container parent="cid22299452" type="Cassette">391</container>
+                        <container id="cid23672002" type="Box" label="Videos">17</container>
+                        <container parent="cid23672002" type="Cassette">391</container>
                         <container id="cid23602084" type="Box" label="Access DVD">Access3</container>
                         <container parent="cid23602084" type="DVD">ref391</container>
                     </did>
@@ -1437,8 +1460,8 @@
                         <unittitle>Interview footage - detainees, guards (Spanish)</unittitle>
                         <container id="cid23603005" type="Box" label="Access DVD">Access4</container>
                         <container parent="cid23603005" type="DVD">ref490</container>
-                        <container id="cid22299353" type="Box" label="Mixed Materials">19</container>
-                        <container parent="cid22299353" type="Cassette">490</container>
+                        <container id="cid23672001" type="Box" label="Videos">19</container>
+                        <container parent="cid23672001" type="Cassette">490</container>
                     </did>
                     <phystech id="ref1442">
                         <head>Physical Characteristics and Technical Requirements note</head>
@@ -1710,6 +1733,13 @@
                         <container parent="cid23634001" type="Cassette">207</container>
                     </did>
                 </c>
+                <c id="ref215" level="file">
+                    <did>
+                        <unittitle>Alarcon, Ricardo: Interview</unittitle>
+                        <container id="cid23670001" type="Box" label="Videos">10</container>
+                        <container parent="cid23670001" type="Cassette">215</container>
+                    </did>
+                </c>
                 <c id="ref1048" level="file">
                     <did>
                         <unittitle>Alarcon, Ricardo and Juanita Vera Garcia</unittitle>
@@ -1970,6 +2000,20 @@
                         <unitdate normal="1996/1996">Aug 10, 1996</unitdate>
                     </did>
                 </c>
+                <c id="ref1057" level="file">
+                    <did>
+                        <unittitle>Belafonte, Harry: Interview "2nd Part"</unittitle>
+                        <container id="cid22614011" type="Box" label="Videos">B6</container>
+                        <container parent="cid22614011" type="Cassette">126</container>
+                    </did>
+                </c>
+                <c id="ref217" level="file">
+                    <did>
+                        <unittitle>Belafonte, Harry: Interview "3rd Part"</unittitle>
+                        <container id="cid23670007" type="Box" label="Videos">10</container>
+                        <container parent="cid23670007" type="Cassette">217</container>
+                    </did>
+                </c>
                 <c id="ref147" level="file">
                     <did>
                         <unittitle>Benn, Tony: Interview -1 (
@@ -2006,6 +2050,44 @@
                         <p></p>
                     </phystech>
                 </c>
+                <c id="ref240" level="file">
+                    <did>
+                        <unittitle>Betto, Frei (Christo, Carlos Alberto Libanio): Interview and final portion of Philip Agee interview</unittitle>
+                        <container id="cid23601002" type="Box" label="Access DVD">Access2</container>
+                        <container parent="cid23601002" type="DVD">ref240</container>
+                        <container id="cid23609001" type="Box" label="Videos">10</container>
+                        <container parent="cid23609001" type="Cassette">240</container>
+                    </did>
+                    <phystech id="ref1623">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Original format Betacam. Access DVD Runtime: 00:31:04.</p>
+                    </phystech>
+                    <scopecontent id="ref1728">
+                        <head>Scope and Content Note</head>
+                        <p>Primarily an interview with Carlos Alberto Libanio Christo (Frei Betto). The final few minutes are a portion of Estela Bravo's interview with Philip Agee.</p>
+                    </scopecontent>
+                    <bioghist id="ref1727">
+                        <head>Historical/Biographical Note</head>
+                        <p>Carlos Alberto Libanio Christo, O.P. (1944), better known as Frei Betto, is a Brazilian writer, political activist, liberation theologist, and Dominican Friar. As a liberation theologist, he has been involved in various international efforts to support an understanding between Marxism and Christianity. During a visit to Havana in the 1980s, he held frequent and lengthy interviews with Fidel Castro and, subsequently, wrote the book, 
+                            <emph render="italic">Fidel and Religion</emph>, which is said to have improved relations between Castro's government and the Catholic Church.</p>
+                        <p>Frei Betto and Fidel Castro have remained friends and Betto is a frequent visitor to Havana.</p>
+                        <p>In 2013, he was selected by UNESCO as the 2013 recipient of its International Jose Marti Prize for "his exceptional contribution to building a universal culture of peace, social justice and human rights in Latin America and the Caribbean." The prize was awarded in Havana on the 160th anniversary of Jose Marti's birth.</p>
+                    </bioghist>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>Betto, Frei: Interview ("Los Manos de Fidel")</unittitle>
+                        <container id="cid23670008" type="Box" label="Videos">3</container>
+                        <container parent="cid23670008" type="Cassette">48</container>
+                    </did>
+                </c>
+                <c id="ref59" level="file">
+                    <did>
+                        <unittitle>Betto, Frei: Interview ("Papa Fidel")</unittitle>
+                        <container id="cid23670009" type="Box" label="Videos">3</container>
+                        <container parent="cid23670009" type="Cassette">59</container>
+                    </did>
+                </c>
                 <c id="ref69" level="file">
                     <did>
                         <unittitle>Bosch, Orlando: Interview (
@@ -2028,7 +2110,7 @@
                     </bioghist>
                     <scopecontent id="ref1987">
                         <head>Scope and Content Note</head>
-                        <p>The digitized version of this footage is contained on four access DVDs. In the first, a WQBA radio host makes and announcement the Channel 4 news is attempting to make contact with several people to share with them information about their families in Cuba. The next two, very brief, portions are background footage from the WQBA radio station. The final DVD contains the interview with Orlando Bosch. This first portion of this interview also features a discussion with Bosch's wife, who is Chilean, and talks about how the two met and how her relationship with Bosch has shaped her views about Cuba and the Cuban people.</p>
+                        <p>The digitized version of this footage is contained on four access DVDs. In the first, a WQBA radio host makes and announcement the Channel 4 news is attempting to make contact with several people to share with them information about their families in Cuba. The next two, very brief, portions are background footage from the WQBA radio station. The final DVD contains the interview with Orlando Bosch. This interview also features a discussion with Bosch's wife, who is Chilean. She talks about how the two met and how her relationship with Bosch has shaped her views about Cuba and the Cuban people.</p>
                         <p></p>
                         <p></p>
                     </scopecontent>
@@ -2091,6 +2173,52 @@
                             <emph render="italic">Fidel - a biography of Fidel Castro</emph> in 1986. In 1995 as chairman of the American Association for World Health he directed a year-long foundation-supported study "Denial of Food and Medicine: The Impact of the US Embargo on Health and Nutrition in Cuba" that looked at humanitarian issues surrounding the US Embargo on Cuba.</p>
                     </bioghist>
                 </c>
+                <c id="ref1031" level="file">
+                    <did>
+                        <unittitle>Bourne, Peter: Interview</unittitle>
+                        <container id="cid22613012" type="Box" label="Videos">B6</container>
+                        <container parent="cid22613012" type="Cassette">109</container>
+                        <unitdate normal="2000/2000">2000</unitdate>
+                    </did>
+                </c>
+                <c id="ref209" level="file">
+                    <did>
+                        <unittitle>Bourne, Peter: Interview</unittitle>
+                        <container id="cid23670011" type="Box" label="Videos">10</container>
+                        <container parent="cid23670011" type="Cassette">209</container>
+                    </did>
+                </c>
+                <c id="ref224" level="file">
+                    <did>
+                        <unittitle>Bourne, Peter: Interview</unittitle>
+                        <container id="cid23670010" type="Box" label="Videos">10</container>
+                        <container parent="cid23670010" type="Cassette">224</container>
+                    </did>
+                </c>
+                <c id="ref235" level="file">
+                    <did>
+                        <unittitle>Bourne, Peter: Interview</unittitle>
+                        <container id="cid23670012" type="Box" label="Videos">10</container>
+                        <container parent="cid23670012" type="Cassette">235</container>
+                    </did>
+                </c>
+                <c id="ref243" level="file">
+                    <did>
+                        <unittitle>Bourne, Peter: Interview</unittitle>
+                        <container id="cid22299600" type="Box" label="Mixed Materials">10</container>
+                        <container parent="cid22299600" type="Cassette">243</container>
+                        <container id="cid23670013" type="Box" label="Videos">10</container>
+                        <container parent="cid23670013" type="Cassette">243</container>
+                    </did>
+                </c>
+                <c id="ref1030" level="file">
+                    <did>
+                        <unittitle>Bourne, Peter: Interview "I"</unittitle>
+                        <container id="cid22613011" type="Box" label="Videos">B6</container>
+                        <container parent="cid22613011" type="Cassette">108</container>
+                        <unitdate normal="2000/2000">2000</unitdate>
+                    </did>
+                </c>
                 <c id="ref14" level="file">
                     <did>
                         <unittitle>Bourne, Peter: Interview "II"</unittitle>
@@ -2103,6 +2231,12 @@
                         <unittitle>Bourne, Peter: Interview "III"</unittitle>
                         <container id="cid23636003" type="Box" label="Videos">2</container>
                         <container parent="cid23636003" type="Cassette">12</container>
+                    </did>
+                </c>
+                <c id="ref1035" level="file">
+                    <did>
+                        <unittitle>Bourne, Peter: Interview "IV"</unittitle>
+                        <container id="cid22613016" type="Box" label="Videos">M47</container>
                     </did>
                 </c>
                 <c id="ref10" level="file">
@@ -2177,30 +2311,6 @@
                         <head>Scope and Content Note</head>
                         <p>Ed Sullivan traveled to Cuba to interview Fidel Castro immediately after his victory in the revolution. Sullivan compares Castro to George Washington and calls him a "gallant young leader."</p>
                     </scopecontent>
-                </c>
-                <c id="ref240" level="file">
-                    <did>
-                        <unittitle>Christo, Carlos Alberto Libanio (Frei Betto): Interview and final portion of Philip Agee interview</unittitle>
-                        <container id="cid23601002" type="Box" label="Access DVD">Access2</container>
-                        <container parent="cid23601002" type="DVD">ref240</container>
-                        <container id="cid23609001" type="Box" label="Videos">10</container>
-                        <container parent="cid23609001" type="Cassette">240</container>
-                    </did>
-                    <phystech id="ref1623">
-                        <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Original format Betacam. Access DVD Runtime: 00:31:04.</p>
-                    </phystech>
-                    <scopecontent id="ref1728">
-                        <head>Scope and Content Note</head>
-                        <p>Primarily an interview with Carlos Alberto Libanio Christo (Frei Betto). The final few minutes are a portion of Estela Bravo's interview with Philip Agee.</p>
-                    </scopecontent>
-                    <bioghist id="ref1727">
-                        <head>Historical/Biographical Note</head>
-                        <p>Carlos Alberto Libanio Christo, O.P. (1944), better known as Frei Betto, is a Brazilian writer, political activist, liberation theologist, and Dominican Friar. As a liberation theologist, he has been involved in various international efforts to support an understanding between Marxism and Christianity. During a visit to Havana in the 1980s, he held frequent and lengthy interviews with Fidel Castro and, subsequently, wrote the book, 
-                            <emph render="italic">Fidel and Religion</emph>, which is said to have improved relations between Castro's government and the Catholic Church.</p>
-                        <p>Frei Betto and Fidel Castro have remained friends and Betto is a frequent visitor to Havana.</p>
-                        <p>In 2013, he was selected by UNESCO as the 2013 recipient of its International Jose Marti Prize for "his exceptional contribution to building a universal culture of peace, social justice and human rights in Latin America and the Caribbean." The prize was awarded in Havana on the 160th anniversary of Jose Marti's birth.</p>
-                    </bioghist>
                 </c>
                 <c id="ref855" level="file">
                     <did>
@@ -2733,7 +2843,7 @@
                     </phystech>
                     <bioghist id="ref1769">
                         <head>Historical/Biographical Note</head>
-                        <p>Antonio Nunez Jimenez (1923-1998) was a Cuban revolutionary, academic, statesman and public figure. He was a captain who fought in the mountains alongside Che Guevara. After the revolution he was director of the National Institute of Agrarian Reform (INRA), which played a very significant role in the socialist transformation of Cuba. As Castro told the Soviets in 1960, INRA would achieve “the step-by-step elimination of property.” Nunez Jimeniz succeeded Che Guevara as president of the Cuban National Bank, and later was president of the Academy of Sciences, as well as serving for a time as Ambassador to Peru. Dr. Nunez Jimenez was one of Fidel Castro's closest friends.</p>
+                        <p>Antonio Nunez Jimenez (1923-1998) was a Cuban revolutionary, academic, statesman and public figure. He was a captain who fought in the mountains alongside Che Guevara. After the revolution he was director of the National Institute of Agrarian Reform (INRA), which played a very significant role in the socialist transformation of Cuba. Nunez Jimeniz succeeded Che Guevara as president of the Cuban National Bank, and later was president of the Academy of Sciences, as well as serving for a time as Ambassador to Peru. Dr. Nunez Jimenez was one of Fidel Castro's closest friends.</p>
                     </bioghist>
                     <scopecontent id="ref1771">
                         <head>Scope and Content Note</head>
@@ -3010,8 +3120,6 @@
                             <emph render="bold">Available on NYU's Bravo Collection Website</emph>)</unittitle>
                         <container id="cid23595002" type="Box" label="Videos">2</container>
                         <container parent="cid23595002" type="Cassette">24</container>
-                        <container id="cid23595001" type="Box" label="Access DVD">Access1</container>
-                        <container parent="cid23595001" type="DVD">ref25</container>
                         <unitdate normal="1996/1996">Aug 21, 1996</unitdate>
                     </did>
                     <bioghist id="ref1420">
@@ -4521,9 +4629,13 @@
                 </c>
                 <c id="ref1367" level="file">
                     <did>
-                        <unittitle>Footage: "Chile Students re:Gloria"</unittitle>
+                        <unittitle>Footage: "Chile, Students re:Gloria"</unittitle>
                         <container id="cid22626013" type="Box" label="Videos">M60</container>
                     </did>
+                    <scopecontent id="ref1990">
+                        <head>Scope and Content Note</head>
+                        <p>Estela Bravo interviews students at various class levels about the Pinochet regime and situation in Chile.</p>
+                    </scopecontent>
                 </c>
                 <c id="ref1373" level="file">
                     <did>
@@ -4537,6 +4649,17 @@
                         <unittitle>Footage: "Pinochet greets Pope at the airport"</unittitle>
                         <container id="cid22620070" type="Box" label="Videos">M52</container>
                     </did>
+                </c>
+                <c id="ref810" level="file">
+                    <did>
+                        <unittitle>Footage: Rojas Grave and Interview with son of Letelier</unittitle>
+                        <container id="cid23670004" type="Box" label="Videos">39</container>
+                        <container parent="cid23670004" type="Cassette">847</container>
+                    </did>
+                    <bioghist id="ref1992">
+                        <head>Historical/Biographical Note</head>
+                        <p>Marcos Orlando Letelier del Solar (1932 – 1976) was a Chilean economist, Socialist politician and diplomat during the presidency of President Salvador Allende. As a refugee from the military dictatorship of General Augusto Pinochet, Letelier accepted several academic positions in Washington, D.C., where he was assassinated in 1976. Letelier was killed by a car bomb explosion on September 21, 1976, in Sheridan Circle, along with his US co-worker, Ronni Karpen Moffitt. The assassination was carried out by agents of the Pinochet government. Several were convicted: one in the US and two in Chile.</p>
+                    </bioghist>
                 </c>
                 <c id="ref1368" level="file">
                     <did>
@@ -4556,6 +4679,13 @@
                     <did>
                         <unittitle>Footage: "Carmen Gloria Complete Visit Jail"</unittitle>
                         <container id="cid22626016" type="Box" label="Videos">M60</container>
+                    </did>
+                </c>
+                <c id="ref811" level="file">
+                    <did>
+                        <unittitle>Footage: "Carmen Gloria in victory"</unittitle>
+                        <container id="cid23670006" type="Box" label="Videos">39</container>
+                        <container parent="cid23670006" type="Cassette">848</container>
                     </did>
                 </c>
                 <c id="ref1371" level="file">
