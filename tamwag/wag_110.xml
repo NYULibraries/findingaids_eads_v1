@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_110</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_110/">wag_110</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Associated Actors and Artistes of America Records
@@ -22,15 +22,10 @@
                 </address>
                 <date>2009</date>
             </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>Finding Aid</p>
-                </note>
-            </notestmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-02-16T11:37-0500</date>
+                <date>2015-05-20T11:41-0400</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
@@ -54,8 +49,8 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>20.5 linear feet</extent>
-                <extent>in 20 record cartons, 1 manuscript box, and 1 folder</extent>
+                <extent>21.5 linear feet</extent>
+                <extent>in 20 record cartons, 1 manuscript box, 1 flat box and 1 folder</extent>
             </physdesc>
             <unitdate normal="1909/1999" type="inclusive">1909-1999</unitdate>
             <langmaterial id="ref309" label="Language of Materials note">Materials are in English. Some materials may be in Spanish.</langmaterial>
@@ -131,7 +126,7 @@
             <persname source="naf">O'Neal, Frederick, 1905-1992</persname>
             <corpname source="naf">Screen Actors Guild.</corpname>
             <corpname source="local">Screen Extras Guild.</corpname>
-            <subject source="lcsh">Actors |x Labor Unions |z United States.</subject>
+            <subject source="lcsh">Actors |x Labor unions |z United States.</subject>
             <subject source="lcsh">Collective labor agreements |x Actors |z United States.</subject>
             <subject source="lcsh">Collective labor agreements |x Entertainers |z United States.</subject>
             <subject source="lcsh">Collective labor agreements |x Motion picture industry |z United States.</subject>
@@ -2307,6 +2302,13 @@
                         <unittitle>Member Photograph, Mae Williams Postcard, and 1974 Charter</unittitle>
                         <container id="cid22146032" type="Box" label="Photographs">A 001</container>
                         <unitdate normal="1974/1974">1974, undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref311" level="file">
+                    <did>
+                        <unittitle>2 wood plaques,one awarded to the 4 A's in 1976, and the other to Theodore Bikel, the Union's President, in 1999; 2 certificates, both the ""Award of Patriotism"" to the 4 A's in 1985 and 1987; 1 plastic sign of the 4 A's logo; 3 photographs of Theodore Bikel: 1 black and white of him by himself, and 2 color of him with Presidents Bush and Clinton. These last two are accompanied by letters; 4 color photographs with captions of the AFL-CIO Executive Council, from 1971, 1979, 1981 and 1986.</unittitle>
+                        <container id="cid23681003" type="Box" label="Mixed materials">22</container>
+                        <unitdate normal="1971/1979" type="inclusive">1971-1979</unitdate>
                     </did>
                 </c02>
             </c01>
