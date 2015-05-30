@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1999_003_himmelstein">arms_1999_003_himmelstein</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Nathan Himmelstein papers
+                    <num>1999.003</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>January 2015</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-05-30T09:44-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Nathan Himmelstein papers</unittitle>
+            <unitid>1999.003</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1281003" type="Box" label="Mixed materials">A0029</container>
+            <physdesc>
+                <extent>0.01 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1935/1945" type="inclusive">circa 1935-1945</unitdate>
+            <abstract id="ref1" label="Abstract">Papers consist of two letters of recommendation for Nathan Himmelstein (1943), and three photographs: a snapshot of "Mother, Cole, and Dad," an U.S. Army portrait, and a graduation portrait (all circa 1935-1945). The Himmelsteins lived at 217 East 7th Street, Brooklyn, New York.</abstract>
+        </did>
+        <accessrestrict id="ref2">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <userestrict id="ref3">
+            <head>Conditions Governing Use note</head>
+            <p>Photographs are presumed to be in the public domain.</p>
+        </userestrict>
+        <processinfo id="ref6">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Barbara Sarah Havranek, 1999.</p>
+        </acqinfo>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Nathan Himmelstein papers, 1999.003, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <controlaccess>
+            <persname rules="dacs" source="local" role="Donor (dnr)">Havranek, Barbara S.</persname>
+            <persname rules="dacs" source="local">Himmelstein, Nathan</persname>
+            <persname rules="dacs" source="local">Himmelstein, Nathan</persname>
+            <corpname rules="dacs" source="naf">United States. Army.</corpname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <genreform source="aat">Letters of recommendation</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Portraits</genreform>
+            <subject source="lcsh">World War, 1939-1945</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
