@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Inventory_BoxLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_114</eadid>
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_114/">wag_114</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Civil Service Merit Council Records
@@ -20,9 +20,16 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-05-20T12:45-0400</date>
+                <date>2015-06-12T14:54-0400</date>
             </creation>
+            <descrules>Describing Archives: A Content Standard.</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>Jun 2015</date>
+                <item>Edited by Heather Mulliner to reflect updated administrative information</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -41,7 +48,7 @@
             <unitdate normal="1970/2006" type="inclusive">1970s-2000s</unitdate>
             <physloc id="ref55" label="Location note">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@library.nyu.edu at least two business days prior to research visit.</physloc>
             <origination label="creator">
-                <corpname source="local">Civil Service Merit Council.</corpname>
+                <corpname rules="dacs" source="local">Civil Service Merit Council.</corpname>
             </origination>
         </did>
         <scopecontent id="ref1">
@@ -52,8 +59,20 @@
             <head>Historical/Biographical Note</head>
             <p>The Civil Service Merit Council was founded in 1971 by Alfred Engel (d. 2007), an engineer who had worked in many New York City agencies and was active as a chapter chairman in the Civil Service Technical Guild, Local 375 (AFSCME, DC 37), and attorney Julian Jackson. Engel became the council’s first president. The purpose of the Merit Council was to advocate for strict adherence to civil service examination results, and against patronage, favoritism, outsourcing and other abuses in civil service employment. It is a non-partisan coalition of individuals and organizations.</p>
         </bioghist>
+        <userestrict id="ref60">
+            <head>Use Restrictions</head>
+            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Civil Service Merit Council are held by Civil Service Merit Council. Permission to publish or reproduce materials to which the organization holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Civil Service Merit Council.</p>
+        </userestrict>
+        <accessrestrict id="ref59">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref58">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The Civil Service Merit Council sent a gift their records in 1995. The accession number associated with this gift is 2000.005.</p>
+        </acqinfo>
         <controlaccess>
-            <corpname source="local">Civil Service Merit Council.</corpname>
+            <corpname rules="dacs" source="local">Civil Service Merit Council.</corpname>
             <persname source="local">Engel, Alfred, d. 2007</persname>
             <persname source="ingest">Gorsky?, Sheila</persname>
             <subject source="lcsh">Civil service |z New York (State) |z New York.</subject>
@@ -426,7 +445,7 @@
                     <unitdate normal="2003/2003">2003</unitdate>
                 </did>
             </c>
-            <c otherlevel="website" id="ref56" level="otherlevel">
+            <c id="ref56" level="otherlevel">
                 <did>
                     <unittitle>Archived Website</unittitle>
                     <unitdate normal="2009/2009">Feb 6, 2009-Mar 6, 2009</unitdate>
