@@ -25,7 +25,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-05-07T12:28-0400</date>
+                <date>2015-06-25T13:49-0400</date>
             </creation>
         </profiledesc>
     </eadheader>
@@ -104,7 +104,7 @@
             <persname rules="dacs" source="naf">Berio, Luciano, 1925-2003</persname>
             <persname rules="dacs" source="naf">Boulez, Pierre, 1925-</persname>
             <persname rules="dacs" source="naf">Burge, David, 1930-2013</persname>
-            <persname source="naf">Cage, John</persname>
+            <persname rules="aacr" source="naf">Cage, John</persname>
             <persname rules="dacs" source="naf">Crumb, George</persname>
             <persname rules="dacs" source="naf">Krenek, Ernst, 1900-1991</persname>
             <persname rules="dacs" source="naf">Silsbee, Ann</persname>
@@ -1529,183 +1529,255 @@
                     <p>Audiovisual materials have not been preserved and may not be available to researchers.</p>
                 </accessrestrict>
                 <controlaccess>
-                    <persname source="naf">Cage, John</persname>
+                    <persname rules="aacr" source="naf">Cage, John</persname>
                     <persname rules="dacs" source="naf">Crumb, George</persname>
                 </controlaccess>
                 <c id="ref224" level="subseries">
                     <did>
-                        <unittitle>Originals</unittitle>
+                        <unittitle>Sound recordings- Originals</unittitle>
                     </did>
                     <c id="ref212" level="item">
                         <did>
                             <unittitle>20th Century Piano Music</unittitle>
-                            <container id="cid18799001" type="Box" label="Media">18</container>
-                            <container parent="cid18799001" type="Media">ID: 395.0001</container>
-                            <unitdate>2003</unitdate>
-                            <physdesc id="ref211" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320001" type="Box" label="Audio">18</container>
+                            <container parent="cid19320001" type="Media">ID: 395.0001</container>
+                            <unitdate normal="2003/2003">2003</unitdate>
+                            <physdesc id="ref211" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref352">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref214" level="item">
                         <did>
                             <unittitle>The Boulder Philharmonic Orchestra</unittitle>
-                            <container id="cid18799002" type="Box" label="Media">18</container>
-                            <container parent="cid18799002" type="Media">ID: 395.0002</container>
-                            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
-                            <physdesc id="ref213" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320002" type="Box" label="Audio">18</container>
+                            <container parent="cid19320002" type="Media">ID: 395.0002</container>
+                            <unitdate normal="1965/1966" type="inclusive">1965</unitdate>
+                            <physdesc id="ref213" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref353">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref216" level="item">
                         <did>
                             <unittitle>The Boulder Philharmonic Orchestra</unittitle>
-                            <container id="cid18799003" type="Box" label="Media">18</container>
-                            <container parent="cid18799003" type="Media">ID: 395.0003</container>
-                            <unitdate>1967</unitdate>
-                            <physdesc id="ref215" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320003" type="Box" label="Audio">18</container>
+                            <container parent="cid19320003" type="Media">ID: 395.0003</container>
+                            <unitdate normal="1967/1967">1967</unitdate>
+                            <physdesc id="ref215" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref354">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref218" level="item">
                         <did>
                             <unittitle>The Boulder Philharmonic Orchestra</unittitle>
-                            <container id="cid18799004" type="Box" label="Media">18</container>
-                            <container parent="cid18799004" type="Media">ID: 395.0004</container>
-                            <unitdate>1968</unitdate>
-                            <physdesc id="ref217" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320004" type="Box" label="Audio">18</container>
+                            <container parent="cid19320004" type="Media">ID: 395.0004</container>
+                            <unitdate normal="1968/1968">1968</unitdate>
+                            <physdesc id="ref217" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref355">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref220" level="item">
                         <did>
                             <unittitle>The Boulder Philharmonic Orchestra</unittitle>
-                            <container id="cid18799005" type="Box" label="Media">18</container>
-                            <container parent="cid18799005" type="Media">ID: 395.0005</container>
-                            <unitdate>1968</unitdate>
-                            <physdesc id="ref219" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320005" type="Box" label="Audio">18</container>
+                            <container parent="cid19320005" type="Media">ID: 395.0005</container>
+                            <unitdate normal="1968/1968">1968</unitdate>
+                            <physdesc id="ref219" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref356">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref222" level="item">
                         <did>
                             <unittitle>The Boulder Philharmonic Orchestra</unittitle>
-                            <container id="cid18799006" type="Box" label="Media">18</container>
-                            <container parent="cid18799006" type="Media">ID: 395.0006</container>
-                            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
-                            <physdesc id="ref221" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320006" type="Box" label="Audio">18</container>
+                            <container parent="cid19320006" type="Media">ID: 395.0006</container>
+                            <unitdate normal="1969/1970" type="inclusive">1969- 1970</unitdate>
+                            <physdesc id="ref221" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref357">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref226" level="item">
                         <did>
                             <unittitle>The Boulder Philharmonic Orchestra</unittitle>
-                            <container id="cid18799007" type="Box" label="Media">18</container>
-                            <container parent="cid18799007" type="Media">ID: 395.0007</container>
-                            <unitdate>1971</unitdate>
-                            <physdesc id="ref225" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320007" type="Box" label="Audio">18</container>
+                            <container parent="cid19320007" type="Media">ID: 395.0007</container>
+                            <unitdate normal="1971/1971">1971</unitdate>
+                            <physdesc id="ref225" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref358">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref232" level="item">
                         <did>
                             <unittitle>The Boulder Philharmonic Orchestra</unittitle>
-                            <container id="cid18799010" type="Box" label="Media">18</container>
-                            <container parent="cid18799010" type="Media">ID: 395.0008</container>
-                            <unitdate>1971</unitdate>
-                            <physdesc id="ref231" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320008" type="Box" label="Audio">18</container>
+                            <container parent="cid19320008" type="Media">ID: 395.0008</container>
+                            <unitdate normal="1971/1971">1971</unitdate>
+                            <physdesc id="ref231" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref359">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref234" level="item">
                         <did>
                             <unittitle>The Boulder Philharmonic Orchestra</unittitle>
-                            <container id="cid18799011" type="Box" label="Media">18</container>
-                            <container parent="cid18799011" type="Media">ID: 395.0009</container>
-                            <unitdate>1971</unitdate>
-                            <physdesc id="ref233" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320009" type="Box" label="Audio">18</container>
+                            <container parent="cid19320009" type="Media">ID: 395.0009</container>
+                            <unitdate normal="1971/1971">1971</unitdate>
+                            <physdesc id="ref233" label="General Physical Description note">Orignal format: CD</physdesc>
                         </did>
                     </c>
                     <c id="ref236" level="item">
                         <did>
                             <unittitle>Dances and Songs by David Burge</unittitle>
-                            <container id="cid18799012" type="Box" label="Media">18</container>
-                            <container parent="cid18799012" type="Media">ID: 395.0010</container>
-                            <unitdate>1999</unitdate>
-                            <physdesc id="ref235" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320010" type="Box" label="Audio">18</container>
+                            <container parent="cid19320010" type="Media">ID: 395.0010</container>
+                            <unitdate normal="1999/1999">1999</unitdate>
+                            <physdesc id="ref235" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref360">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref238" level="item">
                         <did>
                             <unittitle>Improvisations and Sonatas (1 of 2)</unittitle>
-                            <container id="cid18799013" type="Box" label="Media">18</container>
-                            <container parent="cid18799013" type="Media">ID: 395.0011</container>
-                            <unitdate>2010</unitdate>
-                            <physdesc id="ref237" label="General Physical Description note">Format: CD, wrapped in original plastic</physdesc>
+                            <container id="cid19320011" type="Box" label="Audio">18</container>
+                            <container parent="cid19320011" type="Media">ID: 395.0011</container>
+                            <unitdate normal="2010/2010">2010</unitdate>
+                            <physdesc id="ref237" label="General Physical Description note">Original format: CD, wrapped in original plastic</physdesc>
                         </did>
+                        <accessrestrict id="ref361">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref240" level="item">
                         <did>
                             <unittitle>Improvisations and Sonatas (2 of 2)</unittitle>
-                            <container id="cid18799014" type="Box" label="Media">18</container>
-                            <container parent="cid18799014" type="Media">ID: 395.0012</container>
-                            <unitdate>2010</unitdate>
-                            <physdesc id="ref239" label="General Physical Description note">Format: CD, wrapped in original plastic</physdesc>
+                            <container id="cid19320012" type="Box" label="Audio">18</container>
+                            <container parent="cid19320012" type="Media">ID: 395.0012</container>
+                            <unitdate normal="2010/2010">2010</unitdate>
+                            <physdesc id="ref239" label="General Physical Description note">Original format: CD, wrapped in original plastic</physdesc>
                         </did>
+                        <accessrestrict id="ref362">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref242" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. I - William Albright</unittitle>
-                            <container id="cid18799015" type="Box" label="Media">18</container>
-                            <container parent="cid18799015" type="Media">ID: 395.0013</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref241" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320013" type="Box" label="Audio">18</container>
+                            <container parent="cid19320013" type="Media">ID: 395.0013</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref241" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref363">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref244" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. II - George Crumb</unittitle>
-                            <container id="cid18799016" type="Box" label="Media">18</container>
-                            <container parent="cid18799016" type="Media">ID: 395.0014</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref243" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320014" type="Box" label="Audio">18</container>
+                            <container parent="cid19320014" type="Media">ID: 395.0014</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref243" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref364">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref246" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. III - Wuorinen, Silsbee, Curtis-Smith, Ward0Steinman, Lewis, Martirano</unittitle>
-                            <container id="cid18799017" type="Box" label="Media">18</container>
-                            <container parent="cid18799017" type="Media">ID: 395.0015</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref245" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320015" type="Box" label="Audio">18</container>
+                            <container parent="cid19320015" type="Media">ID: 395.0015</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref245" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref365">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref248" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. IV - Hamer, Crumb, Eakin, McLean, Hudson, Rochberg</unittitle>
-                            <container id="cid18799018" type="Box" label="Media">18</container>
-                            <container parent="cid18799018" type="Media">ID: 395.0016</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref247" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320016" type="Box" label="Audio">18</container>
+                            <container parent="cid19320016" type="Media">ID: 395.0016</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref247" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref366">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref250" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. V - Berg, Schoenberg, Webern, Kodaly</unittitle>
-                            <container id="cid18799019" type="Box" label="Media">18</container>
-                            <container parent="cid18799019" type="Media">ID: 395.0017</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref249" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320017" type="Box" label="Audio">18</container>
+                            <container parent="cid19320017" type="Media">ID: 395.0017</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref249" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref367">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref252" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. VI - Bartok, Stravinsky, Dallpiccola, Krenek</unittitle>
-                            <container id="cid18799020" type="Box" label="Media">18</container>
-                            <container parent="cid18799020" type="Media">ID: 395.0018</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref251" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320018" type="Box" label="Audio">18</container>
+                            <container parent="cid19320018" type="Media">ID: 395.0018</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref251" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref368">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref254" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. VII - Boulez, Stockhausen, Berio</unittitle>
-                            <container id="cid18799021" type="Box" label="Media">18</container>
-                            <container parent="cid18799021" type="Media">ID: 395.0019</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref253" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320019" type="Box" label="Audio">18</container>
+                            <container parent="cid19320019" type="Media">ID: 395.0019</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref253" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref369">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref256" level="item">
                         <did>
@@ -1713,170 +1785,246 @@
                             <container id="cid18799022" type="Box" label="Media">18</container>
                             <container parent="cid18799022" type="Media">ID: 395.0020</container>
                             <unitdate>Undated</unitdate>
-                            <physdesc id="ref255" label="General Physical Description note">Format: CD</physdesc>
+                            <physdesc id="ref255" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref370">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref258" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. IX - Early Music - 1952-1962</unittitle>
-                            <container id="cid18799023" type="Box" label="Media">18</container>
-                            <container parent="cid18799023" type="Media">ID: 395.0021</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref257" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320020" type="Box" label="Audio">18</container>
+                            <container parent="cid19320020" type="Media">ID: 395.0021</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref257" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref371">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref260" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. X - Avant Garde period - 1962 - 1969</unittitle>
-                            <container id="cid18799024" type="Box" label="Media">18</container>
-                            <container parent="cid18799024" type="Media">ID: 395.0022</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref259" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320021" type="Box" label="Audio">18</container>
+                            <container parent="cid19320021" type="Media">ID: 395.0022</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref259" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref372">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref262" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. XI - Avant Garde period - 1963 - 1969</unittitle>
-                            <container id="cid18799025" type="Box" label="Media">18</container>
-                            <container parent="cid18799025" type="Media">ID: 395.0023</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref261" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320022" type="Box" label="Audio">18</container>
+                            <container parent="cid19320022" type="Media">ID: 395.0023</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref261" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref373">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref264" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. XII - Later Music - 1982-2004</unittitle>
-                            <container id="cid18799026" type="Box" label="Media">18</container>
-                            <container parent="cid18799026" type="Media">ID: 395.0024</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref263" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320023" type="Box" label="Audio">18</container>
+                            <container parent="cid19320023" type="Media">ID: 395.0024</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref263" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref374">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref266" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. XIII - Later Music - 1982 - 2004</unittitle>
-                            <container id="cid18799027" type="Box" label="Media">18</container>
-                            <container parent="cid18799027" type="Media">ID: 395.0025</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref265" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320024" type="Box" label="Audio">18</container>
+                            <container parent="cid19320024" type="Media">ID: 395.0025</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref265" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref375">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref268" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. XIV - Later Music - 1982 - 2004</unittitle>
-                            <container id="cid18799028" type="Box" label="Media">18</container>
-                            <container parent="cid18799028" type="Media">ID: 395.0026</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref267" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320025" type="Box" label="Audio">18</container>
+                            <container parent="cid19320025" type="Media">ID: 395.0026</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref267" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref376">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref270" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. XV - Later Music - 1982 - 2004</unittitle>
-                            <container id="cid18799029" type="Box" label="Media">18</container>
-                            <container parent="cid18799029" type="Media">ID: 395.0027</container>
+                            <container id="cid19320026" type="Box" label="Audio">18</container>
+                            <container parent="cid19320026" type="Media">ID: 395.0027</container>
                             <unitdate>Undated</unitdate>
-                            <physdesc id="ref269" label="General Physical Description note">Format: CD</physdesc>
+                            <physdesc id="ref269" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref377">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref272" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. XVI - Liana's Song, Sonata for Violin and Piano, Go-Hyang</unittitle>
-                            <container id="cid18799030" type="Box" label="Media">18</container>
-                            <container parent="cid18799030" type="Media">ID: 395.0028</container>
+                            <container id="cid19320027" type="Box" label="Audio">18</container>
+                            <container parent="cid19320027" type="Media">ID: 395.0028</container>
                             <unitdate>Undated</unitdate>
-                            <physdesc id="ref271" label="General Physical Description note">Format: CD</physdesc>
+                            <physdesc id="ref271" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref378">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref274" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. XVII - Azaleas</unittitle>
-                            <container id="cid18799031" type="Box" label="Media">18</container>
-                            <container parent="cid18799031" type="Media">ID: 395.0029</container>
-                            <unitdate>2005</unitdate>
-                            <physdesc id="ref273" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320028" type="Box" label="Audio">18</container>
+                            <container parent="cid19320028" type="Media">ID: 395.0029</container>
+                            <unitdate normal="2005/2005">2005</unitdate>
+                            <physdesc id="ref273" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref379">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref276" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. XVIII - Improvisations and Sonatas</unittitle>
-                            <container id="cid18799032" type="Box" label="Media">18</container>
-                            <container parent="cid18799032" type="Media">ID: 395.0030</container>
-                            <unitdate>2010</unitdate>
-                            <physdesc id="ref275" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320029" type="Box" label="Audio">18</container>
+                            <container parent="cid19320029" type="Media">ID: 395.0030</container>
+                            <unitdate normal="2010/2010">2010</unitdate>
+                            <physdesc id="ref275" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref380">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref278" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. XIX - Songs of David Burge</unittitle>
-                            <container id="cid18799033" type="Box" label="Media">18</container>
-                            <container parent="cid18799033" type="Media">ID: 395.0031</container>
-                            <unitdate>2009</unitdate>
-                            <physdesc id="ref277" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320030" type="Box" label="Audio">18</container>
+                            <container parent="cid19320030" type="Media">ID: 395.0031</container>
+                            <unitdate normal="2009/2009">2009</unitdate>
+                            <physdesc id="ref277" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref381">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref280" level="item">
                         <did>
                             <unittitle>Music by David Burge, Vol. XX - Dances of Love and Laughter</unittitle>
-                            <container id="cid18799034" type="Box" label="Media">18</container>
-                            <container parent="cid18799034" type="Media">ID: 395.0032</container>
-                            <unitdate>2001</unitdate>
-                            <physdesc id="ref279" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320031" type="Box" label="Audio">18</container>
+                            <container parent="cid19320031" type="Media">ID: 395.0032</container>
+                            <unitdate normal="2001/2001">2001</unitdate>
+                            <physdesc id="ref279" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref382">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref282" level="item">
                         <did>
                             <unittitle>Five Chromatic Dances; The Dream Rags - William Albright</unittitle>
-                            <container id="cid18799035" type="Box" label="Media">18</container>
-                            <container parent="cid18799035" type="Media">ID: 395.0033</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref281" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320032" type="Box" label="Audio">18</container>
+                            <container parent="cid19320032" type="Media">ID: 395.0033</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref281" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref383">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref284" level="item">
                         <did>
                             <unittitle>Oh Sorrow, Sing Sorrow, final copy</unittitle>
-                            <container id="cid18799036" type="Box" label="Media">18</container>
-                            <container parent="cid18799036" type="Media">ID: 395.0034</container>
-                            <unitdate>2006</unitdate>
-                            <physdesc id="ref283" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320033" type="Box" label="Audio">18</container>
+                            <container parent="cid19320033" type="Media">ID: 395.0034</container>
+                            <unitdate normal="2006/2006">2006</unitdate>
+                            <physdesc id="ref283" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref384">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref286" level="item">
                         <did>
                             <unittitle>Preludes; Luna Lunera - David Burge1</unittitle>
-                            <container id="cid18799037" type="Box" label="Media">18</container>
-                            <container parent="cid18799037" type="Media">ID: 395.0035</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref285" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320034" type="Box" label="Audio">18</container>
+                            <container parent="cid19320034" type="Media">ID: 395.0035</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref285" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref385">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref288" level="item">
                         <did>
                             <unittitle>Rainbows; Kaleidoscope - David Burge</unittitle>
-                            <container id="cid18799038" type="Box" label="Media">18</container>
-                            <container parent="cid18799038" type="Media">ID: 395.0036</container>
-                            <unitdate>Undated</unitdate>
-                            <physdesc id="ref287" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320035" type="Box" label="Audio">18</container>
+                            <container parent="cid19320035" type="Media">ID: 395.0036</container>
+                            <unitdate>undated</unitdate>
+                            <physdesc id="ref287" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref386">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref290" level="item">
                         <did>
                             <unittitle>Reminiscence - David Burge</unittitle>
-                            <container id="cid18799039" type="Box" label="Media">18</container>
-                            <container parent="cid18799039" type="Media">ID: 395.0037</container>
-                            <unitdate>2005</unitdate>
-                            <physdesc id="ref289" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320036" type="Box" label="Audio">18</container>
+                            <container parent="cid19320036" type="Media">ID: 395.0037</container>
+                            <unitdate normal="2005/2005">2005</unitdate>
+                            <physdesc id="ref289" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref387">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                     <c id="ref292" level="item">
                         <did>
                             <unittitle>Sonata for Violin and Piano - David Burge</unittitle>
-                            <container id="cid18799040" type="Box" label="Media">18</container>
-                            <container parent="cid18799040" type="Media">ID: 395.0038</container>
-                            <unitdate>1999</unitdate>
-                            <physdesc id="ref291" label="General Physical Description note">Format: CD</physdesc>
+                            <container id="cid19320037" type="Box" label="Audio">18</container>
+                            <container parent="cid19320037" type="Media">ID: 395.0038</container>
+                            <unitdate normal="1999/1999">1999</unitdate>
+                            <physdesc id="ref291" label="General Physical Description note">Original format: CD</physdesc>
                         </did>
+                        <accessrestrict id="ref388">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                 </c>
             </c>
