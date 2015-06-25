@@ -11,7 +11,7 @@
                 <author>Finding aid prepared by Rachel Corbman, 2013.</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>© 2012 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -24,8 +24,10 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-08-16T16:12-0400</date>
+                <date>2015-06-25T13:28-0400</date>
             </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
@@ -33,7 +35,7 @@
             <unittitle>Epoxy Art Group Archive</unittitle>
             <unitid>MSS 367</unitid>
             <repository>
-                <corpname>© 2012 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -834,8 +836,15 @@
                         <did>
                             <unittitle>Kwik Stamp II pad</unittitle>
                             <container id="cid18090072" type="Box" label="Mixed materials">5</container>
-                            <container parent="cid18090072" type="Object">ID: 567.2.0005</container>
+                            <container parent="cid18090072" type="Object">ID: 367.2.0005</container>
                             <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref127" level="item">
+                        <did>
+                            <unittitle>Photo collage artwork</unittitle>
+                            <container id="cid18523001" type="item" label="Artworks">ID: 367.2.0006</container>
+                            <container parent="cid18523001" type="Roll-Storage"></container>
                         </did>
                     </c>
                 </c>
@@ -854,15 +863,19 @@
                 </scopecontent>
                 <c id="ref85" level="item">
                     <did>
-                        <unittitle>Subseries A: Audio</unittitle>
+                        <unittitle>Subseries A: Sound recordings</unittitle>
                     </did>
                     <c id="ref87" level="item">
                         <did>
-                            <unittitle>1983 Chinese Artists in NYC at Hammer Quist Gallery</unittitle>
-                            <container id="cid18090073" type="Box" label="Media">5</container>
-                            <container parent="cid18090073" type="Media">ID: 367.0001</container>
-                            <unitdate>1983</unitdate>
+                            <unittitle>Chinese Artists in NYC at Hammer Quist Gallery</unittitle>
+                            <container id="cid19326032" type="Box" label="Audio">5</container>
+                            <container parent="cid19326032" type="Media">ID: 367.0001</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
                         </did>
+                        <accessrestrict id="ref128">
+                            <head>Conditions Governing Access</head>
+                            <p>Currently unavailable until duplication occurs.</p>
+                        </accessrestrict>
                     </c>
                 </c>
             </c>
