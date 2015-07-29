@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid url="http://dlib.nyu.edu/findingaids/html/archives/mediaprodvideo.html">mediaprodvideo</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">        <eadid url="http://dlib.nyu.edu/findingaids/html/archives/mediaprodvideo.html">mediaprodvideo</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Office of Media Production Videotapes, 1983-2007 
@@ -26,7 +25,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-12-18T12:42-0500</date>
+                <date>2014-04-08T14:59-0400</date>
             </creation>
             <langusage>Description is in English.</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
@@ -34,7 +33,7 @@
     </eadheader>
     <archdesc level="collection">
         <did>
-            <unittitle>Office of Media Production Videotapes</unittitle>
+            <unittitle>Records of the Office of Media Production</unittitle>
             <unitid>RG 7.3.4</unitid>
             <repository>
                 <corpname>New York University Archives</corpname>
@@ -87,7 +86,9 @@
         </userestrict>
         <accessrestrict id="ref12">
             <head>Access Restrictions</head>
-            <p>Some restrictions may apply. This collection is in 
+            <p>Some restrictions may apply.</p>
+            <p>Additionally, please be aware that materials in this collection have not been digitized and may not be used in their original format/s. Please contact the University Archives to gain access to these materials. Be aware that it may take up to six weeks to have audiovisual materials digitized for access.</p>
+            <p>This collection is in 
                 <extref ns2:href="http://www.nyu.edu/library/bobst/research/arch/mediaprodvideo.htm">
                     <archref> off-site storage</archref> </extref>.</p>
         </accessrestrict>
@@ -103,11 +104,15 @@
         <dsc>
             <c id="ref14" level="series">
                 <did>
-                    <unittitle>Series I: Videotapes</unittitle>
+                    <unittitle>Series I: Projects</unittitle>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
                 </did>
+                <scopecontent id="ref831">
+                    <head>Scope and contents</head>
+                    <p>This series contains audiovisual materials in a variety of formats, including VHS, Betacam, BetacamSP, UmaticSP, Hi8, and audiocassettes.</p>
+                </scopecontent>
                 <c id="ref15" level="file">
                     <did>
                         <unittitle>NYU: Life in Greenwich Village (Reels 1-20)</unittitle>
@@ -819,11 +824,161 @@
                 </c>
                 <c id="ref101" level="file">
                     <did>
-                        <unittitle>Beat Conference (Reels 1-16)</unittitle>
-                        <container id="cid11646723" type="Box" label="Moving Images (31142042259757)">54</container>
-                        <container parent="cid11646723" type="Folder">Project: 65</container>
-                        <unitdate normal="1983/2000" type="inclusive">undated</unitdate>
+                        <unittitle>Beat Conference (Project 0065)</unittitle>
+                        <container id="cid11930002" type="Box" label="Mixed materials">54</container>
+                        <container parent="cid11930002" type="Folder">Reels 1-16</container>
+                        <unitdate normal="1994/1994">1994</unitdate>
                     </did>
+                    <altformavail id="ref849">
+                        <head>Digital surrogates available</head>
+                        <p>All of the audiovisual materials created as a part of this project have been digitized. Please contact the University Archives for information regarding access to digitized audiovisual materials.</p>
+                    </altformavail>
+                    <c id="ref832" level="item">
+                        <did>
+                            <unittitle>Pitch Reel Master</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900001" type="Box" label="Moving Images">54</container>
+                            <container parent="cid11900001" type="Reel">1</container>
+                            <physdesc>
+                                <extent>1.0 videocassettes (U-matic)</extent>
+                            </physdesc>
+                            <unitdate normal="1994/1994">1994 May 19</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref833" level="item">
+                        <did>
+                            <unittitle>Pitch Reel Dub</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900002" type="Box" label="Moving Images">54</container>
+                            <container parent="cid11900002" type="Reel">2</container>
+                            <physdesc>
+                                <extent>1.0 videocassettes (U-matic)</extent>
+                            </physdesc>
+                            <unitdate normal="1994/1994">1994</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref834" level="item">
+                        <did>
+                            <unittitle>B-Roll, Town Hall Gala Poetry Reading and Concert</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900003" type="Box" label="Moving Images">54</container>
+                            <container parent="cid11900003" type="Reel">3</container>
+                            <physdesc>
+                                <extent>1.0 videocassettes (U-matic)</extent>
+                            </physdesc>
+                            <unitdate normal="1994/1994">1994 May 19</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref835" level="item">
+                        <did>
+                            <unittitle>Marathon Reading</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900012" type="Box" label="Moving Images">54</container>
+                            <container parent="cid11900012" type="Reel">4</container>
+                            <physdesc>
+                                <extent>1.0 videocassettes (Betacam)</extent>
+                            </physdesc>
+                            <unitdate>1994 May 22</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref836" level="item">
+                        <did>
+                            <unittitle>Beat Generation Conference CBS/CNN</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900004" type="Box" label="Moving Images">54</container>
+                            <container parent="cid11900004" type="Reel">5-7</container>
+                            <physdesc>
+                                <extent>3.0 videocassettes (VHS)</extent>
+                            </physdesc>
+                            <unitdate normal="1994/1994">1994</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref837" level="item">
+                        <did>
+                            <unittitle>Beat Conference: Performance at Town Hall</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900005" type="Box" label="Moving Images">54</container>
+                            <container parent="cid11900005" type="Reel">8-9</container>
+                            <physdesc>
+                                <extent>2.0 videocassettes (Hi8)</extent>
+                            </physdesc>
+                            <unitdate>1994 May 19</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref839" level="item">
+                        <did>
+                            <unittitle>Beat Conference: Rowe/McNeely Computer Jazz</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900008" type="Box" label="Audio">54</container>
+                            <container parent="cid11900008" type="Reel">10</container>
+                            <physdesc>
+                                <extent>1.0 sound cassettes</extent>
+                            </physdesc>
+                            <unitdate normal="1992/1992">1992 November 2</unitdate>
+                            <physdesc id="ref840" label="Physical facet">
+                                <physfacet>While this tape is labeled Project 0065, it is not clear that this content relates to that project.</physfacet>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c id="ref841" level="item">
+                        <did>
+                            <unittitle>Beat Conference: Beat Generation on NPR</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900009" type="Box" label="Audio">54</container>
+                            <container parent="cid11900009" type="Reel">10-13</container>
+                            <physdesc>
+                                <extent>4.0 sound cassettes</extent>
+                            </physdesc>
+                            <unitdate normal="1994/1994">1994</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref842" level="item">
+                        <did>
+                            <unittitle>Open Video without Titles and Close</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900010" type="Box" label="Moving Images">54</container>
+                            <container parent="cid11900010" type="Reel">14</container>
+                            <physdesc>
+                                <extent>1.0 videocassettes (BetacamSP)</extent>
+                            </physdesc>
+                            <unitdate normal="1994/1994">1994</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref843" level="item">
+                        <did>
+                            <unittitle>Town Hall Performance</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900011" type="Box" label="Moving Images">54</container>
+                            <container parent="cid11900011" type="Reel">15-16</container>
+                            <physdesc>
+                                <extent>2.0 videocassettes (BetacamSP)</extent>
+                            </physdesc>
+                            <unitdate normal="1994/1994">1994 May 19</unitdate>
+                            <physdesc id="ref844" label="Physical facet">
+                                <physfacet>Production element: Beta Dub of Hi8 master.</physfacet>
+                            </physdesc>
+                        </did>
+                    </c>
                 </c>
                 <c id="ref102" level="file">
                     <did>
@@ -4266,11 +4421,39 @@
                 </c>
                 <c id="ref505" level="file">
                     <did>
-                        <unittitle>Beat Conference (17-20)</unittitle>
-                        <container id="cid11646326" type="Box" label="Moving Images (31142042261811)">146</container>
-                        <container parent="cid11646326" type="Folder">Project 65</container>
-                        <unitdate normal="1994/1994">1994</unitdate>
+                        <unittitle>Beat Conference (Project 0065)</unittitle>
                     </did>
+                    <c id="ref845" level="item">
+                        <did>
+                            <unittitle>Town Hall Performance</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900006" type="Box" label="Moving Images">146</container>
+                            <container parent="cid11900006" type="Reel">17-18</container>
+                            <physdesc>
+                                <extent>2.0 videocassettes (BetacamSP)</extent>
+                            </physdesc>
+                            <unitdate normal="1994/1994">1994 May 19</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref846" level="item">
+                        <did>
+                            <unittitle>Loeb Concert</unittitle>
+                            <langmaterial>
+                                <language langcode="eng"/>
+                            </langmaterial>
+                            <container id="cid11900007" type="Box" label="Moving Images">146</container>
+                            <container parent="cid11900007" type="Reel">19-20</container>
+                            <physdesc>
+                                <extent>2.0 videocassettes (BetacamSP)</extent>
+                            </physdesc>
+                            <unitdate normal="1994/1994">1994</unitdate>
+                            <physdesc id="ref847" label="Physical facet">
+                                <physfacet>Production element: Master</physfacet>
+                            </physdesc>
+                        </did>
+                    </c>
                 </c>
                 <c id="ref506" level="file">
                     <did>
@@ -6719,6 +6902,16 @@
                         <unitdate>Undated</unitdate>
                     </did>
                 </c>
+                <c id="ref848" level="file">
+                    <did>
+                        <unittitle>Project 0206</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid11911001" type="Box" label="Mixed materials">194</container>
+                        <container parent="cid11911001" type="Folder">Project 0206</container>
+                    </did>
+                </c>
                 <c id="ref759" level="file">
                     <did>
                         <unittitle>Stock Archival Footage - Historic Films (Reel 1)</unittitle>
@@ -7367,7 +7560,7 @@
                 </c>
                 <c id="ref822" level="file">
                     <did>
-                        <unittitle>175th Anniversary Documentary (Reels 1, 2, 5, 6, 9-13, 15-18, 22, 36,37, 38, 47, 51, 52, 58, 60, 61, 86-91, 97, 98, 99, 100, 101, 132-136</unittitle>
+                        <unittitle>175th Anniversary Documentary (Reels 1, 2, 5, 6, 9-13, 15-18, 22, 36,37, 38, 47, 51, 52, 58, 60, 61, 62, 86-91, 97, 98, 99, 100, 101, 118, 132-136</unittitle>
                         <langmaterial>
                             <language langcode="eng"/>
                         </langmaterial>
@@ -7378,7 +7571,7 @@
                 </c>
                 <c id="ref823" level="file">
                     <did>
-                        <unittitle>175th Anniversary Documentary (Reels 68, 74, 112, 119-126, 129, 130, 137-139, 142, 147, 149-156, 160, 162, 166)</unittitle>
+                        <unittitle>175th Anniversary Documentary (Reels 68, 71, 73, 74, 112, 118, 119-126, 129, 130, 137-139, 149-156, 159, 160, 162, 166)</unittitle>
                         <langmaterial>
                             <language langcode="eng"/>
                         </langmaterial>
