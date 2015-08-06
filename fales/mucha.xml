@@ -25,8 +25,10 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-12-12T12:38-0500</date>
+                <date>2015-08-06T15:03-0400</date>
             </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
@@ -98,12 +100,12 @@
             <persname source="naf" role="Artist (art)">Brainard, Joe, 1942-1994</persname>
             <persname source="naf" role="Artist (art)">Corso, Gregory</persname>
             <persname source="naf" role="Artist (art)">Dupuy, Jean, 1925 -</persname>
-            <persname source="naf" role="Artist (art)">Dylan, Bob, b. 1941 </persname>
+            <persname rules="dacs" source="naf" role="Artist (art)">Dylan, Bob, 1941 -</persname>
             <persname source="naf" role="Artist (art)">Elmslie, Kenward</persname>
             <persname source="naf" role="Artist (art)">Ginsberg, Allen, 1926-1997</persname>
             <persname source="naf" role="Artist (art)">Giorno, John</persname>
             <persname source="naf" role="Artist (art)">Hay, Deborah, 1941-</persname>
-            <persname source="naf" role="Artist (art)">Hell, Richard</persname>
+            <persname rules="aacr" source="naf" role="Artist (art)">Hell, Richard</persname>
             <persname source="naf" role="Artist (art)">Johns, Jasper, 1930-</persname>
             <persname source="naf" role="Artist (art)">Johnson, Ray, 1927-1995</persname>
             <persname source="naf" role="Artist (art)">Kligman, Ruth</persname>
@@ -2637,23 +2639,31 @@
                 <c id="ref370" level="item">
                     <did>
                         <unittitle>Fiddlers Contest - Picture Craftsbury</unittitle>
-                        <container id="cid17733001" type="Box" label="Media">8</container>
-                        <container parent="cid17733001" type="Media">ID: 342.0001</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19339016" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339016" type="Media">ID: 342.0001</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref371">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [400 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref682">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref373" level="item">
                     <did>
-                        <unittitle>Sync - OT [Fiddlers]</unittitle>
-                        <container id="cid17733002" type="Box" label="Media">8</container>
-                        <container parent="cid17733002" type="Media">ID: 342.0002</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Sync - OT (Fiddlers)</unittitle>
+                        <container id="cid19339017" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339017" type="Media">ID: 342.0002</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref683">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref372">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -2662,24 +2672,32 @@
                 </c>
                 <c id="ref375" level="item">
                     <did>
-                        <unittitle>Out takes [Fiddlers]</unittitle>
-                        <container id="cid17733003" type="Box" label="Media">8</container>
-                        <container parent="cid17733003" type="Media">ID: 342.0003</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Out takes (Fiddlers)</unittitle>
+                        <container id="cid19339018" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339018" type="Media">ID: 342.0003</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref374">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref684">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref381" level="item">
                     <did>
-                        <unittitle>Out takes [Fiddlers] / [The Move]</unittitle>
-                        <container id="cid17733006" type="Box" label="Media">8</container>
-                        <container parent="cid17733006" type="Media">ID: 342.0004</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Out takes (Fiddlers) / The Move</unittitle>
+                        <container id="cid19339019" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339019" type="Media">ID: 342.0004</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref685">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref380">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -2688,37 +2706,49 @@
                 </c>
                 <c id="ref384" level="item">
                     <did>
-                        <unittitle>Cuts - OT [Fiddlers] / [Experiments con...]</unittitle>
-                        <container id="cid17733007" type="Box" label="Media">8</container>
-                        <container parent="cid17733007" type="Media">ID: 342.0005</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Cuts - OT (Fiddlers) / Experiments con...</unittitle>
+                        <container id="cid19339020" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339020" type="Media">ID: 342.0005</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref383">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [200 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref686">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref386" level="item">
                     <did>
-                        <unittitle>OT [Fiddlers]</unittitle>
-                        <container id="cid17733008" type="Box" label="Media">8</container>
-                        <container parent="cid17733008" type="Media">ID: 342.0006</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>OT (Fiddlers)</unittitle>
+                        <container id="cid19339021" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339021" type="Media">ID: 342.0006</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref385">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [400 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref687">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref388" level="item">
                     <did>
-                        <unittitle>OT - [Rev - Browne]</unittitle>
-                        <container id="cid17733009" type="Box" label="Media">8</container>
-                        <container parent="cid17733009" type="Media">ID: 342.0007</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>OT - (Rev - Browne)</unittitle>
+                        <container id="cid19339022" type="Box" label="Moving Images">8 </container>
+                        <container parent="cid19339022" type="Media">ID: 342.0007</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref688">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref387">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -2728,127 +2758,167 @@
                 <c id="ref390" level="item">
                     <did>
                         <unittitle>Fiddlers</unittitle>
-                        <container id="cid17733010" type="Box" label="Media">8</container>
-                        <container parent="cid17733010" type="Media">ID: 342.0008</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19339023" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339023" type="Media">ID: 342.0008</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref689">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref389">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: 1/4 " Audio Reel</p>
+                        <p>Original format: 1/4 " Audio Reel</p>
                         <p>Length: [380 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref392" level="item">
                     <did>
-                        <unittitle>Music - I [Fiddlers]</unittitle>
-                        <container id="cid17733011" type="Box" label="Media">8</container>
-                        <container parent="cid17733011" type="Media">ID: 342.0009</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Music - I (Fiddlers)</unittitle>
+                        <container id="cid19339024" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339024" type="Media">ID: 342.0009</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref690">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref391">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: 1/4 " Audio Reel</p>
+                        <p>Original format: 1/4 " Audio Reel</p>
                         <p>Length: [300 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref394" level="item">
                     <did>
-                        <unittitle>Voice - 2 [Fiddlers]</unittitle>
-                        <container id="cid17733012" type="Box" label="Media">8</container>
-                        <container parent="cid17733012" type="Media">ID: 342.0010</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Voice - 2 (Fiddlers)</unittitle>
+                        <container id="cid19339025" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339025" type="Media">ID: 342.0010</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref691">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref393">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: 1/4 " Audio Reel</p>
+                        <p>Original format: 1/4 " Audio Reel</p>
                         <p>Length: [300 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref396" level="item">
                     <did>
-                        <unittitle>Tape #1 - A [Fiddlers]</unittitle>
-                        <container id="cid17733013" type="Box" label="Media">8</container>
-                        <container parent="cid17733013" type="Media">ID: 342.0011</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Tape #1 - A (Fiddlers)</unittitle>
+                        <container id="cid19339026" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339026" type="Media">ID: 342.0011</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref692">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref395">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: 1/4 " Audio Reel</p>
+                        <p>Original format: 1/4 " Audio Reel</p>
                         <p>Length: [400 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref398" level="item">
                     <did>
-                        <unittitle>Tape #1 - B [Fiddlers]</unittitle>
-                        <container id="cid17733014" type="Box" label="Media">8</container>
-                        <container parent="cid17733014" type="Media">ID: 342.0012</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Tape #1 - B (Fiddlers)</unittitle>
+                        <container id="cid19339027" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339027" type="Media">ID: 342.0012</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref693">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref397">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: 1/4 " Audio Reel</p>
+                        <p>Original format: 1/4 " Audio Reel</p>
                         <p>Length: [400 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref400" level="item">
                     <did>
-                        <unittitle>Tape #2 - A + B [Fiddlers]</unittitle>
-                        <container id="cid17733015" type="Box" label="Media">8</container>
-                        <container parent="cid17733015" type="Media">ID: 342.0013</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Tape #2 - A + B (Fiddlers)</unittitle>
+                        <container id="cid19339028" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339028" type="Media">ID: 342.0013</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref694">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref399">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: 1/4 " Audio Reel</p>
+                        <p>Original format: 1/4 " Audio Reel</p>
                         <p>Length: [250 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref402" level="item">
                     <did>
-                        <unittitle>Tape #3 - A - Tape 4 - A [Fiddlers]</unittitle>
-                        <container id="cid17733016" type="Box" label="Media">8</container>
-                        <container parent="cid17733016" type="Media">ID: 342.0014</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Tape #3 - A - Tape 4 - A (Fiddlers)</unittitle>
+                        <container id="cid19339029" type="Box" label="Moving Images">8</container>
+                        <container parent="cid19339029" type="Media">ID: 342.0014</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref695">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref401">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: 1/4 " Audio Reel</p>
+                        <p>Original format: 1/4 " Audio Reel</p>
                         <p>Length: [250 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref404" level="item">
                     <did>
                         <unittitle>Jay</unittitle>
-                        <container id="cid17733017" type="Box" label="Media">9</container>
-                        <container parent="cid17733017" type="Media">ID: 342.0015</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19339030" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19339030" type="Media">ID: 342.0015</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref403">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: 16mm</p>
                         <p>Length: [400 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref696">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref406" level="item">
                     <did>
-                        <unittitle>O.T. [Olga V.T.]</unittitle>
-                        <container id="cid17733018" type="Box" label="Media">9</container>
-                        <container parent="cid17733018" type="Media">ID: 342.0016</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>O.T. (Olga V.T.)</unittitle>
+                        <container id="cid19339031" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19339031" type="Media">ID: 342.0016</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref405">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: 16mm</p>
                         <p>Length: [250 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref697">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref408" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733019" type="Box" label="Media">9</container>
-                        <container parent="cid17733019" type="Media">ID: 342.0017</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19339032" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19339032" type="Media">ID: 342.0017</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref698">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref407">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: 16mm</p>
@@ -2857,10 +2927,10 @@
                 </c>
                 <c id="ref410" level="item">
                     <did>
-                        <unittitle>[Prim]</unittitle>
-                        <container id="cid17733020" type="Box" label="Media">9</container>
-                        <container parent="cid17733020" type="Media">ID: 342.0018</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Prim</unittitle>
+                        <container id="cid19339033" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19339033" type="Media">ID: 342.0018</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref409">
                         <head>Physical Characteristics and Technical Requirements note</head>
@@ -2871,23 +2941,31 @@
                 <c id="ref412" level="item">
                     <did>
                         <unittitle>Danville Fair - 77</unittitle>
-                        <container id="cid17733021" type="Box" label="Media">9</container>
-                        <container parent="cid17733021" type="Media">ID: 342.0019</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19340001" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19340001" type="Media">ID: 342.0019</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref411">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [300 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref699">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref414" level="item">
                     <did>
                         <unittitle>Golfing</unittitle>
-                        <container id="cid17733022" type="Box" label="Media">9</container>
-                        <container parent="cid17733022" type="Media">ID: 342.0020</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19340002" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19340002" type="Media">ID: 342.0020</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref700">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref413">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -2897,10 +2975,14 @@
                 <c id="ref416" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733023" type="Box" label="Media">9</container>
-                        <container parent="cid17733023" type="Media">ID: 342.0021</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19340003" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19340003" type="Media">ID: 342.0021</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref701">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref415">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -2910,10 +2992,14 @@
                 <c id="ref418" level="item">
                     <did>
                         <unittitle>Patty's footage from international House</unittitle>
-                        <container id="cid17733024" type="Box" label="Media">9</container>
-                        <container parent="cid17733024" type="Media">ID: 342.0022</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19340004" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19340004" type="Media">ID: 342.0022</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref702">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref417">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -2922,11 +3008,15 @@
                 </c>
                 <c id="ref420" level="item">
                     <did>
-                        <unittitle>[Stuart Ploury]</unittitle>
-                        <container id="cid17733025" type="Box" label="Media">9</container>
-                        <container parent="cid17733025" type="Media">ID: 342.0023</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Stuart Ploury</unittitle>
+                        <container id="cid19340005" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19340005" type="Media">ID: 342.0023</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref703">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref419">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -2936,10 +3026,14 @@
                 <c id="ref422" level="item">
                     <did>
                         <unittitle>Icycles</unittitle>
-                        <container id="cid17733026" type="Box" label="Media">9</container>
-                        <container parent="cid17733026" type="Media">ID: 342.0024</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19341001" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341001" type="Media">ID: 342.0024</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref704">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref421">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -2948,24 +3042,32 @@
                 </c>
                 <c id="ref424" level="item">
                     <did>
-                        <unittitle>Benefit Party [Craig]</unittitle>
-                        <container id="cid17733027" type="Box" label="Media">9</container>
-                        <container parent="cid17733027" type="Media">ID: 342.0025</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Benefit Party (Craig)</unittitle>
+                        <container id="cid19341002" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341002" type="Media">ID: 342.0025</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref423">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref705">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref426" level="item">
                     <did>
                         <unittitle>Craig/ Charlie "Wood"</unittitle>
-                        <container id="cid17733028" type="Box" label="Media">9</container>
-                        <container parent="cid17733028" type="Media">ID: 342.0026</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19341003" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341003" type="Media">ID: 342.0026</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref706">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref425">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -2975,10 +3077,14 @@
                 <c id="ref428" level="item">
                     <did>
                         <unittitle>Game Un-Edited</unittitle>
-                        <container id="cid17733029" type="Box" label="Media">9</container>
-                        <container parent="cid17733029" type="Media">ID: 342.0027</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19341004" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341004" type="Media">ID: 342.0027</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref707">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref427">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -2988,10 +3094,14 @@
                 <c id="ref430" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733030" type="Box" label="Media">9</container>
-                        <container parent="cid17733030" type="Media">ID: 342.0028</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19341005" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341005" type="Media">ID: 342.0028</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref708">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref429">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3001,10 +3111,14 @@
                 <c id="ref432" level="item">
                     <did>
                         <unittitle>Buidling</unittitle>
-                        <container id="cid17733031" type="Box" label="Media">9</container>
-                        <container parent="cid17733031" type="Media">ID: 342.0029</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19341006" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341006" type="Media">ID: 342.0029</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref709">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref431">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3014,10 +3128,14 @@
                 <c id="ref434" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733032" type="Box" label="Media">9</container>
-                        <container parent="cid17733032" type="Media">ID: 342.0030</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19341007" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341007" type="Media">ID: 342.0030</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref710">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref433">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3026,76 +3144,100 @@
                 </c>
                 <c id="ref436" level="item">
                     <did>
-                        <unittitle>[Jack] [Fiddlers]</unittitle>
-                        <container id="cid17733033" type="Box" label="Media">9</container>
-                        <container parent="cid17733033" type="Media">ID: 342.0031</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Jack Fiddlers</unittitle>
+                        <container id="cid19341008" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341008" type="Media">ID: 342.0031</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref711">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref435">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: Full coat mag soundtrack with perforations</p>
+                        <p>Original format: Full coat mag soundtrack with perforations</p>
                         <p>Length: [20 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref438" level="item">
                     <did>
-                        <unittitle>Beginning [r.g.]</unittitle>
-                        <container id="cid17733034" type="Box" label="Media">9</container>
-                        <container parent="cid17733034" type="Media">ID: 342.0034</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Beginning (r.g.)</unittitle>
+                        <container id="cid19341009" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341009" type="Media">ID: 342.0034</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref712">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref437">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: Full coat mag soundtrack with perforations</p>
+                        <p>Original format: Full coat mag soundtrack with perforations</p>
                         <p>Length: [20 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref440" level="item">
                     <did>
-                        <unittitle>Out 2 - B +C [Fiddlers]</unittitle>
-                        <container id="cid17733035" type="Box" label="Media">9</container>
-                        <container parent="cid17733035" type="Media">ID: 342.0035</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Out 2 - B +C (Fiddlers)</unittitle>
+                        <container id="cid19341010" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341010" type="Media">ID: 342.0035</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref713">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref439">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: Full coat mag soundtrack with perforations</p>
+                        <p>Original format: Full coat mag soundtrack with perforations</p>
                         <p>Length: [10 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref442" level="item">
                     <did>
                         <unittitle>Sound Pcs</unittitle>
-                        <container id="cid17733036" type="Box" label="Media">9</container>
-                        <container parent="cid17733036" type="Media">ID: 342.0036</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19341011" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341011" type="Media">ID: 342.0036</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref714">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref441">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: Full coat mag soundtrack with perforations</p>
+                        <p>Original format: Full coat mag soundtrack with perforations</p>
                         <p>Length: [20 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref444" level="item">
                     <did>
-                        <unittitle>Banjoe [Fiddlers]</unittitle>
-                        <container id="cid17733037" type="Box" label="Media">9</container>
-                        <container parent="cid17733037" type="Media">ID: 342.0038</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Banjoe (Fiddlers)</unittitle>
+                        <container id="cid19341012" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341012" type="Media">ID: 342.0038</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref715">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref443">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: Full coat mag soundtrack with perforations</p>
+                        <p>Original format: Full coat mag soundtrack with perforations</p>
                         <p>Length: [20 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref446" level="item">
                     <did>
-                        <unittitle>Out 2 - B [Fiddlers]</unittitle>
-                        <container id="cid17733038" type="Box" label="Media">9</container>
-                        <container parent="cid17733038" type="Media">ID: 342.0032</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Out 2 - B (Fiddlers)</unittitle>
+                        <container id="cid19341013" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341013" type="Media">ID: 342.0032</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref716">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref445">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3105,10 +3247,14 @@
                 <c id="ref448" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733039" type="Box" label="Media">9</container>
-                        <container parent="cid17733039" type="Media">ID: 342.0033</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19341014" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341014" type="Media">ID: 342.0033</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref717">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref447">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3117,11 +3263,15 @@
                 </c>
                 <c id="ref450" level="item">
                     <did>
-                        <unittitle>Banjoe [Fiddlers]</unittitle>
-                        <container id="cid17733040" type="Box" label="Media">9</container>
-                        <container parent="cid17733040" type="Media">ID: 342.0037</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Banjoe (Fiddlers)</unittitle>
+                        <container id="cid19341015" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341015" type="Media">ID: 342.0037</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref718">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref449">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3131,23 +3281,31 @@
                 <c id="ref452" level="item">
                     <did>
                         <unittitle>Kirst</unittitle>
-                        <container id="cid17733041" type="Box" label="Media">9</container>
-                        <container parent="cid17733041" type="Media">ID: 342.0039</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19341016" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341016" type="Media">ID: 342.0039</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref451">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [1 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref719">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref454" level="item">
                     <did>
-                        <unittitle>[Rainy K]</unittitle>
-                        <container id="cid17733042" type="Box" label="Media">9</container>
-                        <container parent="cid17733042" type="Media">ID: 342.0040</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Rainy K</unittitle>
+                        <container id="cid19341017" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19341017" type="Media">ID: 342.0040</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref720">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref453">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3157,49 +3315,65 @@
                 <c id="ref456" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733043" type="Box" label="Media">9</container>
-                        <container parent="cid17733043" type="Media">ID: 342.0041</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19342001" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19342001" type="Media">ID: 342.0041</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref455">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [50 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref721">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref458" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733044" type="Box" label="Media">9</container>
-                        <container parent="cid17733044" type="Media">ID: 342.0042</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343001" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19343001" type="Media">ID: 342.0042</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref722">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref457">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: 1/4 " Audio Reel</p>
+                        <p>Original format: 1/4 " Audio Reel</p>
                         <p>Length: [300 ft.]</p>
                     </phystech>
                 </c>
                 <c id="ref460" level="item">
                     <did>
                         <unittitle>Chez Bloom - Turn Back</unittitle>
-                        <container id="cid17733045" type="Box" label="Media">9</container>
-                        <container parent="cid17733045" type="Media">ID: 342.0043</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343002" type="Box" label="Moving Images">9</container>
+                        <container parent="cid19343002" type="Media">ID: 342.0043</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref459">
                         <head>Physical Characteristics and Technical Requirements note</head>
-                        <p>Format: 1/4 " Audio Reel</p>
+                        <p>Original format: 1/4 " Audio Reel</p>
                         <p>Length: [300 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref723">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref462" level="item">
                     <did>
-                        <unittitle>[London St snow sculpt]</unittitle>
-                        <container id="cid17733046" type="Box" label="Media">10</container>
-                        <container parent="cid17733046" type="Media">ID: 342.0044</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>London St snow sculpt</unittitle>
+                        <container id="cid19343003" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343003" type="Media">ID: 342.0044</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref724">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref461">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3208,11 +3382,15 @@
                 </c>
                 <c id="ref464" level="item">
                     <did>
-                        <unittitle>[London St snow- Dogs]</unittitle>
-                        <container id="cid17733047" type="Box" label="Media">10</container>
-                        <container parent="cid17733047" type="Media">ID: 342.0045</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>London St snow- Dogs</unittitle>
+                        <container id="cid19343004" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343004" type="Media">ID: 342.0045</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref725">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref463">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3221,89 +3399,117 @@
                 </c>
                 <c id="ref466" level="item">
                     <did>
-                        <unittitle>[Tom's Cluilrer House]</unittitle>
-                        <container id="cid17733048" type="Box" label="Media">10</container>
-                        <container parent="cid17733048" type="Media">ID: 342.0046</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Tom's Cluilrer House</unittitle>
+                        <container id="cid19343005" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343005" type="Media">ID: 342.0046</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref465">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref726">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref468" level="item">
                     <did>
                         <unittitle>Al Tai Chi</unittitle>
-                        <container id="cid17733049" type="Box" label="Media">10</container>
-                        <container parent="cid17733049" type="Media">ID: 342.0047</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343006" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343006" type="Media">ID: 342.0047</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref467">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref727">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref470" level="item">
                     <did>
-                        <unittitle>Work day [stemp]</unittitle>
-                        <container id="cid17733050" type="Box" label="Media">10</container>
-                        <container parent="cid17733050" type="Media">ID: 342.0048</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Work day (stemp)</unittitle>
+                        <container id="cid19343007" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343007" type="Media">ID: 342.0048</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref469">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref728">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref472" level="item">
                     <did>
                         <unittitle>W+S workday</unittitle>
-                        <container id="cid17733051" type="Box" label="Media">10</container>
-                        <container parent="cid17733051" type="Media">ID: 342.0049</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343008" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343008" type="Media">ID: 342.0049</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref471">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref729">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref474" level="item">
                     <did>
-                        <unittitle>Close up of [Jeff]</unittitle>
-                        <container id="cid17733052" type="Box" label="Media">10</container>
-                        <container parent="cid17733052" type="Media">ID: 342.0050</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Close up of (Jeff)</unittitle>
+                        <container id="cid19343009" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343009" type="Media">ID: 342.0050</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref473">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [10 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref730">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref476" level="item">
                     <did>
-                        <unittitle>[Wader Sees], work day - [Every peudedler the words]</unittitle>
-                        <container id="cid17733053" type="Box" label="Media">10</container>
-                        <container parent="cid17733053" type="Media">ID: 342.0051</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Wader Sees, work day - Every peudedler the words</unittitle>
+                        <container id="cid19343010" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343010" type="Media">ID: 342.0051</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref475">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref731">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref478" level="item">
                     <did>
-                        <unittitle>Game - Sam + [Jim]</unittitle>
-                        <container id="cid17733054" type="Box" label="Media">10</container>
-                        <container parent="cid17733054" type="Media">ID: 342.0052</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Game - Sam + Jim</unittitle>
+                        <container id="cid19343011" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343011" type="Media">ID: 342.0052</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref732">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref477">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3312,37 +3518,49 @@
                 </c>
                 <c id="ref480" level="item">
                     <did>
-                        <unittitle>Sunflower at [garden]</unittitle>
-                        <container id="cid17733055" type="Box" label="Media">10</container>
-                        <container parent="cid17733055" type="Media">ID: 342.0053</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Sunflower at garden</unittitle>
+                        <container id="cid19343012" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343012" type="Media">ID: 342.0053</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref479">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref733">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref482" level="item">
                     <did>
                         <unittitle>VT. Patty</unittitle>
-                        <container id="cid17733056" type="Box" label="Media">10</container>
-                        <container parent="cid17733056" type="Media">ID: 342.0054</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343013" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343013" type="Media">ID: 342.0054</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref481">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref734">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref484" level="item">
                     <did>
                         <unittitle>Game B/W</unittitle>
-                        <container id="cid17733057" type="Box" label="Media">10</container>
-                        <container parent="cid17733057" type="Media">ID: 342.0055</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343014" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343014" type="Media">ID: 342.0055</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref735">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref483">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3352,49 +3570,65 @@
                 <c id="ref486" level="item">
                     <did>
                         <unittitle>India Patty</unittitle>
-                        <container id="cid17733058" type="Box" label="Media">10</container>
-                        <container parent="cid17733058" type="Media">ID: 342.0056</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343015" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343015" type="Media">ID: 342.0056</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref485">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [20 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref736">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref488" level="item">
                     <did>
-                        <unittitle>India (Patty), Sound [works]</unittitle>
-                        <container id="cid17733059" type="Box" label="Media">10</container>
-                        <container parent="cid17733059" type="Media">ID: 342.0057</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>India (Patty), Sound (works)</unittitle>
+                        <container id="cid19343016" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343016" type="Media">ID: 342.0057</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref487">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [10 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref737">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref490" level="item">
                     <did>
-                        <unittitle>Susan [Rutcand] Patty</unittitle>
-                        <container id="cid17733060" type="Box" label="Media">10</container>
-                        <container parent="cid17733060" type="Media">ID: 342.0058</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Susan Rutcand Patty</unittitle>
+                        <container id="cid19343017" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343017" type="Media">ID: 342.0058</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref489">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [50 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref738">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref492" level="item">
                     <did>
                         <unittitle>Game? Patty</unittitle>
-                        <container id="cid17733061" type="Box" label="Media">10</container>
-                        <container parent="cid17733061" type="Media">ID: 342.0059</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343018" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343018" type="Media">ID: 342.0059</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref739">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref491">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3403,11 +3637,15 @@
                 </c>
                 <c id="ref494" level="item">
                     <did>
-                        <unittitle>Kittens Inside &amp; out</unittitle>
-                        <container id="cid17733062" type="Box" label="Media">10</container>
-                        <container parent="cid17733062" type="Media">ID: 342.0060</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Kittens Inside &amp; Out</unittitle>
+                        <container id="cid19343019" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343019" type="Media">ID: 342.0060</container>
+                        <unitdate>undated</unitdate>
                     </did>
+                    <accessrestrict id="ref740">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                     <phystech id="ref493">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
@@ -3417,340 +3655,444 @@
                 <c id="ref496" level="item">
                     <did>
                         <unittitle>Boddy and Kitten - INS</unittitle>
-                        <container id="cid17733063" type="Box" label="Media">10</container>
-                        <container parent="cid17733063" type="Media">ID: 342.0061</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343020" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343020" type="Media">ID: 342.0061</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref495">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [50 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref741">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref498" level="item">
                     <did>
-                        <unittitle>Jay [Cravs]</unittitle>
-                        <container id="cid17733064" type="Box" label="Media">10</container>
-                        <container parent="cid17733064" type="Media">ID: 342.0062</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Jay (Cravs)</unittitle>
+                        <container id="cid19343021" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343021" type="Media">ID: 342.0062</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref497">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [50 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref742">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref500" level="item">
                     <did>
                         <unittitle>Jay - Cherry Valley (NY)</unittitle>
-                        <container id="cid17733065" type="Box" label="Media">10</container>
-                        <container parent="cid17733065" type="Media">ID: 342.0063</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343022" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343022" type="Media">ID: 342.0063</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref499">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref743">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref502" level="item">
                     <did>
-                        <unittitle>Patty's [weth] blumps</unittitle>
-                        <container id="cid17733066" type="Box" label="Media">10</container>
-                        <container parent="cid17733066" type="Media">ID: 342.0064</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Patty's weth blumps</unittitle>
+                        <container id="cid19343023" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343023" type="Media">ID: 342.0064</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref501">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref744">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref504" level="item">
                     <did>
-                        <unittitle>Patty [Owls + Hawock]</unittitle>
-                        <container id="cid17733067" type="Box" label="Media">10</container>
-                        <container parent="cid17733067" type="Media">ID: 342.0065</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Patty (Owls + Hawock)</unittitle>
+                        <container id="cid19343024" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343024" type="Media">ID: 342.0065</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref503">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref745">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref506" level="item">
                     <did>
                         <unittitle>Patty L.I. Expressway</unittitle>
-                        <container id="cid17733068" type="Box" label="Media">10</container>
-                        <container parent="cid17733068" type="Media">ID: 342.0066</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343025" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343025" type="Media">ID: 342.0066</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref505">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref746">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref508" level="item">
                     <did>
                         <unittitle>Cats NY</unittitle>
-                        <container id="cid17733069" type="Box" label="Media">10</container>
-                        <container parent="cid17733069" type="Media">ID: 342.0067</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343026" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343026" type="Media">ID: 342.0067</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref507">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [20 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref747">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref510" level="item">
                     <did>
-                        <unittitle>Out of [Clae's] window</unittitle>
-                        <container id="cid17733070" type="Box" label="Media">10</container>
-                        <container parent="cid17733070" type="Media">ID: 342.0068</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Out of Clae's window</unittitle>
+                        <container id="cid19343027" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343027" type="Media">ID: 342.0068</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref509">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref748">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref512" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733071" type="Box" label="Media">10</container>
-                        <container parent="cid17733071" type="Media">ID: 342.0069</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343028" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343028" type="Media">ID: 342.0069</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref511">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref749">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref514" level="item">
                     <did>
                         <unittitle>Kittens inside</unittitle>
-                        <container id="cid17733072" type="Box" label="Media">10</container>
-                        <container parent="cid17733072" type="Media">ID: 342.0070</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343029" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343029" type="Media">ID: 342.0070</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref513">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref750">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref516" level="item">
                     <did>
-                        <unittitle>[Blach leader]</unittitle>
-                        <container id="cid17733073" type="Box" label="Media">10</container>
-                        <container parent="cid17733073" type="Media">ID: 342.0071</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Blach leader</unittitle>
+                        <container id="cid19343030" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343030" type="Media">ID: 342.0071</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref515">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref751">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref518" level="item">
                     <did>
-                        <unittitle>[Blach leader]</unittitle>
-                        <container id="cid17733074" type="Box" label="Media">10</container>
-                        <container parent="cid17733074" type="Media">ID: 342.0072</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Blach leader</unittitle>
+                        <container id="cid19343031" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343031" type="Media">ID: 342.0072</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref517">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref752">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref520" level="item">
                     <did>
-                        <unittitle>Mostly [Blach leader]</unittitle>
-                        <container id="cid17733075" type="Box" label="Media">10</container>
-                        <container parent="cid17733075" type="Media">ID: 342.0073</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Mostly Blach leader</unittitle>
+                        <container id="cid19343032" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343032" type="Media">ID: 342.0073</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref519">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref753">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref522" level="item">
                     <did>
-                        <unittitle>[Blach leader]</unittitle>
-                        <container id="cid17733076" type="Box" label="Media">10</container>
-                        <container parent="cid17733076" type="Media">ID: 342.0074</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Blach leader</unittitle>
+                        <container id="cid19343033" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343033" type="Media">ID: 342.0074</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref521">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref754">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref524" level="item">
                     <did>
                         <unittitle>Not empty (fully exposed)</unittitle>
-                        <container id="cid17733077" type="Box" label="Media">10</container>
-                        <container parent="cid17733077" type="Media">ID: 342.0075</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343034" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343034" type="Media">ID: 342.0075</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref523">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [50 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref755">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref526" level="item">
                     <did>
                         <unittitle>Klüver?</unittitle>
-                        <container id="cid17733078" type="Box" label="Media">10</container>
-                        <container parent="cid17733078" type="Media">ID: 342.0076</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343035" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343035" type="Media">ID: 342.0076</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref525">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref756">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref528" level="item">
                     <did>
                         <unittitle>G &amp; E</unittitle>
-                        <container id="cid17733079" type="Box" label="Media">10</container>
-                        <container parent="cid17733079" type="Media">ID: 342.0077</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343036" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343036" type="Media">ID: 342.0077</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref527">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref757">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref530" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733080" type="Box" label="Media">10</container>
-                        <container parent="cid17733080" type="Media">ID: 342.0078</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343037" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343037" type="Media">ID: 342.0078</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref529">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [50 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref758">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref532" level="item">
                     <did>
                         <unittitle>P</unittitle>
-                        <container id="cid17733081" type="Box" label="Media">10</container>
-                        <container parent="cid17733081" type="Media">ID: 342.0079</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343038" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343038" type="Media">ID: 342.0079</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref531">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref759">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref534" level="item">
                     <did>
                         <unittitle>Cars</unittitle>
-                        <container id="cid17733082" type="Box" label="Media">10</container>
-                        <container parent="cid17733082" type="Media">ID: 342.0080</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343039" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343039" type="Media">ID: 342.0080</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref533">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref760">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref536" level="item">
                     <did>
                         <unittitle>LUTZE</unittitle>
-                        <container id="cid17733083" type="Box" label="Media">10</container>
-                        <container parent="cid17733083" type="Media">ID: 342.0081</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343040" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343040" type="Media">ID: 342.0081</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref535">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref761">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref538" level="item">
                     <did>
-                        <unittitle>[Pam]</unittitle>
-                        <container id="cid17733084" type="Box" label="Media">10</container>
-                        <container parent="cid17733084" type="Media">ID: 342.0082</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Pam</unittitle>
+                        <container id="cid19343041" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343041" type="Media">ID: 342.0082</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref537">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref762">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref540" level="item">
                     <did>
-                        <unittitle>[Notable]</unittitle>
-                        <container id="cid17733085" type="Box" label="Media">10</container>
-                        <container parent="cid17733085" type="Media">ID: 342.0083</container>
-                        <unitdate>Undated</unitdate>
+                        <unittitle>Notable</unittitle>
+                        <container id="cid19343042" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343042" type="Media">ID: 342.0083</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref539">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref763">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref542" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733086" type="Box" label="Media">10</container>
-                        <container parent="cid17733086" type="Media">ID: 342.0084</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343043" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343043" type="Media">ID: 342.0084</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref541">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [100 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref764">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref544" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
-                        <container id="cid17733087" type="Box" label="Media">10</container>
-                        <container parent="cid17733087" type="Media">ID: 342.0085</container>
-                        <unitdate>Undated</unitdate>
+                        <container id="cid19343044" type="Box" label="Moving Images">10</container>
+                        <container parent="cid19343044" type="Media">ID: 342.0085</container>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref543">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [50 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref765">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
                 <c id="ref546" level="item">
                     <did>
                         <unittitle>Untitled</unittitle>
                         <container id="cid17733088" type="Box" label="Media">10</container>
                         <container parent="cid17733088" type="Media">ID: 342.0086</container>
-                        <unitdate>Undated</unitdate>
+                        <unitdate>undated</unitdate>
                     </did>
                     <phystech id="ref545">
                         <head>Physical Characteristics and Technical Requirements note</head>
                         <p>Gauge: Super 8mm</p>
                         <p>Length: [10 ft.]</p>
                     </phystech>
+                    <accessrestrict id="ref766">
+                        <head>Conditions Governing Access</head>
+                        <p>Currently unavailable until duplication occurs.</p>
+                    </accessrestrict>
                 </c>
             </c>
             <c id="ref35" level="series">
