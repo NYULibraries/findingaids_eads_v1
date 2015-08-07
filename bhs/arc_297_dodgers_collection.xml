@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Complete_folder_list" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_297_dodgers_collection">arc_297_dodgers_collection</eadid>
         <filedesc>
             <titlestmt>
@@ -24,11 +24,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-03-17T13:30-0400</date>
+                <date>2015-08-07T15:48-0400</date>
             </creation>
             <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>August 2015</date>
+                <item>Finding aid revised </item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -40,15 +46,9 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid1261004" type="Box" label="Mixed materials">4 of 6</container>
-            <container id="cid1261005" type="Box" label="Mixed materials">3 of 6</container>
-            <container id="cid1261006" type="Box" label="Mixed materials">2 of 6</container>
-            <container id="cid1261007" type="Box" label="Mixed materials">1 of 6</container>
-            <container id="cid1261002" type="Box" label="Mixed materials">6 of 6</container>
-            <container id="cid1261003" type="Box" label="Mixed materials">5 of 6</container>
             <physdesc>
-                <extent>3.75 linear feet</extent>
-                <extent>in five manuscript boxes and one oversize flat box</extent>
+                <extent>5.75 linear feet</extent>
+                <extent>in five manuscript boxes, two oversize flat box, and one flat file drawer</extent>
             </physdesc>
             <unitdate normal="1941/1957" type="bulk">Bulk, 1941-1957</unitdate>
             <unitdate normal="1884/2002" type="inclusive">1884-2002</unitdate>
@@ -89,15 +89,23 @@
             <p>Chuck Connors photographs, 1938-1987 (V1987.012)</p>
             <p>Collection of Brooklyn Dodgers photographic portraits, circa 1940-1957 (ARC.265)</p>
             <p>Other photographs: V1973.5.1804 - V1973.5.1806; V1973.5.3678; V1974.39.44; V1982.5.20; V1984.1.639; V1987.5.1 a,b; V1987.16.1; V1987.19.1 - V1987.19.5; V1989.30.24; V1990.18.1; V1990.35.1; V1991.4.1 - V1991.4.2; V1991.52.1; V1993.10.1 - V1993.10.9</p>
+            <p>Additional photographs can be found by using the search term "Brooklyn Dodgers" in the BHS in-house image database.</p>
             <p>
                 <emph render="underline">Oral histories:</emph></p>
             <p>Ebbets Field – Dodgers Oral History, 2010</p>
         </relatedmaterial>
+        <arrangement id="ref55">
+            <head>Arrangement note</head>
+            <p>The collection is organized into four series:</p>
+            <p>Series 1: Official publications and scorecards</p>
+            <p>Series 2: Clippings and scrapbooks</p>
+            <p>Series 3: Memorabilia and ephemera</p>
+            <p>Series 4: Photographs and art</p>
+        </arrangement>
         <processinfo id="ref7">
             <head>Processing Information note</head>
-            <p>This collection was originally part of the Brooklyn Ephemera collection (ARC.272). Due to its size and frequency of use, the Dodgers ephemera was removed to create this separate collection.</p>
+            <p>This collection was originally part of the Brooklyn Ephemera collection (ARC.272). Due to its size and frequency of use, the Dodgers ephemera was removed to create this separate collection in March 2015. The collection was organized into series and the finding aid was revised in August 2015.</p>
             <p>New Brooklyn Dodgers items will be added to this collection as they accrue.</p>
-            <p>The collection is minimally processed to the collection level.</p>
         </processinfo>
         <acqinfo id="ref1">
             <head>Immediate Source of Acquisition note</head>
@@ -108,6 +116,7 @@
             <p>Russ Meyer baseball card, 1955, and Sal Maglie baseball card, 1957 (Gift of Ellen Snyder, 1988)</p>
             <p>Harry Lumley baseball card, 1909, and William Bergen baseball card, 1911 (Gift of Lew Lipset, circa 1988)</p>
             <p>Score book pages, kept by Lothar Stetler, 1946 (Gift of Larry Stetler, 1992)</p>
+            <p>"A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947" lithograph by Jim Annis (Gift of Jim Annis, 2002, 2002.006)</p>
             <p>Programs, scorecards, yearbooks, ticket stubs, audio recordings, and pennant, 1940s-1990s (Gift of Joseph P. Cogan, 2005)</p>
             <p>1940 game diary (scrapbook), and World Series ticket stubs, 1947, 1955 (Gift of Albert Greenberg, 2005, 2005.029)</p>
             <p>1950 program and scorecard, and 1955 Brooklyn Dodgers anniversary magazine, 1996 (Gift of Michael Colin, 2011).</p>
@@ -118,15 +127,12 @@
         </acqinfo>
         <scopecontent id="ref2">
             <head>Scope and Contents</head>
-            <p>The collection contains scorecards, programs, yearbooks, magazines, clippings, scrapbooks, posters, and other items related to the Brooklyn Dodgers, dating from 1884 to 2002. It also includes a small amount of items related to the Los Angeles Dodgers. Of note are several late 19th century Brooklyn baseball scorecards.</p>
-            <p>Box 1: Scorecards, 1884-1946; Programs and scorecards, 1953-1957 (see also Box 5); World Series programs, 1941-1955; Newsletters, 1944-1956; Yearbooks, 1949-1956</p>
-            <p>Box 2: Yearbooks, 1949-1957; Los Angeles Dodgers yearbook, 1958; Calendars, 1990-1991; Magazines, 1929-1990 (see also Box 5)</p>
-            <p>Box 3: Scrapbooks, 1941-1954; Clippings, 1941-2002; Ticket stubs, 1941-1957; Baseball cards, 1909-1986; Postcards, circa 1970s; new Brooklyn stadium ephemera, 1981-1984; Miscellaneous ephemera, 1950s-1990</p>
-            <p>Box 4: Scrapbook, 1945-1950</p>
-            <p>Box 5: Clippings (photocopies), 1947; Program and scorecard, 1950; "When the Dodgers Left New York," lyrics by Tim Horrigan, 1985; 1955 Dodgers anniversary magazine, 1996</p>
-            <p>Box 6 (oversize): 
-                <emph render="italic">Gold Hours</emph> publication, "New Yorks vs. Brooklyns," 1900; 3 audio recordings (7" and 10" vinyl records), 1949-1957; Clippings, 1955; Brooklyn Dodgers official cover series binder, 1988; Dodgers Centennial yearbooks, 1990; Los Angeles Dodgers yearbook, 1991; Jackie Robinson Day posters and ephemera, 1997; Bring the Dodgers back to Brooklyn posters, 1990s; Pennant, 1990s; Color reproduction of 1956 schedule poster, circa 2002</p>
+            <p>The collection contains scorecards, programs, yearbooks, magazines, clippings, scrapbooks, posters, and other items related to the Brooklyn Dodgers, dating from 1884 to 2002. It also includes a small amount of items relating to the Los Angeles Dodgers. Of note are several late 19th century Brooklyn baseball scorecards.</p>
         </scopecontent>
+        <otherfindaid id="ref56">
+            <head>Other Finding Aids note</head>
+            <p>Item-level descriptions of photographs and artwork are available in the BHS in-house image database</p>
+        </otherfindaid>
         <controlaccess>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Dodgers (Baseball team).</corpname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Los Angeles Dodgers (Baseball team).</corpname>
@@ -134,6 +140,7 @@
             <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="local">O'Malley, Walter F.,  (Walter Francis), 1903-1979</persname>
             <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Robinson, Jackie, 1919-1972</persname>
             <genreform source="aat">Admission tickets</genreform>
+            <genreform source="aat">Artifacts (object genre)</genreform>
             <genreform source="aat">Baseball cards</genreform>
             <subject source="lcsh">Baseball fans |z New York (State) |z Kings County</subject>
             <subject source="lcsh">Baseball |z New York (State) |z Kings County</subject>
@@ -142,9 +149,11 @@
             <genreform source="aat">Clippings (information artifacts)</genreform>
             <subject source="lcsh">Ebbets Field (New York, N.Y.)</subject>
             <genreform source="aat">Ephemera</genreform>
+            <genreform source="aat">Lithographs</genreform>
             <genreform source="aat">Magazines (periodicals)</genreform>
             <genreform source="aat">Memorabilia</genreform>
             <genreform source="aat">Newsletters</genreform>
+            <genreform source="aat">Photographs</genreform>
             <genreform source="aat">Posters</genreform>
             <genreform source="aat">Printed ephemera</genreform>
             <genreform source="aat">Scrapbooks</genreform>
@@ -152,6 +161,300 @@
             <genreform source="aat">Souvenir programs</genreform>
             <genreform source="aat">Yearbooks</genreform>
         </controlaccess>
-        <dsc/>
+        <dsc>
+            <c id="ref11" level="series">
+                <did>
+                    <unittitle>Series 1: Official publications and scorecards</unittitle>
+                    <unitdate normal="1884/1991" type="inclusive">1884-1991</unitdate>
+                </did>
+                <scopecontent id="ref52">
+                    <head>Scope and Contents</head>
+                    <p>The series contains scorecards, programs, World Series programs, newsletters, and yearbooks, dating from 1884 to 1991. In addition to the Brooklyn Dodgers, the series include scorecards from earlier Brooklyn baseball teams, as well as some material relating to the Los Angeles Dodgers.</p>
+                </scopecontent>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>Scorecards</unittitle>
+                        <container id="cid1338004" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="1884/1946" type="inclusive">1884-1946</unitdate>
+                    </did>
+                </c>
+                <c id="ref39" level="file">
+                    <did>
+                        <unittitle>Program and scorecard</unittitle>
+                        <container id="cid1338022" type="Box" label="Mixed materials">5</container>
+                        <unitdate normal="1950/1950">1950</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>Programs and scorecards</unittitle>
+                        <container id="cid1338005" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="1953/1957" type="inclusive">1953-1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>World Series programs</unittitle>
+                        <container id="cid1338006" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="1941/1955" type="inclusive">1941-1955</unitdate>
+                    </did>
+                </c>
+                <c id="ref24" level="file">
+                    <did>
+                        <unittitle>Newsletters</unittitle>
+                        <container id="cid1338007" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="1944/1956" type="inclusive">1944-1956</unitdate>
+                    </did>
+                </c>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle>Yearbooks</unittitle>
+                        <container id="cid1338008" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="1949/1956" type="inclusive">1949-1956</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>Yearbooks</unittitle>
+                        <container id="cid1338009" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="1949/1957" type="inclusive">1949-1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>Los Angeles Dodgers yearbook</unittitle>
+                        <container id="cid1338010" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="1958/1958">1958</unitdate>
+                    </did>
+                </c>
+                <c id="ref46" level="file">
+                    <did>
+                        <unittitle>Dodgers Centennial yearbooks</unittitle>
+                        <container id="cid1338029" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle>Los Angeles Dodgers yearbook</unittitle>
+                        <container id="cid1338030" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref12" level="series">
+                <did>
+                    <unittitle>Series 2: Clippings and scrapbooks</unittitle>
+                    <unitdate normal="1900/2002" type="inclusive">1900-2002</unitdate>
+                </did>
+                <scopecontent id="ref53">
+                    <head>Scope and Contents</head>
+                    <p>The series contains magazines, scrapbooks, and clippings, dating from 1900 to 2002.</p>
+                </scopecontent>
+                <c id="ref42" level="file">
+                    <did>
+                        <unittitle>Gold Hours publication, "New Yorks vs. Brooklyns"</unittitle>
+                        <container id="cid1338025" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1900/1900">1900</unitdate>
+                    </did>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>Magazines</unittitle>
+                        <container id="cid1338012" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="1929/1990" type="inclusive">1929-1990</unitdate>
+                    </did>
+                </c>
+                <c id="ref41" level="file">
+                    <did>
+                        <unittitle>1955 Dodgers anniversary magazine</unittitle>
+                        <container id="cid1338024" type="Box" label="Mixed materials">5</container>
+                        <unitdate normal="1996/1996">1996</unitdate>
+                    </did>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle>Scrapbook</unittitle>
+                        <container id="cid1341001" type="Box" label="Graphic materials">7</container>
+                        <unitdate normal="1941/1941">1941</unitdate>
+                    </did>
+                    <odd id="ref58">
+                        <head>General note</head>
+                        <p>Assembled by Vera Novack, of 367 Rockaway Parkway</p>
+                    </odd>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid1338013" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="1941/1954" type="inclusive">1941-1954</unitdate>
+                    </did>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>Scrapbook</unittitle>
+                        <container id="cid1338020" type="Box" label="Mixed materials">4</container>
+                        <unitdate normal="1945/1950" type="inclusive">1945-1950</unitdate>
+                    </did>
+                </c>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle>Clippings</unittitle>
+                        <container id="cid1338014" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="1941/2002" type="inclusive">1941-2002</unitdate>
+                    </did>
+                </c>
+                <c id="ref38" level="file">
+                    <did>
+                        <unittitle>Clippings (photocopies)</unittitle>
+                        <container id="cid1338021" type="Box" label="Mixed materials">5</container>
+                        <unitdate normal="1947/1947">1947</unitdate>
+                    </did>
+                </c>
+                <c id="ref44" level="file">
+                    <did>
+                        <unittitle>Clippings (oversize)</unittitle>
+                        <container id="cid1338027" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1955/1955">1955</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref13" level="series">
+                <did>
+                    <unittitle>Series 3: Memorabilia and ephemera</unittitle>
+                    <unitdate normal="1909/2007" type="inclusive">1909-circa 2002</unitdate>
+                </did>
+                <scopecontent id="ref54">
+                    <head>Scope and Contents</head>
+                    <p>The series contains assorted memorabilia and ephemera, including calendars, ticket stubs, baseball cards, postcards, audio recordings, posters, and a pennant, dating from 1909 to circa 2002. It also contains a file relating to an unrealized new stadium in Brooklyn, dating from 1981 to 1984. Of note are several early 20th century baseball cards.</p>
+                </scopecontent>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>Calendars</unittitle>
+                        <container id="cid1338011" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+                    </did>
+                </c>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle>Ticket stubs</unittitle>
+                        <container id="cid1338015" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="1941/1957" type="inclusive">1941-1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Baseball cards</unittitle>
+                        <container id="cid1338016" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="1909/1986" type="inclusive">1909-1986</unitdate>
+                    </did>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle>Postcards</unittitle>
+                        <container id="cid1338017" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="1970/1979" type="inclusive">circa 1970s</unitdate>
+                    </did>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle>New Brooklyn stadium ephemera</unittitle>
+                        <container id="cid1338018" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="1981/1984" type="inclusive">1981-1984</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="file">
+                    <did>
+                        <unittitle>Miscellaneous ephemera</unittitle>
+                        <container id="cid1338019" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="1950/1990" type="inclusive">1950s-1990</unitdate>
+                    </did>
+                </c>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle>"When the Dodgers Left New York," lyrics by Tim Horrigan</unittitle>
+                        <container id="cid1338023" type="Box" label="Mixed materials">5</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle>3 audio recordings (7" and 10" vinyl records)</unittitle>
+                        <container id="cid1338026" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1949/1957" type="inclusive">1949-1957</unitdate>
+                    </did>
+                </c>
+                <c id="ref45" level="file">
+                    <did>
+                        <unittitle>Brooklyn Dodgers official cover series binder</unittitle>
+                        <container id="cid1338028" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle>Jackie Robinson Day posters and ephemera</unittitle>
+                        <container id="cid1338031" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1997/1997">1997</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>Bring the Dodgers back to Brooklyn posters</unittitle>
+                        <container id="cid1338032" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
+                    </did>
+                </c>
+                <c id="ref50" level="file">
+                    <did>
+                        <unittitle>Pennant</unittitle>
+                        <container id="cid1338033" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1990/1999" type="inclusive">1990s</unitdate>
+                    </did>
+                </c>
+                <c id="ref51" level="file">
+                    <did>
+                        <unittitle>Color reproduction of 1956 schedule poster</unittitle>
+                        <container id="cid1338034" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1997/2007" type="inclusive">circa 2002</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref14" level="series">
+                <did>
+                    <unittitle>Series 4: Photographs and art</unittitle>
+                    <unitdate normal="1954/2002" type="inclusive">1954-2002</unitdate>
+                </did>
+                <scopecontent id="ref19">
+                    <head>Scope and Contents</head>
+                    <p>The series contains a 1954 photograph of Pee Wee Reese at bat versus the Chicago Cubs; a 1955 Dodgers group photograph signed by Clem Labine; and a lithograph of Ebbets Field, entitled "A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947," produced by Jim Annis in 2002.</p>
+                </scopecontent>
+                <c id="ref17" level="file">
+                    <did>
+                        <unittitle>Pee Wee Reese at bat photograph</unittitle>
+                        <container id="cid1338002" type="Box" label="Graphic materials">6</container>
+                        <unitdate normal="1954/1954">1954</unitdate>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle>Brooklyn Dodgers team group photograph</unittitle>
+                        <container id="cid1338001" type="Box" label="Graphic materials">6</container>
+                        <unitdate normal="1955/1955">1955</unitdate>
+                    </did>
+                    <odd id="ref16">
+                        <head>General note</head>
+                        <p>Reproduction print signed by Clem Labine. Accessioned as V1997.065.</p>
+                    </odd>
+                </c>
+                <c id="ref18" level="file">
+                    <did>
+                        <unittitle>"A World Series Remembrance: The Brooklyn Dodgers vs. The New York Yankees, 1947" lithograph by Jim Annis</unittitle>
+                        <container id="cid1338003" type="Oversize" label="Graphic materials">Flat File A - Drawer 5</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
     </archdesc>
 </ead>
