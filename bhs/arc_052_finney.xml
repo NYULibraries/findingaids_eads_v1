@@ -22,19 +22,20 @@
                 </address>
                 <date>July 12, 2010</date>
             </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-05-01T15:59-0400</date>
+                <date>2015-08-07T10:48-0400</date>
             </creation>
-            <langusage>English.</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>August 6, 2015</date>
+                <item>Additional processing and finding aid revised by Stephanie Coy</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -46,12 +47,14 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
+            <container id="cid1340001" type="Box" label="Graphic materials">ARC.052 1 of 1 </container>
             <container id="cid361009" type="Box" label="Mixed materials">A0132</container>
             <physdesc>
-                <extent>0.15 Linear feet</extent>
-                <extent>in three folders.</extent>
+                <extent>1.0 linear feet</extent>
+                <extent>in three folders and one rolled document box.</extent>
             </physdesc>
             <unitdate normal="1855/1923" type="inclusive">circa 1865 to 1913</unitdate>
+            <abstract id="ref11" label="Abstract">The Finney family papers contain items mainly pertaining to the career and personal life of William Finney, though there is a small number of items pertaining to William's brother, Peter, as well as Ellen Phinney, a family relative (possibly William and Peter's mother). Included is a diploma from Kings County Hospital Training School for Nurses issued to Kate Florence Sharp in 1900. Sharp was William Finney's nurse, and she was left a sum of money in William's will. The collection spans the period circa 1865 to 1913, with the majority of the items dating from the 1890s and the first decade of the 1900s.</abstract>
             <origination label="creator">
                 <persname source="local">Finney, William, 1831-1913</persname>
             </origination>
@@ -59,6 +62,7 @@
         <scopecontent id="ref1">
             <head>Scope and Contents</head>
             <p>The Finney family papers contain items mainly pertaining to the career and personal life of William Finney, though there is a small number of items pertaining to William's brother, Peter, as well as Ellen Phinney, a family relative (possibly William and Peter's mother). The collection spans the period circa 1865 to 1913, with the majority of the items dating from the 1890s and the first decade of the 1900s. Items relating to William Finney include personal correspondence, notebooks and journals in which William recorded financial transactions and business and personal errands, business and calling cards, a stock certificate issued by the Brooklyn Union Gas Company, receipts, news clippings pertaining to various companies and business ventures in which William was interested or involved, photographs, documentation regarding William's purchasing of a plot of land at Green-Wood Cemetery, and a notice regarding William's date of death and the filing of his will. Items relating to Peter Finney include an obituary and photographs. An additional photograph depicts Ellen Phinney.</p>
+            <p>The collection also includes a diploma issued to Kate Florence Sharp from the Kings County Hospital Training School for Nurses. Sharp was a nurse to William Finney in the years before his death. According to a newspaper clipping included in the collection, Sharp inherited money from William Finney's estate after he passed in July 1913.</p>
         </scopecontent>
         <bioghist id="ref2">
             <head>Biographical Note</head>
@@ -90,27 +94,36 @@
         <processinfo id="ref8">
             <head>Processing Information note</head>
             <p>Minimally processed to the collection level.</p>
-            <p>The collection combines the accessions 1978.067, V1988.006, and V1997.074.</p>
+            <p>The collection combines the accessions 1978.067, V1988.006, 1988.012, and V1997.074.</p>
+            <p>Accession 1988.012 added to the collection in August 2015 by processing intern Stephanie Coy.</p>
         </processinfo>
         <otherfindaid id="ref9">
             <head>Other Finding Aids note</head>
             <p>Item-level descriptions and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>
         </otherfindaid>
         <controlaccess>
+            <famname source="naf">Finney family</famname>
             <persname source="local">Finney, Peter, 1833-1902</persname>
             <persname source="local">Finney, William, 1831-1913</persname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Green-Wood Cemetery (New York, N.Y.).</corpname>
+            <corpname rules="dacs" source="naf">Kings County Hospital (Kings County, N.Y.). School of Nursing.</corpname>
+            <famname rules="dacs" source="local">Phinney family</famname>
             <persname source="local">Phinney, Ellen, 1807-1868</persname>
+            <persname rules="dacs" source="local">Sharp, Kate Florence</persname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
             <subject source="lcsh">Burial |z New York (State) |z Kings County</subject>
             <genreform source="aat">Business cards</genreform>
             <subject source="lcsh">Business enterprises |z New York (State) |z Kings County</subject>
             <genreform source="aat">Clippings (information artifacts)</genreform>
             <genreform source="aat">Deeds</genreform>
+            <genreform source="aat">Diplomas</genreform>
             <subject source="lcsh">Gas companies |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Hospitals |z New York (State) |z Kings County</subject>
             <genreform source="aat">Journals (accounts)</genreform>
             <subject source="lcsh">Machinery industry |z New York (State) |z Kings County</subject>
             <genreform source="aat">Notebooks</genreform>
+            <subject source="lcsh">Nurses |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Nursing schools |z New York (State) |z Kings County</subject>
             <genreform source="aat">Obituaries</genreform>
             <genreform source="aat">Photographs</genreform>
             <subject source="lcsh">Railroad companies |z New York (State) |z Kings County</subject>
