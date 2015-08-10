@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1978_151_atlantic_dock_company</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_151_atlantic_dock_company.html">arms_1978_151_atlantic_dock_company</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Atlantic Dock Company collection
@@ -25,19 +25,11 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-17T16:47-0500</date>
+                <date>2015-08-10T11:53-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding Aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>May 2010</date>
-                <item>This finding aid was revised and entered into Archivists' Toolkit by Weatherly Stephan.
-
-Additional content contributed by Emily Reynolds on January 13, 2011.</item>
-            </change>
-        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -50,12 +42,13 @@ Additional content contributed by Emily Reynolds on January 13, 2011.</item>
                 <language langcode="eng"/>
             </langmaterial>
             <container id="cid282001" type="Box" label="Text">A0086</container>
+            <container id="cid1341003" type="Box" label="Text">1978.151 oversize</container>
             <physdesc>
-                <extent>0.1 Linear feet</extent>
-                <extent>in one folder.</extent>
+                <extent>1.0 linear feet</extent>
+                <extent>in one folder and one oversize box</extent>
             </physdesc>
-            <unitdate normal="1840/1857" type="inclusive">1840-1857</unitdate>
-            <abstract id="ref15" label="Abstract">The Atlantic Dock Company was the brain-child of Daniel Richards, who in 1839 began to develop the Brooklyn harbor shoreline by erecting a contained set of docks, warehouses, and a basin for deep water ships in the area presently known as Red Hook and South Brooklyn. The Atlantic Dock Company was chartered by New York State on May 6, 1840. This collection is composed of papers, dated 1840 to 1857, belonging to Richards. The collection includes act of incorporation, prospectus for investors, and a handwritten history of the company.</abstract>
+            <unitdate normal="1840/1886" type="inclusive">1840-1886</unitdate>
+            <abstract id="ref15" label="Abstract">The Atlantic Dock Company was the brain-child of Daniel Richards, who in 1839 began to develop the Brooklyn harbor shoreline by erecting a contained set of docks, warehouses, and a basin for deep water ships in the area presently known as Red Hook and South Brooklyn. The Atlantic Dock Company was chartered by New York State on May 6, 1840. This collection is composed of papers, dated 1840 to 1883, the majority of which belonged to Richards. The collection includes act of incorporation, prospectus for investors, business ledgers, and a handwritten history of the company.</abstract>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Atlantic Dock Company (Brooklyn, New York, N.Y.).</corpname>
             </origination>
@@ -68,7 +61,7 @@ Additional content contributed by Emily Reynolds on January 13, 2011.</item>
         </did>
         <scopecontent id="ref2">
             <head>Scope and Contents note</head>
-            <p>This collection is composed of papers, dated 1840 to 1857, belonging to Daniel Richards, primary developer of the Atlantic Dock Company, the Atlantic Basin warehouse complex of Brooklyn's upper New York Harbor shoreline. The collection includes act of incorporation, prospectus for investors, and a handwritten history of the company.</p>
+            <p>This collection is composed of papers, dated 1840 to 1886, the majority of which belonged to Daniel Richards, primary developer of the Atlantic Dock Company, the Atlantic Basin warehouse complex of Brooklyn's upper New York Harbor shoreline. The collection includes act of incorporation, prospectus for investors, and a handwritten history of the company. It also includes two business ledgers, dating from 1883 to 1886.</p>
         </scopecontent>
         <accessrestrict id="ref1">
             <head>Conditions Governing Access note</head>
@@ -104,13 +97,18 @@ Additional content contributed by Emily Reynolds on January 13, 2011.</item>
         </bioghist>
         <processinfo id="ref14">
             <head>Processing Information note</head>
-            <p>This small collection was originally described in 1985 at Long Island Historical Society (now Brooklyn Historical Society). The collection was described as records, though it consisted of only six items in a single folder. The electronic version of the finding was typed and edited by Dr. Pettit in May 2006. Appropriate cross-referencing to related materials at the Brooklyn Historical Society has been added. Surveyed by the New York State HDI and cataloged in RLIN, circa 1987.</p>
+            <p>This small collection was originally described in 1985 at Long Island Historical Society (now Brooklyn Historical Society). The collection was described as records, though it consisted of only six items in a single folder. The electronic version of the finding was typed and edited by Dr. Pettit in May 2006. Appropriate cross-referencing to related materials at the Brooklyn Historical Society has been added. Surveyed by the New York State HDI and cataloged in RLIN, circa 1987. Additional content contributed by Emily Reynolds on January 13, 2011. Two business ledgers were added to the collection by John Zarrillo in August 2015.</p>
         </processinfo>
         <controlaccess>
             <corpname rules="dacs" source="local">Pacific Dock Company (Brooklyn, New York, N.Y.).</corpname>
+            <genreform source="aat">Articles of incorporation</genreform>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
             <subject source="lcsh">Docks |z New York (State) |z New York</subject>
+            <genreform source="aat">Ledgers (account books)</genreform>
+            <genreform source="aat">Maps</genreform>
+            <genreform source="aat">Prospectuses</genreform>
             <geogname source="lcsh">Red Hook (New York, N.Y.)</geogname>
+            <subject source="lcsh">Waterfronts |z New York (State) |z Kings County</subject>
         </controlaccess>
         <dsc/>
     </archdesc>
