@@ -24,11 +24,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-05-04T10:57-0400</date>
+                <date>2015-09-11T16:47-0400</date>
             </creation>
             <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>September 2015</date>
+                <item>Additional processing by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -40,11 +46,14 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid1301003" type="Box" label="Realia">1 of 2</container>
-            <container id="cid1301002" type="Box" label="Realia">2 of 2</container>
+            <container id="cid1301003" type="Box" label="Realia">1 of 5</container>
+            <container id="cid1301002" type="Box" label="Realia">2 of 5</container>
+            <container id="cid1348003" type="Box" label="Realia">5 of 5</container>
+            <container id="cid1348002" type="Box" label="Realia">3 of 5</container>
+            <container id="cid1348001" type="Box" label="Realia">4 of 5</container>
             <physdesc>
-                <extent>2.6 linear feet</extent>
-                <extent>in one flat box and and one custom box</extent>
+                <extent>4.1 linear feet</extent>
+                <extent>in one flat box and and four custom boxes</extent>
             </physdesc>
             <unitdate normal="1880/1920" type="inclusive">circa 1880 to 1920</unitdate>
             <abstract id="ref3" label="Abstract">The collection consists of 29 pharmacy and medicine bottles of various sizes produced or used by Brooklyn druggists, pharmacies, and pharmaceutical manufacturing companies, dating from around 1880 to 1920.</abstract>
@@ -69,8 +78,8 @@
         <scopecontent id="ref2">
             <head>Scope and Contents</head>
             <p>The collection consists of 29 pharmacy and medicine bottles of various sizes produced or used by Brooklyn druggists, pharmacies, and pharmaceutical manufacturing companies, dating from around 1880 to 1920.</p>
-            <p>Pharmacies and druggists: Abraham and Straus; Le Roy Braswell, The Rexall Store (89 7th Avenue); Wm. (William) Buderus (90 Utica Avenue; 1726 Fulton Street); S. Chichester (357 Myrtle Avenue); Louis Crome, pharmacist (East 92nd Street, Canarsie); Davidson &amp; Bulkley Pharmacy - Brooklyn Heights (84 Montague Street); Fifth Avenue Drug Company (Limited) (522 5th Avenue); J. L. House, druggist; F. A. Kattman, pharmacist; Neergaard's Pharmacy (225 5th Avenue); Parrish; Reid &amp; Snyder, prescription experts (740 Flatbush Avenue); D. H. Starr (350 7th Avenue, corner 10th Street); and R. H. Thayer, drugist (33 Atlantic Avenue);</p>
-            <p>Pharmaceutical and medicinal products: Fougera's Eau Angelique tooth wash; Lyon Manufacturing Company - Hagan's Magnolia Blam (1919); Lyon Manufacturing Company - Mexican mustang liniment; and J. A. Vaughan - Lister's antiseptic liniment.</p>
+            <p>Pharmacies and druggists: Abraham and Straus; Thomas A. Beard (Lee Avenue and Rutledge Street); Le Roy Braswell, The Rexall Store (89 7th Avenue); William Buderus (90 Utica Avenue; 1726 Fulton Street); S. Chichester (357 Myrtle Avenue); Louis Crome, pharmacist (East 92nd Street, Canarsie); Davidson &amp; Bulkley Pharmacy - Brooklyn Heights (84 Montague Street); Fifth Avenue Drug Company (Limited) (522 5th Avenue); William H. Hanson, pharmacist; J. L. House, druggist; F.A. Kattman, pharmacist; R.C. Knipe and Son (690-692 Grand Street); H.W. Koch, pharmacist (3rd Avenue and 74th Street); Frederick Loeser &amp; Co.; Neergaard's Pharmacy (225 5th Avenue); Parrish; L. T. Perkins, pharmacist (19 Greene Avenue); Reid &amp; Snyder, prescription experts (740 Flatbush Avenue); Riker's Drug Stores; D.H. Starr (350 7th Avenue, corner 10th Street); and R.H. Thayer, druggist (33 Atlantic Avenue);</p>
+            <p>Pharmaceutical and medicinal products: Chas. Dennin - Rheumatism medicine; F. Ad. Richter &amp; Co., Inc. (Berry Street and South Fifth Street) - Loxol Pain Expeller; Fougera's Eau Angelique tooth wash; Lyon Manufacturing Company - Hagan's Magnolia Balm (1919); Lyon Manufacturing Company - Mexican mustang liniment; and J. A. Vaughan - Lister's antiseptic liniment.</p>
         </scopecontent>
         <acqinfo id="ref1">
             <head>Immediate Source of Acquisition note</head>
@@ -80,10 +89,15 @@
             <head>Related Archival Materials note</head>
             <p>The Edward R. Squibb collection (2008.021) contains additional material related to the Brooklyn pharmaceutical industry of the late 19th and early 20th centuries.</p>
         </relatedmaterial>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
         <controlaccess>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Abraham &amp; Straus.</corpname>
             <persname rules="dacs" source="local" role="Donor (dnr)">Kone, Allen J.</persname>
             <corpname rules="dacs" source="local">Lyon Manufacturing Company (Brooklyn, New York, N.Y.).</corpname>
+            <genreform source="aat">Artifacts (object genre)</genreform>
             <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
             <genreform source="aat">Bottles</genreform>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
@@ -98,6 +112,7 @@
             <subject source="lcsh">Pharmaceutical industry |z New York (State) |z Kings County</subject>
             <subject source="lcsh">Pharmacists |z New York (State) |z Kings County</subject>
             <subject source="lcsh">Pharmacy |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Sunset Park (New York, N.Y.)</geogname>
         </controlaccess>
         <dsc/>
     </archdesc>
