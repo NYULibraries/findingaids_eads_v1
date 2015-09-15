@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1986_047_business_catalogs</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1986_047_business_catalogs.html">arms_1986_047_business_catalogs</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Brooklyn and New York City business catalogs collection
@@ -22,19 +22,20 @@
                 </address>
                 <date>November 2, 2011</date>
             </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-21T14:30-0500</date>
+                <date>2015-09-15T09:26-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>September 2015</date>
+                <item>Updated by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -46,13 +47,13 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid1106004" type="Box" label="Text">1986.047 1 of 1</container>
+            <container id="cid1106004" type="Box" label="Text">A0070</container>
             <physdesc>
-                <extent>0.21 Linear feet</extent>
-                <extent>in one half manuscript box.</extent>
+                <extent>0.25 linear feet</extent>
+                <extent>in six folders</extent>
             </physdesc>
             <unitdate normal="1870/1937" type="inclusive">1870-1937</unitdate>
-            <abstract id="ref2" label="Abstract">This collection contains sales catalogs of businesses located in Brooklyn and New York City, including Bellows &amp; Company Wines, E.W. Bliss Company, South Brooklyn Moulding Mill, Abraham &amp; Straus, and the Bedell Company.</abstract>
+            <abstract id="ref2" label="Abstract">This collection contains sales catalogs of businesses located in Brooklyn and New York City, including Bellows &amp; Company Wines, E.W. Bliss Company, South Brooklyn Moulding Mill, Abraham &amp; Straus, Dr. Jaeger's Sanitary Woolen System Company, and the Bedell Company.</abstract>
             <origination label="creator">
                 <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Abraham &amp; Straus.</corpname>
             </origination>
@@ -61,6 +62,9 @@
             </origination>
             <origination label="creator">
                 <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Bellows &amp; Company.</corpname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">Dr. Jaeger's Sanitary Woolen System Company.</corpname>
             </origination>
             <origination label="creator">
                 <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">E. W. Bliss Company.</corpname>
@@ -89,21 +93,22 @@
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Abraham &amp; Straus.</corpname>
             <corpname source="local">Bedell Company.</corpname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Bellows &amp; Company.</corpname>
+            <corpname rules="dacs" source="local">Dr. Jaeger's Sanitary Woolen System Company.</corpname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">E. W. Bliss Company.</corpname>
             <corpname source="local">South Brooklyn Moulding Mill (Brooklyn, New York, N.Y.).</corpname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Commerce </geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Commerce</geogname>
             <subject source="lcsh">Business enterprises |z New York (State) |z Kings County</subject>
             <subject source="lcsh">Business enterprises |z New York (State) |z New York</subject>
-            <subject source="lcgft">Canning and preserving |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Clothing and dress |z New York (State) |z New York</subject>
-            <subject source="lcgft">Clothing trade |z New York (State) |z New York</subject>
+            <subject source="lcsh">Canning and preserving |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Clothing and dress |z New York (State) |z New York</subject>
+            <subject source="lcsh">Clothing trade |z New York (State) |z New York</subject>
             <subject source="lcsh">Department stores |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Metal-working machinery |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Mills and mill-work |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Molding (Founding) |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Metal-working machinery |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Mills and mill-work |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Molding (Founding) |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">New York (N.Y.) |x Commerce</geogname>
             <genreform source="aat">Trade catalogs</genreform>
-            <subject source="lcgft">Wine and wine making |z New York (State) |z New York</subject>
+            <subject source="lcsh">Wine and wine making |z New York (State) |z New York</subject>
         </controlaccess>
         <dsc/>
     </archdesc>
