@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_191_vanderveer.html">arc_191_vanderveer</eadid>
         <filedesc>
             <titlestmt>
@@ -20,14 +20,14 @@
                     <addressline>718-222-4111</addressline>
                     <addressline>library@brooklynhistory.org</addressline>
                 </address>
-                <date>March 25, 2011.</date>
+                <date>March 25, 2011</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-08-15T12:42-0400</date>
+                <date>2015-09-15T09:32-0400</date>
             </creation>
-            <langusage>English.</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
@@ -44,12 +44,14 @@
             <container id="cid696002" type="Box" label="Graphic materials">ARC.191 Box 1 of 2</container>
             <container id="cid696001" type="Box" label="Graphic materials">ARC.191 Box 2 of 2; V1974.018 Box 1 of 2</container>
             <container id="cid697001" type="Oversize" label="Mixed materials">ARC. 191 OS Box 1 of 2</container>
+            <container id="cid1350001" type="Box" label="Graphic materials">Prints by Accession (V1986.014)</container>
             <container id="cid733001" type="Oversize" label="Mixed materials">ARC. 191 OS Box 2 of 2</container>
             <physdesc>
-                <extent>2.83 Linear feet</extent>
-                <extent>in two lantern slide boxes and two oversize boxes.</extent>
+                <extent>3.0 linear feet</extent>
+                <extent>in two lantern slide boxes, two oversize boxes, and one folder</extent>
             </physdesc>
             <unitdate normal="1872/1889" type="inclusive">1872-1889</unitdate>
+            <abstract id="ref17" label="Abstract">The Adrian Vanderveer Martense collection spans the dates 1872 to 1889 and measures 2.83 linear feet. The collection contains lantern slides and photographs taken by Martense documenting Brooklyn during the last quarter of the 19th century, in particular Flatbush, Brooklyn and the Blizzard of 1888, as well as other images of Brooklyn. The collection also includes four scrapbooks and one notebook compiled by Martense between 1872 and 1889.</abstract>
             <origination label="creator">
                 <persname rules="dacs" source="local">Martense, Adrian V.,  (Adrian Vanderveer), 1852-1898</persname>
             </origination>
@@ -140,7 +142,7 @@
                     <unittitle>Series 1: Lantern slides</unittitle>
                     <unitid>V1974.007</unitid>
                     <physdesc>
-                        <extent>1.0 Linear feet</extent>
+                        <extent>1.0 linear feet</extent>
                         <extent>133 lantern slides in two lantern slide boxes.</extent>
                     </physdesc>
                     <unitdate>circa 1880</unitdate>
@@ -155,7 +157,7 @@
                     <unittitle>Series 2: Photograph albums</unittitle>
                     <unitid>V1986.014 and V1986.246</unitid>
                     <physdesc>
-                        <extent>0.2 Linear feet</extent>
+                        <extent>0.2 linear feet</extent>
                         <extent>in one oversize box.</extent>
                     </physdesc>
                     <unitdate normal="1886/1888" type="inclusive">1886-1888</unitdate>
@@ -174,7 +176,7 @@
                         <language langcode="eng"/>
                     </langmaterial>
                     <physdesc>
-                        <extent>1.73 Linear feet</extent>
+                        <extent>1.73 linear feet</extent>
                         <extent>in two oversize boxes.</extent>
                     </physdesc>
                     <unitdate normal="1872/1889" type="inclusive">1872-1889</unitdate>
