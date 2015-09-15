@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_2000_011_coggill</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2000_011_coggill.html">arms_2000_011_coggill</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to the Coggill family ephemera collection
+                <titleproper>Guide to the Coggill family Brooklyn ephemera collection
                     <num>2000.011</num>
                 </titleproper>
                 <author>Finding aid prepared by Nicholas Pavlik</author>
@@ -22,23 +22,24 @@
                 </address>
                 <date>November 11, 2011</date>
             </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-22T11:06-0500</date>
+                <date>2015-09-15T09:37-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>September 2015</date>
+                <item>Revised by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
-            <unittitle>Coggill family ephemera collection</unittitle>
+            <unittitle>Coggill family Brooklyn ephemera collection</unittitle>
             <unitid>2000.011</unitid>
             <repository>
                 <corpname>Brooklyn Historical Society</corpname>
@@ -46,13 +47,13 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid1119004" type="Folder" label="Text">2000.011 1 of 1</container>
+            <container id="cid1119004" type="Box" label="Text">A0009</container>
             <physdesc>
-                <extent>0.01 Linear feet</extent>
+                <extent>0.01 linear feet</extent>
                 <extent>in one folder.</extent>
             </physdesc>
-            <unitdate>1864, 1976</unitdate>
-            <abstract id="ref2" label="Abstract">One pamphlet covering the history of the Brooklyn and Long Island Sanitary Fair, published by the Long Island Historical Society (now the Brooklyn Historical Society); one invitation to the commemoration of the Prison Ship Martyrs Monument in Brooklyn; and one procamation from Sebastian Leone, President of the Borough of Brooklyn, designating June 5, 1976 as Spanish Monarchs Day.</abstract>
+            <unitdate normal="1964/1976" type="inclusive">1964, 1976</unitdate>
+            <abstract id="ref2" label="Abstract">One pamphlet entitled "Brooklyn and Long Island Sanitary Fair, 1864," written by Harriet Mott Striker-Rodda and published by the Long Island Historical Society (now Brooklyn Historical Society) in 1964; one invitation to the commemorative ceremony held at the Prison Ship Martyrs Monument at Fort Greene Park during the visit of King Juan Carlos I and Queen Sofia of Spain, 1976; and one proclamation from Sebastian Leone, President of the Borough of Brooklyn, designating June 5, 1976 as Spanish Monarchs Day.</abstract>
         </did>
         <accessrestrict id="ref1">
             <head>Conditions Governing Access note</head>
@@ -73,8 +74,8 @@
         <controlaccess>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn and Long Island Fair in Aid of the United States Sanitary Commission. (1864).</corpname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <geogname source="lcgft">Brooklyn (New York, N.Y.) |x History |y Civil War, 1861-1865 |x Civilian relief</geogname>
-            <subject source="lcgft">Holidays |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History |y Civil War, 1861-1865 |x Civilian relief</geogname>
+            <subject source="lcsh">Holidays |z New York (State) |z Kings County</subject>
             <genreform source="aat">Invitations</genreform>
             <subject source="lcsh">Monuments |z New York (State) |z Kings County</subject>
             <genreform source="aat">Pamphlets</genreform>
