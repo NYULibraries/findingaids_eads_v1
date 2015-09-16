@@ -11,7 +11,7 @@
                 <author>Finding aid prepared by Cassandra Brewer</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>@ 2010 New-York Historical Society</publisher>
+                <publisher>© 2011 New-York Historical Society</publisher>
                 <address>
                     <addressline>New-York Historical Society</addressline>
                     <addressline>170 Central Park West</addressline>
@@ -23,7 +23,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-03-11T12:48-0500</date>
+                <date>2015-09-16T14:20-0400</date>
             </creation>
             <langusage>Finding Aid is written in English.
                 <lb/></langusage>
@@ -34,7 +34,7 @@
             <unittitle>Ebenezer Stevens Papers</unittitle>
             <unitid>MS 592</unitid>
             <repository>
-                <corpname>@ 2010 New-York Historical Society</corpname>
+                <corpname>© 2011 New-York Historical Society</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -47,20 +47,12 @@
                 <extent>(3 boxes)</extent>
             </physdesc>
             <unitdate normal="1776/1822" type="inclusive">1776-1822</unitdate>
-            <langmaterial id="ref33" label="Language of Materials Note">The Ebenezer Stevens Papers are primarily in English but contains several documents in French and Spanish.</langmaterial>
             <abstract id="ref68" label="Abstract">Ebenezer Stevens (1751-1823) served as a soldier and officer in the Continental Army and the New York State Artillery Corps during the Revolutionary War. Post-war, Stevens was an agent for the United States War Department as well as a successful merchant in New York City. This collection documents his activities as a merchant both indepentently and for the militia. Additionally, it documents Stevens' role as a commanding officer, specifically during the fortification of New York City in the early 1800s.</abstract>
+            <langmaterial id="ref33" label="Language of Materials Note">The Ebenezer Stevens Papers are primarily in English but contains several documents in French and Spanish.</langmaterial>
             <origination label="creator">
                 <persname source="naf">Stevens, Ebenezer, 1751-1823</persname>
             </origination>
         </did>
-        <prefercite id="ref35">
-            <head>Preferred Citation Note</head>
-            <p>This collection should be cited as the Ebenezer Stevens Papers, MS 592, The New-York Historical Society.</p>
-        </prefercite>
-        <userestrict id="ref40">
-            <head>Use Restrictions</head>
-            <p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote to: Manuscript Curator, The New-York Historical Society, 170 Central Park West, New York, NY 10024</p>
-        </userestrict>
         <bioghist id="ref56">
             <head>Biographical/Historical Note</head>
             <p>Ebenezer Stevens was born in Boston, Massachusetts on August 22, 1757 to Ebenezer Stevens and Elizabeth Weld Stevens. At the age of seventeen, Stevens joined a local artillery company, beginning his long military career. With this company, Stevens participated in the Boston Tea Party in 1773. Stevens left the artillery for steady employment and found work as a carpenter in Providence, Rhode Island where he married his first wife Rebecca Hodgdon in 1774. Stevens and Hodgdon had three children; Horatio Gates (named after the military hero and personal friend of Stevens), Rebecca Hodgdon and George Alexander.</p>
@@ -76,6 +68,11 @@
             <p/>
             <p/>
         </bioghist>
+        <scopecontent id="ref54">
+            <head>Scope and Content Note</head>
+            <p>The Ebenezer Stevens Papers consist of the correspondence, military and financial records of Ebenezer Stevens. The collection mainly documents Stevens' tenure as a soldier and officer in the New York State Militia, focusing particularly on daily functions and the fortification of New York Harbor in the years 1802-1814. The papers do not contain much information about Stevens' Revolutionary War efforts, aside from two military orders. Additionally, the papers document Stevens' work as a merchant, both independently and as an agent for the US War Department.</p>
+            <p>The collection also contains military orders and reports, inventories, bills of lading, accounts and several legal documents. Some notable correspondents include Horatio Gates, John Lamb, John Jay, Alexander Hamilton and Philip Schuyler.</p>
+        </scopecontent>
         <arrangement id="ref39">
             <head>Arrangement Note</head>
             <p>The Ebenezer Stevens Papers are arranged chronologically within each series.</p>
@@ -105,15 +102,18 @@
                 <lb/></p>
             <p></p>
         </relatedmaterial>
+        <userestrict id="ref40">
+            <head>Use Restrictions</head>
+            <p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote to: Manuscript Curator, The New-York Historical Society, 170 Central Park West, New York, NY 10024</p>
+        </userestrict>
         <accessrestrict id="ref37">
             <head>Access Restrictions</head>
             <p>Open to qualified researchers.</p>
         </accessrestrict>
-        <scopecontent id="ref54">
-            <head>Scope and Content Note</head>
-            <p>The Ebenezer Stevens Papers consist of the correspondence, military and financial records of Ebenezer Stevens. The collection mainly documents Stevens' tenure as a soldier and officer in the New York State Militia, focusing particularly on daily functions and the fortification of New York Harbor in the years 1802-1814. The papers do not contain much information about Stevens' Revolutionary War efforts, aside from two military orders. Additionally, the papers document Stevens' work as a merchant, both independently and as an agent for the US War Department.</p>
-            <p>The collection also contains military orders and reports, inventories, bills of lading, accounts and several legal documents. Some notable correspondents include Horatio Gates, John Lamb, John Jay, Alexander Hamilton and Philip Schuyler.</p>
-        </scopecontent>
+        <prefercite id="ref35">
+            <head>Preferred Citation Note</head>
+            <p>This collection should be cited as the Ebenezer Stevens Papers, MS 592, The New-York Historical Society.</p>
+        </prefercite>
         <controlaccess>
             <persname source="naf">Gates, Horatio , 1728-1806</persname>
             <persname source="naf">Hamilton, Alexander , 1757-1804</persname>
@@ -364,6 +364,14 @@
                         <container id="cid367003" type="Box" label="Mixed materials">3</container>
                         <container parent="cid367003" type="Folder">3</container>
                         <unitdate>1789-1806</unitdate>
+                    </did>
+                </c>
+                <c id="ref71" level="file">
+                    <did>
+                        <unittitle>Commission [Y-Stevens, Ebenezer]</unittitle>
+                        <container id="cid1397001" type="Box" label="Mixed materials">Oversize </container>
+                        <container parent="cid1397001" type="Folder">Small</container>
+                        <unitdate>1798</unitdate>
                     </did>
                 </c>
             </c>
