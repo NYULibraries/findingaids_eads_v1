@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_430_culyer</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_430_culyer.html">arms_1977_430_culyer</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the John Yapp Culyer collection
@@ -25,11 +25,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-11T15:18-0500</date>
+                <date>2015-10-16T16:57-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>September 2015</date>
+                <item>Revised by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -43,10 +49,11 @@
             </langmaterial>
             <container id="cid883001" type="Box" label="Text">A0070</container>
             <physdesc>
-                <extent>0.08 Linear feet</extent>
-                <extent>in one folder</extent>
+                <extent>0.1 linear feet</extent>
+                <extent>in two folders</extent>
             </physdesc>
-            <unitdate normal="1921/1955" type="inclusive">1921-1955</unitdate>
+            <unitdate normal="1870/1955" type="inclusive">circa 1870s-1955</unitdate>
+            <abstract id="ref6" label="Abstract">The John Yapp Culyer collection dates from circa 1870s to 1955 and consists of photographs and newspaper clippings concerning John Yapp Culyer and other members of the Culyer family. John Yapp Culyer (1839-1924) was the Chief Landscape Engineer of Prospect Park. During the park's construction, Culyer was charged by the park's commission to oversee the development of the park's public uses. He also oversaw the construction of Ocean Parkway, the Concourse at Coney Island, and was involved in the construction of several railroads in Brooklyn. Culyer was an eyewitness to the assassination of U.S. President Abraham Lincoln.</abstract>
             <origination label="creator">
                 <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Daily Eagle (Firm).</corpname>
             </origination>
@@ -61,8 +68,14 @@
         </prefercite>
         <scopecontent id="ref2">
             <head>Scope and Contents note</head>
-            <p>The John Yapp Culyer collection spans the period 1922 to 1955 and consists entirely of newspaper clippings concerning John Yapp Culyer and other members of the Culyer family. The clippings include an article about Culyer's reminiscences of witnessing the assassination of Abraham Lincoln, two obituaries written for Culyer, an obituary for John Yapp Culyer's son, Thurston Culyer, and two articles about the Culyer family's summer home located in Mt. Kisco, New York.</p>
+            <p>The John Yapp Culyer collection dates from circa 1870s to 1955 and consists of photographs and newspaper clippings concerning John Yapp Culyer and other members of the Culyer family.</p>
+            <p>The clippings include an article about Culyer's reminiscences of witnessing the assassination of Abraham Lincoln, two obituaries written for Culyer, an obituary for John Yapp Culyer's son, Thurston Culyer, and two articles about the Culyer family's summer home located in Mt. Kisco, New York.</p>
+            <p>The photographs consist of portraits of Culyer and his wife, and one group family photograph.</p>
         </scopecontent>
+        <processinfo id="ref7">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level. The Culyer family photographs had been removed from the collection in 1998 (as V1998.052), and were returned by processing archivist John Zarrillo in September 2015.</p>
+        </processinfo>
         <accessrestrict id="ref1">
             <head>Conditions Governing Access note</head>
             <p>Open to users without restriction.</p>
@@ -76,11 +89,14 @@
             <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Culyer, John Y.,  (John Yapp), 1839-1924</persname>
             <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Lincoln, Abraham, 1809-1865</persname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Civil engineering |z New York (State) |z Kings County</geogname>
+            <subject source="lcsh">Civil engineering |z New York (State) |z Kings County</subject>
             <genreform source="aat">Clippings (information artifacts)</genreform>
             <subject source="lcsh">Engineers |z New York (State) |z Kings County</subject>
             <geogname source="local">Ocean Parkway (New York, N.Y.)</geogname>
+            <genreform source="aat">Photographs</genreform>
+            <genreform source="aat">Portraits</genreform>
             <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
+            <genreform source="aat">Tintypes (prints)</genreform>
         </controlaccess>
         <dsc/>
     </archdesc>
