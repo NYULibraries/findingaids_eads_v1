@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_076">aia_076</eadid>
         <filedesc>
             <titlestmt>
@@ -22,11 +22,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-04-08T14:41-0400</date>
+                <date>2015-11-20T10:24-0500</date>
             </creation>
             <langusage>Finding aid is in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>10/19/2015</date>
+                <item>Revised by Emma Sarconi to incorporate materials from accession 2015.051.</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -39,20 +45,20 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>2.0 linear feet</extent>
-                <extent>in 2 record cartons</extent>
+                <extent>9.25 linear feet</extent>
+                <extent>in 9 record cartons and 1 oversized flat box</extent>
             </physdesc>
-            <unitdate normal="1986/2003" type="bulk">Bulk, 1986-2003</unitdate>
-            <unitdate normal="1933/2003" type="inclusive">1933-2003</unitdate>
+            <unitdate normal="1760/2003" type="bulk">Bulk, 1760-2003</unitdate>
+            <unitdate normal="1660/2003" type="inclusive">1660-2003</unitdate>
             <langmaterial id="ref5" label="Language of Materials note">Materials are in English.</langmaterial>
-            <abstract id="ref11" label="Abstract">Kerby A. Miller is a historian and Curators’ Professor at the University of Missouri. Miller graduated from Pomona College in 1966 and University of California, Berkley with an M.A. in 1967 and a Ph.D in 1976. His teaching and published work often focuses on Irish history, often with an emphasis on social, immigration, and urban history. Materials in this collection include a copy of Nicholas Nolan’s 1933 Ph.D. thesis from University College Dublin titled “A Celtic Exodus, or the Irish Emigration”; photocopies of American Loyalists’ petitions during the British government during the American Revolutionary War asking for compensation for losses, explaining their political acts and affiliations, and describing their lives in America; and a run of British Information Services news bulletins on various aspects of the Troubles in Northern Ireland during the late 1980s and early 1990s.</abstract>
+            <abstract id="ref11" label="Abstract">Kerby A. Miller is a historian and Curators’ Professor at the University of Missouri. Miller graduated from Pomona College in 1966 and University of California, Berkley with an M.A. in 1967 and a Ph.D in 1976. His teaching and published work focuses on Irish history, often with an emphasis on social, immigration, and urban history. This collection consists of materials created or collected by Kerby Miller in the course of his research, teaching, and writing on Irish and Irish American history. Materials include photocopies of American Loyalists' petitions to the British government, a run of British Information Services news bulletins concerning conflict in Northern Ireland, and research materials created in the course of his academic scholarship, including original writings, reviews of his work, photocopied letters from Irish immigrants and citizens, and correspondence between Miller and other academics and institutions. Major subjects and themes present in these research files include pre- and post-immigration economic issues, experiences coming to and first impressions of living in America, genealogical records, and accounts of Irish family life.</abstract>
             <origination label="creator">
                 <persname rules="dacs" source="naf">Miller, Kerby A.</persname>
             </origination>
         </did>
         <arrangement id="ref1">
             <head>Arrangement</head>
-            <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
+            <p>This collection has not been arranged by an archivist, but groupings of materials have been identified based on similar content and context of creation. The materials are arranged in the order in which they were received from the donor.</p>
         </arrangement>
         <accessrestrict id="ref2">
             <head>Access Restrictions</head>
@@ -64,7 +70,7 @@
         </userestrict>
         <acqinfo id="ref4">
             <head>Immediate Source of Acquisition note</head>
-            <p>Donated by Kerby Miller in 2015. The accession number associated with this gift is 2015.018.</p>
+            <p>Donated by Kerby Miller in April 2015. The accession number associated with this gift is 2015.018. An additional 8 boxes were donated in June of 2015 as accession 2015.051 and added as "Academic Research and Writing" series.</p>
         </acqinfo>
         <prefercite id="ref6">
             <head>Preferred Citation</head>
@@ -77,13 +83,9 @@
             <p>Bruce Boling Papers (AIA 062)</p>
             <p>Paul O'Dwyer Papers (AIA 069)</p>
         </relatedmaterial>
-        <accruals id="ref8">
-            <head>Accruals note</head>
-            <p>Further additions to this collection are expected.</p>
-        </accruals>
         <bioghist id="ref9">
             <head>Historical/Biographical Note</head>
-            <p>Kerby A. Miller is a historian and Curators’ Professor at the University of Missouri. Miller graduated from Pomona College in 1966 and University of California, Berkley with an M.A. in 1967 and a Ph.D in 1976. His teaching and published work often focus on Irish history, with an emphasis on social, immigration, and urban history. During his career, Miller has served as an adviser, consultant, and visiting professor for many institutions. He has authored or co-authored numerous books, journal articles, and essays, including 
+            <p>Kerby A. Miller is a historian and Curators’ Professor at the University of Missouri. Miller graduated from Pomona College in 1966 and University of California, Berkley with an M.A. in 1967 and a Ph.D in 1976. His teaching and published work often focus on Irish and Irish American history, with an emphasis on social, immigration, and urban issues. During his career, Miller has served as an adviser, consultant, and visiting professor for many institutions. He has authored or co-authored numerous books, journal articles, and essays, including 
                 <emph render="italic">Emigrants and Exiles: Ireland and the Irish Exodus to North America</emph>; 
                 <emph render="italic">Out of Ireland: The Story of Irish Emigration to America</emph>; 
                 <emph render="italic">Irish Immigrants in the Land of Canaan: Letters and Memoirs from Colonial and Revolutionary America, 1675-1815</emph>; and 
@@ -91,58 +93,1079 @@
         </bioghist>
         <scopecontent id="ref10">
             <head>Scope and Content Note</head>
-            <p>This collection consists of materials created or collected by Kerby Miller in the course of his research, teaching, and writing on Irish and Irish American history. Materials include a copy of Nicholas Nolan’s 1933 Ph.D. thesis from University College Dublin titled “A Celtic Exodus, or the Irish Emigration”; photocopies of American Loyalists’ petitions during the British government during the American Revolutionary War asking for compensation for losses, explaining their political acts and affiliations, and describing their lives in America; and a run of British Information Services news bulletins on various aspects of the Troubles in Northern Ireland during the late 1980s and early 1990s.</p>
+            <p>This collection consists of materials created or collected by Kerby Miller in the course of his research, teaching, and writing on Irish and Irish American history. Materials include photocopies of American Loyalists' petitions to the British government, a run of British Information Services news bulletins concerning conflict in Northern Ireland, and research materials created in the course of his academic scholarship, including original writings, reviews of his work, photocopied letters from Irish immigrants and citizens, and correspondence between Miller and other academics and institutions. Major subjects and themes present in these research files include accounts of Irish family life, pre- and post-immigration economic issues, and experiences coming to and first impressions of living in America.</p>
         </scopecontent>
         <processinfo id="ref12">
             <head>Processing Information note</head>
-            <p>Collection was received with materials divided into distinct sets based on topic or type of material, with some materials loose and others in titled, alphabetized manila folders. Loose materials were rehoused in acid-free folders and boxes, described, and arranged by an archivist. Alphabetized and foldered photocopies of American loyalist petitions to the British government were kept in their original folders and in their original order.</p>
+            <p>Collection was received with materials divided into distinct sets based on topic or type of material, with some materials loose and others in titled, alphabetized manila folders. Loose materials were rehoused in acid-free folders and boxes, and described by an archivist. Alphabetized and foldered photocopies of American loyalist petitions to the British government were kept in their original folders and in their original order.</p>
+            <p>An accretion was received in June 2015 and described in October of 2015, and incorporated into the collection as the series "Academic Research and Writing" based on its content and the context of its creation. These materials were rehoused in acid-free folders and boxes when necessary while keeping the folders in their original order. Folder titles were transcribed directly from original folders when necessary. Oversized materials were removed from their original order and rehoused in bigger boxes and folders.</p>
         </processinfo>
         <controlaccess>
             <corpname source="naf">British Information Services.</corpname>
             <subject source="lcsh">American loyalists.</subject>
-            <subject source="lcsh">Discrimination in employment |z Northern Ireland.</subject>
             <geogname source="lcsh">Great Britain |x History |y 20th century.</geogname>
             <geogname source="lcsh">Ireland |x Emigration and immigration.</geogname>
+            <geogname source="lcsh">Ireland |x History |y 18th century</geogname>
             <geogname source="lcsh">Northern Ireland |x History |y 1969-1994.</geogname>
             <subject source="lcsh">Press and propaganda</subject>
             <subject source="lcsh">United States |x History |y Revolution, 1775-1783.</subject>
             <subject source="lcsh">Violence |z Northern Ireland.</subject>
         </controlaccess>
         <dsc>
-            <c id="ref13" level="file">
+            <c id="ref19" level="series">
                 <did>
-                    <unittitle>American Loyalist Petitions to the British Government</unittitle>
-                    <container id="cid23611001" type="Box" label="Mixed materials">1</container>
-                    <unitdate>circa 2003</unitdate>
+                    <unittitle>Irish Materials Collected by Miller</unittitle>
                 </did>
-                <scopecontent id="ref16">
+                <scopecontent id="ref175">
                     <head>Scope and Content Note</head>
-                    <p>Photocopies and related research material of Irish-born American Loyalists' petitions to the British government during the American Revolutionary War. In these letters, the writers ask for compensation for their losses, explaing their political acts and affiliations, and describe their lives in America (including their occupations and emigration history). Other documents include lists and indexes of claimants, as well as the determinations made by the Commission of Inquiry into the Losses and Services of the American Loyalists.</p>
+                    <p>Materials in this series include a copy of Nicholas Nolan’s 1933 Ph.D. thesis from University College Dublin titled “A Celtic Exodus, or the Irish Emigration”; photocopies of American Loyalists’ petitions during the British government during the American Revolutionary War asking for compensation for losses, explaining their political acts and affiliations, and describing their lives in America; and a run of British Information Services news bulletins on various aspects of the Troubles in Northern Ireland during the late 1980s and early 1990s.</p>
                 </scopecontent>
-                <originalsloc id="ref17">
-                    <head>Existence and Location of Originals note</head>
-                    <p>Photocopies of this material was made from a microfilm collection entitled "American Loyalists: Transcripts of the Manuscript Books and Papers of the Commission of Inquiry into the Losses and Services of the American Loyalists" that was transcribed for the New York Public Library. The original records from which the microfilm collection was created are housed in the Public Record Office of England.</p>
-                </originalsloc>
+                <c id="ref13" level="file">
+                    <did>
+                        <unittitle>American Loyalist Petitions to the British Government</unittitle>
+                        <container id="cid23611001" type="Box" label="Mixed materials (31142054611242)">1</container>
+                        <unitdate>circa 2003</unitdate>
+                    </did>
+                    <scopecontent id="ref16">
+                        <head>Scope and Content Note</head>
+                        <p>Photocopies and related research material of Irish-born American Loyalists' petitions to the British government during the American Revolutionary War. In these letters, the writers ask for compensation for their losses, explaing their political acts and affiliations, and describe their lives in America (including their occupations and emigration history). Other documents include lists and indexes of claimants, as well as the determinations made by the Commission of Inquiry into the Losses and Services of the American Loyalists.</p>
+                    </scopecontent>
+                    <originalsloc id="ref17">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Photocopies of this material was made from a microfilm collection entitled "American Loyalists: Transcripts of the Manuscript Books and Papers of the Commission of Inquiry into the Losses and Services of the American Loyalists" that was transcribed for the New York Public Library. The original records from which the microfilm collection was created are housed in the Public Record Office of England.</p>
+                    </originalsloc>
+                </c>
+                <c id="ref14" level="file">
+                    <did>
+                        <unittitle>British Information Services Bulletins</unittitle>
+                        <container id="cid23611002" type="Box" label="Mixed materials (31142054611259)">2</container>
+                        <container parent="cid23611002" type="Folder">1-16</container>
+                        <unitdate normal="1986/1991" type="inclusive">1986-1991</unitdate>
+                    </did>
+                    <scopecontent id="ref18">
+                        <head>Scope and Content Note</head>
+                        <p>Collection of weekly or bi-weekly bulletins produced by the British Information Services in New York City concerning the Troubles in the late 1980s and early 1990s. These bulletins acted as propangda policy briefs on various aspects of conflict in Northern Ireland, producing a directed message for media coverage consistent with official British diplomatic policy. Subjects that frequently appear in these bulletins include religion, electoral politics, employment discrimination, paramilitary funerals, law enforcement practices or regulations, and incidents of violence attributed to various Irish republican paramilitary groups, as well as dossiers of republican organizations such as Sinn Fein, the Official Irish Republican Army (IRA), the Provisional Irish Republican Army (IRA or PIRA), and the Irish National Liberation Army (INLA). Also present are excerpts of statements made by officials or other prominent figures.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle>Nolan, Nicholas. "A Celtic Exodus, or the Irish Emigration”</unittitle>
+                        <container id="cid23611003" type="Box" label="Mixed materials (31142054611259)">2</container>
+                        <container parent="cid23611003" type="Folder">17-18</container>
+                        <unitdate normal="1933/1933">1933</unitdate>
+                    </did>
+                </c>
             </c>
-            <c id="ref14" level="file">
+            <c id="ref20" level="series">
                 <did>
-                    <unittitle>British Information Services Bulletins</unittitle>
-                    <container id="cid23611002" type="Box" label="Mixed materials">2</container>
-                    <container parent="cid23611002" type="Folder">1-16</container>
-                    <unitdate normal="1986/1991" type="inclusive">1986-1991</unitdate>
+                    <unittitle>Academic Research and Writing</unittitle>
                 </did>
-                <scopecontent id="ref18">
+                <scopecontent id="ref176">
                     <head>Scope and Content Note</head>
-                    <p>Collection of weekly or bi-weekly bulletins produced by the British Information Services in New York City concerning the Troubles in the late 1980s and early 1990s. These bulletins acted as propangda policy briefs on various aspects of conflict in Northern Ireland, producing a directed message for media coverage consistent with official British diplomatic policy. Subjects that frequently appear in these bulletins include religion, electoral politics, employment discrimination, paramilitary funerals, law enforcement practices or regulations, and incidents of violence attributed to various Irish republican paramilitary groups, as well as dossiers of republican organizations such as Sinn Fein, the Official Irish Republican Army (IRA), the Provisional Irish Republican Army (IRA or PIRA), and the Irish National Liberation Army (INLA). Also present are excerpts of statements made by officials or other prominent figures.</p>
+                    <p>This series consists of Miller's research materials, original writings, and ephemera created in the course of his academic scholarship, including photocopied letters from Irish immigrants and citizens, correspondence between Miller and other academics and institutions, and response to and reviews of Miller's writings. Major subjects and themes present in the research notes and copies of primary source materials include genealogical records, accounts of Irish family life, pre- and post-immigration economic issues, and experiences coming to and first impressions of living in America.</p>
                 </scopecontent>
-            </c>
-            <c id="ref15" level="file">
-                <did>
-                    <unittitle>Nolan, Nicholas. "A Celtic Exodus, or the Irish Emigration”</unittitle>
-                    <container id="cid23611003" type="Box" label="Mixed materials">2</container>
-                    <container parent="cid23611003" type="Folder">17-18</container>
-                    <unitdate normal="1933/1933">1933</unitdate>
-                </did>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>Rev. Samuel Blair</unittitle>
+                        <container id="cid23776001" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776001" type="Folder">1</container>
+                        <unitdate normal="1712/1751" type="inclusive">1712-1751</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>Memoir (Probably from Journal Notes): Rev. John Craig</unittitle>
+                        <container id="cid23776002" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776002" type="Folder">2</container>
+                        <unitdate normal="1704/1774" type="inclusive">1704-1774</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>Rev. John Craig</unittitle>
+                        <container id="cid23776003" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776003" type="Folder">3</container>
+                        <unitdate>1740s-1760s</unitdate>
+                    </did>
+                </c>
+                <c id="ref24" level="file">
+                    <did>
+                        <unittitle>Mary Cummings: Research Material</unittitle>
+                        <container id="cid23776004" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776004" type="Folder">4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle>Mary Cummings: Letters</unittitle>
+                        <container id="cid23776005" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776005" type="Folder">5</container>
+                        <unitdate>1811-1815</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>Margaret Carey Murphy Burke</unittitle>
+                        <container id="cid23776006" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776006" type="Folder">6-8</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>McAleer Research: Margaret Carey</unittitle>
+                        <container id="cid23776009" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776009" type="Folder">9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle>Thomas Shipboy</unittitle>
+                        <container id="cid23776010" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776010" type="Folder">10</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle>Shipboy Letters</unittitle>
+                        <container id="cid23776011" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776011" type="Folder">11</container>
+                        <unitdate>1766</unitdate>
+                    </did>
+                </c>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle>Reviews: Field Day Book</unittitle>
+                        <container id="cid23776012" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776012" type="Folder">12</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Reviews: 
+                            <title render="italic">Emigrants and Exiles</title></unittitle>
+                        <container id="cid23776013" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776013" type="Folder">13</container>
+                        <unitdate>circa 1988</unitdate>
+                    </did>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle>Reviews: 
+                            <title render="italic">Irish Immigrants in the Land of Canaan</title></unittitle>
+                        <container id="cid23776014" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776014" type="Folder">14</container>
+                        <unitdate>circa 2003</unitdate>
+                    </did>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle>Reviews: Miscellaneous Essays</unittitle>
+                        <container id="cid23776015" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776015" type="Folder">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="file">
+                    <did>
+                        <unittitle>Reviews: Coffee Table Books</unittitle>
+                        <container id="cid23776016" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776016" type="Folder">16</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>Reviews: Pop Culture</unittitle>
+                        <container id="cid23776017" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776017" type="Folder">17</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref38" level="file">
+                    <did>
+                        <unittitle>Journalism on Kerby Miller</unittitle>
+                        <container id="cid23776018" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776018" type="Folder">18</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref39" level="file">
+                    <did>
+                        <unittitle>Films and Film Reviews</unittitle>
+                        <container id="cid23776019" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776019" type="Folder">19</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle>San Patricios Film</unittitle>
+                        <container id="cid23776020" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776020" type="Folder">20</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref41" level="file">
+                    <did>
+                        <unittitle>Miscellaneous</unittitle>
+                        <container id="cid23776021" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid23776021" type="Folder">21</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref42" level="file">
+                    <did>
+                        <unittitle>Bernard M'Kenna Letters</unittitle>
+                        <container id="cid23776022" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776022" type="Folder">1-2</container>
+                        <unitdate normal="1811/1812" type="inclusive">1811-1812</unitdate>
+                    </did>
+                </c>
+                <c id="ref44" level="file">
+                    <did>
+                        <unittitle>Bernard M'Kenna Research Materials</unittitle>
+                        <container id="cid23776024" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776024" type="Folder">3-4</container>
+                        <container id="cid23782001" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid23782001" type="Folder">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref46" level="file">
+                    <did>
+                        <unittitle>David Lindsey</unittitle>
+                        <container id="cid23776026" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776026" type="Folder">5</container>
+                        <unitdate normal="1660/1775" type="inclusive">1660-1775</unitdate>
+                    </did>
+                </c>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle>David Lindsey: Research Material</unittitle>
+                        <container id="cid23776027" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776027" type="Folder">6</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle>Johnstone (From Ireland) Letters</unittitle>
+                        <container id="cid23776028" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776028" type="Folder">7</container>
+                        <unitdate normal="1773/1808" type="inclusive">1773-1808</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>Moses Johnston: Reserach Materials</unittitle>
+                        <container id="cid23776029" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776029" type="Folder">8</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref50" level="file">
+                    <did>
+                        <unittitle>Devereux Family Letters</unittitle>
+                        <container id="cid23776030" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776030" type="Folder">9</container>
+                        <unitdate normal="1798/1800" type="inclusive">1798-1800</unitdate>
+                    </did>
+                </c>
+                <c id="ref51" level="file">
+                    <did>
+                        <unittitle>John Devereaux</unittitle>
+                        <container id="cid23776031" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776031" type="Folder">10</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref52" level="file">
+                    <did>
+                        <unittitle>McNish/ Kerr Letters</unittitle>
+                        <container id="cid23776032" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776032" type="Folder">11</container>
+                        <unitdate normal="1806/1820" type="inclusive">1806-1820</unitdate>
+                    </did>
+                </c>
+                <c id="ref53" level="file">
+                    <did>
+                        <unittitle>Alexander McNish: Research Materials</unittitle>
+                        <container id="cid23776033" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776033" type="Folder">12</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref54" level="file">
+                    <did>
+                        <unittitle>Anon Ulster Poet (In Irish)</unittitle>
+                        <container id="cid23776034" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776034" type="Folder">13</container>
+                        <unitdate normal="1660/1775" type="inclusive">1660-1775</unitdate>
+                    </did>
+                </c>
+                <c id="ref55" level="file">
+                    <did>
+                        <unittitle>Rev. James McSparron</unittitle>
+                        <container id="cid23776035" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776035" type="Folder">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref56" level="file">
+                    <did>
+                        <unittitle>Robert Parke</unittitle>
+                        <container id="cid23776036" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776036" type="Folder">15</container>
+                        <unitdate>1725</unitdate>
+                    </did>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle>Robert Parke</unittitle>
+                        <container id="cid23776037" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776037" type="Folder">16</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref58" level="file">
+                    <did>
+                        <unittitle>Chester Co. Quaker Meeting House Photo</unittitle>
+                        <container id="cid23776038" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776038" type="Folder">17</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref59" level="file">
+                    <did>
+                        <unittitle>John Rea: Letter</unittitle>
+                        <container id="cid23776039" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776039" type="Folder">18</container>
+                        <unitdate>1765</unitdate>
+                    </did>
+                </c>
+                <c id="ref60" level="file">
+                    <did>
+                        <unittitle>John Rea: Research Materials</unittitle>
+                        <container id="cid23776040" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776040" type="Folder">19</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref61" level="file">
+                    <did>
+                        <unittitle>Dunlop Letters</unittitle>
+                        <container id="cid23776041" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776041" type="Folder">20</container>
+                        <unitdate normal="1785/1811" type="inclusive">1785-1811</unitdate>
+                    </did>
+                </c>
+                <c id="ref62" level="file">
+                    <did>
+                        <unittitle>John Dunlop</unittitle>
+                        <container id="cid23776042" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776042" type="Folder">21</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref63" level="file">
+                    <did>
+                        <unittitle>John Smilie Letter</unittitle>
+                        <container id="cid23776043" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776043" type="Folder">22</container>
+                        <unitdate>circa 1762</unitdate>
+                    </did>
+                </c>
+                <c id="ref64" level="file">
+                    <did>
+                        <unittitle>John Smylie, Voyage Letter</unittitle>
+                        <container id="cid23776044" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776044" type="Folder">23</container>
+                        <unitdate>circa 1760</unitdate>
+                    </did>
+                </c>
+                <c id="ref65" level="file">
+                    <did>
+                        <unittitle>John O'Row</unittitle>
+                        <container id="cid23776045" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776045" type="Folder">24</container>
+                        <unitdate>circa 1809</unitdate>
+                    </did>
+                </c>
+                <c id="ref66" level="file">
+                    <did>
+                        <unittitle>John O'Row: Research Materials</unittitle>
+                        <container id="cid23776046" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776046" type="Folder">25</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref67" level="file">
+                    <did>
+                        <unittitle>B.8. Thomas Hinds</unittitle>
+                        <container id="cid23776047" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776047" type="Folder">26</container>
+                        <unitdate>circa 1795</unitdate>
+                    </did>
+                </c>
+                <c id="ref68" level="file">
+                    <did>
+                        <unittitle>Shepherd/ Wanborough</unittitle>
+                        <container id="cid23776048" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid23776048" type="Folder">27</container>
+                        <unitdate normal="1700/1741" type="inclusive">1700-1741</unitdate>
+                    </did>
+                </c>
+                <c id="ref69" level="file">
+                    <did>
+                        <unittitle>Thomas Shepherd</unittitle>
+                        <container id="cid23776049" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776049" type="Folder">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref70" level="file">
+                    <did>
+                        <unittitle>Scottish Tenant's Letter</unittitle>
+                        <container id="cid23776050" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776050" type="Folder">2</container>
+                        <unitdate normal="1710/1730" type="inclusive">1710-1730</unitdate>
+                    </did>
+                </c>
+                <c id="ref71" level="file">
+                    <did>
+                        <unittitle>Londonberry, N.H. Petitions</unittitle>
+                        <container id="cid23776051" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776051" type="Folder">3</container>
+                        <unitdate normal="1720/1730" type="inclusive">1720-1730</unitdate>
+                    </did>
+                </c>
+                <c id="ref72" level="file">
+                    <did>
+                        <unittitle>Dr. Charles Carrel</unittitle>
+                        <container id="cid23776052" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776052" type="Folder">4</container>
+                        <unitdate>1748</unitdate>
+                    </did>
+                </c>
+                <c id="ref73" level="file">
+                    <did>
+                        <unittitle>Charles Lewis Reily Letter</unittitle>
+                        <container id="cid23776053" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776053" type="Folder">5</container>
+                        <unitdate>circa 1749</unitdate>
+                    </did>
+                </c>
+                <c id="ref74" level="file">
+                    <did>
+                        <unittitle>Samuel Bryan Letter</unittitle>
+                        <container id="cid23776054" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776054" type="Folder">6</container>
+                        <unitdate>circa 1752</unitdate>
+                    </did>
+                </c>
+                <c id="ref75" level="file">
+                    <did>
+                        <unittitle>Rev. Thomas Barton</unittitle>
+                        <container id="cid23776055" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776055" type="Folder">7</container>
+                        <unitdate>circa 1760 - 1770</unitdate>
+                    </did>
+                </c>
+                <c id="ref76" level="file">
+                    <did>
+                        <unittitle>Thos. Barton (Finished Materials)</unittitle>
+                        <container id="cid23776056" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776056" type="Folder">8-9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref78" level="file">
+                    <did>
+                        <unittitle>Thomas Burke Letters</unittitle>
+                        <container id="cid23776058" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776058" type="Folder">10-11</container>
+                        <unitdate normal="1769/1774" type="inclusive">1769-1774</unitdate>
+                    </did>
+                </c>
+                <c id="ref80" level="file">
+                    <did>
+                        <unittitle>Thomas Burke</unittitle>
+                        <container id="cid23776060" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776060" type="Folder">12</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref81" level="file">
+                    <did>
+                        <unittitle>Rev. Francis Alison</unittitle>
+                        <container id="cid23776061" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776061" type="Folder">13</container>
+                        <unitdate>circa 1760 - 1770</unitdate>
+                    </did>
+                </c>
+                <c id="ref82" level="file">
+                    <did>
+                        <unittitle>Rev. Francis Alison: Letters, Philadelphia Rev. Gilbert Tennent (Nov. 1741) PA.</unittitle>
+                        <container id="cid23776062" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776062" type="Folder">14 - 15</container>
+                        <unitdate normal="1741/1772" type="inclusive">1741-1772</unitdate>
+                    </did>
+                </c>
+                <c id="ref83" level="file">
+                    <did>
+                        <unittitle>Morton</unittitle>
+                        <container id="cid23776063" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776063" type="Folder">16</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref84" level="file">
+                    <did>
+                        <unittitle>Greer Family Letters</unittitle>
+                        <container id="cid23776064" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776064" type="Folder">17-18</container>
+                        <unitdate normal="1764/1808" type="inclusive">1764-1808</unitdate>
+                    </did>
+                </c>
+                <c id="ref89" level="file">
+                    <did>
+                        <unittitle>Thomas Wright</unittitle>
+                        <container id="cid23776067" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776067" type="Folder">19</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref90" level="file">
+                    <did>
+                        <unittitle>James McCullough Research</unittitle>
+                        <container id="cid23776068" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid23776068" type="Folder">20</container>
+                        <container id="cid23782003" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23782003" type="Folder">1-2</container>
+                        <container id="cid23782002" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid23782002" type="Folder">5</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref95" level="file">
+                    <did>
+                        <unittitle>Elizabeth Brownlee Petition</unittitle>
+                        <container id="cid23776072" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776072" type="Folder">3-4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref98" level="file">
+                    <did>
+                        <unittitle>Daniel Kent Letters</unittitle>
+                        <container id="cid23776074" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776074" type="Folder">5</container>
+                        <unitdate normal="1785/1794" type="inclusive">1785-1794</unitdate>
+                    </did>
+                </c>
+                <c id="ref99" level="file">
+                    <did>
+                        <unittitle>Kent Memoir</unittitle>
+                        <container id="cid23776075" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776075" type="Folder">6-7</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref101" level="file">
+                    <did>
+                        <unittitle>John and Jane Chambers</unittitle>
+                        <container id="cid23776077" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776077" type="Folder">8</container>
+                        <unitdate normal="1783/1814" type="inclusive">1783-1814</unitdate>
+                    </did>
+                </c>
+                <c id="ref102" level="file">
+                    <did>
+                        <unittitle>John and Jane Chambers Research Materials</unittitle>
+                        <container id="cid23776078" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776078" type="Folder">9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref103" level="file">
+                    <did>
+                        <unittitle>Wright Family Letters</unittitle>
+                        <container id="cid23776079" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776079" type="Folder">10</container>
+                        <container id="cid23782004" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid23782004" type="Folder">3</container>
+                        <unitdate>circa 1801-1860</unitdate>
+                    </did>
+                </c>
+                <c id="ref104" level="file">
+                    <did>
+                        <unittitle>Joseph Wright Research Materials</unittitle>
+                        <container id="cid23782005" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid23782005" type="Folder">6</container>
+                        <container id="cid23776080" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776080" type="Folder">11</container>
+                        <unitdate>undaetd</unitdate>
+                    </did>
+                </c>
+                <c id="ref105" level="file">
+                    <did>
+                        <unittitle>Jame McCullough Journal</unittitle>
+                        <container id="cid23776081" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776081" type="Folder">12</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref106" level="file">
+                    <did>
+                        <unittitle>Edward Toner Letters</unittitle>
+                        <container id="cid23782006" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid23782006" type="Folder">4</container>
+                        <container id="cid23776082" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776082" type="Folder">13</container>
+                        <unitdate>circa 1815 - 1844</unitdate>
+                    </did>
+                </c>
+                <c id="ref107" level="file">
+                    <did>
+                        <unittitle>Edward and Mary Toner</unittitle>
+                        <container id="cid23776083" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776083" type="Folder">14</container>
+                        <unitdate normal="1814/1844" type="inclusive">1814-1844</unitdate>
+                    </did>
+                </c>
+                <c id="ref108" level="file">
+                    <did>
+                        <unittitle>Crockett Family Letters</unittitle>
+                        <container id="cid23776084" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776084" type="Folder">15</container>
+                        <unitdate>circa 1796-1851</unitdate>
+                    </did>
+                </c>
+                <c id="ref109" level="file">
+                    <did>
+                        <unittitle>Crocket's</unittitle>
+                        <container id="cid23776085" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776085" type="Folder">16</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref110" level="file">
+                    <did>
+                        <unittitle>Crocket Letters</unittitle>
+                        <container id="cid23776086" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776086" type="Folder">17</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref111" level="file">
+                    <did>
+                        <unittitle>Crockett, James</unittitle>
+                        <container id="cid23776087" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid23776087" type="Folder">18</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref112" level="file">
+                    <did>
+                        <unittitle>Blake Family Letters</unittitle>
+                        <container id="cid23776088" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776088" type="Folder">1-3</container>
+                        <unitdate normal="1660/1776" type="inclusive">1660-1776</unitdate>
+                    </did>
+                </c>
+                <c id="ref115" level="file">
+                    <did>
+                        <unittitle>Maine Scots-Irish Petition</unittitle>
+                        <container id="cid23776091" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776091" type="Folder">4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref116" level="file">
+                    <did>
+                        <unittitle>Robert Witherspoon: Memoir</unittitle>
+                        <container id="cid23776092" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776092" type="Folder">5</container>
+                        <unitdate>1737</unitdate>
+                    </did>
+                </c>
+                <c id="ref117" level="file">
+                    <did>
+                        <unittitle>Robert Witherspoon: Research Materials</unittitle>
+                        <container id="cid23776093" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776093" type="Folder">6</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref118" level="file">
+                    <did>
+                        <unittitle>James Magraw Letters</unittitle>
+                        <container id="cid23776094" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776094" type="Folder">7</container>
+                        <unitdate>1733</unitdate>
+                    </did>
+                </c>
+                <c id="ref119" level="file">
+                    <did>
+                        <unittitle>Mary Greenlee Deposition</unittitle>
+                        <container id="cid23776095" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776095" type="Folder">8-9</container>
+                        <unitdate>circa 1730</unitdate>
+                    </did>
+                </c>
+                <c id="ref121" level="file">
+                    <did>
+                        <unittitle>Matthew Carey Political Letters</unittitle>
+                        <container id="cid23776097" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776097" type="Folder">10 - 11</container>
+                        <unitdate>circa 1780-1800</unitdate>
+                    </did>
+                </c>
+                <c id="ref123" level="file">
+                    <did>
+                        <unittitle>1799 St. Mary's Church Riot, Philadelphia</unittitle>
+                        <container id="cid23776099" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776099" type="Folder">12</container>
+                        <unitdate>1799</unitdate>
+                    </did>
+                </c>
+                <c id="ref124" level="file">
+                    <did>
+                        <unittitle>Fr. Patrick Kenny Diary</unittitle>
+                        <container id="cid23776100" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776100" type="Folder">13</container>
+                        <unitdate>circa 1790-1820</unitdate>
+                    </did>
+                </c>
+                <c id="ref125" level="file">
+                    <did>
+                        <unittitle>MacArthur Letters</unittitle>
+                        <container id="cid23776101" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776101" type="Folder">14-15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref127" level="file">
+                    <did>
+                        <unittitle>John Nevin: Letter</unittitle>
+                        <container id="cid23776103" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776103" type="Folder">16</container>
+                        <unitdate>1804</unitdate>
+                    </did>
+                </c>
+                <c id="ref128" level="file">
+                    <did>
+                        <unittitle>John Nevin: Research Materials</unittitle>
+                        <container id="cid23776104" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23776104" type="Folder">17</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref129" level="file">
+                    <did>
+                        <unittitle>Emmett/ Simms Letter</unittitle>
+                        <container id="cid23778001" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid23778001" type="Folder">18</container>
+                        <unitdate>1807</unitdate>
+                    </did>
+                </c>
+                <c id="ref130" level="file">
+                    <did>
+                        <unittitle>William Heazelton: Letters</unittitle>
+                        <container id="cid23778002" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778002" type="Folder">1</container>
+                        <unitdate>circa 1810-1815</unitdate>
+                    </did>
+                </c>
+                <c id="ref131" level="file">
+                    <did>
+                        <unittitle>William Heazelton: Research Materials</unittitle>
+                        <container id="cid23778003" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778003" type="Folder">2</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref132" level="file">
+                    <did>
+                        <unittitle>John Caldwell: Letter (98 Exile)</unittitle>
+                        <container id="cid23778004" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778004" type="Folder">3</container>
+                        <unitdate>circa 1783-1814</unitdate>
+                    </did>
+                </c>
+                <c id="ref133" level="file">
+                    <did>
+                        <unittitle>More John Caldwell</unittitle>
+                        <container id="cid23778005" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778005" type="Folder">4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref134" level="file">
+                    <did>
+                        <unittitle>John Caldwell: Research Materials</unittitle>
+                        <container id="cid23778006" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778006" type="Folder">5</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref135" level="file">
+                    <did>
+                        <unittitle>Chester Co. Petitions</unittitle>
+                        <container id="cid23778007" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778007" type="Folder">6</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref136" level="file">
+                    <did>
+                        <unittitle>More Servants and Laborers</unittitle>
+                        <container id="cid23778008" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778008" type="Folder">7</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref137" level="file">
+                    <did>
+                        <unittitle>Irish Criminal Memoirs</unittitle>
+                        <container id="cid23778009" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778009" type="Folder">8</container>
+                        <unitdate>1765</unitdate>
+                    </did>
+                </c>
+                <c id="ref138" level="file">
+                    <did>
+                        <unittitle>James Patton Memoi</unittitle>
+                        <container id="cid23778010" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778010" type="Folder">9</container>
+                        <unitdate>circa 1783-1814</unitdate>
+                    </did>
+                </c>
+                <c id="ref139" level="file">
+                    <did>
+                        <unittitle>Mathew Carey Petitions (Brie)</unittitle>
+                        <container id="cid23778011" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778011" type="Folder">10-11</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref141" level="file">
+                    <did>
+                        <unittitle>Brown Family Letters</unittitle>
+                        <container id="cid23778013" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778013" type="Folder">12</container>
+                        <unitdate>circa 1793-1816</unitdate>
+                    </did>
+                </c>
+                <c id="ref142" level="file">
+                    <did>
+                        <unittitle>Samuel, James, Thomas Brown</unittitle>
+                        <container id="cid23778014" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778014" type="Folder">13</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref143" level="file">
+                    <did>
+                        <unittitle>Brown, Revisions, Philadelphia, Strikes, Etc</unittitle>
+                        <container id="cid23778015" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778015" type="Folder">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref144" level="file">
+                    <did>
+                        <unittitle>Francis Campbell</unittitle>
+                        <container id="cid23778016" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778016" type="Folder">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref145" level="file">
+                    <did>
+                        <unittitle>Robert Pillson: Letters</unittitle>
+                        <container id="cid23778017" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778017" type="Folder">16</container>
+                        <unitdate>circa 1764-1765 </unitdate>
+                    </did>
+                </c>
+                <c id="ref146" level="file">
+                    <did>
+                        <unittitle>Robert Pillson: Research Materials</unittitle>
+                        <container id="cid23778018" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778018" type="Folder">17</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref147" level="file">
+                    <did>
+                        <unittitle>John (O) Kelly</unittitle>
+                        <container id="cid23778019" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778019" type="Folder">18</container>
+                        <container id="cid23782007" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid23782007" type="Folder">8</container>
+                        <unitdate>1773</unitdate>
+                    </did>
+                </c>
+                <c id="ref148" level="file">
+                    <did>
+                        <unittitle>Redic-Burke (and Findlay, Bryan, Etc.</unittitle>
+                        <container id="cid23778020" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid23778020" type="Folder">19</container>
+                        <container id="cid23782008" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid23782008" type="Folder">2</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref149" level="file">
+                    <did>
+                        <unittitle>John Kennedy Petition (from Truxes)</unittitle>
+                        <container id="cid23778021" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778021" type="Folder">1</container>
+                        <unitdate>circa 1753</unitdate>
+                    </did>
+                </c>
+                <c id="ref150" level="file">
+                    <did>
+                        <unittitle>Benj Chandlee Letters</unittitle>
+                        <container id="cid23778022" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778022" type="Folder">2</container>
+                        <unitdate>circa 1705 - 1707</unitdate>
+                    </did>
+                </c>
+                <c id="ref151" level="file">
+                    <did>
+                        <unittitle>Chester Co., Pennsylvania Servants Petitions</unittitle>
+                        <container id="cid23778023" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778023" type="Folder">3</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref152" level="file">
+                    <did>
+                        <unittitle>John McDonnell</unittitle>
+                        <container id="cid23778024" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778024" type="Folder">4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref153" level="file">
+                    <did>
+                        <unittitle>Morton Background Info</unittitle>
+                        <container id="cid23778025" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778025" type="Folder">5</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref154" level="file">
+                    <did>
+                        <unittitle>Caldwell Family Letters</unittitle>
+                        <container id="cid23778026" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778026" type="Folder">6</container>
+                        <unitdate>circa 1774</unitdate>
+                    </did>
+                </c>
+                <c id="ref155" level="file">
+                    <did>
+                        <unittitle>James Caldwell: Research Materials</unittitle>
+                        <container id="cid23778027" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778027" type="Folder">7</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref156" level="file">
+                    <did>
+                        <unittitle>Matthew Patton: Diary</unittitle>
+                        <container id="cid23778028" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778028" type="Folder">8</container>
+                        <unitdate>circa 1774-1776</unitdate>
+                    </did>
+                </c>
+                <c id="ref157" level="file">
+                    <did>
+                        <unittitle>Matthew Patton: Journal</unittitle>
+                        <container id="cid23778029" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778029" type="Folder">9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref158" level="file">
+                    <did>
+                        <unittitle>South Carolina Loyalists' Petitions</unittitle>
+                        <container id="cid23778030" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778030" type="Folder">10</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref159" level="file">
+                    <did>
+                        <unittitle>Loyalists' Petition (Crary Article)</unittitle>
+                        <container id="cid23778031" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778031" type="Folder">11</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref160" level="file">
+                    <did>
+                        <unittitle>Job Johns on Letters</unittitle>
+                        <container id="cid23778032" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778032" type="Folder">12</container>
+                        <unitdate>circa 1776-1784</unitdate>
+                    </did>
+                </c>
+                <c id="ref161" level="file">
+                    <did>
+                        <unittitle>Job Johnston: Research Materials</unittitle>
+                        <container id="cid23778033" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778033" type="Folder">13</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref162" level="file">
+                    <did>
+                        <unittitle>Reddick-Burke Letters</unittitle>
+                        <container id="cid23778034" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778034" type="Folder">14</container>
+                        <unitdate>circa 1787-1788</unitdate>
+                    </did>
+                </c>
+                <c id="ref163" level="file">
+                    <did>
+                        <unittitle>Post-Revolution Politics</unittitle>
+                        <container id="cid23778035" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778035" type="Folder">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref164" level="file">
+                    <did>
+                        <unittitle>John McDonnell</unittitle>
+                        <container id="cid23778036" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778036" type="Folder">16</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref165" level="file">
+                    <did>
+                        <unittitle>McCurtin</unittitle>
+                        <container id="cid23778037" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid23778037" type="Folder">17</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref172" level="file">
+                    <did>
+                        <unittitle>Photocopies from the Historical Society of Pennsylvania</unittitle>
+                        <container id="cid23778044" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid23778044" type="Folder">7</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
             </c>
         </dsc>
     </archdesc>
