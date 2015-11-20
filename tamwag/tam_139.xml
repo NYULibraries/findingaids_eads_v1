@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_139</eadid>
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_139/">tam_139</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Greenwich House Records
@@ -22,23 +22,19 @@
                 </address>
                 <date>2009</date>
             </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>Finding Aid</p>
-                </note>
-            </notestmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-05-04T11:16-0400</date>
+                <date>2015-11-20T10:59-0500</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>2014</date>
-                <item>Edited by Maggie Schreiner and Erika Gottfried to reflect updated administrative information.</item>
+                <date>Nov 2015</date>
+                <item>Edited by Maggie Schreiner and Erika Gottfried to reflect updated administrative information in 2014. Edited by Heather Mulliner to reflect incorporation of 2015 donation</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -52,10 +48,9 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid19015001" type="Box" label="Mixed materials">1-115</container>
             <physdesc>
-                <extent>102.5 linear feet</extent>
-                <extent>(118 boxes)</extent>
+                <extent>106.75 linear feet</extent>
+                <extent>(123 boxes)</extent>
             </physdesc>
             <unitdate normal="1896/1946" type="bulk">Bulk, 1896-1946</unitdate>
             <unitdate normal="1896/1990" type="inclusive">1896-1990, (Bulk 1896-1946)</unitdate>
@@ -66,6 +61,10 @@
                 <corpname rules="dacs" source="local">Greenwich House (New York, N.Y.).</corpname>
             </origination>
         </did>
+        <processinfo id="ref6669">
+            <head>Processing Information note</head>
+            <p>In 2015, a donation of materials from the Greenwich House Music School were added to the portion of the collection that has not been microfilmed in Series VIII: Greenwich House post-Simkovitch; Subseries 7: Music School.</p>
+        </processinfo>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
             <p>Open for research without restrictions.</p>
@@ -135,6 +134,7 @@
             <p>
                 <emph render="bold">Series VIII: Greenwich House post-Simkhovitch records</emph></p>
             <p>Series VIII contains Greenwich House records from the period following the retirement of Mary Simkhovitch up to 1990. It includes records of the Music House and Pottery School, the New York House &amp; School of Industry, and United Neighborhood Houses.</p>
+            <p>Music School materials added to this series in 2015 include administrative and programming records created between the late 1940s and 1990s. These documents consist of class rosters from the 1960s, monthly statistics 1956-59, financial statements 1974-1978, events calendars, programs flyers, brochures, issues of the Newsletter “Quarter Notes” 1989-1994, Annual Programs 1949-1980, GHMS Renee Weiler Music Center annual programs 1982-1993, and assorted staff files. Greenwich House Music School materials also contain records related to German Dietz, who worked for many years as the chairman of the music school's piano department. These documents consists of Dietz's student roll books,assorted Greenwich House Music School booklets and budgetary data from the 1940s, Greenwich House Music School programs and class materials, personal correspondence from the 1950s and early 2000s, documents related to Dietz's emigration from Cuba, and SUNY Purchase teaching materials 1984-1999. Also contained in these materials are a number of audio/visual recordings of Greenwich House Music School events between 1973 and 1994.</p>
             <p>The Greenwich House post-Simkhovitch records were NOT microfilmed.</p>
         </scopecontent>
         <arrangement id="ref10">
@@ -168,7 +168,7 @@
         </altformavail>
         <acqinfo id="ref6659">
             <head>Immediate Source of Acquisition note</head>
-            <p>Greenwich House donated a collection of their records to Tamiment Library in 1986. The accession number associated with this gift is 1986.030. Additionally, a donation of 26 scrapbooks was added to the collection in 2010. The accession number associated with this gift is 2010.012. Materials found in repository were incorporated into the collection in 2014. The accession number associated with these materials is 2014.064.</p>
+            <p>Greenwich House donated a collection of their records to Tamiment Library in 1986. The accession number associated with this gift is 1986.030. Additionally, a donation of 26 scrapbooks was added to the collection in 2010. The accession number associated with this gift is 2010.012. Materials found in repository were incorporated into the collection in 2014. The accession number associated with these materials is 2014.064. In 2015, Greenwich House sent an additional 5 boxes of materials related to Music School events and programs. The accession number associated with this gift is 2015.016</p>
         </acqinfo>
         <userestrict id="ref6395">
             <head>Use Restrictions</head>
@@ -186,8 +186,12 @@
         </prefercite>
         <processinfo id="ref6658">
             <head>Processing Information note</head>
-            <p>In 2014, the archived websites were added as Series IX.</p>
+            <p>In 2014, the archived websites were added as Series IX. In 2015, a donation of materials from the Greenwich House Music School were added to Series VIII: Greenwich House post-Simkovitch (not microfilmed), subseries 7: Music School.</p>
         </processinfo>
+        <phystech id="ref6666">
+            <head>Physical Characteristics and Technical Requirements note</head>
+            <p>Researchers interested in using audiovisual materials in this collection (films, cassette tapes, VHS tapes, et cetera) must use a digitized copy, which we refer to as an access copy. Researchers may view an item’s original container, but the media themselves are not available for playback because of preservation concerns. Materials that already have already been digitized are noted in the collection’s finding aid and can be requested in our reading room; materials not yet digitized will need to have access copies made before they can be used. These requests are free of charge and can be made in anticipation of your visit. The process typically takes four to six weeks. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@library.nyu.edu with the collection name, collection number, and a description of the item(s) requested. A librarian will respond to you with further information</p>
+        </phystech>
         <controlaccess>
             <persname source="ingest">Brown, Robin.</persname>
             <persname source="ingest">Cooper, Gertrude.</persname>
@@ -37205,6 +37209,73 @@
                             <container id="cid68308" type="Box" label="Mixed materials">101</container>
                             <container parent="cid68308" type="Folder">56</container>
                             <unitdate normal="1896/1990" type="inclusive">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref6660" level="file">
+                        <did>
+                            <unittitle>Administrative Files and Program Ephemera</unittitle>
+                            <unitid>2015.061</unitid>
+                            <container id="cid23794001" type="Box" label="Mixed materials (31142054629095)">119</container>
+                            <unitdate normal="1949/1999" type="inclusive">1949-1999</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref6661" level="file">
+                        <did>
+                            <unittitle>German Dietz GHMS Records, Teaching Materials, and Personal Papers</unittitle>
+                            <unitid>2015.061</unitid>
+                            <container id="cid23803001" type="Box" label="Mixed materials">123</container>
+                            <container id="cid23794002" type="Box" label="Mixed materials (31142054629103)">120</container>
+                            <container id="cid23803003" type="Box" label="Mixed materials (31142054629111)">121</container>
+                            <container id="cid23803002" type="Box" label="Mixed materials (31142054629129)">122</container>
+                            <unitdate normal="1950/2014" type="inclusive">1950-2014</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref6662" level="file">
+                        <did>
+                            <unittitle>GHMS Events and Programs Recordings</unittitle>
+                            <unitid>2015.061</unitid>
+                            <container id="cid23794003" type="Box" label="Mixed materials (31142054629129)">122</container>
+                            <unitdate normal="1973/1994" type="inclusive">1973-1994</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref6665" level="file">
+                        <did>
+                            <unittitle>German Dietz Conducting Batons</unittitle>
+                            <unitid>2015.061</unitid>
+                            <container id="cid23794004" type="Box" label="Mixed materials">123</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref6663" level="file">
+                        <did>
+                            <unittitle>Music School Christmas Party Photo Album</unittitle>
+                            <unitid>2015.061</unitid>
+                            <container id="cid23794006" type="Box" label="Mixed materials">123</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref6664" level="file">
+                        <did>
+                            <unittitle>Scrapbook in Memory of Edith Newberry</unittitle>
+                            <unitid>2015.061</unitid>
+                            <container id="cid23794005" type="Box" label="Mixed materials">123</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref6670" level="file">
+                        <did>
+                            <unittitle>Blueprints: Additions and Alterations to Greenwich House Music School, 1929 (reproductions)</unittitle>
+                            <container id="cid23811001" type="Flat-File" label="Mixed materials">6</container>
+                            <container parent="cid23811001" type="Drawer">15</container>
+                            <unitdate normal="1929/1929">1929</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref6671" level="file">
+                        <did>
+                            <unittitle>Poster: Piano Recital Honoring Claudio Arrau, 2003</unittitle>
+                            <container id="cid23811002" type="Box" label="Mixed materials">MSXOS003</container>
+                            <container parent="cid23811002" type="Folder">1</container>
+                            <unitdate normal="2003/2003">2003</unitdate>
                         </did>
                     </c>
                 </c>
