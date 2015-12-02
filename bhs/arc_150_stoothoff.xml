@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_150_stoothoff</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Complete_box_list" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_150_stoothoff.html">arc_150_stoothoff</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Stoothoff family collection
@@ -25,11 +25,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-05-11T17:05-0400</date>
+                <date>2015-12-02T10:51-0500</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>November 2015</date>
+                <item>Additional processing by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -42,11 +48,11 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>0.75 Linear feet</extent>
-                <extent>in two manuscript boxes</extent>
+                <extent>2.0 linear feet</extent>
+                <extent>in two manuscript boxes and one oversize box</extent>
             </physdesc>
-            <unitdate normal="1642/1796" type="inclusive">1642-1796</unitdate>
-            <abstract id="ref3" label="Abstract">This collection contains 138 manuscript documents and other papers dating from the 1600s and 1700s, relating to the Stoothoff family of Flatlands, Long Island, which is now part of Brooklyn, New York. Documents include deeds, bonds, wills, correspondence, accounts, and receipts. Many of the documents are in Dutch. An index of all documents and translations of all Dutch documents accompanies this collection.</abstract>
+            <unitdate normal="1642/1826" type="inclusive">1642-1826</unitdate>
+            <abstract id="ref3" label="Abstract">This collection contains 140 manuscript documents and other papers dating from the 1600s to 1826, relating to the Stoothoff family of Flatlands, Long Island, which is now part of Brooklyn, New York. Documents include deeds, bonds, wills, correspondence, accounts, and receipts. Many of the documents are in Dutch. An index of all documents and translations of all Dutch documents accompanies this collection.</abstract>
             <langmaterial id="ref7" label="Language of Materials">Materials in English and Dutch. The index contains typed translations for those materials in Dutch.</langmaterial>
             <origination label="creator">
                 <famname rules="dacs" source="local">Stoothoff family</famname>
@@ -60,7 +66,7 @@
         </did>
         <bioghist id="ref2">
             <head>Biographical/Historical note</head>
-            <p>Captain Elbert Elbertse Stoothoff, or “Justice of the Peace" (who signed his name “Elbert Elbertsen”), is the common ancestor of the Stoothoff family in the Flatlands area of Brooklyn, New York. He was born in 1620,and emigrated from Nieukerken, in 1637, but was bound to serve Kilian Van Renseselaer for six years in his colony. Afterward, he settled in Flatlands, and was one of the nine men appointed by the Freeholders of the community from 1648 to 1650 to represent “Manhattans, Breukelen, Amersfoort, and Pavonia.” His duties included the promotion of welfare of the country, and to assist in decision-making regarding matters submitted by the director of the council. Elbertsen served as a magistrate of the Flatlands from 1654 to 1673. Elbertsen married Aeltje Cornelis Cool in 1645, and was married a second time, after her death, in 1683 to Sara Roelofs. Gerrit Stoothoff was the only child of Elbert and Aeltje, and he married into the Nevius (sometimes spelled Neveyus) family in 1684. Peter and Wilhelmus Stoothoff, two of his six children, are among the primary correspondents in this collection.</p>
+            <p>Captain Elbert Elbertse Stoothoff, or "Justice of the Peace" (who signed his name "Elbert Elbertsen"), is the common ancestor of the Stoothoff family in the Flatlands area of Brooklyn, New York. He was born in 1620,and emigrated from Nieukerken, in 1637, but was bound to serve Kilian Van Renseselaer for six years in his colony. Afterward, he settled in Flatlands, and was one of the nine men appointed by the Freeholders of the community from 1648 to 1650 to represent "Manhattans, Breukelen, Amersfoort, and Pavonia." His duties included the promotion of welfare of the country, and to assist in decision-making regarding matters submitted by the director of the council. Elbertsen served as a magistrate of the Flatlands from 1654 to 1673. Elbertsen married Aeltje Cornelis Cool in 1645, and was married a second time, after her death, in 1683 to Sara Roelofs. Gerrit Stoothoff was the only child of Elbert and Aeltje, and he married into the Nevius (sometimes spelled Neveyus) family in 1684. Peter and Wilhelmus Stoothoff, two of his six children, are among the primary correspondents in this collection.</p>
         </bioghist>
         <accessrestrict id="ref5">
             <head>Conditions Governing Access</head>
@@ -68,11 +74,11 @@
         </accessrestrict>
         <scopecontent id="ref4">
             <head>Scope and Contents</head>
-            <p>This collection contains manuscript documents and papers pertaining to the Stoothoff family of Flatlands, Long Island (now part of Brooklyn, New York) from 1642 to 1796. Document types include deeds, bonds, correspondence, receipts, accounts and account books, and wills. Among the many items in this collection are detailed accounts of debits and credits of various everyday items for citizens of New Amersfoort (the Dutch name for Flatlands) in the seventeenth and eighteenth centuries, as well as Elbert Elbertsen Stoothoff's own personal accounts, his will, and various letters to him regarding the sale of land and business transactions. A detailed account book of the sale (or vendue) of the estate of Wilhelmus Stoothoff is located in this collection, documenting the prices for various items in his home including artwork, fabrics, and furniture. This collection also contains letters and bills of sale regarding the sale of slaves in the seventeenth and eighteenth centuries.</p>
+            <p>This collection contains manuscript documents and papers pertaining to the Stoothoff family of Flatlands, Long Island (now part of Brooklyn, New York) from 1642 to 1826. Document types include deeds, bonds, correspondence, receipts, accounts and account books, and wills. Among the many items in this collection are detailed accounts of debits and credits of various everyday items for citizens of New Amersfoort (the Dutch name for Flatlands) in the seventeenth and eighteenth centuries, as well as Elbert Elbertsen Stoothoff's own personal accounts, his will, and various letters to him regarding the sale of land and business transactions. A detailed account book of the sale (or vendue) of the estate of Wilhelmus Stoothoff is located in this collection, documenting the prices for various items in his home including artwork, fabrics, and furniture. This collection also contains letters and bills of sale regarding the sale of slaves in the seventeenth and eighteenth centuries.</p>
         </scopecontent>
         <arrangement id="ref155">
             <head>Arrangement note</head>
-            <p>Materials in this collection are arranged in the manner imposed by the donor. There are 116 folders (numbered 1-116), each folder containing between one and three documents. Placed before these 116 folders is an index to the documents and translations to those in Dutch; the numbers in the index correspond to the numbers on the folders.</p>
+            <p>Materials in this collection are arranged in the manner imposed by the donor. There are 116 folders (numbered 1-116), each folder containing between one and three documents. Placed before these 116 folders is an index to the documents and translations to those in Dutch; the numbers in the index correspond to the numbers on the folders. Two additional documents (1812 and 1826 deeds) relating to the family which were not part of the original accession have been placed at the end of the collection. These two items are not included in the collection's index.</p>
         </arrangement>
         <userestrict id="ref156">
             <head>Conditions Governing Use note</head>
@@ -82,11 +88,12 @@
             <head>Immediate Source of Acquisition note</head>
             <p>The Stoothoff family collection was purchased from the Bergen family in 1920 by the Colonial Daughters of the Seventeenth Century of Brooklyn, who later donated the collection to the Long Island Historical Society (now the Brooklyn Historical Society) in 1922.</p>
             <p>The index that accompanies this collection was most likely compiled by Josephine Frost; the translations were done by Frank L. Van Cleef.</p>
+            <p>Two additional deeds relating to the family were donated by Mrs. D. Fogarty in 1988. Mrs. Fogarty was the great-granddaughter of William Stoothoff.</p>
         </acqinfo>
         <processinfo id="ref161">
             <head>Processing Information note</head>
-            <p>The Stoothoff family papers were processed by Robyn Hjermstad in December 2010.</p>
-            <p>The collection combines two accessions: 1974.055 and 1974.056.</p>
+            <p>The Stoothoff family papers were processed by Robyn Hjermstad in December 2010. Two related deeds (dating from 1812 and 1826) were added to the collection by John Zarrillo in November 2015 (1988.053).</p>
+            <p>The collection combines three accessions: 1974.055, 1974.056, and 1988.053.</p>
         </processinfo>
         <controlaccess>
             <famname source="naf">Conover family</famname>
@@ -106,9 +113,9 @@
             <subject source="lcsh">Bonds |z New York (State) |z Kings County</subject>
             <genreform source="aat">Certificates</genreform>
             <genreform source="aat">Correspondence</genreform>
-            <genreform source="lcsh">Deeds</genreform>
+            <genreform source="aat">Deeds</genreform>
             <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
-            <subject source="lcsh">Genealogy </subject>
+            <subject source="lcsh">Genealogy</subject>
             <geogname source="lcsh">Gravesend (New York, N.Y.)</geogname>
             <genreform source="aat">Indentures</genreform>
             <geogname source="lcsh">New Netherland</geogname>
@@ -123,6 +130,10 @@
                     <container parent="cid599001" type="Folder"></container>
                     <unitdate>undated</unitdate>
                 </did>
+                <odd audience="internal" id="ref160">
+                    <head>General note</head>
+                    <p>This index is accession number 1974.056.</p>
+                </odd>
             </c>
             <c id="ref8" level="file">
                 <did>
@@ -1677,6 +1688,26 @@
                     <container id="cid544003" type="Box" label="Text">2</container>
                     <container parent="cid544003" type="Folder">116</container>
                     <unitdate normal="1703/1703">1703</unitdate>
+                </did>
+            </c>
+            <c id="ref162" level="file">
+                <did>
+                    <unittitle>Deed, John R. and Magaret Duryea to William Stoothoff</unittitle>
+                    <container id="cid1375001" type="Box" label="Text">OS-30</container>
+                    <container parent="cid1375001" type="Folder">-</container>
+                    <unitdate normal="1812/1812">1812</unitdate>
+                </did>
+                <odd id="ref164">
+                    <head>General note</head>
+                    <p>Property located in New Lots, Town of Flatbush.</p>
+                </odd>
+            </c>
+            <c id="ref163" level="file">
+                <did>
+                    <unittitle>Deed, Jacob Ryersen to William W. Stoothoff</unittitle>
+                    <container id="cid1375002" type="Box" label="Text">OS-30</container>
+                    <container parent="cid1375002" type="Folder">-</container>
+                    <unitdate normal="1826/1826">1826</unitdate>
                 </did>
             </c>
         </dsc>
