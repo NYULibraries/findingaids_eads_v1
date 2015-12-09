@@ -3,7 +3,8 @@
         <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_301_battle_of_li_maps">arc_301_battle_of_li_maps</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to The Battle of Long Island exhibition maps and drawings
+                <titleproper>Guide to 
+                    <emph render="italic">The Battle of Long Island: A Bird's Eye View</emph> exhibition maps and drawings
                     <num>ARC.301</num>
                 </titleproper>
                 <author>Finding aid prepared by John Zarrillo</author>
@@ -24,15 +25,22 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-05-04T11:42-0400</date>
+                <date>2015-12-09T16:54-0500</date>
             </creation>
             <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>December 2015</date>
+                <item>Additional processing by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
-            <unittitle>The Battle of Long Island exhibition maps and drawings</unittitle>
+            <unittitle>
+                <emph render="italic">The Battle of Long Island: A Bird's Eye View</emph> exhibition maps and drawings</unittitle>
             <unitid>ARC.301</unitid>
             <repository>
                 <corpname>Brooklyn Historical Society</corpname>
@@ -46,7 +54,8 @@
                 <extent>in one folder</extent>
             </physdesc>
             <unitdate normal="1976/1976">1976</unitdate>
-            <abstract id="ref2" label="Abstract">The collection primarily consists of a series of drawings which were used to design a map of the Battle of Long Island (also known as the Battle of Brooklyn) for a Long Island Historical Society exhibition, which was held at the Williamsburgh Savings Bank at One Hanson Place, Brooklyn, New York. The exhibition opened in August 1976 as part of the United States Bicentennial celebration. The map was designed by George M. Colbert. An additional map, drawn by Lucy Durand Sikes, is also included in the collection, along with an exhibition pamphlet.</abstract>
+            <abstract id="ref2" label="Abstract">The collection primarily consists of a series of drawings which were used to design a map of the Battle of Long Island (also known as the Battle of Brooklyn) for a Long Island Historical Society exhibition entitled 
+                <emph render="italic">The Battle of Long Island: A Bird's Eye View</emph>, which was held at the Williamsburgh Savings Bank at One Hanson Place, Brooklyn, New York. The exhibition opened in August 1976 as part of the United States Bicentennial celebration. The map was designed by George M. Colbert. An additional map, drawn by Lucy Durand Sikes, is also included in the collection, along with an exhibition pamphlet and poster.</abstract>
             <origination label="creator">
                 <persname rules="dacs" source="local">Colbert, George M.</persname>
             </origination>
@@ -130,6 +139,7 @@
             <subject source="lcsh">Long Island, Battle of, New York, N.Y., 1776</subject>
             <genreform source="aat">Maps</genreform>
             <genreform source="aat">Pamphlets</genreform>
+            <genreform source="aat">Posters</genreform>
         </controlaccess>
         <dsc/>
     </archdesc>
