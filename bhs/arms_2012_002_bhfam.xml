@@ -24,11 +24,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-01-12T14:01-0500</date>
+                <date>2015-12-11T11:52-0500</date>
             </creation>
             <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>December 2015</date>
+                <item>Additional processing by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -41,12 +47,12 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>7.5 linear feet</extent>
-                <extent>in 15 manuscript boxes</extent>
+                <extent>8.0 linear feet</extent>
+                <extent>in 16 manuscript boxes and 42.8 MB of digital files</extent>
             </physdesc>
             <unitdate normal="1878/1970" type="bulk">Bulk, 1878-1970</unitdate>
             <unitdate normal="1844/2011" type="inclusive">1844 to 2011</unitdate>
-            <abstract id="ref143" label="Abstract">The Brooklyn Home for Aged Men records date from 1842 to 2011. The bulk of the records document the affairs of the Home from its incorporation in 1878, until the closing of its residence homes in 1969. Later records document the organization's continued charitable efforts after closing its residences. The collection includes administrative records, financial records, legal documents, resident files, Board meeting minutes, photographs (prints, negatives, and digital images), and memorabilia.</abstract>
+            <abstract id="ref143" label="Abstract">The Brooklyn Home for Aged Men records date from 1844 to 2011. The bulk of the records document the affairs of the Home from its incorporation in 1878, until the closing of its residence homes in 1969. Later records document the organization's continued charitable efforts after closing its residences. The collection includes administrative records, financial records, legal documents, resident files, Board meeting minutes, photographs (prints, negatives, and digital images), and memorabilia.</abstract>
             <origination label="creator">
                 <corpname rules="dacs" source="local">Brooklyn Home for Aged Men and Couples.</corpname>
             </origination>
@@ -75,7 +81,7 @@
         </arrangement>
         <scopecontent id="ref1">
             <head>Scope and Contents note</head>
-            <p>The Brooklyn Home for Aged Men records date from 1842 to 2011. The bulk of the records document the affairs of the Home from its incorporation in 1878, until the closing of its residence homes in 1969. Later records document the organization's continued charitable efforts after closing its residences. The collection includes administrative records, financial records, legal documents, resident files, Board meeting minutes, photographs (prints, negatives, and digital images), and memorabilia.</p>
+            <p>The Brooklyn Home for Aged Men records date from 1844 to 2011. The bulk of the records document the affairs of the Home from its incorporation in 1878, until the closing of its residence homes in 1969. Later records document the organization's continued charitable efforts after closing its residences. The collection includes administrative records, financial records, legal documents, resident files, Board meeting minutes, photographs (prints, negatives, and digital images), and memorabilia.</p>
             <p>Some of the records were preserved on microfilm, which are also available to researchers (see Series 5).</p>
         </scopecontent>
         <bioghist id="ref132">
@@ -93,11 +99,11 @@
         </prefercite>
         <acqinfo id="ref140">
             <head>Immediate Source of Acquisition note</head>
-            <p>Gift of the Brooklyn Home for Aged Men, 2012.</p>
+            <p>Gift of the Brooklyn Home for Aged Men, 2012. Additionally, the eighty-year anniversary pamphlet included with this collection was the gift of Maud Esther Dillard.</p>
         </acqinfo>
         <processinfo id="ref141">
             <head>Processing Information note</head>
-            <p>Folder titles which were created by the processing archivist are enclosed in brackets.</p>
+            <p>Folder titles which were created by the processing archivist are enclosed in brackets. Three bound volumes of annual reports, six loose annual reports, and an eighty-year anniversary pamhplet were added to the collection by John Zarrillo in December 2015. These items were originally part of the Brooklyn charitable organizations for the aged publications collection (1985.105), but had been separated from that collection at some point in the past and were never processed.</p>
         </processinfo>
         <controlaccess>
             <corpname rules="dacs" source="local">Brooklyn Home for Aged Men and Couples.</corpname>
@@ -106,6 +112,7 @@
             <corpname rules="dacs" source="Library_of_Congress_Name_Authority_File">Tiffany and Company.</corpname>
             <genreform source="aat">Administrative records</genreform>
             <subject source="lcsh">Art |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Artifacts (object genre)</genreform>
             <subject source="lcsh">Auctions |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
             <subject source="lcsh">Cemeteries |z New York (State) |z Kings County</subject>
@@ -143,8 +150,8 @@
                 <did>
                     <unittitle>Series 1: Administrative and financial records</unittitle>
                     <physdesc>
-                        <extent>4.25 linear feet</extent>
-                        <extent>in nine manuscript boxes</extent>
+                        <extent>4.75 linear feet</extent>
+                        <extent>in ten manuscript boxes</extent>
                     </physdesc>
                     <unitdate normal="1878/2002" type="bulk">Bulk, 1878-2002</unitdate>
                     <unitdate normal="1844/2011" type="inclusive">1844-2011</unitdate>
@@ -333,6 +340,18 @@
                         <container parent="cid1275021" type="Folder">6</container>
                         <unitdate normal="1948/2011" type="inclusive">1948-2011</unitdate>
                     </did>
+                </c>
+                <c id="ref146" level="file">
+                    <did>
+                        <unittitle>Eighty Years of Service to Senior Citizens in Brooklyn pamphlet</unittitle>
+                        <container id="cid1380002" type="Box" label="Text">16</container>
+                        <container parent="cid1380002" type="Folder">4</container>
+                        <unitdate normal="1958/1958">1958</unitdate>
+                    </did>
+                    <odd id="ref147">
+                        <head>General note</head>
+                        <p>Published by the Kings County Trust Company</p>
+                    </odd>
                 </c>
                 <c id="ref53" level="file">
                     <did>
@@ -535,6 +554,18 @@
                         <unitdate normal="1878/1962" type="inclusive">1878-1949; 1962</unitdate>
                     </did>
                 </c>
+                <c id="ref144" level="file">
+                    <did>
+                        <unittitle>Annual reports (3 bound volumes)</unittitle>
+                        <container id="cid1380001" type="Box" label="Text">16</container>
+                        <container parent="cid1380001" type="Folder">1-3</container>
+                        <unitdate normal="1878/1916" type="inclusive">1878-1916</unitdate>
+                    </did>
+                    <odd id="ref145">
+                        <head>General note</head>
+                        <p>The first volume includes the home's 1878 Certificate of Incorporation</p>
+                    </odd>
+                </c>
                 <c id="ref78" level="file">
                     <did>
                         <unittitle>Financial reports (2 folders)</unittitle>
@@ -581,14 +612,6 @@
                         <container id="cid1275050" type="Box" label="Text">7</container>
                         <container parent="cid1275050" type="Folder">4-7</container>
                         <unitdate normal="1920/1940" type="inclusive">1920-1940</unitdate>
-                    </did>
-                </c>
-                <c id="ref84" level="file">
-                    <did>
-                        <unittitle>Board meeting minutes (6 folders)</unittitle>
-                        <container id="cid1275051" type="Box" label="Text">8</container>
-                        <container parent="cid1275051" type="Folder">1-6</container>
-                        <unitdate normal="1939/1958" type="inclusive">1939-1958</unitdate>
                     </did>
                 </c>
                 <c id="ref85" level="file">
@@ -832,6 +855,14 @@
                         <unitdate normal="1934/1956" type="inclusive">1934-1956</unitdate>
                     </did>
                 </c>
+                <c id="ref84" level="file">
+                    <did>
+                        <unittitle>Board meeting minutes (6 folders)</unittitle>
+                        <container id="cid1275051" type="Box" label="Text">8</container>
+                        <container parent="cid1275051" type="Folder">1-6</container>
+                        <unitdate normal="1939/1958" type="inclusive">1939-1958</unitdate>
+                    </did>
+                </c>
             </c>
             <c id="ref124" level="series">
                 <did>
@@ -892,6 +923,8 @@
                 <c id="ref131" level="file">
                     <did>
                         <unittitle>[Digital files]</unittitle>
+                        <container id="cid1371001" type="Disk" label="Mixed materials">Digital files</container>
+                        <container parent="cid1371001" type="Folder">-</container>
                         <unitdate normal="2005/2011" type="inclusive">2005-2011</unitdate>
                     </did>
                 </c>
