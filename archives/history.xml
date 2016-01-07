@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid>history</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Under_revision" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://dlib.nyu.edu/findingaids/html/archives/history/">history</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Records of the History Department of the Faculty of Arts and Science 
@@ -27,7 +27,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-03-28T15:40-0400</date>
+                <date>2016-01-07T09:24-0500</date>
             </creation>
             <langusage>Description is in 
                 <language langcode="eng" encodinganalog="546">English</language>.</langusage>
@@ -50,10 +50,11 @@
             </physdesc>
             <unitdate normal="1960/1970" type="bulk">Bulk, 1960-1970</unitdate>
             <unitdate normal="1926/1978" type="inclusive">1926-1978</unitdate>
+            <physloc audience="internal" id="ref2782" label="Location of materials being processed">12/E/2-3 12/F/2-4</physloc>
             <physloc id="ref1" label="Location">This collection is in offsite storage. Please contact the repository for access.</physloc>
             <abstract id="ref2" label="Abstract">This collection contains administrative records of the History Department. Materials include staff files, budget information, and correspondence.</abstract>
             <origination label="creator">
-                <corpname source="naf">New York University. Dept. of History.</corpname>
+                <corpname source="naf">New York University. Department of History.</corpname>
             </origination>
         </did>
         <arrangement id="ref15">
@@ -120,8 +121,8 @@
             <p>This collection was transferred to the University Archives from the History Department.</p>
         </custodhist>
         <controlaccess>
-            <corpname source="naf">New York University. Faculty of Arts and Science.</corpname>
-            <corpname source="naf">New York University.</corpname>
+            <corpname rules="aacr" source="naf">New York University. Faculty of Arts and Science.</corpname>
+            <corpname rules="aacr" source="naf">New York University.</corpname>
             <genreform source="aat">Administrative records.</genreform>
             <genreform source="aat">Correspondence.</genreform>
             <genreform source="aat">Memorandums.</genreform>
@@ -137,6 +138,10 @@
                         <language langcode="eng"/>
                     </langmaterial>
                 </did>
+                <processinfo id="ref2781">
+                    <head>Processing Information note</head>
+                    <p>Folders without content have been removed from the physical collection.</p>
+                </processinfo>
                 <c id="ref23" level="file">
                     <did>
                         <unittitle>Approved Budget</unittitle>
@@ -1081,6 +1086,18 @@
                         <unitdate normal="1926/1978" type="inclusive">undated</unitdate>
                     </did>
                     <odd id="ref259">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226319 7</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref260" level="file">
+                    <did>
+                        <unittitle>Secretaries - Salaries</unittitle>
+                        <container id="cid28401" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid28401" type="Folder">80</container>
+                        <unitdate normal="1926/1978" type="inclusive">undated</unitdate>
+                    </did>
+                    <odd id="ref262">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226319 7</p>
                     </odd>
@@ -5669,6 +5686,18 @@
                         <p>Barcode #: 3 1142 04226332 0</p>
                     </odd>
                 </c>
+                <c audience="internal" id="ref1409" level="file">
+                    <did>
+                        <unittitle>Harris, Jonathan</unittitle>
+                        <container id="cid28018" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid28018" type="Folder">2</container>
+                        <unitdate normal="1950/1970" type="inclusive">1950-1970</unitdate>
+                    </did>
+                    <odd id="ref1411">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226332 0</p>
+                    </odd>
+                </c>
                 <c id="ref1412" level="file">
                     <did>
                         <unittitle>Hauptman, Laurence M.</unittitle>
@@ -5761,6 +5790,18 @@
                         <unitdate normal="1950/1970" type="inclusive">1950-1970</unitdate>
                     </did>
                     <odd id="ref1438">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226332 0</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref1439" level="file">
+                    <did>
+                        <unittitle>Horvath, Maria</unittitle>
+                        <container id="cid28008" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid28008" type="Folder">11</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                    <odd id="ref1441">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226332 0</p>
                     </odd>
@@ -6065,6 +6106,42 @@
                         <p>Barcode #: 3 1142 04226332 0</p>
                     </odd>
                 </c>
+                <c audience="internal" id="ref1523" level="file">
+                    <did>
+                        <unittitle>Luza, Prof. Radomir</unittitle>
+                        <container id="cid27980" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid27980" type="Folder">37</container>
+                        <unitdate normal="1950/1970" type="inclusive">1950-1970</unitdate>
+                    </did>
+                    <odd id="ref1525">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226332 0</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref1538" level="file">
+                    <did>
+                        <unittitle>Mayo, Louise</unittitle>
+                        <container id="cid27975" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid27975" type="Folder">38</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                    <odd id="ref1540">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226332 0</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref1526" level="file">
+                    <did>
+                        <unittitle>McDonald, Prof. Forrest</unittitle>
+                        <container id="cid27979" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid27979" type="Folder">39</container>
+                        <unitdate normal="1950/1970" type="inclusive">1950-1970</unitdate>
+                    </did>
+                    <odd id="ref1528">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226332 0</p>
+                    </odd>
+                </c>
                 <c id="ref1529" level="file">
                     <did>
                         <unittitle>McCutchen, Prof Samuel P.</unittitle>
@@ -6169,6 +6246,18 @@
                         <unitdate normal="1950/1970" type="inclusive">1950-1970</unitdate>
                     </did>
                     <odd id="ref1561">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226332 0</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref1562" level="file">
+                    <did>
+                        <unittitle>Mazaraki, Dr. George</unittitle>
+                        <container id="cid27967" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid27967" type="Folder">49</container>
+                        <unitdate normal="1950/1970" type="inclusive">1950-1970</unitdate>
+                    </did>
+                    <odd id="ref1564">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226332 0</p>
                     </odd>
@@ -6437,7 +6526,7 @@
                         <p>Barcode #: 3 1142 04226333 8</p>
                     </odd>
                 </c>
-                <c id="ref1634" level="file">
+                <c audience="internal" id="ref1634" level="file">
                     <did>
                         <unittitle>Park, Dean Joseph- Replacement</unittitle>
                         <container id="cid27943" type="Box" label="Mixed materials">9</container>
@@ -6545,7 +6634,7 @@
                         <p>Barcode #: 3 1142 04226333 8</p>
                     </odd>
                 </c>
-                <c id="ref1661" level="file">
+                <c audience="internal" id="ref1661" level="file">
                     <did>
                         <unittitle>Miss Rapone, Anita</unittitle>
                         <container id="cid27934" type="Box" label="Mixed materials">9</container>
@@ -6629,7 +6718,7 @@
                         <p>Barcode #: 3 1142 04226333 8</p>
                     </odd>
                 </c>
-                <c id="ref1682" level="file">
+                <c audience="internal" id="ref1682" level="file">
                     <did>
                         <unittitle>Ryan, Denis (Summer Session)</unittitle>
                         <container id="cid27927" type="Box" label="Mixed materials">9</container>
@@ -6809,7 +6898,7 @@
                         <p>Barcode #: 3 1142 04226333 8</p>
                     </odd>
                 </c>
-                <c id="ref1727" level="file">
+                <c audience="internal" id="ref1727" level="file">
                     <did>
                         <unittitle>Spencer, Joseph</unittitle>
                         <container id="cid27912" type="Box" label="Mixed materials">9</container>
@@ -6821,9 +6910,9 @@
                         <p>Barcode #: 3 1142 04226333 8</p>
                     </odd>
                 </c>
-                <c id="ref1730" level="file">
+                <c audience="internal" id="ref1730" level="file">
                     <did>
-                        <unittitle>Stassin, Miss Daphney</unittitle>
+                        <unittitle>Stassin, Miss Daphne</unittitle>
                         <container id="cid27911" type="Box" label="Mixed materials">9</container>
                         <container parent="cid27911" type="Folder">35</container>
                         <unitdate normal="1950/1970" type="inclusive">1950-1970</unitdate>
@@ -7217,7 +7306,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1829" level="file">
+                <c audience="internal" id="ref1829" level="file">
                     <did>
                         <unittitle>Nominations</unittitle>
                         <container id="cid27878" type="Box" label="Mixed materials">10</container>
@@ -7229,7 +7318,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1832" level="file">
+                <c audience="internal" id="ref1832" level="file">
                     <did>
                         <unittitle>Graduate Assistants</unittitle>
                         <container id="cid27877" type="Box" label="Mixed materials">10</container>
@@ -7241,7 +7330,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1835" level="file">
+                <c audience="internal" id="ref1835" level="file">
                     <did>
                         <unittitle>Teaching Assistants</unittitle>
                         <container id="cid27876" type="Box" label="Mixed materials">10</container>
@@ -7313,7 +7402,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1853" level="file">
+                <c audience="internal" id="ref1853" level="file">
                     <did>
                         <unittitle>Fellowship Awards Summer</unittitle>
                         <container id="cid27870" type="Box" label="Mixed materials">10</container>
@@ -7363,7 +7452,7 @@
                 </c>
                 <c id="ref1865" level="file">
                     <did>
-                        <unittitle>FPDA Proposal</unittitle>
+                        <unittitle>EPDA Proposal</unittitle>
                         <container id="cid27866" type="Box" label="Mixed materials">10</container>
                         <container parent="cid27866" type="Folder">20</container>
                         <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
@@ -7385,7 +7474,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1871" level="file">
+                <c audience="internal" id="ref1871" level="file">
                     <did>
                         <unittitle>DAAD Fellowship</unittitle>
                         <container id="cid27864" type="Box" label="Mixed materials">10</container>
@@ -7409,7 +7498,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1877" level="file">
+                <c audience="internal" id="ref1877" level="file">
                     <did>
                         <unittitle>Awards- Accepts and Declines</unittitle>
                         <container id="cid27862" type="Box" label="Mixed materials">10</container>
@@ -7421,7 +7510,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1880" level="file">
+                <c audience="internal" id="ref1880" level="file">
                     <did>
                         <unittitle>Fulbrights</unittitle>
                         <container id="cid27861" type="Box" label="Mixed materials">10</container>
@@ -7433,7 +7522,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1883" level="file">
+                <c audience="internal" id="ref1883" level="file">
                     <did>
                         <unittitle>Doctoral Dissertation in Natural Resources</unittitle>
                         <container id="cid27860" type="Box" label="Mixed materials">10</container>
@@ -7445,7 +7534,31 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1892" level="file">
+                <c audience="internal" id="ref1886" level="file">
+                    <did>
+                        <unittitle>Assistantships, Applications for</unittitle>
+                        <container id="cid27859" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid27859" type="Folder">27</container>
+                        <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+                    </did>
+                    <odd id="ref1888">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226334 6</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref1889" level="file">
+                    <did>
+                        <unittitle>Applications for Awards for Spring</unittitle>
+                        <container id="cid27858" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid27858" type="Folder">28</container>
+                        <unitdate normal="1970/1970">1970</unitdate>
+                    </did>
+                    <odd id="ref1891">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226334 6</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref1892" level="file">
                     <did>
                         <unittitle>Spring Fellowship Materials</unittitle>
                         <container id="cid27857" type="Box" label="Mixed materials">10</container>
@@ -7457,7 +7570,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1895" level="file">
+                <c audience="internal" id="ref1895" level="file">
                     <did>
                         <unittitle>List of Applicants for Awards</unittitle>
                         <container id="cid27856" type="Box" label="Mixed materials">10</container>
@@ -7481,7 +7594,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1901" level="file">
+                <c audience="internal" id="ref1901" level="file">
                     <did>
                         <unittitle>W Wilson Dissertation Fellowship</unittitle>
                         <container id="cid27854" type="Box" label="Mixed materials">10</container>
@@ -7493,7 +7606,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1904" level="file">
+                <c audience="internal" id="ref1904" level="file">
                     <did>
                         <unittitle>Alternates Still Interested</unittitle>
                         <container id="cid27853" type="Box" label="Mixed materials">10</container>
@@ -7505,7 +7618,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1907" level="file">
+                <c audience="internal" id="ref1907" level="file">
                     <did>
                         <unittitle>NDEA Title VI Grading Sheet</unittitle>
                         <container id="cid27852" type="Box" label="Mixed materials">10</container>
@@ -7529,7 +7642,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1913" level="file">
+                <c audience="internal" id="ref1913" level="file">
                     <did>
                         <unittitle>DAAD</unittitle>
                         <container id="cid27850" type="Box" label="Mixed materials">10</container>
@@ -7541,7 +7654,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1916" level="file">
+                <c audience="internal" id="ref1916" level="file">
                     <did>
                         <unittitle>Junior Fellowships Center for International Studies</unittitle>
                         <container id="cid27849" type="Box" label="Mixed materials">10</container>
@@ -7553,7 +7666,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1919" level="file">
+                <c audience="internal" id="ref1919" level="file">
                     <did>
                         <unittitle>Summer Scholarships</unittitle>
                         <container id="cid27848" type="Box" label="Mixed materials">10</container>
@@ -7565,7 +7678,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1922" level="file">
+                <c audience="internal" id="ref1922" level="file">
                     <did>
                         <unittitle>Alternates Not Interested</unittitle>
                         <container id="cid27847" type="Box" label="Mixed materials">10</container>
@@ -7577,7 +7690,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1925" level="file">
+                <c audience="internal" id="ref1925" level="file">
                     <did>
                         <unittitle>Summary of Awards</unittitle>
                         <container id="cid27846" type="Box" label="Mixed materials">10</container>
@@ -7597,6 +7710,18 @@
                         <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
                     </did>
                     <odd id="ref1930">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226334 6</p>
+                    </odd>
+                </c>
+                <c id="ref1931" level="file">
+                    <did>
+                        <unittitle>Assistantships</unittitle>
+                        <container id="cid27844" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid27844" type="Folder">42</container>
+                        <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+                    </did>
+                    <odd id="ref1933">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
@@ -7625,7 +7750,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1940" level="file">
+                <c audience="internal" id="ref1940" level="file">
                     <did>
                         <unittitle>Pre-Doctoral Fellowships</unittitle>
                         <container id="cid27841" type="Box" label="Mixed materials">10</container>
@@ -7637,7 +7762,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1943" level="file">
+                <c audience="internal" id="ref1943" level="file">
                     <did>
                         <unittitle>Spring Fellowships</unittitle>
                         <container id="cid27840" type="Box" label="Mixed materials">10</container>
@@ -7657,6 +7782,18 @@
                         <unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate>
                     </did>
                     <odd id="ref1948">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226334 6</p>
+                    </odd>
+                </c>
+                <c id="ref1949" level="file">
+                    <did>
+                        <unittitle>Schmitt Recommendations on Fellowships</unittitle>
+                        <container id="cid27838" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid27838" type="Folder">48</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <odd id="ref1951">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
@@ -7711,7 +7848,7 @@
                 </c>
                 <c id="ref1964" level="file">
                     <did>
-                        <unittitle>Awards- Accepts and Declines</unittitle>
+                        <unittitle>Awards</unittitle>
                         <container id="cid27833" type="Box" label="Mixed materials">10</container>
                         <container parent="cid27833" type="Folder">53</container>
                         <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
@@ -7733,6 +7870,18 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
+                <c id="ref1970" level="file">
+                    <did>
+                        <unittitle>Recommendations of Fellowship Committee</unittitle>
+                        <container id="cid27831" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid27831" type="Folder">55</container>
+                        <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+                    </did>
+                    <odd id="ref1972">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226334 6</p>
+                    </odd>
+                </c>
                 <c id="ref1973" level="file">
                     <did>
                         <unittitle>Fellowships</unittitle>
@@ -7745,7 +7894,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1976" level="file">
+                <c audience="internal" id="ref1976" level="file">
                     <did>
                         <unittitle>Kent</unittitle>
                         <container id="cid27829" type="Box" label="Mixed materials">10</container>
@@ -7769,7 +7918,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1982" level="file">
+                <c audience="internal" id="ref1982" level="file">
                     <did>
                         <unittitle>German Academic Exchange Service Fellowship</unittitle>
                         <container id="cid27827" type="Box" label="Mixed materials">10</container>
@@ -7805,7 +7954,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1991" level="file">
+                <c audience="internal" id="ref1991" level="file">
                     <did>
                         <unittitle>NDEA Title IV Summer Tenure</unittitle>
                         <container id="cid27824" type="Box" label="Mixed materials">10</container>
@@ -7829,7 +7978,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref1997" level="file">
+                <c audience="internal" id="ref1997" level="file">
                     <did>
                         <unittitle>University Fellowships and Scholarships</unittitle>
                         <container id="cid27822" type="Box" label="Mixed materials">10</container>
@@ -7843,12 +7992,24 @@
                 </c>
                 <c id="ref2000" level="file">
                     <did>
-                        <unittitle>Ford MA- 3 Scholarship</unittitle>
+                        <unittitle>Ford MA-3 Scholarship</unittitle>
                         <container id="cid27821" type="Box" label="Mixed materials">10</container>
                         <container parent="cid27821" type="Folder">65</container>
                         <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
                     </did>
                     <odd id="ref2002">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226334 6</p>
+                    </odd>
+                </c>
+                <c id="ref2003" level="file">
+                    <did>
+                        <unittitle>Lehman Applicants</unittitle>
+                        <container id="cid27820" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid27820" type="Folder">66</container>
+                        <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+                    </did>
+                    <odd id="ref2005">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
@@ -7865,7 +8026,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref2009" level="file">
+                <c audience="internal" id="ref2009" level="file">
                     <did>
                         <unittitle>Herbert H Lehman Fellows</unittitle>
                         <container id="cid27818" type="Box" label="Mixed materials">10</container>
@@ -7881,7 +8042,7 @@
                     <did>
                         <unittitle>Pre-Doctoral Fellows</unittitle>
                         <container id="cid27817" type="Box" label="Mixed materials">10</container>
-                        <container parent="cid27817" type="Folder">9</container>
+                        <container parent="cid27817" type="Folder">69</container>
                         <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
                     </did>
                     <odd id="ref2014">
@@ -7939,7 +8100,7 @@
                 </c>
                 <c id="ref2027" level="file">
                     <did>
-                        <unittitle>MDEA Title VI</unittitle>
+                        <unittitle>NDEA Title VI</unittitle>
                         <container id="cid27812" type="Box" label="Mixed materials">10</container>
                         <container parent="cid27812" type="Folder">74</container>
                         <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
@@ -7957,6 +8118,18 @@
                         <unitdate normal="1968/1968">1968</unitdate>
                     </did>
                     <odd id="ref2032">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226334 6</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2033" level="file">
+                    <did>
+                        <unittitle>B. Still Rating Sheet</unittitle>
+                        <container id="cid27810" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid27810" type="Folder">76</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <odd id="ref2035">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
@@ -7985,7 +8158,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref2042" level="file">
+                <c audience="internal" id="ref2042" level="file">
                     <did>
                         <unittitle>Teaching Assistantships</unittitle>
                         <container id="cid27807" type="Box" label="Mixed materials">10</container>
@@ -7997,7 +8170,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref2045" level="file">
+                <c audience="internal" id="ref2045" level="file">
                     <did>
                         <unittitle>Possible Assistants Emergency</unittitle>
                         <container id="cid27806" type="Box" label="Mixed materials">10</container>
@@ -8009,7 +8182,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref2048" level="file">
+                <c audience="internal" id="ref2048" level="file">
                     <did>
                         <unittitle>Fellowship Awards and Responses</unittitle>
                         <container id="cid27805" type="Box" label="Mixed materials">10</container>
@@ -8033,6 +8206,18 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
+                <c audience="internal" id="ref2054" level="file">
+                    <did>
+                        <unittitle>Assistantships, Applications for</unittitle>
+                        <container id="cid27803" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid27803" type="Folder">83</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <odd id="ref2056">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226334 6</p>
+                    </odd>
+                </c>
                 <c id="ref2057" level="file">
                     <did>
                         <unittitle>Fellowships and Financial Aid</unittitle>
@@ -8045,7 +8230,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref2060" level="file">
+                <c audience="internal" id="ref2060" level="file">
                     <did>
                         <unittitle>Summary of Awards and Responses</unittitle>
                         <container id="cid27801" type="Box" label="Mixed materials">10</container>
@@ -8081,7 +8266,7 @@
                         <p>Barcode #: 3 1142 04226334 6</p>
                     </odd>
                 </c>
-                <c id="ref2069" level="file">
+                <c audience="internal" id="ref2069" level="file">
                     <did>
                         <unittitle>Fellowship Award Letters</unittitle>
                         <container id="cid27798" type="Box" label="Mixed materials">10</container>
@@ -8257,6 +8442,18 @@
                         <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
                     </did>
                     <odd id="ref2113">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226335 3</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2114" level="file">
+                    <did>
+                        <unittitle>B. Still Rating</unittitle>
+                        <container id="cid27783" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid27783" type="Folder">14</container>
+                        <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
+                    </did>
+                    <odd id="ref2116">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226335 3</p>
                     </odd>
@@ -8441,7 +8638,7 @@
                         <p>Barcode #: 3 1142 04226335 3</p>
                     </odd>
                 </c>
-                <c id="ref2162" level="file">
+                <c audience="internal" id="ref2162" level="file">
                     <did>
                         <unittitle>Summer Tuition</unittitle>
                         <container id="cid27767" type="Box" label="Mixed materials">11</container>
@@ -8645,6 +8842,18 @@
                         <p>Barcode #: 3 1142 04226335 3</p>
                     </odd>
                 </c>
+                <c audience="internal" id="ref2213" level="file">
+                    <did>
+                        <unittitle>Job Applications</unittitle>
+                        <container id="cid27750" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid27750" type="Folder">47</container>
+                        <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+                    </did>
+                    <odd id="ref2215">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226335 3</p>
+                    </odd>
+                </c>
                 <c id="ref2216" level="file">
                     <did>
                         <unittitle>Black Appointment</unittitle>
@@ -8665,6 +8874,18 @@
                         <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
                     </did>
                     <odd id="ref2221">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226335 3</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2222" level="file">
+                    <did>
+                        <unittitle>NSF Senior Fellow Applications</unittitle>
+                        <container id="cid27747" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid27747" type="Folder">50</container>
+                        <unitdate normal="1970/1970">1970</unitdate>
+                    </did>
+                    <odd id="ref2224">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226335 3</p>
                     </odd>
@@ -8746,7 +8967,7 @@
                         <unittitle>Park Replacement</unittitle>
                         <container id="cid27740" type="Box" label="Mixed materials">11</container>
                         <container parent="cid27740" type="Folder">57</container>
-                        <unitdate normal="1976/1957" type="inclusive">1976-1957</unitdate>
+                        <unitdate normal="1957/1976" type="inclusive">1957-1976</unitdate>
                     </did>
                     <odd id="ref2245">
                         <head>General note</head>
@@ -9001,6 +9222,18 @@
                         <unitdate normal="1965/1965">1965</unitdate>
                     </did>
                     <odd id="ref2308">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226336 1</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2309" level="file">
+                    <did>
+                        <unittitle>Applicants of Special Interest</unittitle>
+                        <container id="cid27718" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid27718" type="Folder">14</container>
+                        <unitdate normal="1960/1966" type="inclusive">1960-1966</unitdate>
+                    </did>
+                    <odd id="ref2311">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226336 1</p>
                     </odd>
@@ -9737,6 +9970,18 @@
                         <p>Barcode #: 3 1142 04226336 1</p>
                     </odd>
                 </c>
+                <c audience="internal" id="ref2495" level="file">
+                    <did>
+                        <unittitle>Reject for Advanced Position</unittitle>
+                        <container id="cid27656" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid27656" type="Folder">76</container>
+                        <unitdate normal="1968/1968">1968</unitdate>
+                    </did>
+                    <odd id="ref2497">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226336 1</p>
+                    </odd>
+                </c>
                 <c id="ref2498" level="file">
                     <did>
                         <unittitle>Recruitment AHA</unittitle>
@@ -9757,6 +10002,18 @@
                         <unitdate normal="1968/1971" type="inclusive">1968-1971</unitdate>
                     </did>
                     <odd id="ref2503">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226336 1</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2504" level="file">
+                    <did>
+                        <unittitle>Beginning Position Rejects</unittitle>
+                        <container id="cid27653" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid27653" type="Folder">79</container>
+                        <unitdate normal="1969/1969">1969</unitdate>
+                    </did>
+                    <odd id="ref2506">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226336 1</p>
                     </odd>
@@ -9793,6 +10050,18 @@
                         <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
                     </did>
                     <odd id="ref2515">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226336 1</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2516" level="file">
+                    <did>
+                        <unittitle>Consider for Advanced European Position</unittitle>
+                        <container id="cid27649" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid27649" type="Folder">83</container>
+                        <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+                    </did>
+                    <odd id="ref2518">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226336 1</p>
                     </odd>
@@ -9853,6 +10122,18 @@
                         <unitdate normal="1964/1969" type="inclusive">1964-1969</unitdate>
                     </did>
                     <odd id="ref2533">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226336 1</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2534" level="file">
+                    <did>
+                        <unittitle>Job Applicants #3</unittitle>
+                        <container id="cid27643" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid27643" type="Folder">89</container>
+                        <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+                    </did>
+                    <odd id="ref2536">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226336 1</p>
                     </odd>
@@ -9953,6 +10234,114 @@
                         <p>Barcode #: 3 1142 04226337 9</p>
                     </odd>
                 </c>
+                <c audience="internal" id="ref2561" level="file">
+                    <did>
+                        <unittitle>Job Applicants</unittitle>
+                        <container id="cid27634" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid27634" type="Folder">8</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                    <odd id="ref2563">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226337 9</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2564" level="file">
+                    <did>
+                        <unittitle>Job Applications</unittitle>
+                        <container id="cid27633" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid27633" type="Folder">9</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                    <odd id="ref2566">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226337 9</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2567" level="file">
+                    <did>
+                        <unittitle>Job Applicants</unittitle>
+                        <container id="cid27632" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid27632" type="Folder">10</container>
+                        <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+                    </did>
+                    <odd id="ref2569">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226337 9</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2570" level="file">
+                    <did>
+                        <unittitle>Applications for Jobs</unittitle>
+                        <container id="cid27631" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid27631" type="Folder">11</container>
+                        <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+                    </did>
+                    <odd id="ref2572">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226337 9</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2573" level="file">
+                    <did>
+                        <unittitle>Job Applicants</unittitle>
+                        <container id="cid27630" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid27630" type="Folder">12</container>
+                        <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+                    </did>
+                    <odd id="ref2575">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226337 9</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2576" level="file">
+                    <did>
+                        <unittitle>Job Applicants</unittitle>
+                        <container id="cid27629" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid27629" type="Folder">13</container>
+                        <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+                    </did>
+                    <odd id="ref2578">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226337 9</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2579" level="file">
+                    <did>
+                        <unittitle>Job Applicants</unittitle>
+                        <container id="cid27628" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid27628" type="Folder">14</container>
+                        <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+                    </did>
+                    <odd id="ref2581">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226337 9</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2582" level="file">
+                    <did>
+                        <unittitle>Job Applicants</unittitle>
+                        <container id="cid27627" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid27627" type="Folder">15</container>
+                        <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+                    </did>
+                    <odd id="ref2584">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226337 9</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2585" level="file">
+                    <did>
+                        <unittitle>Job Applicants</unittitle>
+                        <container id="cid27626" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid27626" type="Folder">16</container>
+                        <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+                    </did>
+                    <odd id="ref2587">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226337 9</p>
+                    </odd>
+                </c>
                 <c id="ref2588" level="file">
                     <did>
                         <unittitle>American Urban Appointment</unittitle>
@@ -9975,6 +10364,18 @@
                     <odd id="ref2593">
                         <head>General note</head>
                         <p>Barcode #: 3 1142 04226337 9</p>
+                    </odd>
+                </c>
+                <c audience="internal" id="ref2594" level="file">
+                    <did>
+                        <unittitle>Urban Appt Rejected</unittitle>
+                        <container id="cid27623" type="Box" label="Mixed materials">14</container>
+                        <container parent="cid27623" type="Folder">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <odd id="ref2596">
+                        <head>General note</head>
+                        <p>Barcode #: 3 1142 04226364 3</p>
                     </odd>
                 </c>
                 <c id="ref2597" level="file">
