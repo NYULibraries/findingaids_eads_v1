@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">        <eadid>btwcd</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>btwcd</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Between C &amp; D Archive
@@ -26,13 +27,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2016-02-04T16:44-0500</date>
+                <date>2016-03-25T10:39-0400</date>
             </creation>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>January 2016</date>
-                <item>In 2003, the Between C and D finding aid was converted from EAD 1.0 to 2002 by one2two.xsl. Edited by Jennifer Gargiulo to reflect updated box numbers</item>
+                <date>March 2016</date>
+                <item>In 2003, the Between C and D finding aid was converted from EAD 1.0 to 2002 by one2two.xsl. Edited by Jennifer Gargiulo to reflect updated box number, January 2016.
+
+Edited by Molly Davy to reflect updated box numbers</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -125,8 +128,9 @@
         </prefercite>
         <processinfo id="ref428">
             <head>Processing Information note</head>
-            <p>In January 2016, boxes from Series II-Series VI and one oversize box were renumbered to numerically follow boxes in Series I. Researchers with citations to previous box numbers may view the original finding 
+            <p>In March 2016, boxes from Series II-Series VI and one oversize box were renumbered to numerically follow boxes in Series I. Researchers with citations to previous box numbers may view the original finding 
                 <extref ns2:href="http://www.nyu.edu/library/bobst/research/fales/between_candd_original_guide.pdf">here</extref>, or contact fales.library@nyu.edu for assistance with identifying box numbers.</p>
+            <p></p>
         </processinfo>
         <controlaccess>
             <persname source="naf">Acker, Kathy, 1948-1997</persname>
@@ -1522,7 +1526,7 @@
                     <c id="ref181" level="otherlevel">
                         <did>
                             <unittitle>Liston vs. Clay poster (1964)</unittitle>
-                            <container id="cid15879105" type="Box" label="Mixed materials">1 (oversize)</container>
+                            <container id="cid15879105" type="Box" label="Mixed materials">12</container>
                             <container parent="cid15879105" type="Folder">1</container>
                             <unitdate>1964</unitdate>
                         </did>
@@ -2666,24 +2670,24 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref274" level="otherlevel">
-                    <did>
-                        <unittitle>Epson computer</unittitle>
-                        <container id="cid15879023" type="Box" label="Mixed materials">17</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c>
                 <c id="ref276" level="otherlevel">
                     <did>
                         <unittitle>Epson keyboard</unittitle>
-                        <container id="cid15879021" type="Box" label="Mixed materials">16</container>
+                        <container id="cid15879021" type="Box" label="Mixed materials">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref274" level="otherlevel">
+                    <did>
+                        <unittitle>Epson computer</unittitle>
+                        <container id="cid15879023" type="Box" label="Mixed materials">16</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref275" level="otherlevel">
                     <did>
                         <unittitle>Epson monitor</unittitle>
-                        <container id="cid15879022" type="Box" label="Mixed materials">18</container>
+                        <container id="cid15879022" type="Box" label="Mixed materials">17</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
@@ -2824,7 +2828,7 @@
                 <c id="ref296" level="otherlevel">
                     <did>
                         <unittitle>Liston vs. Clay poster (1964)</unittitle>
-                        <container id="cid15879005" type="Box" label="Mixed materials">15</container>
+                        <container id="cid15879005" type="Box" label="Mixed materials">12</container>
                         <container parent="cid15879005" type="Folder">1</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2832,7 +2836,7 @@
                 <c id="ref297" level="otherlevel">
                     <did>
                         <unittitle>David Wojnarowicz Posters from v.1, #4</unittitle>
-                        <container id="cid15879004" type="Box" label="Mixed materials">15</container>
+                        <container id="cid15879004" type="Box" label="Mixed materials">12</container>
                         <container parent="cid15879004" type="Folder">2</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2840,7 +2844,7 @@
                 <c id="ref298" level="otherlevel">
                     <did>
                         <unittitle>Cover art from v.6, #1</unittitle>
-                        <container id="cid15879003" type="Box" label="Mixed materials">15</container>
+                        <container id="cid15879003" type="Box" label="Mixed materials">12</container>
                         <container parent="cid15879003" type="Folder">3</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2848,7 +2852,7 @@
                 <c id="ref299" level="otherlevel">
                     <did>
                         <unittitle>Between C &amp; D Anthology poster</unittitle>
-                        <container id="cid15879002" type="Box" label="Mixed materials">15</container>
+                        <container id="cid15879002" type="Box" label="Mixed materials">12</container>
                         <container parent="cid15879002" type="Folder">4</container>
                         <unitdate>undated</unitdate>
                     </did>
