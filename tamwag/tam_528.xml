@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_528/">tam_528</eadid>
         <filedesc>
             <titlestmt>
@@ -22,15 +22,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-10-22T12:31-0400</date>
+                <date>2016-03-28T09:05-0400</date>
             </creation>
             <langusage>Description is in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>October 2014</date>
-                <item>Edited by Nicole Greenhouse for DACS compliance and to reflect the incorporation of nonprint materials in 2013. Edited in 2014 by Heather Mulliner to include materials found in repository. Edited by Maggie Schreiner to reflect updated administrative information</item>
+                <date>3/25/2016</date>
+                <item>Edited by Nicole Greenhouse for DACS compliance and to reflect the incorporation of nonprint materials in 2013. Edited in 2014 by Heather Mulliner to include materials found in repository. Edited by Maggie Schreiner to reflect updated administrative information. Updated by Rachel Searcy to reflect incorporation of 2016 accession.</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -48,7 +48,7 @@
                 <extent>2.0 linear feet</extent>
                 <extent>in two manuscript boxes, one folder, and one oversize flat box.</extent>
             </physdesc>
-            <unitdate normal="1920/2012" type="inclusive">1920s-2000s</unitdate>
+            <unitdate normal="1920/2012" type="inclusive">circa 1920s-2000s</unitdate>
             <abstract id="ref3" label="Abstract">Manumit School was a Christian socialist school in Pawling, NY, 1924-1943, then in Bristol, PA, 1944-1958. The collection is an assembled collection containing printed ephemera, correspondence, writings of the School's director (1933-1958), William Mann Fincke, who was a son of the co-founders, Reverend William Mann Fincke (d. 1927) and Helen Harden Fincke; a CD containing material from the website "Manumit School" devoted to its history, and photographs of students and life at the school.</abstract>
             <langmaterial id="ref42" label="Language of Materials note">Materials are in English.</langmaterial>
             <origination label="creator">
@@ -62,7 +62,7 @@
         </relatedmaterial>
         <processinfo id="ref44">
             <head>Processing Information note</head>
-            <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Manumit School Photographs (PHOTOS 282). In 2013, the photograph collection was reincorporated into the Manumit School Collection. A box and folder list were also added in 2013. An album of illustrated stories was originally covered in tape, which was removed by the Preservation department.</p>
+            <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Manumit School Photographs (PHOTOS 282). In 2013, the photograph collection was reincorporated into the Manumit School Collection. A box and folder list were also added in 2013. An album of illustrated stories was originally covered in tape, which was removed by the Preservation department. In 2016 an accretion consisting of correspondence and a catalog from the school was donated and incorporated into the collection in accordance with previous arrangement and description decisions.</p>
         </processinfo>
         <bioghist id="ref2">
             <head>Historical/Biographical Note</head>
@@ -91,14 +91,13 @@
         </prefercite>
         <acqinfo id="ref49">
             <head>Immediate Source of Acquisition note</head>
-            <p>R. Michael Speer sent a donation of Manumit School records to the Tamiment Library in 2010. The accession number associated with this donation is 2010.027. Additionally, Barbara Dutton Dretzin sent a donation of a book related to the Manumit School in 2013. The accession number associated with this item is 2013.016. In 2013, R. Michael Speer also sent a donation of correspondence among Manumit School alumni. The accession number associated with these materials is 2014.104. The accession number 2011.038 is also associated with this collection.</p>
+            <p>R. Michael Speer sent a donation of Manumit School records to the Tamiment Library in 2010. The accession number associated with this donation is 2010.027. Additionally, Barbara Dutton Dretzin sent a donation of a book related to the Manumit School in 2013. The accession number associated with this item is 2013.016. In 2013, R. Michael Speer also sent a donation of correspondence among Manumit School alumni. The accession number associated with these materials is 2014.104. The accession number 2011.038 is also associated with this collection. Speer sent an additional donation of materials in 2016; the accession number of this gift is 2016.019.</p>
         </acqinfo>
         <controlaccess>
             <persname source="local">Fincke, Benjamin</persname>
-            <persname source="local">Fincke, William Mann, Reverend</persname>
             <persname source="local">Fincke, William Mann</persname>
             <corpname source="local">Manumit School (Bristol, Pa.).</corpname>
-            <corpname source="local">Manumit School (Pawling, N.Y.).</corpname>
+            <corpname rules="dacs" source="local">Manumit School (Pawling, N.Y.).</corpname>
             <persname rules="dacs" source="local">Speer, R. Michael</persname>
             <subject source="lcsh">Alternative education |z New York (State)</subject>
             <subject source="lcsh">Alternative education |z Pennsylvania.</subject>
@@ -120,9 +119,17 @@
                     <unitdate normal="2008/2012" type="inclusive">2008-2012</unitdate>
                 </did>
             </c>
+            <c id="ref50" level="file">
+                <did>
+                    <unittitle>2015 Addendum</unittitle>
+                    <container id="cid23902001" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid23902001" type="Folder">12</container>
+                    <unitdate normal="1952/2012" type="inclusive">1952, 2012</unitdate>
+                </did>
+            </c>
             <c id="ref38" level="file">
                 <did>
-                    <unittitle>Book of illustrated stories written by Manumit School students who were around high school age during World War II</unittitle>
+                    <unittitle>Book of Illustrated Stories Written by Manumit School Students Who Were Around High School Age During World War II</unittitle>
                     <container id="cid22551032" type="Box" label="Mixed materials">3</container>
                     <unitdate normal="1940/1949" type="inclusive">1940s</unitdate>
                 </did>
@@ -141,7 +148,7 @@
                     <unitid>2014.104</unitid>
                     <container id="cid23240001" type="Box" label="Mixed materials">1</container>
                     <container parent="cid23240001" type="Folder">2A</container>
-                    <unitdate>2007-2012</unitdate>
+                    <unitdate normal="2007/2012" type="inclusive">2007-2012</unitdate>
                 </did>
             </c>
             <c id="ref9" level="file">
@@ -261,7 +268,7 @@
                     <unittitle>Manumit Symposium CD</unittitle>
                     <container id="cid22551017" type="Box" label="Mixed materials">1</container>
                     <container parent="cid22551017" type="Folder">16</container>
-                    <unitdate normal="2011/2011">Jul 9, 2011</unitdate>
+                    <unitdate normal="2011/2011">2011 July 9</unitdate>
                 </did>
             </c>
             <c id="ref24" level="file">
@@ -270,7 +277,7 @@
                         <emph render="italic">The Manuscript</emph></unittitle>
                     <container id="cid22551018" type="Box" label="Mixed materials">1</container>
                     <container parent="cid22551018" type="Folder">17</container>
-                    <unitdate normal="1955/1956" type="inclusive">undated, 1955, 1956</unitdate>
+                    <unitdate normal="1955/1956" type="inclusive">undated, 1955-1956</unitdate>
                 </did>
             </c>
             <c id="ref25" level="file">
@@ -376,7 +383,7 @@
                     <unitdate>undated</unitdate>
                 </did>
             </c>
-            <c id="ref46" level="otherlevel">
+            <c otherlevel="website" id="ref46" level="otherlevel">
                 <did>
                     <unittitle>Archived Website</unittitle>
                     <unitdate>Sep 2, 2009-ongoing</unitdate>
