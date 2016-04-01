@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/nyhsphotos/">nyhsrg5</eadid>
+        <eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/nyhsrg5/">nyhsrg5</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the New-York Historical Society Pictorial Archive
-                    <lb/> 1804-2000 (bulk 1900s-1970s)
+                    <lb/> 1804-2010 (bulk 1900s-1970s)
                     <lb/>
                     <num>NYHS-RG 5</num>
                 </titleproper>
                 <author>Finding aid prepared by Maurita Baldock (2005), with revisions and additions by Celia Hartmann (2007) and Larry Weimer (2015)</author>
-                <sponsor>Updates to this record group were processed as part of the 2015-2017 N-YHS Archives project, funded by a generous grant from the Leon Levy Foundation.</sponsor>
+                <sponsor>Updates to this record group were processed as part of the 2015-2016 N-YHS Archives project, funded by a generous grant from the Leon Levy Foundation.</sponsor>
             </titlestmt>
             <publicationstmt>
                 <publisher>© 2011 New-York Historical Society</publisher>
@@ -24,13 +24,13 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-12-02T14:04-0500</date>
+                <date>2016-04-01T15:16-0400</date>
             </creation>
             <langusage>Finding aid is written in English.</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
-    <archdesc level="recordgrp">
+    <archdesc level="collection">
         <did>
             <unittitle>New-York Historical Society pictorial archive</unittitle>
             <unitid>NYHS-RG 5</unitid>
@@ -127,7 +127,8 @@ and oversize folders</extent>
         </bioghist>
         <relatedmaterial id="ref149">
             <head>Related Material</head>
-            <p>This finding aid relates to just one record group of the New-York Historical Society archives. For information about the other record groups and for overall information about the archives, please see the Guide to the New-York Historical Society Archives (NYHS Archives).</p>
+            <p>This finding aid relates to just one record group of the New-York Historical Society archives. For information about the other record groups and for overall information about the archives, please see the 
+                <extref ns2:actuate="onRequest" ns2:href="http://dlib.nyu.edu/findingaids/html/nyhs/nyhsrgarchives/">Guide to the New-York Historical Society Archives</extref> (NYHS-RG Archives).</p>
         </relatedmaterial>
         <accruals id="ref1143">
             <head>Accruals Note</head>
@@ -160,12 +161,23 @@ and oversize folders</extent>
         </arrangement>
         <controlaccess>
             <corpname source="naf">New-York Historical Society. -- Archives</corpname>
-            <subject source="lcsh">Building -- Design and construction.</subject>
-            <subject source="lcsh">Exhibitions--New York (State)--New York. </subject>
+            <corpname source="naf">New-York Historical Society. -- Buildings</corpname>
+            <corpname source="naf">New-York Historical Society. -- Employees</corpname>
+            <corpname source="naf">New-York Historical Society. -- Photographs</corpname>
+            <corpname rules="aacr" source="naf">Walker &amp; Gillette.</corpname>
+            <corpname rules="rda" source="naf">York &amp; Sawyer.</corpname>
+            <subject source="lcsh">Learned institutions and societies -- New York (State) -- New York -- Photographs</subject>
+            <subject source="lcsh">Libraries and institutions -- New York (State) -- New York -- Photographs</subject>
+            <subject source="lcsh">Museum buildings -- New York (State) -- New York -- Designs and plans</subject>
+            <subject source="lcsh">Museum buildings -- New York (State) -- New York -- Drawings</subject>
+            <subject source="lcsh">Museum buildings -- New York (State) -- New York -- Photographs</subject>
+            <subject source="lcsh">Museum exhibits -- New York (State) -- New York -- Photographs</subject>
             <genreform source="aat">Negatives</genreform>
+            <geogname source="lcsh">New York (N.Y.) -- History -- Societies, etc.</geogname>
             <subject source="lcsh">New York (N.Y.)--Buildings, structures, etc.--Pictorial works.</subject>
-            <geogname source="lcsh">New York (N.Y.)--History--Societies, etc.</geogname>
-            <genreform source="aat">Photographs</genreform>
+            <geogname source="lcsh">New York (N.Y.) -- Social life and customs -- Photographs</geogname>
+            <genreform source="aat">Photographic prints</genreform>
+            <genreform source="aat">Portraits</genreform>
             <genreform source="aat">Posters</genreform>
         </controlaccess>
         <dsc>
@@ -442,6 +454,10 @@ and oversize folders</extent>
                         <container parent="cid133103" type="Folder">8</container>
                         <unitdate>1937 September 22-1938 March</unitdate>
                     </did>
+                    <odd id="ref551">
+                        <head>General Note</head>
+                        <p>Includes prints of negatives BU135 to BU173, with gaps.</p>
+                    </odd>
                 </c>
                 <c id="ref29" level="file">
                     <did>
@@ -464,7 +480,7 @@ and oversize folders</extent>
                     </did>
                     <odd id="ref553">
                         <head>General Note</head>
-                        <p>The acetate negatives for the photographs in the above five folders were in a deteriorated condition and were discarded in 2015. Prior to discard, all the negatives were scanned. This folder includes the inventory of the digitized negatives and the related filename for the images. There were negatives for which there is no print in the above folders and only the digital image remains. Some of the negatives having a prefix of BU were enclosed in envelopes that had descriptive captions recorded on them; this folder also includes those envelopes. Envelopes with no captions or other information were discarded.</p>
+                        <p>The bulk of the acetate negatives for the photographs in the above five folders were in a deteriorated condition and all but about 24 were discarded in 2016. Prior to discard, all the negatives were scanned. This folder includes the inventory of the digitized negatives and the related filename for the images. There were negatives for which there is no print in the above folders and only the digital image remains. Some of the negatives having a prefix of BU were enclosed in envelopes that had descriptive captions recorded on them; this folder also includes those envelopes. Envelopes with no captions or other information were discarded.</p>
                     </odd>
                 </c>
                 <c id="ref591" level="file">
@@ -673,6 +689,18 @@ and oversize folders</extent>
                     <odd id="ref577">
                         <head>General Note</head>
                         <p>Includes copies of an etching by E. Roth (1940) and a ink drawing by Roxie Munro (1980s?) of the building exterior.</p>
+                    </odd>
+                </c>
+                <c id="ref1164" level="file">
+                    <did>
+                        <unittitle>170 Central Park West. Drawing by Paul Chiasson</unittitle>
+                        <container id="cid1700017" type="Drawer" label="Mixed materials">12A-B10</container>
+                        <container parent="cid1700017" type="Folder">15</container>
+                        <unitdate>1983</unitdate>
+                    </did>
+                    <odd id="ref1165">
+                        <head>General Note</head>
+                        <p>Includes a drawing by Chiasson of the building's front elevation</p>
                     </odd>
                 </c>
                 <c id="ref575" level="file">
@@ -2436,16 +2464,17 @@ and oversize folders</extent>
                         <unittitle>Oversize Exhibition Posters</unittitle>
                         <container id="cid307079" type="Drawer" label="Graphic materials">12A-B10</container>
                         <container parent="cid307079" type="Folder">4</container>
-                        <unitdate>1972, 1976?, 1981, 1985, 2010</unitdate>
+                        <unitdate>1972, 1976?, 1981, 1983, 1985, 2010</unitdate>
                     </did>
                     <odd id="ref1115">
                         <head>General Note</head>
-                        <p>Includes poster size background information sheet for 
-                            <emph render="italic">Audubon and His World: The Birds of America</emph> (1972); 
+                        <p>Includes 
+                            <emph render="italic">Audubon and His World: The Birds of America</emph> (1972) (poster size background information sheet); 
                             <emph render="italic">Moving in the City: Three Centuries of Transportation in New York</emph> (1976?); 
                             <emph render="italic">The White Mountains: Place and Perceptions</emph> (1981); 
                             <emph render="italic">Small Folk: A Celebration of Childhood in America</emph> (1981) (2 versions); 
                             <emph render="italic">Twenty Years of Society of Illustrators Award Winners</emph> (1981); 
+                            <emph render="italic">Firefighting on Parade, 1700-1865</emph> (1983); 
                             <emph render="italic">Centuries of Childhood in New York: A Celebration on the Occasion of the 275th Anniversary of Trinity School</emph> (1985); 
                             <emph render="italic">Grateful Dead: Now Playing at the New-York Historical Society</emph> (2010).</p>
                     </odd>
@@ -7073,6 +7102,18 @@ and oversize folders</extent>
                     <odd id="ref1108">
                         <head>General Note</head>
                         <p>Exhibitions: Prized Prints (5). Objects: 1810 St. Nicholas Festival description from Pintard papers (1). Buildings: Central Park West, 1906 interior (1); Bus stop (2); Cass Gilbert collection in stacks (3). Programs and Events: Children in auditorium (1).</p>
+                    </odd>
+                </c>
+                <c id="ref1166" level="file">
+                    <did>
+                        <unittitle>1937-1938 Building Expansion Negatives</unittitle>
+                        <container id="cid1735001" type="Box" label="Mixed materials">40</container>
+                        <container parent="cid1735001" type="Envelope">-</container>
+                        <unitdate>1937</unitdate>
+                    </did>
+                    <odd id="ref1167">
+                        <head>General Note</head>
+                        <p>In 2016, over 200 acetate negatives related to the 1937-38 building expansion were removed from the collection because of their severely deteriorated condition. Only 24 negatives were in sufficiently good condition to retain. This folder holds those 24, the report on the disposition of the other negatives, and the list of negatives scanned prior to disposition. See also above at NYHS-RG 5, Series I, folder 170 Central Park West. Construction. New Wings (6 of 6).</p>
                     </odd>
                 </c>
             </c>
