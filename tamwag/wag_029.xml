@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_029</eadid>
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_029/">wag_029</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the New York Committee for Occupational Safety and Health (NYCOSH) Records
                     <num>WAG.029</num>
                 </titleproper>
-                <author>Finding aid prepared by Tamiment staff. Boxes 57-63 added by Rachel Schimke, 2012 and 2014. Edited by Maggie Schreiner to reflect updated administrative information, 2014.</author>
+                <author>Finding aid prepared by Tamiment staff.</author>
             </titlestmt>
             <publicationstmt>
                 <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
@@ -21,15 +21,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-08-18T12:56-0400</date>
+                <date>2016-04-06T14:55-0400</date>
             </creation>
             <langusage>Description is in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>August 2014</date>
-                <item>Edited by Heather Mulliner to reflect incorporation of new materials into the collection</item>
+                <date>February 2016</date>
+                <item>Boxes 57-63 added by Rachel Schimke, 2012 and 2014. Edited by Maggie Schreiner to reflect updated administrative information, 2014. Edited by Heather Mulliner to reflect incorporation of new materials into the collection. Edited by Emma Sarconi to reflect incoporation of new materials into the collection</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -44,8 +44,8 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>61.5 linear feet</extent>
-                <extent>in 60 record cartons, 2 manuscript boxes, and 1 oversize flat box</extent>
+                <extent>62.5 linear feet</extent>
+                <extent>in 61 record cartons, 2 manuscript boxes, and 1 oversize flat box</extent>
             </physdesc>
             <unitdate normal="1971/2011" type="inclusive">1971-2011</unitdate>
             <abstract id="ref2" label="Abstract">The New York Committee for Occupational Safety and Health (NYCOSH) was founded in 1976 to advocate for safe and healthy workplaces. NYCOSH bases much of its advocacy on the Occupational Safety and Health Act of 1970 and has helped spearhead successful efforts to preserve the Federal Occupational Safety and Health Administration (OSHA). The collection includes minutes of membership, steering committee, health and technical committee, personnel committee, political education committee and workers' compensation committee meetings, general correspondence, requests for assistance, membership records, course materials, publicity flyers, fact sheets, newsletters, fund raising materials, pamphlets, lobbying materials, and educational materials.</abstract>
@@ -59,6 +59,7 @@
             <head>Processing Information note</head>
             <p>Some materials from the 2012 and 2014 accessions were placed in archival housing. Loose materials were placed in archival folders.</p>
             <p>In 2014, the archived website was added as series IV.</p>
+            <p>Board minutes from 2012 - 2013 were added to series I (box 64) based on their content.</p>
         </processinfo>
         <bioghist id="ref3">
             <head>Historical/Biographical Note</head>
@@ -111,6 +112,7 @@
             <p>Gift of the New York Committee for Occupational Safety and Health, 1985. The accession number associated with this gift is 1985.009. Additional donations were made in 2005 and 2009. The accession number associated with these materials is 2011.075.</p>
             <p>Two additional donations, comprising the materials in Boxes 57-59, were made in 2012. The accession numbers associated with these gifts are 2012.015 and 2012.023.</p>
             <p>Another two additional donations, comprising the materials in Boxes 60-63, were made in 2014. The accession numbers associated with these gifts are 2014.010 and 2014.016. Three pamphlets related to workplace safety were also donated in 2014. The accession number associated with these items is 2014.137.</p>
+            <p>Board Minutes from 2012 - 2013 donated by the NYCOSH, 2016. The accession number associated with this gift is 2016.006</p>
         </acqinfo>
         <controlaccess>
             <corpname source="ingest">New York Committee for Occupational Safety and Health.</corpname>
@@ -123,7 +125,7 @@
             <subject source="lcsh">Industrial accidents |z New York (State) |z New York</subject>
             <subject source="lcsh">Industrial hygiene |z New York (State) |z New York</subject>
             <subject source="lcsh">Industrial safety |z New York (State) |z New York</subject>
-            <genreform source="aat">Minutes.</genreform>
+            <genreform source="aat">Minutes (administrative records).</genreform>
             <subject source="lcsh">Occupational diseases |z New York (State) |z New York.</subject>
             <subject source="lcsh">Poisons |x Safety measures.</subject>
             <subject source="lcsh">Radiation |x Safety measures.</subject>
@@ -1193,6 +1195,13 @@
                         <unittitle>International Occupational Safety and Health Organizations</unittitle>
                         <container id="cid23047610" type="Box" label="Mixed materials">4</container>
                         <container parent="cid23047610" type="Folder">29</container>
+                    </did>
+                </c>
+                <c id="ref1161" level="file">
+                    <did>
+                        <unittitle>Board Minutes</unittitle>
+                        <container id="cid23885001" type="Box" label="Mixed materials">64</container>
+                        <unitdate normal="2012/2013" type="inclusive">2012-2013</unitdate>
                     </did>
                 </c>
             </c>
