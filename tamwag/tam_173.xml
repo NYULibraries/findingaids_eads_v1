@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_173/">tam_173</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_173/">tam_173</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Preliminary Inventory to the Metropolitan Council on Housing Records
@@ -33,8 +32,8 @@
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>February 2015</date>
-                <item>Revised by Erika Gottfried to reflect transfer of materials in this collection to another collection. </item>
+                <date>May 2016</date>
+                <item>Revised by Erika Gottfried to reflect transfer of materials in this collection to another collection, February 2015. Revised by Giana Ricci to reflect the addition of audiovisual material found in repository</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -4130,11 +4129,9 @@
                     <did>
                         <unittitle>CB #3 Meeting Grand Street Settlement</unittitle>
                         <container id="cid23406005" type="Box" label="Audio">27</container>
-                        <container parent="cid23406005" type="Cassette">2-5</container>
-                        <container id="cid23406002" type="Box" label="Access Cassette">27</container>
-                        <container parent="cid23406002" type="Cassette">2-5</container>
+                        <container parent="cid23406005" type="Cassette">1-5</container>
                         <physdesc>
-                            <extent>4.0 audiocassettes</extent>
+                            <extent>5.0 audiocassettes</extent>
                         </physdesc>
                         <unitdate normal="1993/1993">May 18, 1993</unitdate>
                     </did>
