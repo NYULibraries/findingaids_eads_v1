@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_199_anderson_nostrand</eadid>
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_199_anderson_nostrand.html ">arc_199_anderson_nostrand</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Anderson and Nostrand families papers and photographs
@@ -25,9 +25,9 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T10:55-0500</date>
+                <date>2016-05-18T11:57-0400</date>
             </creation>
-            <langusage>English.</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
@@ -44,10 +44,11 @@
             <container id="cid733002" type="Box" label="Graphic materials">ARC.199 Box 2 of 2</container>
             <container id="cid736001" type="Box" label="Mixed materials">ARC.199 Box 1 of 2</container>
             <physdesc>
-                <extent>0.5 Linear feet</extent>
+                <extent>0.5 linear feet</extent>
                 <extent>in one glass plate negative box and one half manuscript box.</extent>
             </physdesc>
             <unitdate normal="1844/1914" type="inclusive">1844-1914</unitdate>
+            <abstract id="ref19" label="Abstract">The Anderson and Nostrand families papers and photographs date from 1844 to 1914 and measure .5 linear feet. The collection documents three generations of the Nostrand and Anderson families and includes photographs, tax receipts, a marriage certificate, a wedding invitation, a menu from a caterer, a membership certificate, and a handwritten memoir.</abstract>
             <origination label="creator">
                 <famname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Anderson family</famname>
             </origination>
@@ -71,8 +72,7 @@
         </accessrestrict>
         <userestrict id="ref3">
             <head>Conditions Governing Use</head>
-            <p>Copyright for anonymously created items remain in effect for 120 years following the date of creation. Based on the date range of this collection,the glass plate negatives and photographs in the collection entered the public domain in 2010. For information on securing rights to publish or reproduce, please see the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="Reproduction Rights Policy" ns2:href="http://www.brooklynhistory.org/library/repropolicy.html">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>
+            <p>The collection is in the public domain.</p>
         </userestrict>
         <acqinfo id="ref4">
             <head>Immediate Source of Acquisition</head>
@@ -80,20 +80,12 @@
         </acqinfo>
         <processinfo id="ref15">
             <head>Processing Information note</head>
-            <p>Minimally processed to the series level, except the photographs which have been fully processed to the item level.</p>
+            <p>Minimally processed to the series level, except the photographs which have been fully processed to the item level. The collection was processed by Patricia Glowinski in April 2011. The finding aid was slightly revised by John Zarrillo in May 2016.</p>
             <p>This collection combines the accessions V1974.011, 1973.261, and 1977.547.</p>
         </processinfo>
         <scopecontent id="ref7">
             <head>Scope and Contents</head>
-            <p>The Anderson and Nostrand families papers and photographs date from 1844 to 1914 and measure .5 linear feet. The collection documents three generations of the Nostrand and Anderson families and includes photographs, tax receipts, a marriage certificate, a wedding invitation, a menu from a caterer, a membership certificate, and a handwritten memoir. The collection is organized into four series:</p>
-            <p>
-                <emph render="bold">Series 1: Photographs, circa 1880</emph></p>
-            <p>
-                <emph render="bold">Series 2: Lewis Pease Nostrand memoir, 1897</emph></p>
-            <p>
-                <emph render="bold">Series 3: Peter and Maria Anderson papers, 1844 to 1863</emph></p>
-            <p>
-                <emph render="bold">Series 4: Miscellaneous family papers, circa 1879 to 1914</emph></p>
+            <p>The Anderson and Nostrand families papers and photographs date from 1844 to 1914 and measure .5 linear feet. The collection documents three generations of the Nostrand and Anderson families and includes photographs, tax receipts, a marriage certificate, a wedding invitation, a menu from a caterer, a membership certificate, and a handwritten memoir.</p>
         </scopecontent>
         <prefercite id="ref6">
             <head>Preferred Citation</head>
@@ -103,6 +95,18 @@
             <head>Other Finding Aids</head>
             <p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>
         </otherfindaid>
+        <arrangement id="ref20">
+            <head>Arrangement note</head>
+            <p>The collection is organized into four series:</p>
+            <p>
+                <emph render="bolditalic">Series 1: Photographs, circa 1880</emph></p>
+            <p>
+                <emph render="bolditalic">Series 2: Lewis Pease Nostrand memoir, 1897</emph></p>
+            <p>
+                <emph render="bolditalic">Series 3: Peter and Maria Anderson papers, 1844 to 1863</emph></p>
+            <p>
+                <emph render="bolditalic">Series 4: Miscellaneous family papers, circa 1879 to 1914</emph></p>
+        </arrangement>
         <controlaccess>
             <famname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Anderson family</famname>
             <persname rules="dacs" source="local">Anderson, Lewis Nostrand, 1872-1939</persname>
@@ -113,7 +117,7 @@
             <persname rules="dacs" source="local">Nostrand, Lewis Pease, 1823-1900</persname>
             <subject source="lcsh">Architecture, Domestic |z New York (State) |z Kings County</subject>
             <geogname source="local">Boerum Street (Brooklyn, New York, N.Y.)</geogname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Commerce </geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Commerce</geogname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Religious life and customs</geogname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs |y 19th century</geogname>
             <genreform source="aat">Certificates</genreform>
@@ -144,19 +148,18 @@
             <c id="ref9" level="series">
                 <did>
                     <unittitle>Series 1: Photographs</unittitle>
-                    <unitid>V1974.011</unitid>
                     <langmaterial>
                         <language langcode="eng"/>
                     </langmaterial>
                     <physdesc>
-                        <extent>0.3 Linear feet</extent>
+                        <extent>0.3 linear feet</extent>
                         <extent>in one glass plate negative box and one folder.</extent>
                     </physdesc>
                     <unitdate>circa 1880</unitdate>
                 </did>
                 <scopecontent id="ref10">
                     <head>Scope and Contents</head>
-                    <p>This series consists of 47 items including 36 black-and-white glass plate negatives, 10 black-and-white photographic prints (reproduced from the glass plate negatives), and one postcard. The collection documents the Anderson family and their family home that was located at 149 Taylor Street in the Williamsburg neighborhood of Brooklyn. Included in the collection are numerous photographs showing Lewis Nostrand Anderson, as well as informal group portraits. The home at 149 Taylor Street is well-documented in the collection and includes both front and back views of the house. Views of the Prospect Park lawn tennis courts, as well as images of Lewis Nostrand Anderson, his cousin Albert Wade, Helen Brown, and others in lawn tennis attire are also represented in the collection. The collection also documents Anderson family holidays spent in Sea Cliff, Long Island, N.Y. and in Watkins Glen, N.Y.</p>
+                    <p>This series consists of 47 items including 36 black-and-white glass plate negatives, 10 black-and-white photographic prints (reproduced from the glass plate negatives), and one postcard. The collection documents the Anderson family and their family home that was located at 149 Taylor Street in the Williamsburg neighborhood of Brooklyn. Included in the collection are numerous photographs showing Lewis Nostrand Anderson, as well as informal group portraits. The home at 149 Taylor Street is well-documented in the collection and includes both front and back views of the house. Views of the Prospect Park lawn tennis courts, as well as images of Lewis Nostrand Anderson, his cousin Albert Wade, Helen Brown, and others in lawn tennis attire are also represented in the collection. The collection also documents Anderson family holidays spent in Sea Cliff, Long Island, N.Y. and in Watkins Glen, N.Y. This series is entirely comprised of the accession V1974.011.</p>
                 </scopecontent>
             </c>
             <c id="ref11" level="series">
@@ -166,7 +169,7 @@
                         <language langcode="eng"/>
                     </langmaterial>
                     <physdesc>
-                        <extent>0.1 Linear feet</extent>
+                        <extent>0.1 linear feet</extent>
                         <extent>in one folder.</extent>
                     </physdesc>
                     <unitdate normal="1897/1897">1897</unitdate>
@@ -183,7 +186,7 @@
                         <language langcode="eng"/>
                     </langmaterial>
                     <physdesc>
-                        <extent>0.1 Linear feet</extent>
+                        <extent>0.1 linear feet</extent>
                         <extent>in one folder.</extent>
                     </physdesc>
                     <unitdate normal="1844/1863" type="inclusive">1844-1863</unitdate>
@@ -200,7 +203,7 @@
                         <language langcode="eng"/>
                     </langmaterial>
                     <physdesc>
-                        <extent>0.03 Linear feet</extent>
+                        <extent>0.03 linear feet</extent>
                         <extent>three items housed in one folder.</extent>
                     </physdesc>
                     <unitdate>circa 1879 to 1914</unitdate>
