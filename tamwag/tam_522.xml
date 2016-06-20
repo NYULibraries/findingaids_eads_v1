@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_522</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_522/">tam_522</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Time's Up Records
                     <num>TAM.522</num>
                 </titleproper>
-                <author>Finding aid prepared by Finding aid prepared by Tamiment staff</author>
+                <author>Finding aid prepared by Tamiment staff</author>
             </titlestmt>
             <publicationstmt>
                 <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
@@ -22,13 +22,14 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-06-24T12:18-0400</date>
+                <date>2016-06-20T11:08-0400</date>
             </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>June 2014</date>
-                <item>Edited by Bonnie Gordon to reflect updated administrative information</item>
+                <date>May 2016</date>
+                <item>Edited by Bonnie Gordon to reflect updated administrative information in 2014. Further edited by Heather Mulliner to reflect incorporation of 2016 donation</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -42,16 +43,15 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid23258001" type="Box" label="Mixed materials">1-2</container>
             <physdesc>
-                <extent>2.0 linear feet</extent>
-                <extent>in 2 record cartons.</extent>
+                <extent>6.0 linear feet</extent>
+                <extent>in 5 record cartons and 2 manuscript boxes</extent>
             </physdesc>
-            <unitdate normal="1995/2009" type="inclusive">1995-2009</unitdate>
-            <langmaterial id="ref285" label="Language of Materials note">Materials are in English</langmaterial>
-            <abstract id="ref287" label="Abstract">Time's Up is a New York City environmentalist organization whose principal activity is the promotion of bicycle riding and the rights of cyclists through its Critical Mass campaigns. The collection contains ephemera, photographs, and other materials.</abstract>
+            <unitdate normal="1993/2012" type="inclusive">1993-2012</unitdate>
+            <langmaterial id="ref285" label="Language of Materials note">Materials are in English.</langmaterial>
+            <abstract id="ref287" label="Abstract">Time's Up is a New York City environmentalist organization whose principal activity is the promotion of bicycle riding and the rights of cyclists through its Critical Mass campaigns. This collection consists of photographs, ephemera, and clippings related to Time’s Up environmental organizing in New York City. These documents include posters, pamphlets, zines, flyers, and events calendars created to promote Critical Mass demonstrations and other acts of protest, events and celebrations, and fundraisers for Time’s Up. They also include several binders containing local articles related to bike safety, the construction of bike lanes, and cycling events.</abstract>
             <origination label="creator">
-                <corpname source="ingest">Time's Up (New York, N.Y.).</corpname>
+                <corpname rules="dacs" source="local">Time's Up (New York, N.Y.).</corpname>
             </origination>
         </did>
         <bioghist id="ref2">
@@ -64,11 +64,15 @@
         </userestrict>
         <prefercite id="ref291">
             <head>Preferred Citation</head>
-            <p>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+            <p>Identification of item, date; Time's Up Records; TAM 522; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
         </prefercite>
+        <accruals id="ref300">
+            <head>Accruals note</head>
+            <p>Further accruals are expected.</p>
+        </accruals>
         <acqinfo id="ref288">
             <head>Immediate Source of Acquisition note</head>
-            <p>This collection has been received in several accessions from Time's Up beginning in November 2009, and future acessions are anticipated. The accession numbers associated with this collection are 2009.094, 2010.005, 2010.079, and 2011.007.</p>
+            <p>This collection has been received in several accessions from Time's Up beginning in November 2009. The accession numbers associated with this collection are 2009.094, 2010.005, 2010.079, 2011.007, and 2016.026.</p>
         </acqinfo>
         <accessrestrict id="ref290">
             <head>Access Restrictions</head>
@@ -76,27 +80,28 @@
         </accessrestrict>
         <scopecontent id="ref3">
             <head>Scope and Content Note</head>
-            <p>The collection's initial donation (2009) includes calendars, printed ephemera, including stickers; zines, legal materials, photographs, posters, including two large (approx. 36" x 12") posters, one a timeline of the organization's activities, and various photographs and realia. In 2010, thirty envelopes of photographs, taken at various Time's Up events and actions, and related events and actions, were added to the collecction, some 300-500 photographs in all, accompanied by a list of the envelope titles. The 2011 donation contains photographs, negatives, printed ephemera (including some posters) related to various issues, events and activities. There is also a small amount of correspondence.</p>
+            <p>This collection consists of materials created and collected by Time's Up in the course of their environmental activism. Materials includes posters, pamphlets, zines, flyers, and event calendars created to promote the organization's events and fundraisers, with particular emphasis on Critical Mass demonstrations and other acts of protest. The collection also includes several binders containing local articles related to bike safety, the construction of bike lanes, and cycling events.</p>
         </scopecontent>
         <processinfo id="ref284">
             <head>Processing Information note</head>
-            <p>Inventory provided by donor.</p>
+            <p>At the time of accessioning, materials were transferred into archival boxes and described on the collection-level No arrangement or other physical interventions have taken place. Inventories from the 2009, 2010, and 2011 donations were provided by the donor.</p>
         </processinfo>
         <arrangement id="ref286">
             <head>Arrangement</head>
-            <p>Collection has not been arranged by an archivist.</p>
+            <p>This collection has not been arranged by an archivist. Materials are grouped according to the donations received by the library.</p>
         </arrangement>
         <controlaccess>
-            <corpname source="ingest">Time's Up (New York, N.Y.).</corpname>
             <subject source="lcsh">Bicycles |x Law and legislation |z New York (State) |z New York.</subject>
             <subject source="lcsh">Cyclists |z New York (State) |z New York.</subject>
             <subject source="lcsh">Environmentalists |z New York (State) |z New York.</subject>
             <subject source="lcsh">Green movement |z New York (State) |z New York.</subject>
         </controlaccess>
         <dsc>
-            <c id="ref4" level="series">
+            <c id="ref4" level="file">
                 <did>
                     <unittitle>2009 Donation</unittitle>
+                    <container id="cid23921002" type="Box" label="Mixed materials (31142051728064)">1</container>
+                    <container id="cid23921001" type="Box" label="Mixed materials (31142051728056)">2</container>
                 </did>
                 <scopecontent id="ref294">
                     <head>Scope and Content Note</head>
@@ -248,9 +253,11 @@
                     <p>Future Sea Level</p>
                 </scopecontent>
             </c>
-            <c id="ref292" level="series">
+            <c id="ref292" level="file">
                 <did>
                     <unittitle>2010 Donation</unittitle>
+                    <container id="cid23921003" type="Box" label="Mixed materials (31142051728031)">4</container>
+                    <container id="cid23921004" type="Box" label="Mixed materials (31142051728049)">3</container>
                 </did>
                 <scopecontent id="ref295">
                     <head>Scope and Content Note</head>
@@ -287,9 +294,10 @@
                     <p>Miscellaneous: 50</p>
                 </scopecontent>
             </c>
-            <c id="ref293" level="series">
+            <c id="ref293" level="file">
                 <did>
                     <unittitle>2011 Donation</unittitle>
+                    <container id="cid23921005" type="Box" label="Mixed materials (31142051728031)">4</container>
                 </did>
                 <scopecontent id="ref296">
                     <head>Scope and Content Note</head>
@@ -391,6 +399,22 @@
                     <p>WTO Protest (4 strips)</p>
                     <p>Props/Umbrellas (1+ strips)</p>
                     <p>Halloween Bike Ride Central Park (9 strips)</p>
+                </scopecontent>
+            </c>
+            <c id="ref297" level="file">
+                <did>
+                    <unittitle>2016 Donation</unittitle>
+                    <container id="cid23919003" type="Box" label="Mixed materials (31142051728023)">5</container>
+                    <container id="cid23919002" type="Box" label="Mixed materials (31142051728015)">6</container>
+                    <container id="cid23919001" type="Box" label="Mixed materials (31142051728007)">7</container>
+                    <unitdate normal="1993/2012" type="inclusive">1993-2012</unitdate>
+                </did>
+                <scopecontent id="ref298">
+                    <head>Scope and Content Note</head>
+                    <p>This donation consists of ten binders of clippings related to Time's Up activities in New York City.The binders are grouped by year, and contain articles from local New York City publications like the 
+                        <emph render="italic">Village Voice</emph>, 
+                        <emph render="italic">Time Out New York</emph>, and the 
+                        <emph render="italic">New York Times</emph> about events and news related to environmental issues in the city. The bulk of the articles relate to bike safety, construction of bike lanes, Critical Mass demonstrations, and cycling events.</p>
                 </scopecontent>
             </c>
         </dsc>
