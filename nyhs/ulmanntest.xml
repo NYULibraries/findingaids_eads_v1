@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">ulmann</eadid>
+        <eadid countrycode="US" mainagencycode="US-NHi">ulmanntest</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Doris Ulmann Photograph Collection (Test2)
-                    <num>PR 72</num>
+                    <num>PR 5516</num>
                 </titleproper>
             </titlestmt>
             <publicationstmt>
@@ -19,7 +19,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2016-06-27T16:02-0400</date>
+                <date>2016-06-24T10:38-0400</date>
             </creation>
             <langusage>Finding aid written in 
                 <language langcode="eng" encodinganalog="Language">English.</language></langusage>
@@ -27,8 +27,8 @@
     </eadheader>
     <archdesc level="collection">
         <did>
-            <unittitle>Doris Ulmann Photograph Collection</unittitle>
-            <unitid>PR 72</unitid>
+            <unittitle>Doris Ulmann Photograph Collection (Test2)</unittitle>
+            <unitid>PR 5516</unitid>
             <repository>
                 <corpname>© 2011 New-York Historical Society</corpname>
             </repository>
@@ -43,32 +43,6 @@
             <abstract id="ref5054" label="Abstract">The collection consists of ca. 3000 photographic prints, primarily platinum but some photogravure. Typical portrait subjects include prominent artists, authors, the Columbia University medical faculty, Johns Hopkins University medical faculty, and American editors. There are also examples of some of her best-known African-American and Appalachian photographs. Although many of the images are unidentified, they are the largest known body of prints made by Ulmann herself</abstract>
             <physloc id="ref5056" label="Location Note">Department of Prints, Photographs, and Architectural Collections</physloc>
         </did>
-        <prefercite id="ref5063">
-            <head>Preferred Citation Note</head>
-            <p>This collection should be cited as Doris Ulmann Photograph Collection, PR 072, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society.</p>
-        </prefercite>
-        <userestrict id="ref5062">
-            <head>Use Restrictions</head>
-            <p>Permission to reproduce any Print Room holdings through publication must be obtained from: 
-                <lb/>
-                <address>
-                    <addressline>Rights and Reproductions
-                        <lb/></addressline>
-                    <addressline>The New-York Historical Society
-                        <lb/>Two West 77th Street
-                        <lb/>New York, NY 10024</addressline>
-                    <addressline>
-                        <lb/>Phone: (212) 873-3400 ext. 282</addressline>
-                    <addressline>
-                        <lb/>Fax: (212) 579-8794</addressline>
-                </address></p>
-            <p>The copyright law of the United States governs the making of photocopies and protects unpublished materials as well as published materials. Unpublished materials created before January 1, 1978 cannot be quoted in publication without permission of the copyright holder.</p>
-        </userestrict>
-        <accessrestrict id="ref5061">
-            <head>Access Restrictions</head>
-            <p>Open to qualified researchers.</p>
-            <p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. See guidelines in Print Room for details.</p>
-        </accessrestrict>
         <accessrestrict id="ref2">
             <head>Access to Collection</head>
             <p>Collection is open for research; access requires at least 24 hours advance notice.</p>
@@ -118,12 +92,38 @@
         </bioghist>
         <arrangement id="ref5059">
             <head>Arrangement Note</head>
-            <p>Photographs were assigned consecutive numbers upon their arrival at the Society. They are filed by number and described in the container list.</p>
+            <p>Photographs were assigned consecutive numbers upon their arrival at the Society. They are filed by number, but an item-level database can be searched by subject term. Most photographs are of unidentifed people; a list of identified subjects appears in the container list below.</p>
         </arrangement>
         <custodhist id="ref5060">
             <head>Provenance</head>
             <p>Gift of the Doris Ulmann Foundation, 1954.</p>
         </custodhist>
+        <accessrestrict id="ref5061">
+            <head>Access Restrictions</head>
+            <p>Open to qualified researchers.</p>
+            <p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. See guidelines in Print Room for details.</p>
+        </accessrestrict>
+        <userestrict id="ref5062">
+            <head>Use Restrictions</head>
+            <p>Permission to reproduce any Print Room holdings through publication must be obtained from: 
+                <lb/>
+                <address>
+                    <addressline>Rights and Reproductions
+                        <lb/></addressline>
+                    <addressline>The New-York Historical Society
+                        <lb/>Two West 77th Street
+                        <lb/>New York, NY 10024</addressline>
+                    <addressline>
+                        <lb/>Phone: (212) 873-3400 ext. 282</addressline>
+                    <addressline>
+                        <lb/>Fax: (212) 579-8794</addressline>
+                </address></p>
+            <p>The copyright law of the United States governs the making of photocopies and protects unpublished materials as well as published materials. Unpublished materials created before January 1, 1978 cannot be quoted in publication without permission of the copyright holder.</p>
+        </userestrict>
+        <prefercite id="ref5063">
+            <head>Preferred Citation Note</head>
+            <p>This collection should be cited as Doris Ulmann Photograph Collection, PR 072, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society.</p>
+        </prefercite>
         <dsc>
             <c id="ref3" level="file">
                 <did>
