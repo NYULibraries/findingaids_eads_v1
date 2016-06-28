@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid>streeter2</eadid>
         <filedesc>
             <titlestmt>
@@ -16,7 +15,7 @@
                 <p>This version was derived from FINDING.wpd</p>
             </editionstmt>
             <publicationstmt>
-                <publisher>© 2012 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -29,18 +28,24 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-02-16T15:53-0500</date>
+                <date>2016-06-28T13:20-0400</date>
             </creation>
             <langusage>Description is in 
                 <language>English</language>.</langusage>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>June 2016</date>
+                <item>Edited by Andrea Kutsenkow to reflect updated box numbers. 2003, Streeter finding aid converted from EAD 1.0 to 2002 by one2two.xsl.</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
             <unittitle>Edward Streeter Papers</unittitle>
             <unitid>MSS 039</unitid>
             <repository>
-                <corpname>© 2012 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -120,6 +125,10 @@
             <head>Separated Material</head>
             <p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>
         </separatedmaterial>
+        <processinfo id="ref410">
+            <head>Processing Information Note</head>
+            <p>In June 2016, boxes from Series III were renumbered to numerically follow boxes in Series I and Series II. Researchers with citations to previous box numbers may contact fales.library@nyu.edu for assistance with identifying new box numbers.</p>
+        </processinfo>
         <controlaccess>
             <persname source="ingest">Breck, G. William, -- illustrator.</persname>
             <persname source="naf">Donovan, William J.,  (William Joseph), 1883-1959</persname>
@@ -153,7 +162,7 @@
                     <did>
                         <unittitle>Subseries A: Diaries, Juvenilia, Short Pieces.</unittitle>
                     </did>
-                    <c id="ref13" level="otherlevel">
+                    <c id="ref13" level="item">
                         <did>
                             <unittitle>Autobiographical Sketch</unittitle>
                             <container id="cid100544" type="Box" label="Mixed materials">1</container>
@@ -161,7 +170,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref14" level="otherlevel">
+                    <c id="ref14" level="item">
                         <did>
                             <unittitle>Diaries 1-3 (undated)</unittitle>
                             <container id="cid100543" type="Box" label="Mixed materials">1</container>
@@ -169,7 +178,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref15" level="otherlevel">
+                    <c id="ref15" level="item">
                         <did>
                             <unittitle>Diaries 4-7 (undated)</unittitle>
                             <container id="cid100542" type="Box" label="Mixed materials">1</container>
@@ -177,7 +186,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref16" level="otherlevel">
+                    <c id="ref16" level="item">
                         <did>
                             <unittitle>Diaries 8 (Sept-Oct 1917 and undated)</unittitle>
                             <container id="cid100541" type="Box" label="Mixed materials">1</container>
@@ -185,7 +194,7 @@
                             <unitdate>1917</unitdate>
                         </did>
                     </c>
-                    <c id="ref17" level="otherlevel">
+                    <c id="ref17" level="item">
                         <did>
                             <unittitle>Diary (typescript)</unittitle>
                             <container id="cid100540" type="Box" label="Mixed materials">1</container>
@@ -193,7 +202,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref18" level="otherlevel">
+                    <c id="ref18" level="item">
                         <did>
                             <unittitle>Juvenilia:"Nicholas School"c. 1905</unittitle>
                             <container id="cid100539" type="Box" label="Mixed materials">2</container>
@@ -201,7 +210,7 @@
                             <unitdate>1905</unitdate>
                         </did>
                     </c>
-                    <c id="ref19" level="otherlevel">
+                    <c id="ref19" level="item">
                         <did>
                             <unittitle>Juvenilia:"Harvard English Class"c. 1914</unittitle>
                             <container id="cid100538" type="Box" label="Mixed materials">2</container>
@@ -209,7 +218,7 @@
                             <unitdate>1914</unitdate>
                         </did>
                     </c>
-                    <c id="ref20" level="otherlevel">
+                    <c id="ref20" level="item">
                         <did>
                             <unittitle>Aboard the 8:10 [Collier's 1920 Aug 7]</unittitle>
                             <container id="cid100537" type="Box" label="Mixed materials">2</container>
@@ -217,7 +226,7 @@
                             <unitdate>1920</unitdate>
                         </did>
                     </c>
-                    <c id="ref21" level="otherlevel">
+                    <c id="ref21" level="item">
                         <did>
                             <unittitle>Preface to Along the Road by Tom Barber</unittitle>
                             <container id="cid100536" type="Box" label="Mixed materials">2</container>
@@ -225,7 +234,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref22" level="otherlevel">
+                    <c id="ref22" level="item">
                         <did>
                             <unittitle>The Annual Report [1962]</unittitle>
                             <container id="cid100535" type="Box" label="Mixed materials">2</container>
@@ -233,7 +242,7 @@
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref23" level="otherlevel">
+                    <c id="ref23" level="item">
                         <did>
                             <unittitle>The Annual Report [American Management Assn. 1964]</unittitle>
                             <container id="cid100534" type="Box" label="Mixed materials">2</container>
@@ -241,7 +250,7 @@
                             <unitdate>1964</unitdate>
                         </did>
                     </c>
-                    <c id="ref24" level="otherlevel">
+                    <c id="ref24" level="item">
                         <did>
                             <unittitle>Babe ["by Randolph Hall"]</unittitle>
                             <container id="cid100533" type="Box" label="Mixed materials">2</container>
@@ -249,7 +258,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref25" level="otherlevel">
+                    <c id="ref25" level="item">
                         <did>
                             <unittitle>Back to Nature and Back [Sept 1920]</unittitle>
                             <container id="cid100532" type="Box" label="Mixed materials">2</container>
@@ -257,7 +266,7 @@
                             <unitdate>1920</unitdate>
                         </did>
                     </c>
-                    <c id="ref26" level="otherlevel">
+                    <c id="ref26" level="item">
                         <did>
                             <unittitle>Book Reviews.</unittitle>
                             <container id="cid100531" type="Box" label="Mixed materials">2</container>
@@ -265,7 +274,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref27" level="otherlevel">
+                    <c id="ref27" level="item">
                         <did>
                             <unittitle>Break the Glass and Pull Down the Hook. [Sept. ]</unittitle>
                             <container id="cid100530" type="Box" label="Mixed materials">2</container>
@@ -273,7 +282,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref28" level="otherlevel">
+                    <c id="ref28" level="item">
                         <did>
                             <unittitle>Christmas is for the Children [Good Housekeeping, 1961-1962]</unittitle>
                             <container id="cid100529" type="Box" label="Mixed materials">2</container>
@@ -281,7 +290,7 @@
                             <unitdate>1961-1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref29" level="otherlevel">
+                    <c id="ref29" level="item">
                         <did>
                             <unittitle>College Yard or Lumber Yard.</unittitle>
                             <container id="cid100528" type="Box" label="Mixed materials">2</container>
@@ -289,7 +298,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref30" level="otherlevel">
+                    <c id="ref30" level="item">
                         <did>
                             <unittitle>Daily Except Sunday [1938]</unittitle>
                             <container id="cid100527" type="Box" label="Mixed materials">2</container>
@@ -297,7 +306,7 @@
                             <unitdate>1938</unitdate>
                         </did>
                     </c>
-                    <c id="ref31" level="otherlevel">
+                    <c id="ref31" level="item">
                         <did>
                             <unittitle>Death in the Evening.</unittitle>
                             <container id="cid100526" type="Box" label="Mixed materials">2</container>
@@ -305,7 +314,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref32" level="otherlevel">
+                    <c id="ref32" level="item">
                         <did>
                             <unittitle>Don't Write Off Wisdom [Life Magazine, Sp. 1962]</unittitle>
                             <container id="cid100525" type="Box" label="Mixed materials">2</container>
@@ -313,7 +322,7 @@
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref33" level="otherlevel">
+                    <c id="ref33" level="item">
                         <did>
                             <unittitle>Every Man a Dictator.</unittitle>
                             <container id="cid100524" type="Box" label="Mixed materials">2</container>
@@ -321,7 +330,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref34" level="otherlevel">
+                    <c id="ref34" level="item">
                         <did>
                             <unittitle>Executive Without Portfolio. [Redbook 1939]</unittitle>
                             <container id="cid100523" type="Box" label="Mixed materials">2</container>
@@ -329,7 +338,7 @@
                             <unitdate>1939</unitdate>
                         </did>
                     </c>
-                    <c id="ref35" level="otherlevel">
+                    <c id="ref35" level="item">
                         <did>
                             <unittitle>The Fourth Bride [1965].</unittitle>
                             <container id="cid100522" type="Box" label="Mixed materials">2</container>
@@ -337,7 +346,7 @@
                             <unitdate>1965</unitdate>
                         </did>
                     </c>
-                    <c id="ref36" level="otherlevel">
+                    <c id="ref36" level="item">
                         <did>
                             <unittitle>Frail Conqueror.</unittitle>
                             <container id="cid100521" type="Box" label="Mixed materials">2</container>
@@ -345,7 +354,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref37" level="otherlevel">
+                    <c id="ref37" level="item">
                         <did>
                             <unittitle>Golf.</unittitle>
                             <container id="cid100520" type="Box" label="Mixed materials">2</container>
@@ -353,7 +362,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref38" level="otherlevel">
+                    <c id="ref38" level="item">
                         <did>
                             <unittitle>Good Night.</unittitle>
                             <container id="cid100519" type="Box" label="Mixed materials">2</container>
@@ -361,7 +370,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref39" level="otherlevel">
+                    <c id="ref39" level="item">
                         <did>
                             <unittitle>A Guy from Elba.</unittitle>
                             <container id="cid100518" type="Box" label="Mixed materials">2</container>
@@ -369,7 +378,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref40" level="otherlevel">
+                    <c id="ref40" level="item">
                         <did>
                             <unittitle>The Great Outdoorsman [Suburbia Today, June 1962].</unittitle>
                             <container id="cid100517" type="Box" label="Mixed materials">2</container>
@@ -377,7 +386,7 @@
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref41" level="otherlevel">
+                    <c id="ref41" level="item">
                         <did>
                             <unittitle>Harvard. Class of 1914. 25th Reunion.</unittitle>
                             <container id="cid100516" type="Box" label="Mixed materials">2</container>
@@ -385,7 +394,7 @@
                             <unitdate>1914</unitdate>
                         </did>
                     </c>
-                    <c id="ref42" level="otherlevel">
+                    <c id="ref42" level="item">
                         <did>
                             <unittitle>The Harvard I Remember [The Harvard Alumni Bulletin, March 24, 1951].</unittitle>
                             <container id="cid100515" type="Box" label="Mixed materials">2</container>
@@ -393,7 +402,7 @@
                             <unitdate>1951</unitdate>
                         </did>
                     </c>
-                    <c id="ref43" level="otherlevel">
+                    <c id="ref43" level="item">
                         <did>
                             <unittitle>Havard Revisited [1960]</unittitle>
                             <container id="cid100514" type="Box" label="Mixed materials">2</container>
@@ -401,7 +410,7 @@
                             <unitdate>1960</unitdate>
                         </did>
                     </c>
-                    <c id="ref44" level="otherlevel">
+                    <c id="ref44" level="item">
                         <did>
                             <unittitle>Hole in One.</unittitle>
                             <container id="cid100513" type="Box" label="Mixed materials">2</container>
@@ -409,7 +418,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref45" level="otherlevel">
+                    <c id="ref45" level="item">
                         <did>
                             <unittitle>How to Boil an Egg [1958].</unittitle>
                             <container id="cid100512" type="Box" label="Mixed materials">2</container>
@@ -417,7 +426,7 @@
                             <unitdate>1958</unitdate>
                         </did>
                     </c>
-                    <c id="ref46" level="otherlevel">
+                    <c id="ref46" level="item">
                         <did>
                             <unittitle>Introd. to How to Guess Your Age by Corey Ford [1950]</unittitle>
                             <container id="cid100511" type="Box" label="Mixed materials">2</container>
@@ -425,7 +434,7 @@
                             <unitdate>1950</unitdate>
                         </did>
                     </c>
-                    <c id="ref47" level="otherlevel">
+                    <c id="ref47" level="item">
                         <did>
                             <unittitle>How to Hold a Wife.</unittitle>
                             <container id="cid100510" type="Box" label="Mixed materials">2</container>
@@ -433,7 +442,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref48" level="otherlevel">
+                    <c id="ref48" level="item">
                         <did>
                             <unittitle>Including One Jump.</unittitle>
                             <container id="cid100509" type="Box" label="Mixed materials">3</container>
@@ -441,7 +450,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref49" level="otherlevel">
+                    <c id="ref49" level="item">
                         <did>
                             <unittitle>It Must be the Bank's Fault [Redbook 1940].</unittitle>
                             <container id="cid100508" type="Box" label="Mixed materials">3</container>
@@ -449,7 +458,7 @@
                             <unitdate>1940</unitdate>
                         </did>
                     </c>
-                    <c id="ref50" level="otherlevel">
+                    <c id="ref50" level="item">
                         <did>
                             <unittitle>Keep Moving Please [1966].</unittitle>
                             <container id="cid100507" type="Box" label="Mixed materials">3</container>
@@ -457,7 +466,7 @@
                             <unitdate>1966</unitdate>
                         </did>
                     </c>
-                    <c id="ref51" level="otherlevel">
+                    <c id="ref51" level="item">
                         <did>
                             <unittitle>Knowledge is Power [Morrow's Almanac].</unittitle>
                             <container id="cid100506" type="Box" label="Mixed materials">3</container>
@@ -465,7 +474,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref52" level="otherlevel">
+                    <c id="ref52" level="item">
                         <did>
                             <unittitle>The Laughing Horse of Gallup Street.</unittitle>
                             <container id="cid100505" type="Box" label="Mixed materials">3</container>
@@ -473,7 +482,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref53" level="otherlevel">
+                    <c id="ref53" level="item">
                         <did>
                             <unittitle>Listen, Doctor.</unittitle>
                             <container id="cid100504" type="Box" label="Mixed materials">3</container>
@@ -481,7 +490,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref54" level="otherlevel">
+                    <c id="ref54" level="item">
                         <did>
                             <unittitle>The Log of the Namoa.</unittitle>
                             <container id="cid100503" type="Box" label="Mixed materials">3</container>
@@ -489,7 +498,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref55" level="otherlevel">
+                    <c id="ref55" level="item">
                         <did>
                             <unittitle>Mary, Mary, Quite Contrary [Metropolitan 1922].</unittitle>
                             <container id="cid100502" type="Box" label="Mixed materials">3</container>
@@ -497,7 +506,7 @@
                             <unitdate>1922</unitdate>
                         </did>
                     </c>
-                    <c id="ref56" level="otherlevel">
+                    <c id="ref56" level="item">
                         <did>
                             <unittitle>Memorandum on Sheldon Pennoyer [1958].</unittitle>
                             <container id="cid100501" type="Box" label="Mixed materials">3</container>
@@ -505,7 +514,7 @@
                             <unitdate>1958</unitdate>
                         </did>
                     </c>
-                    <c id="ref57" level="otherlevel">
+                    <c id="ref57" level="item">
                         <did>
                             <unittitle>Memorial: Francis Berger Trudeau [1957].</unittitle>
                             <container id="cid100500" type="Box" label="Mixed materials">3</container>
@@ -513,7 +522,7 @@
                             <unitdate>1957</unitdate>
                         </did>
                     </c>
-                    <c id="ref58" level="otherlevel">
+                    <c id="ref58" level="item">
                         <did>
                             <unittitle>The Men in Upper Ten [Nov. 1913].</unittitle>
                             <container id="cid100499" type="Box" label="Mixed materials">3</container>
@@ -521,7 +530,7 @@
                             <unitdate>1913</unitdate>
                         </did>
                     </c>
-                    <c id="ref59" level="otherlevel">
+                    <c id="ref59" level="item">
                         <did>
                             <unittitle>Meshine [film script]</unittitle>
                             <container id="cid100498" type="Box" label="Mixed materials">3</container>
@@ -529,7 +538,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref60" level="otherlevel">
+                    <c id="ref60" level="item">
                         <did>
                             <unittitle>Monkey Business.</unittitle>
                             <container id="cid100497" type="Box" label="Mixed materials">3</container>
@@ -537,7 +546,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref61" level="otherlevel">
+                    <c id="ref61" level="item">
                         <did>
                             <unittitle>Mr. Britchett Stories.</unittitle>
                             <container id="cid100496" type="Box" label="Mixed materials">3</container>
@@ -545,7 +554,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref62" level="otherlevel">
+                    <c id="ref62" level="item">
                         <did>
                             <unittitle>Mr. Hobbs Comes Alive [June 1962]</unittitle>
                             <container id="cid100495" type="Box" label="Mixed materials">3</container>
@@ -553,7 +562,7 @@
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref63" level="otherlevel">
+                    <c id="ref63" level="item">
                         <did>
                             <unittitle>The New Dog . . .</unittitle>
                             <container id="cid100494" type="Box" label="Mixed materials">3</container>
@@ -561,7 +570,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref64" level="otherlevel">
+                    <c id="ref64" level="item">
                         <did>
                             <unittitle>The Nitwit.</unittitle>
                             <container id="cid100493" type="Box" label="Mixed materials">3</container>
@@ -569,7 +578,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref65" level="otherlevel">
+                    <c id="ref65" level="item">
                         <did>
                             <unittitle>No Union Man Wanted.</unittitle>
                             <container id="cid100492" type="Box" label="Mixed materials">3</container>
@@ -577,7 +586,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref66" level="otherlevel">
+                    <c id="ref66" level="item">
                         <did>
                             <unittitle>A Nobleman from Nowhere.</unittitle>
                             <container id="cid100491" type="Box" label="Mixed materials">3</container>
@@ -585,7 +594,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref67" level="otherlevel">
+                    <c id="ref67" level="item">
                         <did>
                             <unittitle>Nobody Pays Any Attention.</unittitle>
                             <container id="cid100490" type="Box" label="Mixed materials">3</container>
@@ -593,7 +602,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref68" level="otherlevel">
+                    <c id="ref68" level="item">
                         <did>
                             <unittitle>Over a Dead Man's Chest.</unittitle>
                             <container id="cid100489" type="Box" label="Mixed materials">3</container>
@@ -601,7 +610,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref69" level="otherlevel">
+                    <c id="ref69" level="item">
                         <did>
                             <unittitle>Parachute School.</unittitle>
                             <container id="cid100488" type="Box" label="Mixed materials">3</container>
@@ -609,7 +618,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref70" level="otherlevel">
+                    <c id="ref70" level="item">
                         <did>
                             <unittitle>Pickwick Series.</unittitle>
                             <container id="cid100487" type="Box" label="Mixed materials">3</container>
@@ -617,7 +626,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref71" level="otherlevel">
+                    <c id="ref71" level="item">
                         <did>
                             <unittitle>Pomfret School: Sept. 1907-June 1910 [1955].</unittitle>
                             <container id="cid100486" type="Box" label="Mixed materials">3</container>
@@ -625,7 +634,7 @@
                             <unitdate>1907-1955</unitdate>
                         </did>
                     </c>
-                    <c id="ref72" level="otherlevel">
+                    <c id="ref72" level="item">
                         <did>
                             <unittitle>The Population of Upper Ten.</unittitle>
                             <container id="cid100485" type="Box" label="Mixed materials">3</container>
@@ -633,7 +642,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref73" level="otherlevel">
+                    <c id="ref73" level="item">
                         <did>
                             <unittitle>Private Schools.</unittitle>
                             <container id="cid100484" type="Box" label="Mixed materials">3</container>
@@ -641,7 +650,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref74" level="otherlevel">
+                    <c id="ref74" level="item">
                         <did>
                             <unittitle>A Quiet Night [play].</unittitle>
                             <container id="cid100483" type="Box" label="Mixed materials">3</container>
@@ -649,7 +658,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref75" level="otherlevel">
+                    <c id="ref75" level="item">
                         <did>
                             <unittitle>Read to Me.</unittitle>
                             <container id="cid100482" type="Box" label="Mixed materials">3</container>
@@ -657,7 +666,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref76" level="otherlevel">
+                    <c id="ref76" level="item">
                         <did>
                             <unittitle>Reading Guilt: Uneasy is the Hand That Holds the Book [1967].</unittitle>
                             <container id="cid100481" type="Box" label="Mixed materials">3</container>
@@ -665,7 +674,7 @@
                             <unitdate>1967</unitdate>
                         </did>
                     </c>
-                    <c id="ref77" level="otherlevel">
+                    <c id="ref77" level="item">
                         <did>
                             <unittitle>The Return of John Harvard [a play].</unittitle>
                             <container id="cid100480" type="Box" label="Mixed materials">3</container>
@@ -673,7 +682,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref78" level="otherlevel">
+                    <c id="ref78" level="item">
                         <did>
                             <unittitle>Ring Out Wild Bells [Redbook, 14 Feb 1940].</unittitle>
                             <container id="cid100479" type="Box" label="Mixed materials">3</container>
@@ -681,7 +690,7 @@
                             <unitdate>1940</unitdate>
                         </did>
                     </c>
-                    <c id="ref79" level="otherlevel">
+                    <c id="ref79" level="item">
                         <did>
                             <unittitle>The Rules of Child Welfare.</unittitle>
                             <container id="cid100478" type="Box" label="Mixed materials">3</container>
@@ -689,7 +698,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref80" level="otherlevel">
+                    <c id="ref80" level="item">
                         <did>
                             <unittitle>Sam to Bibo [Redbook, 1934]</unittitle>
                             <container id="cid100477" type="Box" label="Mixed materials">4</container>
@@ -697,7 +706,7 @@
                             <unitdate>1934</unitdate>
                         </did>
                     </c>
-                    <c id="ref81" level="otherlevel">
+                    <c id="ref81" level="item">
                         <did>
                             <unittitle>Scandinavia Air Service.</unittitle>
                             <container id="cid100476" type="Box" label="Mixed materials">4</container>
@@ -705,7 +714,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref82" level="otherlevel">
+                    <c id="ref82" level="item">
                         <did>
                             <unittitle>Scandinavia on Wheels.</unittitle>
                             <container id="cid100475" type="Box" label="Mixed materials">4</container>
@@ -713,7 +722,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref83" level="otherlevel">
+                    <c id="ref83" level="item">
                         <did>
                             <unittitle>See America Fast.</unittitle>
                             <container id="cid100474" type="Box" label="Mixed materials">4</container>
@@ -721,7 +730,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref84" level="otherlevel">
+                    <c id="ref84" level="item">
                         <did>
                             <unittitle>Speak French Like a Native . . .</unittitle>
                             <container id="cid100473" type="Box" label="Mixed materials">4</container>
@@ -729,7 +738,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref85" level="otherlevel">
+                    <c id="ref85" level="item">
                         <did>
                             <unittitle>Squash and How to Play It.</unittitle>
                             <container id="cid100472" type="Box" label="Mixed materials">4</container>
@@ -737,7 +746,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref86" level="otherlevel">
+                    <c id="ref86" level="item">
                         <did>
                             <unittitle>The Story of City Center.</unittitle>
                             <container id="cid100471" type="Box" label="Mixed materials">4</container>
@@ -745,7 +754,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref87" level="otherlevel">
+                    <c id="ref87" level="item">
                         <did>
                             <unittitle>The Strange Case of Edwin Weatherspoon [1964].</unittitle>
                             <container id="cid100470" type="Box" label="Mixed materials">4</container>
@@ -753,7 +762,7 @@
                             <unitdate>1964</unitdate>
                         </did>
                     </c>
-                    <c id="ref88" level="otherlevel">
+                    <c id="ref88" level="item">
                         <did>
                             <unittitle>Summer Leasing.</unittitle>
                             <container id="cid100469" type="Box" label="Mixed materials">4</container>
@@ -761,7 +770,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref89" level="otherlevel">
+                    <c id="ref89" level="item">
                         <did>
                             <unittitle>Third Avenue--Where Did it Go?</unittitle>
                             <container id="cid100468" type="Box" label="Mixed materials">4</container>
@@ -769,7 +778,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref90" level="otherlevel">
+                    <c id="ref90" level="item">
                         <did>
                             <unittitle>Thorny Laurels.</unittitle>
                             <container id="cid100467" type="Box" label="Mixed materials">4</container>
@@ -777,7 +786,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref91" level="otherlevel">
+                    <c id="ref91" level="item">
                         <did>
                             <unittitle>A Toast for Lampy and His Friends [1946].</unittitle>
                             <container id="cid100466" type="Box" label="Mixed materials">4</container>
@@ -785,7 +794,7 @@
                             <unitdate>1946</unitdate>
                         </did>
                     </c>
-                    <c id="ref92" level="otherlevel">
+                    <c id="ref92" level="item">
                         <did>
                             <unittitle>Travel.</unittitle>
                             <container id="cid100465" type="Box" label="Mixed materials">4</container>
@@ -793,7 +802,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref93" level="otherlevel">
+                    <c id="ref93" level="item">
                         <did>
                             <unittitle>'Twas the Night Before Christmas [1962].</unittitle>
                             <container id="cid100464" type="Box" label="Mixed materials">4</container>
@@ -801,7 +810,7 @@
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref94" level="otherlevel">
+                    <c id="ref94" level="item">
                         <did>
                             <unittitle>The University Library [1961].</unittitle>
                             <container id="cid100463" type="Box" label="Mixed materials">4</container>
@@ -809,7 +818,7 @@
                             <unitdate>1961</unitdate>
                         </did>
                     </c>
-                    <c id="ref95" level="otherlevel">
+                    <c id="ref95" level="item">
                         <did>
                             <unittitle>Wake Up and Sleep [Redbook, 1939].</unittitle>
                             <container id="cid100462" type="Box" label="Mixed materials">4</container>
@@ -817,7 +826,7 @@
                             <unitdate>1939</unitdate>
                         </did>
                     </c>
-                    <c id="ref96" level="otherlevel">
+                    <c id="ref96" level="item">
                         <did>
                             <unittitle>What Did They Give Walt Whitman for Christmas? [Suburbia Today, Dec. 1964].</unittitle>
                             <container id="cid100461" type="Box" label="Mixed materials">4</container>
@@ -825,7 +834,7 @@
                             <unitdate>1964</unitdate>
                         </did>
                     </c>
-                    <c id="ref97" level="otherlevel">
+                    <c id="ref97" level="item">
                         <did>
                             <unittitle>What Harvard Means to an Old Grad [1957].</unittitle>
                             <container id="cid100460" type="Box" label="Mixed materials">4</container>
@@ -833,7 +842,7 @@
                             <unitdate>1957</unitdate>
                         </did>
                     </c>
-                    <c id="ref98" level="otherlevel">
+                    <c id="ref98" level="item">
                         <did>
                             <unittitle>What is Money?</unittitle>
                             <container id="cid100459" type="Box" label="Mixed materials">4</container>
@@ -841,7 +850,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref99" level="otherlevel">
+                    <c id="ref99" level="item">
                         <did>
                             <unittitle>When Grandfather Reads a Story [1959].</unittitle>
                             <container id="cid100458" type="Box" label="Mixed materials">4</container>
@@ -849,7 +858,7 @@
                             <unitdate>1959</unitdate>
                         </did>
                     </c>
-                    <c id="ref100" level="otherlevel">
+                    <c id="ref100" level="item">
                         <did>
                             <unittitle>Where Are They Now.</unittitle>
                             <container id="cid100457" type="Box" label="Mixed materials">4</container>
@@ -857,7 +866,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref101" level="otherlevel">
+                    <c id="ref101" level="item">
                         <did>
                             <unittitle>Why Grandpa Can't Read [1962].</unittitle>
                             <container id="cid100456" type="Box" label="Mixed materials">4</container>
@@ -865,7 +874,7 @@
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref102" level="otherlevel">
+                    <c id="ref102" level="item">
                         <did>
                             <unittitle>Why I Have So Little Time to Read.</unittitle>
                             <container id="cid100455" type="Box" label="Mixed materials">4</container>
@@ -873,7 +882,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref103" level="otherlevel">
+                    <c id="ref103" level="item">
                         <did>
                             <unittitle>Preface to the Collected Drawings of Gluyas Williams.</unittitle>
                             <container id="cid100454" type="Box" label="Mixed materials">4</container>
@@ -881,7 +890,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref104" level="otherlevel">
+                    <c id="ref104" level="item">
                         <did>
                             <unittitle>Wish I Might [1963].</unittitle>
                             <container id="cid100453" type="Box" label="Mixed materials">4</container>
@@ -889,7 +898,7 @@
                             <unitdate>1963</unitdate>
                         </did>
                     </c>
-                    <c id="ref105" level="otherlevel">
+                    <c id="ref105" level="item">
                         <did>
                             <unittitle>Without Hands.</unittitle>
                             <container id="cid100452" type="Box" label="Mixed materials">4</container>
@@ -897,7 +906,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref106" level="otherlevel">
+                    <c id="ref106" level="item">
                         <did>
                             <unittitle>Talk on "Writing" [1959].</unittitle>
                             <container id="cid100451" type="Box" label="Mixed materials">4</container>
@@ -905,7 +914,7 @@
                             <unitdate>1959</unitdate>
                         </did>
                     </c>
-                    <c id="ref107" level="otherlevel">
+                    <c id="ref107" level="item">
                         <did>
                             <unittitle>You Can't Run Away from Christmas.</unittitle>
                             <container id="cid100450" type="Box" label="Mixed materials">4</container>
@@ -913,7 +922,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref108" level="otherlevel">
+                    <c id="ref108" level="item">
                         <did>
                             <unittitle>Unpublished Manuscripts A-R.</unittitle>
                             <container id="cid100449" type="Box" label="Mixed materials">4</container>
@@ -921,7 +930,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref109" level="otherlevel">
+                    <c id="ref109" level="item">
                         <did>
                             <unittitle>Unpublished Manuscripts S-Z, Untitled.</unittitle>
                             <container id="cid100448" type="Box" label="Mixed materials">4</container>
@@ -938,7 +947,7 @@
                         <head>Scope and Contents note</head>
                         <p>NOTE: Box 8A. Contains speeches</p>
                     </scopecontent>
-                    <c id="ref111" level="otherlevel">
+                    <c id="ref111" level="item">
                         <did>
                             <unittitle>Along the Ridge. [draft]</unittitle>
                             <container id="cid100447" type="Box" label="Mixed materials">5</container>
@@ -946,7 +955,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref112" level="otherlevel">
+                    <c id="ref112" level="item">
                         <did>
                             <unittitle>Along the Ridge. [2nd draft]</unittitle>
                             <container id="cid100446" type="Box" label="Mixed materials">5</container>
@@ -954,7 +963,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref113" level="otherlevel">
+                    <c id="ref113" level="item">
                         <did>
                             <unittitle>Along the Ridge.</unittitle>
                             <container id="cid100445" type="Box" label="Mixed materials">5</container>
@@ -962,7 +971,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref114" level="otherlevel">
+                    <c id="ref114" level="item">
                         <did>
                             <unittitle>Along the Ridge.</unittitle>
                             <container id="cid100444" type="Box" label="Mixed materials">5</container>
@@ -970,7 +979,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref115" level="otherlevel">
+                    <c id="ref115" level="item">
                         <did>
                             <unittitle>As You Were, Bill [see also Dere Mabel].</unittitle>
                             <container id="cid100443" type="Box" label="Mixed materials">5</container>
@@ -978,7 +987,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref116" level="otherlevel">
+                    <c id="ref116" level="item">
                         <did>
                             <unittitle>Bed Manners.</unittitle>
                             <container id="cid100442" type="Box" label="Mixed materials">5</container>
@@ -986,7 +995,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref117" level="otherlevel">
+                    <c id="ref117" level="item">
                         <did>
                             <unittitle>Chairman of the Bored [pp. 1-132].</unittitle>
                             <container id="cid100441" type="Box" label="Mixed materials">5</container>
@@ -994,7 +1003,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref118" level="otherlevel">
+                    <c id="ref118" level="item">
                         <did>
                             <unittitle>Chairman of the Bored [pp. 135-255].</unittitle>
                             <container id="cid100440" type="Box" label="Mixed materials">5</container>
@@ -1002,7 +1011,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref119" level="otherlevel">
+                    <c id="ref119" level="item">
                         <did>
                             <unittitle>Chairman of the Bored [pp. 256-332].</unittitle>
                             <container id="cid100439" type="Box" label="Mixed materials">5</container>
@@ -1010,7 +1019,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref120" level="otherlevel">
+                    <c id="ref120" level="item">
                         <did>
                             <unittitle>Chairman of the Bored [final draft].</unittitle>
                             <container id="cid100438" type="Box" label="Mixed materials">6</container>
@@ -1018,7 +1027,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref121" level="otherlevel">
+                    <c id="ref121" level="item">
                         <did>
                             <unittitle>Chairman of the Bored [excerpts].</unittitle>
                             <container id="cid100437" type="Box" label="Mixed materials">6</container>
@@ -1026,7 +1035,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref122" level="otherlevel">
+                    <c id="ref122" level="item">
                         <did>
                             <unittitle>Daily Except Sunday.</unittitle>
                             <container id="cid100436" type="Box" label="Mixed materials">6</container>
@@ -1034,7 +1043,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref123" level="otherlevel">
+                    <c id="ref123" level="item">
                         <did>
                             <unittitle>Dere Mabel.</unittitle>
                             <container id="cid100435" type="Box" label="Mixed materials">6</container>
@@ -1042,7 +1051,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref124" level="otherlevel">
+                    <c id="ref124" level="item">
                         <did>
                             <unittitle>Dere Mabel [later installments 1920s].</unittitle>
                             <container id="cid100434" type="Box" label="Mixed materials">6</container>
@@ -1050,7 +1059,7 @@
                             <unitdate>1920</unitdate>
                         </did>
                     </c>
-                    <c id="ref125" level="otherlevel">
+                    <c id="ref125" level="item">
                         <did>
                             <unittitle>Dere Mabel [synopsis of a play].</unittitle>
                             <container id="cid100433" type="Box" label="Mixed materials">6</container>
@@ -1058,7 +1067,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref126" level="otherlevel">
+                    <c id="ref126" level="item">
                         <did>
                             <unittitle>Dere Mabel [Redbook 1930s].</unittitle>
                             <container id="cid100432" type="Box" label="Mixed materials">6</container>
@@ -1066,7 +1075,7 @@
                             <unitdate>1930</unitdate>
                         </did>
                     </c>
-                    <c id="ref127" level="otherlevel">
+                    <c id="ref127" level="item">
                         <did>
                             <unittitle>Dere Mabel [misc. ]</unittitle>
                             <container id="cid100431" type="Box" label="Mixed materials">6</container>
@@ -1074,7 +1083,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref128" level="otherlevel">
+                    <c id="ref128" level="item">
                         <did>
                             <unittitle>18-22. Dere Mabel [musical version].</unittitle>
                             <container id="cid100430" type="Box" label="Mixed materials">6</container>
@@ -1082,7 +1091,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref129" level="otherlevel">
+                    <c id="ref129" level="item">
                         <did>
                             <unittitle>Father of the Bride.</unittitle>
                             <container id="cid100429" type="Box" label="Mixed materials">7</container>
@@ -1090,7 +1099,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref130" level="otherlevel">
+                    <c id="ref130" level="item">
                         <did>
                             <unittitle>Father of the Bride [Chap. 1-12].</unittitle>
                             <container id="cid100428" type="Box" label="Mixed materials">7</container>
@@ -1098,7 +1107,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref131" level="otherlevel">
+                    <c id="ref131" level="item">
                         <did>
                             <unittitle>Father of the Bride [Chap. 13-15].</unittitle>
                             <container id="cid100427" type="Box" label="Mixed materials">7</container>
@@ -1106,7 +1115,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref132" level="otherlevel">
+                    <c id="ref132" level="item">
                         <did>
                             <unittitle>Father of the Bride [editorial comments].</unittitle>
                             <container id="cid100426" type="Box" label="Mixed materials">7</container>
@@ -1114,7 +1123,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref133" level="otherlevel">
+                    <c id="ref133" level="item">
                         <did>
                             <unittitle>Father of the Bride [film].</unittitle>
                             <container id="cid100425" type="Box" label="Mixed materials">7</container>
@@ -1122,7 +1131,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref134" level="otherlevel">
+                    <c id="ref134" level="item">
                         <did>
                             <unittitle>Father of the Bride [radio publicity].</unittitle>
                             <container id="cid100424" type="Box" label="Mixed materials">7</container>
@@ -1130,7 +1139,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref135" level="otherlevel">
+                    <c id="ref135" level="item">
                         <did>
                             <unittitle>Father of the Bride [audition script].</unittitle>
                             <container id="cid100423" type="Box" label="Mixed materials">7</container>
@@ -1138,7 +1147,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref136" level="otherlevel">
+                    <c id="ref136" level="item">
                         <did>
                             <unittitle>Father of the Bride [dramatic versions].</unittitle>
                             <container id="cid100422" type="Box" label="Mixed materials">7</container>
@@ -1146,7 +1155,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref137" level="otherlevel">
+                    <c id="ref137" level="item">
                         <did>
                             <unittitle>Letters from a Home Made Father to his Son [Nos. 1-40].</unittitle>
                             <container id="cid100421" type="Box" label="Mixed materials">7</container>
@@ -1154,7 +1163,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref138" level="otherlevel">
+                    <c id="ref138" level="item">
                         <did>
                             <unittitle>Letters from a Home Made Father [Nos. 41-71].</unittitle>
                             <container id="cid100420" type="Box" label="Mixed materials">7</container>
@@ -1162,7 +1171,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref139" level="otherlevel">
+                    <c id="ref139" level="item">
                         <did>
                             <unittitle>The Log of the Trade Wind [1926].</unittitle>
                             <container id="cid100419" type="Box" label="Mixed materials">7</container>
@@ -1170,7 +1179,7 @@
                             <unitdate>1926</unitdate>
                         </did>
                     </c>
-                    <c id="ref140" level="otherlevel">
+                    <c id="ref140" level="item">
                         <did>
                             <unittitle>Merry Christmas, Mr. Baxter [brief descriptions].</unittitle>
                             <container id="cid100418" type="Box" label="Mixed materials">7</container>
@@ -1178,7 +1187,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref141" level="otherlevel">
+                    <c id="ref141" level="item">
                         <did>
                             <unittitle>Merry Christmas, Mr. Baxter [Merry Christmas Eve].</unittitle>
                             <container id="cid100417" type="Box" label="Mixed materials">7</container>
@@ -1186,7 +1195,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref142" level="otherlevel">
+                    <c id="ref142" level="item">
                         <did>
                             <unittitle>Merry Christmas, Mr. Baxter [T. V. version].</unittitle>
                             <container id="cid100416" type="Box" label="Mixed materials">8</container>
@@ -1194,7 +1203,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref143" level="otherlevel">
+                    <c id="ref143" level="item">
                         <did>
                             <unittitle>Mr. Hobbs Takes a Vacation [Chap. 1-16].</unittitle>
                             <container id="cid100415" type="Box" label="Mixed materials">8</container>
@@ -1202,7 +1211,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref144" level="otherlevel">
+                    <c id="ref144" level="item">
                         <did>
                             <unittitle>Mr. Hobbs Takes a Vacation [Chap. 17-23].</unittitle>
                             <container id="cid100414" type="Box" label="Mixed materials">8</container>
@@ -1210,7 +1219,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref145" level="otherlevel">
+                    <c id="ref145" level="item">
                         <did>
                             <unittitle>Skoal Scandinavia [pp. 1-147].</unittitle>
                             <container id="cid100413" type="Box" label="Mixed materials">8</container>
@@ -1218,7 +1227,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref146" level="otherlevel">
+                    <c id="ref146" level="item">
                         <did>
                             <unittitle>Skoal Scandinavia [pp. 148-301].</unittitle>
                             <container id="cid100412" type="Box" label="Mixed materials">8</container>
@@ -1226,7 +1235,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref147" level="otherlevel">
+                    <c id="ref147" level="item">
                         <did>
                             <unittitle>Skoal Scandinavia [final draft].</unittitle>
                             <container id="cid100411" type="Box" label="Mixed materials">8</container>
@@ -1234,7 +1243,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref148" level="otherlevel">
+                    <c id="ref148" level="item">
                         <did>
                             <unittitle>Speeches.</unittitle>
                             <container id="cid100410" type="Box" label="Mixed materials">8</container>
@@ -1242,7 +1251,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref149" level="otherlevel">
+                    <c id="ref149" level="item">
                         <did>
                             <unittitle>Advice to Young Authors [NYU, Feb. 13, 1958].</unittitle>
                             <container id="cid100409" type="Box" label="Mixed materials">8A. </container>
@@ -1250,7 +1259,7 @@
                             <unitdate>1958</unitdate>
                         </did>
                     </c>
-                    <c id="ref150" level="otherlevel">
+                    <c id="ref150" level="item">
                         <did>
                             <unittitle>Book and Author Lunch [Nov. 20, 1956].</unittitle>
                             <container id="cid100408" type="Box" label="Mixed materials">8A. </container>
@@ -1258,7 +1267,7 @@
                             <unitdate>1956</unitdate>
                         </did>
                     </c>
-                    <c id="ref151" level="otherlevel">
+                    <c id="ref151" level="item">
                         <did>
                             <unittitle>The Centuryn Club of New York [Oct. 5, 1961].</unittitle>
                             <container id="cid100407" type="Box" label="Mixed materials">8A. </container>
@@ -1266,7 +1275,7 @@
                             <unitdate>1961</unitdate>
                         </did>
                     </c>
-                    <c id="ref152" level="otherlevel">
+                    <c id="ref152" level="item">
                         <did>
                             <unittitle>Groton School [1959].</unittitle>
                             <container id="cid100406" type="Box" label="Mixed materials">8A. </container>
@@ -1274,7 +1283,7 @@
                             <unitdate>1959</unitdate>
                         </did>
                     </c>
-                    <c id="ref153" level="otherlevel">
+                    <c id="ref153" level="item">
                         <did>
                             <unittitle>Harvard - Board of Governors [Nov. 19, 1953].</unittitle>
                             <container id="cid100405" type="Box" label="Mixed materials">8A. </container>
@@ -1282,7 +1291,7 @@
                             <unitdate>1953</unitdate>
                         </did>
                     </c>
-                    <c id="ref154" level="otherlevel">
+                    <c id="ref154" level="item">
                         <did>
                             <unittitle>Harvard - 40th Reunion [1954].</unittitle>
                             <container id="cid100404" type="Box" label="Mixed materials">8A. </container>
@@ -1290,7 +1299,7 @@
                             <unitdate>1954</unitdate>
                         </did>
                     </c>
-                    <c id="ref155" level="otherlevel">
+                    <c id="ref155" level="item">
                         <did>
                             <unittitle>Harvard Club - 88th Annual Dinner [Jan. 15, 1954].</unittitle>
                             <container id="cid100403" type="Box" label="Mixed materials">8A. </container>
@@ -1298,7 +1307,7 @@
                             <unitdate>1954</unitdate>
                         </did>
                     </c>
-                    <c id="ref156" level="otherlevel">
+                    <c id="ref156" level="item">
                         <did>
                             <unittitle>Harvard - 50th Reunion [1964].</unittitle>
                             <container id="cid100402" type="Box" label="Mixed materials">8A. </container>
@@ -1306,7 +1315,7 @@
                             <unitdate>1964</unitdate>
                         </did>
                     </c>
-                    <c id="ref157" level="otherlevel">
+                    <c id="ref157" level="item">
                         <did>
                             <unittitle>Miller &amp; Rhoads Book/Author Dinner [Apr. 23, 1954].</unittitle>
                             <container id="cid100401" type="Box" label="Mixed materials">8A. </container>
@@ -1314,7 +1323,7 @@
                             <unitdate>1954</unitdate>
                         </did>
                     </c>
-                    <c id="ref158" level="otherlevel">
+                    <c id="ref158" level="item">
                         <did>
                             <unittitle>New York Public Library [Oct. 24, 1956].</unittitle>
                             <container id="cid100400" type="Box" label="Mixed materials">8A. </container>
@@ -1322,7 +1331,7 @@
                             <unitdate>1956</unitdate>
                         </did>
                     </c>
-                    <c id="ref159" level="otherlevel">
+                    <c id="ref159" level="item">
                         <did>
                             <unittitle>Norwegian Chamber of Commerce [May 5, 1953].</unittitle>
                             <container id="cid100399" type="Box" label="Mixed materials">8A. </container>
@@ -1330,7 +1339,7 @@
                             <unitdate>1953</unitdate>
                         </did>
                     </c>
-                    <c id="ref160" level="otherlevel">
+                    <c id="ref160" level="item">
                         <did>
                             <unittitle>Pomfret School Class Day [1955].</unittitle>
                             <container id="cid100398" type="Box" label="Mixed materials">8A. </container>
@@ -1338,7 +1347,7 @@
                             <unitdate>1955</unitdate>
                         </did>
                     </c>
-                    <c id="ref161" level="otherlevel">
+                    <c id="ref161" level="item">
                         <did>
                             <unittitle>Pomfret - Graduation Day [1955].</unittitle>
                             <container id="cid100397" type="Box" label="Mixed materials">8A. </container>
@@ -1346,7 +1355,7 @@
                             <unitdate>1955</unitdate>
                         </did>
                     </c>
-                    <c id="ref162" level="otherlevel">
+                    <c id="ref162" level="item">
                         <did>
                             <unittitle>Pomfret - Award Dinner [Dec. 8, 1964].</unittitle>
                             <container id="cid100396" type="Box" label="Mixed materials">8A. </container>
@@ -1359,7 +1368,7 @@
                     <did>
                         <unittitle>Subseries C: Verse, Notes, Pictorial and Printed Material.</unittitle>
                     </did>
-                    <c id="ref165" level="otherlevel">
+                    <c id="ref165" level="item">
                         <did>
                             <unittitle>Verse.</unittitle>
                             <container id="cid100395" type="Box" label="Mixed materials">9</container>
@@ -1367,7 +1376,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref166" level="otherlevel">
+                    <c id="ref166" level="item">
                         <did>
                             <unittitle>Notes.</unittitle>
                             <container id="cid100394" type="Box" label="Mixed materials">9</container>
@@ -1375,7 +1384,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref167" level="otherlevel">
+                    <c id="ref167" level="item">
                         <did>
                             <unittitle>Letter to the Editor/Along the Ridge [1966].</unittitle>
                             <container id="cid100393" type="Box" label="Mixed materials">9</container>
@@ -1383,7 +1392,7 @@
                             <unitdate>1966</unitdate>
                         </did>
                     </c>
-                    <c id="ref168" level="otherlevel">
+                    <c id="ref168" level="item">
                         <did>
                             <unittitle>Dere Mabel [Breck illustrations].</unittitle>
                             <container id="cid100392" type="Box" label="Mixed materials">9</container>
@@ -1391,7 +1400,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref169" level="otherlevel">
+                    <c id="ref169" level="item">
                         <did>
                             <unittitle>Dere Mabel: A Widow Can't be Too Careful [clippings].</unittitle>
                             <container id="cid100391" type="Box" label="Mixed materials">9</container>
@@ -1399,7 +1408,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref170" level="otherlevel">
+                    <c id="ref170" level="item">
                         <did>
                             <unittitle>Father of the Bride [photos].</unittitle>
                             <container id="cid100390" type="Box" label="Mixed materials">9</container>
@@ -1407,7 +1416,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref171" level="otherlevel">
+                    <c id="ref171" level="item">
                         <did>
                             <unittitle>Personal Photos.</unittitle>
                             <container id="cid100389" type="Box" label="Mixed materials">9</container>
@@ -1415,7 +1424,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref172" level="otherlevel">
+                    <c id="ref172" level="item">
                         <did>
                             <unittitle>Photos: Log of the Trade Wind.</unittitle>
                             <container id="cid100388" type="Box" label="Mixed materials">9</container>
@@ -1423,7 +1432,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref173" level="otherlevel">
+                    <c id="ref173" level="item">
                         <did>
                             <unittitle>Photos: World War I.</unittitle>
                             <container id="cid100387" type="Box" label="Mixed materials">9</container>
@@ -1431,7 +1440,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref174" level="otherlevel">
+                    <c id="ref174" level="item">
                         <did>
                             <unittitle>Misc. Pictorial.</unittitle>
                             <container id="cid100386" type="Box" label="Mixed materials">9</container>
@@ -1439,7 +1448,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref175" level="otherlevel">
+                    <c id="ref175" level="item">
                         <did>
                             <unittitle>Printed Material: Dere Mabel.</unittitle>
                             <container id="cid100385" type="Box" label="Mixed materials">9</container>
@@ -1447,7 +1456,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref176" level="otherlevel">
+                    <c id="ref176" level="item">
                         <did>
                             <unittitle>Play. Father of the Bride.</unittitle>
                             <container id="cid100384" type="Box" label="Mixed materials">9</container>
@@ -1455,7 +1464,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref177" level="otherlevel">
+                    <c id="ref177" level="item">
                         <did>
                             <unittitle>Printed Material. Father of the Bride [includes Gluyas Williams illustration fornsr the New Yorker].</unittitle>
                             <container id="cid100383" type="Box" label="Mixed materials">9</container>
@@ -1463,7 +1472,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref178" level="otherlevel">
+                    <c id="ref178" level="item">
                         <did>
                             <unittitle>Harvard.</unittitle>
                             <container id="cid100382" type="Box" label="Mixed materials">10</container>
@@ -1471,7 +1480,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref179" level="otherlevel">
+                    <c id="ref179" level="item">
                         <did>
                             <unittitle>Honors and Awards.</unittitle>
                             <container id="cid100381" type="Box" label="Mixed materials">10</container>
@@ -1479,7 +1488,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref180" level="otherlevel">
+                    <c id="ref180" level="item">
                         <did>
                             <unittitle>Lincoln Center.</unittitle>
                             <container id="cid100380" type="Box" label="Mixed materials">10</container>
@@ -1487,7 +1496,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref181" level="otherlevel">
+                    <c id="ref181" level="item">
                         <did>
                             <unittitle>Mexican Border, 1916-1917.</unittitle>
                             <container id="cid100379" type="Box" label="Mixed materials">10</container>
@@ -1495,7 +1504,7 @@
                             <unitdate>1916-1917</unitdate>
                         </did>
                     </c>
-                    <c id="ref182" level="otherlevel">
+                    <c id="ref182" level="item">
                         <did>
                             <unittitle>Pomfret School.</unittitle>
                             <container id="cid100378" type="Box" label="Mixed materials">10</container>
@@ -1503,7 +1512,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref183" level="otherlevel">
+                    <c id="ref183" level="item">
                         <did>
                             <unittitle>Simon and Schuster Agreement.</unittitle>
                             <container id="cid100377" type="Box" label="Mixed materials">10</container>
@@ -1511,7 +1520,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref184" level="otherlevel">
+                    <c id="ref184" level="item">
                         <did>
                             <unittitle>Social Groups.</unittitle>
                             <container id="cid100376" type="Box" label="Mixed materials">10</container>
@@ -1519,7 +1528,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref185" level="otherlevel">
+                    <c id="ref185" level="item">
                         <did>
                             <unittitle>Re: various novels.</unittitle>
                             <container id="cid100375" type="Box" label="Mixed materials">10</container>
@@ -1527,7 +1536,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref186" level="otherlevel">
+                    <c id="ref186" level="item">
                         <did>
                             <unittitle>World War I.</unittitle>
                             <container id="cid100374" type="Box" label="Mixed materials">10</container>
@@ -1535,7 +1544,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref187" level="otherlevel">
+                    <c id="ref187" level="item">
                         <did>
                             <unittitle>Miscellaneous.</unittitle>
                             <container id="cid100373" type="Box" label="Mixed materials">10</container>
@@ -1543,7 +1552,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref188" level="otherlevel">
+                    <c id="ref188" level="item">
                         <did>
                             <unittitle>Works by Others.</unittitle>
                             <container id="cid100372" type="Box" label="Mixed materials">10</container>
@@ -1551,7 +1560,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref189" level="otherlevel">
+                    <c id="ref189" level="item">
                         <did>
                             <unittitle>War Diaries of A. W. Chauncey &amp; A. B. Warfield.</unittitle>
                             <container id="cid100371" type="Box" label="Mixed materials">10</container>
@@ -1559,7 +1568,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref190" level="otherlevel">
+                    <c id="ref190" level="item">
                         <did>
                             <unittitle>The Battle of the Bonus. Pamphlets.</unittitle>
                             <container id="cid100370" type="Box" label="Mixed materials">11</container>
@@ -1567,7 +1576,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref191" level="otherlevel">
+                    <c id="ref191" level="item">
                         <did>
                             <unittitle>The Kind of Bank Joe and Mrs. Doakes Like [1956].</unittitle>
                             <container id="cid100369" type="Box" label="Mixed materials">11</container>
@@ -1575,7 +1584,7 @@
                             <unitdate>1956</unitdate>
                         </did>
                     </c>
-                    <c id="ref192" level="otherlevel">
+                    <c id="ref192" level="item">
                         <did>
                             <unittitle>Mr. Banks' Other Daughter.</unittitle>
                             <container id="cid100368" type="Box" label="Mixed materials">11</container>
@@ -1583,7 +1592,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref193" level="otherlevel">
+                    <c id="ref193" level="item">
                         <did>
                             <unittitle>Mr. Robbins Rides Again.</unittitle>
                             <container id="cid100367" type="Box" label="Mixed materials">11</container>
@@ -1591,7 +1600,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref194" level="otherlevel">
+                    <c id="ref194" level="item">
                         <did>
                             <unittitle>Notes on Retirement Book.</unittitle>
                             <container id="cid100366" type="Box" label="Mixed materials">11</container>
@@ -1599,7 +1608,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref195" level="otherlevel">
+                    <c id="ref195" level="item">
                         <did>
                             <unittitle>Ms. Retirement Book.</unittitle>
                             <container id="cid100365" type="Box" label="Mixed materials">11</container>
@@ -1607,7 +1616,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref196" level="otherlevel">
+                    <c id="ref196" level="item">
                         <did>
                             <unittitle>Ms. Untitled Book on "Money".</unittitle>
                             <container id="cid100364" type="Box" label="Mixed materials">11</container>
@@ -1615,7 +1624,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref197" level="otherlevel">
+                    <c id="ref197" level="item">
                         <did>
                             <unittitle>Untitled Manuscript.</unittitle>
                             <container id="cid100363" type="Box" label="Mixed materials">11</container>
@@ -1623,7 +1632,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref198" level="otherlevel">
+                    <c id="ref198" level="item">
                         <did>
                             <unittitle>Ms. Window on America - Bibliography.</unittitle>
                             <container id="cid100362" type="Box" label="Mixed materials">11</container>
@@ -1631,7 +1640,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref199" level="otherlevel">
+                    <c id="ref199" level="item">
                         <did>
                             <unittitle>Ms. Window on America: 1784-1969.</unittitle>
                             <container id="cid100361" type="Box" label="Mixed materials">11</container>
@@ -1649,7 +1658,7 @@
                     <head>Scope and Contents note</head>
                     <p>Items were not categorized by subseries when initially processed.</p>
                 </scopecontent>
-                <c id="ref201" level="otherlevel">
+                <c id="ref201" level="item">
                     <did>
                         <unittitle>Harvard: The Legend of Loravia [musical Score].</unittitle>
                         <container id="cid100360" type="Box" label="Mixed materials">12</container>
@@ -1657,7 +1666,7 @@
                         <unitdate>1914</unitdate>
                     </did>
                 </c>
-                <c id="ref202" level="otherlevel">
+                <c id="ref202" level="item">
                     <did>
                         <unittitle>Oakland Atletic Club [rules and diary].</unittitle>
                         <container id="cid100359" type="Box" label="Mixed materials">12</container>
@@ -1665,7 +1674,7 @@
                         <unitdate>1906</unitdate>
                     </did>
                 </c>
-                <c id="ref203" level="otherlevel">
+                <c id="ref203" level="item">
                     <did>
                         <unittitle>Schedule of Activities in France [1918-1919].</unittitle>
                         <container id="cid100358" type="Box" label="Mixed materials">12</container>
@@ -1673,7 +1682,7 @@
                         <unitdate>1919</unitdate>
                     </did>
                 </c>
-                <c id="ref204" level="otherlevel">
+                <c id="ref204" level="item">
                     <did>
                         <unittitle>Speak French Like a Native. Ms.</unittitle>
                         <container id="cid100357" type="Box" label="Mixed materials">12</container>
@@ -1681,7 +1690,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref205" level="otherlevel">
+                <c id="ref205" level="item">
                     <did>
                         <unittitle>Dere Mabel Notes.</unittitle>
                         <container id="cid100356" type="Box" label="Mixed materials">12</container>
@@ -1689,7 +1698,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref206" level="otherlevel">
+                <c id="ref206" level="item">
                     <did>
                         <unittitle>What Did They Give Walt Whitman for Christmas.</unittitle>
                         <container id="cid100355" type="Box" label="Mixed materials">12</container>
@@ -1697,7 +1706,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref207" level="otherlevel">
+                <c id="ref207" level="item">
                     <did>
                         <unittitle>Unidentified Manuscripts.</unittitle>
                         <container id="cid100354" type="Box" label="Mixed materials">12</container>
@@ -1705,15 +1714,15 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref208" level="otherlevel">
+                <c id="ref208" level="item">
                     <did>
-                        <unittitle>Dere Mabel. [Clipping, galley?]</unittitle>
+                        <unittitle>Dere Mabel. [Clipping]</unittitle>
                         <container id="cid100353" type="Box" label="Mixed materials">12</container>
                         <container parent="cid100353" type="Folder">10</container>
                         <unitdate>1919</unitdate>
                     </did>
                 </c>
-                <c id="ref209" level="otherlevel">
+                <c id="ref209" level="item">
                     <did>
                         <unittitle>Misc. Pamphlets.</unittitle>
                         <container id="cid100352" type="Box" label="Mixed materials">12</container>
@@ -1721,7 +1730,7 @@
                         <unitdate>1916-1961</unitdate>
                     </did>
                 </c>
-                <c id="ref210" level="otherlevel">
+                <c id="ref210" level="item">
                     <did>
                         <unittitle>The Unbroken Thread of Humor [Clipping, galley? from The New Yorker].</unittitle>
                         <container id="cid100351" type="Box" label="Mixed materials">12</container>
@@ -1729,7 +1738,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref211" level="otherlevel">
+                <c id="ref211" level="item">
                     <did>
                         <unittitle>Misc. Printed Material. [Clippings]</unittitle>
                         <container id="cid100350" type="Box" label="Mixed materials">12</container>
@@ -1737,7 +1746,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref212" level="otherlevel">
+                <c id="ref212" level="item">
                     <did>
                         <unittitle>Speech to Harvard Club</unittitle>
                         <container id="cid100349" type="Box" label="Mixed materials">12</container>
@@ -1745,7 +1754,7 @@
                         <unitdate>1951</unitdate>
                     </did>
                 </c>
-                <c id="ref213" level="otherlevel">
+                <c id="ref213" level="item">
                     <did>
                         <unittitle>Speeches/Recordings. [(1) Reel, (1) cassette, (7) flexidisks]</unittitle>
                         <container id="cid100348" type="Box" label="Mixed materials">12</container>
@@ -1753,7 +1762,7 @@
                         <unitdate>1950-1970</unitdate>
                     </did>
                 </c>
-                <c id="ref214" level="otherlevel">
+                <c id="ref214" level="item">
                     <did>
                         <unittitle>Streeter Genealogy.</unittitle>
                         <container id="cid100347" type="Box" label="Mixed materials">12</container>
@@ -1761,7 +1770,7 @@
                         <unitdate>1927</unitdate>
                     </did>
                 </c>
-                <c id="ref215" level="otherlevel">
+                <c id="ref215" level="item">
                     <did>
                         <unittitle>Unpub. Ms. Autobiography.</unittitle>
                         <container id="cid100346" type="Box" label="Mixed materials">13</container>
@@ -1769,7 +1778,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref216" level="otherlevel">
+                <c id="ref216" level="item">
                     <did>
                         <unittitle>Unpub. Ms. Autobiography.</unittitle>
                         <container id="cid100345" type="Box" label="Mixed materials">13</container>
@@ -1777,7 +1786,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref217" level="otherlevel">
+                <c id="ref217" level="item">
                     <did>
                         <unittitle>Chronological List of Articles and Speeches.</unittitle>
                         <container id="cid100344" type="Box" label="Mixed materials">13</container>
@@ -1785,7 +1794,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref218" level="otherlevel">
+                <c id="ref218" level="item">
                     <did>
                         <unittitle>Harvard Lampoon [notes].</unittitle>
                         <container id="cid100343" type="Box" label="Mixed materials">13</container>
@@ -1793,7 +1802,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref219" level="otherlevel">
+                <c id="ref219" level="item">
                     <did>
                         <unittitle>Unpub. Ms. House on the Dunes [1st draft].</unittitle>
                         <container id="cid100342" type="Box" label="Mixed materials">13</container>
@@ -1801,7 +1810,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref220" level="otherlevel">
+                <c id="ref220" level="item">
                     <did>
                         <unittitle>Ms. Keep Moving Please [McCall's 1965].</unittitle>
                         <container id="cid100341" type="Box" label="Mixed materials">13</container>
@@ -1809,7 +1818,7 @@
                         <unitdate>1965</unitdate>
                     </did>
                 </c>
-                <c id="ref221" level="otherlevel">
+                <c id="ref221" level="item">
                     <did>
                         <unittitle>Notes on Old Age Book.</unittitle>
                         <container id="cid100340" type="Box" label="Mixed materials">13</container>
@@ -1817,7 +1826,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref222" level="otherlevel">
+                <c id="ref222" level="item">
                     <did>
                         <unittitle>Ms. "O Rare Don Marquis" [Feb. 4, 1962].</unittitle>
                         <container id="cid100339" type="Box" label="Mixed materials">13</container>
@@ -1825,7 +1834,7 @@
                         <unitdate>1962</unitdate>
                     </did>
                 </c>
-                <c id="ref223" level="otherlevel">
+                <c id="ref223" level="item">
                     <did>
                         <unittitle>Ms. "The Off-Islanders" [July 11, 1956].</unittitle>
                         <container id="cid100338" type="Box" label="Mixed materials">13</container>
@@ -1833,7 +1842,7 @@
                         <unitdate>1956</unitdate>
                     </did>
                 </c>
-                <c id="ref224" level="otherlevel">
+                <c id="ref224" level="item">
                     <did>
                         <unittitle>Ms. You Can't Get Away from Christmas [McCall's 1964].</unittitle>
                         <container id="cid100337" type="Box" label="Mixed materials">13</container>
@@ -1841,7 +1850,7 @@
                         <unitdate>1964</unitdate>
                     </did>
                 </c>
-                <c id="ref225" level="otherlevel">
+                <c id="ref225" level="item">
                     <did>
                         <unittitle>Newspaper clippings.</unittitle>
                         <container id="cid100336" type="Box" label="Mixed materials">13</container>
@@ -1858,7 +1867,7 @@
                     <did>
                         <unittitle>Subseries A: Correspondence.</unittitle>
                     </did>
-                    <c id="ref229" level="otherlevel">
+                    <c id="ref229" level="item">
                         <did>
                             <unittitle>1918-1925.</unittitle>
                             <container id="cid100335" type="Box" label="Mixed materials">14</container>
@@ -1866,7 +1875,7 @@
                             <unitdate>1918-1925</unitdate>
                         </did>
                     </c>
-                    <c id="ref230" level="otherlevel">
+                    <c id="ref230" level="item">
                         <did>
                             <unittitle>Lindbergh, Charles A. Affairs.</unittitle>
                             <container id="cid100334" type="Box" label="Mixed materials">14</container>
@@ -1874,7 +1883,7 @@
                             <unitdate>1927</unitdate>
                         </did>
                     </c>
-                    <c id="ref231" level="otherlevel">
+                    <c id="ref231" level="item">
                         <did>
                             <unittitle>1930-1938.</unittitle>
                             <container id="cid100333" type="Box" label="Mixed materials">14</container>
@@ -1882,7 +1891,7 @@
                             <unitdate>1930-1938</unitdate>
                         </did>
                     </c>
-                    <c id="ref232" level="otherlevel">
+                    <c id="ref232" level="item">
                         <did>
                             <unittitle>1939-1949.</unittitle>
                             <container id="cid100332" type="Box" label="Mixed materials">14</container>
@@ -1890,7 +1899,7 @@
                             <unitdate>1939-1949</unitdate>
                         </did>
                     </c>
-                    <c id="ref233" level="otherlevel">
+                    <c id="ref233" level="item">
                         <did>
                             <unittitle>1950-1951.</unittitle>
                             <container id="cid100331" type="Box" label="Mixed materials">14</container>
@@ -1898,7 +1907,7 @@
                             <unitdate>1950-1951</unitdate>
                         </did>
                     </c>
-                    <c id="ref234" level="otherlevel">
+                    <c id="ref234" level="item">
                         <did>
                             <unittitle>1952-1953.</unittitle>
                             <container id="cid100330" type="Box" label="Mixed materials">15</container>
@@ -1906,7 +1915,7 @@
                             <unitdate>1952-1953</unitdate>
                         </did>
                     </c>
-                    <c id="ref235" level="otherlevel">
+                    <c id="ref235" level="item">
                         <did>
                             <unittitle>1954</unittitle>
                             <container id="cid100329" type="Box" label="Mixed materials">15</container>
@@ -1914,7 +1923,7 @@
                             <unitdate>1954</unitdate>
                         </did>
                     </c>
-                    <c id="ref236" level="otherlevel">
+                    <c id="ref236" level="item">
                         <did>
                             <unittitle>1955-1956.</unittitle>
                             <container id="cid100328" type="Box" label="Mixed materials">15</container>
@@ -1922,7 +1931,7 @@
                             <unitdate>1955-1956</unitdate>
                         </did>
                     </c>
-                    <c id="ref237" level="otherlevel">
+                    <c id="ref237" level="item">
                         <did>
                             <unittitle>1957-1959.</unittitle>
                             <container id="cid100327" type="Box" label="Mixed materials">15</container>
@@ -1930,7 +1939,7 @@
                             <unitdate>1957-1959</unitdate>
                         </did>
                     </c>
-                    <c id="ref238" level="otherlevel">
+                    <c id="ref238" level="item">
                         <did>
                             <unittitle>1960-Oct. 1961</unittitle>
                             <container id="cid100326" type="Box" label="Mixed materials">15</container>
@@ -1938,7 +1947,7 @@
                             <unitdate>1960-1961</unitdate>
                         </did>
                     </c>
-                    <c id="ref239" level="otherlevel">
+                    <c id="ref239" level="item">
                         <did>
                             <unittitle>Nov. 1961-Feb. 1962</unittitle>
                             <container id="cid100325" type="Box" label="Mixed materials">16</container>
@@ -1946,7 +1955,7 @@
                             <unitdate>1961-1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref240" level="otherlevel">
+                    <c id="ref240" level="item">
                         <did>
                             <unittitle>Mar. 1962-1963.</unittitle>
                             <container id="cid100324" type="Box" label="Mixed materials">16</container>
@@ -1954,7 +1963,7 @@
                             <unitdate>1962-1963</unitdate>
                         </did>
                     </c>
-                    <c id="ref241" level="otherlevel">
+                    <c id="ref241" level="item">
                         <did>
                             <unittitle>1964-1967.</unittitle>
                             <container id="cid100323" type="Box" label="Mixed materials">16</container>
@@ -1962,7 +1971,7 @@
                             <unitdate>1964-1967</unitdate>
                         </did>
                     </c>
-                    <c id="ref242" level="otherlevel">
+                    <c id="ref242" level="item">
                         <did>
                             <unittitle>1968-1969.</unittitle>
                             <container id="cid100322" type="Box" label="Mixed materials">16</container>
@@ -1970,7 +1979,7 @@
                             <unitdate>1968-1969</unitdate>
                         </did>
                     </c>
-                    <c id="ref243" level="otherlevel">
+                    <c id="ref243" level="item">
                         <did>
                             <unittitle>1970-1973.</unittitle>
                             <container id="cid100321" type="Box" label="Mixed materials">16</container>
@@ -1978,7 +1987,7 @@
                             <unitdate>1970-1973</unitdate>
                         </did>
                     </c>
-                    <c id="ref244" level="otherlevel">
+                    <c id="ref244" level="item">
                         <did>
                             <unittitle>n. d.</unittitle>
                             <container id="cid100320" type="Box" label="Mixed materials">16</container>
@@ -1995,7 +2004,7 @@
                         <head>Scope and Contents note</head>
                         <p>Box 17A contains correspondence with Gluyas Williams.</p>
                     </scopecontent>
-                    <c id="ref246" level="otherlevel">
+                    <c id="ref246" level="item">
                         <did>
                             <unittitle>Donovan, William J. - Troop I 50th Anniversary.</unittitle>
                             <container id="cid100319" type="Box" label="Mixed materials">17</container>
@@ -2003,7 +2012,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref247" level="otherlevel">
+                    <c id="ref247" level="item">
                         <did>
                             <unittitle>Johnson, Nunnally.</unittitle>
                             <container id="cid100318" type="Box" label="Mixed materials">17</container>
@@ -2011,7 +2020,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref248" level="otherlevel">
+                    <c id="ref248" level="item">
                         <did>
                             <unittitle>Marquand, John P. 1948-1970.</unittitle>
                             <container id="cid100317" type="Box" label="Mixed materials">17</container>
@@ -2019,7 +2028,7 @@
                             <unitdate>1948-1970</unitdate>
                         </did>
                     </c>
-                    <c id="ref249" level="otherlevel">
+                    <c id="ref249" level="item">
                         <did>
                             <unittitle>Misc. Receipts - Anges Demarest [1881-1893].</unittitle>
                             <container id="cid100316" type="Box" label="Mixed materials">17</container>
@@ -2027,7 +2036,7 @@
                             <unitdate>1881 1893</unitdate>
                         </did>
                     </c>
-                    <c id="ref250" level="otherlevel">
+                    <c id="ref250" level="item">
                         <did>
                             <unittitle>Ranney, Dudley P. 1935-1963.</unittitle>
                             <container id="cid100315" type="Box" label="Mixed materials">17</container>
@@ -2035,23 +2044,23 @@
                             <unitdate>1935-1963</unitdate>
                         </did>
                     </c>
-                    <c id="ref251" level="otherlevel">
+                    <c id="ref251" level="item">
                         <did>
-                            <unittitle>Smith, Isabel1938-1954.</unittitle>
+                            <unittitle>Smith, Isabel 1938-1954.</unittitle>
                             <container id="cid100314" type="Box" label="Mixed materials">17</container>
                             <container parent="cid100314" type="Folder">22</container>
                             <unitdate>1938-1954</unitdate>
                         </did>
                     </c>
-                    <c id="ref252" level="otherlevel">
+                    <c id="ref252" level="item">
                         <did>
-                            <unittitle>Smith, Isabel1955-1966.</unittitle>
+                            <unittitle>Smith, Isabel 1955-1966.</unittitle>
                             <container id="cid100313" type="Box" label="Mixed materials">17</container>
                             <container parent="cid100313" type="Folder">23</container>
                             <unitdate>1955-1966</unitdate>
                         </did>
                     </c>
-                    <c id="ref253" level="otherlevel">
+                    <c id="ref253" level="item">
                         <did>
                             <unittitle>Stewart, James [1962].</unittitle>
                             <container id="cid100312" type="Box" label="Mixed materials">17</container>
@@ -2059,7 +2068,7 @@
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref254" level="otherlevel">
+                    <c id="ref254" level="item">
                         <did>
                             <unittitle>Streeter, William W. [regarding his death].</unittitle>
                             <container id="cid100311" type="Box" label="Mixed materials">17</container>
@@ -2067,7 +2076,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref255" level="otherlevel">
+                    <c id="ref255" level="item">
                         <did>
                             <unittitle>Tracey, Spencer.</unittitle>
                             <container id="cid100310" type="Box" label="Mixed materials">17</container>
@@ -2075,7 +2084,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref256" level="otherlevel">
+                    <c id="ref256" level="item">
                         <did>
                             <unittitle>Wilder, Thornton [1936]</unittitle>
                             <container id="cid100309" type="Box" label="Mixed materials">17</container>
@@ -2083,7 +2092,7 @@
                             <unitdate>1936</unitdate>
                         </did>
                     </c>
-                    <c id="ref257" level="otherlevel">
+                    <c id="ref257" level="item">
                         <did>
                             <unittitle>Gluyas Williams. 1937-1949.</unittitle>
                             <container id="cid100308" type="Box" label="Mixed materials">17A. </container>
@@ -2091,7 +2100,7 @@
                             <unitdate>1937-1949</unitdate>
                         </did>
                     </c>
-                    <c id="ref258" level="otherlevel">
+                    <c id="ref258" level="item">
                         <did>
                             <unittitle>Gluyas Williams. 1950-1958.</unittitle>
                             <container id="cid100307" type="Box" label="Mixed materials">17A. </container>
@@ -2099,7 +2108,7 @@
                             <unitdate>1950-1958</unitdate>
                         </did>
                     </c>
-                    <c id="ref259" level="otherlevel">
+                    <c id="ref259" level="item">
                         <did>
                             <unittitle>Gluyas Williams. 1959-1967.</unittitle>
                             <container id="cid100306" type="Box" label="Mixed materials">17A. </container>
@@ -2107,7 +2116,7 @@
                             <unitdate>1959-1967</unitdate>
                         </did>
                     </c>
-                    <c id="ref260" level="otherlevel">
+                    <c id="ref260" level="item">
                         <did>
                             <unittitle>Gluyas Williams. 1968-1974.</unittitle>
                             <container id="cid100305" type="Box" label="Mixed materials">17A. </container>
@@ -2115,7 +2124,7 @@
                             <unitdate>1968-1974</unitdate>
                         </did>
                     </c>
-                    <c id="ref261" level="otherlevel">
+                    <c id="ref261" level="item">
                         <did>
                             <unittitle>Military Records 1918-1919.</unittitle>
                             <container id="cid100304" type="Box" label="Mixed materials">18</container>
@@ -2123,7 +2132,7 @@
                             <unitdate>1918-1919</unitdate>
                         </did>
                     </c>
-                    <c id="ref262" level="otherlevel">
+                    <c id="ref262" level="item">
                         <did>
                             <unittitle>Income Tax Information &amp; Earnings Records.</unittitle>
                             <container id="cid100303" type="Box" label="Mixed materials">18</container>
@@ -2131,7 +2140,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref263" level="otherlevel">
+                    <c id="ref263" level="item">
                         <did>
                             <unittitle>The Bell Syndicate.</unittitle>
                             <container id="cid100302" type="Box" label="Mixed materials">18</container>
@@ -2139,7 +2148,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref264" level="otherlevel">
+                    <c id="ref264" level="item">
                         <did>
                             <unittitle>The Best Allenby Agency.</unittitle>
                             <container id="cid100301" type="Box" label="Mixed materials">18</container>
@@ -2147,7 +2156,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref265" level="otherlevel">
+                    <c id="ref265" level="item">
                         <did>
                             <unittitle>Brandt &amp; Brandt 1919-1955.</unittitle>
                             <container id="cid100300" type="Box" label="Mixed materials">18</container>
@@ -2155,7 +2164,7 @@
                             <unitdate>1919-1955</unitdate>
                         </did>
                     </c>
-                    <c id="ref266" level="otherlevel">
+                    <c id="ref266" level="item">
                         <did>
                             <unittitle>Brandt &amp; Brandt 1956-1975.</unittitle>
                             <container id="cid100299" type="Box" label="Mixed materials">18</container>
@@ -2163,7 +2172,7 @@
                             <unitdate>1956-1975</unitdate>
                         </did>
                     </c>
-                    <c id="ref267" level="otherlevel">
+                    <c id="ref267" level="item">
                         <did>
                             <unittitle>CBS Radio.</unittitle>
                             <container id="cid100298" type="Box" label="Mixed materials">18</container>
@@ -2171,7 +2180,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref268" level="otherlevel">
+                    <c id="ref268" level="item">
                         <did>
                             <unittitle>Collier's.</unittitle>
                             <container id="cid100297" type="Box" label="Mixed materials">18</container>
@@ -2179,7 +2188,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref269" level="otherlevel">
+                    <c id="ref269" level="item">
                         <did>
                             <unittitle>The Commentator.</unittitle>
                             <container id="cid100296" type="Box" label="Mixed materials">18</container>
@@ -2187,7 +2196,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref270" level="otherlevel">
+                    <c id="ref270" level="item">
                         <did>
                             <unittitle>Cumbre Publishing.</unittitle>
                             <container id="cid100295" type="Box" label="Mixed materials">18</container>
@@ -2195,7 +2204,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref271" level="otherlevel">
+                    <c id="ref271" level="item">
                         <did>
                             <unittitle>Dodd, Mead &amp; Company.</unittitle>
                             <container id="cid100294" type="Box" label="Mixed materials">18</container>
@@ -2203,7 +2212,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref272" level="otherlevel">
+                    <c id="ref272" level="item">
                         <did>
                             <unittitle>Doremus &amp; Company.</unittitle>
                             <container id="cid100293" type="Box" label="Mixed materials">18</container>
@@ -2211,7 +2220,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref273" level="otherlevel">
+                    <c id="ref273" level="item">
                         <did>
                             <unittitle>Doubleday &amp; Company.</unittitle>
                             <container id="cid100292" type="Box" label="Mixed materials">18</container>
@@ -2219,7 +2228,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref274" level="otherlevel">
+                    <c id="ref274" level="item">
                         <did>
                             <unittitle>Duttons, Inc.</unittitle>
                             <container id="cid100291" type="Box" label="Mixed materials">18</container>
@@ -2227,7 +2236,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref275" level="otherlevel">
+                    <c id="ref275" level="item">
                         <did>
                             <unittitle>Everybody's Magazine.</unittitle>
                             <container id="cid100290" type="Box" label="Mixed materials">18</container>
@@ -2235,7 +2244,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref276" level="otherlevel">
+                    <c id="ref276" level="item">
                         <did>
                             <unittitle>Fales Library.</unittitle>
                             <container id="cid100289" type="Box" label="Mixed materials">18</container>
@@ -2243,7 +2252,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref277" level="otherlevel">
+                    <c id="ref277" level="item">
                         <did>
                             <unittitle>Father of the Bride.</unittitle>
                             <container id="cid100288" type="Box" label="Mixed materials">18</container>
@@ -2251,7 +2260,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref278" level="otherlevel">
+                    <c id="ref278" level="item">
                         <did>
                             <unittitle>Good Housekeeping.</unittitle>
                             <container id="cid100287" type="Box" label="Mixed materials">18</container>
@@ -2259,7 +2268,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref279" level="otherlevel">
+                    <c id="ref279" level="item">
                         <did>
                             <unittitle>The Grand Magazine.</unittitle>
                             <container id="cid100286" type="Box" label="Mixed materials">18</container>
@@ -2267,7 +2276,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref280" level="otherlevel">
+                    <c id="ref280" level="item">
                         <did>
                             <unittitle>Grombach Productions 1940-1941.</unittitle>
                             <container id="cid100285" type="Box" label="Mixed materials">18</container>
@@ -2275,7 +2284,7 @@
                             <unitdate>1940-1941</unitdate>
                         </did>
                     </c>
-                    <c id="ref281" level="otherlevel">
+                    <c id="ref281" level="item">
                         <did>
                             <unittitle>Groton School 1959-1960.</unittitle>
                             <container id="cid100284" type="Box" label="Mixed materials">18</container>
@@ -2283,7 +2292,7 @@
                             <unitdate>1959-1960</unitdate>
                         </did>
                     </c>
-                    <c id="ref282" level="otherlevel">
+                    <c id="ref282" level="item">
                         <did>
                             <unittitle>Harper &amp; Bros/Harper &amp; Row 1939-1954.</unittitle>
                             <container id="cid100283" type="Box" label="Mixed materials">18</container>
@@ -2291,7 +2300,7 @@
                             <unitdate>1939-1954</unitdate>
                         </did>
                     </c>
-                    <c id="ref283" level="otherlevel">
+                    <c id="ref283" level="item">
                         <did>
                             <unittitle>Harper &amp; Row 1955-1974.</unittitle>
                             <container id="cid100282" type="Box" label="Mixed materials">18</container>
@@ -2299,7 +2308,7 @@
                             <unitdate>1955-1974</unitdate>
                         </did>
                     </c>
-                    <c id="ref284" level="otherlevel">
+                    <c id="ref284" level="item">
                         <did>
                             <unittitle>Harvard Lampoon.</unittitle>
                             <container id="cid100281" type="Box" label="Mixed materials">18</container>
@@ -2307,7 +2316,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref285" level="otherlevel">
+                    <c id="ref285" level="item">
                         <did>
                             <unittitle>Harvard University 1953-1976.</unittitle>
                             <container id="cid100280" type="Box" label="Mixed materials">18</container>
@@ -2315,7 +2324,7 @@
                             <unitdate>1953-1976</unitdate>
                         </did>
                     </c>
-                    <c id="ref286" level="otherlevel">
+                    <c id="ref286" level="item">
                         <did>
                             <unittitle>Henry Holt &amp; Company.</unittitle>
                             <container id="cid100279" type="Box" label="Mixed materials">19</container>
@@ -2323,7 +2332,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref287" level="otherlevel">
+                    <c id="ref287" level="item">
                         <did>
                             <unittitle>Herald-Tribune.</unittitle>
                             <container id="cid100278" type="Box" label="Mixed materials">19</container>
@@ -2331,7 +2340,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref288" level="otherlevel">
+                    <c id="ref288" level="item">
                         <did>
                             <unittitle>Hillman Periodicals.</unittitle>
                             <container id="cid100277" type="Box" label="Mixed materials">19</container>
@@ -2339,7 +2348,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref289" level="otherlevel">
+                    <c id="ref289" level="item">
                         <did>
                             <unittitle>Jarrolds Publishers.</unittitle>
                             <container id="cid100276" type="Box" label="Mixed materials">19</container>
@@ -2347,7 +2356,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref290" level="otherlevel">
+                    <c id="ref290" level="item">
                         <did>
                             <unittitle>Ladies Home Journal.</unittitle>
                             <container id="cid100275" type="Box" label="Mixed materials">19</container>
@@ -2355,7 +2364,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref291" level="otherlevel">
+                    <c id="ref291" level="item">
                         <did>
                             <unittitle>Life Magazine.</unittitle>
                             <container id="cid100274" type="Box" label="Mixed materials">19</container>
@@ -2363,7 +2372,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref292" level="otherlevel">
+                    <c id="ref292" level="item">
                         <did>
                             <unittitle>J. B. Lippincott Company.</unittitle>
                             <container id="cid100273" type="Box" label="Mixed materials">19</container>
@@ -2371,7 +2380,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref293" level="otherlevel">
+                    <c id="ref293" level="item">
                         <did>
                             <unittitle>Loews, Inc. 1958</unittitle>
                             <container id="cid100272" type="Box" label="Mixed materials">19</container>
@@ -2379,7 +2388,7 @@
                             <unitdate>1958</unitdate>
                         </did>
                     </c>
-                    <c id="ref294" level="otherlevel">
+                    <c id="ref294" level="item">
                         <did>
                             <unittitle>Metro-Goldwyn-Mayer.</unittitle>
                             <container id="cid100271" type="Box" label="Mixed materials">19</container>
@@ -2387,7 +2396,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref295" level="otherlevel">
+                    <c id="ref295" level="item">
                         <did>
                             <unittitle>MGM-TV.</unittitle>
                             <container id="cid100270" type="Box" label="Mixed materials">19</container>
@@ -2395,7 +2404,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref296" level="otherlevel">
+                    <c id="ref296" level="item">
                         <did>
                             <unittitle>Misc. Magazines 1943-1967.</unittitle>
                             <container id="cid100269" type="Box" label="Mixed materials">19</container>
@@ -2403,7 +2412,7 @@
                             <unitdate>1943-1967</unitdate>
                         </did>
                     </c>
-                    <c id="ref297" level="otherlevel">
+                    <c id="ref297" level="item">
                         <did>
                             <unittitle>Misc. Newspapers.</unittitle>
                             <container id="cid100268" type="Box" label="Mixed materials">19</container>
@@ -2411,7 +2420,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref298" level="otherlevel">
+                    <c id="ref298" level="item">
                         <did>
                             <unittitle>The New York Times.</unittitle>
                             <container id="cid100267" type="Box" label="Mixed materials">19</container>
@@ -2419,7 +2428,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref299" level="otherlevel">
+                    <c id="ref299" level="item">
                         <did>
                             <unittitle>Newsweek.</unittitle>
                             <container id="cid100266" type="Box" label="Mixed materials">19</container>
@@ -2427,7 +2436,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref300" level="otherlevel">
+                    <c id="ref300" level="item">
                         <did>
                             <unittitle>Pomfret School.</unittitle>
                             <container id="cid100265" type="Box" label="Mixed materials">19</container>
@@ -2435,7 +2444,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref301" level="otherlevel">
+                    <c id="ref301" level="item">
                         <did>
                             <unittitle>President's Professional Assn.</unittitle>
                             <container id="cid100264" type="Box" label="Mixed materials">19</container>
@@ -2443,7 +2452,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref302" level="otherlevel">
+                    <c id="ref302" level="item">
                         <did>
                             <unittitle>G. P. Putnam's Sons.</unittitle>
                             <container id="cid100263" type="Box" label="Mixed materials">19</container>
@@ -2451,7 +2460,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref303" level="otherlevel">
+                    <c id="ref303" level="item">
                         <did>
                             <unittitle>Random House.</unittitle>
                             <container id="cid100262" type="Box" label="Mixed materials">19</container>
@@ -2459,7 +2468,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref304" level="otherlevel">
+                    <c id="ref304" level="item">
                         <did>
                             <unittitle>Reader's Digest.</unittitle>
                             <container id="cid100261" type="Box" label="Mixed materials">19</container>
@@ -2467,7 +2476,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref305" level="otherlevel">
+                    <c id="ref305" level="item">
                         <did>
                             <unittitle>RKO Radio Pictures.</unittitle>
                             <container id="cid100260" type="Box" label="Mixed materials">19</container>
@@ -2475,7 +2484,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref306" level="otherlevel">
+                    <c id="ref306" level="item">
                         <did>
                             <unittitle>The Saturday Evening Post.</unittitle>
                             <container id="cid100259" type="Box" label="Mixed materials">19</container>
@@ -2483,7 +2492,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref307" level="otherlevel">
+                    <c id="ref307" level="item">
                         <did>
                             <unittitle>Schaefler, Leon [attorney].</unittitle>
                             <container id="cid100258" type="Box" label="Mixed materials">19</container>
@@ -2491,7 +2500,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref308" level="otherlevel">
+                    <c id="ref308" level="item">
                         <did>
                             <unittitle>Sharp, Doris.</unittitle>
                             <container id="cid100257" type="Box" label="Mixed materials">19</container>
@@ -2499,7 +2508,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref309" level="otherlevel">
+                    <c id="ref309" level="item">
                         <did>
                             <unittitle>Simon &amp; Schuster 1938-1950.</unittitle>
                             <container id="cid100256" type="Box" label="Mixed materials">19</container>
@@ -2507,7 +2516,7 @@
                             <unitdate>1938-1950</unitdate>
                         </did>
                     </c>
-                    <c id="ref310" level="otherlevel">
+                    <c id="ref310" level="item">
                         <did>
                             <unittitle>Spadea Syndicate.</unittitle>
                             <container id="cid100255" type="Box" label="Mixed materials">19</container>
@@ -2515,7 +2524,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref311" level="otherlevel">
+                    <c id="ref311" level="item">
                         <did>
                             <unittitle>Frederick A. Stokes Company 1918-1941.</unittitle>
                             <container id="cid100254" type="Box" label="Mixed materials">19</container>
@@ -2523,7 +2532,7 @@
                             <unitdate>1918-1941</unitdate>
                         </did>
                     </c>
-                    <c id="ref312" level="otherlevel">
+                    <c id="ref312" level="item">
                         <did>
                             <unittitle>This Week Magazine.</unittitle>
                             <container id="cid100253" type="Box" label="Mixed materials">19</container>
@@ -2531,7 +2540,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref313" level="otherlevel">
+                    <c id="ref313" level="item">
                         <did>
                             <unittitle>Twentieth Century-Fox Film Corporation.</unittitle>
                             <container id="cid100252" type="Box" label="Mixed materials">19</container>
@@ -2539,7 +2548,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref314" level="otherlevel">
+                    <c id="ref314" level="item">
                         <did>
                             <unittitle>The Vanguard Press.</unittitle>
                             <container id="cid100251" type="Box" label="Mixed materials">19</container>
@@ -2547,7 +2556,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref315" level="otherlevel">
+                    <c id="ref315" level="item">
                         <did>
                             <unittitle>Warner Bros. Circuit.</unittitle>
                             <container id="cid100250" type="Box" label="Mixed materials">19</container>
@@ -2555,7 +2564,7 @@
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref316" level="otherlevel">
+                    <c id="ref316" level="item">
                         <did>
                             <unittitle>The World Publishing Company.</unittitle>
                             <container id="cid100249" type="Box" label="Mixed materials">19</container>
@@ -2573,519 +2582,516 @@
                     <did>
                         <unittitle>Subseries A: Printed Material.</unittitle>
                     </did>
-                    <scopecontent id="ref384">
-                        <head>Scope and Contents note</head>
-                    </scopecontent>
-                    <c id="ref320" level="otherlevel">
+                    <c id="ref320" level="item">
                         <did>
-                            <unittitle>Collier's Magazine: 1920: June 12, 26" Aboard the 8: 10"</unittitle>
-                            <container id="cid100248" type="Box" label="Mixed materials">1</container>
+                            <unittitle>Collier's Magazine: 1920: June 12, 26 "Aboard the 8: 10"</unittitle>
+                            <container id="cid100248" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100248" type="Folder"></container>
                             <unitdate>1920</unitdate>
                         </did>
                     </c>
-                    <c id="ref321" level="otherlevel">
+                    <c id="ref321" level="item">
                         <did>
                             <unittitle>Collier's Magazine: 1920: July 17-24</unittitle>
-                            <container id="cid100247" type="Box" label="Mixed materials">1</container>
+                            <container id="cid100247" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100247" type="Folder"></container>
                             <unitdate>1920</unitdate>
                         </did>
                     </c>
-                    <c id="ref322" level="otherlevel">
+                    <c id="ref322" level="item">
                         <did>
                             <unittitle>Collier's Magazine: 1920: August 7</unittitle>
-                            <container id="cid100246" type="Box" label="Mixed materials">1</container>
+                            <container id="cid100246" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100246" type="Folder"></container>
                             <unitdate>1920</unitdate>
                         </did>
                     </c>
-                    <c id="ref323" level="otherlevel">
+                    <c id="ref323" level="item">
                         <did>
                             <unittitle>Collier's Magazine: 1925: January 10</unittitle>
-                            <container id="cid100245" type="Box" label="Mixed materials">1</container>
+                            <container id="cid100245" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100245" type="Folder"></container>
                             <unitdate>1925</unitdate>
                         </did>
                     </c>
-                    <c id="ref324" level="otherlevel">
+                    <c id="ref324" level="item">
                         <did>
                             <unittitle>Collier's Magazine: 1949: January 8-22 "Father of the Bride"</unittitle>
-                            <container id="cid100244" type="Box" label="Mixed materials">1</container>
+                            <container id="cid100244" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100244" type="Folder"></container>
                             <unitdate>1949</unitdate>
                         </did>
                     </c>
-                    <c id="ref325" level="otherlevel">
+                    <c id="ref325" level="item">
                         <did>
                             <unittitle>Saturday Evening Post: 1920: July 24</unittitle>
-                            <container id="cid100243" type="Box" label="Mixed materials">1</container>
+                            <container id="cid100243" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100243" type="Folder"></container>
                             <unitdate>1920</unitdate>
                         </did>
                     </c>
-                    <c id="ref326" level="otherlevel">
+                    <c id="ref326" level="item">
                         <did>
                             <unittitle>Saturday Evening Post: 1920.September 11</unittitle>
-                            <container id="cid100242" type="Box" label="Mixed materials">1</container>
+                            <container id="cid100242" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100242" type="Folder"></container>
                             <unitdate>1920</unitdate>
                         </did>
                     </c>
-                    <c id="ref327" level="otherlevel">
+                    <c id="ref327" level="item">
                         <did>
                             <unittitle>Saturday Evening Post: 1920.November 13</unittitle>
-                            <container id="cid100241" type="Box" label="Mixed materials">1</container>
+                            <container id="cid100241" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100241" type="Folder"></container>
                             <unitdate>1920</unitdate>
                         </did>
                     </c>
-                    <c id="ref328" level="otherlevel">
+                    <c id="ref328" level="item">
                         <did>
                             <unittitle>Saturday Evening Post: 1945: December 8</unittitle>
-                            <container id="cid100240" type="Box" label="Mixed materials">1</container>
+                            <container id="cid100240" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100240" type="Folder"></container>
                             <unitdate>1945</unitdate>
                         </did>
                     </c>
-                    <c id="ref329" level="otherlevel">
-                        <did>
-                            <unittitle>Metropolitan: Fitzgerald, F. Scott. "The Beautiful and the Damned. "</unittitle>
-                            <container id="cid100239" type="Box" label="Mixed materials">1</container>
-                            <container parent="cid100239" type="Folder"></container>
-                            <unitdate>1921-1922</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref330" level="otherlevel">
+                    <c id="ref330" level="item">
                         <did>
                             <unittitle>Metropolitan: Streeter, Edward. "Mary, Mary Quite Contrary. "</unittitle>
-                            <container id="cid100238" type="Box" label="Mixed materials">1</container>
+                            <container id="cid100238" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100238" type="Folder"></container>
                             <unitdate>1921-1922</unitdate>
                         </did>
                     </c>
-                    <c id="ref331" level="otherlevel">
+                    <c id="ref331" level="item">
                         <did>
                             <unittitle>Metropolitan: Streeter, Edward. "Over a Dead Man's Chest. "</unittitle>
-                            <container id="cid100237" type="Box" label="Mixed materials">1</container>
+                            <container id="cid100237" type="Box" label="Mixed materials">20</container>
                             <container parent="cid100237" type="Folder"></container>
                             <unitdate>1921-1922</unitdate>
                         </did>
                     </c>
-                    <c id="ref332" level="otherlevel">
+                    <c id="ref329" level="item">
+                        <did>
+                            <unittitle>Metropolitan: Fitzgerald, F. Scott. "The Beautiful and the Damned. "</unittitle>
+                            <container id="cid100239" type="Box" label="Mixed materials">20</container>
+                            <container parent="cid100239" type="Folder"></container>
+                            <unitdate>1921-1922</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref332" level="item">
                         <did>
                             <unittitle>Country Life: 1948: May; "Daily Except Sunday" Condensation</unittitle>
-                            <container id="cid100236" type="Box" label="Mixed materials">2</container>
+                            <container id="cid100236" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100236" type="Folder"></container>
                             <unitdate>1948</unitdate>
                         </did>
                     </c>
-                    <c id="ref333" level="otherlevel">
+                    <c id="ref333" level="item">
                         <did>
                             <unittitle>Good Housekeeping: 1954: May; "One Big Happy Family"</unittitle>
-                            <container id="cid100235" type="Box" label="Mixed materials">2</container>
+                            <container id="cid100235" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100235" type="Folder"></container>
                             <unitdate>1954</unitdate>
                         </did>
                     </c>
-                    <c id="ref334" level="otherlevel">
+                    <c id="ref334" level="item">
                         <did>
                             <unittitle>Good Housekeeping: 1958: June; "Mr. Robbins Rides Again"</unittitle>
-                            <container id="cid100234" type="Box" label="Mixed materials">2</container>
+                            <container id="cid100234" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100234" type="Folder"></container>
                             <unitdate>1958</unitdate>
                         </did>
                     </c>
-                    <c id="ref335" level="otherlevel">
+                    <c id="ref335" level="item">
                         <did>
-                            <unittitle>Gas Attack, v. 1, nos. 4, 11, 14, 18-24.</unittitle>
-                            <container id="cid100233" type="Box" label="Mixed materials">2</container>
+                            <unittitle>Gas Attack, v. 1, nos. 1-4, 11, 14, 18-24.</unittitle>
+                            <container id="cid100233" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100233" type="Folder"></container>
                             <unitdate>1917-1918</unitdate>
                         </did>
                     </c>
-                    <c id="ref336" level="otherlevel">
+                    <c id="ref336" level="item">
                         <did>
                             <unittitle>Life: 1962: September 14; "Don't Write Off Wisdom"</unittitle>
-                            <container id="cid100232" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100232" type="Box" label="Mixed materials">22</container>
                             <container parent="cid100232" type="Folder"></container>
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref337" level="otherlevel">
+                    <c id="ref337" level="item">
                         <did>
-                            <unittitle>Box Office. 1950, August 12.</unittitle>
-                            <container id="cid100231" type="Box" label="Mixed materials">3</container>
+                            <unittitle>Boxoffice. 1950, August 12.</unittitle>
+                            <container id="cid100231" type="Box" label="Mixed materials">22</container>
                             <container parent="cid100231" type="Folder"></container>
                             <unitdate>1950</unitdate>
                         </did>
                     </c>
-                    <c id="ref338" level="otherlevel">
+                    <c id="ref338" level="item">
                         <did>
                             <unittitle>SS France Passenger List: 1929, May 15.</unittitle>
-                            <container id="cid100230" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100230" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100230" type="Folder"></container>
                             <unitdate>1929</unitdate>
                         </did>
                     </c>
-                    <c id="ref339" level="otherlevel">
+                    <c id="ref339" level="item">
                         <did>
                             <unittitle>Poster (11 x 14); Ad for Father of the Bride [2 copies].</unittitle>
-                            <container id="cid100229" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100229" type="Box" label="Mixed materials">22</container>
                             <container parent="cid100229" type="Folder"></container>
                             <unitdate>ca. 1950</unitdate>
                         </did>
                     </c>
-                    <c id="ref340" level="otherlevel">
+                    <c id="ref340" level="item">
                         <did>
                             <unittitle>Motion Picture Herald: 1950: May, Aug, Sept. "Father of the Bride"</unittitle>
-                            <container id="cid100228" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100228" type="Box" label="Mixed materials">22</container>
                             <container parent="cid100228" type="Folder"></container>
                             <unitdate>1950</unitdate>
                         </did>
                     </c>
-                    <c id="ref341" level="otherlevel">
+                    <c id="ref341" level="item">
                         <did>
                             <unittitle>McCall's: 1963: June; "The Fourth Bride"</unittitle>
-                            <container id="cid100227" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100227" type="Box" label="Mixed materials">22</container>
                             <container parent="cid100227" type="Folder"></container>
                             <unitdate>1963</unitdate>
                         </did>
                     </c>
-                    <c id="ref342" level="otherlevel">
+                    <c id="ref342" level="item">
                         <did>
                             <unittitle>Omnibook: 1939: March; "Daily Except Sunday" [abridged]</unittitle>
-                            <container id="cid100226" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100226" type="Box" label="Mixed materials">22</container>
                             <container parent="cid100226" type="Folder"></container>
                             <unitdate>1939</unitdate>
                         </did>
                     </c>
-                    <c id="ref343" level="otherlevel">
+                    <c id="ref343" level="item">
                         <did>
                             <unittitle>Book of the Month Club News, 1949, May; 1954, May; 1969, Fall.</unittitle>
-                            <container id="cid100225" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100225" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100225" type="Folder"></container>
                             <unitdate>1949-1969</unitdate>
                         </did>
                     </c>
-                    <c id="ref344" level="otherlevel">
+                    <c id="ref344" level="item">
                         <did>
                             <unittitle>Publishers Weekly, 1949, March.</unittitle>
-                            <container id="cid100224" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100224" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100224" type="Folder"></container>
                             <unitdate>1949</unitdate>
                         </did>
                     </c>
-                    <c id="ref345" level="otherlevel">
+                    <c id="ref345" level="item">
                         <did>
-                            <unittitle>Showplace [Carnegie Hall Program]. 1950, June 1.</unittitle>
-                            <container id="cid100223" type="Box" label="Mixed materials">3</container>
+                            <unittitle>Showplace (Radio City Music Hall Program). 1950, June 1.</unittitle>
+                            <container id="cid100223" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100223" type="Folder"></container>
                             <unitdate>1950</unitdate>
                         </did>
                     </c>
-                    <c id="ref346" level="otherlevel">
+                    <c id="ref346" level="item">
                         <did>
                             <unittitle>The Guardsman, 1922, March 1.</unittitle>
-                            <container id="cid100222" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100222" type="Box" label="Mixed materials">22</container>
                             <container parent="cid100222" type="Folder"></container>
                             <unitdate>1922</unitdate>
                         </did>
                     </c>
-                    <c id="ref347" level="otherlevel">
+                    <c id="ref347" level="item">
                         <did>
                             <unittitle>Yale Courant, 1915, October.</unittitle>
-                            <container id="cid100221" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100221" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100221" type="Folder"></container>
                             <unitdate>1915</unitdate>
                         </did>
                     </c>
-                    <c id="ref348" level="otherlevel">
+                    <c id="ref348" level="item">
                         <did>
                             <unittitle>Lotus Eaters/ Hasty Pudding Club</unittitle>
-                            <container id="cid100220" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100220" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100220" type="Folder"></container>
                             <unitdate>1907</unitdate>
                         </did>
                     </c>
-                    <c id="ref349" level="otherlevel">
+                    <c id="ref349" level="item">
                         <did>
                             <unittitle>New Yorker, [Manley, Jared L. "Where are They Now-"The New Yorker: June 26, 1937.]</unittitle>
-                            <container id="cid100219" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100219" type="Box" label="Mixed materials">22</container>
                             <container parent="cid100219" type="Folder"></container>
                             <unitdate>1937</unitdate>
                         </did>
                     </c>
-                    <c id="ref350" level="otherlevel">
+                    <c id="ref350" level="item">
                         <did>
-                            <unittitle>Harvard Jublilee [March, Midyear and Reunion].</unittitle>
-                            <container id="cid100218" type="Box" label="Mixed materials">3</container>
+                            <unittitle>Harvard Jubilee (Midyear, Reunion, and Christmas).</unittitle>
+                            <container id="cid100218" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100218" type="Folder"></container>
-                            <unitdate>1914</unitdate>
+                            <unitdate>1939</unitdate>
                         </did>
                     </c>
-                    <c id="ref351" level="otherlevel">
+                    <c id="ref351" level="item">
                         <did>
-                            <unittitle>American Home, 1934, March.</unittitle>
-                            <container id="cid100217" type="Box" label="Mixed materials">3</container>
+                            <unittitle>The American Home, 1934, March.</unittitle>
+                            <container id="cid100217" type="Box" label="Mixed materials">22</container>
                             <container parent="cid100217" type="Folder"></container>
                             <unitdate>1934</unitdate>
                         </did>
                     </c>
-                    <c id="ref352" level="otherlevel">
+                    <c id="ref352" level="item">
                         <did>
-                            <unittitle>Life at the 1914 reunion [Harvard].</unittitle>
-                            <container id="cid100216" type="Box" label="Mixed materials">3</container>
+                            <unittitle>Life at the 1914 Reunion (Harvard).</unittitle>
+                            <container id="cid100216" type="Box" label="Mixed materials">22</container>
                             <container parent="cid100216" type="Folder"></container>
                             <unitdate>1939</unitdate>
                         </did>
                     </c>
-                    <c id="ref353" level="otherlevel">
+                    <c id="ref353" level="item">
                         <did>
                             <unittitle>Anonymous. "He Was Chairman of the Bored. "Retirement Planning News Service, Vol. 7, No. 4 [April 1962].</unittitle>
-                            <container id="cid100215" type="Box" label="Mixed materials">3</container>
+                            <container id="cid100215" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100215" type="Folder"></container>
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref354" level="otherlevel">
+                    <c id="ref354" level="item">
                         <did>
                             <unittitle>The Log: 1950: Vol. 39, No. 10 Review of "Father of the Bride"</unittitle>
-                            <container id="cid100214" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100214" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100214" type="Folder"></container>
                             <unitdate>1950</unitdate>
                         </did>
                     </c>
-                    <c id="ref355" level="otherlevel">
+                    <c id="ref355" level="item">
                         <did>
                             <unittitle>Bank One [Fall 1959].</unittitle>
-                            <container id="cid100213" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100213" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100213" type="Folder"></container>
                             <unitdate>1959</unitdate>
                         </did>
                     </c>
-                    <c id="ref356" level="otherlevel">
+                    <c id="ref356" level="item">
                         <did>
                             <unittitle>Harper's: 1953: December.</unittitle>
-                            <container id="cid100212" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100212" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100212" type="Folder"></container>
                             <unitdate>1953</unitdate>
                         </did>
                     </c>
-                    <c id="ref357" level="otherlevel">
+                    <c id="ref357" level="item">
                         <did>
                             <unittitle>Homes and Gardens: 1962: December</unittitle>
-                            <container id="cid100211" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100211" type="Box" label="Mixed materials">21</container>
                             <container parent="cid100211" type="Folder"></container>
                             <unitdate>1962</unitdate>
                         </did>
                     </c>
-                    <c id="ref358" level="otherlevel">
+                    <c id="ref358" level="item">
                         <did>
                             <unittitle>The White Book</unittitle>
-                            <container id="cid100210" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100210" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100210" type="Folder"></container>
                             <unitdate>1932</unitdate>
                         </did>
                     </c>
-                    <c id="ref359" level="otherlevel">
+                    <c id="ref359" level="item">
                         <did>
                             <unittitle>Saturday Review, 1966, December 24.</unittitle>
-                            <container id="cid100209" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100209" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100209" type="Folder"></container>
                             <unitdate>1966</unitdate>
                         </did>
                     </c>
-                    <c id="ref360" level="otherlevel">
+                    <c id="ref360" level="item">
                         <did>
                             <unittitle>Popular Educator</unittitle>
-                            <container id="cid100208" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100208" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100208" type="Folder"></container>
                             <unitdate>1940</unitdate>
                         </did>
                     </c>
-                    <c id="ref361" level="otherlevel">
+                    <c id="ref361" level="item">
                         <did>
                             <unittitle>Newsweek, 1949, March 7.</unittitle>
-                            <container id="cid100207" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100207" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100207" type="Folder"></container>
                             <unitdate>1949</unitdate>
                         </did>
                     </c>
-                    <c id="ref362" level="otherlevel">
+                    <c id="ref362" level="item">
                         <did>
                             <unittitle>Redbook, 1932, December; 1933, February and March.</unittitle>
-                            <container id="cid100206" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100206" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100206" type="Folder"></container>
                             <unitdate>1932-1933</unitdate>
                         </did>
                     </c>
-                    <c id="ref363" level="otherlevel">
+                    <c id="ref363" level="item">
                         <did>
                             <unittitle>New York National Guardsman, 1924, April.</unittitle>
-                            <container id="cid100205" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100205" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100205" type="Folder"></container>
                             <unitdate>1924</unitdate>
                         </did>
                     </c>
-                    <c id="ref364" level="otherlevel">
+                    <c id="ref364" level="item">
                         <did>
                             <unittitle>The Literary Digest, 1924, February 16.</unittitle>
-                            <container id="cid100204" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100204" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100204" type="Folder"></container>
                             <unitdate>1924</unitdate>
                         </did>
                     </c>
-                    <c id="ref365" level="otherlevel">
+                    <c id="ref365" level="item">
                         <did>
                             <unittitle>Harvard Today, 1958, December; 1961, Autumn.</unittitle>
-                            <container id="cid100203" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100203" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100203" type="Folder"></container>
                             <unitdate>1958, 1961</unitdate>
                         </did>
                     </c>
-                    <c id="ref366" level="otherlevel">
+                    <c id="ref408" level="item">
+                        <did>
+                            <unittitle>Harvard Club of New York Bulletin, 1971.</unittitle>
+                            <container id="cid19621001" type="Box" label="Mixed materials">21</container>
+                            <container parent="cid19621001" type="Folder"></container>
+                            <unitdate>1971</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref409" level="item">
+                        <did>
+                            <unittitle>Daily Variety, 1950 October 20.</unittitle>
+                            <container id="cid19621002" type="Box" label="Mixed materials">21</container>
+                            <container parent="cid19621002" type="Folder"></container>
+                            <unitdate>1950</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref366" level="item">
                         <did>
                             <unittitle>The Harvard Foundation for Advanced Study and Research Newsletter, 1959, September 30.</unittitle>
-                            <container id="cid100202" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100202" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100202" type="Folder"></container>
                             <unitdate>1959</unitdate>
                         </did>
                     </c>
-                    <c id="ref367" level="otherlevel">
+                    <c id="ref367" level="item">
                         <did>
-                            <unittitle>Havard Alumni Bulletin, 1953, December 12; 1951, March 24; 1948.</unittitle>
-                            <container id="cid100201" type="Box" label="Mixed materials">4</container>
+                            <unittitle>Harvard Alumni Bulletin, 1953, December 12; 1951, March 24; 1948.</unittitle>
+                            <container id="cid100201" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100201" type="Folder"></container>
                             <unitdate>1948-1953</unitdate>
                         </did>
                     </c>
-                    <c id="ref368" level="otherlevel">
+                    <c id="ref368" level="item">
                         <did>
                             <unittitle>5 Pointer, 1956, March.</unittitle>
-                            <container id="cid100200" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100200" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100200" type="Folder"></container>
                             <unitdate>1956</unitdate>
                         </did>
                     </c>
-                    <c id="ref369" level="otherlevel">
+                    <c id="ref369" level="item">
                         <did>
                             <unittitle>Harper's: 1953, December; 1956, October; 1954, March.</unittitle>
-                            <container id="cid100199" type="Box" label="Mixed materials">4</container>
+                            <container id="cid100199" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100199" type="Folder"></container>
                             <unitdate>1953-1956</unitdate>
                         </did>
                     </c>
-                    <c id="ref370" level="otherlevel">
+                    <c id="ref370" level="item">
                         <did>
-                            <unittitle>Redbook: Vol 60, No. 4; Vol. 61, No. 4, 6-8 [1932-33].</unittitle>
-                            <container id="cid100198" type="Box" label="Mixed materials">5</container>
+                            <unittitle>Redbook: Vol 60, No. 6; Vol. 61, No. 4, 2-4 [1932-33].</unittitle>
+                            <container id="cid100198" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100198" type="Folder"></container>
                             <unitdate>1932-1933</unitdate>
                         </did>
                     </c>
-                    <c id="ref371" level="otherlevel">
+                    <c id="ref371" level="item">
                         <did>
                             <unittitle>Redbook: Vol. 64, No. 6 [Apr. 1935].</unittitle>
-                            <container id="cid100197" type="Box" label="Mixed materials">5</container>
+                            <container id="cid100197" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100197" type="Folder"></container>
                             <unitdate>1935</unitdate>
                         </did>
                     </c>
-                    <c id="ref372" level="otherlevel">
+                    <c id="ref372" level="item">
                         <did>
                             <unittitle>Redbook: Vol. 74, No. 4 [Feb. 1940].</unittitle>
-                            <container id="cid100196" type="Box" label="Mixed materials">5</container>
+                            <container id="cid100196" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100196" type="Folder"></container>
                             <unitdate>1940</unitdate>
                         </did>
                     </c>
-                    <c id="ref373" level="otherlevel">
+                    <c id="ref373" level="item">
                         <did>
                             <unittitle>Redbook: Vol. 77, No. 2 [June 1941].</unittitle>
-                            <container id="cid100195" type="Box" label="Mixed materials">5</container>
+                            <container id="cid100195" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100195" type="Folder"></container>
                             <unitdate>1941</unitdate>
                         </did>
                     </c>
-                    <c id="ref374" level="otherlevel">
+                    <c id="ref374" level="item">
                         <did>
                             <unittitle>Redbook: Vol. 78, No. 1 [Nov. 1941].</unittitle>
-                            <container id="cid100194" type="Box" label="Mixed materials">5</container>
+                            <container id="cid100194" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100194" type="Folder"></container>
                             <unitdate>1941</unitdate>
                         </did>
                     </c>
-                    <c id="ref375" level="otherlevel">
+                    <c id="ref375" level="item">
                         <did>
                             <unittitle>Redbook: Vol. 79, No. 3-4 [July-Aug. 1942].</unittitle>
-                            <container id="cid100193" type="Box" label="Mixed materials">5</container>
+                            <container id="cid100193" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100193" type="Folder"></container>
                             <unitdate>1942</unitdate>
                         </did>
                     </c>
-                    <c id="ref376" level="otherlevel">
+                    <c id="ref376" level="item">
                         <did>
                             <unittitle>Redbook: Vol. 81, No. 1 [May 1943].</unittitle>
-                            <container id="cid100192" type="Box" label="Mixed materials">5</container>
+                            <container id="cid100192" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100192" type="Folder"></container>
                             <unitdate>1943</unitdate>
                         </did>
                     </c>
-                    <c id="ref377" level="otherlevel">
+                    <c id="ref377" level="item">
                         <did>
                             <unittitle>Redbook: Vol. 85, No. 3 [July 1945].</unittitle>
-                            <container id="cid100191" type="Box" label="Mixed materials">5</container>
+                            <container id="cid100191" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100191" type="Folder"></container>
                             <unitdate>1945</unitdate>
                         </did>
                     </c>
-                    <c id="ref378" level="otherlevel">
+                    <c id="ref378" level="item">
                         <did>
                             <unittitle>The Writer: 1958: September"Old Story, New Style. "</unittitle>
-                            <container id="cid100190" type="Box" label="Mixed materials">5</container>
+                            <container id="cid100190" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100190" type="Folder"></container>
                             <unitdate>1958</unitdate>
                         </did>
                     </c>
-                    <c id="ref379" level="otherlevel">
+                    <c id="ref379" level="item">
                         <did>
                             <unittitle>Reader's Digest. "Father of the Bride. ": 1938: December [English Language].</unittitle>
-                            <container id="cid100189" type="Box" label="Mixed materials">6</container>
+                            <container id="cid100189" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100189" type="Folder"></container>
                             <unitdate>1938</unitdate>
                         </did>
                     </c>
-                    <c id="ref380" level="otherlevel">
+                    <c id="ref380" level="item">
                         <did>
                             <unittitle>Reader's Digest. "Father of the Bride. ": 1949-50: October-December [Multi-language Issues].</unittitle>
-                            <container id="cid100188" type="Box" label="Mixed materials">6</container>
+                            <container id="cid100188" type="Box" label="Mixed materials">23</container>
                             <container parent="cid100188" type="Folder"></container>
                             <unitdate>1949-1950</unitdate>
                         </did>
                     </c>
-                    <c id="ref381" level="otherlevel">
+                    <c id="ref382" level="item">
                         <did>
-                            <unittitle>Harvard Lampoon:</unittitle>
-                            <container id="cid100187" type="Box" label="Mixed materials">7</container>
-                            <container parent="cid100187" type="Folder"></container>
-                            <unitdate>1908-1913</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref382" level="otherlevel">
-                        <did>
-                            <unittitle>Harvard Lampoon: 1914 [numerous issues], 1916, January; 1951, April.</unittitle>
-                            <container id="cid100186" type="Box" label="Mixed materials">8</container>
+                            <unittitle>Harvard Lampoon [numerous issues]</unittitle>
+                            <container id="cid100186" type="Box" label="Mixed materials">23-24</container>
                             <container parent="cid100186" type="Folder"></container>
-                            <unitdate>1914-1951</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref383" level="otherlevel">
-                        <did>
-                            <unittitle>St. Nicholas, 1924, March 27.</unittitle>
-                            <container id="cid100185" type="Box" label="Mixed materials">8</container>
-                            <container parent="cid100185" type="Folder"></container>
-                            <unitdate>1924</unitdate>
+                            <unitdate>1908-1914, 1916, 1924, 1951</unitdate>
                         </did>
                     </c>
                 </c>
@@ -3093,58 +3099,58 @@
                     <did>
                         <unittitle>Subseries B: Scrapbooks &amp; Pictorial [SB=Scrapbook]</unittitle>
                     </did>
-                    <c id="ref386" level="otherlevel">
+                    <c id="ref386" level="item">
                         <did>
                             <unittitle>Father of the Bride Scrapbook.</unittitle>
-                            <container id="cid100184" type="Box" label="Mixed materials">SB</container>
+                            <container id="cid100184" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100184" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref387" level="otherlevel">
+                    <c id="ref387" level="item">
                         <did>
                             <unittitle>The Log of the Trade Wind [1926].</unittitle>
-                            <container id="cid100183" type="Box" label="Mixed materials"></container>
+                            <container id="cid100183" type="Box" label="Mixed materials">26</container>
                             <container parent="cid100183" type="Folder"></container>
                             <unitdate>1926</unitdate>
                         </did>
                     </c>
-                    <c id="ref388" level="otherlevel">
+                    <c id="ref388" level="item">
                         <did>
                             <unittitle>The Pontefract, 1908-1910.</unittitle>
-                            <container id="cid100182" type="Box" label="Mixed materials"></container>
+                            <container id="cid100182" type="Box" label="Mixed materials">28</container>
                             <container parent="cid100182" type="Folder"></container>
                             <unitdate>1908-1910</unitdate>
                         </did>
                     </c>
-                    <c id="ref389" level="otherlevel">
+                    <c id="ref389" level="item">
                         <did>
                             <unittitle>Pomfret, 1910.</unittitle>
-                            <container id="cid100181" type="Box" label="Mixed materials"></container>
+                            <container id="cid100181" type="Box" label="Mixed materials">26</container>
                             <container parent="cid100181" type="Folder"></container>
                             <unitdate>1910</unitdate>
                         </did>
                     </c>
-                    <c id="ref390" level="otherlevel">
+                    <c id="ref390" level="item">
                         <did>
                             <unittitle>General Scrapbooks (2)</unittitle>
-                            <container id="cid100180" type="Box" label="Mixed materials">SB</container>
+                            <container id="cid100180" type="Box" label="Mixed materials">25</container>
                             <container parent="cid100180" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref391" level="otherlevel">
+                    <c id="ref391" level="item">
                         <did>
                             <unittitle>Bill Breck Drawings</unittitle>
-                            <container id="cid100179" type="Box" label="Mixed materials"></container>
+                            <container id="cid100179" type="Box" label="Mixed materials">26</container>
                             <container parent="cid100179" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref392" level="otherlevel">
+                    <c id="ref392" level="item">
                         <did>
                             <unittitle>World War I Era Photos [1915]; [2] Panoramic shots of New York cavalry regiment drilling in Poughkeepsie, NY.</unittitle>
-                            <container id="cid100178" type="Box" label="Mixed materials"></container>
+                            <container id="cid100178" type="Box" label="Mixed materials">27</container>
                             <container parent="cid100178" type="Folder"></container>
                             <unitdate>1915</unitdate>
                         </did>
@@ -3154,94 +3160,94 @@
                     <did>
                         <unittitle>Subseries C: Oversized</unittitle>
                     </did>
-                    <c id="ref394" level="otherlevel">
+                    <c id="ref394" level="item">
                         <did>
                             <unittitle>Illustration by Don Carlisle for Redbook article on dogs.</unittitle>
-                            <container id="cid100177" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100177" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100177" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref395" level="otherlevel">
+                    <c id="ref395" level="item">
                         <did>
                             <unittitle>The Pontefract [1950, 1955)</unittitle>
-                            <container id="cid100176" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100176" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100176" type="Folder"></container>
                             <unitdate>1950, 1955</unitdate>
                         </did>
                     </c>
-                    <c id="ref396" level="otherlevel">
+                    <c id="ref396" level="item">
                         <did>
                             <unittitle>Smith, Isobel/Tuberculosis, Life Magazine [Dec. 27, 1954]</unittitle>
-                            <container id="cid100175" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100175" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100175" type="Folder"></container>
                             <unitdate>1954</unitdate>
                         </did>
                     </c>
-                    <c id="ref397" level="otherlevel">
+                    <c id="ref397" level="item">
                         <did>
                             <unittitle>Washington Square Journal [Nov. 2, 1964]</unittitle>
-                            <container id="cid100174" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100174" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100174" type="Folder"></container>
                             <unitdate>1964</unitdate>
                         </did>
                     </c>
-                    <c id="ref398" level="otherlevel">
+                    <c id="ref398" level="item">
                         <did>
                             <unittitle>Articles A-H: 
                                 <lb/>Don't Write Off Wisdom
                                 <lb/>The Great Outdoorsman
                                 <lb/>Have Fathers Changed-
                                 <lb/>How to Guess Your Age by Corey Ford</unittitle>
-                            <container id="cid100173" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100173" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100173" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref399" level="otherlevel">
+                    <c id="ref399" level="item">
                         <did>
                             <unittitle>I-R: I'll Remember it in a Minute by Corey Ford; Pleasant Scandinavia. . .</unittitle>
-                            <container id="cid100172" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100172" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100172" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref400" level="otherlevel">
+                    <c id="ref400" level="item">
                         <did>
                             <unittitle>S-V: Today is Your Day 'Twas the Night Before Christmas</unittitle>
-                            <container id="cid100171" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100171" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100171" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref401" level="otherlevel">
+                    <c id="ref401" level="item">
                         <did>
                             <unittitle>W-Z: Wedding Pests</unittitle>
-                            <container id="cid100170" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100170" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100170" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref402" level="otherlevel">
+                    <c id="ref402" level="item">
                         <did>
                             <unittitle>What Did They Give Walt Whitman for Christmas-</unittitle>
-                            <container id="cid100169" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100169" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100169" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref403" level="otherlevel">
+                    <c id="ref403" level="item">
                         <did>
                             <unittitle>Why Grandpa Can't Read</unittitle>
-                            <container id="cid100168" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100168" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100168" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
-                    <c id="ref404" level="otherlevel">
+                    <c id="ref404" level="item">
                         <did>
                             <unittitle>Newspaper Clippings</unittitle>
-                            <container id="cid100167" type="Box" label="Mixed materials">**</container>
+                            <container id="cid100167" type="Box" label="Mixed materials">29</container>
                             <container parent="cid100167" type="Folder"></container>
                             <unitdate>undated</unitdate>
                         </did>
