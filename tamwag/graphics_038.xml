@@ -22,15 +22,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-09-02T11:38-0400</date>
+                <date>2016-07-08T13:15-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>2014</date>
-                <item>Updated by Maggie Schreiner to reflect updated administrative information</item>
+                <date>July 2016</date>
+                <item>Updated by Maggie Schreiner to reflect updated administrative information in 2014. Updated by Andrea Kutsenkow to reflect rehousing of flat files and updated box numbers</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -45,12 +45,12 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>48.0 boxes</extent>
+                <extent>41.5 linear feet</extent>
+                <extent>in 11 record cartons, 30 oversize flat boxes, 1 manuscript box, and 56 flat-file folders.</extent>
             </physdesc>
             <unitdate normal="1968/1977" type="bulk">Bulk, 1968-1977</unitdate>
             <unitdate normal="1941/2011" type="inclusive">1941-2011</unitdate>
             <langmaterial id="ref637" label="Language of Materials note">Materials are in English and Spanish.</langmaterial>
-            <physloc id="ref680" label="Location note">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
             <abstract id="ref676" label="Abstract">Bill Andrews, born William Grant Andrews on June 2, 1937 in Tucson, Arizona, is a graphic artist, photographer and journalist. After graduating from high school in 1955, he worked as a copy editor, writer, photographer and staff cartoonist at the 
                 <emph render="italic">Arizona Republic</emph> in Phoenix, and then as a a one-man art department at KNME-TV in Albuquerque. In April 1963, shortly after graduating from the University of New Mexico, Andrews moved to New York City, where, he began to draw cartoons for the 
                 <emph render="italic">La Nueva Voz</emph>. Shortly therafter, he was hired as a staff photographer for 
@@ -86,7 +86,8 @@
         <processinfo id="ref639">
             <head>Processing Information note</head>
             <p>Materials were placed in new acid-free folders and boxes. Acidic dust covers were removed from artwork and replaced with buffered interleaving tissue. A scrapbook was unbound and the contents of each page foldered individually.</p>
-            <p>The collection exhibited very little original order. Original artwork seemed to be arranged chronologically, but some materials had also been sorted by size in order to facilitate transportation of the collection from Arizona to New York. As a result, the archivist imposed an order on the collection which reflects Andrews' creative process and the editorial process of the publications and institutions for which he worked. Andrews describes these processes in detail in a talk titled "Editorial Art," which can be found in Box 42, Folder 609 of this collection.</p>
+            <p>The collection exhibited very little original order. Original artwork seemed to be arranged chronologically, but some materials had also been sorted by size in order to facilitate transportation of the collection from Arizona to New York. As a result, the archivist imposed an order on the collection which reflects Andrews' creative process and the editorial process of the publications and institutions for which he worked. Andrews describes these processes in detail in a talk titled "Editorial Art," which can be found in Box 35, Folder 608 of this collection.</p>
+            <p>In 2016, oversized artwork was removed from Boxes 32-37 and rehoused in flat-files. Boxes 38 through 48 were then re-numbered to reflect these changes.</p>
         </processinfo>
         <prefercite id="ref638">
             <head>Preferred Citation</head>
@@ -131,7 +132,7 @@
         <controlaccess>
             <persname rules="dacs" source="local">Andrews, Bill, 1937-</persname>
             <corpname rules="aacr" source="naf">Arizona State University.</corpname>
-            <corpname source="naf">Communist Party of the United States of America.</corpname>
+            <corpname rules="aacr" source="naf">Communist Party of the United States of America.</corpname>
             <corpname source="local">Daily World (New York, N.Y.).</corpname>
             <persname rules="dacs" source="naf">Meany, George, 1894-1980.</persname>
             <persname source="naf">Nixon, Richard M. (Richard Milhous), 1913-1994</persname>
@@ -1341,7 +1342,7 @@
                 <c id="ref606" level="file">
                     <did>
                         <unittitle>Sketch Rolls</unittitle>
-                        <container id="cid21318007" type="Box" label="Mixed materials">43</container>
+                        <container id="cid21318007" type="Box" label="Mixed materials">37</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
@@ -1473,8 +1474,12 @@
                 <c id="ref600" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21318001" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21318001" type="Flat-File" label="Mixed materials">3</container>
+                        <container parent="cid21318001" type="Drawer">15</container>
                         <container parent="cid21318001" type="Folder">398a</container>
+                        <container id="cid23961009" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961009" type="Drawer">12</container>
+                        <container parent="cid23961009" type="Folder">675</container>
                         <unitdate normal="1965/1965">1965</unitdate>
                     </did>
                 </c>
@@ -1570,7 +1575,8 @@
                 <c id="ref366" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304001" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21304001" type="Flat-File" label="Mixed materials">3</container>
+                        <container parent="cid21304001" type="Drawer">15</container>
                         <container parent="cid21304001" type="Folder">399</container>
                         <unitdate normal="1967/1967">Apr 25, 1967</unitdate>
                     </did>
@@ -1578,7 +1584,8 @@
                 <c id="ref367" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304002" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21304002" type="Flat-File" label="Mixed materials">3</container>
+                        <container parent="cid21304002" type="Drawer">15</container>
                         <container parent="cid21304002" type="Folder">400</container>
                         <unitdate normal="1967/1967">Aug 1967</unitdate>
                     </did>
@@ -1722,7 +1729,8 @@
                 <c id="ref368" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304003" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21304003" type="Flat-File" label="Mixed materials">3</container>
+                        <container parent="cid21304003" type="Drawer">15</container>
                         <container parent="cid21304003" type="Folder">401</container>
                         <unitdate normal="1969/1969">1969</unitdate>
                     </did>
@@ -1882,7 +1890,8 @@
                 <c id="ref369" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304004" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21304004" type="Flat-File" label="Mixed materials">3</container>
+                        <container parent="cid21304004" type="Drawer">15</container>
                         <container parent="cid21304004" type="Folder">402</container>
                         <unitdate normal="1972/1972">Sep 13, 1972</unitdate>
                     </did>
@@ -1922,7 +1931,8 @@
                 <c id="ref370" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304005" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21304005" type="Flat-File" label="Mixed materials">3</container>
+                        <container parent="cid21304005" type="Drawer">15</container>
                         <container parent="cid21304005" type="Folder">403</container>
                         <unitdate normal="1973/1973">Jan 1973 - Sep 1973</unitdate>
                     </did>
@@ -2059,7 +2069,8 @@
                 <c id="ref371" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304006" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21304006" type="Flat-File" label="Mixed materials">3</container>
+                        <container parent="cid21304006" type="Drawer">15</container>
                         <container parent="cid21304006" type="Folder">404</container>
                         <unitdate normal="1974/1974">Feb 1974 - Mar 1974</unitdate>
                     </did>
@@ -2075,8 +2086,12 @@
                 <c id="ref372" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304007" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21304007" type="Flat-File" label="Mixed materials">3</container>
+                        <container parent="cid21304007" type="Drawer">15</container>
                         <container parent="cid21304007" type="Folder">405</container>
+                        <container id="cid23961010" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961010" type="Drawer">12</container>
+                        <container parent="cid23961010" type="Folder">675</container>
                         <unitdate normal="1974/1974">May 1974 - Jul 1974</unitdate>
                     </did>
                 </c>
@@ -2091,7 +2106,8 @@
                 <c id="ref373" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304008" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21304008" type="Flat-File" label="Mixed materials">3</container>
+                        <container parent="cid21304008" type="Drawer">15</container>
                         <container parent="cid21304008" type="Folder">406</container>
                         <unitdate normal="1974/1974">Aug 1974 - Sep 1974</unitdate>
                     </did>
@@ -2099,7 +2115,8 @@
                 <c id="ref374" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304009" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21304009" type="Flat-File" label="Mixed materials">3</container>
+                        <container parent="cid21304009" type="Drawer">15</container>
                         <container parent="cid21304009" type="Folder">407</container>
                         <unitdate normal="1974/1974">Oct 1974</unitdate>
                     </did>
@@ -2107,7 +2124,8 @@
                 <c id="ref375" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304010" type="Box" label="Mixed materials">32</container>
+                        <container id="cid21304010" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21304010" type="Drawer">1</container>
                         <container parent="cid21304010" type="Folder">408</container>
                         <unitdate normal="1974/1974">Nov 1974</unitdate>
                     </did>
@@ -2123,7 +2141,8 @@
                 <c id="ref376" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304011" type="Box" label="Mixed materials">33</container>
+                        <container id="cid21304011" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21304011" type="Drawer">1</container>
                         <container parent="cid21304011" type="Folder">409</container>
                         <unitdate normal="1974/1974">Dec 1974</unitdate>
                     </did>
@@ -2204,7 +2223,8 @@
                 <c id="ref377" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304012" type="Box" label="Mixed materials">33</container>
+                        <container id="cid21304012" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21304012" type="Drawer">1</container>
                         <container parent="cid21304012" type="Folder">410</container>
                         <unitdate normal="1975/1975">Jan 1975 - Feb 1975</unitdate>
                     </did>
@@ -2212,7 +2232,8 @@
                 <c id="ref378" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304013" type="Box" label="Mixed materials">33</container>
+                        <container id="cid21304013" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21304013" type="Drawer">1</container>
                         <container parent="cid21304013" type="Folder">411</container>
                         <unitdate normal="1975/1975">Apr 1975</unitdate>
                     </did>
@@ -2220,7 +2241,8 @@
                 <c id="ref379" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304014" type="Box" label="Mixed materials">33</container>
+                        <container id="cid21304014" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21304014" type="Drawer">1</container>
                         <container parent="cid21304014" type="Folder">412</container>
                         <unitdate normal="1975/1975">May 1975</unitdate>
                     </did>
@@ -2228,7 +2250,8 @@
                 <c id="ref380" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304015" type="Box" label="Mixed materials">33</container>
+                        <container id="cid21304015" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21304015" type="Drawer">1</container>
                         <container parent="cid21304015" type="Folder">413</container>
                         <unitdate normal="1975/1975">Jun 1975</unitdate>
                     </did>
@@ -2236,7 +2259,8 @@
                 <c id="ref381" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21304016" type="Box" label="Mixed materials">33</container>
+                        <container id="cid21304016" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21304016" type="Drawer">1</container>
                         <container parent="cid21304016" type="Folder">414</container>
                         <unitdate normal="1975/1975">Aug 1975</unitdate>
                     </did>
@@ -2244,23 +2268,32 @@
                 <c id="ref382" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306001" type="Box" label="Mixed materials">34</container>
+                        <container id="cid21306001" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306001" type="Drawer">1</container>
                         <container parent="cid21306001" type="Folder">415</container>
+                        <container id="cid23961011" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961011" type="Drawer">12</container>
+                        <container parent="cid23961011" type="Folder">675</container>
                         <unitdate normal="1975/1975">Sep 1975</unitdate>
                     </did>
                 </c>
                 <c id="ref383" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306002" type="Box" label="Mixed materials">34</container>
+                        <container id="cid21306002" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306002" type="Drawer">2</container>
                         <container parent="cid21306002" type="Folder">416</container>
+                        <container id="cid23961012" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961012" type="Drawer">12</container>
+                        <container parent="cid23961012" type="Folder">675</container>
                         <unitdate normal="1975/1975">Oct 1975</unitdate>
                     </did>
                 </c>
                 <c id="ref384" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306003" type="Box" label="Mixed materials">34</container>
+                        <container id="cid21306003" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306003" type="Drawer">2</container>
                         <container parent="cid21306003" type="Folder">417</container>
                         <unitdate normal="1975/1975">Nov 1975</unitdate>
                     </did>
@@ -2276,7 +2309,8 @@
                 <c id="ref385" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306004" type="Box" label="Mixed materials">34</container>
+                        <container id="cid21306004" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306004" type="Drawer">2</container>
                         <container parent="cid21306004" type="Folder">418</container>
                         <unitdate normal="1975/1975">Dec 1975</unitdate>
                     </did>
@@ -2309,8 +2343,12 @@
                 <c id="ref386" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306005" type="Box" label="Mixed materials">34</container>
+                        <container id="cid21306005" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306005" type="Drawer">2</container>
                         <container parent="cid21306005" type="Folder">419</container>
+                        <container id="cid23961013" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961013" type="Drawer">12</container>
+                        <container parent="cid23961013" type="Folder">675</container>
                         <unitdate normal="1976/1976">Jan 1976</unitdate>
                     </did>
                 </c>
@@ -2325,15 +2363,20 @@
                 <c id="ref387" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306006" type="Box" label="Mixed materials">34</container>
+                        <container id="cid21306006" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306006" type="Drawer">2</container>
                         <container parent="cid21306006" type="Folder">420</container>
+                        <container id="cid23961014" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961014" type="Drawer">12</container>
+                        <container parent="cid23961014" type="Folder">675</container>
                         <unitdate normal="1976/1976">Feb 1976</unitdate>
                     </did>
                 </c>
                 <c id="ref388" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306007" type="Box" label="Mixed materials">35</container>
+                        <container id="cid21306007" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306007" type="Drawer">2</container>
                         <container parent="cid21306007" type="Folder">421</container>
                         <unitdate normal="1976/1976">Mar 1976</unitdate>
                     </did>
@@ -2349,15 +2392,23 @@
                 <c id="ref389" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306008" type="Box" label="Mixed materials">35</container>
-                        <container parent="cid21306008" type="Folder">422.</container>
+                        <container id="cid23961004" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961004" type="Drawer">12</container>
+                        <container parent="cid23961004" type="Folder">676</container>
+                        <container id="cid21306008" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306008" type="Drawer">2</container>
+                        <container parent="cid21306008" type="Folder">422</container>
                         <unitdate normal="1976/1976">Apr 1976</unitdate>
                     </did>
                 </c>
                 <c id="ref390" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306009" type="Box" label="Mixed materials">35</container>
+                        <container id="cid23961005" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961005" type="Drawer">12</container>
+                        <container parent="cid23961005" type="Folder">676</container>
+                        <container id="cid21306009" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306009" type="Drawer">2</container>
                         <container parent="cid21306009" type="Folder">423</container>
                         <unitdate normal="1976/1976">May 1976</unitdate>
                     </did>
@@ -2365,7 +2416,8 @@
                 <c id="ref391" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306010" type="Box" label="Mixed materials">35</container>
+                        <container id="cid21306010" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306010" type="Drawer">2</container>
                         <container parent="cid21306010" type="Folder">424</container>
                         <unitdate normal="1976/1976">Jun 1976</unitdate>
                     </did>
@@ -2373,7 +2425,8 @@
                 <c id="ref392" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306011" type="Box" label="Mixed materials">35</container>
+                        <container id="cid21306011" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306011" type="Drawer">2</container>
                         <container parent="cid21306011" type="Folder">425</container>
                         <unitdate normal="1976/1976">Jul 1976</unitdate>
                     </did>
@@ -2389,7 +2442,8 @@
                 <c id="ref393" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306012" type="Box" label="Mixed materials">35</container>
+                        <container id="cid21306012" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306012" type="Drawer">3</container>
                         <container parent="cid21306012" type="Folder">426</container>
                         <unitdate normal="1976/1976">Aug 1976</unitdate>
                     </did>
@@ -2405,7 +2459,8 @@
                 <c id="ref394" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306013" type="Box" label="Mixed materials">35</container>
+                        <container id="cid21306013" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306013" type="Drawer">3</container>
                         <container parent="cid21306013" type="Folder">427</container>
                         <unitdate normal="1976/1976">Sep 1976</unitdate>
                     </did>
@@ -2413,8 +2468,9 @@
                 <c id="ref396" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306014" type="Box" label="Mixed materials">35</container>
-                        <container parent="cid21306014" type="Folder">427</container>
+                        <container id="cid21306014" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid21306014" type="Drawer">12</container>
+                        <container parent="cid21306014" type="Folder">676</container>
                         <unitdate normal="1976/1976">Oct 8, 1976</unitdate>
                     </did>
                 </c>
@@ -2437,7 +2493,8 @@
                 <c id="ref397" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306015" type="Box" label="Mixed materials">35</container>
+                        <container id="cid21306015" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306015" type="Drawer">3</container>
                         <container parent="cid21306015" type="Folder">428</container>
                         <unitdate normal="1976/1976">Dec 16, 1976</unitdate>
                     </did>
@@ -2477,7 +2534,11 @@
                 <c id="ref398" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306016" type="Box" label="Mixed materials">36</container>
+                        <container id="cid23961006" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961006" type="Drawer">12</container>
+                        <container parent="cid23961006" type="Folder">676</container>
+                        <container id="cid21306016" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306016" type="Drawer">3</container>
                         <container parent="cid21306016" type="Folder">429</container>
                         <unitdate normal="1977/1977">Jan 1977 - Mar 1977</unitdate>
                     </did>
@@ -2509,7 +2570,11 @@
                 <c id="ref399" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306017" type="Box" label="Mixed materials">36</container>
+                        <container id="cid23961007" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961007" type="Drawer">12</container>
+                        <container parent="cid23961007" type="Folder">676</container>
+                        <container id="cid21306017" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306017" type="Drawer">3</container>
                         <container parent="cid21306017" type="Folder">430</container>
                         <unitdate normal="1977/1977">Apr 1977 - May 1977</unitdate>
                     </did>
@@ -2533,8 +2598,12 @@
                 <c id="ref400" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306018" type="Box" label="Mixed materials">36</container>
+                        <container id="cid21306018" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306018" type="Drawer">3</container>
                         <container parent="cid21306018" type="Folder">431</container>
+                        <container id="cid23961008" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23961008" type="Drawer">12</container>
+                        <container parent="cid23961008" type="Folder">676</container>
                         <unitdate normal="1977/1977">Jun 1977</unitdate>
                     </did>
                 </c>
@@ -2549,7 +2618,8 @@
                 <c id="ref401" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306019" type="Box" label="Mixed materials">36</container>
+                        <container id="cid21306019" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306019" type="Drawer">3</container>
                         <container parent="cid21306019" type="Folder">432</container>
                         <unitdate normal="1977/1977">Jul 1977</unitdate>
                     </did>
@@ -2565,7 +2635,11 @@
                 <c id="ref402" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306020" type="Box" label="Mixed materials">36</container>
+                        <container id="cid23960001" type="Flat-File" label="Mixed materials">1</container>
+                        <container parent="cid23960001" type="Drawer">12</container>
+                        <container parent="cid23960001" type="Folder">676</container>
+                        <container id="cid21306020" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306020" type="Drawer">3</container>
                         <container parent="cid21306020" type="Folder">433</container>
                         <unitdate normal="1977/1977">Aug 1977</unitdate>
                     </did>
@@ -2589,7 +2663,8 @@
                 <c id="ref403" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306021" type="Box" label="Mixed materials">36</container>
+                        <container id="cid21306021" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306021" type="Drawer">3</container>
                         <container parent="cid21306021" type="Folder">434</container>
                         <unitdate normal="1977/1977">Sep 1977 - Oct 1977</unitdate>
                     </did>
@@ -2758,7 +2833,8 @@
                 <c id="ref404" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21306022" type="Box" label="Mixed materials">36</container>
+                        <container id="cid21306022" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21306022" type="Drawer">3</container>
                         <container parent="cid21306022" type="Folder">435</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -2766,7 +2842,7 @@
                 <c id="ref656" level="file">
                     <did>
                         <unittitle>Finished Artwork</unittitle>
-                        <container id="cid21335006" type="Drawer" label="Mixed materials">1</container>
+                        <container id="cid21335006" type="Flat-File" label="Mixed materials">1</container>
                         <container parent="cid21335006" type="Drawer">11</container>
                         <container parent="cid21335006" type="Folder">658</container>
                         <unitdate>undated</unitdate>
@@ -3029,10 +3105,20 @@
                             <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
                         </did>
                     </c>
+                    <c id="ref682" level="file">
+                        <did>
+                            <unittitle>The Optic Nerve</unittitle>
+                            <container id="cid23961003" type="Flat-File" label="Mixed materials">7</container>
+                            <container parent="cid23961003" type="Drawer">14</container>
+                            <container parent="cid23961003" type="Folder">436</container>
+                            <unitdate normal="1974/1974">Jan 1974 - Dec 1974</unitdate>
+                        </did>
+                    </c>
                     <c id="ref406" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306023" type="Box" label="Mixed materials">36</container>
+                            <container id="cid21306023" type="Flat-File" label="Mixed materials">7</container>
+                            <container parent="cid21306023" type="Drawer">14</container>
                             <container parent="cid21306023" type="Folder">437</container>
                             <unitdate normal="1975/1975">Jan 1975 - Sep 1975</unitdate>
                         </did>
@@ -3040,7 +3126,8 @@
                     <c id="ref407" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306024" type="Box" label="Mixed materials">36</container>
+                            <container id="cid21306024" type="Flat-File" label="Mixed materials">4</container>
+                            <container parent="cid21306024" type="Drawer">4</container>
                             <container parent="cid21306024" type="Folder">438</container>
                             <unitdate normal="1975/1975">Oct 1975 - Dec 1975</unitdate>
                         </did>
@@ -3146,7 +3233,8 @@
                     <c id="ref408" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306044" type="Box" label="Mixed materials">37</container>
+                            <container id="cid21306044" type="Flat-File" label="Mixed materials">4</container>
+                            <container parent="cid21306044" type="Drawer">4</container>
                             <container parent="cid21306044" type="Folder">439</container>
                             <unitdate normal="1976/1976">1976</unitdate>
                         </did>
@@ -3154,7 +3242,8 @@
                     <c id="ref409" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306045" type="Box" label="Mixed materials">37</container>
+                            <container id="cid21306045" type="Flat-File" label="Mixed materials">4</container>
+                            <container parent="cid21306045" type="Drawer">4</container>
                             <container parent="cid21306045" type="Folder">440</container>
                             <unitdate normal="1977/1977">Jan 1977 - May 1977</unitdate>
                         </did>
@@ -3223,16 +3312,24 @@
                     <c id="ref410" level="file">
                         <did>
                             <unittitle>The World at Weakend</unittitle>
-                            <container id="cid21306046" type="Box" label="Mixed materials">37</container>
-                            <container parent="cid21306046" type="Folder">441</container>
+                            <container id="cid23961001" type="Flat-File" label="Mixed materials">4</container>
+                            <container parent="cid23961001" type="Drawer">4</container>
+                            <container parent="cid23961001" type="Folder">441.2</container>
+                            <container id="cid21306046" type="Flat-File" label="Mixed materials">4</container>
+                            <container parent="cid21306046" type="Drawer">4</container>
+                            <container parent="cid21306046" type="Folder">441.1</container>
                             <unitdate normal="1974/1974">Jun 1974 - Dec 1974</unitdate>
                         </did>
                     </c>
                     <c id="ref411" level="file">
                         <did>
                             <unittitle>The World at Weakend</unittitle>
-                            <container id="cid21306047" type="Box" label="Mixed materials">37</container>
-                            <container parent="cid21306047" type="Folder">442</container>
+                            <container id="cid23961002" type="Flat-File" label="Mixed materials">4</container>
+                            <container parent="cid23961002" type="Drawer">4</container>
+                            <container parent="cid23961002" type="Folder">442.2</container>
+                            <container id="cid21306047" type="Flat-File" label="Mixed materials">4</container>
+                            <container parent="cid21306047" type="Drawer">4</container>
+                            <container parent="cid21306047" type="Folder">442.1</container>
                             <unitdate normal="1975/1975">Jan 1975 - Oct 1975</unitdate>
                         </did>
                     </c>
@@ -3317,7 +3414,7 @@
                 <c id="ref416" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306025" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306025" type="Box" label="Mixed materials">4</container>
                         <container parent="cid21306025" type="Folder">443</container>
                         <unitdate normal="1968/1968">1968</unitdate>
                     </did>
@@ -3325,7 +3422,7 @@
                 <c id="ref417" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306026" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306026" type="Box" label="Mixed materials">4</container>
                         <container parent="cid21306026" type="Folder">444</container>
                         <unitdate normal="1969/1969">1969</unitdate>
                     </did>
@@ -3333,7 +3430,7 @@
                 <c id="ref418" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306027" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306027" type="Box" label="Mixed materials">4</container>
                         <container parent="cid21306027" type="Folder">445</container>
                         <unitdate normal="1970/1970">1970</unitdate>
                     </did>
@@ -3341,7 +3438,7 @@
                 <c id="ref419" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306028" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306028" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306028" type="Folder">446</container>
                         <unitdate normal="1971/1971">Jan 1971 - Jun 1971</unitdate>
                     </did>
@@ -3349,7 +3446,7 @@
                 <c id="ref420" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306029" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306029" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306029" type="Folder">447</container>
                         <unitdate normal="1971/1971">Jul 1971 - Dec 1971</unitdate>
                     </did>
@@ -3365,7 +3462,7 @@
                 <c id="ref421" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306030" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306030" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306030" type="Folder">448</container>
                         <unitdate normal="1972/1972">Jan 1972 - Mar 1972</unitdate>
                     </did>
@@ -3373,7 +3470,7 @@
                 <c id="ref422" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306031" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306031" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306031" type="Folder">449</container>
                         <unitdate normal="1972/1972">Apr 1972 - Jun 1972</unitdate>
                     </did>
@@ -3381,7 +3478,7 @@
                 <c id="ref423" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306032" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306032" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306032" type="Folder">450</container>
                         <unitdate normal="1972/1972">Jul 1972 - Sep 1972</unitdate>
                     </did>
@@ -3389,7 +3486,7 @@
                 <c id="ref424" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306033" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306033" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306033" type="Folder">451</container>
                         <unitdate normal="1972/1972">Oct 1972 - Dec 1972</unitdate>
                     </did>
@@ -3397,7 +3494,7 @@
                 <c id="ref425" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306034" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306034" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306034" type="Folder">452</container>
                         <unitdate normal="1973/1973">Jan 1973 - Mar 1973</unitdate>
                     </did>
@@ -3405,7 +3502,7 @@
                 <c id="ref426" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306035" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306035" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306035" type="Folder">453</container>
                         <unitdate normal="1973/1973">Apr 1973 - Jun 1973</unitdate>
                     </did>
@@ -3413,7 +3510,7 @@
                 <c id="ref427" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306036" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306036" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306036" type="Folder">454</container>
                         <unitdate normal="1973/1973">Jul 1973 - Sep 1973</unitdate>
                     </did>
@@ -3421,7 +3518,7 @@
                 <c id="ref428" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306037" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306037" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306037" type="Folder">455</container>
                         <unitdate normal="1973/1973">Oct 1973 - Dec 1973</unitdate>
                     </did>
@@ -3437,7 +3534,7 @@
                 <c id="ref429" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306038" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306038" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306038" type="Folder">456</container>
                         <unitdate normal="1974/1974">Jan 1974 - Mar 1974</unitdate>
                     </did>
@@ -3445,7 +3542,7 @@
                 <c id="ref430" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306039" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306039" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306039" type="Folder">457</container>
                         <unitdate normal="1974/1974">Apr 1974 - Jun 1974</unitdate>
                     </did>
@@ -3453,7 +3550,7 @@
                 <c id="ref431" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306040" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306040" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306040" type="Folder">458</container>
                         <unitdate normal="1974/1974">Jul 1974 - Aug 1974</unitdate>
                     </did>
@@ -3461,7 +3558,7 @@
                 <c id="ref432" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306041" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306041" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306041" type="Folder">459</container>
                         <unitdate normal="1974/1974">Sep 1974 - Oct 1974</unitdate>
                     </did>
@@ -3469,7 +3566,7 @@
                 <c id="ref433" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306042" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306042" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306042" type="Folder">460</container>
                         <unitdate normal="1974/1974">Nov 1974 - Dec 1974</unitdate>
                     </did>
@@ -3485,7 +3582,7 @@
                 <c id="ref434" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306043" type="Box" label="Mixed materials">38</container>
+                        <container id="cid21306043" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306043" type="Folder">461</container>
                         <unitdate normal="1975/1975">Jan 1975 - Feb 1975</unitdate>
                     </did>
@@ -3493,7 +3590,7 @@
                 <c id="ref435" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306048" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306048" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306048" type="Folder">462</container>
                         <unitdate normal="1975/1975">Apr 1975 - Jun 1975</unitdate>
                     </did>
@@ -3501,7 +3598,7 @@
                 <c id="ref436" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306049" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306049" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306049" type="Folder">463</container>
                         <unitdate normal="1975/1975">Aug 1975 - Oct 1975</unitdate>
                     </did>
@@ -3509,7 +3606,7 @@
                 <c id="ref437" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306050" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306050" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306050" type="Folder">464</container>
                         <unitdate normal="1975/1975">Sep 1975 - Dec 1975</unitdate>
                     </did>
@@ -3525,7 +3622,7 @@
                 <c id="ref438" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306051" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306051" type="Box" label="Mixed materials">32</container>
                         <container parent="cid21306051" type="Folder">465</container>
                         <unitdate normal="1976/1976">Jan 1976 - Feb 1976</unitdate>
                     </did>
@@ -3533,7 +3630,7 @@
                 <c id="ref439" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306052" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306052" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306052" type="Folder">466</container>
                         <unitdate normal="1976/1976">Mar 1976 - Apr 1976</unitdate>
                     </did>
@@ -3541,7 +3638,7 @@
                 <c id="ref440" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306053" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306053" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306053" type="Folder">467</container>
                         <unitdate normal="1976/1976">May 1976 - Jun 1976</unitdate>
                     </did>
@@ -3549,7 +3646,7 @@
                 <c id="ref441" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306054" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306054" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306054" type="Folder">468</container>
                         <unitdate normal="1976/1976">Jul 1976 - Aug 1976</unitdate>
                     </did>
@@ -3557,7 +3654,7 @@
                 <c id="ref442" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306055" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306055" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306055" type="Folder">469</container>
                         <unitdate normal="1976/1976">Sep 1976</unitdate>
                     </did>
@@ -3565,7 +3662,7 @@
                 <c id="ref443" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306056" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306056" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306056" type="Folder">470</container>
                         <unitdate normal="1976/1976">Oct 1976 - Dec 1976</unitdate>
                     </did>
@@ -3581,7 +3678,7 @@
                 <c id="ref444" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306057" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306057" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306057" type="Folder">471</container>
                         <unitdate normal="1977/1977">Jan 1977 - Feb 1977</unitdate>
                     </did>
@@ -3589,7 +3686,7 @@
                 <c id="ref445" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306058" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306058" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306058" type="Folder">472</container>
                         <unitdate normal="1977/1977">Mar 1977 - Apr 1977</unitdate>
                     </did>
@@ -3597,7 +3694,7 @@
                 <c id="ref446" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306059" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306059" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306059" type="Folder">473</container>
                         <unitdate normal="1977/1977">May 1977 - Jun 1977</unitdate>
                     </did>
@@ -3605,7 +3702,7 @@
                 <c id="ref447" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306060" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306060" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306060" type="Folder">474</container>
                         <unitdate normal="1977/1977">Jul 1977 - Aug 1977</unitdate>
                     </did>
@@ -3613,7 +3710,7 @@
                 <c id="ref448" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306061" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306061" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306061" type="Folder">475</container>
                         <unitdate normal="1977/1977">Sep 1977 - Oct 1977</unitdate>
                     </did>
@@ -3637,7 +3734,7 @@
                 <c id="ref449" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306062" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306062" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306062" type="Folder">476</container>
                         <unitdate normal="1980/1980">1980</unitdate>
                     </did>
@@ -3645,7 +3742,7 @@
                 <c id="ref450" level="file">
                     <did>
                         <unittitle>Pre Press Prints</unittitle>
-                        <container id="cid21306063" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306063" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306063" type="Folder">477</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -3669,7 +3766,7 @@
                 <c id="ref451" level="file">
                     <did>
                         <unittitle>Pre Press Prints: Unusable</unittitle>
-                        <container id="cid21306064" type="Box" label="Mixed materials">39</container>
+                        <container id="cid21306064" type="Box" label="Mixed materials">33</container>
                         <container parent="cid21306064" type="Folder">478</container>
                         <unitdate normal="1977/1977">1977</unitdate>
                     </did>
@@ -3693,288 +3790,288 @@
                     <c id="ref453" level="file">
                         <did>
                             <unittitle>Is This the Way it Was?</unittitle>
-                            <container id="cid21306065" type="Box" label="Mixed materials">39</container>
-                            <container parent="cid21306065" type="Folder">480</container>
+                            <container id="cid21306065" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306065" type="Folder">479</container>
                             <unitdate normal="1968/1968">1968</unitdate>
                         </did>
                     </c>
                     <c id="ref454" level="file">
                         <did>
                             <unittitle>Is This the Way it Was?</unittitle>
-                            <container id="cid21306066" type="Box" label="Mixed materials">39</container>
-                            <container parent="cid21306066" type="Folder">481</container>
+                            <container id="cid21306066" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306066" type="Folder">480</container>
                             <unitdate normal="1969/1969">Jan 1969 - Jun 1969</unitdate>
                         </did>
                     </c>
                     <c id="ref455" level="file">
                         <did>
                             <unittitle>Is This the Way it Was?</unittitle>
-                            <container id="cid21306067" type="Box" label="Mixed materials">39</container>
-                            <container parent="cid21306067" type="Folder">482</container>
+                            <container id="cid21306067" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306067" type="Folder">481</container>
                             <unitdate normal="1969/1969">Jul 1969 - Dec 1969</unitdate>
                         </did>
                     </c>
                     <c id="ref456" level="file">
                         <did>
                             <unittitle>Is This the Way it Was?</unittitle>
-                            <container id="cid21306068" type="Box" label="Mixed materials">39</container>
-                            <container parent="cid21306068" type="Folder">483</container>
+                            <container id="cid21306068" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306068" type="Folder">482</container>
                             <unitdate normal="1970/1970">Jan 1970 - Jun 1970</unitdate>
                         </did>
                     </c>
                     <c id="ref457" level="file">
                         <did>
                             <unittitle>Is This the Way it Was?</unittitle>
-                            <container id="cid21306069" type="Box" label="Mixed materials">39</container>
-                            <container parent="cid21306069" type="Folder">484</container>
+                            <container id="cid21306069" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306069" type="Folder">483</container>
                             <unitdate normal="1970/1970">Jul 1970 - Dec 1970</unitdate>
                         </did>
                     </c>
                     <c id="ref458" level="file">
                         <did>
                             <unittitle>Is This the Way it Was?</unittitle>
-                            <container id="cid21306070" type="Box" label="Mixed materials">39</container>
-                            <container parent="cid21306070" type="Folder">485</container>
+                            <container id="cid21306070" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306070" type="Folder">484</container>
                             <unitdate normal="1971/1971">1971</unitdate>
                         </did>
                     </c>
                     <c id="ref459" level="file">
                         <did>
                             <unittitle>Is This the Way it Was?</unittitle>
-                            <container id="cid21306071" type="Box" label="Mixed materials">39</container>
-                            <container parent="cid21306071" type="Folder">486</container>
+                            <container id="cid21306071" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306071" type="Folder">485</container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
                     <c id="ref460" level="file">
                         <did>
                             <unittitle>Nix!</unittitle>
-                            <container id="cid21306072" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306072" type="Folder">487</container>
+                            <container id="cid21306072" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306072" type="Folder">486</container>
                             <unitdate normal="1970/1970">Jun 1970 - Dec 1970</unitdate>
                         </did>
                     </c>
                     <c id="ref461" level="file">
                         <did>
                             <unittitle>Nix!</unittitle>
-                            <container id="cid21306073" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306073" type="Folder">488</container>
+                            <container id="cid21306073" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306073" type="Folder">487</container>
                             <unitdate normal="1971/1971">Jan 1971 - Jun 1971</unitdate>
                         </did>
                     </c>
                     <c id="ref462" level="file">
                         <did>
                             <unittitle>Nix!</unittitle>
-                            <container id="cid21306074" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306074" type="Folder">489</container>
+                            <container id="cid21306074" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306074" type="Folder">488</container>
                             <unitdate normal="1971/1971">Jul 1971 - Dec 1971</unitdate>
                         </did>
                     </c>
                     <c id="ref463" level="file">
                         <did>
                             <unittitle>Nix!</unittitle>
-                            <container id="cid21306075" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306075" type="Folder">490</container>
+                            <container id="cid21306075" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306075" type="Folder">489</container>
                             <unitdate normal="1972/1972">Jan 1972 - Jun 1972</unitdate>
                         </did>
                     </c>
                     <c id="ref464" level="file">
                         <did>
                             <unittitle>Nix!</unittitle>
-                            <container id="cid21306076" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306076" type="Folder">491</container>
+                            <container id="cid21306076" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306076" type="Folder">490</container>
                             <unitdate normal="1972/1972">Jul 1972 - Dec 1972</unitdate>
                         </did>
                     </c>
                     <c id="ref465" level="file">
                         <did>
                             <unittitle>Nix!</unittitle>
-                            <container id="cid21306077" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306077" type="Folder">492</container>
+                            <container id="cid21306077" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306077" type="Folder">491</container>
                             <unitdate normal="1973/1973">Jan 1973</unitdate>
                         </did>
                     </c>
                     <c id="ref466" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306078" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306078" type="Folder">493</container>
+                            <container id="cid21306078" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306078" type="Folder">492</container>
                             <unitdate normal="1973/1973">1973</unitdate>
                         </did>
                     </c>
                     <c id="ref467" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306079" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306079" type="Folder">494</container>
+                            <container id="cid21306079" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306079" type="Folder">493</container>
                             <unitdate normal="1974/1974">Jan 1974 - Jun 1974</unitdate>
                         </did>
                     </c>
                     <c id="ref468" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306080" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306080" type="Folder">495</container>
+                            <container id="cid21306080" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306080" type="Folder">494</container>
                             <unitdate normal="1974/1974">Sep 1974 - Dec 1974</unitdate>
                         </did>
                     </c>
                     <c id="ref469" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306081" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306081" type="Folder">496</container>
+                            <container id="cid21306081" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306081" type="Folder">495</container>
                             <unitdate normal="1975/1975">Jan 1975</unitdate>
                         </did>
                     </c>
                     <c id="ref470" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306082" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306082" type="Folder">497</container>
+                            <container id="cid21306082" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306082" type="Folder">496</container>
                             <unitdate normal="1975/1975">Apr 1975 - Jun 1975</unitdate>
                         </did>
                     </c>
                     <c id="ref471" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306083" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306083" type="Folder">498</container>
+                            <container id="cid21306083" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306083" type="Folder">497</container>
                             <unitdate normal="1975/1975">Aug 1975 - Dec 1975</unitdate>
                         </did>
                     </c>
                     <c id="ref472" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306084" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306084" type="Folder">499</container>
+                            <container id="cid21306084" type="Box" label="Mixed materials">33</container>
+                            <container parent="cid21306084" type="Folder">498</container>
                             <unitdate normal="1976/1976">Jan 1976 - Apr 1976</unitdate>
                         </did>
                     </c>
                     <c id="ref473" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306085" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306085" type="Folder">500</container>
+                            <container id="cid21306085" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306085" type="Folder">499</container>
                             <unitdate normal="1976/1976">May 1976 - Sep 1976</unitdate>
                         </did>
                     </c>
                     <c id="ref474" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306086" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306086" type="Folder">501</container>
+                            <container id="cid21306086" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306086" type="Folder">500</container>
                             <unitdate normal="1976/1976">Oct 1976 - Dec 1976</unitdate>
                         </did>
                     </c>
                     <c id="ref475" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306087" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306087" type="Folder">502</container>
+                            <container id="cid21306087" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306087" type="Folder">501</container>
                             <unitdate normal="1977/1977">Jan 1977 - Jun 1977</unitdate>
                         </did>
                     </c>
                     <c id="ref476" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306088" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306088" type="Folder">503</container>
+                            <container id="cid21306088" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306088" type="Folder">502</container>
                             <unitdate normal="1977/1977">Jul 1977 - Oct 1977</unitdate>
                         </did>
                     </c>
                     <c id="ref477" level="file">
                         <did>
                             <unittitle>The Optic Nerve</unittitle>
-                            <container id="cid21306089" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306089" type="Folder">504</container>
+                            <container id="cid21306089" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306089" type="Folder">503</container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
                     <c id="ref478" level="file">
                         <did>
                             <unittitle>The World at Weakend</unittitle>
-                            <container id="cid21306090" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306090" type="Folder">505</container>
+                            <container id="cid21306090" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306090" type="Folder">504</container>
                             <unitdate normal="1974/1974">Jan 1974 - Jun 1974</unitdate>
                         </did>
                     </c>
                     <c id="ref479" level="file">
                         <did>
                             <unittitle>The World at Weakend</unittitle>
-                            <container id="cid21306091" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306091" type="Folder">506</container>
+                            <container id="cid21306091" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306091" type="Folder">505</container>
                             <unitdate normal="1974/1974">Aug 1974 - Dec 1974</unitdate>
                         </did>
                     </c>
                     <c id="ref480" level="file">
                         <did>
                             <unittitle>The World at Weakend</unittitle>
-                            <container id="cid21306092" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306092" type="Folder">507</container>
+                            <container id="cid21306092" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306092" type="Folder">506</container>
                             <unitdate normal="1975/1975">Jan 1975 - Feb 1975</unitdate>
                         </did>
                     </c>
                     <c id="ref481" level="file">
                         <did>
                             <unittitle>The World at Weakend</unittitle>
-                            <container id="cid21306093" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306093" type="Folder">508</container>
+                            <container id="cid21306093" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306093" type="Folder">507</container>
                             <unitdate normal="1975/1975">Apr 1975 - Jun 1975</unitdate>
                         </did>
                     </c>
                     <c id="ref482" level="file">
                         <did>
                             <unittitle>The World at Weakend</unittitle>
-                            <container id="cid21306094" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306094" type="Folder">509</container>
+                            <container id="cid21306094" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306094" type="Folder">508</container>
                             <unitdate normal="1975/1975">Aug 1975 - Dec 1975</unitdate>
                         </did>
                     </c>
                     <c id="ref483" level="file">
                         <did>
                             <unittitle>Which Way Wuzzit?</unittitle>
-                            <container id="cid21306095" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306095" type="Folder">510</container>
+                            <container id="cid21306095" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306095" type="Folder">509</container>
                             <unitdate normal="1971/1971">1971</unitdate>
                         </did>
                     </c>
                     <c id="ref484" level="file">
                         <did>
                             <unittitle>Which Way Wuzzit?</unittitle>
-                            <container id="cid21306096" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306096" type="Folder">511</container>
+                            <container id="cid21306096" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306096" type="Folder">510</container>
                             <unitdate normal="1972/1972">Jan 1972 - Jun 1972</unitdate>
                         </did>
                     </c>
                     <c id="ref485" level="file">
                         <did>
                             <unittitle>Which Way Wuzzit?</unittitle>
-                            <container id="cid21306097" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306097" type="Folder">512</container>
+                            <container id="cid21306097" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306097" type="Folder">511</container>
                             <unitdate normal="1972/1972">Jul 1972 - Dec 1972</unitdate>
                         </did>
                     </c>
                     <c id="ref486" level="file">
                         <did>
                             <unittitle>Which Way Wuzzit?</unittitle>
-                            <container id="cid21306098" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306098" type="Folder">513</container>
+                            <container id="cid21306098" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306098" type="Folder">512</container>
                             <unitdate normal="1973/1973">1973</unitdate>
                         </did>
                     </c>
                     <c id="ref488" level="file">
                         <did>
                             <unittitle>Which Way Wuzzit?</unittitle>
-                            <container id="cid21306099" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306099" type="Folder">514</container>
+                            <container id="cid21306099" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306099" type="Folder">513</container>
                             <unitdate normal="1974/1974">Jan 1974</unitdate>
                         </did>
                     </c>
                     <c id="ref487" level="file">
                         <did>
                             <unittitle>Which Way Wuzzit?</unittitle>
-                            <container id="cid21306100" type="Box" label="Mixed materials">40</container>
-                            <container parent="cid21306100" type="Folder">515</container>
+                            <container id="cid21306100" type="Box" label="Mixed materials">34</container>
+                            <container parent="cid21306100" type="Folder">514</container>
                             <unitdate>undated</unitdate>
                         </did>
                     </c>
@@ -3992,8 +4089,8 @@
                 <c id="ref499" level="file">
                     <did>
                         <unittitle>American Institute for Marxist Studies</unittitle>
-                        <container id="cid21313001" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313001" type="Folder">526</container>
+                        <container id="cid21313001" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313001" type="Folder">525</container>
                         <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
                     </did>
                 </c>
@@ -4001,112 +4098,112 @@
                     <did>
                         <unittitle>Arizona Educationa Media Association: 
                             <emph render="italic">Arizona Media</emph> (magazine)</unittitle>
-                        <container id="cid21313002" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313002" type="Folder">527</container>
+                        <container id="cid21313002" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313002" type="Folder">526</container>
                         <unitdate normal="1980/1980">1980</unitdate>
                     </did>
                 </c>
                 <c id="ref501" level="file">
                     <did>
                         <unittitle>Arizona State University: Brochures and Pamphlets</unittitle>
-                        <container id="cid21313003" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313003" type="Folder">528</container>
+                        <container id="cid21313003" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313003" type="Folder">527</container>
                         <unitdate normal="1982/1985" type="inclusive">1982-1985, undated</unitdate>
                     </did>
                 </c>
                 <c id="ref502" level="file">
                     <did>
                         <unittitle>Arizona State University: Brochures and Pamphlets</unittitle>
-                        <container id="cid21313004" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313004" type="Folder">529</container>
+                        <container id="cid21313004" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313004" type="Folder">528</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref503" level="file">
                     <did>
                         <unittitle>Arizona State University: Flyers and Leaflets</unittitle>
-                        <container id="cid21313005" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313005" type="Folder">530</container>
+                        <container id="cid21313005" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313005" type="Folder">529</container>
                         <unitdate normal="1984/1985" type="inclusive">1984-1985, undated</unitdate>
                     </did>
                 </c>
                 <c id="ref504" level="file">
                     <did>
                         <unittitle>Arizona State University: Graphics Department Annual Report</unittitle>
-                        <container id="cid21313006" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313006" type="Folder">531</container>
+                        <container id="cid21313006" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313006" type="Folder">530</container>
                         <unitdate normal="1978/1978">Jun 2, 1978</unitdate>
                     </did>
                 </c>
                 <c id="ref505" level="file">
                     <did>
                         <unittitle>Arizona State University: Periodicals</unittitle>
-                        <container id="cid21313007" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313007" type="Folder">532</container>
+                        <container id="cid21313007" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313007" type="Folder">531</container>
                         <unitdate normal="1979/1984" type="inclusive">1979, 1984</unitdate>
                     </did>
                 </c>
                 <c id="ref506" level="file">
                     <did>
                         <unittitle>Artists United</unittitle>
-                        <container id="cid21313008" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313008" type="Folder">533</container>
+                        <container id="cid21313008" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313008" type="Folder">532</container>
                         <unitdate normal="1970/1970">1970, undated</unitdate>
                     </did>
                 </c>
                 <c id="ref507" level="file">
                     <did>
                         <unittitle>Assembly of Unrepresented People (Washington, D.C.)</unittitle>
-                        <container id="cid21313009" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313009" type="Folder">534</container>
+                        <container id="cid21313009" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313009" type="Folder">533</container>
                         <unitdate normal="1965/1965">Aug 1965</unitdate>
                     </did>
                 </c>
                 <c id="ref508" level="file">
                     <did>
                         <unittitle>Association of American Editorial Cartoonists</unittitle>
-                        <container id="cid21313010" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313010" type="Folder">535</container>
+                        <container id="cid21313010" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313010" type="Folder">534</container>
                         <unitdate normal="1972/1977" type="inclusive">1972-1977</unitdate>
                     </did>
                 </c>
                 <c id="ref509" level="file">
                     <did>
                         <unittitle>Biographical</unittitle>
-                        <container id="cid21313011" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313011" type="Folder">536</container>
+                        <container id="cid21313011" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313011" type="Folder">535</container>
                         <unitdate normal="1969/2009" type="inclusive">1969-2009</unitdate>
                     </did>
                 </c>
                 <c id="ref510" level="file">
                     <did>
                         <unittitle>Cartoon Contests and Awards</unittitle>
-                        <container id="cid21313012" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313012" type="Folder">537</container>
+                        <container id="cid21313012" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313012" type="Folder">536</container>
                         <unitdate normal="1972/1977" type="inclusive">1972-1977</unitdate>
                     </did>
                 </c>
                 <c id="ref511" level="file">
                     <did>
                         <unittitle>Central Arizona Film Cooperative: Newsletters</unittitle>
-                        <container id="cid21313013" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313013" type="Folder">538</container>
+                        <container id="cid21313013" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313013" type="Folder">537</container>
                         <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
                     </did>
                 </c>
                 <c id="ref512" level="file">
                     <did>
                         <unittitle>Citizen's Committee for Constitutional Liberties</unittitle>
-                        <container id="cid21313014" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313014" type="Folder">539</container>
+                        <container id="cid21313014" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313014" type="Folder">538</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref513" level="file">
                     <did>
                         <unittitle>Clergymen's Emergency Committee for Vietnam</unittitle>
-                        <container id="cid21313015" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313015" type="Folder">540</container>
+                        <container id="cid21313015" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313015" type="Folder">539</container>
                         <unitdate normal="1965/1965">1965</unitdate>
                     </did>
                 </c>
@@ -4129,80 +4226,80 @@
                 <c id="ref514" level="file">
                     <did>
                         <unittitle>Clippings</unittitle>
-                        <container id="cid21313016" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313016" type="Folder">541</container>
+                        <container id="cid21313016" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313016" type="Folder">540</container>
                         <unitdate normal="1965/1975" type="inclusive">1965-1975</unitdate>
                     </did>
                 </c>
                 <c id="ref515" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Bill Day</unittitle>
-                        <container id="cid21313017" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313017" type="Folder">542</container>
+                        <container id="cid21313017" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313017" type="Folder">541</container>
                         <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
                     </did>
                 </c>
                 <c id="ref516" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Dave Simpson</unittitle>
-                        <container id="cid21313018" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313018" type="Folder">543</container>
+                        <container id="cid21313018" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313018" type="Folder">542</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref517" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Don Wright</unittitle>
-                        <container id="cid21313019" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313019" type="Folder">544</container>
+                        <container id="cid21313019" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313019" type="Folder">543</container>
                         <unitdate normal="1972/1976" type="inclusive">1972-1976</unitdate>
                     </did>
                 </c>
                 <c id="ref518" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Doug Marlette</unittitle>
-                        <container id="cid21313020" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313020" type="Folder">545</container>
+                        <container id="cid21313020" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313020" type="Folder">544</container>
                         <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
                     </did>
                 </c>
                 <c id="ref519" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Gee Tee Maxwell</unittitle>
-                        <container id="cid21313021" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313021" type="Folder">546</container>
+                        <container id="cid21313021" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313021" type="Folder">545</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref520" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Jeff MacNelly (I)</unittitle>
-                        <container id="cid21313022" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313022" type="Folder">547</container>
+                        <container id="cid21313022" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313022" type="Folder">546</container>
                         <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
                     </did>
                 </c>
                 <c id="ref521" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Jeff MacNelly (II)</unittitle>
-                        <container id="cid21313023" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313023" type="Folder">548</container>
+                        <container id="cid21313023" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313023" type="Folder">547</container>
                         <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
                     </did>
                 </c>
                 <c id="ref522" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Ollie Harrington</unittitle>
-                        <container id="cid21313024" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313024" type="Folder">549</container>
+                        <container id="cid21313024" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313024" type="Folder">548</container>
                         <unitdate normal="1977/1977">1977</unitdate>
                     </did>
                 </c>
                 <c id="ref523" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Others</unittitle>
-                        <container id="cid21313025" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313025" type="Folder">550</container>
+                        <container id="cid21313025" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313025" type="Folder">549</container>
                         <unitdate normal="1966/1976" type="inclusive">1966, 1971-1976, undated</unitdate>
                     </did>
                 </c>
@@ -4217,143 +4314,144 @@
                 <c id="ref524" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Pat Oliphant</unittitle>
-                        <container id="cid21313026" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313026" type="Folder">551</container>
+                        <container id="cid21313026" type="Box" label="Mixed materials">34</container>
+                        <container parent="cid21313026" type="Folder">550</container>
                         <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
                     </did>
                 </c>
                 <c id="ref525" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Tom Darcy</unittitle>
-                        <container id="cid21313027" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313027" type="Folder">552</container>
+                        <container id="cid21313027" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313027" type="Folder">551</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref526" level="file">
                     <did>
                         <unittitle>Clippings: Cartoons by Tony Auth</unittitle>
-                        <container id="cid21313028" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313028" type="Folder">553</container>
+                        <container id="cid21313028" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313028" type="Folder">552</container>
                         <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
                     </did>
                 </c>
                 <c id="ref527" level="file">
                     <did>
                         <unittitle>Communist Party of the United States of America (CPUSA)</unittitle>
-                        <container id="cid21313029" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313029" type="Folder">554</container>
+                        <container id="cid21313029" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313029" type="Folder">553</container>
                         <unitdate normal="1970/1976" type="inclusive">1970-1976</unitdate>
                     </did>
                 </c>
                 <c id="ref528" level="file">
                     <did>
                         <unittitle>Communist Party of the United States of America (CPUSA): Hall-Tyner Campaign</unittitle>
-                        <container id="cid21313030" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313030" type="Folder">555</container>
+                        <container id="cid21313030" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313030" type="Folder">554</container>
                         <unitdate normal="1972/1972">1972</unitdate>
                     </did>
                 </c>
                 <c id="ref529" level="file">
                     <did>
                         <unittitle>Correspondence: Incoming</unittitle>
-                        <container id="cid21313031" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313031" type="Folder">556</container>
+                        <container id="cid21313031" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313031" type="Folder">555</container>
                         <unitdate normal="1954/1957" type="inclusive">1954-1957</unitdate>
                     </did>
                 </c>
                 <c id="ref530" level="file">
                     <did>
                         <unittitle>Correspondence: Incoming</unittitle>
-                        <container id="cid21313032" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313032" type="Folder">557</container>
+                        <container id="cid21313032" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313032" type="Folder">556</container>
                         <unitdate normal="1963/1967" type="inclusive">1963-1967</unitdate>
                     </did>
                 </c>
                 <c id="ref531" level="file">
                     <did>
                         <unittitle>Correspondence: Incoming</unittitle>
-                        <container id="cid21313033" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313033" type="Folder">558</container>
+                        <container id="cid21313033" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313033" type="Folder">557</container>
                         <unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate>
                     </did>
                 </c>
                 <c id="ref532" level="file">
                     <did>
                         <unittitle>Correspondence: Incoming</unittitle>
-                        <container id="cid21313034" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313034" type="Folder">559</container>
+                        <container id="cid21313034" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313034" type="Folder">558</container>
+                        <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
                     </did>
                 </c>
                 <c id="ref533" level="file">
                     <did>
                         <unittitle>Correspondence: Incoming</unittitle>
-                        <container id="cid21313035" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313035" type="Folder">560</container>
+                        <container id="cid21313035" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313035" type="Folder">559</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref534" level="file">
                     <did>
                         <unittitle>Correspondence: Incoming: Crowell, Van</unittitle>
-                        <container id="cid21313036" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313036" type="Folder">561</container>
+                        <container id="cid21313036" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313036" type="Folder">560</container>
                         <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
                     </did>
                 </c>
                 <c id="ref535" level="file">
                     <did>
                         <unittitle>Correspondence: Incoming: Jacobs, Leo I. (Charles T. Branford Publishing Company)</unittitle>
-                        <container id="cid21313037" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313037" type="Folder">562</container>
+                        <container id="cid21313037" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313037" type="Folder">561</container>
                         <unitdate normal="1954/1954">1954</unitdate>
                     </did>
                 </c>
                 <c id="ref536" level="file">
                     <did>
                         <unittitle>Correspondence: Incoming: Paskow, Al</unittitle>
-                        <container id="cid21313038" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313038" type="Folder">563</container>
+                        <container id="cid21313038" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313038" type="Folder">562</container>
                         <unitdate normal="1954/1957" type="inclusive">1954, 1957</unitdate>
                     </did>
                 </c>
                 <c id="ref537" level="file">
                     <did>
                         <unittitle>Correspondence: Incoming: Richard, T. J.</unittitle>
-                        <container id="cid21313039" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313039" type="Folder">564</container>
+                        <container id="cid21313039" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313039" type="Folder">563</container>
                         <unitdate normal="1954/1957" type="inclusive">1954-1957</unitdate>
                     </did>
                 </c>
                 <c id="ref538" level="file">
                     <did>
                         <unittitle>Correspondence: Outgoing</unittitle>
-                        <container id="cid21313040" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313040" type="Folder">565</container>
+                        <container id="cid21313040" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313040" type="Folder">564</container>
                         <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
                     </did>
                 </c>
                 <c id="ref539" level="file">
                     <did>
                         <unittitle>Correspondence: Outgoing</unittitle>
-                        <container id="cid21313041" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313041" type="Folder">566</container>
+                        <container id="cid21313041" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313041" type="Folder">565</container>
                         <unitdate normal="1963/1968" type="inclusive">1963-1968</unitdate>
                     </did>
                 </c>
                 <c id="ref540" level="file">
                     <did>
                         <unittitle>Correspondence: Outgoing</unittitle>
-                        <container id="cid21313042" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313042" type="Folder">567</container>
+                        <container id="cid21313042" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313042" type="Folder">566</container>
                         <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
                     </did>
                 </c>
                 <c id="ref541" level="file">
                     <did>
                         <unittitle>Current Projects</unittitle>
-                        <container id="cid21313043" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313043" type="Folder">568</container>
+                        <container id="cid21313043" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313043" type="Folder">567</container>
                         <unitdate normal="1975/1976" type="inclusive">1975-1976, undated</unitdate>
                     </did>
                 </c>
@@ -4361,32 +4459,32 @@
                     <did>
                         <unittitle>
                             <emph render="italic">Daily World</emph></unittitle>
-                        <container id="cid21313044" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313044" type="Folder">569</container>
+                        <container id="cid21313044" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313044" type="Folder">568</container>
                         <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
                     </did>
                 </c>
                 <c id="ref543" level="file">
                     <did>
                         <unittitle>Downtown CORE</unittitle>
-                        <container id="cid21313045" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313045" type="Folder">570</container>
+                        <container id="cid21313045" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313045" type="Folder">569</container>
                         <unitdate normal="1965/1965">1965</unitdate>
                     </did>
                 </c>
                 <c id="ref544" level="file">
                     <did>
                         <unittitle>Financial</unittitle>
-                        <container id="cid21313046" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313046" type="Folder">571</container>
+                        <container id="cid21313046" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313046" type="Folder">570</container>
                         <unitdate normal="1965/1974" type="inclusive">1965-1974</unitdate>
                     </did>
                 </c>
                 <c id="ref545" level="file">
                     <did>
                         <unittitle>Fort Hood Three Defense Committee</unittitle>
-                        <container id="cid21313047" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313047" type="Folder">572</container>
+                        <container id="cid21313047" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313047" type="Folder">571</container>
                         <unitdate normal="1966/1966">1966, undated</unitdate>
                     </did>
                 </c>
@@ -4394,80 +4492,80 @@
                     <did>
                         <unittitle>Fred Ellis: 
                             <emph render="italic">Daily World</emph> Tribute</unittitle>
-                        <container id="cid21313048" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313048" type="Folder">573</container>
+                        <container id="cid21313048" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313048" type="Folder">572</container>
                         <unitdate normal="1973/1973">1973</unitdate>
                     </did>
                 </c>
                 <c id="ref547" level="file">
                     <did>
                         <unittitle>Graphic Arts Workshop</unittitle>
-                        <container id="cid21313049" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313049" type="Folder">574</container>
+                        <container id="cid21313049" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313049" type="Folder">573</container>
                         <unitdate normal="1976/1976">Mar 3, 1976</unitdate>
                     </did>
                 </c>
                 <c id="ref548" level="file">
                     <did>
                         <unittitle>House Internal Security Committee</unittitle>
-                        <container id="cid21313050" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313050" type="Folder">575</container>
+                        <container id="cid21313050" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313050" type="Folder">574</container>
                         <unitdate normal="1971/1971">1971</unitdate>
                     </did>
                 </c>
                 <c id="ref549" level="file">
                     <did>
                         <unittitle>Housing</unittitle>
-                        <container id="cid21313051" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313051" type="Folder">576</container>
+                        <container id="cid21313051" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313051" type="Folder">575</container>
                         <unitdate normal="1977/1977">1977</unitdate>
                     </did>
                 </c>
                 <c id="ref550" level="file">
                     <did>
                         <unittitle>International Publishers Associates</unittitle>
-                        <container id="cid21313052" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313052" type="Folder">577</container>
+                        <container id="cid21313052" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313052" type="Folder">576</container>
                         <unitdate normal="1965/1965">1965</unitdate>
                     </did>
                 </c>
                 <c id="ref551" level="file">
                     <did>
                         <unittitle>Landlord</unittitle>
-                        <container id="cid21313053" type="Box" label="Mixed materials">41</container>
-                        <container parent="cid21313053" type="Folder">578</container>
+                        <container id="cid21313053" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313053" type="Folder">577</container>
                         <unitdate normal="1970/1976" type="inclusive">1970-1976</unitdate>
                     </did>
                 </c>
                 <c id="ref552" level="file">
                     <did>
                         <unittitle>Leaflets and Pamphlets</unittitle>
-                        <container id="cid21313054" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313054" type="Folder">579</container>
+                        <container id="cid21313054" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313054" type="Folder">578</container>
                         <unitdate normal="1967/1986" type="inclusive">1967-1986</unitdate>
                     </did>
                 </c>
                 <c id="ref553" level="file">
                     <did>
                         <unittitle>Lower East Side Mobilization for Peace (LEMPA)</unittitle>
-                        <container id="cid21313055" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313055" type="Folder">580</container>
+                        <container id="cid21313055" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313055" type="Folder">579</container>
                         <unitdate normal="1966/1966">1966</unitdate>
                     </did>
                 </c>
                 <c id="ref554" level="file">
                     <did>
                         <unittitle>May Day Demonstrations</unittitle>
-                        <container id="cid21313056" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313056" type="Folder">581</container>
+                        <container id="cid21313056" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313056" type="Folder">580</container>
                         <unitdate normal="1966/1969" type="inclusive">1966, 1969</unitdate>
                     </did>
                 </c>
                 <c id="ref555" level="file">
                     <did>
                         <unittitle>Middle East</unittitle>
-                        <container id="cid21313057" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313057" type="Folder">582</container>
+                        <container id="cid21313057" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313057" type="Folder">581</container>
                         <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
                     </did>
                 </c>
@@ -4475,8 +4573,8 @@
                     <did>
                         <unittitle>
                             <emph render="italic">New World Review</emph> (journal)</unittitle>
-                        <container id="cid21313058" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313058" type="Folder">583</container>
+                        <container id="cid21313058" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313058" type="Folder">582</container>
                         <unitdate normal="1961/1964" type="inclusive">1961-1964</unitdate>
                     </did>
                 </c>
@@ -4484,8 +4582,8 @@
                     <did>
                         <unittitle>
                             <emph render="italic">New World Review</emph> (journal): Essay Contest</unittitle>
-                        <container id="cid21313059" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313059" type="Folder">584</container>
+                        <container id="cid21313059" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313059" type="Folder">583</container>
                         <unitdate normal="1961/1961">1961</unitdate>
                     </did>
                 </c>
@@ -4493,31 +4591,31 @@
                     <did>
                         <unittitle>
                             <emph render="italic">New World Review</emph> (journal): Essay Contest</unittitle>
-                        <container id="cid21313060" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313060" type="Folder">585</container>
+                        <container id="cid21313060" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313060" type="Folder">584</container>
                         <unitdate normal="1962/1962">1962</unitdate>
                     </did>
                 </c>
                 <c id="ref559" level="file">
                     <did>
                         <unittitle>Noise</unittitle>
-                        <container id="cid21313061" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313061" type="Folder">586</container>
+                        <container id="cid21313061" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313061" type="Folder">585</container>
                         <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
                     </did>
                 </c>
                 <c id="ref560" level="file">
                     <did>
                         <unittitle>Notes</unittitle>
-                        <container id="cid21313062" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313062" type="Folder">587</container>
+                        <container id="cid21313062" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313062" type="Folder">586</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref678" level="file">
                     <did>
                         <unittitle>Oral History Interview</unittitle>
-                        <container id="cid22997001" type="Box" label="Mixed materials">42</container>
+                        <container id="cid22997001" type="Box" label="Mixed materials">41</container>
                         <container parent="cid22997001" type="Folder">626.1</container>
                         <unitdate normal="2011/2011">Dec 5, 2011 and Dec 7, 2011</unitdate>
                     </did>
@@ -4529,16 +4627,16 @@
                 <c id="ref561" level="file">
                     <did>
                         <unittitle>Phoenix Union High School: Class Assignments and Clippings</unittitle>
-                        <container id="cid21313063" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313063" type="Folder">588</container>
+                        <container id="cid21313063" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313063" type="Folder">587</container>
                         <unitdate normal="1952/1954" type="inclusive">1952-1954</unitdate>
                     </did>
                 </c>
                 <c id="ref562" level="file">
                     <did>
                         <unittitle>Photographs of Bill Andrews</unittitle>
-                        <container id="cid21313064" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313064" type="Folder">589</container>
+                        <container id="cid21313064" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313064" type="Folder">588</container>
                         <unitdate normal="1969/2009" type="inclusive">1969-2009, undated</unitdate>
                     </did>
                 </c>
@@ -4553,8 +4651,8 @@
                 <c id="ref563" level="file">
                     <did>
                         <unittitle>Published Artwork: Cartoons for Arizona State University</unittitle>
-                        <container id="cid21313065" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313065" type="Folder">590</container>
+                        <container id="cid21313065" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313065" type="Folder">589</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
@@ -4562,8 +4660,8 @@
                     <did>
                         <unittitle>Published Artwork: Cartoons from 
                             <emph render="italic">Arizona Republic</emph> (sample from discarded scrapbook)</unittitle>
-                        <container id="cid21313066" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313066" type="Folder">591</container>
+                        <container id="cid21313066" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313066" type="Folder">590</container>
                         <unitdate normal="1956/1956">1956</unitdate>
                     </did>
                 </c>
@@ -4571,8 +4669,8 @@
                     <did>
                         <unittitle>Published Artwork: Cartoons from 
                             <emph render="italic">Daily World</emph></unittitle>
-                        <container id="cid21313067" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313067" type="Folder">592</container>
+                        <container id="cid21313067" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313067" type="Folder">591</container>
                         <unitdate normal="1972/1977" type="inclusive">1972-1977</unitdate>
                     </did>
                 </c>
@@ -4589,8 +4687,8 @@
                     <did>
                         <unittitle>Published Artwork: Cartoons from 
                             <emph render="italic">Daily World</emph>: Is This the Way it Was? (sample from discarded scrapbook)</unittitle>
-                        <container id="cid21313068" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313068" type="Folder">593</container>
+                        <container id="cid21313068" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313068" type="Folder">592</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
@@ -4598,8 +4696,8 @@
                     <did>
                         <unittitle>Published Artwork: Cartoons from 
                             <emph render="italic">Daily World</emph>: The Optic Nerve</unittitle>
-                        <container id="cid21313069" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313069" type="Folder">594</container>
+                        <container id="cid21313069" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313069" type="Folder">593</container>
                         <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
                     </did>
                 </c>
@@ -4607,8 +4705,8 @@
                     <did>
                         <unittitle>Published Artwork: Cartoons from 
                             <emph render="italic">Daily World</emph>: Which Way Wuzzit?</unittitle>
-                        <container id="cid21313070" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313070" type="Folder">595</container>
+                        <container id="cid21313070" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313070" type="Folder">594</container>
                         <unitdate normal="1972/1975" type="inclusive">1972-1975</unitdate>
                     </did>
                 </c>
@@ -4617,8 +4715,8 @@
                         <unittitle>Published Artwork: Cartoons from 
                             <emph render="italic">Głos Ludowy</emph> (
                             <emph render="italic">The People's Voice</emph>)</unittitle>
-                        <container id="cid21313071" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313071" type="Folder">596</container>
+                        <container id="cid21313071" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313071" type="Folder">595</container>
                         <unitdate normal="1971/1974" type="inclusive">1971, 1974</unitdate>
                     </did>
                 </c>
@@ -4626,16 +4724,16 @@
                     <did>
                         <unittitle>Published Artwork: Cartoons from 
                             <emph render="italic">Muhammad Speaks</emph></unittitle>
-                        <container id="cid21313072" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313072" type="Folder">597</container>
+                        <container id="cid21313072" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313072" type="Folder">596</container>
                         <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
                     </did>
                 </c>
                 <c id="ref571" level="file">
                     <did>
                         <unittitle>Published Artwork: Cartoons in Foreign Papers</unittitle>
-                        <container id="cid21313073" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313073" type="Folder">598</container>
+                        <container id="cid21313073" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313073" type="Folder">597</container>
                         <unitdate normal="1967/1975" type="inclusive">1967-1975</unitdate>
                     </did>
                 </c>
@@ -4643,103 +4741,103 @@
                     <did>
                         <unittitle>Published Artwork: Cartoons in 
                             <emph render="italic">Steel Labor</emph> (United Steel Workers)</unittitle>
-                        <container id="cid21313074" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313074" type="Folder">599</container>
+                        <container id="cid21313074" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313074" type="Folder">598</container>
                         <unitdate normal="1972/1972">Apr 1972</unitdate>
                     </did>
                 </c>
                 <c id="ref573" level="file">
                     <did>
                         <unittitle>Published Artwork: Leaflets and Pamphlets</unittitle>
-                        <container id="cid21313075" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313075" type="Folder">600</container>
+                        <container id="cid21313075" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313075" type="Folder">599</container>
                         <unitdate normal="1978/1986" type="inclusive">1978-1986, undated</unitdate>
                     </did>
                 </c>
                 <c id="ref574" level="file">
                     <did>
                         <unittitle>Satire in the Struggle for Peace Exhibition (Moscow): Certificate</unittitle>
-                        <container id="cid21313076" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313076" type="Folder">601</container>
+                        <container id="cid21313076" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313076" type="Folder">600</container>
                         <unitdate normal="1977/1977">Mar 1977</unitdate>
                     </did>
                 </c>
                 <c id="ref575" level="file">
                     <did>
                         <unittitle>Satire in the Struggle for Peace Exhibition (Moscow): Guidebooks</unittitle>
-                        <container id="cid21313077" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313077" type="Folder">602</container>
+                        <container id="cid21313077" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313077" type="Folder">601</container>
                         <unitdate normal="1977/1977">Mar 1977</unitdate>
                     </did>
                 </c>
                 <c id="ref576" level="file">
                     <did>
                         <unittitle>Satire in the Struggle for Peace Exhibition (Moscow): Notebooks</unittitle>
-                        <container id="cid21313078" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313078" type="Folder">603</container>
+                        <container id="cid21313078" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313078" type="Folder">602</container>
                         <unitdate normal="1977/1977">Mar 1977</unitdate>
                     </did>
                 </c>
                 <c id="ref577" level="file">
                     <did>
                         <unittitle>Satire in the Struggle for Peace Exhibition (Moscow): Travel Documents</unittitle>
-                        <container id="cid21313079" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313079" type="Folder">604</container>
+                        <container id="cid21313079" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313079" type="Folder">603</container>
                         <unitdate normal="1977/1977">Mar 1977</unitdate>
                     </did>
                 </c>
                 <c id="ref578" level="file">
                     <did>
                         <unittitle>Slides</unittitle>
-                        <container id="cid21313080" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21313080" type="Folder">605</container>
+                        <container id="cid21313080" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21313080" type="Folder">604</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref579" level="file">
                     <did>
                         <unittitle>Southwest Regional English Teacher's Conference</unittitle>
-                        <container id="cid21315001" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21315001" type="Folder">606</container>
+                        <container id="cid21315001" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21315001" type="Folder">605</container>
                         <unitdate normal="1982/1982">Oct 1982</unitdate>
                     </did>
                 </c>
                 <c id="ref580" level="file">
                     <did>
                         <unittitle>Student Socialist Union</unittitle>
-                        <container id="cid21315002" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21315002" type="Folder">607</container>
+                        <container id="cid21315002" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21315002" type="Folder">606</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref581" level="file">
                     <did>
                         <unittitle>Talks: Early Jazz</unittitle>
-                        <container id="cid21315003" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21315003" type="Folder">608</container>
+                        <container id="cid21315003" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21315003" type="Folder">607</container>
                         <unitdate normal="1974/1974">1974</unitdate>
                     </did>
                 </c>
                 <c id="ref582" level="file">
                     <did>
                         <unittitle>Talks: Editorial Art</unittitle>
-                        <container id="cid21315004" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21315004" type="Folder">609</container>
+                        <container id="cid21315004" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21315004" type="Folder">608</container>
                         <unitdate normal="1977/1977">1977</unitdate>
                     </did>
                 </c>
                 <c id="ref583" level="file">
                     <did>
                         <unittitle>Talks: How Cartoonists View Human Rights</unittitle>
-                        <container id="cid21315005" type="Box" label="Mixed materials">42</container>
-                        <container parent="cid21315005" type="Folder">610</container>
+                        <container id="cid21315005" type="Box" label="Mixed materials">35</container>
+                        <container parent="cid21315005" type="Folder">609</container>
                         <unitdate normal="1977/1977">1977</unitdate>
                     </did>
                 </c>
                 <c id="ref584" level="file">
                     <did>
                         <unittitle>Talks: United States Bicentennial and the Working Class</unittitle>
-                        <container id="cid21315006" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315006" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315006" type="Folder">611</container>
                         <unitdate normal="1976/1976">1976</unitdate>
                     </did>
@@ -4747,7 +4845,7 @@
                 <c id="ref585" level="file">
                     <did>
                         <unittitle>Technical Approaches to Cartooning</unittitle>
-                        <container id="cid21315007" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315007" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315007" type="Folder">612</container>
                         <unitdate normal="1961/1973" type="inclusive">1961-1973, undated</unitdate>
                     </did>
@@ -4756,7 +4854,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Worker</emph> Annual Press Conference: Notes</unittitle>
-                        <container id="cid21315008" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315008" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315008" type="Folder">613</container>
                         <unitdate normal="1965/1965">Jan 31, 1965</unitdate>
                     </did>
@@ -4765,7 +4863,7 @@
                     <did>
                         <unittitle>
                             <emph render="italic">The Worker</emph>: Subscription Drives</unittitle>
-                        <container id="cid21315009" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315009" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315009" type="Folder">614</container>
                         <unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate>
                     </did>
@@ -4773,7 +4871,7 @@
                 <c id="ref588" level="file">
                     <did>
                         <unittitle>Theater</unittitle>
-                        <container id="cid21315010" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315010" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315010" type="Folder">615</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -4781,7 +4879,7 @@
                 <c id="ref589" level="file">
                     <did>
                         <unittitle>Ticket Stubs</unittitle>
-                        <container id="cid21315011" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315011" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315011" type="Folder">616</container>
                         <unitdate normal="1966/1966">1966, undated</unitdate>
                     </did>
@@ -4789,7 +4887,7 @@
                 <c id="ref590" level="file">
                     <did>
                         <unittitle>To Be Done</unittitle>
-                        <container id="cid21315012" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315012" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315012" type="Folder">617</container>
                         <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
                     </did>
@@ -4797,7 +4895,7 @@
                 <c id="ref591" level="file">
                     <did>
                         <unittitle>Typescripts</unittitle>
-                        <container id="cid21315013" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315013" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315013" type="Folder">618</container>
                         <unitdate normal="1968/1976" type="inclusive">1968, 1974-1976</unitdate>
                     </did>
@@ -4805,7 +4903,7 @@
                 <c id="ref592" level="file">
                     <did>
                         <unittitle>Typescripts (I)</unittitle>
-                        <container id="cid21315014" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315014" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315014" type="Folder">619</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -4813,7 +4911,7 @@
                 <c id="ref593" level="file">
                     <did>
                         <unittitle>Typescripts (II)</unittitle>
-                        <container id="cid21315015" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315015" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315015" type="Folder">620</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -4821,7 +4919,7 @@
                 <c id="ref594" level="file">
                     <did>
                         <unittitle>Typescripts (III)</unittitle>
-                        <container id="cid21315016" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315016" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315016" type="Folder">621</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -4829,7 +4927,7 @@
                 <c id="ref595" level="file">
                     <did>
                         <unittitle>University and College Designers Association: Membership List</unittitle>
-                        <container id="cid21315017" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315017" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315017" type="Folder">622</container>
                         <unitdate normal="1983/1985" type="inclusive">1983, 1985</unitdate>
                     </did>
@@ -4837,7 +4935,7 @@
                 <c id="ref596" level="file">
                     <did>
                         <unittitle>Vietnam: Periodicals</unittitle>
-                        <container id="cid21315018" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315018" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315018" type="Folder">623</container>
                         <unitdate normal="1969/1971" type="inclusive">1969-1971</unitdate>
                     </did>
@@ -4845,7 +4943,7 @@
                 <c id="ref597" level="file">
                     <did>
                         <unittitle>World Fellowship Center (Conway, New Hampshire)</unittitle>
-                        <container id="cid21315019" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315019" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315019" type="Folder">624</container>
                         <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
                     </did>
@@ -4853,7 +4951,7 @@
                 <c id="ref598" level="file">
                     <did>
                         <unittitle>W. E. B. Du Bois Club</unittitle>
-                        <container id="cid21315020" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315020" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315020" type="Folder">625</container>
                         <unitdate normal="1965/1965">1965, undated</unitdate>
                     </did>
@@ -4861,7 +4959,7 @@
                 <c id="ref599" level="file">
                     <did>
                         <unittitle>Youth Against War and Fascism</unittitle>
-                        <container id="cid21315021" type="Box" label="Mixed materials">42</container>
+                        <container id="cid21315021" type="Box" label="Mixed materials">36</container>
                         <container parent="cid21315021" type="Folder">626</container>
                         <unitdate normal="1966/1966">Apr 1966</unitdate>
                     </did>
@@ -4878,35 +4976,35 @@
                 <c id="ref608" level="file">
                     <did>
                         <unittitle>Camera with Bag and Two Lenses</unittitle>
-                        <container id="cid21318008" type="Box" label="Mixed materials">44</container>
+                        <container id="cid21318008" type="Box" label="Mixed materials">38</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref609" level="file">
                     <did>
                         <unittitle>Page One Awards (Newspaper Guild of New York)</unittitle>
-                        <container id="cid21318009" type="Box" label="Mixed materials">45</container>
+                        <container id="cid21318009" type="Box" label="Mixed materials">39</container>
                         <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
                     </did>
                 </c>
                 <c id="ref610" level="file">
                     <did>
                         <unittitle>Linoleum Printing Block</unittitle>
-                        <container id="cid21318010" type="Box" label="Mixed materials">46</container>
+                        <container id="cid21318010" type="Box" label="Mixed materials">40</container>
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref611" level="file">
                     <did>
                         <unittitle>Scrapbook</unittitle>
-                        <container id="cid21318011" type="Box" label="Mixed materials">47</container>
+                        <container id="cid21318011" type="Box" label="Mixed materials">41</container>
                         <unitdate normal="1949/1956" type="inclusive">1949-1956</unitdate>
                     </did>
                 </c>
                 <c id="ref612" level="file">
                     <did>
                         <unittitle>"33,000" Armband (from Vietnam War Protest)</unittitle>
-                        <container id="cid21318012" type="Box" label="Mixed materials">37</container>
+                        <container id="cid21318012" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318012" type="Folder">632</container>
                         <unitdate normal="1969/1969">Apr 1969</unitdate>
                     </did>
@@ -4915,7 +5013,8 @@
                     <did>
                         <unittitle>Printing Plate from 
                             <emph render="italic">Daily World</emph></unittitle>
-                        <container id="cid21318013" type="Box" label="Mixed materials">37</container>
+                        <container id="cid21318013" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21318013" type="Drawer">4</container>
                         <container parent="cid21318013" type="Folder">633</container>
                         <unitdate normal="1974/1974">Mar 27, 1974</unitdate>
                     </did>
@@ -4924,7 +5023,8 @@
                     <did>
                         <unittitle>Printing Plate from 
                             <emph render="italic">Daily World</emph> (I)</unittitle>
-                        <container id="cid21318014" type="Box" label="Mixed materials">37</container>
+                        <container id="cid21318014" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21318014" type="Drawer">4</container>
                         <container parent="cid21318014" type="Folder">634</container>
                         <unitdate normal="1977/1977">May 7, 1977</unitdate>
                     </did>
@@ -4933,7 +5033,8 @@
                     <did>
                         <unittitle>Printing Plate from 
                             <emph render="italic">Daily World</emph> (II)</unittitle>
-                        <container id="cid21318015" type="Box" label="Mixed materials">37</container>
+                        <container id="cid21318015" type="Flat-File" label="Mixed materials">4</container>
+                        <container parent="cid21318015" type="Drawer">4</container>
                         <container parent="cid21318015" type="Folder">635</container>
                         <unitdate normal="1977/1977">May 7, 1977</unitdate>
                     </did>
@@ -4941,7 +5042,7 @@
                 <c id="ref616" level="file">
                     <did>
                         <unittitle>Wooden Object (frame?)</unittitle>
-                        <container id="cid21318016" type="Box" label="Mixed materials">37</container>
+                        <container id="cid21318016" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318016" type="Folder">636</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -4959,8 +5060,9 @@
                 </scopecontent>
                 <c id="ref617" level="file">
                     <did>
-                        <unittitle>Anonemous (sic) ("Mister Little and Mister Big")</unittitle>
-                        <container id="cid21318017" type="Box" label="Mixed materials">48</container>
+                        <unittitle>Anonemous (
+                            <emph render="italic">sic</emph>) ("Mister Little and Mister Big")</unittitle>
+                        <container id="cid21318017" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318017" type="Folder">637</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -4968,7 +5070,7 @@
                 <c id="ref618" level="file">
                     <did>
                         <unittitle>Chapin, ?</unittitle>
-                        <container id="cid21318018" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318018" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318018" type="Folder">638</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -4976,7 +5078,7 @@
                 <c id="ref619" level="file">
                     <did>
                         <unittitle>Davis, Jack</unittitle>
-                        <container id="cid21318019" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318019" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318019" type="Folder">639</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -4984,7 +5086,7 @@
                 <c id="ref620" level="file">
                     <did>
                         <unittitle>Egerton, Kearney</unittitle>
-                        <container id="cid21318020" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318020" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318020" type="Folder">640</container>
                         <unitdate normal="1952/1952">1952, undated</unitdate>
                     </did>
@@ -4992,15 +5094,23 @@
                 <c id="ref621" level="file">
                     <did>
                         <unittitle>Foley, Tom</unittitle>
-                        <container id="cid21318021" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318021" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318021" type="Folder">641</container>
                         <unitdate normal="1976/1976">May 1976</unitdate>
+                    </did>
+                </c>
+                <c id="ref683" level="file">
+                    <did>
+                        <unittitle>Harman, Fred</unittitle>
+                        <container id="cid23964001" type="Box" label="Access CD">42</container>
+                        <container parent="cid23964001" type="Folder">677</container>
+                        <unitdate>undated</unitdate>
                     </did>
                 </c>
                 <c id="ref622" level="file">
                     <did>
                         <unittitle>Joseph, Seymour</unittitle>
-                        <container id="cid21318022" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318022" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318022" type="Folder">642</container>
                         <unitdate normal="1965/1965">Sep 25, 1965</unitdate>
                     </did>
@@ -5008,7 +5118,7 @@
                 <c id="ref623" level="file">
                     <did>
                         <unittitle>Keane, Bil</unittitle>
-                        <container id="cid21318023" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318023" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318023" type="Folder">643</container>
                         <unitdate normal="1958/1958">1958, undated</unitdate>
                     </did>
@@ -5016,7 +5126,7 @@
                 <c id="ref624" level="file">
                     <did>
                         <unittitle>Kellogg, Homer</unittitle>
-                        <container id="cid21318024" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318024" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318024" type="Folder">644</container>
                         <unitdate normal="1970/1970">1970</unitdate>
                     </did>
@@ -5024,7 +5134,7 @@
                 <c id="ref625" level="file">
                     <did>
                         <unittitle>Kennedy, Joe</unittitle>
-                        <container id="cid21318025" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318025" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318025" type="Folder">645</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -5032,7 +5142,7 @@
                 <c id="ref626" level="file">
                     <did>
                         <unittitle>Manning, Reg</unittitle>
-                        <container id="cid21318026" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318026" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318026" type="Folder">646</container>
                         <unitdate normal="1950/1950">1950, undated</unitdate>
                     </did>
@@ -5040,7 +5150,7 @@
                 <c id="ref627" level="file">
                     <did>
                         <unittitle>Newcomb, Ken</unittitle>
-                        <container id="cid21318027" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318027" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318027" type="Folder">647</container>
                         <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
                     </did>
@@ -5048,7 +5158,7 @@
                 <c id="ref628" level="file">
                     <did>
                         <unittitle>Osmolski, Joe</unittitle>
-                        <container id="cid21318028" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318028" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318028" type="Folder">648</container>
                         <unitdate normal="1966/1966">May 1966</unitdate>
                     </did>
@@ -5056,7 +5166,7 @@
                 <c id="ref629" level="file">
                     <did>
                         <unittitle>Trussell, Charles</unittitle>
-                        <container id="cid21318029" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318029" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318029" type="Folder">649</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -5064,7 +5174,7 @@
                 <c id="ref630" level="file">
                     <did>
                         <unittitle>Trussell, Marilyn</unittitle>
-                        <container id="cid21318030" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318030" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318030" type="Folder">650</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -5072,7 +5182,7 @@
                 <c id="ref631" level="file">
                     <did>
                         <unittitle>Unidentified Artwork</unittitle>
-                        <container id="cid21318031" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318031" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318031" type="Folder">651</container>
                         <unitdate>undated</unitdate>
                     </did>
@@ -5080,7 +5190,7 @@
                 <c id="ref632" level="file">
                     <did>
                         <unittitle>Yutman, Marcia</unittitle>
-                        <container id="cid21318032" type="Box" label="Mixed materials">48</container>
+                        <container id="cid21318032" type="Box" label="Mixed materials">42</container>
                         <container parent="cid21318032" type="Folder">652</container>
                         <unitdate>undated</unitdate>
                     </did>
