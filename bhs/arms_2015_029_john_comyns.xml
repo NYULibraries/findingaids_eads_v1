@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2015_029_john_comyns">arms_2015_029_john_comyns</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the John Comyns papers
+                    <num>2015.029</num>
+                </titleproper>
+                <author>Finding aid prepared by Katherine Palm</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>April 2016</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-07-20T14:33-0400</date>
+            </creation>
+            <langusage>Finding aid written in English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John Comyns papers</unittitle>
+            <unitid>2015.029</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1426002" type="Box" label="Text">A0021</container>
+            <physdesc>
+                <extent>0.01 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1894/1894">1894</unitdate>
+            <abstract id="ref10" label="Abstract">The collection consists of a document recording the naturalization in the County Court of Kings County, New York on October 13, 1857 of John Comyns, a teenaged Irish immigrant living in Brooklyn, New York. Included are two sworn oaths and a certification by a county clerk in 1894 of the authenticity of the copy of the record.</abstract>
+        </did>
+        <bioghist id="ref8">
+            <head>Biographical Note</head>
+            <p>John Comyns immigrated to the United States prior to the age of 18. He became a naturalized citizen of the United States in 1857.</p>
+        </bioghist>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of a document certified on December 5, 1894 by a clerk of the County Court of Kings County, New York as being a true transcript of the original record contained in his office. The document contains two oaths sworn in open court on October 13, 1857, one by Patrick Comyns regarding John Comyns' residency and character in the United States and one by John Comyns renouncing his allegiance to other states, particularly to the Queen of the United Kingdom of Great Britain and Ireland, as well as an order of the court admitting John Comyns as a citizen of the United States.</p>
+        </scopecontent>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>In the public domain.</p>
+        </userestrict>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); John Comyns papers, 2015.029, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <processinfo id="ref6">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Robert Rorke, 2015.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="dacs" source="local">Comyns, John</persname>
+            <persname rules="dacs" source="local" role="Donor (dnr)">Rorke, Robert</persname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Emigration and immigration</geogname>
+            <genreform source="aat">Citizenship papers</genreform>
+            <subject source="lcsh">Citizenship |z New York (State) |z New York</subject>
+            <subject source="lcsh">County courts |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Immigrants |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Irish Americans |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Legal documents</genreform>
+            <genreform source="aat">Oaths</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
