@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_258_community_newspaper_collection</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_258_community_newspaper_collection.html">arc_258_community_newspaper_collection</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to the Brooklyn community newspaper collection
+                <titleproper>Guide to the Brooklyn Historical Society newspaper collection
                     <num>ARC.258</num>
                 </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
+                <author>Finding aid prepared by John Zarrillo</author>
             </titlestmt>
             <publicationstmt>
                 <p>
@@ -20,25 +19,20 @@
                     <addressline>718-222-4111</addressline>
                     <addressline>library@brooklynhistory.org</addressline>
                 </address>
-                <date>September 23, 2011</date>
+                <date>January 2016</date>
             </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-12-15T13:30-0500</date>
+                <date>2016-07-21T13:42-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
         <did>
-            <unittitle>Brooklyn community newspaper collection</unittitle>
+            <unittitle>Brooklyn Historical Society newspaper collection</unittitle>
             <unitid>ARC.258</unitid>
             <repository>
                 <corpname>Brooklyn Historical Society</corpname>
@@ -46,92 +40,1866 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid1040001" type="Oversize" label="Text">ARC.258 1 of 1</container>
             <physdesc>
-                <extent>1.34 Linear feet</extent>
-                <extent>in one oversize box.</extent>
+                <extent>199.5 linear feet</extent>
+                <extent>in 51 boxes, 250 bound volumes, and 87 reels of microfilm</extent>
             </physdesc>
-            <unitdate normal="1951/1990" type="inclusive">1951-1990</unitdate>
+            <unitdate normal="1820/2005" type="bulk">Bulk, 1820-2005</unitdate>
+            <unitdate normal="1783/2015" type="inclusive">1783-2015</unitdate>
+            <abstract id="ref6" label="Abstract">The collection is primarily composed of newspapers published in Brooklyn, New York, dating from the 18th century to 2015. It also includes a selection of newspapers published in Queens, Long Island, upstate New York, and New Jersey. In addition to paper editions, the collection includes microfilm copies of certain publications.</abstract>
         </did>
+        <relatedmaterial id="ref275">
+            <head>Note on additional newspapers</head>
+            <p>Please note that this collection does not includes newspapers which are currently being held at our off-site storage facility. For a listing of these holdings, please contact BHS library staff at: 
+                <extref ns2:href="library@brooklynhistory.org">library@brooklynhistory.org</extref></p>
+        </relatedmaterial>
         <accessrestrict id="ref5">
             <head>Conditions Governing Access</head>
             <p>Open to researchers without restriction.</p>
         </accessrestrict>
-        <processinfo id="ref4">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
         <acqinfo id="ref3">
             <head>Immediate Source of Acquisition note</head>
-            <p>Source and date of acquisition unknown.</p>
+            <p>The newspapers were found in collection.</p>
         </acqinfo>
         <prefercite id="ref2">
             <head>Preferred Citation</head>
             <p>Identification of item, date (if known); Brooklyn community newspaper collection, ARC.258, Box and Folder number; Brooklyn Historical Society.</p>
         </prefercite>
-        <scopecontent id="ref1">
+        <userestrict id="ref276">
+            <head>Conditions Governing Use note</head>
+            <p>Newspapers published prior to 1923 are in the public domain.</p>
+        </userestrict>
+        <arrangement id="ref278">
+            <head>Arrangement note</head>
+            <p>The newspapers are arranged alphabetically by title.</p>
+        </arrangement>
+        <scopecontent id="ref277">
             <head>Scope and Contents</head>
-            <p>This collection contains various 20th-century Brooklyn community newspapers, as well as a small number of magazines, published by public and private organizations and individuals throughout the period 1951 to 1990. Some papers contain information on issues affecting the entire borough, while others focus on specific neighborhoods. Included titles and date ranges of issues in the collection are listed below:</p>
-            <list numeration="arabic" type="ordered">
-                <item>
-                    <emph render="italic">Bohack News</emph>, 1951-1957</item>
-                <item>
-                    <emph render="italic">Brooklyn Free Press</emph>, 1987, 1991</item>
-                <item>
-                    <emph render="italic">Brooklyn Heights Courier</emph>, 1990</item>
-                <item>
-                    <emph render="italic">Brooklyn Journal of Arts &amp; Urban Affairs</emph>, 1976</item>
-                <item>
-                    <emph render="italic">Brooklyn Paper</emph> (later 
-                    <emph render="italic">The Brooklyn Paper of Carroll Gardens and Cobble Hill</emph>), 1983-1988</item>
-                <item>
-                    <emph render="italic">Brooklyn Parent</emph>, 1990</item>
-                <item>
-                    <emph render="italic">Brooklyn Progress</emph>, published by the Brooklyn Chamber of Commerce and the Downtown Brooklyn Development Association, 1974-1988</item>
-                <item>
-                    <emph render="italic">Brooklyn Schools</emph>, 1987</item>
-                <item>
-                    <emph render="italic">Community Advocate</emph>, published by the Southern Brooklyn Community Organization and the Ocean Parkway Community Development Corp., 1988</item>
-                <item>
-                    <emph render="italic">Eastern District News</emph>, 1986</item>
-                <item>
-                    <emph render="italic">Park Slope Jewish Review</emph>, published by Congregation B'nai Jacob, 1988</item>
-                <item>
-                    <emph render="italic">Peoples Tribune</emph>, 1985</item>
-                <item>
-                    <emph render="italic">Skyline</emph>, 1989</item>
-            </list>
+            <p>The collection is primarily composed of newspapers published in Brooklyn, New York, dating from the 18th century to 2015. In addition to paper editions, the collection includes microfilm copies of certain publications.</p>
+            <p>Geographically, the newspapers cover the numerous neighborhoods of Brooklyn, as well the other boroughs of New York City (Manhattan, Queens, Staten Island, and the Bronx), Long Island (Suffolk and Nassau Counties), and parts of upstate New York and New Jersey. The collection also includes issues of 
+                <emph render="italic">The Liberator</emph>, an abolitionist newspaper which was published in Boston, Massachusetts.</p>
+            <p>Some newspapers were published for specific communities (African-Americans, Caribbean-Americans, Catholics, Jewish-Americans, the military) or specific topics (business, real estate, antiques, computers, etc.).</p>
+            <p>For a complete list of newspapers included in the collection, please see the inventory below. Please note that this collection does not include newspapers which are currently being held at our off-site storage facility. For a listing of these holdings, please contact BHS library staff at: 
+                <extref ns2:href="library@brooklynhistory.org">library@brooklynhistory.org</extref></p>
+            <p></p>
+            <p></p>
         </scopecontent>
+        <processinfo id="ref282">
+            <head>Processing Information note</head>
+            <p>The collection was assembled from uncataloged newspapers found in Brooklyn Historical Society's library and archives.</p>
+        </processinfo>
+        <altformavail id="ref281">
+            <head>Online Availability note</head>
+            <p>Full-text searchable versions of the 
+                <extref ns2:href="http://bklyn.newspapers.com/title_1890/the_brooklyn_daily_eagle/">Brooklyn Daily Eagle</extref>, the 
+                <extref ns2:href="http://bhs.newspapers.com/">Brooklyn Evening Star</extref>, the 
+                <extref ns2:href="http://bhs.newspapers.com/">Brooklyn Evening Daily Star</extref>, and the 
+                <extref ns2:href="http://bhs.newspapers.com/">Long Island Star</extref> are freely available online.</p>
+        </altformavail>
+        <relatedmaterial id="ref280">
+            <head>Related Archival Materials note</head>
+            <p>Chandos Fulton notes on the history of Brooklyn newspapers, 1863-1864 (1973.223)</p>
+            <p>Political news clippings scrapbook, 1894 (1977.216)</p>
+            <p>
+                <emph render="italic">Brooklyn Eagle</emph> records, 1887-1955 (1977.226)</p>
+            <p>Long Islander clippings collection, 1847-1889 (1985.040)</p>
+            <p>
+                <emph render="italic">New-York Mercury</emph> issue, 1782 (1985.060)</p>
+            <p>
+                <emph render="italic">Long Island Traveler</emph> scrapbook collection, 1897-1911 (1985.068)</p>
+            <p>Park Slope Civic Council records, 1938-1965 (1991.041)</p>
+            <p>Thomas N. Schroth and Raymond A. Schroth, S.J. 
+                <emph render="italic">Brooklyn Eagle</emph> collection (ARC.093)</p>
+            <p>Brooklyn neighborhood associations and civic organizations publications, 1881-2010 (ARC.167)</p>
+            <p>Elizabeth Feldhusen collection of Brooklyn ephemera, circa 1920s-1992 (ARC.299)</p>
+        </relatedmaterial>
         <controlaccess>
-            <title source="local">Bohack news (Brooklyn, New York, N.Y.)</title>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Commerce </geogname>
+            <subject source="lcsh">Abolitionists |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">African American newspapers |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Albany (N.Y.)</geogname>
+            <subject source="lcsh">Antiques |z New York (State) |z Long Island</subject>
+            <geogname source="lcsh">Babylon (N.Y.)</geogname>
+            <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
+            <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Bensonhurst (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Borough Park (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Bronx (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Commerce</geogname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Economic conditions</geogname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Politics and government</geogname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social conditions</geogname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
-            <title source="local">Brooklyn free press</title>
-            <geogname source="lcsh">Brooklyn Heights (New York, N.Y.) </geogname>
-            <title source="local">Brooklyn Heights courier</title>
-            <title source="local">Brooklyn journal of arts &amp; urban affairs</title>
-            <title source="local">Brooklyn paper</title>
-            <title source="local">Brooklyn paper of Carroll Gardens and Cobble Hill</title>
-            <title source="local">Brooklyn parent magazine</title>
-            <title source="local">Brooklyn progress (Brooklyn Chamber of Commerce)</title>
-            <title source="local">Brooklyn schools (Newspaper)</title>
-            <title source="local">Community advocate (Brooklyn, New York, N.Y.)</title>
+            <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Brownsville (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Canarsie (New York, N.Y.)</geogname>
+            <subject source="lcsh">Caribbean Americans |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Carroll Gardens (New York, N.Y.)</geogname>
+            <subject source="lcsh">Catholics |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Clinton Hill (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Cobble Hill (New York, N.Y.)</geogname>
             <subject source="lcsh">Community development |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Community newspapers |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Community newspapers |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Crown Heights (New York, N.Y.)</geogname>
             <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
-            <title source="local">Eastern District news (Brooklyn, New York, N.Y.)</title>
-            <genreform source="aat">Magazines (periodicals)</genreform>
+            <geogname source="lcsh">East Flatbush (New York, N.Y.)</geogname>
+            <geogname source="lcsh">East New York (New York, N.Y.)</geogname>
+            <geogname source="lcsh">East Norwich (N.Y.)</geogname>
+            <geogname source="lcsh">Far Rockaway (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Flushing (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Freeport (N.Y.)</geogname>
+            <geogname source="lcsh">Goshen (N.Y.)</geogname>
+            <geogname source="lcsh">Greenpoint (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Hempstead (N.Y.)</geogname>
+            <geogname source="lcsh">Huntington (N.Y.)</geogname>
+            <geogname source="lcsh">Jamaica (New York, N.Y.)</geogname>
+            <subject source="lcsh">Jewish newspapers |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Kingston (N.Y.)</geogname>
+            <geogname source="lcsh">Long Island (N.Y.)</geogname>
+            <geogname source="lcsh">Manhattan (New York, N.Y.)</geogname>
             <subject source="lcsh">Neighborhoods |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">New Brunswick (N.J.)</geogname>
+            <geogname source="lcsh">New York Naval Shipyard </geogname>
             <genreform source="aat">Newspapers</genreform>
+            <geogname source="lcsh">Northport (N.Y.)</geogname>
+            <subject source="lcsh">Parents |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
-            <title source="local">Park Slope Jewish review</title>
-            <title source="local">Peoples tribune (Brooklyn, New York, N.Y.)</title>
-            <title source="local">Skyline (Brooklyn, New York, N.Y.)</title>
+            <geogname source="lcsh">Port Jefferson (N.Y.)</geogname>
+            <geogname source="lcsh">Prospect Heights (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Queens (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Queens County (N.Y.)</geogname>
+            <subject source="lcsh">Real estate business |z New York (State) |z Kings County |v Periodicals</subject>
+            <geogname source="lcsh">Red Hook (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Rockville Centre (N.Y.)</geogname>
+            <subject source="lcsh">Schools |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Staten Island (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Sunset Park (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Westchester County (N.Y.)</geogname>
+            <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Windsor Terrace (New York, N.Y.)</geogname>
         </controlaccess>
-        <dsc/>
+        <dsc>
+            <c id="ref7" level="file">
+                <did>
+                    <unittitle>Afro Times</unittitle>
+                    <container id="cid1388001" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="1999/1999">July 3 - August 14, 1999</unitdate>
+                </did>
+                <odd id="ref222">
+                    <head>General note</head>
+                    <p>African-American community newspaper</p>
+                </odd>
+            </c>
+            <c id="ref8" level="file">
+                <did>
+                    <unittitle>Antidote, The (Albany, New York)</unittitle>
+                    <container id="cid1388002" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1828/1828">February 6, 1828</unitdate>
+                </did>
+            </c>
+            <c id="ref9" level="file">
+                <did>
+                    <unittitle>Antiques and Collectibles</unittitle>
+                    <container id="cid1388003" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="1983/1983">January - December 1983</unitdate>
+                </did>
+                <odd id="ref223">
+                    <head>General note</head>
+                    <p>"Serving Brooklyn, Queens, and Long Island"; Missing September 1983</p>
+                </odd>
+            </c>
+            <c id="ref10" level="file">
+                <did>
+                    <unittitle>Bay News</unittitle>
+                    <container id="cid1388004" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1985/1985">April 22, 1985</unitdate>
+                </did>
+            </c>
+            <c id="ref11" level="file">
+                <did>
+                    <unittitle>Bay News</unittitle>
+                    <container id="cid1388005" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="1999/1999">July 5 - August 16, 1999</unitdate>
+                </did>
+            </c>
+            <c id="ref12" level="file">
+                <did>
+                    <unittitle>Bay News (nine bound volumes)</unittitle>
+                    <container id="cid1388006" type="Volume" label="Mixed materials">Library gallery shelf 29.1.F</container>
+                    <unitdate normal="2001/2003" type="inclusive">January 2001 - October 2003</unitdate>
+                </did>
+            </c>
+            <c id="ref13" level="file">
+                <did>
+                    <unittitle>Bay News (one bound volume)</unittitle>
+                    <container id="cid1388007" type="Volume" label="Mixed materials">Library gallery shelf 29.1.G</container>
+                    <unitdate normal="2003/2003">November-December 2003</unitdate>
+                </did>
+            </c>
+            <c id="ref14" level="file">
+                <did>
+                    <unittitle>Bay Ridge Courier (nine bound volumes)</unittitle>
+                    <container id="cid1388008" type="Volume" label="Mixed materials">Library gallery shelf 29.1.G</container>
+                    <unitdate normal="2001/2005" type="inclusive">2001-2005</unitdate>
+                </did>
+                <odd id="ref224">
+                    <head>General note</head>
+                    <p>Missing July-December 2001</p>
+                </odd>
+            </c>
+            <c id="ref15" level="file">
+                <did>
+                    <unittitle>Bensonhurst Paper, The</unittitle>
+                    <container id="cid1388009" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="1998/1998">August 6, 1998</unitdate>
+                </did>
+            </c>
+            <c id="ref16" level="file">
+                <did>
+                    <unittitle>Blacks and Computers</unittitle>
+                    <container id="cid1388010" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="1994/1998" type="inclusive">circa 1996</unitdate>
+                </did>
+            </c>
+            <c id="ref17" level="file">
+                <did>
+                    <unittitle>Bohack News</unittitle>
+                    <container id="cid1388011" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="1951/1957" type="inclusive">November 1951 - January 1957</unitdate>
+                </did>
+                <odd id="ref225">
+                    <head>General note</head>
+                    <p>Published by Bohack's grocery store; Pages 3 and 4 only</p>
+                </odd>
+            </c>
+            <c id="ref18" level="file">
+                <did>
+                    <unittitle>Boro Park Community News</unittitle>
+                    <container id="cid1388012" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="1983/2005" type="inclusive">August 31 - December 1, 1983; January - May 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref19" level="file">
+                <did>
+                    <unittitle>Brooklyn!!</unittitle>
+                    <container id="cid1388013" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="2005/2005">Summer 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref20" level="file">
+                <did>
+                    <unittitle>Brooklyn Advocate (one bound volume)</unittitle>
+                    <container id="cid1388014" type="Volume" label="Mixed materials">Print room shelf 4.E</container>
+                    <unitdate normal="1833/1835" type="inclusive">September 12, 1833 - April 30, 1835</unitdate>
+                </did>
+            </c>
+            <c id="ref21" level="file">
+                <did>
+                    <unittitle>Brooklyn Business Trends</unittitle>
+                    <container id="cid1388015" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="2011/2012" type="inclusive">February-April, October 2011; March-May 2012</unitdate>
+                </did>
+            </c>
+            <c id="ref22" level="file">
+                <did>
+                    <unittitle>Brooklyn Citizen (microfilm)</unittitle>
+                    <container id="cid1388016" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1887/1889" type="inclusive">1887-1889</unitdate>
+                </did>
+            </c>
+            <c id="ref23" level="file">
+                <did>
+                    <unittitle>Brooklyn City News</unittitle>
+                    <container id="cid1388017" type="Box" label="Mixed materials">3</container>
+                    <unitdate normal="1859/1860" type="inclusive">November 1859 - December 1860</unitdate>
+                </did>
+            </c>
+            <c id="ref24" level="file">
+                <did>
+                    <unittitle>Brooklyn City News</unittitle>
+                    <container id="cid1388018" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="1862/1862">March 10, 1862</unitdate>
+                </did>
+            </c>
+            <c id="ref25" level="file">
+                <did>
+                    <unittitle>Brooklyn Community News</unittitle>
+                    <container id="cid1388019" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="1998/1999" type="inclusive">September 28, 1998; February 8, 1999</unitdate>
+                </did>
+                <odd id="ref226">
+                    <head>General note</head>
+                    <p>"Serving Downtown Brooklyn, Clinton Hill, Fort Greene, Bedford-Stuyvesant, Prospect Heights, Crown Heights, Wingate, East Flatbush, Brownsville, Bushwick, Starrett City"</p>
+                </odd>
+            </c>
+            <c id="ref26" level="file">
+                <did>
+                    <unittitle>Brooklyn Courier</unittitle>
+                    <container id="cid1388020" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="2012/2012">November 2-15, 2012</unitdate>
+                </did>
+                <odd id="ref227">
+                    <head>General note</head>
+                    <p>"Serving Gowanus, Park Slope, Prospect Heights, Windsor Terrace, Brooklyn Heights, DUMBO, Metrotech, Boerum Hill, Carroll Garderns, Cobble Hill, Red Hook, Williamsburg, and Greenpoint"; This issue concerns Hurricane Sandy.</p>
+                </odd>
+            </c>
+            <c id="ref27" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Bulletin, The</unittitle>
+                    <container id="cid1388021" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="1992/1992">October 1992</unitdate>
+                </did>
+            </c>
+            <c id="ref28" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle (microfilm)</unittitle>
+                    <container id="cid1388022" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1846/1848" type="inclusive">March 2, 1846 - January 31, 1848 </unitdate>
+                </did>
+            </c>
+            <c id="ref29" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle (one bound volume)</unittitle>
+                    <container id="cid1388023" type="Box" label="Mixed materials">4</container>
+                    <unitdate normal="1850/1850">July-December 1850</unitdate>
+                </did>
+            </c>
+            <c id="ref30" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle (one bound volume)</unittitle>
+                    <container id="cid1388024" type="Box" label="Mixed materials">4</container>
+                    <unitdate normal="1858/1858">July-December 1858</unitdate>
+                </did>
+            </c>
+            <c id="ref31" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388025" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="1861/1862" type="inclusive">April 25, September 21, 1861; March 28, April 1, June 23, October 6, October 7, 1862</unitdate>
+                </did>
+            </c>
+            <c id="ref32" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle (one bound volume)</unittitle>
+                    <container id="cid1388026" type="Box" label="Mixed materials">5</container>
+                    <unitdate normal="1871/1871">July-December 1871</unitdate>
+                </did>
+            </c>
+            <c id="ref33" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle (one bound volume)</unittitle>
+                    <container id="cid1388027" type="Box" label="Mixed materials">6</container>
+                    <unitdate normal="1873/1873">January-June 1873</unitdate>
+                </did>
+            </c>
+            <c id="ref34" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle (microfilm)</unittitle>
+                    <container id="cid1388028" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1907/1907">January – December 1907 </unitdate>
+                </did>
+            </c>
+            <c id="ref35" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle - Development Series</unittitle>
+                    <container id="cid1388029" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="1912/1912">April - May 1912</unitdate>
+                </did>
+                <odd id="ref228">
+                    <head>General note</head>
+                    <p>Includes Brooklyn Planning Section, Industrial Section, Long Island Planning Section, and Outdoor Life Section</p>
+                </odd>
+            </c>
+            <c id="ref36" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388030" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="1998/2000" type="inclusive">Feb. 20, November 9, 17, 1998; Feb. 16, 1999; July 1 - August 16, 1999; April 27, 2000</unitdate>
+                </did>
+            </c>
+            <c id="ref37" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388031" type="Box" label="Mixed materials">7</container>
+                    <unitdate normal="2002/2003" type="inclusive">October 2002 - May 2003</unitdate>
+                </did>
+            </c>
+            <c id="ref38" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388032" type="Box" label="Mixed materials">8</container>
+                    <unitdate normal="2003/2003">June - December 2003</unitdate>
+                </did>
+            </c>
+            <c id="ref39" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388033" type="Box" label="Mixed materials">9</container>
+                    <unitdate normal="2004/2004">January - May 2004</unitdate>
+                </did>
+            </c>
+            <c id="ref40" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388034" type="Box" label="Mixed materials">10</container>
+                    <unitdate normal="2004/2004">June - September 2004</unitdate>
+                </did>
+            </c>
+            <c id="ref41" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388035" type="Box" label="Mixed materials">11</container>
+                    <unitdate normal="2004/2004">October-December 2004</unitdate>
+                </did>
+            </c>
+            <c id="ref42" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388036" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="2005/2005">January 3 - June 30, 2005</unitdate>
+                </did>
+                <odd id="ref229">
+                    <head>General note</head>
+                    <p>Includes April 21, 2005 issue of Brooklyn Eagle</p>
+                </odd>
+            </c>
+            <c id="ref43" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388037" type="Box" label="Mixed materials">20</container>
+                    <unitdate normal="2005/2005">July 1 - November 31, 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref44" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388038" type="Box" label="Mixed materials">21</container>
+                    <unitdate normal="2005/2006" type="inclusive">December 1, 2005 - February 28, 2006</unitdate>
+                </did>
+            </c>
+            <c id="ref45" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388039" type="Box" label="Mixed materials">22</container>
+                    <unitdate normal="2006/2006">March 1 - June 15, 2006</unitdate>
+                </did>
+            </c>
+            <c id="ref46" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388040" type="Box" label="Mixed materials">23</container>
+                    <unitdate normal="2006/2006">June 16 - September 29, 2006</unitdate>
+                </did>
+            </c>
+            <c id="ref47" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388041" type="Box" label="Mixed materials">24</container>
+                    <unitdate normal="2006/2007" type="inclusive">October 2, 2006 - January 31, 2007</unitdate>
+                </did>
+            </c>
+            <c id="ref48" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388042" type="Box" label="Mixed materials">25</container>
+                    <unitdate normal="2007/2007">February 1 - April 30, 2007</unitdate>
+                </did>
+                <odd id="ref230">
+                    <head>General note</head>
+                    <p>Includes April 5, 2007 issue of Brooklyn Eagle</p>
+                </odd>
+            </c>
+            <c id="ref49" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388043" type="Box" label="Mixed materials">26</container>
+                    <unitdate normal="2007/2007">May 1 - July 31, 2007</unitdate>
+                </did>
+                <odd id="ref231">
+                    <head>General note</head>
+                    <p>Includes May 10, May 24, June 21, 2007 issues of Brooklyn Eagle</p>
+                </odd>
+            </c>
+            <c id="ref50" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388044" type="Box" label="Mixed materials">27</container>
+                    <unitdate normal="2007/2007">August 1 - October 31, 2007</unitdate>
+                </did>
+                <odd id="ref233">
+                    <head>General note</head>
+                    <p>Includes August 16 and September 20, 2007 issues of Brooklyn Eagle</p>
+                </odd>
+            </c>
+            <c id="ref51" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388045" type="Box" label="Mixed materials">28</container>
+                    <unitdate normal="2007/2008" type="inclusive">November 1, 2007 - February 29, 2008</unitdate>
+                </did>
+                <odd id="ref234">
+                    <head>General note</head>
+                    <p>Includes December 20, 2007 issue of Brooklyn Eagle</p>
+                </odd>
+            </c>
+            <c id="ref52" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388046" type="Box" label="Mixed materials">29</container>
+                    <unitdate normal="2008/2008">March 1 - May 30, 2008</unitdate>
+                </did>
+            </c>
+            <c id="ref53" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388047" type="Box" label="Mixed materials">30</container>
+                    <unitdate normal="2008/2008">June 2 - August 28, 2008</unitdate>
+                </did>
+            </c>
+            <c id="ref54" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388048" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="2008/2008">September 2 - October 31, 2008</unitdate>
+                </did>
+            </c>
+            <c id="ref55" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388049" type="Box" label="Mixed materials">12</container>
+                    <unitdate normal="2008/2009" type="inclusive">November 2008 - October 2009</unitdate>
+                </did>
+            </c>
+            <c id="ref56" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388050" type="Box" label="Mixed materials">13</container>
+                    <unitdate normal="2009/2010" type="inclusive">November 2009 - June 2010</unitdate>
+                </did>
+            </c>
+            <c id="ref57" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388051" type="Box" label="Mixed materials">14</container>
+                    <unitdate normal="2010/2010">July-September 2010</unitdate>
+                </did>
+            </c>
+            <c id="ref58" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388052" type="Box" label="Mixed materials">15</container>
+                    <unitdate normal="2010/2010">October-December 2010</unitdate>
+                </did>
+            </c>
+            <c id="ref59" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388053" type="Box" label="Mixed materials">16</container>
+                    <unitdate normal="2011/2011">January-March 2011</unitdate>
+                </did>
+            </c>
+            <c id="ref60" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388054" type="Box" label="Mixed materials">17</container>
+                    <unitdate normal="2011/2011">April-July 2011</unitdate>
+                </did>
+            </c>
+            <c id="ref61" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388055" type="Box" label="Mixed materials">18</container>
+                    <unitdate normal="2011/2012" type="inclusive">August 2011 - February 2012</unitdate>
+                </did>
+            </c>
+            <c id="ref62" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388056" type="Box" label="Mixed materials">34</container>
+                    <unitdate normal="2012/2012">February - August 2012</unitdate>
+                </did>
+            </c>
+            <c id="ref63" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1388057" type="Box" label="Mixed materials">32</container>
+                    <unitdate normal="2012/2013" type="inclusive">September 2012 - January 2013</unitdate>
+                </did>
+            </c>
+            <c id="ref64" level="file">
+                <did>
+                    <unittitle>Brooklyn Eagle</unittitle>
+                    <container id="cid1388058" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="2013/2013">September 2-6, 2013</unitdate>
+                </did>
+            </c>
+            <c id="ref65" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Program</unittitle>
+                    <container id="cid1388059" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1870/1870">March 21, 1870</unitdate>
+                </did>
+            </c>
+            <c id="ref66" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Times (microfilm)</unittitle>
+                    <container id="cid1388060" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1859/1859">January 3 – June 30, 1859</unitdate>
+                </did>
+            </c>
+            <c id="ref67" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Times (microfilm)</unittitle>
+                    <container id="cid1388061" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1861/1865" type="inclusive">January 2, 1861 – June 30, 1865</unitdate>
+                </did>
+            </c>
+            <c id="ref68" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Times (microfilm)</unittitle>
+                    <container id="cid1388062" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1866/1866">January 2 – December 31, 1866</unitdate>
+                </did>
+            </c>
+            <c id="ref69" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Times (microfilm)</unittitle>
+                    <container id="cid1388063" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1867/1867">July 1 – December 31, 1867</unitdate>
+                </did>
+            </c>
+            <c id="ref70" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Times (microfilm)</unittitle>
+                    <container id="cid1388064" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1868/1872" type="inclusive">January 2, 1868 – June 29, 1872</unitdate>
+                </did>
+            </c>
+            <c id="ref71" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Times (microfilm)</unittitle>
+                    <container id="cid1388065" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1873/1893" type="inclusive">January 2, 1873 – August 30, 1893</unitdate>
+                </did>
+            </c>
+            <c id="ref72" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Times (microfilm)</unittitle>
+                    <container id="cid1388066" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1894/1911" type="inclusive">January 2, 1894 – December 30, 1911</unitdate>
+                </did>
+            </c>
+            <c id="ref73" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Union (one bound volume)</unittitle>
+                    <container id="cid1388067" type="Box" label="Mixed materials">33</container>
+                    <unitdate normal="1863/1864" type="inclusive">September 14, 1863 - September 13, 1864</unitdate>
+                </did>
+                <odd id="ref235">
+                    <head>General note</head>
+                    <p>Includes letter from publishers and list of original subscribers</p>
+                </odd>
+            </c>
+            <c id="ref74" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Union</unittitle>
+                    <container id="cid1388068" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1865/1866" type="inclusive">April 15, 1865; January 19, 1866</unitdate>
+                </did>
+            </c>
+            <c id="ref75" level="file">
+                <did>
+                    <unittitle>Brooklyn Downtown Star</unittitle>
+                    <container id="cid1388069" type="Box" label="Mixed materials">32</container>
+                    <unitdate normal="2005/2005">February 17, 2005 - August 25, 2005</unitdate>
+                </did>
+                <odd id="ref236">
+                    <head>General note</head>
+                    <p>Not a complete run; Covering Brooklyn neighborhoods of Downtown Brooklyn, Fort Greene, Clinton Hill, Brooklyn Heights, DUMBO, Prospect Heights, and Boerum Hill</p>
+                </odd>
+            </c>
+            <c id="ref76" level="file">
+                <did>
+                    <unittitle>Brooklyn Downtown Star</unittitle>
+                    <container id="cid1388070" type="Box" label="Mixed materials">35</container>
+                    <unitdate normal="2005/2009" type="inclusive">September 22, 2005 - January 26, 2006; April 5, 2007 - July 30, 2009</unitdate>
+                </did>
+            </c>
+            <c id="ref77" level="file">
+                <did>
+                    <unittitle>Brooklyn Downtown Star</unittitle>
+                    <container id="cid1388071" type="Box" label="Mixed materials">36</container>
+                    <unitdate normal="2009/2011" type="inclusive">August 6, 2009 - March 27, 2011</unitdate>
+                </did>
+            </c>
+            <c id="ref78" level="file">
+                <did>
+                    <unittitle>Brooklyn Downtown Star</unittitle>
+                    <container id="cid1388072" type="Box" label="Mixed materials">37</container>
+                    <unitdate normal="2011/2012" type="inclusive">March 31, 2011 - December 27, 2012</unitdate>
+                </did>
+            </c>
+            <c id="ref79" level="file">
+                <did>
+                    <unittitle>Brooklyn Downtown Star</unittitle>
+                    <container id="cid1388073" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="2013/2015" type="inclusive">January 3, 2013 - November 19, 2015</unitdate>
+                </did>
+            </c>
+            <c id="ref80" level="file">
+                <did>
+                    <unittitle>Brooklyn Evening Star</unittitle>
+                    <container id="cid1388074" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1841/1859" type="inclusive">July 21, 1841; November 1, 1859</unitdate>
+                </did>
+            </c>
+            <c id="ref81" level="file">
+                <did>
+                    <unittitle>Brooklyn Free Press</unittitle>
+                    <container id="cid1388075" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="1987/1991" type="inclusive">December 7, 1987; January 28, 1991</unitdate>
+                </did>
+            </c>
+            <c id="ref82" level="file">
+                <did>
+                    <unittitle>Brooklyn Free Press</unittitle>
+                    <container id="cid1388076" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="2002/2002">November 29 - December 5, 2002</unitdate>
+                </did>
+            </c>
+            <c id="ref83" level="file">
+                <did>
+                    <unittitle>Brooklyn Graphic, The</unittitle>
+                    <container id="cid1388077" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="1999/1999">July 5 - August 16, 1999</unitdate>
+                </did>
+            </c>
+            <c id="ref84" level="file">
+                <did>
+                    <unittitle>Brooklyn Graphic, The (eight bound volumes)</unittitle>
+                    <container id="cid1388078" type="Volume" label="Mixed materials">Library gallery shelf 29.1.G</container>
+                    <unitdate normal="2001/2005" type="inclusive">January 2001 - December 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref85" level="file">
+                <did>
+                    <unittitle>Brooklyn Heights Courier</unittitle>
+                    <container id="cid1388079" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="1990/2000" type="inclusive">October 8-21, 1990; July 12 - August 16, 1999; April 24, 2000</unitdate>
+                </did>
+                <odd id="ref237">
+                    <head>General note</head>
+                    <p>Covers Brooklyn Heights and Downtown Brooklyn</p>
+                </odd>
+            </c>
+            <c id="ref86" level="file">
+                <did>
+                    <unittitle>Brooklyn Heights Courier (eight bound volumes)</unittitle>
+                    <container id="cid1388080" type="Volume" label="Mixed materials">Library gallery shelf 29.1.G</container>
+                    <unitdate normal="2001/2003" type="inclusive">January 2001 - December 2003</unitdate>
+                </did>
+            </c>
+            <c id="ref87" level="file">
+                <did>
+                    <unittitle>Brooklyn Heights Courier (eleven bound volumes)</unittitle>
+                    <container id="cid1388081" type="Volume" label="Mixed materials">Library gallery shelf 29.1.H</container>
+                    <unitdate normal="2004/2006" type="inclusive">January 2004 - December 2006</unitdate>
+                </did>
+            </c>
+            <c id="ref88" level="file">
+                <did>
+                    <unittitle>Brooklyn Heights Courier</unittitle>
+                    <container id="cid1388082" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="2011/2011">April 15-21, 2011</unitdate>
+                </did>
+            </c>
+            <c id="ref89" level="file">
+                <did>
+                    <unittitle>Brooklyn Heights Paper</unittitle>
+                    <container id="cid1388083" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1999/2004" type="inclusive">January 1999 - November 2004 </unitdate>
+                </did>
+                <odd id="ref238">
+                    <head>General note</head>
+                    <p>Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref90" level="file">
+                <did>
+                    <unittitle>Brooklyn Heights Press (microfilm)</unittitle>
+                    <container id="cid1388084" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1939/1959" type="inclusive">1939-1959</unitdate>
+                </did>
+            </c>
+            <c id="ref91" level="file">
+                <did>
+                    <unittitle>Brooklyn Heights Press</unittitle>
+                    <container id="cid1388085" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="1983/1983">January 6 - December 22, 1983</unitdate>
+                </did>
+                <odd id="ref239">
+                    <head>General note</head>
+                    <p>Continued by Brooklyn Heights Press and Cobble Hill News</p>
+                </odd>
+            </c>
+            <c id="ref92" level="file">
+                <did>
+                    <unittitle>Brooklyn Heights Press and Cobble Hill News</unittitle>
+                    <container id="cid1388086" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1999/2013" type="inclusive">April 29, July 1 - August 13, 1999; April 27, 2000; October 23, 2003; August 15, 2013</unitdate>
+                </did>
+            </c>
+            <c id="ref93" level="file">
+                <did>
+                    <unittitle>Brooklyn Journal of Arts and Urban Affairs</unittitle>
+                    <container id="cid1388087" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1976/1976">November 1976</unitdate>
+                </did>
+            </c>
+            <c id="ref94" level="file">
+                <did>
+                    <unittitle>Brooklyn Journal</unittitle>
+                    <container id="cid1388088" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1996/1999" type="inclusive">1996; May 31, 1999</unitdate>
+                </did>
+                <odd id="ref240">
+                    <head>General note</head>
+                    <p>"Paper of Arts and Urban Affairs"</p>
+                </odd>
+            </c>
+            <c id="ref95" level="file">
+                <did>
+                    <unittitle>Brooklyn Journal of Arts and Urban Affairs</unittitle>
+                    <container id="cid1388089" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="2002/2002">April 11-18, 2002</unitdate>
+                </did>
+            </c>
+            <c id="ref96" level="file">
+                <did>
+                    <unittitle>Brooklyn Paper</unittitle>
+                    <container id="cid1388090" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1983/2006" type="inclusive">1983-1988; October 2003 - February 2006</unitdate>
+                </did>
+                <odd id="ref241">
+                    <head>General note</head>
+                    <p>Not a complete run; Includes Cobble Hill, Carroll Gardens, and Downtown Brooklyn editions; Include articles on BHS</p>
+                </odd>
+            </c>
+            <c id="ref97" level="file">
+                <did>
+                    <unittitle>Brooklyn Parent</unittitle>
+                    <container id="cid1388091" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="1990/1990">August 1990</unitdate>
+                </did>
+                <odd id="ref242">
+                    <head>General note</head>
+                    <p>"Park Slope, Brooklyn Heights, Carroll Gardens, Cobble Hill, Boerum Hill"; Includes article on BHS</p>
+                </odd>
+            </c>
+            <c id="ref98" level="file">
+                <did>
+                    <unittitle>Brooklyn Progress</unittitle>
+                    <container id="cid1388092" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="1976/1982" type="inclusive">1976-1982</unitdate>
+                </did>
+                <odd id="ref243">
+                    <head>General note</head>
+                    <p>Previously published as Downtown Brooklyn (1974-1976); Brooklyn Chamber of Commerce and Downtown Brooklyn Development Corporation; Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref99" level="file">
+                <did>
+                    <unittitle>Brooklyn Progress</unittitle>
+                    <container id="cid1388093" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1982/1988" type="inclusive">1982-1988</unitdate>
+                </did>
+            </c>
+            <c id="ref100" level="file">
+                <did>
+                    <unittitle>Brooklyn's Progress</unittitle>
+                    <container id="cid1388094" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="1999/2006" type="inclusive">July 1999 - January 2006</unitdate>
+                </did>
+                <odd id="ref244">
+                    <head>General note</head>
+                    <p>Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref101" level="file">
+                <did>
+                    <unittitle>Brooklyn Progress</unittitle>
+                    <container id="cid1388095" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="2015/2015">September 2015</unitdate>
+                </did>
+            </c>
+            <c id="ref102" level="file">
+                <did>
+                    <unittitle>Brooklyn Record</unittitle>
+                    <container id="cid1388096" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1983/1983">June 24 - December 30, 1983</unitdate>
+                </did>
+            </c>
+            <c id="ref103" level="file">
+                <did>
+                    <unittitle>Brooklyn Record</unittitle>
+                    <container id="cid1388097" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1995/1999" type="inclusive">December 8, 1995; March 29 - November 22, 1996; July 23 - August 13, 1999</unitdate>
+                </did>
+                <odd id="ref245">
+                    <head>General note</head>
+                    <p>Includes article on BHS</p>
+                </odd>
+            </c>
+            <c id="ref104" level="file">
+                <did>
+                    <unittitle>Brooklyn Schools</unittitle>
+                    <container id="cid1388098" type="Box" label="Mixed materials">40</container>
+                    <unitdate normal="1987/1987">1987</unitdate>
+                </did>
+            </c>
+            <c id="ref105" level="file">
+                <did>
+                    <unittitle>Brooklyn Times, The</unittitle>
+                    <container id="cid1388099" type="Box" label="Mixed materials">40</container>
+                    <unitdate normal="1983/1983">January 6 - December 29, 1983</unitdate>
+                </did>
+            </c>
+            <c id="ref106" level="file">
+                <did>
+                    <unittitle>Brooklyn Union, The</unittitle>
+                    <container id="cid1388100" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1867/1867">April 10, 1867</unitdate>
+                </did>
+            </c>
+            <c id="ref107" level="file">
+                <did>
+                    <unittitle>Canarsie Courier</unittitle>
+                    <container id="cid1388101" type="Box" label="Mixed materials">50</container>
+                    <unitdate normal="1983/1983">January - August 1983</unitdate>
+                </did>
+                <odd id="ref246">
+                    <head>General note</head>
+                    <p>"Canarsie, Marine Park, Mill Basin, Georgetown, Gerritsen Beach, Bergen Beach, Kings Plaza, Sheepheads Bay, Flatlands, Flatbush, East New York, Spring Creek"</p>
+                </odd>
+            </c>
+            <c id="ref108" level="file">
+                <did>
+                    <unittitle>Canarsie Courier</unittitle>
+                    <container id="cid1388102" type="Box" label="Mixed materials">40</container>
+                    <unitdate normal="1983/1983">August - December 1983</unitdate>
+                </did>
+            </c>
+            <c id="ref109" level="file">
+                <did>
+                    <unittitle>Canarsie Courier</unittitle>
+                    <container id="cid1388103" type="Box" label="Mixed materials">40</container>
+                    <unitdate normal="1999/2004" type="inclusive">July 22 - August 12, 1999; November 7, 2002; October 30, 2003 - March 26, 2004</unitdate>
+                </did>
+            </c>
+            <c id="ref110" level="file">
+                <did>
+                    <unittitle>Canarsie Courier</unittitle>
+                    <container id="cid1388104" type="Box" label="Mixed materials">41</container>
+                    <unitdate normal="2004/2005" type="inclusive">May 6, 2004 - October 13, 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref111" level="file">
+                <did>
+                    <unittitle>Canarsie Courier</unittitle>
+                    <container id="cid1388105" type="Box" label="Mixed materials">42</container>
+                    <unitdate normal="2005/2008" type="inclusive">November 24, 2005 - May 11, 2006; December 27, 2007 - December 18, 2008</unitdate>
+                </did>
+            </c>
+            <c id="ref112" level="file">
+                <did>
+                    <unittitle>Canarsie Courier</unittitle>
+                    <container id="cid1388106" type="Box" label="Mixed materials">43</container>
+                    <unitdate normal="2009/2010" type="inclusive">January 1, 2009 - August 19, 2010</unitdate>
+                </did>
+            </c>
+            <c id="ref113" level="file">
+                <did>
+                    <unittitle>Canarsie Courier</unittitle>
+                    <container id="cid1388107" type="Box" label="Mixed materials">44</container>
+                    <unitdate normal="2010/2012" type="inclusive">September 2, 2010 - March 29, 2012</unitdate>
+                </did>
+            </c>
+            <c id="ref114" level="file">
+                <did>
+                    <unittitle>Canarsie Courier</unittitle>
+                    <container id="cid1388108" type="Box" label="Mixed materials">45</container>
+                    <unitdate normal="2012/2015" type="inclusive">April 5, 2012 - July 13, 2013; August-November 2015</unitdate>
+                </did>
+                <odd id="ref247">
+                    <head>General note</head>
+                    <p>Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref115" level="file">
+                <did>
+                    <unittitle>Canarsie Digest (eight bound volumes)</unittitle>
+                    <container id="cid1388109" type="Volume" label="Mixed materials">Library gallery shelf 29.1.H</container>
+                    <unitdate normal="2001/2005" type="inclusive">2001-2005</unitdate>
+                </did>
+            </c>
+            <c id="ref116" level="file">
+                <did>
+                    <unittitle>Caribbean Life (Brooklyn edition) (one bound volume)</unittitle>
+                    <container id="cid1388110" type="Volume" label="Mixed materials">Library gallery shelf 29.1.H</container>
+                    <unitdate normal="2001/2001">January-February 2001</unitdate>
+                </did>
+            </c>
+            <c id="ref117" level="file">
+                <did>
+                    <unittitle>Caribbean Life (Brooklyn edition) (two bound volumes)</unittitle>
+                    <container id="cid1388111" type="Volume" label="Mixed materials">Library gallery shelf 30.1.D</container>
+                    <unitdate normal="2001/2001">March-June 2001</unitdate>
+                </did>
+            </c>
+            <c id="ref118" level="file">
+                <did>
+                    <unittitle>Caribbean Life (Brooklyn and Staten Island edition) (thirteen bound volumes)</unittitle>
+                    <container id="cid1388112" type="Volume" label="Mixed materials">Library gallery shelf 30.1.D</container>
+                    <unitdate normal="2001/2003" type="inclusive">July 2001 - December 2003</unitdate>
+                </did>
+            </c>
+            <c id="ref119" level="file">
+                <did>
+                    <unittitle>Caribbean Life (Manhattan, Bronx, and Westchester edition) (sixteen bound volumes)</unittitle>
+                    <container id="cid1388113" type="Volume" label="Mixed materials">Library gallery shelf 30.1.D</container>
+                    <unitdate normal="2001/2005" type="inclusive">January 2001 - August 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref120" level="file">
+                <did>
+                    <unittitle>Caribbean Life (Queens and Long Island edition) (ten bound volumes)</unittitle>
+                    <container id="cid1388114" type="Volume" label="Mixed materials">Library gallery shelf 30.1.D</container>
+                    <unitdate normal="2001/2003" type="inclusive">January 2001 - September 2003</unitdate>
+                </did>
+            </c>
+            <c id="ref121" level="file">
+                <did>
+                    <unittitle>Caribbean Life (Queens and Long Island edition) (nine bound volumes)</unittitle>
+                    <container id="cid1388115" type="Volume" label="Mixed materials">Library gallery shelf 30.1.E</container>
+                    <unitdate normal="2003/2005" type="inclusive">October 2003 - December 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref122" level="file">
+                <did>
+                    <unittitle>Carroll Gardens/Cobble Hill Courier</unittitle>
+                    <container id="cid1388116" type="Box" label="Mixed materials">45</container>
+                    <unitdate normal="1999/2000" type="inclusive">July 19 - August 16, 1999; April 24, 2000</unitdate>
+                </did>
+            </c>
+            <c id="ref123" level="file">
+                <did>
+                    <unittitle>Carroll Gardens/Cobble Hill Courier (seven bound volumes)</unittitle>
+                    <container id="cid1388117" type="Volume" label="Mixed materials">Library gallery shelf 30.1.E</container>
+                    <unitdate normal="2001/2002" type="inclusive">January 2001 - June 2002</unitdate>
+                </did>
+            </c>
+            <c id="ref124" level="file">
+                <did>
+                    <unittitle>Carroll Gardens/Cobble Hill Courier (eighteen bound volumes)</unittitle>
+                    <container id="cid1388118" type="Volume" label="Mixed materials">Library gallery shelf 30.1.F</container>
+                    <unitdate>July 2002 - December 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref125" level="file">
+                <did>
+                    <unittitle>Chat, The (Sag Harbor, New York) (microfilm)</unittitle>
+                    <container id="cid1388119" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1921/1942" type="inclusive">May 7, 1921 – January 1942 </unitdate>
+                </did>
+            </c>
+            <c id="ref126" level="file">
+                <did>
+                    <unittitle>Civic News (Park Slope Civic Council) (nineteen bound volumes)</unittitle>
+                    <container id="cid1388120" type="Volume" label="Graphic materials">Library gallery shelf 21.1.C</container>
+                    <unitdate normal="1938/1991" type="inclusive">1938-1991</unitdate>
+                </did>
+            </c>
+            <c id="ref127" level="file">
+                <did>
+                    <unittitle>Commercial Advertiser, The (New York)</unittitle>
+                    <container id="cid1388121" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1899/1899">July 1, 1899</unitdate>
+                </did>
+            </c>
+            <c id="ref128" level="file">
+                <did>
+                    <unittitle>Community Advocate</unittitle>
+                    <container id="cid1388122" type="Box" label="Mixed materials">45</container>
+                    <unitdate normal="1988/1988">Spring 1988</unitdate>
+                </did>
+                <odd id="ref248">
+                    <head>General note</head>
+                    <p>Southern Brooklyn Community Organization and the Ocean Parkway Community Development Corporation</p>
+                </odd>
+            </c>
+            <c id="ref129" level="file">
+                <did>
+                    <unittitle>Coney Island Times (one bound volume)</unittitle>
+                    <container id="cid1388123" type="Volume" label="Mixed materials">Print room shelf 4.E</container>
+                    <unitdate normal="1927/1927">1927</unitdate>
+                </did>
+            </c>
+            <c id="ref130" level="file">
+                <did>
+                    <unittitle>Corrector, The</unittitle>
+                    <container id="cid1388124" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1822/1911" type="inclusive">August 3, 1822 – December 1911</unitdate>
+                </did>
+            </c>
+            <c id="ref131" level="file">
+                <did>
+                    <unittitle>Courier Homes (eight bound volumes)</unittitle>
+                    <container id="cid1388125" type="Volume" label="Mixed materials">Library gallery level 29.1.F</container>
+                    <unitdate normal="1996/2006" type="inclusive">1996-2006</unitdate>
+                </did>
+            </c>
+            <c id="ref132" level="file">
+                <did>
+                    <unittitle>Courier-Life Wedding Guides (one bound volume)</unittitle>
+                    <container id="cid1388126" type="Volume" label="Mixed materials">Library gallery level 31.1.H</container>
+                    <unitdate normal="2001/2002" type="inclusive">2001-2002</unitdate>
+                </did>
+            </c>
+            <c id="ref133" level="file">
+                <did>
+                    <unittitle>Courier-Life Supplements (one bound volume)</unittitle>
+                    <container id="cid1388127" type="Volume" label="Mixed materials">Library gallery level 31.1.H</container>
+                    <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
+                </did>
+            </c>
+            <c id="ref134" level="file">
+                <did>
+                    <unittitle>Crown Heights News</unittitle>
+                    <container id="cid1388128" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1994/1994">December 1994</unitdate>
+                </did>
+            </c>
+            <c id="ref135" level="file">
+                <did>
+                    <unittitle>Daily Star (Long Island City, New York) (microfilm)</unittitle>
+                    <container id="cid1388129" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1882/1926" type="inclusive">1882-1926</unitdate>
+                </did>
+                <odd id="ref249">
+                    <head>General note</head>
+                    <p>Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref136" level="file">
+                <did>
+                    <unittitle>Downtown Brooklyn</unittitle>
+                    <container id="cid1388130" type="Box" label="Mixed materials">38</container>
+                    <unitdate normal="1974/1976" type="inclusive">August 1974 - February 1976</unitdate>
+                </did>
+                <odd id="ref250">
+                    <head>General note</head>
+                    <p>Becomes Brooklyn Progress; Published by Downtown Brooklyn Development Corporation</p>
+                </odd>
+            </c>
+            <c id="ref137" level="file">
+                <did>
+                    <unittitle>East Norwich Enterprise (23 bound volumes)</unittitle>
+                    <container id="cid1388131" type="Volume" label="Mixed materials">Print room shelves 4.E-H</container>
+                    <unitdate normal="1880/1925" type="inclusive">September 11, 1880 - February 25, 1925</unitdate>
+                </did>
+            </c>
+            <c id="ref138" level="file">
+                <did>
+                    <unittitle>Eastern District News</unittitle>
+                    <container id="cid1388132" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1986/1986">July 1986</unitdate>
+                </did>
+                <odd id="ref251">
+                    <head>General note</head>
+                    <p>Williamsburg, Greenpoint, and Bushwick</p>
+                </odd>
+            </c>
+            <c id="ref139" level="file">
+                <did>
+                    <unittitle>Flatbush Life</unittitle>
+                    <container id="cid1388133" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1983/1983">May 9 and December 26, 1983</unitdate>
+                </did>
+            </c>
+            <c id="ref140" level="file">
+                <did>
+                    <unittitle>Flatbush Life</unittitle>
+                    <container id="cid1388134" type="Box" label="Mixed materials">45</container>
+                    <unitdate normal="1999/1999">July 5 - August 16, 1999</unitdate>
+                </did>
+            </c>
+            <c id="ref141" level="file">
+                <did>
+                    <unittitle>Flatbush Life (seven bound volumes)</unittitle>
+                    <container id="cid1388135" type="Volume" label="Mixed materials">Library gallery shelf 30.1.F</container>
+                    <unitdate normal="2001/2005" type="inclusive">January 2001 - December 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref142" level="file">
+                <did>
+                    <unittitle>Flatbush Life</unittitle>
+                    <container id="cid1388136" type="Box" label="Mixed materials">45</container>
+                    <unitdate normal="2006/2006">June 16, 2006</unitdate>
+                </did>
+            </c>
+            <c id="ref143" level="file">
+                <did>
+                    <unittitle>Flushing Daily Times (microfilm)</unittitle>
+                    <container id="cid1388137" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1866/1925" type="inclusive">October 11, 1866 - September 9, 1925</unitdate>
+                </did>
+                <odd id="ref252">
+                    <head>General note</head>
+                    <p>Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref144" level="file">
+                <did>
+                    <unittitle>Flushing Journal Weekly (microfilm)</unittitle>
+                    <container id="cid1388138" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1842/1907" type="inclusive">May 14, 1842 – June 8, 1907</unitdate>
+                </did>
+            </c>
+            <c id="ref145" level="file">
+                <did>
+                    <unittitle>Fort Greene/Clinton Hill Courier (four bound volumes)</unittitle>
+                    <container id="cid1388139" type="Volume" label="Mixed materials">Library gallery shelf 30.1.F</container>
+                    <unitdate normal="2005/2005">April-December 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref146" level="file">
+                <did>
+                    <unittitle>Frank Leslie's Illustrated Newspaper (New York)</unittitle>
+                    <container id="cid1388140" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1883/1883">June 2, 1883</unitdate>
+                </did>
+            </c>
+            <c id="ref147" level="file">
+                <did>
+                    <unittitle>Greenpoint Gazette</unittitle>
+                    <container id="cid1388141" type="Box" label="Mixed materials">46</container>
+                    <unitdate normal="1983/1985" type="inclusive">January 4 - December 27, 1983; April 9, 23, 1985</unitdate>
+                </did>
+            </c>
+            <c id="ref148" level="file">
+                <did>
+                    <unittitle>Hempstead Inquirer (microfilm)</unittitle>
+                    <container id="cid1388142" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1853/1949" type="inclusive">January 1, 1853 - January 27, 1949 </unitdate>
+                </did>
+                <odd id="ref253">
+                    <head>General note</head>
+                    <p>Previously The Inquirer</p>
+                </odd>
+            </c>
+            <c id="ref149" level="file">
+                <did>
+                    <unittitle>Home Reporter and Sunset News</unittitle>
+                    <container id="cid1388143" type="Box" label="Mixed materials">46</container>
+                    <unitdate normal="1998/1999" type="inclusive">April - July 1998; July 2 - August 13, 1999</unitdate>
+                </did>
+                <odd id="ref254">
+                    <head>General note</head>
+                    <p>Bay Ridge and Sunset Park</p>
+                </odd>
+            </c>
+            <c id="ref150" level="file">
+                <did>
+                    <unittitle>Inquirer, The (Village of Hempstead)</unittitle>
+                    <container id="cid1388144" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1831/1831">August 12, 1831</unitdate>
+                </did>
+                <odd id="ref255">
+                    <head>General note</head>
+                    <p>Becomes the Hempstead Inquirer</p>
+                </odd>
+            </c>
+            <c id="ref151" level="file">
+                <did>
+                    <unittitle>Jamaica Queens Voice (microfilm)</unittitle>
+                    <container id="cid1388145" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1967/1968" type="inclusive">January 1967 – December 1968</unitdate>
+                </did>
+            </c>
+            <c id="ref152" level="file">
+                <did>
+                    <unittitle>Kings County Rural Gazette (Flatbush, New York) (microfilm)</unittitle>
+                    <container id="cid1388146" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1876/1978" type="inclusive">January 8, 1876 – September 7, 1878</unitdate>
+                </did>
+            </c>
+            <c id="ref153" level="file">
+                <did>
+                    <unittitle>Kings County Rural Gazette (Flatbush, New York)</unittitle>
+                    <container id="cid1388147" type="Box" label="Mixed materials">47</container>
+                    <unitdate normal="1878/1881" type="inclusive">May 4, 1878 - 1881</unitdate>
+                </did>
+                <odd id="ref256">
+                    <head>General note</head>
+                    <p>Fragile</p>
+                </odd>
+            </c>
+            <c id="ref154" level="file">
+                <did>
+                    <unittitle>Kings County Rural and Brighton Gazette (Flatbush, New York) (microfilm)</unittitle>
+                    <container id="cid1388148" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1882/1885" type="inclusive">January 7, 1882 – October 3, 1885</unitdate>
+                </did>
+            </c>
+            <c id="ref155" level="file">
+                <did>
+                    <unittitle>Kings Courier (eighteen bound volumes)</unittitle>
+                    <container id="cid1388149" type="Volume" label="Mixed materials">Library gallery shelf 30.1.G</container>
+                    <unitdate normal="2001/2004" type="inclusive">January 2001 - December 2004</unitdate>
+                </did>
+            </c>
+            <c id="ref156" level="file">
+                <did>
+                    <unittitle>Kings Courier (five bound volumes)</unittitle>
+                    <container id="cid1388150" type="Volume" label="Mixed materials">Library gallery shelf 31.1.F</container>
+                    <unitdate normal="2005/2005">2005</unitdate>
+                </did>
+            </c>
+            <c id="ref157" level="file">
+                <did>
+                    <unittitle>Liberator</unittitle>
+                    <container id="cid1388151" type="Box" label="Mixed materials">48</container>
+                    <unitdate normal="1837/1854" type="inclusive">1837, 1840, 1854</unitdate>
+                </did>
+                <odd id="ref257">
+                    <head>General note</head>
+                    <p>Abolitionist newspaper</p>
+                </odd>
+            </c>
+            <c id="ref158" level="file">
+                <did>
+                    <unittitle>Line Waiter Gazette</unittitle>
+                    <container id="cid1388152" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1999/1999">July 1999</unitdate>
+                </did>
+                <odd id="ref279">
+                    <head>General note</head>
+                    <p>Park Slope Food Coop newsletter</p>
+                </odd>
+            </c>
+            <c id="ref159" level="file">
+                <did>
+                    <unittitle>Long Island Democrat (Jamaica, New York) (microfilm)</unittitle>
+                    <container id="cid1388153" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1835/1912" type="inclusive">May 1835 – September 1912</unitdate>
+                </did>
+            </c>
+            <c id="ref160" level="file">
+                <did>
+                    <unittitle>Long Island Farmer (Jamaica, New York) (microfilm)</unittitle>
+                    <container id="cid1388154" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1821/1900" type="inclusive">1821-1832; 1873-1900</unitdate>
+                </did>
+                <odd id="ref258">
+                    <head>General note</head>
+                    <p>Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref161" level="file">
+                <did>
+                    <unittitle>Long Island Heritage</unittitle>
+                    <container id="cid1388155" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1983/1983">May 1983</unitdate>
+                </did>
+            </c>
+            <c id="ref162" level="file">
+                <did>
+                    <unittitle>Long Island Star (Brooklyn, New York) (microfilm)</unittitle>
+                    <container id="cid1388156" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1809/1863" type="inclusive">June 18, 1809 – June 1863</unitdate>
+                </did>
+            </c>
+            <c id="ref163" level="file">
+                <did>
+                    <unittitle>Long Island Star (Brooklyn, New York) (one bound volume)</unittitle>
+                    <container id="cid1388157" type="Box" label="Mixed materials">49</container>
+                    <unitdate normal="1812/1835" type="inclusive">1812-1835</unitdate>
+                </did>
+                <odd id="ref259">
+                    <head>General note</head>
+                    <p>Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref164" level="file">
+                <did>
+                    <unittitle>Long Island Times Weekly (Flushing, New York) (microfilm)</unittitle>
+                    <container id="cid1388158" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1861/1877" type="inclusive">January 3, 1861 – December 27, 1877</unitdate>
+                </did>
+            </c>
+            <c id="ref165" level="file">
+                <did>
+                    <unittitle>Long Island Times Weekly (Flushing, New York) (microfilm)</unittitle>
+                    <container id="cid1388159" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1878/1885" type="inclusive">November 7, 1878 – December 24, 1885</unitdate>
+                </did>
+            </c>
+            <c id="ref166" level="file">
+                <did>
+                    <unittitle>Long Island Times Weekly (Flushing, New York) (microfilm)</unittitle>
+                    <container id="cid1388160" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1896/1896">April 4, 1896</unitdate>
+                </did>
+            </c>
+            <c id="ref167" level="file">
+                <did>
+                    <unittitle>Long Island Weekly Star (Long Island City, New York) (microfilm)</unittitle>
+                    <container id="cid1388161" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1880/1882" type="inclusive">January 2, 1880 – August 4, 1882</unitdate>
+                </did>
+            </c>
+            <c id="ref168" level="file">
+                <did>
+                    <unittitle>Long Island Weekly Star (Long Island City, New York) (microfilm)</unittitle>
+                    <container id="cid1388162" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1884/1896" type="inclusive">January 4, 1884 – December 25, 1896</unitdate>
+                </did>
+            </c>
+            <c id="ref169" level="file">
+                <did>
+                    <unittitle>Long Island Weekly Star (Long Island City, New York) (microfilm)</unittitle>
+                    <container id="cid1388163" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1901/1906" type="inclusive">January 4, 1901 – December 28, 1906</unitdate>
+                </did>
+            </c>
+            <c id="ref170" level="file">
+                <did>
+                    <unittitle>Long Island Weekly Star (Long Island City, New York) (microfilm)</unittitle>
+                    <container id="cid1388164" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1916/1916">1916</unitdate>
+                </did>
+            </c>
+            <c id="ref171" level="file">
+                <did>
+                    <unittitle>Long Islander (Huntington, New York) (microfilm)</unittitle>
+                    <container id="cid1388165" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1839/1901" type="inclusive">July 12, 1839 – July 12, 1901</unitdate>
+                </did>
+            </c>
+            <c id="ref172" level="file">
+                <did>
+                    <unittitle>Nassau Post (Freeport, New York) (microfilm)</unittitle>
+                    <container id="cid1388166" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1914/1918" type="inclusive">January 1914 – July 1918</unitdate>
+                </did>
+            </c>
+            <c id="ref173" level="file">
+                <did>
+                    <unittitle>National Police Gazette, The (New York, New York)</unittitle>
+                    <container id="cid1388167" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1913/1913">January 18, 1913</unitdate>
+                </did>
+                <odd id="ref260">
+                    <head>General note</head>
+                    <p>Sports journal</p>
+                </odd>
+            </c>
+            <c id="ref174" level="file">
+                <did>
+                    <unittitle>New Amsterdam Gazette</unittitle>
+                    <container id="cid1388168" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1888/1888">January 10, 1888 (Supplement); September 17-October 31, 1888 (Extra Edition)</unitdate>
+                </did>
+            </c>
+            <c id="ref175" level="file">
+                <did>
+                    <unittitle>New York Harbor Watch (four bound volumes)</unittitle>
+                    <container id="cid1388169" type="Volume" label="Mixed materials">Library gallery shelf 31.1.F</container>
+                    <unitdate normal="2001/2004" type="inclusive">2001-2004</unitdate>
+                </did>
+                <odd id="ref261">
+                    <head>General note</head>
+                    <p>Greater New York military community</p>
+                </odd>
+            </c>
+            <c id="ref176" level="file">
+                <did>
+                    <unittitle>New York Mail and Express supplement - Illustrated Saturday Magazine</unittitle>
+                    <container id="cid1388170" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1899/1899">July 1, 1899</unitdate>
+                </did>
+            </c>
+            <c id="ref177" level="file">
+                <did>
+                    <unittitle>New-York Packet and the American Advertiser</unittitle>
+                    <container id="cid1388171" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1783/1783">April 3, 1783</unitdate>
+                </did>
+            </c>
+            <c id="ref178" level="file">
+                <did>
+                    <unittitle>New-York Packet</unittitle>
+                    <container id="cid1388172" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1787/1787">November 2, 1787</unitdate>
+                </did>
+            </c>
+            <c id="ref179" level="file">
+                <did>
+                    <unittitle>New York Times, The</unittitle>
+                    <container id="cid1388173" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="1862/1862">May 2, 1862</unitdate>
+                </did>
+            </c>
+            <c id="ref180" level="file">
+                <did>
+                    <unittitle>New-York Tribune</unittitle>
+                    <container id="cid1388174" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="1865/1865">August 5, 1865</unitdate>
+                </did>
+            </c>
+            <c id="ref181" level="file">
+                <did>
+                    <unittitle>Newtown Register Weekly (microfilm)</unittitle>
+                    <container id="cid1388175" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1873/1935" type="inclusive">July 17, 1873 – June 1, 1935</unitdate>
+                </did>
+            </c>
+            <c id="ref182" level="file">
+                <did>
+                    <unittitle>North Hempstead Gazette (Roslyn, Long Island)</unittitle>
+                    <container id="cid1388176" type="Box" label="Mixed materials">6</container>
+                    <unitdate normal="1848/1848">October 5, 1848</unitdate>
+                </did>
+            </c>
+            <c id="ref183" level="file">
+                <did>
+                    <unittitle>North Hempstead Times (Great Neck, Long Island)</unittitle>
+                    <container id="cid1388177" type="Box" label="Mixed materials">6</container>
+                    <unitdate normal="1898/1898">August 13, 1898</unitdate>
+                </did>
+            </c>
+            <c id="ref184" level="file">
+                <did>
+                    <unittitle>Northport Journal (microfilm)</unittitle>
+                    <container id="cid1388178" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1922/1925" type="inclusive">January 6, 1922 – June 26, 1925</unitdate>
+                </did>
+            </c>
+            <c id="ref185" level="file">
+                <did>
+                    <unittitle>Northport Journal (microfilm)</unittitle>
+                    <container id="cid1388179" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1932/1933" type="inclusive">September 9, 1932 – December 9, 1933</unitdate>
+                </did>
+            </c>
+            <c id="ref186" level="file">
+                <did>
+                    <unittitle>Orange Patrol (Goshen, New York)</unittitle>
+                    <container id="cid1388180" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1801/1801">April 7, 1801</unitdate>
+                </did>
+            </c>
+            <c id="ref187" level="file">
+                <did>
+                    <unittitle>Our Time Press</unittitle>
+                    <container id="cid1388181" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1996/2004" type="inclusive">March 1996; May 2004</unitdate>
+                </did>
+                <odd id="ref262">
+                    <head>General note</head>
+                    <p>African-American businesses and customers</p>
+                </odd>
+            </c>
+            <c id="ref188" level="file">
+                <did>
+                    <unittitle>Park Slope Courier</unittitle>
+                    <container id="cid1388182" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1994/1999" type="inclusive">August 4-17, 1994; May 31, June 14, August 9, 16, 1999</unitdate>
+                </did>
+                <odd id="ref263">
+                    <head>General note</head>
+                    <p>Park Slope, Windsor Terrace, Prospect Heights, Gowanus</p>
+                </odd>
+            </c>
+            <c id="ref189" level="file">
+                <did>
+                    <unittitle>Park Slope Courier (six bound volumes)</unittitle>
+                    <container id="cid1388183" type="Volume" label="Mixed materials">Library gallery shelf 31.1.F</container>
+                    <unitdate normal="2001/2002" type="inclusive">January 2001 - September 2002</unitdate>
+                </did>
+            </c>
+            <c id="ref190" level="file">
+                <did>
+                    <unittitle>Park Slope Courier (sixteen bound volumes)</unittitle>
+                    <container id="cid1388184" type="Volume" label="Mixed materials">Library gallery shelf 31.1.G</container>
+                    <unitdate normal="2002/2005" type="inclusive">October 2002 - December 2005</unitdate>
+                </did>
+            </c>
+            <c id="ref191" level="file">
+                <did>
+                    <unittitle>Park Slope Courier</unittitle>
+                    <container id="cid1388185" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="2011/2011">January 28 - February 3, 2011</unitdate>
+                </did>
+            </c>
+            <c id="ref192" level="file">
+                <did>
+                    <unittitle>Park Slope Jewish Review</unittitle>
+                    <container id="cid1388186" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1988/1988">1988</unitdate>
+                </did>
+                <odd id="ref264">
+                    <head>General note</head>
+                    <p>Congregation B'nai Jacob</p>
+                </odd>
+            </c>
+            <c id="ref193" level="file">
+                <did>
+                    <unittitle>Peoples Tribune</unittitle>
+                    <container id="cid1388187" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1985/1985">1985</unitdate>
+                </did>
+                <odd id="ref265">
+                    <head>General note</head>
+                    <p>African-American community newspaper</p>
+                </odd>
+            </c>
+            <c id="ref194" level="file">
+                <did>
+                    <unittitle>Phoenix</unittitle>
+                    <container id="cid1388188" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="1996/1998" type="inclusive">March 25, August 2, 1996; May 15, May 29, June 5, November 13, 1998</unitdate>
+                </did>
+                <odd id="ref266">
+                    <head>General note</head>
+                    <p>"Brownstone Brooklyn"</p>
+                </odd>
+            </c>
+            <c id="ref195" level="file">
+                <did>
+                    <unittitle>Picket, The (Rockville Centre, New York) (microfilm)</unittitle>
+                    <container id="cid1388189" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1865/1868" type="inclusive">July 7, 1865 – June 12, 1868</unitdate>
+                </did>
+            </c>
+            <c id="ref196" level="file">
+                <did>
+                    <unittitle>Picket, The (Rockville Centre, New York) (microfilm)</unittitle>
+                    <container id="cid1388190" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1869/1870" type="inclusive">June 25, 1869 – June 10, 1870 </unitdate>
+                </did>
+            </c>
+            <c id="ref197" level="file">
+                <did>
+                    <unittitle>Political Intelligencer, and New-Jersey Advertiser, The (New Brunswick, New Jersey)</unittitle>
+                    <container id="cid1388191" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1784/1784">September 21, 1784</unitdate>
+                </did>
+            </c>
+            <c id="ref198" level="file">
+                <did>
+                    <unittitle>Port Jefferson Echo (microfilm)</unittitle>
+                    <container id="cid1388192" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1892/1931" type="inclusive">August 6, 1892 - December 25, 1931</unitdate>
+                </did>
+                <odd id="ref267">
+                    <head>General note</head>
+                    <p>Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref199" level="file">
+                <did>
+                    <unittitle>Port Jefferson Times (microfilm)</unittitle>
+                    <container id="cid1388193" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1879/1915" type="inclusive">March 15, 1879 – September 9, 1905; April 17, 1915</unitdate>
+                </did>
+            </c>
+            <c id="ref200" level="file">
+                <did>
+                    <unittitle>Prospect Press, The (Park Slope edition)</unittitle>
+                    <container id="cid1388194" type="Box" label="Mixed materials">50</container>
+                    <unitdate normal="1982/1983" type="inclusive">December 23, 1982 - December 22, 1983</unitdate>
+                </did>
+            </c>
+            <c id="ref201" level="file">
+                <did>
+                    <unittitle>Queens County Sentinel (Hempstead, New York) (microfilm)</unittitle>
+                    <container id="cid1388195" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1858/1898" type="inclusive">June 3, 1858 – May 26, 1898</unitdate>
+                </did>
+            </c>
+            <c id="ref202" level="file">
+                <did>
+                    <unittitle>Queens County Sentinel (Hempstead, New York) (microfilm)</unittitle>
+                    <container id="cid1388196" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1899/1922" type="inclusive">June 1, 1899 – May 25, 1922 </unitdate>
+                </did>
+                <odd id="ref268">
+                    <head>General note</head>
+                    <p>Various issues, not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref203" level="file">
+                <did>
+                    <unittitle>Red Hook Star-Review, The</unittitle>
+                    <container id="cid1388197" type="Box" label="Mixed materials">39</container>
+                    <unitdate normal="2010/2013" type="inclusive">November 2010 - May 2011; January-May 2013</unitdate>
+                </did>
+            </c>
+            <c id="ref204" level="file">
+                <did>
+                    <unittitle>Republican Watchman (Greenport, New York)</unittitle>
+                    <container id="cid1388198" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1858/1876" type="inclusive">August 28, 1858; 1876</unitdate>
+                </did>
+                <odd id="ref269">
+                    <head>General note</head>
+                    <p>1876 issues are very fragile; not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref205" level="file">
+                <did>
+                    <unittitle>Rockaway News (Far Rockaway, New York) (microfilm)</unittitle>
+                    <container id="cid1388199" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1903/1905" type="inclusive">February 11, 1903 – January 14, 1905</unitdate>
+                </did>
+            </c>
+            <c id="ref206" level="file">
+                <did>
+                    <unittitle>Shipbuilder, The (Brooklyn, New York) (microfilm)</unittitle>
+                    <container id="cid1388200" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1941/1966" type="inclusive">1941-1966</unitdate>
+                </did>
+                <odd id="ref270">
+                    <head>General note</head>
+                    <p>Brooklyn Navy Yard newspaper</p>
+                </odd>
+            </c>
+            <c id="ref207" level="file">
+                <did>
+                    <unittitle>Southside Observer (Rockville Centre, New York) (microfilm)</unittitle>
+                    <container id="cid1388201" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1882/1920" type="inclusive">February 1882 – November 1920</unitdate>
+                </did>
+            </c>
+            <c id="ref208" level="file">
+                <did>
+                    <unittitle>Southside Signal (Babylon, New York) (microfilm)</unittitle>
+                    <container id="cid1388202" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1869/1920" type="inclusive">July 7, 1869 – June 30, 1920</unitdate>
+                </did>
+            </c>
+            <c id="ref209" level="file">
+                <did>
+                    <unittitle>Spring Creek Sun</unittitle>
+                    <container id="cid1388203" type="Box" label="Mixed materials">50</container>
+                    <unitdate normal="1999/2012" type="inclusive">July 1999 - February 2012</unitdate>
+                </did>
+                <odd id="ref271">
+                    <head>General note</head>
+                    <p>East New York; Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref210" level="file">
+                <did>
+                    <unittitle>Staten Island Star Reporter (six bound volumes)</unittitle>
+                    <container id="cid1388204" type="Volume" label="Mixed materials">Library gallery shelf 31.1.H</container>
+                    <unitdate normal="2001/2005" type="inclusive">2001-2005</unitdate>
+                </did>
+            </c>
+            <c id="ref211" level="file">
+                <did>
+                    <unittitle>Suffolk Bulletin (Huntington, New York) (microfilm)</unittitle>
+                    <container id="cid1388205" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1918/1919" type="inclusive">January 4, 1918 – December 26, 1919 </unitdate>
+                </did>
+            </c>
+            <c id="ref212" level="file">
+                <did>
+                    <unittitle>Suffolk Bulletin (Huntington, New York) (microfilm)</unittitle>
+                    <container id="cid1388206" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1922/1923" type="inclusive">January 6, 1922 – December 28, 1923 </unitdate>
+                </did>
+            </c>
+            <c id="ref213" level="file">
+                <did>
+                    <unittitle>Suffolk Bulletin (Huntington, New York) (microfilm)</unittitle>
+                    <container id="cid1388207" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1925/1927" type="inclusive">January 2, 1925 – December 28, 1927</unitdate>
+                </did>
+            </c>
+            <c id="ref214" level="file">
+                <did>
+                    <unittitle>Suffolk County News (Sayville, New York) (microfilm)</unittitle>
+                    <container id="cid1388208" type="Cabinet" label="Microform">Microfilm</container>
+                    <unitdate normal="1888/1942" type="inclusive">January 7, 1888 – July 10, 1942</unitdate>
+                </did>
+            </c>
+            <c id="ref215" level="file">
+                <did>
+                    <unittitle>Suffolk Weekly Gazette, The</unittitle>
+                    <container id="cid1388209" type="Box" label="Mixed materials">6</container>
+                    <unitdate normal="1851/1857" type="inclusive">January 3, 1851 - November 20, 1857</unitdate>
+                </did>
+                <odd id="ref272">
+                    <head>General note</head>
+                    <p>Not a complete run</p>
+                </odd>
+            </c>
+            <c id="ref216" level="file">
+                <did>
+                    <unittitle>Sun, The (New York)</unittitle>
+                    <container id="cid1388210" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1833/1833">September 3, 1833</unitdate>
+                </did>
+            </c>
+            <c id="ref217" level="file">
+                <did>
+                    <unittitle>Tablet, The</unittitle>
+                    <container id="cid1388211" type="Box" label="Mixed materials">51</container>
+                    <unitdate normal="1983/1999" type="inclusive">January 1 - December 24, 1983; July 3 - August 14, 1999</unitdate>
+                </did>
+                <odd id="ref273">
+                    <head>General note</head>
+                    <p>Roman Catholic Diocese of Brooklyn; Also includes Queens</p>
+                </odd>
+            </c>
+            <c id="ref218" level="file">
+                <did>
+                    <unittitle>Trench and Camp</unittitle>
+                    <container id="cid1388212" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1919/1919">1919</unitdate>
+                </did>
+            </c>
+            <c id="ref219" level="file">
+                <did>
+                    <unittitle>Ulster County Gazette (Kingston, New York)</unittitle>
+                    <container id="cid1388213" type="Box" label="Mixed materials">19</container>
+                    <unitdate normal="1800/1800">January 4, 1800</unitdate>
+                </did>
+            </c>
+            <c id="ref220" level="file">
+                <did>
+                    <unittitle>Weekblad of Brielsche Courant</unittitle>
+                    <container id="cid1388214" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1888/1888">August 14, 1888</unitdate>
+                </did>
+                <odd id="ref274">
+                    <head>General note</head>
+                    <p>Regarding Holland Society of New York; in Dutch and English</p>
+                </odd>
+            </c>
+            <c id="ref221" level="file">
+                <did>
+                    <unittitle>Whip and Satirist of New-York and Brooklyn</unittitle>
+                    <container id="cid1388215" type="Box" label="Mixed materials">31</container>
+                    <unitdate normal="1842/1842">April 30, 1842</unitdate>
+                </did>
+            </c>
+        </dsc>
     </archdesc>
 </ead>
