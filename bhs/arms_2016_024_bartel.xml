@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2016_024_bartel">arms_2016_024_bartel</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Emile J. Bartel, Jr. photograph and certificate
+                    <num>2016.024</num>
+                </titleproper>
+                <author>Finding aid prepared by Katherine Palm</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>July 2016</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-07-28T10:42-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Emil J. Bartel, Jr. photograph and certificate</unittitle>
+            <unitid>2016.024</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1488007" type="Box" label="Mixed materials">A0021</container>
+            <physdesc>
+                <extent>0.01 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1917/1918" type="inclusive">1917-1918</unitdate>
+            <abstract id="ref7" label="Abstract">The collection consists of one portrait photograph of Emil J. Bartel, Jr. in uniform (circa 1917) and his death certificate issued by the U.S. Army (1918).</abstract>
+        </did>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The collection consists of one portrait photograph of Emil J. Bartel, Jr. in uniform (circa 1917) and his death certificate issued by the U.S. Army (1918).</p>
+        </scopecontent>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <bioghist id="ref6">
+            <head>Biographical note</head>
+            <p>Emil Joseph Bartel was born on May 12, 1895 in Long Island City, New York to Emil Bartel and Frances Balda. He had four siblings: Anna, Lillian, Frances, and William. Emil Bartel, Sr. worked for the Brooklyn Union Gas Company, beginning at age 12 in their stables and eventually retiring as a manager. The family resided at 251 Windsor Place in the Windsor Terrace neighborhood of Brooklyn.</p>
+            <p>In November 1917, Bartel and his close personal friend, William Pritchard, enlisted in Brooklyn's 13th Regiment of the National Guard. Bartel died on September 23, 1918 from wounds received in action while serving in the 59th Regiment, Coast Artillery Corps in France.</p>
+            <p>In 1922, the traffic circle located at the intersection of Prospect Park West and Prospect Park Southwest, near the Bartel home, was named "Bartel-Pritchard Square" by the Board of Alderman in honor of Bartel and Pritchard, who also perished in combat.</p>
+            <p>
+                <emph render="underline">Sources</emph>:</p>
+            <list numeration="arabic" type="ordered">
+                <item>Donor correspondence, 2016</item>
+                <item>New York City Department of Parks and Recreation, "Bartel-Pritchard Square," 
+                    <extref ns2:href="https://www.nycgovparks.org/parks/bartel-pritchard-square">https://www.nycgovparks.org/parks/bartel-pritchard-square</extref></item>
+            </list>
+        </bioghist>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of the Gossett family, 2016.</p>
+        </acqinfo>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Emil J. Bartel, Jr. photograph and certificate, 2016.024, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>The copyright status of this collection has not been assessed. Please consult library staff for more details</p>
+        </userestrict>
+        <controlaccess>
+            <persname rules="dacs" source="local">Bartel, Emil J., Jr., 1895-1918</persname>
+            <persname rules="dacs" source="local" role="Donor (dnr)">Gossett, Robert</persname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History, Military</geogname>
+            <genreform source="aat">Death certificates</genreform>
+            <subject source="lcsh">Monuments |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Photographic prints</genreform>
+            <subject source="lcsh">Portrait photography</subject>
+            <subject source="lcsh">World War, 1914-1918</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
