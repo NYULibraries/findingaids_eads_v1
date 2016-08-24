@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2016_019_police">arms_2016_019_police</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Brooklyn police ledgers
+                    <num>2016.019</num>
+                </titleproper>
+                <author>Finding aid prepared by Katherine Palm</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>April 2016</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-08-24T09:58-0400</date>
+            </creation>
+            <langusage>Finding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Brooklyn police ledgers</unittitle>
+            <unitid>2016.019</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1489001" type="Box" label="Text">2 of 2</container>
+            <container id="cid1489002" type="Box" label="Text">1 of 2</container>
+            <physdesc>
+                <extent>2.75 linear feet</extent>
+                <extent>in two flat boxes</extent>
+            </physdesc>
+            <unitdate normal="1868/1898" type="inclusive">1868-1898</unitdate>
+            <abstract id="ref7" label="Abstract">The collection comprises two disbound late-nineteenth-century Brooklyn police precinct ledgers containing handwritten daily entries recording routine activities such as roll calls as well as occasional reports of criminal incidents and accidents.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Compiler (com)">Terry, Charles H.</persname>
+            </origination>
+        </did>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Minimally processed to the collection level.</p>
+        </processinfo>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The first volume covers the period December 1868 to January 1869 within the precinct of Captain George R. Rhodes and contains records of routine activities such as roll calls and inspections of sleeping quarters, as well as reports of crimes and other events. Also included is a "Roll of the Force," which lists policemen alphabetically by name and includes their age, date of appointment, and residence.</p>
+            <p>The second volume covers the period April 8, 1898 to May 30, 1898 and is inscribed inside the front cover with the name "Police Surgeon Charles H. Terry." It contains records of routine activities such as roll calls and uniform inspections, as well as complaints against police officers (largely for absenteeism) and reports of incidents of crimes and accidents. References to postings in various parks (such as Washington, Highland, Carroll, Winthrop, and Bushwick) and to accidents in Prospect Park appear frequently and indicate that this volume may relate to a park precinct.</p>
+        </scopecontent>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>Open to users without restriction.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>The police ledger dated December 1868-January 1869 is presumed to have entered the public domain. The police ledger dated April 8, 1898-May 30, 1898 is presumed to enter the public domain in 2018.</p>
+        </userestrict>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchase by Brooklyn Historical Society, 2016.</p>
+        </acqinfo>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); Brooklyn police ledgers, 2016.019, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <controlaccess>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History |y 19th century</geogname>
+            <subject source="lcsh">Crime |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Logs (records)</genreform>
+            <subject source="lcsh">Parks |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Police |x Records and correspondence</subject>
+            <subject source="lcsh">Police |z New York (State) |z Kings County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
