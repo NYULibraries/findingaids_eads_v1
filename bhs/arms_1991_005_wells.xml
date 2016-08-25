@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1991_005_wells</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1991_005_wells.html">arms_1991_005_wells</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the P.S. 50 John D. Wells School certificates and photograph
@@ -20,14 +20,14 @@
                     <addressline>718-222-4111</addressline>
                     <addressline>library@brooklynhistory.org</addressline>
                 </address>
-                <date>July 14, 2010.</date>
+                <date>July 14, 2010</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-21T15:48-0500</date>
+                <date>2016-08-25T09:54-0400</date>
             </creation>
-            <langusage>English.</langusage>
+            <langusage>FInding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
@@ -42,12 +42,13 @@
                 <language langcode="eng"/>
             </langmaterial>
             <container id="cid1033007" type="Oversize" label="Graphic materials">XOS 2</container>
-            <container id="cid333005" type="Box" label="Text">A0605</container>
+            <container id="cid333005" type="Box" label="Text">A0114</container>
             <physdesc>
-                <extent>0.21 Linear feet</extent>
+                <extent>0.21 linear feet</extent>
                 <extent>in one folder and one oversize box.</extent>
             </physdesc>
             <unitdate normal="1918/1918">1918</unitdate>
+            <abstract id="ref12" label="Abstract">The P.S. 50 John D. Wells School certificates and photograph consists of two certificates and one oversized photograph. The certificates were awarded to Jeanette Brown from P.S. 50 John D. Wells School, 1918.</abstract>
             <origination label="creator">
                 <corpname rules="dacs" source="local">John D. Wells Junior High School (Brooklyn, New York, N.Y.).</corpname>
             </origination>
@@ -97,17 +98,6 @@
             <subject source="lcsh">Students |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
         </controlaccess>
-        <dsc>
-            <c id="ref9" level="item">
-                <did>
-                    <unittitle>Photograph</unittitle>
-                    <unitid>V1991.002</unitid>
-                    <physdesc>
-                        <extent>1.0 item</extent>
-                    </physdesc>
-                    <unitdate>1918</unitdate>
-                </did>
-            </c>
-        </dsc>
+        <dsc/>
     </archdesc>
 </ead>
