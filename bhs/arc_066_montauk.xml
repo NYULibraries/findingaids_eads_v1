@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_066_montauk</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_066_montauk.html">arc_066_montauk</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the proprietors of Montauk collection
@@ -20,20 +20,20 @@
                     <addressline>718-222-4111</addressline>
                     <addressline>library@brooklynhistory.org</addressline>
                 </address>
-                <date>August 16, 2010.</date>
+                <date>August 16, 2010</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-22T15:04-0500</date>
+                <date>2016-09-09T14:52-0400</date>
             </creation>
-            <langusage>English.</langusage>
+            <langusage>FInding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
                 <date>January 13, 2011</date>
-                <item>Additional content created by Emily Reynolds on January 13, 2011.</item>
+                <item>Additional content created by Emily Reynolds</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -47,13 +47,14 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
+            <container id="cid1495002" type="Item" label="Computer disks / tapes">ARC.066 CD Case</container>
             <container id="cid358001" type="Oversize" label="Text">Box ARC.066 4 of 4</container>
             <container id="cid358003" type="Box" label="Text">ARC.066 1 of 3</container>
             <container id="cid358002" type="Box" label="Text">ARC.066 2 of 3</container>
             <container id="cid358004" type="Box" label="Text">ARC.066 3 of 3</container>
             <physdesc>
-                <extent>2.17 Linear feet</extent>
-                <extent>in three manuscript boxes and one oversize box.</extent>
+                <extent>2.17 linear feet</extent>
+                <extent>in three manuscript boxes and one oversize box</extent>
             </physdesc>
             <unitdate normal="1699/1886" type="inclusive">1699-1886</unitdate>
             <abstract id="ref14" label="Abstract">The Proprietors of Montauk collection spans the years 1699 to 1886 and is housed in three manuscript boxes and one oversize box. Included in the collection are minutes, account books, bylaws, receipts, land conveyances, land deeds, and other documents relating to land ownership and land rights in Montauk, Long Island, N.Y. Montauk, N.Y. is an unincorporated, census-designated area located in Suffolk County, Long Island and it is the easternmost census-designated place in New York state. In the late 17th century, the Montauketts and the early English settlers, or, the Proprietors of Montauk, engaged in a series of land conveyances in which the proprietors of Montauk paid the Montauketts for land. Hand written documents were drawn up to record the exchanges between the Montauketts and the proprietors of Montauk.</abstract>
@@ -104,7 +105,7 @@
         <processinfo id="ref7">
             <head>Processing Information note</head>
             <p>Minimally processed to the collection level.</p>
-            <p>This collection combines the accessions 1974.046, 1974.047, and 1974.048.</p>
+            <p>This collection combines three accessions: 1974.046, 1974.047, and 1974.048.</p>
         </processinfo>
         <custodhist id="ref10">
             <head>Custodial History note</head>
@@ -120,7 +121,7 @@
             <genreform source="aat">Account books</genreform>
             <genreform source="aat">Bylaws (administrative records)</genreform>
             <genreform source="aat">Conveyances</genreform>
-            <genreform source="lcgft">Deeds</genreform>
+            <genreform source="aat">Deeds</genreform>
             <genreform source="aat">Legal documents</genreform>
             <geogname source="lcsh">Long Island (N.Y.)</geogname>
             <genreform source="aat">Minutes</genreform>
