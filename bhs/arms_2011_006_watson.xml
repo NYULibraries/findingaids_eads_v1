@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_2011_006_watson</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2011_006_watson.html">arms_2011_006_watson</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the William Watson Clark scrapbook
@@ -22,17 +22,12 @@
                 </address>
                 <date>November 7, 2011</date>
             </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-22T14:23-0500</date>
+                <date>2016-09-13T14:13-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
@@ -48,10 +43,11 @@
             </langmaterial>
             <container id="cid1114001" type="Oversize" label="Text">2011.006 1 of 1</container>
             <physdesc>
-                <extent>1.34 Linear feet</extent>
+                <extent>1.34 linear feet</extent>
                 <extent>in one oversize box.</extent>
             </physdesc>
-            <unitdate>circa 1928-1938</unitdate>
+            <unitdate normal="1918/1948" type="inclusive">circa 1928 to 1938</unitdate>
+            <abstract id="ref7" label="Abstract">One scrapbook documenting the career of William Watson Clark as a pitcher for the Brooklyn Robins, Brooklyn Dodgers, and New York Giants. Items date from circa 1928 to 1938. Items in the scrapbook include clippings, tickets to Ebbets Field, baseball cards, and other ephemera. The scrapbook was compiled by Watson's wife.</abstract>
             <origination label="creator">
                 <persname source="local">Clark, William Watson, 1902-1972</persname>
             </origination>
@@ -89,17 +85,17 @@
         <controlaccess>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Dodgers (Baseball team).</corpname>
             <persname source="local">Clark, William Watson, 1902-1972</persname>
+            <corpname rules="dacs" source="naf">Ebbets Field (New York, N.Y.).</corpname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">New York Giants (Baseball team).</corpname>
             <genreform source="aat">Admission tickets</genreform>
             <genreform source="aat">Baseball cards</genreform>
-            <subject source="lcgft">Baseball players |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Baseball players |z New York (State) |z New York</subject>
+            <subject source="lcsh">Baseball players |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Baseball players |z New York (State) |z New York</subject>
             <subject source="lcsh">Baseball teams |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Baseball teams |z New York (State) |z New York</subject>
+            <subject source="lcsh">Baseball teams |z New York (State) |z New York</subject>
             <subject source="lcsh">Baseball |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Baseball |z New York (State) |z New York</subject>
+            <subject source="lcsh">Baseball |z New York (State) |z New York</subject>
             <genreform source="aat">Clippings (information artifacts)</genreform>
-            <subject source="lcsh">Ebbets Field (New York, N.Y.)</subject>
             <genreform source="aat">Printed ephemera</genreform>
             <genreform source="aat">Scrapbooks</genreform>
         </controlaccess>
