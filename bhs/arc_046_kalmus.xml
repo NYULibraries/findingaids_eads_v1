@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_046_kalmus</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_046_kalmus.html">arc_046_kalmus</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Harry Kalmus papers and photographs
@@ -25,9 +25,9 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-22T14:56-0500</date>
+                <date>2016-09-13T14:19-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
@@ -46,14 +46,16 @@
             <container id="cid337003" type="Box" label="Graphic materials">ARC.046 Box 1 of 6</container>
             <container id="cid337002" type="Box" label="Graphic materials">ARC.046 Box 4 of 6</container>
             <container id="cid337005" type="Box" label="Graphic materials">ARC.046 Box 5 of 6</container>
+            <container id="cid1216001" type="Box" label="Graphic materials">74</container>
             <container id="cid337004" type="Box" label="Graphic materials">ARC.046 Box 2 of 6</container>
             <container id="cid337006" type="Box" label="Text">A0132</container>
             <physdesc>
-                <extent>4.7 Linear feet</extent>
+                <extent>4.7 linear feet</extent>
                 <extent>in two folders, two records cartons, two phases boxes, and two stereo slide boxes.</extent>
             </physdesc>
             <unitdate normal="1947/1955" type="bulk">Bulk, 1947-1955</unitdate>
             <unitdate normal="1938/1987" type="inclusive">1938-1987</unitdate>
+            <abstract id="ref16" label="Abstract">The Harry Kalmus papers and photographs consist of materials spanning 1938 to 1987 (bulk 1947-1955) and measure 4.7 linear feet. The majority of the material is photographic in nature, containing images taken by Harry Kalmus during his career as a photographer in Brooklyn. Document types include correspondence, autograph books, printed material, photographic prints, slides, stereoscopic slides, and black-and-white negatives.</abstract>
             <origination label="creator">
                 <persname rules="dacs" source="local">Kalmus, Harry, 1924-1987</persname>
             </origination>
@@ -99,6 +101,7 @@
             <p>Copyright held by the Brooklyn Historical Society. All uses beyond fair use requires a licensing agreement pursuant to Title 17 of the U.S. Copyright Law.</p>
         </userestrict>
         <controlaccess>
+            <corpname rules="dacs" source="naf">Ebbets Field (New York, N.Y.).</corpname>
             <corpname rules="dacs" source="naf">Hotel St. George (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">P.S. 63 (Brooklyn, New York, N.Y.).</corpname>
             <corpname rules="dacs" source="local">Yeshivah Toras Chaim (Brooklyn, New York, N.Y.).</corpname>
@@ -114,10 +117,9 @@
             <geogname source="lcsh">Crown Heights (New York, N.Y.)</geogname>
             <geogname source="lcsh">Cypress Hills (New York, N.Y.)</geogname>
             <geogname source="lcsh">East New York (New York, N.Y.)</geogname>
-            <subject source="lcsh">Ebbets Field (New York, N.Y.)</subject>
             <subject source="lcsh">Empire State Building (New York, N.Y.)</subject>
             <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
-            <geogname source="local">Grand Army Plaza (New York, N.Y.)</geogname>
+            <geogname source="lcsh">Grand Army Plaza (Brooklyn, New York, N.Y.)</geogname>
             <subject source="lcsh">Jews |z New York (State) |z New York</subject>
             <geogname source="lcsh">Jones Beach State Park (N.Y.)</geogname>
             <genreform source="aat">Negatives (photographic)</genreform>
@@ -133,7 +135,7 @@
                 <did>
                     <unittitle>Series 1: Papers</unittitle>
                     <physdesc>
-                        <extent>0.2 Linear feet</extent>
+                        <extent>0.2 linear feet</extent>
                         <extent>in two folders.</extent>
                     </physdesc>
                     <unitdate normal="1938/1987" type="inclusive">1938-1987</unitdate>
@@ -148,7 +150,7 @@
                     <unittitle>Series 2: Photographs</unittitle>
                     <unitid>V1991.011</unitid>
                     <physdesc>
-                        <extent>4.5 Linear feet</extent>
+                        <extent>4.5 linear feet</extent>
                         <extent>in two records cartons, two phase boxes, and two stereo slide boxes.</extent>
                     </physdesc>
                     <unitdate normal="1947/1955" type="bulk">Bulk, 1947-1955</unitdate>
