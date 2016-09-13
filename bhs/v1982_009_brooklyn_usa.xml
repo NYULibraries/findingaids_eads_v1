@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">v1982_009_brooklyn_usa</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/v1982_009_brooklyn_usa.html">v1982_009_brooklyn_usa</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Brooklyn U.S.A. View-Master images
@@ -25,9 +25,9 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T14:15-0500</date>
+                <date>2016-09-13T14:30-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
     </eadheader>
@@ -42,12 +42,13 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid850001" type="Box" label="Graphic materials">Prints by Accession 53</container>
+            <container id="cid850001" type="Box" label="Graphic materials">Prints by Accession</container>
             <physdesc>
-                <extent>0.01 Linear feet</extent>
+                <extent>0.01 linear feet</extent>
                 <extent>in one folder.</extent>
             </physdesc>
             <unitdate normal="1956/1956">1956</unitdate>
+            <abstract id="ref7" label="Abstract">Images show the Brooklyn Bridge, New York Naval Shipyard (commonly known as the Brooklyn Navy Yard), Ebbets Field, Brooklyn Botanic Garden, and the Prospect Park Zoo.</abstract>
         </did>
         <scopecontent id="ref2">
             <head>Scope and Contents note</head>
@@ -78,10 +79,10 @@
         </otherfindaid>
         <controlaccess>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Botanic Garden.</corpname>
+            <corpname rules="dacs" source="naf">Ebbets Field (New York, N.Y.).</corpname>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">New York Naval Shipyard.</corpname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
             <geogname source="lcsh">Brooklyn Bridge (New York, N.Y.)</geogname>
-            <subject source="lcsh">Ebbets Field (New York, N.Y.)</subject>
             <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
             <genreform source="aat">Stereoscopic photographs</genreform>
             <subject source="lcsh">Zoos |z New York (State) |z Kings County</subject>
