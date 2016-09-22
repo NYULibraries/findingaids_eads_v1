@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2012_013">2012_013</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the P.S. 143 Class Book
+                    <num>2012.013</num>
+                </titleproper>
+                <author>Finding aid prepared by John Zarrillo</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
+                </p>
+                <publisher>Brooklyn Historical Society</publisher>
+                <address>
+                    <addressline>128 Pierrepont Street</addressline>
+                    <addressline>Brooklyn, NY, 11201</addressline>
+                    <addressline>718-222-4111</addressline>
+                    <addressline>library@brooklynhistory.org</addressline>
+                </address>
+                <date>September 2014</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-09-22T16:46-0400</date>
+            </creation>
+            <langusage>FInding aid written in English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>P.S. 143 Class Book</unittitle>
+            <unitid>2012.013</unitid>
+            <repository>
+                <corpname>Brooklyn Historical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1242006" type="Box" label="Text">A0011</container>
+            <physdesc>
+                <extent>0.1 linear feet</extent>
+                <extent>in one folder</extent>
+            </physdesc>
+            <unitdate normal="1923/1923">1923</unitdate>
+            <abstract id="ref2" label="Abstract">A yearbook for P.S. 143, dated June 1923. The girls school was located on North 6th St., near Havenmeyer St., in Williamsburg, Brooklyn. The yearbook contains original black-and-white photographs of students, teachers, and staff. The book belonged to Carmela (Mildred?) Russo, who was a student and editor of the yearbook.</abstract>
+            <origination label="creator">
+                <corpname rules="dacs" source="local">P.S. 143 (Brooklyn, New York, N.Y.).</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Rosalie Damato, 2012. The yearbook belonged to her mother-in-law, Carmela (Mildred) Russo D'Amato.</p>
+        </acqinfo>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>Open to researchers without restriction.</p>
+        </accessrestrict>
+        <scopecontent id="ref1">
+            <head>Scope and Contents</head>
+            <p>A yearbook for P.S. 143, dated June 1923. The girls school was located on North 6th St., near Havenmeyer St., in Williamsburg, Brooklyn. The yearbook contains original black-and-white photographs of students, teachers, and staff. The book belonged to Carmela (Mildred) Russo D'Amato, who was a student and editor of the yearbook.</p>
+        </scopecontent>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date (if known); P.S. 143 Class Book, 2012.013, Box and Folder number; Brooklyn Historical Society.</p>
+        </prefercite>
+        <relatedmaterial id="ref7">
+            <head>Related Archival Materials note</head>
+            <p>BHS holds many additional collections relating to Brooklyn schools, including the Brooklyn schools collection (1985.054).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="dacs" source="local" role="Former owner (fmo)">D'Amato, Carmela (Russo)</persname>
+            <persname rules="dacs" source="local" role="Donor (dnr)">Damato, Rosalie</persname>
+            <corpname rules="dacs" source="local">P.S. 143 (Brooklyn, New York, N.Y.).</corpname>
+            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+            <subject source="lcsh">Education |z New York (State) |z Kings County</subject>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">Public schools |z New York (State) |z Kings County</subject>
+            <genreform source="aat">School yearbooks</genreform>
+            <subject source="lcsh">Student publications</subject>
+            <subject source="lcsh">Students |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+            <genreform source="aat">Yearbooks</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
