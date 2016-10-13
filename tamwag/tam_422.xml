@@ -1,89 +1,53 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_422</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Tuli Kupferberg Radical Humor Collection
-                    <num>TAM.422</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/21/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-07-19T12:34-0400</date>
-            </creation>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Tuli Kupferberg Radical Humor Collection</unittitle>
-            <unitid>TAM.422</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid18849004" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate>undated</unitdate>
-            <physloc audience="internal" id="ref2" label="Location note">Building: Bobst Area: Cage Aisle: 5 Range: D Shelf: 4</physloc>
-            <origination label="creator">
-                <persname source="naf">Tuli Kupferberg</persname>
-            </origination>
-        </did>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>Tuli Kupferberg (September 28, 1923 - 2010) was a poet, author, cartoonist, anarchist, publisher and co-founder of the band The Fugs. In 1958 he founded the magazine 
-                <emph render="italic">Birth</emph> which, despite running for only three issues, published many notable authors from the Beat Generation such as Allen Ginsberg, Diane Di Prima, LeRoi Jones and Ted Joans.</p>
-        </bioghist>
-        <userestrict id="ref5">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain 120 years after the date of their creation. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>The collection consists of cartoons, graphics, posters, songs and other documents relating to labor and the left, collected and authored by Kupferberg.</p>
-        </scopecontent>
-        <acqinfo id="ref4">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Provenance is unknown; the accession number associated with this collection is 1950.245. Various cartoons collected and authored by Kupferberg were found in repository in April 2014 and were added to this collection. The accession number associated with this material is: 2014.074.</p>
-        </acqinfo>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <controlaccess>
-            <corpname source="naf">Fugs (Musical group).</corpname>
-            <persname source="naf">Tuli Kupferberg</persname>
-            <persname source="naf">Tuli Kupferberg</persname>
-            <subject source="lcsh">Anarchists |z United States.</subject>
-            <genreform source="lcsh">Caricatures and cartoons. </genreform>
-            <subject source="lcsh">Political ballads and songs |z United States.</subject>
-            <subject source="lcsh">Political cartoons |z United States.</subject>
-            <subject source="lcsh">Political posters, American.</subject>
-            <subject source="lcsh">Political satire, American.</subject>
-            <genreform source="aat">Posters.</genreform>
-            <genreform source="aat">Songbooks.</genreform>
-            <genreform source="aat">Songs (document genre).</genreform>
-            <subject source="lcsh">Wit and humor |z United States.</subject>
-            <subject source="lcsh">Wit and humor, Pictorial</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_422</eadid><filedesc><titlestmt><titleproper>Tuli Kupferberg Radical Humor Collection <num>TAM.422</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2016-10-13T14:54:09</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Tuli Kupferberg Radical Humor Collection</unittitle>
+    <origination label="creator">
+      <persname source="naf">Tuli Kupferberg</persname>
+    </origination>
+    <unitid>TAM.422</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate type="inclusive">undated</unitdate>
+    <container id="aspace_ff7f099c01a56e2d3d4fdcea5f926067" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <bioghist id="aspace_681fcc3a6771b73e06f39dd67c838f5e">
+    <head>Historical/Biographical Note</head>
+<p>Tuli Kupferberg (September 28, 1923 - 2010) was a poet, author, cartoonist, anarchist, publisher and co-founder of the band The Fugs. In 1958 he founded the magazine <emph render="italic">Birth</emph> which, despite running for only three issues, published many notable authors from the Beat Generation such as Allen Ginsberg, Diane Di Prima, LeRoi Jones and Ted Joans.</p>  </bioghist>
+  <userestrict id="aspace_f3c5c55a7fccc94386a7522d67b02700">
+    <head>Use Restrictions</head>
+<p>The Tamiment Library does not have information about who owns copyright to this collection.  Materials in this collection are expected to enter the public domain 120 years after the date of their creation. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
+  <scopecontent id="aspace_4f8475fd91365052d7b7f8040e6132ca">
+    <head>Scope and Contents</head>
+<p>The collection consists of cartoons, graphics, posters, songs and other documents relating to labor and the left, collected and authored by Kupferberg.</p>  </scopecontent>
+  <acqinfo id="aspace_649248a03c39fe7d196afffdbd9d8086">
+    <head>Immediate Source of Acquisition</head>
+<p>Provenance is unknown; the accession number associated with this collection is 1950.245. Various cartoons collected and authored by Kupferberg were found in repository in April 2014 and were added to this collection. The accession number associated with this material is: 2014.074.</p>  </acqinfo>
+  <accessrestrict id="aspace_293d5ca04456b266b8f3e6bedabdcff8">
+    <head>Access Restrictions</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <controlaccess>
+    <genreform source="lcsh">Caricatures and cartoons.</genreform>
+    <genreform source="aat">Songs (document genre).</genreform>
+    <genreform source="aat">Posters.</genreform>
+    <subject source="lcsh">Anarchists |z United States.</subject>
+    <subject source="lcsh">Political posters, American.</subject>
+    <subject source="lcsh">Political cartoons -- United States.</subject>
+    <subject source="lcsh">Wit and humor |z United States.</subject>
+    <subject source="lcsh">Political ballads and songs |z United States.</subject>
+    <subject source="lcsh">Political satire, American.</subject>
+    <subject source="lcsh">Wit and humor, Pictorial</subject>
+    <genreform source="aat">Songbooks.</genreform>
+    <persname source="naf">Tuli Kupferberg</persname>
+    <corpname source="naf">Fugs (Musical group)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
