@@ -1,110 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="No_Description" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_198</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the New York Labor History Association Records
-                    <num>WAG.198</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicole Greenhouse</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>2015</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-03-03T16:26-0500</date>
-            </creation>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>New York Labor History Association Records</unittitle>
-            <unitid>WAG.198</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>11.0 linear feet</extent>
-                <extent>in 11 boxes and four cassettes.</extent>
-            </physdesc>
-            <unitdate normal="1970/1999" type="inclusive">1970s-1990s</unitdate>
-            <langmaterial id="ref10" label="Language of Materials note">Materials are in English</langmaterial>
-            <physloc id="ref7" label="Location note">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least one week prior to research visit.</physloc>
-            <origination label="creator">
-                <corpname source="local">New York Labor History Association.</corpname>
-            </origination>
-        </did>
-        <prefercite id="ref11">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; New York Labor History Association Records; WAG 198; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <userestrict id="ref9">
-            <head>Use Restrictions</head>
-            <p>Any rights (including copyright and related rights to publicity and privacy) held by Irwin Yellowitz, the creator of this collection, were transferred to New York University in 2001. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>
-        </userestrict>
-        <bioghist id="ref8">
-            <head>Historical/Biographical Note</head>
-            <p>New York Labor History Association (NYLHA) was founded in 1976 by trade unionists, academics, students, archivists, educators, labor editors, attorneys, and retirees, mostly from New York State. NYLHA encourages the study of workers and their organizations and serves as a bridge between past and present labor unionists and academics.</p>
-        </bioghist>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <processinfo id="ref5">
-            <head>Processing Information note</head>
-            <p>In 2014, the archived website was added as a series.</p>
-            <p>In 2015, recordings found in the repository was added to the collection.</p>
-        </processinfo>
-        <acqinfo id="ref2">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Irwin Yellowitz sent a gift of five boxes of organization records of the New York Labor History Association, including approximately 100 photographs in 1998. The accession number associated with this gift is 1998.016. In 2014 four conference recordings were found in the repository. The accession number associated with these materials is 2014.028.</p>
-        </acqinfo>
-        <controlaccess>
-            <persname source="ingest">Yellowitz, Irwin.</persname>
-        </controlaccess>
-        <dsc>
-            <c id="ref12" level="series">
-                <did>
-                    <unittitle>Organizational Records</unittitle>
-                    <container id="cid23565002" type="Box" label="Mixed materials">1-11</container>
-                </did>
-            </c>
-            <c id="ref13" level="series">
-                <did>
-                    <unittitle>Conference Recordings</unittitle>
-                    <container id="cid23565001" type="Cassette" label="Master Cassette">1-4</container>
-                    <unitdate normal="1987/1987">Feb 27, 1987</unitdate>
-                </did>
-            </c>
-            <c id="ref3" level="series">
-                <did>
-                    <unittitle>Archived Website</unittitle>
-                    <unitdate>May 1, 2009-ongoing</unitdate>
-                </did>
-                <scopecontent id="ref4">
-                    <head>Scope and Content Note</head>
-                    <p>The website includes news and event listings, labor history resources, and prize winners.</p>
-                </scopecontent>
-                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Archived Website" ns2:role="service" ns2:href="http://webarchives.cdlib.org/site/sw1ht2gd1c">
-                    <daodesc>
-                        <p>Archived Website, May 1, 2009-ongoing </p>
-                    </daodesc>
-                </dao>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="no_description" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>wag_198</eadid><filedesc><titlestmt><titleproper>Guide to the New York Labor History Association Records <num>WAG.198</num></titleproper><author>Collection processed by Nicole Greenhouse</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2016-11-11T17:11:13</date></creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>September 2016</date><item>Record edited by Craig Savino to reflect 2016 accretion</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>New York Labor History Association Records</unittitle>
+    <origination label="creator">
+      <corpname source="local">New York Labor History Association</corpname>
+    </origination>
+    <unitid>WAG.198</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">14 Linear Feet</extent>
+      <extent altrender="carrier">in 14 boxes and four cassettes.</extent>
+    </physdesc>
+    <unitdate normal="1970/2010" type="inclusive">1970s-2000s</unitdate>
+    <langmaterial id="aspace_5953fea6009ff365a01e29d238280fbc">Materials are in English</langmaterial>
+    <physloc id="aspace_ceca964e63594ce22183d36909e3483c">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least one week prior to research visit.</physloc>
+    <abstract id="aspace_7493fa2a822618d298bbe08ae6dca88c">New York Labor History Association (NYLHA) was founded in 1976 by trade unionists, academics, students, archivists, educators, labor editors, attorneys, and retirees, mostly from New York State. NYLHA encourages the study of workers and their organizations and serves as a bridge between past and present labor unionists and academics. This collection consists of materials created and collected by NYLHA documenting their actvities from the 1970s through the 2000s. Materials include correspondence; issues of the Work History News newsletter; conference recordings; the organization's website; and programs, flyers, and other publicity concerning NYLHA events.</abstract>
+  </did>
+  <prefercite id="aspace_e8e3e901362506811ea7d62924963bc4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; New York Labor History Association Records; WAG 198; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <userestrict id="aspace_dced9e7e2f1d3f6c75fb6352d1bac918">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Irwin Yellowitz, the creator of this collection, were transferred to New York University in 2001. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>  </userestrict>
+  <bioghist id="aspace_38a9217bb9aa59b26ce99fa7d69e0a92">
+    <head>Historical/Biographical Note</head>
+<p>New York Labor History Association (NYLHA) was founded in 1976 by trade unionists, academics, students, archivists, educators, labor editors, attorneys, and retirees, mostly from New York State. NYLHA encourages the study of workers and their organizations and serves as a bridge between past and present labor unionists and academics.</p>  </bioghist>
+  <accessrestrict id="aspace_e392df3a04f2d21138dbc0d5501a6b9c">
+    <head>Access Restrictions</head>
+<p>Open for research without restrictions.</p>  </accessrestrict>
+  <processinfo id="aspace_636a7ee8b3ea3707144d6bbc670722c1">
+    <head>Processing Information</head>
+<p>In 2014, the archived website was added as a series. In 2015, recordings found in the repository were added to the collection. In 2016 two additional accessions of Organizational Material were added to the collection as a separate series.</p>  </processinfo>
+  <acqinfo id="aspace_2ce7d58c785906551e282250692a729a">
+    <head>Immediate Source of Acquisition</head>
+<p>Irwin Yellowitz sent a gift of five boxes of organization records of the New York Labor History Association, including approximately 100 photographs in 1998. The accession number associated with this gift is 1998.016. In 2014 four conference recordings were found in the repository. The accession number associated with these materials is 2014.028. In 2016 two additional donations from Jane LaTour added to the organization's records. The accessions numbers associated with these materials are 2016.038 and 2016.039.</p>  </acqinfo>
+  <arrangement id="aspace_98736d15b89ca1656f5787c922a8e0e4">
+    <head>Arrangement</head>
+<p>There is no documentation indicating if or how this collection has been arranged by an archivist. The materials are described in distinct series based on format and content.</p><p>I. Organizational Records</p><p>II. Conference Recordings</p><p>III. Archived Website</p><p>IV. 2016 Accretions</p>  </arrangement>
+  <scopecontent id="aspace_ce72f2cea65ea17c8757e4d64ed5a30d">
+    <head>Scope and Contents</head>
+<p>This collection consists of materials created and collected by NYLHA documenting their actvities from the 1970s through the 2000s. Materials include correspondence; issues of the Work History News newsletter; conference recordings; the organization's website; and programs, flyers, and other publicity concerning NYLHA events.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Labor -- History</subject>
+    <subject source="lcsh">Labor movement -- United States -- History</subject>
+    <subject source="lcsh">Labor unions -- United States -- History</subject>
+    <subject source="lcsh">Historians -- United States</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref12" level="series"><did><unittitle>Organizational Records</unittitle><container id="aspace_e40e32fa0e4d19a1404b5c0836e79709" label="Mixed Materials" type="Box">1</container><container id="aspace_2070224503bc13c6190331ac290ca243" label="Mixed Materials" type="Box">2</container><container id="aspace_11f8e5f2d2e9ff57481fa2ed3e0a0b44" label="Mixed Materials" type="Box">3</container><container id="aspace_8715b4ee842b7d29e6d78a6351420cda" label="Mixed Materials" type="Box">4</container><container id="aspace_1c01d7f527e0c00b49f2d87bf4de4a3a" label="Mixed Materials" type="Box">5</container><container id="aspace_e4754084392bc9a4f8922949397fca11" label="Mixed Materials" type="Box">6</container><container id="aspace_2303a73d45da18b89f35d25630b753af" label="Mixed Materials" type="Box">7</container><container id="aspace_f2ea77326862b8a9472706ab28cde3fe" label="Mixed Materials" type="Box">8</container><container id="aspace_59ed016eb48ca034ef61ecde7be0ae0a" label="Mixed Materials" type="Box">9</container></did></c><c id="aspace_ref13" level="series"><did><unittitle>Conference Recordings</unittitle><unitdate normal="1987/1987" type="inclusive">Feb 27, 1987</unitdate><container id="aspace_2322eaa67066daa324af84b448e70dc6" label="Master cassette" type="Cassette">1-4</container></did></c><c id="aspace_ref3" level="series"><did><unittitle>Archived Website</unittitle><unitdate type="inclusive">May 1, 2009-ongoing</unitdate></did><dao ns2:actuate="onRequest" ns2:href="http://webarchives.cdlib.org/site/sw1ht2gd1c" ns2:role="translation missing: en.enumerations.file_version_use_statement.service" ns2:show="new" ns2:title="Archived Website"><daodesc><p>Archived Website: May 1, 2009-ongoing</p></daodesc></dao><scopecontent id="aspace_345040f40fb856a2964dbb958444c485"><head>Scope and Content Note</head><p>The website includes news and event listings, labor history resources, and prize winners.</p></scopecontent></c><c id="aspace_ad02b6cc38a6f5b25aeaccc5d2653040" level="series"><did><unittitle>2016 Accretions: Organizational Records</unittitle><unitdate normal="1990/2013" type="inclusive">1990s-2000s</unitdate><container id="aspace_b1d69a4093d969c47a10be4a8844778a" label="Mixed Materials" type="Box">12</container><container id="aspace_b0ba9ffe2eb1369692621e1d4b53b4dd" label="Mixed Materials" type="Box">13</container><container id="aspace_20a454c7cfbc4916bcabb3e71854f344" label="Mixed Materials" type="Box">14</container></did><scopecontent id="aspace_d5a5bcd160e455462f35c42d720e24fc"><head>Scope and Contents</head><p>These accretions to the collection consist of materials created and collected by the New York Labor History Association in the late 1990s and early 2000s, including correspondence; issues of the Work History News newsletter; and programs, flyers, and other publicity concerning NYLHA events. The accretions also include Jane LaTour's records as a board member of the organization, including correspondence and meeting minutes.</p></scopecontent><arrangement id="aspace_1a350e3492366a9f20fa7708e7480ebb"><head>Arrangement</head><p>These accretions have not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p></arrangement></c></dsc>
+</archdesc>
 </ead>
