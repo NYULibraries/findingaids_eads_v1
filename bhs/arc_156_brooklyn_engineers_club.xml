@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_156_brooklyn_engineers_club</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_156_brooklyn_engineers_club.html">arc_156_brooklyn_engineers_club</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Brooklyn Engineers' Club publications
@@ -25,15 +25,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T10:32-0500</date>
+                <date>2016-12-19T11:21-0500</date>
             </creation>
-            <langusage>English.</langusage>
+            <langusage>FInding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>January 14, 2011</date>
-                <item>Additional content contributed by Emily Reynolds on January 14, 2011.</item>
+                <date>December 2016</date>
+                <item>Last updated by John Zarrillo</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -52,7 +52,7 @@
             <container id="cid554005" type="Box" label="Text">ARC.156 3 of 4</container>
             <container id="cid554004" type="Box" label="Text">ARC.156 4 of 4</container>
             <physdesc>
-                <extent>1.67 Linear feet</extent>
+                <extent>1.67 linear feet</extent>
                 <extent>in four manuscript boxes.</extent>
             </physdesc>
             <unitdate normal="1897/1973" type="inclusive">1897-1973</unitdate>
@@ -77,7 +77,7 @@
         </scopecontent>
         <processinfo id="ref5">
             <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
+            <p>Minimally processed to the collection level by Patricia Glowinski in December 2010. Additional content contributed by Emily Reynolds on January 14, 2011. An additional copy of the club's 1911 Proceedings was donated by Kathy Russon in 2011 and added to the collection by John Zarrillo in December 2016.</p>
         </processinfo>
         <prefercite id="ref4">
             <head>Preferred Citation</head>
@@ -85,7 +85,7 @@
         </prefercite>
         <acqinfo id="ref3">
             <head>Immediate Source of Acquisition</head>
-            <p>Gift of the Brooklyn Engineers' Club, date unknown.</p>
+            <p>Gift of the Brooklyn Engineers' Club, date unknown, and Kathy Russo, 2011.</p>
         </acqinfo>
         <accessrestrict id="ref2">
             <head>Conditions Governing Access</head>
@@ -108,8 +108,9 @@
         </relatedmaterial>
         <controlaccess>
             <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Engineers' Club.</corpname>
+            <persname rules="dacs" source="local" role="Donor (dnr)">Russo, Kathy</persname>
             <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Brooklyn Heights (New York, N.Y.) </geogname>
+            <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
             <genreform source="aat">Bylaws (administrative records)</genreform>
             <genreform source="aat">Constitutions</genreform>
             <subject source="lcsh">Engineering |x Societies, etc.</subject>
