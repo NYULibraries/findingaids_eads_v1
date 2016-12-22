@@ -24,11 +24,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2016-07-21T13:42-0400</date>
+                <date>2016-12-22T15:42-0500</date>
             </creation>
             <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>December 2016</date>
+                <item>Last updated by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -41,12 +47,13 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>199.5 linear feet</extent>
-                <extent>in 51 boxes, 250 bound volumes, and 87 reels of microfilm</extent>
+                <extent>207.75 linear feet</extent>
+                <extent>in 56 boxes, 252 bound volumes, and 87 reels of microfilm</extent>
             </physdesc>
             <unitdate normal="1820/2005" type="bulk">Bulk, 1820-2005</unitdate>
-            <unitdate normal="1783/2015" type="inclusive">1783-2015</unitdate>
+            <unitdate normal="1783/2016" type="inclusive">1783-2016</unitdate>
             <abstract id="ref6" label="Abstract">The collection is primarily composed of newspapers published in Brooklyn, New York, dating from the 18th century to 2015. It also includes a selection of newspapers published in Queens, Long Island, upstate New York, and New Jersey. In addition to paper editions, the collection includes microfilm copies of certain publications.</abstract>
+            <langmaterial id="ref300" label="Language of Materials">Materials in English, Finnish, Hebrew, Italian, Latvian, Lithuanian, Norwegian, Polish, Russian, and Spanish.</langmaterial>
         </did>
         <relatedmaterial id="ref275">
             <head>Note on additional newspapers</head>
@@ -59,7 +66,7 @@
         </accessrestrict>
         <acqinfo id="ref3">
             <head>Immediate Source of Acquisition note</head>
-            <p>The newspapers were found in collection.</p>
+            <p>The newspapers were found in collection, with the exception of the March 1, 1873 issue of the Kings County Gazette, which was the gift of Martin Fishman, 2001.</p>
         </acqinfo>
         <prefercite id="ref2">
             <head>Preferred Citation</head>
@@ -79,6 +86,7 @@
             <p>Geographically, the newspapers cover the numerous neighborhoods of Brooklyn, as well the other boroughs of New York City (Manhattan, Queens, Staten Island, and the Bronx), Long Island (Suffolk and Nassau Counties), and parts of upstate New York and New Jersey. The collection also includes issues of 
                 <emph render="italic">The Liberator</emph>, an abolitionist newspaper which was published in Boston, Massachusetts.</p>
             <p>Some newspapers were published for specific communities (African-Americans, Caribbean-Americans, Catholics, Jewish-Americans, the military) or specific topics (business, real estate, antiques, computers, etc.).</p>
+            <p>One newspaper of note is The Christian Union, which was edited by Henry Ward Beecher.</p>
             <p>For a complete list of newspapers included in the collection, please see the inventory below. Please note that this collection does not include newspapers which are currently being held at our off-site storage facility. For a listing of these holdings, please contact BHS library staff at: 
                 <extref ns2:href="library@brooklynhistory.org">library@brooklynhistory.org</extref></p>
             <p></p>
@@ -114,6 +122,7 @@
             <p>Elizabeth Feldhusen collection of Brooklyn ephemera, circa 1920s-1992 (ARC.299)</p>
         </relatedmaterial>
         <controlaccess>
+            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Beecher, Henry Ward, 1813-1887</persname>
             <subject source="lcsh">Abolitionists |z New York (State) |z Kings County</subject>
             <subject source="lcsh">African American newspapers |z New York (State) |z Kings County</subject>
             <geogname source="lcsh">Albany (N.Y.)</geogname>
@@ -176,6 +185,7 @@
             <geogname source="lcsh">Red Hook (New York, N.Y.)</geogname>
             <geogname source="lcsh">Rockville Centre (N.Y.)</geogname>
             <subject source="lcsh">Schools |z New York (State) |z Kings County</subject>
+            <geogname source="lcsh">Sheepshead Bay (New York, N.Y.)</geogname>
             <geogname source="lcsh">Staten Island (New York, N.Y.)</geogname>
             <geogname source="lcsh">Sunset Park (New York, N.Y.)</geogname>
             <geogname source="lcsh">Westchester County (N.Y.)</geogname>
@@ -318,11 +328,32 @@
                     <unitdate normal="1859/1860" type="inclusive">November 1859 - December 1860</unitdate>
                 </did>
             </c>
+            <c id="ref312" level="file">
+                <did>
+                    <unittitle>Brooklyn City News (two bound volumes)</unittitle>
+                    <container id="cid1538019" type="Box" label="Text">53</container>
+                    <unitdate normal="1861/1861">1861</unitdate>
+                </did>
+            </c>
+            <c id="ref315" level="file">
+                <did>
+                    <unittitle>Brooklyn City News (two bound volumes)</unittitle>
+                    <container id="cid1538020" type="Box" label="Text">54</container>
+                    <unitdate normal="1862/1862">1862</unitdate>
+                </did>
+            </c>
             <c id="ref24" level="file">
                 <did>
                     <unittitle>Brooklyn City News</unittitle>
                     <container id="cid1388018" type="Box" label="Mixed materials">2</container>
                     <unitdate normal="1862/1862">March 10, 1862</unitdate>
+                </did>
+            </c>
+            <c id="ref311" level="file">
+                <did>
+                    <unittitle>Brooklyn City News (two bound volumes)</unittitle>
+                    <container id="cid1538018" type="Box" label="Text">52</container>
+                    <unitdate normal="1863/1863">1863</unitdate>
                 </did>
             </c>
             <c id="ref25" level="file">
@@ -396,11 +427,25 @@
                     <unitdate normal="1873/1873">January-June 1873</unitdate>
                 </did>
             </c>
+            <c id="ref329" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle - Consolidation supplement</unittitle>
+                    <container id="cid1538028" type="Box" label="Text">55</container>
+                    <unitdate normal="1898/1898">January 2, 1898</unitdate>
+                </did>
+            </c>
             <c id="ref34" level="file">
                 <did>
                     <unittitle>Brooklyn Daily Eagle (microfilm)</unittitle>
                     <container id="cid1388028" type="Cabinet" label="Microform">Microfilm</container>
                     <unitdate normal="1907/1907">January – December 1907 </unitdate>
+                </did>
+            </c>
+            <c id="ref330" level="file">
+                <did>
+                    <unittitle>Brooklyn Daily Eagle</unittitle>
+                    <container id="cid1538029" type="Box" label="Text">56</container>
+                    <unitdate normal="1911/1911">December 31, 1911</unitdate>
                 </did>
             </c>
             <c id="ref35" level="file">
@@ -418,7 +463,7 @@
                 <did>
                     <unittitle>Brooklyn Daily Eagle</unittitle>
                     <container id="cid1388030" type="Box" label="Mixed materials">1</container>
-                    <unitdate normal="1998/2000" type="inclusive">Feb. 20, November 9, 17, 1998; Feb. 16, 1999; July 1 - August 16, 1999; April 27, 2000</unitdate>
+                    <unitdate normal="1998/2000" type="inclusive">Feb. 20, November 9, 17, 1998; Feb. 16, 1999; July 1 - August 23, 1999; April 27, 2000</unitdate>
                 </did>
             </c>
             <c id="ref37" level="file">
@@ -634,7 +679,7 @@
                 <did>
                     <unittitle>Brooklyn Eagle</unittitle>
                     <container id="cid1388058" type="Box" label="Mixed materials">38</container>
-                    <unitdate normal="2013/2013">September 2-6, 2013</unitdate>
+                    <unitdate normal="2013/2016" type="inclusive">September 2-6, 2013; October-December 2016</unitdate>
                 </did>
             </c>
             <c id="ref65" level="file">
@@ -747,7 +792,7 @@
                 <did>
                     <unittitle>Brooklyn Downtown Star</unittitle>
                     <container id="cid1388073" type="Box" label="Mixed materials">38</container>
-                    <unitdate normal="2013/2015" type="inclusive">January 3, 2013 - November 19, 2015</unitdate>
+                    <unitdate normal="2013/2016" type="inclusive">January 3, 2013 - November 19, 2015; September-December 2016</unitdate>
                 </did>
             </c>
             <c id="ref80" level="file">
@@ -835,6 +880,13 @@
                     <unitdate normal="1939/1959" type="inclusive">1939-1959</unitdate>
                 </did>
             </c>
+            <c id="ref295" level="file">
+                <did>
+                    <unittitle>Brooklyn Heights Press</unittitle>
+                    <container id="cid1538009" type="Box" label="Text">39</container>
+                    <unitdate normal="1961/1961">May-June 1961</unitdate>
+                </did>
+            </c>
             <c id="ref91" level="file">
                 <did>
                     <unittitle>Brooklyn Heights Press</unittitle>
@@ -851,6 +903,13 @@
                     <unittitle>Brooklyn Heights Press and Cobble Hill News</unittitle>
                     <container id="cid1388086" type="Box" label="Mixed materials">31</container>
                     <unitdate normal="1999/2013" type="inclusive">April 29, July 1 - August 13, 1999; April 27, 2000; October 23, 2003; August 15, 2013</unitdate>
+                </did>
+            </c>
+            <c id="ref293" level="file">
+                <did>
+                    <unittitle>Brooklyn Jewish Week, The</unittitle>
+                    <container id="cid1538007" type="Box" label="Text">39</container>
+                    <unitdate normal="0198/1987" type="inclusive">November 27, 1987</unitdate>
                 </did>
             </c>
             <c id="ref93" level="file">
@@ -933,7 +992,7 @@
                 <did>
                     <unittitle>Brooklyn Progress</unittitle>
                     <container id="cid1388095" type="Box" label="Mixed materials">38</container>
-                    <unitdate normal="2015/2015">September 2015</unitdate>
+                    <unitdate normal="2015/2016" type="inclusive">September 2015; September-December 2016</unitdate>
                 </did>
             </c>
             <c id="ref102" level="file">
@@ -947,7 +1006,7 @@
                 <did>
                     <unittitle>Brooklyn Record</unittitle>
                     <container id="cid1388097" type="Box" label="Mixed materials">39</container>
-                    <unitdate normal="1995/1999" type="inclusive">December 8, 1995; March 29 - November 22, 1996; July 23 - August 13, 1999</unitdate>
+                    <unitdate normal="1995/2002" type="inclusive">December 8, 1995; March 29 - November 22, 1996; July 23 - August 13, 1999, May-June 2002</unitdate>
                 </did>
                 <odd id="ref245">
                     <head>General note</head>
@@ -961,11 +1020,29 @@
                     <unitdate normal="1987/1987">1987</unitdate>
                 </did>
             </c>
+            <c id="ref322" level="file">
+                <did>
+                    <unittitle>Brooklyn Tenant, The</unittitle>
+                    <container id="cid1538024" type="Box" label="Text">40</container>
+                    <unitdate normal="1976/1976">September 1976</unitdate>
+                </did>
+                <odd id="ref323">
+                    <head>General note</head>
+                    <p>Published by the Flatbush Tenants Council. "Servicing Flatbush, Midwood, Kings Highway, Gravesend and SHeepshead Bay".</p>
+                </odd>
+            </c>
             <c id="ref105" level="file">
                 <did>
                     <unittitle>Brooklyn Times, The</unittitle>
                     <container id="cid1388099" type="Box" label="Mixed materials">40</container>
                     <unitdate normal="1983/1983">January 6 - December 29, 1983</unitdate>
+                </did>
+            </c>
+            <c id="ref294" level="file">
+                <did>
+                    <unittitle>Brooklyn Today</unittitle>
+                    <container id="cid1538008" type="Box" label="Text">42</container>
+                    <unitdate normal="1972/1972">November 16, 1972</unitdate>
                 </did>
             </c>
             <c id="ref106" level="file">
@@ -1032,7 +1109,7 @@
                 <did>
                     <unittitle>Canarsie Courier</unittitle>
                     <container id="cid1388108" type="Box" label="Mixed materials">45</container>
-                    <unitdate normal="2012/2015" type="inclusive">April 5, 2012 - July 13, 2013; August-November 2015</unitdate>
+                    <unitdate normal="2012/2016" type="inclusive">April 5, 2012 - July 13, 2013; August-November 2015; September-December 2016</unitdate>
                 </did>
                 <odd id="ref247">
                     <head>General note</head>
@@ -1116,6 +1193,35 @@
                     <unitdate normal="1921/1942" type="inclusive">May 7, 1921 – January 1942 </unitdate>
                 </did>
             </c>
+            <c id="ref284" level="file">
+                <did>
+                    <unittitle>Children's Times, The</unittitle>
+                    <container id="cid1538002" type="Box" label="Text">42</container>
+                    <unitdate normal="1998/1998">February 1998</unitdate>
+                </did>
+                <odd id="ref285">
+                    <head>General note</head>
+                    <p>Regarding Brooklyn public schools</p>
+                </odd>
+            </c>
+            <c id="ref320" level="file">
+                <did>
+                    <unittitle>Christian Union, The (New York, New York)</unittitle>
+                    <container id="cid1538023" type="Box" label="Text">55</container>
+                    <unitdate normal="1874/1874">March-July 1874</unitdate>
+                </did>
+                <odd id="ref321">
+                    <head>General note</head>
+                    <p>Edited by Henry Ward Beecher.</p>
+                </odd>
+            </c>
+            <c id="ref328" level="file">
+                <did>
+                    <unittitle>Christian Union, The (New York, New York)</unittitle>
+                    <container id="cid1538027" type="Volume" label="Text">4C shelf 10.1.D</container>
+                    <unitdate normal="1882/1882">January-June 1882</unitdate>
+                </did>
+            </c>
             <c id="ref126" level="file">
                 <did>
                     <unittitle>Civic News (Park Slope Civic Council) (nineteen bound volumes)</unittitle>
@@ -1194,6 +1300,28 @@
                     <p>Not a complete run</p>
                 </odd>
             </c>
+            <c id="ref335" level="file">
+                <did>
+                    <unittitle>Darbininkas</unittitle>
+                    <container id="cid1538032" type="Box" label="Text">56</container>
+                    <unitdate normal="1987/1987">November-December 1987</unitdate>
+                </did>
+                <odd id="ref336">
+                    <head>General note</head>
+                    <p>Lithuanian language</p>
+                </odd>
+            </c>
+            <c id="ref296" level="file">
+                <did>
+                    <unittitle>Der Yid</unittitle>
+                    <container id="cid1538010" type="Box" label="Text">39</container>
+                    <unitdate normal="1987/1987">April 10, 1987</unitdate>
+                </did>
+                <odd id="ref297">
+                    <head>General note</head>
+                    <p>Hebrew language. "Voice of American Orthodox Jewry".</p>
+                </odd>
+            </c>
             <c id="ref136" level="file">
                 <did>
                     <unittitle>Downtown Brooklyn</unittitle>
@@ -1221,6 +1349,17 @@
                 <odd id="ref251">
                     <head>General note</head>
                     <p>Williamsburg, Greenpoint, and Bushwick</p>
+                </odd>
+            </c>
+            <c id="ref318" level="file">
+                <did>
+                    <unittitle>Edgewood Echo, The</unittitle>
+                    <container id="cid1538022" type="Box" label="Text">55</container>
+                    <unitdate normal="1893/1894" type="inclusive">June 1893 - February 1894</unitdate>
+                </did>
+                <odd id="ref319">
+                    <head>General note</head>
+                    <p>Published in Blythebourne, today the Borough Park neighborhood of Brooklyn.</p>
                 </odd>
             </c>
             <c id="ref139" level="file">
@@ -1283,12 +1422,30 @@
                     <unitdate normal="1883/1883">June 2, 1883</unitdate>
                 </did>
             </c>
+            <c id="ref289" level="file">
+                <did>
+                    <unittitle>Gaslight Gazette (Park Slope)</unittitle>
+                    <container id="cid1538005" type="Box" label="Text">42</container>
+                    <unitdate normal="1971/1971">September 22, 1971</unitdate>
+                </did>
+            </c>
             <c id="ref147" level="file">
                 <did>
                     <unittitle>Greenpoint Gazette</unittitle>
                     <container id="cid1388141" type="Box" label="Mixed materials">46</container>
-                    <unitdate normal="1983/1985" type="inclusive">January 4 - December 27, 1983; April 9, 23, 1985</unitdate>
+                    <unitdate normal="1983/1993" type="inclusive">January 4 - December 27, 1983; April 9, 23, 1985; January 5, 1993</unitdate>
                 </did>
+            </c>
+            <c id="ref316" level="file">
+                <did>
+                    <unittitle>Heaving Line</unittitle>
+                    <container id="cid1538021" type="Box" label="Text">55</container>
+                    <unitdate normal="1944/1944">May 1944</unitdate>
+                </did>
+                <odd id="ref317">
+                    <head>General note</head>
+                    <p>"Published by and for the men of the Sheepshead Bay Training Station"</p>
+                </odd>
             </c>
             <c id="ref148" level="file">
                 <did>
@@ -1301,6 +1458,17 @@
                     <p>Previously The Inquirer</p>
                 </odd>
             </c>
+            <c id="ref333" level="file">
+                <did>
+                    <unittitle>Hoboe Pycckoe Cлobo</unittitle>
+                    <container id="cid1538031" type="Box" label="Text">56</container>
+                    <unitdate normal="1988/1988">December 20, 1988</unitdate>
+                </did>
+                <odd id="ref334">
+                    <head>General note</head>
+                    <p>Russian language</p>
+                </odd>
+            </c>
             <c id="ref149" level="file">
                 <did>
                     <unittitle>Home Reporter and Sunset News</unittitle>
@@ -1310,6 +1478,17 @@
                 <odd id="ref254">
                     <head>General note</head>
                     <p>Bay Ridge and Sunset Park</p>
+                </odd>
+            </c>
+            <c id="ref309" level="file">
+                <did>
+                    <unittitle>Il Progresso</unittitle>
+                    <container id="cid1538017" type="Box" label="Text">42</container>
+                    <unitdate normal="1988/1988">December 10, 1988</unitdate>
+                </did>
+                <odd id="ref310">
+                    <head>General note</head>
+                    <p>Italian language.</p>
                 </odd>
             </c>
             <c id="ref150" level="file">
@@ -1328,6 +1507,27 @@
                     <unittitle>Jamaica Queens Voice (microfilm)</unittitle>
                     <container id="cid1388145" type="Cabinet" label="Microform">Microfilm</container>
                     <unitdate normal="1967/1968" type="inclusive">January 1967 – December 1968</unitdate>
+                </did>
+            </c>
+            <c id="ref324" level="file">
+                <did>
+                    <unittitle>Jewish People</unittitle>
+                    <container id="cid1538025" type="Box" label="Text">55</container>
+                    <unitdate normal="1976/1976">September 13, 1976</unitdate>
+                </did>
+            </c>
+            <c id="ref299" level="file">
+                <did>
+                    <unittitle>Jewish Press</unittitle>
+                    <container id="cid1538012" type="Box" label="Text">42</container>
+                    <unitdate normal="1987/1987">December 11, 1987</unitdate>
+                </did>
+            </c>
+            <c id="ref298" level="file">
+                <did>
+                    <unittitle>Kings County Rural Gazette (Flatbush, New York)</unittitle>
+                    <container id="cid1538011" type="Box" label="Text">19</container>
+                    <unitdate normal="1873/1873">March 1, 1873</unitdate>
                 </did>
             </c>
             <c id="ref152" level="file">
@@ -1368,6 +1568,17 @@
                     <container id="cid1388150" type="Volume" label="Mixed materials">Library gallery shelf 31.1.F</container>
                     <unitdate normal="2005/2005">2005</unitdate>
                 </did>
+            </c>
+            <c id="ref331" level="file">
+                <did>
+                    <unittitle>Laiks</unittitle>
+                    <container id="cid1538030" type="Box" label="Text">56</container>
+                    <unitdate normal="1987/1987">November 1987</unitdate>
+                </did>
+                <odd id="ref332">
+                    <head>General note</head>
+                    <p>Latvian language</p>
+                </odd>
             </c>
             <c id="ref157" level="file">
                 <did>
@@ -1433,6 +1644,13 @@
                     <head>General note</head>
                     <p>Not a complete run</p>
                 </odd>
+            </c>
+            <c id="ref327" level="file">
+                <did>
+                    <unittitle>Long Island Star (Brooklyn, New York) (one bound volume)</unittitle>
+                    <container id="cid1539001" type="Volume" label="Text">Print room shelf 4.E</container>
+                    <unitdate normal="1827/1829" type="inclusive">January 1827 - January 1829</unitdate>
+                </did>
             </c>
             <c id="ref164" level="file">
                 <did>
@@ -1561,12 +1779,55 @@
                     <unitdate normal="1865/1865">August 5, 1865</unitdate>
                 </did>
             </c>
+            <c id="ref325" level="file">
+                <did>
+                    <unittitle>New Yorkin Uutiset</unittitle>
+                    <unitdate normal="1986/1986">September 9, 1986</unitdate>
+                </did>
+                <odd id="ref326">
+                    <head>General note</head>
+                    <p>Finnish language.</p>
+                </odd>
+            </c>
             <c id="ref181" level="file">
                 <did>
                     <unittitle>Newtown Register Weekly (microfilm)</unittitle>
                     <container id="cid1388175" type="Cabinet" label="Microform">Microfilm</container>
                     <unitdate normal="1873/1935" type="inclusive">July 17, 1873 – June 1, 1935</unitdate>
                 </did>
+            </c>
+            <c id="ref301" level="file">
+                <did>
+                    <unittitle>Nuevo Amanecer</unittitle>
+                    <container id="cid1538013" type="Box" label="Text">42</container>
+                    <unitdate normal="1987/1987">November 7, 1987</unitdate>
+                </did>
+                <odd id="ref302">
+                    <head>General note</head>
+                    <p>Spanish language. "El periodico del la communidad Catolica por The Tablet".</p>
+                </odd>
+            </c>
+            <c id="ref303" level="file">
+                <did>
+                    <unittitle>Norden</unittitle>
+                    <container id="cid1538014" type="Box" label="Text">42</container>
+                    <unitdate normal="1988/1988">January 14, 1988</unitdate>
+                </did>
+                <odd id="ref304">
+                    <head>General note</head>
+                    <p>English and Finnish language.</p>
+                </odd>
+            </c>
+            <c id="ref305" level="file">
+                <did>
+                    <unittitle>Nordstjernan Svea</unittitle>
+                    <container id="cid1538015" type="Box" label="Text">42</container>
+                    <unitdate normal="1988/1988">January 21, 1988</unitdate>
+                </did>
+                <odd id="ref306">
+                    <head>General note</head>
+                    <p>"Swedish News"</p>
+                </odd>
             </c>
             <c id="ref182" level="file">
                 <did>
@@ -1595,6 +1856,28 @@
                     <container id="cid1388179" type="Cabinet" label="Microform">Microfilm</container>
                     <unitdate normal="1932/1933" type="inclusive">September 9, 1932 – December 9, 1933</unitdate>
                 </did>
+            </c>
+            <c id="ref307" level="file">
+                <did>
+                    <unittitle>Norway Times</unittitle>
+                    <container id="cid1538016" type="Box" label="Text">42</container>
+                    <unitdate normal="1987/1987">October 8, 1987</unitdate>
+                </did>
+                <odd id="ref308">
+                    <head>General note</head>
+                    <p>English and Norwegian language.</p>
+                </odd>
+            </c>
+            <c id="ref313" level="file">
+                <did>
+                    <unittitle>Nowy Dziennik</unittitle>
+                    <container id="cid1538026" type="Box" label="Text">55</container>
+                    <unitdate normal="1988/1988">December 20, 1988</unitdate>
+                </did>
+                <odd id="ref314">
+                    <head>General note</head>
+                    <p>Polish language.</p>
+                </odd>
             </c>
             <c id="ref186" level="file">
                 <did>
@@ -1643,7 +1926,7 @@
                 <did>
                     <unittitle>Park Slope Courier</unittitle>
                     <container id="cid1388185" type="Box" label="Mixed materials">39</container>
-                    <unitdate normal="2011/2011">January 28 - February 3, 2011</unitdate>
+                    <unitdate normal="2011/2016" type="inclusive">January 28 - February 3, 2011; December 9-15, 2016</unitdate>
                 </did>
             </c>
             <c id="ref192" level="file">
@@ -1657,6 +1940,19 @@
                     <p>Congregation B'nai Jacob</p>
                 </odd>
             </c>
+            <c id="ref283" level="file">
+                <did>
+                    <unittitle>Park Slope Paper, The</unittitle>
+                    <container id="cid1538001" type="Box" label="Text">39</container>
+                    <unitdate normal="2000/2000">January 10, 2000</unitdate>
+                </did>
+            </c>
+            <c id="ref338" level="file">
+                <did>
+                    <unittitle>Park Slope Paper, The (Windsor Terrace Edition)</unittitle>
+                    <unitdate normal="1999/1999">June 25, 1999</unitdate>
+                </did>
+            </c>
             <c id="ref193" level="file">
                 <did>
                     <unittitle>Peoples Tribune</unittitle>
@@ -1666,6 +1962,17 @@
                 <odd id="ref265">
                     <head>General note</head>
                     <p>African-American community newspaper</p>
+                </odd>
+            </c>
+            <c id="ref290" level="file">
+                <did>
+                    <unittitle>Phoenix</unittitle>
+                    <container id="cid1538006" type="Box" label="Text">39</container>
+                    <unitdate normal="1988/1988">December 1, 1988</unitdate>
+                </did>
+                <odd id="ref291">
+                    <head>General note</head>
+                    <p>Section 2 only</p>
                 </odd>
             </c>
             <c id="ref194" level="file">
@@ -1779,6 +2086,17 @@
                     <p>Brooklyn Navy Yard newspaper</p>
                 </odd>
             </c>
+            <c id="ref286" level="file">
+                <did>
+                    <unittitle>Shopper, The</unittitle>
+                    <container id="cid1538003" type="Box" label="Text">42</container>
+                    <unitdate normal="1984/1989" type="inclusive">July 1984; February 1989</unitdate>
+                </did>
+                <odd id="ref287">
+                    <head>General note</head>
+                    <p>"A neighborhood magazine of shops, services, previews, reviews and lifestyles"</p>
+                </odd>
+            </c>
             <c id="ref207" level="file">
                 <did>
                     <unittitle>Southside Observer (Rockville Centre, New York) (microfilm)</unittitle>
@@ -1855,6 +2173,13 @@
                     <unittitle>Sun, The (New York)</unittitle>
                     <container id="cid1388210" type="Box" label="Mixed materials">19</container>
                     <unitdate normal="1833/1833">September 3, 1833</unitdate>
+                </did>
+            </c>
+            <c id="ref288" level="file">
+                <did>
+                    <unittitle>Sunset Park Shopping &amp; Neighborhood News</unittitle>
+                    <container id="cid1538004" type="Box" label="Text">42</container>
+                    <unitdate normal="1979/1979">December 1979</unitdate>
                 </did>
             </c>
             <c id="ref217" level="file">
