@@ -1,175 +1,71 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_044_huntington.html">arc_044_huntington</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Edna Huntington papers and photographs
-                    <num>ARC.044</num>
-                </titleproper>
-                <author>Finding aid prepared by Weatherly Stephan</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>July 13, 2010</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2016-01-21T09:54-0500</date>
-            </creation>
-            <langusage>Finding aid written in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Edna Huntington papers and photographs</unittitle>
-            <unitid>ARC.044</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid333001" type="Box" label="Graphic materials">ARC.044 Box 4 of 4</container>
-            <container id="cid333003" type="Box" label="Text">ARC.044 Box 2 of 4</container>
-            <container id="cid333002" type="Box" label="Text">ARC.044 Box 3 of 4</container>
-            <container id="cid333004" type="Box" label="Text">ARC.044 Box 1 of 4</container>
-            <physdesc>
-                <extent>1.9 linear feet</extent>
-                <extent>in three manuscript boxes and one phase box.</extent>
-            </physdesc>
-            <unitdate normal="1905/1965" type="inclusive">1905-1965</unitdate>
-            <abstract id="ref15" label="Abstract">The Edna Huntington papers and photographs, dated 1905 to 1965, are organized into three series: 
-                <emph render="bold">Brooklyn Research</emph>, 
-                <emph render="bold">Personal Papers</emph>, and 
-                <emph render="bold">Photographs</emph>. While 
-                <emph render="bold">Brooklyn Research</emph> gives a focused view of Huntington's work as a librarian, 
-                <emph render="bold">Personal Papers</emph> provides a broader perspective on her career and its impact, as well as her education, her hobbies, and travels during her career. 
-                <emph render="bold">Photographs</emph> complements travel journals in the 
-                <emph render="bold">Personal Papers</emph> series with black-and-white prints and negatives of Huntington's vacations with her travel companion, Stella Kline.</abstract>
-            <origination label="creator">
-                <persname source="local">Huntington, Edna, 1895-1965</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Kline, Stella O.</persname>
-            </origination>
-        </did>
-        <bioghist id="ref1">
-            <head>Biographical note</head>
-            <p>Edna Huntington (1895-1965) attended PS 131 in Brooklyn and later completed Columbia University's Home Study courses in Librarianship. She began working for the Long Island Historical Society (now Brooklyn Historical Society) in 1926 and served as Head Librarian from 1936 to 1960. In addition to her work as a librarian, Huntington was an avid traveler. During the 1920s and 1930s, she planned a number of hiking and camping trips throughout the northeast United States and documented her excursions with photographs and detailed travel journals.</p>
-        </bioghist>
-        <accessrestrict id="ref2">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <acqinfo id="ref3">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Edna Huntington, 1960.</p>
-        </acqinfo>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Edna Huntington papers and photographs, ARC.044, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <userestrict id="ref14">
-            <head>Conditions Governing Use note</head>
-            <p>Reproduction rights for photographs have not been evaluated. Please consult library staff for more information.</p>
-        </userestrict>
-        <processinfo id="ref5">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the series level.</p>
-            <p>This collection is composed of three accessions: 1977.225, 1977.252, and V1997.012.</p>
-        </processinfo>
-        <scopecontent id="ref6">
-            <head>Scope and Contents</head>
-            <p>The Edna Huntington papers and photographs, dated 1905 to 1965, are organized into three series: 
-                <emph render="bold">Brooklyn Research</emph>, 
-                <emph render="bold">Personal Papers</emph>, and 
-                <emph render="bold">Photographs</emph>. While 
-                <emph render="bold">Brooklyn Research</emph> gives a focused view of Huntington's work as a librarian, 
-                <emph render="bold">Personal Papers</emph> provides a broader perspective on her career and its impact, as well as her education, her hobbies, and travels during her career. 
-                <emph render="bold">Photographs</emph> complements travel journals in the 
-                <emph render="bold">Personal Papers</emph> series with black-and-white prints and negatives of Huntington's vacations with her travel companion, Stella Kline.</p>
-            <p>She photographed streets, buildings, and people in the Brooklyn neighborhoods of Downtown Brooklyn, Brooklyn Heights, DUMBO, Fort Greene, Boerum Hill, Carroll Gardens Cobble Hill, Brownsville, Midwood, Bay Ridge, Gowanus, Flatbush, Fort Hamilton, Windsor Terrace, Brighton Beach, Prospect Park, Prospect Heights, Sheepshead Bay, Gravesend, Bensonhurst, Flatlands, East Flatbush, Borough Park, Coney Island, Bath Beach, Dyker Heights, Cypress Hills, New Lots, Canarsie, New Lots, Bedford Stuyvesant, Mill Basin, Marine Park, Ridgewood, Park Slope, East New York, Clinton Hill, Williamsburg, Bushwick, and Manhattan Beach.</p>
-        </scopecontent>
-        <relatedmaterial id="ref10">
-            <head>Related Archival Materials note</head>
-            <p>The Edna Huntington Photograph Collection (V1974.016) contains over 3,000 documentary photographs of Brooklyn taken by Huntington during the mid-1940s.</p>
-        </relatedmaterial>
-        <originalsloc id="ref17">
-            <head>Photograph Records</head>
-            <p>Item-level description and digital versions of images from the collection are available for searching via the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://brooklynhistory.pastperfect-online.com/35872cgi/mweb.exe?request=clicksearch;dtype=d;subset=0;_t1101=edna%20huntington%20papers%20and%20photo...">online image database</extref></p>
-        </originalsloc>
-        <controlaccess>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Long Island Historical Society.</corpname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History</geogname>
-            <genreform source="aat">Correspondence</genreform>
-            <subject source="lcsh">Librarians |z New York (State) |z New York</subject>
-            <geogname source="lcsh">Long Island (N.Y.) |x History</geogname>
-            <geogname source="lcsh">New York (N.Y.) |x Intellectual life |y 20th century</geogname>
-            <subject source="lcsh">Outdoor recreation</subject>
-            <genreform source="aat">Photographs</genreform>
-            <genreform source="aat">Research notes</genreform>
-            <genreform source="aat">Scrapbooks</genreform>
-            <subject source="lcsh">Voyages and travels</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref7" level="series">
-                <did>
-                    <unittitle>Series 1: Brooklyn Research</unittitle>
-                    <physdesc>
-                        <extent>0.5 linear feet</extent>
-                        <extent>in two manuscript boxes.</extent>
-                    </physdesc>
-                    <unitdate normal="1926/1960" type="inclusive">1926-1960</unitdate>
-                </did>
-                <scopecontent id="ref11">
-                    <head>Scope and Contents</head>
-                    <p>This series consists of research notes made by Huntington on various topics related to Brooklyn and Long Island history, including authors, mills, cemeteries, historic markers, and monuments. Also included is a copy of "Historical Markers and Monuments in Brooklyn" with marginal notes by Huntington.</p>
-                </scopecontent>
-            </c>
-            <c id="ref8" level="series">
-                <did>
-                    <unittitle>Series 2: Personal Papers</unittitle>
-                    <physdesc>
-                        <extent>0.7 linear feet</extent>
-                        <extent>in two manuscript boxes.</extent>
-                    </physdesc>
-                    <unitdate normal="1905/1965" type="inclusive">1905-1965</unitdate>
-                </did>
-                <scopecontent id="ref12">
-                    <head>Scope and Contents</head>
-                    <p>
-                        <emph render="bold">Personal Papers</emph> includes Huntington's early school records; correspondence relating to her library education at Columbia University and obtaining her position as librarian at the Long Island Historical Society (LIHS); travel journals, 1920-1940; certificates; newspaper clippings; a scrapbook compiled by LIHS staff as a retirement gift; genealogical papers; bookplates; and the printing block for her personal bookplate.</p>
-                </scopecontent>
-            </c>
-            <c id="ref9" level="series">
-                <did>
-                    <unittitle>Series 3: Photographs</unittitle>
-                    <unitid>V1997.012</unitid>
-                    <physdesc>
-                        <extent>0.9 linear feet</extent>
-                        <extent>in one manuscript box and one phase box.</extent>
-                    </physdesc>
-                    <unitdate normal="1917/1941" type="inclusive">1917-1941</unitdate>
-                </did>
-                <scopecontent id="ref13">
-                    <head>Scope and Contents</head>
-                    <p>
-                        <emph render="bold">Photographs</emph> contains negatives, black-and-white prints, and scrapbooks (titled "Travelogues") of Huntington's travels and outdoor activities, including hiking, camping, and canoeing. This series documents her almost yearly vacations from 1917 to 1941. Images show natural landscapes, camp grounds, and informal shots of Huntington and her travel companion, Stella Kline. Four scrapbooks written by Huntington and Kline combine dozens of photographs with a detailed narrative of each trip. Their destinations included the New England states, Nova Scotia and New Brunswick, Canada, the Smoky Mountain region, and Bermuda.</p>
-                </scopecontent>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_044_huntington.html">arc_044_huntington</eadid><filedesc><titlestmt><titleproper>Guide to the Edna Huntington papers and photographs <num>ARC.044</num></titleproper><author>Collection processed by Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2017-03-13T16:04:19</date></creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>March 2017</date><item>Last updated by John Zarrillo</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Edna Huntington papers and photographs</unittitle>
+    <origination label="creator">
+      <persname source="local">Huntington, Edna</persname>
+    </origination>
+    <origination label="creator">
+      <persname rules="dacs" source="local">Kline, Stella O.</persname>
+    </origination>
+    <unitid>ARC.044</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.15 Linear Feet</extent>
+      <extent altrender="carrier">in three manuscript boxes, one phase box, and one oversize folder</extent>
+    </physdesc>
+    <unitdate normal="1905/1965" type="inclusive">1905-1965</unitdate>
+    <abstract id="aspace_279690d67d49b4ccefc7bd905567eafd">The Edna Huntington papers and photographs, dated 1905 to 1965, are organized into three series: <emph render="bold">Brooklyn Research</emph>, <emph render="bold">Personal Papers</emph>, and <emph render="bold">Photographs</emph>. While <emph render="bold">Brooklyn Research</emph> gives a focused view of Huntington's work as a librarian, <emph render="bold">Personal Papers</emph> provides a broader perspective on her career and its impact, as well as her education, her hobbies, and travels during her career. <emph render="bold">Photographs</emph> complements travel journals in the <emph render="bold">Personal Papers</emph> series with black-and-white prints and negatives of Huntington's vacations with her travel companion, Stella Kline.</abstract>
+    <container id="aspace_a881195ee066053945b298b33eacf2e3" label="Graphic Materials" type="Box">ARC.044 Box 4 of 4</container>
+    <container id="aspace_d3c63221428583bf9a25260c8d24abb6" label="Text" type="Box">ARC.044 Box 2 of 4</container>
+    <container id="aspace_7fedb5b388c5ac8efe3a58812c109188" label="Text" type="Box">ARC.044 Box 3 of 4</container>
+    <container id="aspace_63097c6992c85d71f111d180d5b1186d" label="Text" type="Box">ARC.044 Box 1 of 4</container>
+    <container id="aspace_c24aca15bb9daa934aec871109dc69a5" label="Text" type="Box">OS-20</container>
+  </did>
+  <bioghist id="aspace_ae7d1cd51327784540e5facc4c25ca67">
+    <head>Biographical note</head>
+<p>Edna Huntington (1895-1965) attended PS 131 in Brooklyn and later completed Columbia University's Home Study courses in Librarianship. She began working for the Long Island Historical Society (now Brooklyn Historical Society) in 1926 and served as Head Librarian from 1936 to 1960. In addition to her work as a librarian, Huntington was an avid traveler. During the 1920s and 1930s, she planned a number of hiking and camping trips throughout the northeast United States and documented her excursions with photographs and detailed travel journals.</p>  </bioghist>
+  <accessrestrict id="aspace_c48bc90a826934c48129725acacde544">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_f3a6684e77c82cd971cc8214616de0c2">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Edna Huntington, 1960.</p>  </acqinfo>
+  <prefercite id="aspace_42c537ec11119d72fe574df5ac272cd4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Edna Huntington papers and photographs, ARC.044, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <userestrict id="aspace_136bad5bce8bb289bbb855c3e7a56226">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for photographs have not been evaluated. Please consult library staff for more information.</p>  </userestrict>
+  <processinfo id="aspace_c47bdeadc38e70b78492b3ddafd38025">
+    <head>Processing Information</head>
+<p>Minimally processed to the series level.</p><p>This collection is composed of three accessions: 1977.225, 1977.252, and V1997.012.</p><p>Oversize folder containing Manual Training High School diploma and other documents was added to the collection by John Zarrillo, March 2017.</p>  </processinfo>
+  <scopecontent id="aspace_c034e002d69378b2d1910ee92afb8f6e">
+    <head>Scope and Contents</head>
+<p>The Edna Huntington papers and photographs, dated 1905 to 1965, are organized into three series: <emph render="bold">Brooklyn Research</emph>, <emph render="bold">Personal Papers</emph>, and <emph render="bold">Photographs</emph>. While <emph render="bold">Brooklyn Research</emph> gives a focused view of Huntington's work as a librarian, <emph render="bold">Personal Papers</emph> provides a broader perspective on her career and its impact, as well as her education, her hobbies, and travels during her career. <emph render="bold">Photographs</emph> complements travel journals in the <emph render="bold">Personal Papers</emph> series with black-and-white prints and negatives of Huntington's vacations with her travel companion, Stella Kline.</p><p>She photographed streets, buildings, and people in the Brooklyn neighborhoods of Downtown Brooklyn, Brooklyn Heights, DUMBO, Fort Greene, Boerum Hill, Carroll Gardens Cobble Hill, Brownsville, Midwood, Bay Ridge, Gowanus, Flatbush, Fort Hamilton, Windsor Terrace, Brighton Beach, Prospect Park, Prospect Heights, Sheepshead Bay, Gravesend, Bensonhurst, Flatlands, East Flatbush, Borough Park, Coney Island, Bath Beach, Dyker Heights, Cypress Hills, New Lots, Canarsie, New Lots, Bedford Stuyvesant, Mill Basin, Marine Park, Ridgewood, Park Slope, East New York, Clinton Hill, Williamsburg, Bushwick, and Manhattan Beach.  </p>  </scopecontent>
+  <relatedmaterial id="aspace_a8ecc3c8b64e52d848029ab0221167d9">
+    <head>Related Materials</head>
+<p>The Edna Huntington Photograph Collection (V1974.016) contains over 3,000 documentary photographs of Brooklyn taken by Huntington during the mid-1940s.</p>  </relatedmaterial>
+  <otherfindaid id="aspace_f1da3e1cfde24a0ce991abd339a38301">
+    <head>Photograph Records</head>
+<p>Item-level description and digital versions of images from the collection are available for searching via the <extref actuate="onRequest" href="http://brooklynhistory.pastperfect-online.com/35872cgi/mweb.exe?request=clicksearch;dtype=d;subset=0;_t1101=edna%20huntington%20papers%20and%20photo..." show="new">online image database</extref></p>  </otherfindaid>
+  <controlaccess>
+    <subject source="lcsh">Voyages and travels</subject>
+    <geogname source="lcsh">New York (N.Y.) |x Intellectual life |y 20th century</geogname>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Research notes</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="lcsh">Long Island (N.Y.) |x History</geogname>
+    <genreform source="aat">Scrapbooks</genreform>
+    <subject source="lcsh">Outdoor recreation</subject>
+    <subject source="lcsh">Librarians |z New York (State) |z New York</subject>
+    <corpname rules="aacr" source="naf">Long Island Historical Society</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref7_1zw" level="series"><did><unittitle>Series 1: Brooklyn Research</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent><extent altrender="carrier">in two manuscript boxes.</extent></physdesc><unitdate normal="1926/1960" type="inclusive">1926-1960</unitdate></did><scopecontent id="aspace_9c6a531826aed666472dea0f1174b0d7"><head>Scope and Contents</head><p>This series consists of research notes made by Huntington on various topics related to Brooklyn and Long Island history, including authors, mills, cemeteries, historic markers, and monuments. Also included is a copy of "Historical Markers and Monuments in Brooklyn" with marginal notes by Huntington.</p></scopecontent></c><c id="aspace_ref8_ihs" level="series"><did><unittitle>Series 2: Personal Papers</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.95 Linear Feet</extent><extent altrender="carrier">in two manuscript boxes and one oversize folder</extent></physdesc><unitdate normal="1887/1965" type="inclusive">1887-1965</unitdate></did><scopecontent id="aspace_13720c9334f9b6213ceaafb29fe251dd"><head>Scope and Contents</head><p><emph render="bold">Personal Papers</emph> includes Huntington's early school records and Manual Training High School diploma; correspondence relating to her library education at Columbia University and obtaining her position as librarian at the Long Island Historical Society (LIHS); travel journals, 1920-1940; certificates; newspaper clippings; a scrapbook compiled by LIHS staff as a retirement gift; genealogical papers; bookplates; and the printing block for her personal bookplate.</p></scopecontent></c><c id="aspace_ref9_mrv" level="series"><did><unittitle>Series 3: Photographs</unittitle><unitid>V1997.012</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.9 Linear Feet</extent><extent altrender="carrier">in one manuscript box and one phase box.</extent></physdesc><unitdate normal="1917/1941" type="inclusive">1917-1941</unitdate></did><scopecontent id="aspace_43d46e8872b941ae148a79c4bc9a6f55"><head>Scope and Contents</head><p><emph render="bold">Photographs</emph> contains negatives, black-and-white prints, and scrapbooks (titled "Travelogues") of Huntington's travels and outdoor activities, including hiking, camping, and canoeing. This series documents her almost yearly vacations from 1917 to 1941. Images show natural landscapes, camp grounds, and informal shots of Huntington and her travel companion, Stella Kline. Four scrapbooks written by Huntington and Kline combine dozens of photographs with a detailed narrative of each trip. Their destinations included the New England states, Nova Scotia and New Brunswick, Canada, the Smoky Mountain region, and Bermuda.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>
