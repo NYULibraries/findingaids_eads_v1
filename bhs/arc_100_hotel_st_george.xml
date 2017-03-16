@@ -1,106 +1,64 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_100_hotel_st_george</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Hotel St. George collection
-                    <num>ARC.100</num>
-                </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>September 20, 2010</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-23T10:24-0500</date>
-            </creation>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Hotel St. George collection</unittitle>
-            <unitid>ARC.100</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid438002" type="Volume" label="Graphic materials">Slides by Accession Binder 3</container>
-            <container id="cid438003" type="Box" label="Text">1</container>
-            <container id="cid438001" type="Bin" label="Graphic materials">Postcards by Accession 1</container>
-            <physdesc>
-                <extent>0.1 Linear feet</extent>
-                <extent>in one manuscript box, one postcard box, and one binder.</extent>
-            </physdesc>
-            <unitdate normal="1982/1986" type="bulk">Bulk, 1982-1986</unitdate>
-            <unitdate normal="1932/1990" type="inclusive">1932-1990</unitdate>
-            <origination label="creator">
-                <corpname rules="dacs" source="naf">Hotel St. George (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-        </did>
-        <bioghist id="ref1">
-            <head>Historical note</head>
-            <p>The block of buildings in the Brooklyn Heights neighborhood of Brooklyn that are collectively known as the Hotel St. George once comprised the largest hotel in New York City. Its constituent buildings were built betwen 1885 and 1929 on the block bounded by Clark, Pineapple, Hicks, and Henry Streets. Its primary building, the St. George Tower, once attracted celebrities, professional athletes, and presidential candidates, and boasted the Colorama Ballroom (at one time known as the largest banquet room in the world), as well as the largest salt water swimming pool in the United States.</p>
-            <p>The last remaining portion of the Hotel St. George that operated as a hotel was burnt down in 1995. As of 2010, the St. George Tower operates as a residential cooperative building, while the 100 Henry Street entrance (also known as the Weller Wing) and the 55 Clark Street entrance are now both part of Educational Housing Services (EHS), which offers dormitory services to students of many New York City colleges and universities. The buildings that comprise the Hotel St. George are protected under the New York City Landmarks Preservation Law.</p>
-        </bioghist>
-        <accessrestrict id="ref2">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <userestrict id="ref3">
-            <head>Conditions Governing Use note</head>
-            <p>Copyright status of the photographs in the collection has not been evaluated. Please contact the library staff for more information.</p>
-        </userestrict>
-        <prefercite id="ref5">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Hotel St. George collection, ARC.100, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Jeff Ghitelman, May 22, 1990.</p>
-        </acqinfo>
-        <scopecontent id="ref7">
-            <head>Scope and Contents</head>
-            <p>The Hotel St. George collection spans the dates 1932 to 1990, with the bulk of materials falling within the years 1982 to 1986. Included in the collection are floorplans of the Hotel St. George, circa 1930-1950; a schematic rendering of the hotel building complex, circa 1930-1950; a photocopy of a Hotel St. George promotional brochure, 1932; a copy of the hotel manager's stationary, circa 1930-1950; postcards depicting the hotel's exterior, circa 1930s; and several black and white photographic slides that depict banquets held in the hotel's ballrooms in 1932.</p>
-            <p>The materials that comprise the bulk date span of the collection consist primarily of copies of the 
-                <emph render="italic">St. George News and Views</emph>, a newsletter written and published by the St. George Tower Tenants' Association. These materials mostly document the process of converting the St. George Tower into a cooperative residential building during the 1980s, as well as providing insight into the daily lives of the building's residents. Also included are clippings from various New York City newspapers that document the St. George Tower's co-op conversion process, as well as life in the surrounding neighborhood during this period.</p>
-        </scopecontent>
-        <controlaccess>
-            <corpname rules="dacs" source="naf">Hotel St. George (Brooklyn, New York, N.Y.).</corpname>
-            <subject source="lcsh">Apartment houses |z New York (State) |z New York</subject>
-            <genreform source="aat">Architectural drawings</genreform>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Brooklyn Heights (New York, N.Y.) </geogname>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <genreform source="aat">Floor plans</genreform>
-            <subject source="lcsh">Hotels |z New York (State) |z New York</subject>
-            <subject source="lcsh">Housing, Cooperative |z New York (State) |z New York</subject>
-            <genreform source="aat">Newsletters</genreform>
-            <genreform source="aat">Photographs</genreform>
-            <genreform source="aat">Picture postcards</genreform>
-            <subject source="lcsh">Real property |z New York (State) |z New York</subject>
-            <subject source="lcsh">Tenants' associations |z New York (State) |z New York</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_100_hotel_st_george.html">arc_100_hotel_st_george</eadid><filedesc><titlestmt><titleproper>Guide to the Hotel St. George collection <num>ARC.100</num></titleproper><author>Collection processed by Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2017-03-16T17:45:56</date></creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>March 2017</date><item>Last updated by John Zarrillo</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Hotel St. George collection</unittitle>
+    <origination label="creator">
+      <corpname rules="dacs" source="naf">Hotel St. George (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>ARC.100</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box, one postcard box, and one binder.</extent>
+    </physdesc>
+    <unitdate normal="1930/1990" type="inclusive">1930-1990</unitdate>
+    <unitdate normal="1982/1986" type="bulk">1982-1986</unitdate>
+    <abstract id="aspace_ca362199cec725cb822b9cc3bab32042">The Hotel St. George collection spans the dates 1930 to 1990, with the bulk of materials falling within the years 1982 to 1986. Included in the collection are floorplans, schematics, a brochure, an advertisement, postcards, and 35 mm slides. The buildings that comprise the former Hotel St. George were constructed between 1885 and 1928 in the Brooklyn Heights neighborhood of Brooklyn, and it was once the largest hotel in New York City.</abstract>
+    <container id="aspace_dc1285993dff76b879d7812752f7900b" label="Graphic Materials" type="Volume">Slides by Accession Binder 3</container>
+    <container id="aspace_bbcc00b56d766c3f4b64d4647fb58a11" label="Text" type="Box">1</container>
+    <container id="aspace_468caccab5aec230cbe16057774c3f84" label="Graphic Materials" type="Bin">Postcards by Accession 1</container>
+  </did>
+  <bioghist id="aspace_4b09cf91cdf680aa688c3c5cb3501e7a">
+    <head>Historical note</head>
+<p>The block of buildings in the Brooklyn Heights neighborhood of Brooklyn that are collectively known as the Hotel St. George once comprised the largest hotel in New York City. Its constituent buildings were built betwen 1885 and 1929 on the block bounded by Clark, Pineapple, Hicks, and Henry Streets. Its primary building, the St. George Tower, once attracted celebrities, professional athletes, and presidential candidates, and boasted the Colorama Ballroom (at one time known as the largest banquet room in the world), as well as the largest salt water swimming pool in the United States. </p><p>The last remaining portion of the Hotel St. George that operated as a hotel was burnt down in 1995. As of 2010, the St. George Tower operates as a residential cooperative building, while the 100 Henry Street entrance (also known as the Weller Wing) and the 55 Clark Street entrance are now both part of Educational Housing Services (EHS), which offers dormitory services to students of many New York City colleges and universities. The buildings that comprise the Hotel St. George are protected under the New York City Landmarks Preservation Law.</p>  </bioghist>
+  <accessrestrict id="aspace_e3a813cd66de5e4c7c32807ecf0f8a38">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_e330f5d4a0382d12e93c7c9c0e650156">
+    <head>Conditions Governing Use</head>
+<p>Copyright status of the photographs in the collection has not been evaluated. Please contact the library staff for more information.</p>  </userestrict>
+  <prefercite id="aspace_918cd44a2230bdc99305476d2d07da49">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Hotel St. George collection, ARC.100, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_63e46a1a2a91b31f71b563cef6cea1b3">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Jeff Ghitelman, May 22, 1990.</p>  </acqinfo>
+  <scopecontent id="aspace_170c0d4fe8caacc8a16c3aa20e386ce5">
+    <head>Scope and Contents</head>
+<p>The Hotel St. George collection spans the dates 1930 to 1990, with the bulk of materials falling within the years 1982 to 1986. Included in the collection are floorplans of the Hotel St. George, circa 1930-1950; a schematic rendering of the hotel building complex, circa 1930-1950; a photocopy of a Hotel St. George promotional brochure, 1932; an advertisement for Vinold Reiss Studios, the designers of the interior of the hotel, 1930; a copy of the hotel manager's stationary, circa 1930-1950; postcards depicting the hotel's exterior, circa 1930s; and several black and white photographic slides that depict banquets held in the hotel's ballrooms in 1932.</p><p>The materials that comprise the bulk date span of the collection consist primarily of copies of the <emph render="italic">St. George News and Views</emph>, a newsletter written and published by the St. George Tower Tenants' Association. These materials mostly document the process of converting the St. George Tower into a cooperative residential building during the 1980s, as well as providing insight into the daily lives of the building's residents. Also included are clippings from various New York City newspapers that document the St. George Tower's co-op conversion process, as well as life in the surrounding neighborhood during this period.</p>  </scopecontent>
+  <processinfo id="aspace_4378e5e5e61a326f5de3ec9d844da549">
+    <head>Processing Information</head>
+<p>This collection combines two accessions: 1989.008 and V1989.030. The collection is minimally processed to the collection-level.</p><p>An advertisement for Vinold Reiss Studios (1930), the designers of interior of the hotel, was added to the collection by John Zarrillo in March 2017.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Picture postcards</genreform>
+    <subject source="lcsh">Tenants' associations |z New York (State) |z New York</subject>
+    <subject source="lcsh">Apartment houses |z New York (State) |z New York</subject>
+    <subject source="lcsh">Real property |z New York (State) |z New York</subject>
+    <genreform source="aat">Newsletters</genreform>
+    <subject source="lcsh">Hotels |z New York (State) |z New York</subject>
+    <genreform source="aat">Architectural drawings</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Floor plans</genreform>
+    <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+    <subject source="lcsh">Housing, Cooperative |z New York (State) |z New York</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <corpname rules="dacs" source="naf">Hotel St. George (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
