@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">timeincrg20</eadid>
+        <eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/timeincrg20/">timeincrg20</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to the Time Inc. Library and Archives Records<lb/>1923-2013, undated<lb/>
-                    <num>MS 3009.RG 20</num>
+                <titleproper>Guide to the Time Inc. Library and Archives Records
+                    <lb/>1923-2013, undated
+                    <lb/>
+                    <num>MS 3009-RG 20</num>
                 </titleproper>
                 <author>Finding aid prepared by Holly Deakyne, Samantha Brown, Melanie Rinehart</author>
                 <sponsor>The processing of the Time Inc. Records was made possible by a generous grant from the Henry Luce Foundation.</sponsor>
@@ -22,7 +24,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2017-04-18T09:33-0400</date>
+                <date>2017-05-05T15:53-0400</date>
             </creation>
             <langusage>Description is in 
                 <language>English</language></langusage>
@@ -32,7 +34,7 @@
     <archdesc level="collection">
         <did>
             <unittitle>Time Inc. Library and Archives Records</unittitle>
-            <unitid>MS 3009.RG 20</unitid>
+            <unitid>MS 3009-RG 20</unitid>
             <repository>
                 <corpname>© 2011 New-York Historical Society</corpname>
             </repository>
@@ -52,7 +54,7 @@
         </did>
         <prefercite id="ref111">
             <head>Preferred Citation Note</head>
-            <p>This record group should be cited as Time Inc. Library and Archives Records (MS 3009.RG 20), The New-York Historical Society.</p>
+            <p>This record group should be cited as Time Inc. Library and Archives Records (MS 3009-RG 20), The New-York Historical Society.</p>
         </prefercite>
         <custodhist id="ref118">
             <head>Provenance</head>
@@ -100,7 +102,7 @@
             <subject source="lcsh">Time, inc -- History</subject>
         </controlaccess>
         <dsc>
-            <c01 id="ref119" level="series">
+            <c id="ref119" level="series">
                 <did>
                     <unittitle>Series I. Library Reference Collection</unittitle>
                     <physdesc>
@@ -122,7 +124,7 @@
                     <p>The Library Reference Collection contains reference material assembled by the Time Inc. Library and Archives including a run of annual reports, printouts of press clippings emailed to staff by Time Inc.'s corporate communications, and a run of 
                         <title render="italic">Time</title> covers.</p>
                 </scopecontent>
-                <c02 id="ref15" level="subseries">
+                <c id="ref15" level="subseries">
                     <did>
                         <unittitle>Subseries I.A. Annual Reports</unittitle>
                         <physdesc>
@@ -140,98 +142,98 @@
                         <head>Arrangement Note</head>
                         <p>Organized chronologically.</p>
                     </arrangement>
-                    <c03 id="ref19" level="file">
+                    <c id="ref19" level="file">
                         <did>
                             <unittitle>Time Inc.: 1922-1970</unittitle>
                             <container id="cid2540001" type="Offsite-Box" label="Mixed materials">656</container>
                             <unitdate normal="1922/1970" type="inclusive">1922-1970</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref20" level="file">
+                    </c>
+                    <c id="ref20" level="file">
                         <did>
                             <unittitle>Time Inc.: 1971-1988</unittitle>
                             <container id="cid2540002" type="Offsite-Box" label="Mixed materials">657</container>
                             <container parent="cid2540002" type="Folder">1-10</container>
                             <unitdate normal="1971/1988" type="inclusive">1971-1988</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref21" level="file">
+                    </c>
+                    <c id="ref21" level="file">
                         <did>
                             <unittitle>Time Inc.: 1924-1946</unittitle>
                             <container id="cid2540003" type="Offsite-Box" label="Mixed materials">657</container>
                             <container parent="cid2540003" type="Folder">11-12</container>
                             <unitdate normal="1924/1946" type="inclusive">1924-1946</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref22" level="file">
+                    </c>
+                    <c id="ref22" level="file">
                         <did>
                             <unittitle>Time Inc.: 1947-1967</unittitle>
                             <container id="cid2540004" type="Offsite-Box" label="Mixed materials">658</container>
                             <unitdate normal="1947/1967" type="inclusive">1947-1967</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref23" level="file">
+                    </c>
+                    <c id="ref23" level="file">
                         <did>
                             <unittitle>Time Inc.: 1968-1981</unittitle>
                             <container id="cid2540005" type="Offsite-Box" label="Mixed materials">659</container>
                             <unitdate normal="1968/1981" type="inclusive">1968-1981</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref24" level="file">
+                    </c>
+                    <c id="ref24" level="file">
                         <did>
                             <unittitle>Time Inc.: 1982-1991</unittitle>
                             <container id="cid2540006" type="Offsite-Box" label="Mixed materials">660</container>
                             <unitdate normal="1982/1991" type="inclusive">1982-1991</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref25" level="file">
+                    </c>
+                    <c id="ref25" level="file">
                         <did>
                             <unittitle>Time Inc.: 1991-1998</unittitle>
                             <container id="cid2540007" type="Offsite-Box" label="Mixed materials">661</container>
                             <unitdate normal="1991/1998" type="inclusive">1991-1998</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref26" level="file">
+                    </c>
+                    <c id="ref26" level="file">
                         <did>
                             <unittitle>Time Inc.: 1998-2004</unittitle>
                             <container id="cid2540008" type="Offsite-Box" label="Mixed materials">662</container>
                             <unitdate normal="1998/2004" type="inclusive">1998-2004</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref27" level="file">
+                    </c>
+                    <c id="ref27" level="file">
                         <did>
                             <unittitle>Time Inc.: 2004-2007</unittitle>
                             <container id="cid2540009" type="Offsite-Box" label="Mixed materials">663</container>
                             <container parent="cid2540009" type="Folder">1-7</container>
                             <unitdate normal="2004/2007" type="inclusive">2004-2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref30" level="file">
+                    </c>
+                    <c id="ref30" level="file">
                         <did>
                             <unittitle>Time Inc.: 2010</unittitle>
                             <container id="cid2540010" type="Offsite-Box" label="Mixed materials">663</container>
                             <container parent="cid2540010" type="Folder">8</container>
                             <unitdate normal="2010/2010">2010</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref31" level="file">
+                    </c>
+                    <c id="ref31" level="file">
                         <did>
                             <unittitle>Time Inc.: 2013</unittitle>
                             <container id="cid2540011" type="Offsite-Box" label="Mixed materials">663</container>
                             <container parent="cid2540011" type="Folder">9</container>
                             <unitdate normal="2013/2013">2013</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref18" level="file">
+                    </c>
+                    <c id="ref18" level="file">
                         <did>
                             <unittitle>America Online, Inc.</unittitle>
                             <container id="cid2540012" type="Offsite-Box" label="Mixed materials">663</container>
                             <container parent="cid2540012" type="Folder">10-11</container>
                             <unitdate>1992-2000</unitdate>
                         </did>
-                    </c03>
-                </c02>
-                <c02 id="ref69" level="subseries">
+                    </c>
+                </c>
+                <c id="ref69" level="subseries">
                     <did>
                         <unittitle>Subseries I.B. Press Clippings</unittitle>
                         <physdesc>
@@ -244,246 +246,246 @@
                         <head>Arrangement Note</head>
                         <p>Organized chronologically.</p>
                     </arrangement>
-                    <c03 id="ref70" level="file">
+                    <c id="ref70" level="file">
                         <did>
                             <unittitle>October 2005 - December 2005</unittitle>
                             <container id="cid2590002" type="Offsite-Box" label="Mixed materials">678</container>
                             <unitdate normal="2005/2005">2005</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref71" level="file">
+                    </c>
+                    <c id="ref71" level="file">
                         <did>
                             <unittitle>December 2005 - February 2006</unittitle>
                             <container id="cid2590003" type="Offsite-Box" label="Mixed materials">679</container>
                             <unitdate normal="2005/2006" type="inclusive">2005-2006</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref72" level="file">
+                    </c>
+                    <c id="ref72" level="file">
                         <did>
                             <unittitle>February 2006 - April 2006</unittitle>
                             <container id="cid2590004" type="Offsite-Box" label="Mixed materials">680</container>
                             <unitdate normal="2006/2006">2006</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref73" level="file">
+                    </c>
+                    <c id="ref73" level="file">
                         <did>
                             <unittitle>April 2006 - May 2006</unittitle>
                             <container id="cid2590005" type="Offsite-Box" label="Mixed materials">681</container>
                             <unitdate normal="2006/2006">2006</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref74" level="file">
+                    </c>
+                    <c id="ref74" level="file">
                         <did>
                             <unittitle>May 2006 - June 2006</unittitle>
                             <container id="cid2590006" type="Offsite-Box" label="Mixed materials">682</container>
                             <unitdate normal="2006/2006">2006</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref75" level="file">
+                    </c>
+                    <c id="ref75" level="file">
                         <did>
                             <unittitle>June 2006 - July 2006</unittitle>
                             <container id="cid2590007" type="Offsite-Box" label="Mixed materials">683</container>
                             <unitdate normal="2006/2006">2006</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref76" level="file">
+                    </c>
+                    <c id="ref76" level="file">
                         <did>
                             <unittitle>July 2006 - August 2006</unittitle>
                             <container id="cid2590008" type="Offsite-Box" label="Mixed materials">684</container>
                             <unitdate normal="2006/2006">2006</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref77" level="file">
+                    </c>
+                    <c id="ref77" level="file">
                         <did>
                             <unittitle>August 2006 - October 2006</unittitle>
                             <container id="cid2590009" type="Offsite-Box" label="Mixed materials">685</container>
                             <unitdate normal="2006/2006">2006</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref78" level="file">
+                    </c>
+                    <c id="ref78" level="file">
                         <did>
                             <unittitle>October 2006 - November 2006</unittitle>
                             <container id="cid2590010" type="Offsite-Box" label="Mixed materials">686</container>
                             <unitdate normal="2006/2006">2006</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref79" level="file">
+                    </c>
+                    <c id="ref79" level="file">
                         <did>
                             <unittitle>November 2006 - December 2006</unittitle>
                             <container id="cid2594001" type="Offsite-Box" label="Mixed materials">687</container>
                             <unitdate normal="2006/2006">2006</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref80" level="file">
+                    </c>
+                    <c id="ref80" level="file">
                         <did>
                             <unittitle>December 2006 - January 2007</unittitle>
                             <container id="cid2594002" type="Offsite-Box" label="Mixed materials">688</container>
                             <unitdate normal="2006/2007" type="inclusive">2006-2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref81" level="file">
+                    </c>
+                    <c id="ref81" level="file">
                         <did>
                             <unittitle>January 2007 - February 2007</unittitle>
                             <container id="cid2594003" type="Offsite-Box" label="Mixed materials">689</container>
                             <unitdate normal="2007/2007">2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref82" level="file">
+                    </c>
+                    <c id="ref82" level="file">
                         <did>
                             <unittitle>February 2007 - April 2007</unittitle>
                             <container id="cid2594004" type="Offsite-Box" label="Mixed materials">690</container>
                             <unitdate normal="2007/2007">2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref83" level="file">
+                    </c>
+                    <c id="ref83" level="file">
                         <did>
                             <unittitle>April 2007 - May 2007</unittitle>
                             <container id="cid2594005" type="Offsite-Box" label="Mixed materials">691</container>
                             <unitdate normal="2007/2007">2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref84" level="file">
+                    </c>
+                    <c id="ref84" level="file">
                         <did>
                             <unittitle>May 2007 - June 2007</unittitle>
                             <container id="cid2594006" type="Offsite-Box" label="Mixed materials">692</container>
                             <unitdate normal="2007/2007">2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref85" level="file">
+                    </c>
+                    <c id="ref85" level="file">
                         <did>
                             <unittitle>June 2007 - July 2007</unittitle>
                             <container id="cid2594007" type="Offsite-Box" label="Mixed materials">693</container>
                             <unitdate normal="2007/2007">2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref86" level="file">
+                    </c>
+                    <c id="ref86" level="file">
                         <did>
                             <unittitle>July 2007 - September 2007</unittitle>
                             <container id="cid2594008" type="Offsite-Box" label="Mixed materials">694</container>
                             <unitdate normal="2007/2007">2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref87" level="file">
+                    </c>
+                    <c id="ref87" level="file">
                         <did>
                             <unittitle>September 2007 - October 2007</unittitle>
                             <container id="cid2597001" type="Offsite-Box" label="Mixed materials">695</container>
                             <unitdate normal="2007/2007">2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref88" level="file">
+                    </c>
+                    <c id="ref88" level="file">
                         <did>
                             <unittitle>October 2007 - November 2007</unittitle>
                             <container id="cid2597002" type="Offsite-Box" label="Mixed materials">696</container>
                             <unitdate normal="2007/2007">2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref89" level="file">
+                    </c>
+                    <c id="ref89" level="file">
                         <did>
                             <unittitle>November 2007 - January 2008</unittitle>
                             <container id="cid2597003" type="Offsite-Box" label="Mixed materials">697</container>
                             <unitdate normal="2007/2008" type="inclusive">2007-2008</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref90" level="file">
+                    </c>
+                    <c id="ref90" level="file">
                         <did>
                             <unittitle>January 2008 - February 2008</unittitle>
                             <container id="cid2597004" type="Offsite-Box" label="Mixed materials">698</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref91" level="file">
+                    </c>
+                    <c id="ref91" level="file">
                         <did>
                             <unittitle>February 2008 - April 2008</unittitle>
                             <container id="cid2599001" type="Offsite-Box" label="Mixed materials">699</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref92" level="file">
+                    </c>
+                    <c id="ref92" level="file">
                         <did>
                             <unittitle>April 2008 - July 2008</unittitle>
                             <container id="cid2641001" type="Offsite-Box" label="Mixed materials">700</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref93" level="file">
+                    </c>
+                    <c id="ref93" level="file">
                         <did>
                             <unittitle>July 2008 - October 2008</unittitle>
                             <container id="cid2600001" type="Offsite-Box" label="Mixed materials">701</container>
                             <unitdate normal="2008/2008">2008</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref94" level="file">
+                    </c>
+                    <c id="ref94" level="file">
                         <did>
                             <unittitle>October 2008 - February 2009</unittitle>
                             <container id="cid2600002" type="Offsite-Box" label="Mixed materials">702</container>
                             <unitdate normal="2008/2009" type="inclusive">2008-2009</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref95" level="file">
+                    </c>
+                    <c id="ref95" level="file">
                         <did>
                             <unittitle>February 2009 - July 2009</unittitle>
                             <container id="cid2600003" type="Offsite-Box" label="Mixed materials">703</container>
                             <unitdate normal="2009/2009">2009</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref96" level="file">
+                    </c>
+                    <c id="ref96" level="file">
                         <did>
                             <unittitle>July 2009 - December 2009</unittitle>
                             <container id="cid2600004" type="Offsite-Box" label="Mixed materials">704</container>
                             <unitdate normal="2009/2009">2009</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref97" level="file">
+                    </c>
+                    <c id="ref97" level="file">
                         <did>
                             <unittitle>December 2009 - May 2010</unittitle>
                             <container id="cid2600005" type="Offsite-Box" label="Mixed materials">705</container>
                             <unitdate normal="2009/2010" type="inclusive">2009-2010</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref98" level="file">
+                    </c>
+                    <c id="ref98" level="file">
                         <did>
                             <unittitle>May 2010 - August 2010</unittitle>
                             <container id="cid2600006" type="Offsite-Box" label="Mixed materials">706</container>
                             <unitdate normal="2010/2010">2010</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref99" level="file">
+                    </c>
+                    <c id="ref99" level="file">
                         <did>
                             <unittitle>August 2010 - February 2011</unittitle>
                             <container id="cid2601001" type="Offsite-Box" label="Mixed materials">707</container>
                             <unitdate normal="2010/2011" type="inclusive">2010-2011</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref100" level="file">
+                    </c>
+                    <c id="ref100" level="file">
                         <did>
                             <unittitle>February 2011 - July 2011</unittitle>
                             <container id="cid2601002" type="Offsite-Box" label="Mixed materials">708</container>
                             <unitdate normal="2011/2011">2011</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref101" level="file">
+                    </c>
+                    <c id="ref101" level="file">
                         <did>
                             <unittitle>July 2011 - October 2011</unittitle>
                             <container id="cid2601003" type="Offsite-Box" label="Mixed materials">709</container>
                             <unitdate normal="2011/2011">2011</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref102" level="file">
+                    </c>
+                    <c id="ref102" level="file">
                         <did>
                             <unittitle>October 2011 - May 2012</unittitle>
                             <container id="cid2601004" type="Offsite-Box" label="Mixed materials">710</container>
                             <unitdate normal="2011/2012" type="inclusive">2011-2012</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref103" level="file">
+                    </c>
+                    <c id="ref103" level="file">
                         <did>
                             <unittitle>June 2012 - October 2013</unittitle>
                             <container id="cid2601005" type="Offsite-Box" label="Mixed materials">711</container>
                             <unitdate normal="2012/2013" type="inclusive">2012-2013</unitdate>
                         </did>
-                    </c03>
-                </c02>
-                <c02 id="ref32" level="subseries">
+                    </c>
+                </c>
+                <c id="ref32" level="subseries">
                     <did>
                         <unittitle>Subseries I.C. 
                             <title render="italic">Time</title> Covers</unittitle>
@@ -502,56 +504,56 @@
                         <p>
                             <title render="italic">Time</title> Covers contains a run of only the covers removed from the rest of the magazine.</p>
                     </scopecontent>
-                    <c03 id="ref33" level="file">
+                    <c id="ref33" level="file">
                         <did>
                             <unittitle>1923-1929</unittitle>
                             <container id="cid2560001" type="Offsite-Box" label="Mixed materials">667</container>
                             <unitdate normal="1923/1929" type="inclusive">1923-1929</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref34" level="file">
+                    </c>
+                    <c id="ref34" level="file">
                         <did>
                             <unittitle>1929-1942</unittitle>
                             <container id="cid2560002" type="Offsite-Box" label="Mixed materials">668</container>
                             <unitdate normal="1929/1942" type="inclusive">1929-1942</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref36" level="file">
+                    </c>
+                    <c id="ref36" level="file">
                         <did>
                             <unittitle>1943-1958</unittitle>
                             <container id="cid2561001" type="Offsite-Box" label="Mixed materials">669</container>
                             <unitdate normal="1943/1958" type="inclusive">1943-1958</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref37" level="file">
+                    </c>
+                    <c id="ref37" level="file">
                         <did>
                             <unittitle>1959-1974</unittitle>
                             <container id="cid2564001" type="Offsite-Box" label="Mixed materials">670</container>
                             <unitdate normal="1959/1974" type="inclusive">1959-1974</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref38" level="file">
+                    </c>
+                    <c id="ref38" level="file">
                         <did>
                             <unittitle>1975-1986</unittitle>
                             <container id="cid2564002" type="Offsite-Box" label="Mixed materials">671</container>
                             <unitdate normal="1975/1986" type="inclusive">1975-1986</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref39" level="file">
+                    </c>
+                    <c id="ref39" level="file">
                         <did>
                             <unittitle>1987-2000</unittitle>
                             <container id="cid2567001" type="Offsite-Box" label="Mixed materials">672</container>
                             <unitdate normal="1987/2000" type="inclusive">1987-2000</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref40" level="file">
+                    </c>
+                    <c id="ref40" level="file">
                         <did>
                             <unittitle>2001-2007</unittitle>
                             <container id="cid2567002" type="Offsite-Box" label="Mixed materials">673</container>
                             <unitdate normal="2001/2007" type="inclusive">2001-2007</unitdate>
                         </did>
-                    </c03>
-                    <c03 id="ref41" level="file">
+                    </c>
+                    <c id="ref41" level="file">
                         <did>
                             <unittitle>2007-2009</unittitle>
                             <container id="cid2567003" type="Offsite-Box" label="Mixed materials">674</container>
@@ -561,9 +563,205 @@
                             </physdesc>
                             <unitdate normal="2007/2009" type="inclusive">2007-2009</unitdate>
                         </did>
-                    </c03>
-                </c02>
-            </c01>
+                    </c>
+                </c>
+                <c audience="internal" id="ref2" level="subseries">
+                    <did>
+                        <unittitle>Sale and Acquisition Bound Volumes of business and legal documents [RESTRICTED] -REDO NUMBERING; NOT BOUND VOLUME NUMBERS</unittitle>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents Note</head>
+                        <p>Includes bound volumes contracts, mergers, and legal documents regarding acquisitions, sales, and joint ventures of which Time Inc. was a party.</p>
+                    </scopecontent>
+                    <relatedmaterial id="ref29">
+                        <head>Related Archival Materials Note</head>
+                        <p>REMINDER TO RELABEL THESE AS ITEMS WITHIN THE BOXES, NOT BOUND VOLUMES.</p>
+                    </relatedmaterial>
+                    <c id="ref3" level="file">
+                        <did>
+                            <unittitle>Acquisition of Times Mirror Magazines, Inc.</unittitle>
+                            <container id="cid2093001" type="Volume" label="Mixed materials">BV1-2</container>
+                            <unitdate>2000</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref5" level="file">
+                        <did>
+                            <unittitle>Sale of The Parenting Group, Inc. and Time4 Media, Inc.</unittitle>
+                            <container id="cid2093003" type="Volume" label="Mixed materials">BV3-4</container>
+                            <unitdate>2007</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref4" level="file">
+                        <did>
+                            <unittitle>Acquisition of Editorial Medcom</unittitle>
+                            <container id="cid2093002" type="Volume" label="Mixed materials">BV5-6</container>
+                            <unitdate>2005</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref6" level="file">
+                        <did>
+                            <unittitle>Acquisition of Certain Assets of Hippocrates, Inc...</unittitle>
+                            <container id="cid2093004" type="Volume" label="Mixed materials">BV7</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref7" level="file">
+                        <did>
+                            <unittitle>Joint Venture between Essence Communications Inc. and TIE Holdings</unittitle>
+                            <container id="cid2093005" type="Volume" label="Mixed materials">BV8-9</container>
+                            <unitdate normal="2000/2000">2000</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref8" level="file">
+                        <did>
+                            <unittitle>Acquisition of Leisure Arts, Inc.</unittitle>
+                            <container id="cid2093006" type="Volume" label="Mixed materials">BV10-11, 16</container>
+                            <unitdate normal="1992/1992">1992</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref9" level="file">
+                        <did>
+                            <unittitle>Acquisition of Scott, Foresman and Company</unittitle>
+                            <container id="cid2093007" type="Volume" label="Mixed materials">BV12</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref10" level="file">
+                        <did>
+                            <unittitle>Acquisition of Parenting Unlimited, Inc.</unittitle>
+                            <container id="cid2093008" type="Volume" label="Mixed materials">BV13</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref11" level="file">
+                        <did>
+                            <unittitle>Sale of The Parenting Group</unittitle>
+                            <container id="cid2093009" type="Volume" label="Mixed materials">BV14</container>
+                            <unitdate normal="2006/2006">2006</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref12" level="file">
+                        <did>
+                            <unittitle>Sale of Selected Special Interest Magazines</unittitle>
+                            <container id="cid2093010" type="Volume" label="Mixed materials">BV15</container>
+                            <unitdate normal="2006/2006">2006</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c audience="internal" id="ref47" level="subseries">
+                    <did>
+                        <unittitle>Index Cards -- DONT RELEASE UNTIL ALL MATERIALS THESE REFERENCE ARE LOCATED</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <c id="ref65" level="file">
+                        <did>
+                            <unittitle>Archive Annex: Subject Files: A - T</unittitle>
+                            <container id="cid2590001" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref63" level="file">
+                        <did>
+                            <unittitle>Awards</unittitle>
+                            <container id="cid2569013" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref53" level="file">
+                        <did>
+                            <unittitle>Board of Directors: B - W</unittitle>
+                            <container id="cid2569007" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref61" level="file">
+                        <did>
+                            <unittitle>Donovan Speeches</unittitle>
+                            <container id="cid2569011" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref49" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Entertainment Weekly</title>: Covers: A - Z</unittitle>
+                            <container id="cid2569002" type="Offsite-Box" label="Mixed materials">675</container>
+                        </did>
+                    </c>
+                    <c id="ref64" level="file">
+                        <did>
+                            <unittitle>Fortune Masthead: A - Z</unittitle>
+                            <container id="cid2569014" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref54" level="file">
+                        <did>
+                            <unittitle>Interview Index</unittitle>
+                            <container id="cid2569008" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref55" level="file">
+                        <did>
+                            <unittitle>Jumbo Files</unittitle>
+                            <container id="cid2569009" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref56" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Life</title>: Covers: People: B - Z</unittitle>
+                            <container id="cid2569006" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref58" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Life</title>: Covers: Miscellaneous: Subject: A - Z</unittitle>
+                            <container id="cid2569005" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref66" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Money</title>: "Best Places to Live in America": On Air Discussion</unittitle>
+                            <container id="cid2570001" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref60" level="file">
+                        <did>
+                            <unittitle>Recordings</unittitle>
+                            <container id="cid2569012" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref59" level="file">
+                        <did>
+                            <unittitle>Single Magazine Issues</unittitle>
+                            <container id="cid2569010" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref48" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Time</title>: Covers: A - Z</unittitle>
+                            <container id="cid2569001" type="Offsite-Box" label="Mixed materials">675</container>
+                            <physdesc>
+                                <extent>2.0 Linear feet</extent>
+                                <extent>(2 boxes)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c id="ref50" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Time</title>: Covers: People: A - Z</unittitle>
+                            <container id="cid2569003" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                    <c id="ref52" level="file">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Time</title>: Covers: Miscellaneous File: Subjects: A - Y</unittitle>
+                            <container id="cid2569004" type="Offsite-Box" label="Mixed materials">676</container>
+                        </did>
+                    </c>
+                </c>
+            </c>
         </dsc>
     </archdesc>
 </ead>
