@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">ali</eadid>
+        <eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/ali/">ali</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the George Kalinsky Photographs of Muhammad Ali 
@@ -24,7 +24,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2017-04-20T09:45-0400</date>
+                <date>2017-06-21T15:33-0400</date>
             </creation>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
@@ -41,10 +41,10 @@
             </langmaterial>
             <physdesc>
                 <extent>6.5 Linear feet</extent>
-                <extent>(41 prints in 3 oversize boxes)</extent>
+                <extent>(45 prints of 44 images in 3 oversize boxes)</extent>
             </physdesc>
             <unitdate>1965–1999</unitdate>
-            <abstract id="ref2" label="Abstract">41 mostly black-and-white photographs documenting the career of boxer Muhammad Ali (1942-2016). The images formed the New-York Historical Society exhibition 
+            <abstract id="ref2" label="Abstract">45 mostly black-and-white photographs documenting the career of boxer Muhammad Ali (1942-2016). The images formed the New-York Historical Society exhibition 
                 <emph render="bold">
                     <extref ns2:href="http://www.nyhistory.org/exhibitions/%E2%80%9Ci-am-king-world%E2%80%9D-photographs-muhammad-ali-george-kalinsky">“I Am King of the World”: Photographs of Muhammad Ali by George Kalinsky</extref></emph>, December 2016 - March 2017.</abstract>
             <origination label="creator">
@@ -454,10 +454,34 @@
             </c>
             <c id="ref54" level="item">
                 <did>
-                    <unittitle>Muhammad Ali near boulder painted with “Rocky Graziano.”</unittitle>
+                    <unittitle>Muhammad Ali at Deer Lake, Pennsylvania, training camp [near boulder painted with “Rocky Graziano”] (2 copies)</unittitle>
                     <container id="cid2687002" type="Box" label="Graphic materials">3</container>
-                    <container parent="cid2687002" type="Item">41</container>
-                    <unitdate>?</unitdate>
+                    <container parent="cid2687002" type="Item">41-42</container>
+                    <unitdate>1974-1976</unitdate>
+                </did>
+            </c>
+            <c id="ref55" level="item">
+                <did>
+                    <unittitle>Dizzy Gillespie and Muhammad Ali</unittitle>
+                    <container id="cid2873001" type="Box" label="Graphic materials">3</container>
+                    <container parent="cid2873001" type="Item">43</container>
+                    <unitdate>1976</unitdate>
+                </did>
+            </c>
+            <c id="ref56" level="item">
+                <did>
+                    <unittitle>Muhammad Ali vs Oscar Bonavena [color print]</unittitle>
+                    <container id="cid2873002" type="Box" label="Graphic materials">3</container>
+                    <container parent="cid2873002" type="Item">44</container>
+                    <unitdate>1970</unitdate>
+                </did>
+            </c>
+            <c id="ref57" level="item">
+                <did>
+                    <unittitle>Muhammad Ali with a coloring book of military officers</unittitle>
+                    <container id="cid2873003" type="Box" label="Graphic materials">3</container>
+                    <container parent="cid2873003" type="Item">45</container>
+                    <unitdate>1967</unitdate>
                 </did>
             </c>
         </dsc>
