@@ -1,59 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">alba_280</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Samuel Levinger Papers
-                    <num>ALBA.280</num>
-                </titleproper>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-04-20T12:17-0400</date>
-            </creation>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Samuel Levinger Papers</unittitle>
-            <unitid>ALBA.280</unitid>
-            <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate normal="1937/1937">circa 1937</unitdate>
-            <origination label="creator">
-                <persname source="local">Levinger, Samuel Harold</persname>
-            </origination>
-        </did>
-        <bioghist id="ref2">
-            <head>Historical/Biographical Note</head>
-            <p>Samuel Levinger was a student from Ohio State University who volunteered to serve in the Abraham Lincoln Brigade during the Spanish Civil War. He was wounded in the Battle of Belchite in September 1937 and died shortly thereafter.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>The collection consists of photocopies of his correspondence, as well as photocopies of a memorial committee pamphlet, a short story, and a photograph of Levinger in a hospital bed.</p>
-        </scopecontent>
-        <controlaccess>
-            <persname source="local">Levinger, Samuel Harold</persname>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>alba_280</eadid><filedesc><titlestmt><titleproper>Samuel Levinger Papers <num>ALBA.280</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2017-07-18T20:11:54</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Samuel Levinger Papers</unittitle>
+    <origination label="creator">
+      <persname source="local">Levinger, Samuel Harold</persname>
+    </origination>
+    <unitid>ALBA.280</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate normal="1937/1937" type="inclusive">circa 1937</unitdate>
+  </did>
+  <bioghist id="aspace_f085a375610e8a77ee8142c5cd183b97">
+    <head>Historical/Biographical Note</head>
+<p>Samuel Levinger was a student from Ohio State University who volunteered to serve in the Abraham Lincoln Brigade during the Spanish Civil War.  He was wounded in the Battle of Belchite in September 1937 and died shortly thereafter.</p>  </bioghist>
+  <scopecontent id="aspace_0730d8d5dd647752e315dbad8f3218e1">
+    <head>Scope and Contents</head>
+<p>The collection consists of photocopies of his correspondence, as well as photocopies of a memorial committee pamphlet, a short story, and a photograph of Levinger in a hospital bed.</p>  </scopecontent>
+  <accessrestrict id="aspace_d9c9920eba0c62345bff5a95dcddbaa5">
+    <head>Conditions Governing Access</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <userestrict id="aspace_883e8a8a9ee4b182c8a3b5dbb504789f">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <controlaccess>
+    <persname source="local">Levinger, Samuel Harold</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
