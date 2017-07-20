@@ -1,94 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">alba_035</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Rubin Ehrlich Papers
-                    <num>ALBA.035</num>
-                </titleproper>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-06-01T16:12-0400</date>
-            </creation>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>May 21, 2012</date>
-                <item>Edited by Nicole Greenhouse for compliance with DACS and Tamiment Required Elements for Archival Description.</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Rubin Ehrlich Papers</unittitle>
-            <unitid>ALBA.035</unitid>
-            <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>in 1 manuscript box.</extent>
-            </physdesc>
-            <unitdate>undated</unitdate>
-            <langmaterial id="ref3" label="Language of Materials note">Materials are in English</langmaterial>
-            <abstract id="ref5" label="Abstract">The Rubin Ehrlich Papers mostly contain military materials and documents belonging to Rubin Ehrlich (1913-2001) , who served in the Lincoln Battalion during the Spanish Civil War.</abstract>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Ehrlich, Rubin</persname>
-            </origination>
-        </did>
-        <bioghist id="ref4">
-            <head>Historical/Biographical Note</head>
-            <p>Rubin Ehrlich (1913-2001) was a member of the Abraham Lincoln Brigade during the Spanish Civil War. He also served during World War II in the infantry primarily with the HQ Intelligence Unit.</p>
-        </bioghist>
-        <accessrestrict id="ref2">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@nyu.edu 
-                <lb/></p>
-        </userestrict>
-        <arrangement id="ref8">
-            <head>Arrangement</head>
-            <p>Arranged by subject.</p>
-        </arrangement>
-        <prefercite id="ref10">
-            <head>Preferred Citation</head>
-            <p>Published citations should take the following form: 
-                <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This collection consists of military documents, photographs, and a soldier's cap from the Spanish Civil War. Also includes Ehrlich's U.S. Army discharge certificate, a VALB Christmas Dance program, newspaper clippings, and photocopies of photos of volunteers.</p>
-        </scopecontent>
-        <custodhist id="ref11">
-            <head>Custodial History note</head>
-            <p>This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
-        </custodhist>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>alba_035</eadid><filedesc><titlestmt><titleproper>Guide to the Rubin Ehrlich Papers <num>ALBA.035</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2017-07-20T14:55:13</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Rubin Ehrlich Papers</unittitle>
+    <origination label="creator">
+      <persname rules="dacs" source="local">Ehrlich, Rubin</persname>
+    </origination>
+    <unitid>ALBA.035</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box.</extent>
+    </physdesc>
+    <unitdate type="inclusive">undated</unitdate>
+    <langmaterial id="aspace_d0d635774d7d727217ad804f19a7cede">Materials are in English</langmaterial>
+    <abstract id="aspace_f640b3dff4a10c8e8a2c3f7368b88ffd">The Rubin Ehrlich Papers mostly contain military materials and documents belonging to Rubin Ehrlich (1913-2001) , who served in the Lincoln Battalion during the Spanish Civil War.</abstract>
+  </did>
+  <bioghist id="aspace_f2412e1eca44ed43a78dff7d1b04b3dc">
+    <head>Historical/Biographical Note</head>
+<p>Rubin Ehrlich (1913-2001) was a member of the Abraham Lincoln Brigade during the Spanish Civil War. He also served during World War II in the infantry primarily with the HQ Intelligence Unit.</p>  </bioghist>
+  <accessrestrict id="aspace_d0482a7d209f3994e4ec66f0d2e54724">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <userestrict id="aspace_90e5294de53e367d654845065d1da4f0">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by the Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November 2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives. For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <arrangement id="aspace_2568a221ba3b7b4f750f37f381170cf6">
+    <head>Arrangement</head>
+<p>Arranged by subject.</p>  </arrangement>
+  <prefercite id="aspace_e9cc5e368694c4deeea6f0ed0ec4318f">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_b50b307bca8820346ae8ef11bdb7d4cc">
+    <head>Scope and Contents</head>
+<p>This collection consists of military documents, photographs, and a soldier's cap from the Spanish Civil War. Also includes Ehrlich's U.S. Army discharge certificate, a VALB Christmas Dance program, newspaper clippings, and photocopies of photos of volunteers.</p>  </scopecontent>
+  <custodhist id="aspace_5f65e7a84977bb7f7f4aaf299051ef21">
+    <head>Custodial History</head>
+<p>This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>  </custodhist>
+  <dsc/>
+</archdesc>
 </ead>
