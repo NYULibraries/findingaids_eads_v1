@@ -1,1186 +1,1465 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_125">alba_125</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Edward K. Barsky Papers
-                    <num>ALBA.125</num>
-                </titleproper>
-                <author>Finding aid prepared by Finding aid prepared by Jessica Weglein</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derived from Barsky ALBA 125.doc</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2016-02-29T14:22-0500</date>
-            </creation>
-            <langusage>Description is in 
-                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_125">alba_125</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Edward K. Barsky Papers <num>ALBA.125</num></titleproper>
+        <author>Collection processed by Finding aid prepared by Jessica Weglein</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Barsky ALBA 125.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace
+        <date>2017-08-08T19:59:44</date></creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546"
+        >English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng"/>
+      </langmaterial>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Edward K. Barsky Papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Barsky, Edward K., 1895-1975</persname>
+      </origination>
+      <unitid>ALBA.125</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+        <extent altrender="carrier">in 5 manuscript boxes</extent>
+      </physdesc>
+      <unitdate normal="1936/1970" type="inclusive">1936-1970</unitdate>
+      <unitdate normal="1943/1955" type="bulk">bulk</unitdate>
+      <abstract id="aspace_51a043d10e9dcffdf317e25f5d86b90a">Edward K. Barsky (1897-1975) was a
+        prominent physician who led a group of American medical volunteers in Spain during the Civil
+        War. After the war, he served as Chairman of the Joint Anti-Fascist Refugee Committee
+        (JAFRC), an organization dedicated to aiding Spanish refugees and lobbying the U.S.
+        leadership on behalf of the deposed Republican government. Barsky and the entire board of
+        JAFRC were charged with contempt of Congress and convicted in June 1947 for refusing to turn
+        over the group’s records. Barsky was sentenced to six months in prison. Following his
+        release the New York Board of Regents moved to suspend his medical license, a decision that
+        was upheld by the Supreme Court in 1954. These papers reflect Barsky’s humanitarian work on
+        behalf of Spain and document the court cases that stemmed from these progressive
+        activities.</abstract>
+    </did>
+    <custodhist id="aspace_d015cbd1554d126d01f58caeaf6261ff">
+      <head>Provenance</head>
+      <p>The The Edward K. Barsky Papers were donated to Abraham Lincoln Brigade Archives by Vita
+        Barsky in the late 1970s. The collection came to New York University in January 2001 as part
+        of the original acquisition of Abraham Lincoln Brigade Archives collections, formerly housed
+        at Brandeis University.</p>
+    </custodhist>
+    <accessrestrict id="aspace_f5c075862d3f2bac86a21742f04ecba1">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F.
+        Wagner Labor Archives for more information and to schedule an appointment,
+        tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <bioghist id="aspace_a21b7ebd87c40871b542d546fc440b01">
+      <head>Historical/Biographical Note</head>
+      <p>Edward K. Barsky was born in New York on June 6, 1895, the son of Dr. Joseph Barsky, a
+        promiment New York physician and a founder of Beth Israel Hospital. One of a family of six
+        children, he attended public elementary school, graduated from Townsend Harris High School
+        and received his college degree from City College of New York. Following the example of his
+        father and two of his brothers, Barsky pursued a career in medicine receiving his formal
+        education at Columbia University of Physicians and Surgeons and subsequently conducting
+        post-graduate study abroad in Vienna, Berlin, and Paris. Beginning in 1919 he served a
+        two-year internship at Beth Israel Hospital where he subsequently advanced through the
+        positions of Visiting Staff, Assistant Adjunct Surgeon, and Adjunct Surgeon before assuming
+        the position of Associate Surgeon in 1934. In November 1935, Barsky became a member of the
+        Communist Party.</p>
+      <p>With the outbreak civil war in Spain in 1936, Barsky joined with a group of concerned New
+        York physicians to establish the American Medical Bureau to Aid Spanish Democracy (AMB) --
+        an adjunct organization to the North America Committee to Aid Spanish Democracy, later known
+        as the North American Committee to Aid Spanish Democracy. The AMB arranged for the shipment
+        of ambulances and other medical equipment and supplies, and in January 1937 sent a fully
+        outfitted medical team of doctors, nurses, and technicians to Spain with Barsky at the helm.
+        Additional medical personnel soon followed and under Barsky's command, base hospitals and
+        convalescent homes were set up in schools and monasteries. Emergency units were established
+        on the front lines in ambulances, makeshift tents, and a mobile medical hospital outfitted
+        with a battery-powered operating room. By the following year 117 American doctors, nurses,
+        and ambulance drivers had volunteered to serve in Spain. Barsky returned briefly to the
+        United States in 1937 to conduct a national speaking tour, securing additional funds and
+        supplies for the AMB. With his returned to Spain, he assumed charge of the Sanitary Services
+        of the International Brigade, overseeing hundreds of international medical volunteers -- a
+        position he held until the withdrawal of the foreign forces in January 1939.</p>
+      <p>Back in the United States Barsky resumed his work at Beth Israel Hospital. He married Vita
+        Lauter, a graduate of the University of Wisconsin, and the couple had one child -- a
+        daughter named Angela. In the wake of the war in Spain, Barsky turned his attention to
+        securing relief for Spanish exiles who were living in deplorable conditions in French
+        refugee camps, and Republican prisoners in Spain. In 1941 Barsky played a key role in the
+        formation of the Joint Anti-Fascist Refugee Committee (JAFRC), an organization dedicated to
+        aiding Spanish refugees and lobbying the U.S. leadership on behalf of the deposed Republican
+        government. With Barsky as chairman, the organization raised closed to $400,000 in its first
+        two years of operation. By 1945, however, the JAFRC's progressive agenda attracted the
+        hostile attention of the House on Un-American Activities Committee (HUAC). Barksy, Executive
+        Secretary Helen R. Bryan, and Executive Board members of JAFRC were subpoenaed to appear
+        before the committee, surrender financial records, and turn over the names of contributors
+        and recipients of aid. After refusing to comply with HUAC demands, Barsky and entire board
+        of JAFRC were charged with contempt of Congress and convicted in June 1947.</p>
+      <p>Three years of appeals that challenged the constitutionality of the HUAC hearings ended in
+        1950 when the Supreme Court refused to review the convictions. The board members, including
+        novelist Howard Fast, were sentenced to three months in prison, and Barsky, as the JAFRC's
+        chairman, was sentenced to six months in the Federal Penitentiary in Petersburg, Virginia
+        and fined $500. Following his release, the New York State Board of Regents moved to censure
+        Barsky and -- citing his conviction and subsequent imprisonment -- suspended his medical
+        license. Although he received the unstinting support of his medical colleagues who filed an
+        Amici Curiae on his behalf, in 1954, after four years of appeals, the Supreme Court upheld a
+        six-month suspension of his license. Writing in a dissenting opinion, Judge William O.
+        Douglas asserted, "When a doctor cannot save lives in America because he is opposed to
+        Franco in Spain, it is time to call a halt and look critically at the neurosis that has
+        possessed us."</p>
+      <p>Barsky remained committed to progressive causes throughout his life. In 1952 he worked on
+        behalf of the American Labor Party and its candidate, Vincent Hallihan, who was chief
+        counsel for Harry Bridges and at the time of the election was serving a six months sentence
+        for contempt of congress. During the 1960s, Barsky was active with the Medical Committee for
+        Human Rights, which provided emergency medical services for civil rights and peace movement
+        workers in the South. He was also affiliated with the New York labor movement, working for
+        many years as a security plan panel physician for District Council 65. In 1967, the Veterans
+        of the Abraham Lincoln Brigade marked their 30th anniversary with a tribute honoring
+        Barsky's achievements on behalf the Spanish Republic. Barsky continued his professional
+        relationship with Beth Israel Hospital throughout the remainder of his life, serving as
+        consulting surgeon in his later years. On February 11, 1975, Edward Barsky died at the age
+        of 78.</p>
+    </bioghist>
+    <scopecontent id="aspace_6bac5d126e6a1b282b08423cfa810980">
+      <head>Scope and Content Note</head>
+      <p><emph render="bold">Series I, Aid to Spain, 1937-1957</emph>, documents Barsky's work in
+        Spain and his subsequent efforts on behalf of the Spanish refugees who were force into exile
+        after the fall of the Republic. Materials that date from the Spanish Civil War include
+        medical reports issued by the International Brigades; commendations from the Spanish
+        Republic; clippings pertaining to Barsky's activities in Spain; AMB pamphlets; and a license
+        granting Barsky permission to use a camera.</p>
+      <p>The bulk of these materials cover Barsky's work with the JAFRC, from its inception in 1941
+        to its dissolution in 1955. Included here is correspondence, reports, press releases,
+        pamphlets, newsletters, materials related to fundraising events, the organization's
+        constitution, and copies of addresses delivered by Barsky in his capacity as chairman.
+        Notable materials include records and correspondence dealing with HUAC's investigation of
+        the organization; and signed letters from Sean O'Casey, Dorothy Parker, and Paul Robeson
+        promoting the cause of the JAFRC.</p>
+      <p>Also notable is the text of a Henry Wallace speech decrying the U.S. government's
+        pro-Franco policy; pamphlets, articles, and correspondence relating to the Veterans of the
+        Abraham Lincoln Brigade (VALB) including materials protesting VALB's inclusion on the
+        Attorney General's list of subversive organizations; a transcript of a meeting between
+        Milton Wolff and the U.S. State Department on Spanish prisoners condemned to death; and
+        clippings related to the Spanish refugee crisis.</p>
+      <p><emph render="bold">Series II, Subject Files, 1950-1973</emph>. These files offer a glimpse
+        into some of Barsky's political and professional preoccupations. Included here are materials
+        related to his activities with the America Labor Party; a speech Barsky delivered paying
+        tribute to editor of the Soviet Russia Today (later named New World Review) and Communist
+        Party organizer Jessica Smith; and a proposal for the establishment of a private hospital in
+        New York City.</p>
+      <p><emph render="bold">Series III Trials &amp; Hearings, 1946-1960</emph>, consist of legal
+        records pertaining to the JAFRC's contempt trials, the Board of Regent's action against
+        Barsky's, and the court cases that ensued. In addition to briefs and legal proceedings, are
+        copies of an Amici Curiae brief -- filed by Barsky's medical colleagues --, and a petition
+        of support signed by 621 physicians. This series also contains incoming and outgoing
+        correspondence, with letters of support written to Barsky while he was imprisoned, and
+        character references written to the parole board on his behalf prior to his release. There
+        is also a separate file of correspondence related to the Board of Regents hearings and
+        trials. Notable is a signed letter from journalist Vincent Sheean offering a first-hand
+        account of Barsky's work in Spain and a review of Sheean efforts to defend Barsky and other
+        members of the JAFRC during their contempt trials. There are also several documents that
+        record his incarceration including a receipt of property noting the garments and other
+        personal effects he surrendered when he entered the federal penitentiary to serve his
+        term.</p>
+      <p><emph render="bold">Series IV, Writings, Undated, 1937-1958</emph>, includes Barsky's
+        unpublished memoir, "A Surgeon Goes to War," which gives an account of his time organizing
+        medical units and operating on the frontlines in Spain; and a signed typescript of Sandor
+        Voros' work on the American hospitals and international medical services during the Spanish
+        Civil War. This series also includes a copy of Bulgarian physician Tsvetan Angelov
+        Kristanov's account of his term as medical director of the International Brigades in Spain.
+        The book, which is in Russian, includes a personal inscription to Barsky from the author,
+        and a partial translation of the introduction. There is also an essay by an unidentified
+        physician (perhaps Barsky) describing setting up emergency surgery units at the front. Two
+        essays without attribution on academic freedom and co-education may be the work of Vita
+        Lauter Barsky.</p>
+    </scopecontent>
+    <arrangement id="aspace_de9265fd5faf157aedf0dec008d9b9b8">
+      <head>Arrangement</head>
+      <p>Series I and II are arranged alphabetically. Series III consists of two sections: the legal
+        proceedings are arranged chronologically, followed by subject files, which are arranged
+        alphabetically. Series IV is arranged alphabetically by author.</p>
+      <p>Organized into three series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I. Aid to Spain, 1937-1957.</item>
+        <item>II. Subject Files, 1950-1973.</item>
+        <item>III. Trials &amp; Hearings, 1946-1960.</item>
+        <item>IV. Writings, Undated, 1937-1958.</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_cc4836c1eb57f3767d3dfbe34fd07bc3">
+      <head>Related Material</head>
+      <p>Fredericka Martin Papers, ALBA #1</p>
+      <p>Frances Patai Papers, ALBA #131</p>
+      <p>Mildred Rackley Papers, ALBA #97</p>
+      <p>Tamiment Verticle File: OF - Joint Anti-Fascist Refugee Committee</p>
+      <p><emph render="bold">Other Institutions</emph>:</p>
+      <p>Sandor Voros Spanish Civil War Collection. Adelphi University Library.</p>
+      <p>Spanish Refugee Relief Association Records. Columbia University, Rare Book, Manuscript
+        Library.</p>
+      <p>American Friends of Spanish Democracy Records. Manuscript &amp; Archives Division, The New
+        York Public Library.</p>
+    </relatedmaterial>
+    <separatedmaterial id="aspace_2e9be56a931d9e1a25073f69a02dd2bb">
+      <head>Separated Material</head>
+      <p>Photographs were separated from Barsky’s manuscript materials in the course of processing.
+        For further information related to the scope and contents of his photograph collection see,
+        The Guide to the Edward K. Barsky Photograph Collection.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_a3c3efb5400681ddd573109759705cae">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the
+        Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November
+        2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this
+        collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives.
+        For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <prefercite id="aspace_22e391e1613ff5e29391370fe394ae02">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date;
+        Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert
+        F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South
+        <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <genreform source="aat">Articles.</genreform>
+      <genreform source="aat">Briefs (legal documents)</genreform>
+      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Foreign public
+        opinion.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal
+        narratives.</geogname>
+      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Medical care.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Hospitals.</geogname>
+      <genreform source="aat">Drafts (documents)</genreform>
+      <genreform source="lcsh">Correspondence.</genreform>
+      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Biography.</geogname>
+      <genreform source="aat">Legal documents.</genreform>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Prisoners and
+        prisons.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation,
+        American.</geogname>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <corpname source="ingest">Joint Anti-Fascist Refugee Committee.</corpname>
+      <persname source="ingest">Douglas, William O. (William Orville), 1898-1980</persname>
+      <corpname source="ingest">Medical Bureau and North American Committee to Aid Spanish
+        Democracy.</corpname>
+      <persname source="ingest">Kristanov, Tsvetan Angelov.</persname>
+      <corpname source="ingest">Medical Committee for Human Rights (U.S.).</corpname>
+      <corpname source="ingest">Medical Bureau to Aid Spanish Democracy.</corpname>
+      <persname source="ingest">O'Casey, Sean, 1880-1964</persname>
+      <corpname source="ingest">North American Committee to Aid Spanish Democracy.</corpname>
+      <persname source="naf">Parker, Dorothy, 1893-1967.</persname>
+      <persname source="ingest">Smith, Jessica, 1895-1983</persname>
+      <persname source="ingest">Sheean, Vincent, 1899-1975</persname>
+      <corpname source="ingest">Spain. Ejercito Popular de la Republica. Brigada Internacional,
+        XV.</corpname>
+      <corpname source="ingest">Spain. Ejercito Popular de la Republica. Abraham Lincoln
+        Battalion.</corpname>
+      <persname source="ingest">Voros, Sandor.</persname>
+      <corpname source="ingest">Veterans of the Abraham Lincoln Brigade.</corpname>
+      <persname source="ingest">Wallace, Henry A. (Henry Agard), 1888-1965</persname>
+      <persname source="naf">Wolff, Milton.</persname>
+      <corpname rules="aacr" source="naf">Communist Party of the United States of America</corpname>
+      <persname source="ingest">Barsky, Edward K., 1895-1975</persname>
+      <persname source="ingest">Barsky, Vita</persname>
+      <corpname source="ingest">Beth Israel Medical Center (New York, N.Y.).</corpname>
+      <persname rules="aacr" source="naf">Robeson, Paul, 1898-1976</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
         <did>
-            <unittitle>Edward K. Barsky Papers</unittitle>
-            <unitid>ALBA.125</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>2.5 linear feet</extent>
-                <extent>in 5 manuscript boxes</extent>
-            </physdesc>
-            <unitdate normal="1943/1955" type="bulk">Bulk, 1943-1955</unitdate>
-            <unitdate normal="1936/1970" type="inclusive">1936-1970</unitdate>
-            <abstract id="ref2" label="Abstract">Edward K. Barsky (1897-1975) was a prominent physician who led a group of American medical volunteers in Spain during the Civil War. After the war, he served as Chairman of the Joint Anti-Fascist Refugee Committee (JAFRC), an organization dedicated to aiding Spanish refugees and lobbying the U.S. leadership on behalf of the deposed Republican government. Barsky and the entire board of JAFRC were charged with contempt of Congress and convicted in June 1947 for refusing to turn over the group’s records. Barsky was sentenced to six months in prison. Following his release the New York Board of Regents moved to suspend his medical license, a decision that was upheld by the Supreme Court in 1954. These papers reflect Barsky’s humanitarian work on behalf of Spain and document the court cases that stemmed from these progressive activities.</abstract>
-            <origination label="creator">
-                <persname source="ingest">Barsky, Edward K., 1895-1975</persname>
-            </origination>
+          <unittitle>Series I: Relief to Spain, 1937-1951</unittitle>
         </did>
-        <custodhist id="ref3">
-            <head>Provenance</head>
-            <p>The The Edward K. Barsky Papers were donated to Abraham Lincoln Brigade Archives by Vita Barsky in the late 1970s. The collection came to New York University in January 2001 as part of the original acquisition of Abraham Lincoln Brigade Archives collections, formerly housed at Brandeis University.</p>
-        </custodhist>
-        <accessrestrict id="ref4">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <bioghist id="ref5">
-            <head>Historical/Biographical Note</head>
-            <p>Edward K. Barsky was born in New York on June 6, 1895, the son of Dr. Joseph Barsky, a promiment New York physician and a founder of Beth Israel Hospital. One of a family of six children, he attended public elementary school, graduated from Townsend Harris High School and received his college degree from City College of New York. Following the example of his father and two of his brothers, Barsky pursued a career in medicine receiving his formal education at Columbia University of Physicians and Surgeons and subsequently conducting post-graduate study abroad in Vienna, Berlin, and Paris. Beginning in 1919 he served a two-year internship at Beth Israel Hospital where he subsequently advanced through the positions of Visiting Staff, Assistant Adjunct Surgeon, and Adjunct Surgeon before assuming the position of Associate Surgeon in 1934. In November 1935, Barsky became a member of the Communist Party.</p>
-            <p>With the outbreak civil war in Spain in 1936, Barsky joined with a group of concerned New York physicians to establish the American Medical Bureau to Aid Spanish Democracy (AMB) -- an adjunct organization to the North America Committee to Aid Spanish Democracy, later known as the North American Committee to Aid Spanish Democracy. The AMB arranged for the shipment of ambulances and other medical equipment and supplies, and in January 1937 sent a fully outfitted medical team of doctors, nurses, and technicians to Spain with Barsky at the helm. Additional medical personnel soon followed and under Barsky's command, base hospitals and convalescent homes were set up in schools and monasteries. Emergency units were established on the front lines in ambulances, makeshift tents, and a mobile medical hospital outfitted with a battery-powered operating room. By the following year 117 American doctors, nurses, and ambulance drivers had volunteered to serve in Spain. Barsky returned briefly to the United States in 1937 to conduct a national speaking tour, securing additional funds and supplies for the AMB. With his returned to Spain, he assumed charge of the Sanitary Services of the International Brigade, overseeing hundreds of international medical volunteers -- a position he held until the withdrawal of the foreign forces in January 1939.</p>
-            <p>Back in the United States Barsky resumed his work at Beth Israel Hospital. He married Vita Lauter, a graduate of the University of Wisconsin, and the couple had one child -- a daughter named Angela. In the wake of the war in Spain, Barsky turned his attention to securing relief for Spanish exiles who were living in deplorable conditions in French refugee camps, and Republican prisoners in Spain. In 1941 Barsky played a key role in the formation of the Joint Anti-Fascist Refugee Committee (JAFRC), an organization dedicated to aiding Spanish refugees and lobbying the U.S. leadership on behalf of the deposed Republican government. With Barsky as chairman, the organization raised closed to $400,000 in its first two years of operation. By 1945, however, the JAFRC's progressive agenda attracted the hostile attention of the House on Un-American Activities Committee (HUAC). Barksy, Executive Secretary Helen R. Bryan, and Executive Board members of JAFRC were subpoenaed to appear before the committee, surrender financial records, and turn over the names of contributors and recipients of aid. After refusing to comply with HUAC demands, Barsky and entire board of JAFRC were charged with contempt of Congress and convicted in June 1947.</p>
-            <p>Three years of appeals that challenged the constitutionality of the HUAC hearings ended in 1950 when the Supreme Court refused to review the convictions. The board members, including novelist Howard Fast, were sentenced to three months in prison, and Barsky, as the JAFRC's chairman, was sentenced to six months in the Federal Penitentiary in Petersburg, Virginia and fined $500. Following his release, the New York State Board of Regents moved to censure Barsky and -- citing his conviction and subsequent imprisonment -- suspended his medical license. Although he received the unstinting support of his medical colleagues who filed an Amici Curiae on his behalf, in 1954, after four years of appeals, the Supreme Court upheld a six-month suspension of his license. Writing in a dissenting opinion, Judge William O. Douglas asserted, "When a doctor cannot save lives in America because he is opposed to Franco in Spain, it is time to call a halt and look critically at the neurosis that has possessed us."</p>
-            <p>Barsky remained committed to progressive causes throughout his life. In 1952 he worked on behalf of the American Labor Party and its candidate, Vincent Hallihan, who was chief counsel for Harry Bridges and at the time of the election was serving a six months sentence for contempt of congress. During the 1960s, Barsky was active with the Medical Committee for Human Rights, which provided emergency medical services for civil rights and peace movement workers in the South. He was also affiliated with the New York labor movement, working for many years as a security plan panel physician for District Council 65. In 1967, the Veterans of the Abraham Lincoln Brigade marked their 30th anniversary with a tribute honoring Barsky's achievements on behalf the Spanish Republic. Barsky continued his professional relationship with Beth Israel Hospital throughout the remainder of his life, serving as consulting surgeon in his later years. On February 11, 1975, Edward Barsky died at the age of 78.</p>
-        </bioghist>
-        <scopecontent id="ref6">
-            <head>Scope and Content Note</head>
-            <p>
-                <emph render="bold">Series I, Aid to Spain, 1937-1957</emph>, documents Barsky's work in Spain and his subsequent efforts on behalf of the Spanish refugees who were force into exile after the fall of the Republic. Materials that date from the Spanish Civil War include medical reports issued by the International Brigades; commendations from the Spanish Republic; clippings pertaining to Barsky's activities in Spain; AMB pamphlets; and a license granting Barsky permission to use a camera.</p>
-            <p>The bulk of these materials cover Barsky's work with the JAFRC, from its inception in 1941 to its dissolution in 1955. Included here is correspondence, reports, press releases, pamphlets, newsletters, materials related to fundraising events, the organization's constitution, and copies of addresses delivered by Barsky in his capacity as chairman. Notable materials include records and correspondence dealing with HUAC's investigation of the organization; and signed letters from Sean O'Casey, Dorothy Parker, and Paul Robeson promoting the cause of the JAFRC.</p>
-            <p>Also notable is the text of a Henry Wallace speech decrying the U.S. government's pro-Franco policy; pamphlets, articles, and correspondence relating to the Veterans of the Abraham Lincoln Brigade (VALB) including materials protesting VALB's inclusion on the Attorney General's list of subversive organizations; a transcript of a meeting between Milton Wolff and the U.S. State Department on Spanish prisoners condemned to death; and clippings related to the Spanish refugee crisis.</p>
-            <p>
-                <emph render="bold">Series II, Subject Files, 1950-1973</emph>. These files offer a glimpse into some of Barsky's political and professional preoccupations. Included here are materials related to his activities with the America Labor Party; a speech Barsky delivered paying tribute to editor of the Soviet Russia Today (later named New World Review) and Communist Party organizer Jessica Smith; and a proposal for the establishment of a private hospital in New York City.</p>
-            <p>
-                <emph render="bold">Series III Trials &amp; Hearings, 1946-1960</emph>, consist of legal records pertaining to the JAFRC's contempt trials, the Board of Regent's action against Barsky's, and the court cases that ensued. In addition to briefs and legal proceedings, are copies of an Amici Curiae brief -- filed by Barsky's medical colleagues --, and a petition of support signed by 621 physicians. This series also contains incoming and outgoing correspondence, with letters of support written to Barsky while he was imprisoned, and character references written to the parole board on his behalf prior to his release. There is also a separate file of correspondence related to the Board of Regents hearings and trials. Notable is a signed letter from journalist Vincent Sheean offering a first-hand account of Barsky's work in Spain and a review of Sheean efforts to defend Barsky and other members of the JAFRC during their contempt trials. There are also several documents that record his incarceration including a receipt of property noting the garments and other personal effects he surrendered when he entered the federal penitentiary to serve his term.</p>
-            <p>
-                <emph render="bold">Series IV, Writings, Undated, 1937-1958</emph>, includes Barsky's unpublished memoir, "A Surgeon Goes to War," which gives an account of his time organizing medical units and operating on the frontlines in Spain; and a signed typescript of Sandor Voros' work on the American hospitals and international medical services during the Spanish Civil War. This series also includes a copy of Bulgarian physician Tsvetan Angelov Kristanov's account of his term as medical director of the International Brigades in Spain. The book, which is in Russian, includes a personal inscription to Barsky from the author, and a partial translation of the introduction. There is also an essay by an unidentified physician (perhaps Barsky) describing setting up emergency surgery units at the front. Two essays without attribution on academic freedom and co-education may be the work of Vita Lauter Barsky.</p>
-        </scopecontent>
-        <arrangement id="ref7">
-            <head>Arrangement</head>
-            <p>Series I and II are arranged alphabetically. Series III consists of two sections: the legal proceedings are arranged chronologically, followed by subject files, which are arranged alphabetically. Series IV is arranged alphabetically by author.</p>
-            <p>Organized into three series:</p>
-            <list type="ordered">
-                <item>I. Aid to Spain, 1937-1957.</item>
-                <item>II. Subject Files, 1950-1973.</item>
-                <item>III. Trials &amp; Hearings, 1946-1960.</item>
-                <item>IV. Writings, Undated, 1937-1958.</item>
-            </list>
-        </arrangement>
-        <relatedmaterial id="ref10">
-            <head>Related Material</head>
-            <p>Fredericka Martin Papers, ALBA #1</p>
-            <p>Frances Patai Papers, ALBA #131</p>
-            <p>Mildred Rackley Papers, ALBA #97</p>
-            <p>Tamiment Verticle File: OF - Joint Anti-Fascist Refugee Committee</p>
-            <p>
-                <emph render="bold">Other Institutions</emph>:</p>
-            <p>Sandor Voros Spanish Civil War Collection. Adelphi University Library.</p>
-            <p>Spanish Refugee Relief Association Records. Columbia University, Rare Book, Manuscript Library.</p>
-            <p>American Friends of Spanish Democracy Records. Manuscript &amp; Archives Division, The New York Public Library.</p>
-        </relatedmaterial>
-        <separatedmaterial id="ref11">
-            <head>Separated Material</head>
-            <p>Photographs were separated from Barsky’s manuscript materials in the course of processing. For further information related to the scope and contents of his photograph collection see, The Guide to the Edward K. Barsky Photograph Collection.</p>
-        </separatedmaterial>
-        <userestrict id="ref12">
-            <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@nyu.edu 
-                <lb/></p>
-        </userestrict>
-        <prefercite id="ref13">
-            <head>Preferred Citation</head>
-            <p>Published citations should take the following form: 
-                <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
-                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/>Elmer Holmes Bobst Library 
-                <lb/>70 Washington Square South 
-                <lb/>New York, NY 10012, New York University Libraries.</p>
-        </prefercite>
-        <controlaccess>
-            <persname source="ingest">Barsky, Edward K., 1895-1975</persname>
-            <persname source="ingest">Barsky, Vita</persname>
-            <corpname source="ingest">Beth Israel Medical Center (New York, N.Y.).</corpname>
-            <corpname rules="aacr" source="naf">Communist Party of the United States of America.</corpname>
-            <persname source="ingest">Douglas, William O. (William Orville), 1898-1980</persname>
-            <corpname source="ingest">Joint Anti-Fascist Refugee Committee.</corpname>
-            <persname source="ingest">Kristanov, Tsvetan Angelov.</persname>
-            <corpname source="ingest">Medical Bureau and North American Committee to Aid Spanish Democracy.</corpname>
-            <corpname source="ingest">Medical Bureau to Aid Spanish Democracy.</corpname>
-            <corpname source="ingest">Medical Committee for Human Rights (U.S.).</corpname>
-            <corpname source="ingest">North American Committee to Aid Spanish Democracy.</corpname>
-            <persname source="ingest">O'Casey, Sean, 1880-1964</persname>
-            <persname source="naf">Parker, Dorothy, 1893-1967.</persname>
-            <persname rules="aacr" source="naf">Robeson, Paul, 1898-1976.</persname>
-            <persname source="ingest">Sheean, Vincent, 1899-1975</persname>
-            <persname source="ingest">Smith, Jessica, 1895-1983</persname>
-            <corpname source="ingest">Spain. Ejercito Popular de la Republica. Abraham Lincoln Battalion.</corpname>
-            <corpname source="ingest">Spain. Ejercito Popular de la Republica. Brigada Internacional, XV.</corpname>
-            <corpname source="ingest">Veterans of the Abraham Lincoln Brigade.</corpname>
-            <persname source="ingest">Voros, Sandor.</persname>
-            <persname source="ingest">Wallace, Henry A. (Henry Agard), 1888-1965</persname>
-            <persname source="naf">Wolff, Milton.</persname>
-            <genreform source="aat">Articles.</genreform>
-            <genreform source="aat">Briefs (legal documents)</genreform>
-            <genreform source="aat">Correspondence.</genreform>
-            <genreform source="aat">Drafts (documents)</genreform>
-            <genreform source="aat">Legal documents.</genreform>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Biography.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Personal narratives.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Foreign public opinion.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Hospitals.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Medical care.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, American.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Prisoners and prisons.</geogname>
-            <subject source="lcsh">Spain |x History |y Civil War, 1936-1939.</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref14" level="series">
-                <did>
-                    <unittitle>Series I: Relief to Spain, 1937-1951</unittitle>
-                </did>
-                <c id="ref15" level="file">
-                    <did>
-                        <unittitle>Advisory Committee on Voluntary Foreign Aid</unittitle>
-                        <container id="cid23249124" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249124" type="Folder">1</container>
-                        <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
-                    </did>
-                </c>
-                <c id="ref16" level="file">
-                    <did>
-                        <unittitle>American Committee for Spanish Freedom</unittitle>
-                        <container id="cid23249123" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249123" type="Folder">2</container>
-                        <unitdate normal="1933/1953" type="inclusive">circa 1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref17" level="file">
-                    <did>
-                        <unittitle>Appeal for Amnesty (Organization to Aid Spain’s Political Prisoners)</unittitle>
-                        <container id="cid23249122" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249122" type="Folder">3</container>
-                        <unitdate normal="1961/1961">1961</unitdate>
-                    </did>
-                </c>
-                <c id="ref18" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: Address on Foreign Relations with Spain (Free Speech Forum of the Newspaper Guild)</unittitle>
-                        <container id="cid23249121" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249121" type="Folder">4</container>
-                        <unitdate>Jan 23, 1945</unitdate>
-                    </did>
-                </c>
-                <c id="ref19" level="file">
-                    <did>
-                        <unittitle>French Public Health and Relief Organizations</unittitle>
-                        <container id="cid23249120" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249120" type="Folder">5</container>
-                        <unitdate normal="1951/1951">1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref20" level="file">
-                    <did>
-                        <unittitle>Friends of the Spanish Republic: Memorandum Submitted to the United Nations Conference</unittitle>
-                        <container id="cid23249119" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249119" type="Folder">6</container>
-                        <unitdate>Apr 25, 1945</unitdate>
-                    </did>
-                </c>
-                <c id="ref21" level="file">
-                    <did>
-                        <unittitle>International Brigades: 25th Anniversary</unittitle>
-                        <container id="cid23249118" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249118" type="Folder">7</container>
-                        <unitdate normal="1961/1961">1961</unitdate>
-                    </did>
-                </c>
-                <c id="ref22" level="file">
-                    <did>
-                        <unittitle>International Committee of Coordination and Information to Aid Republican Spain</unittitle>
-                        <container id="cid23249117" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249117" type="Folder">8</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c>
-                <c id="ref23" level="file">
-                    <did>
-                        <unittitle>Joint Anti-Fascist Refugee Committee (JAFRC): Address by Barsky (Hotel Diplomat): Clipping</unittitle>
-                        <container id="cid23249116" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249116" type="Folder">9</container>
-                        <unitdate>Nov 1942</unitdate>
-                    </did>
-                </c>
-                <c id="ref24" level="file">
-                    <did>
-                        <unittitle>JAFRC: Address by Barsky at Mexico City Convention</unittitle>
-                        <container id="cid23249115" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249115" type="Folder">10</container>
-                        <unitdate>Aug 20, 1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref25" level="file">
-                    <did>
-                        <unittitle>JAFRC: Address by Barsky</unittitle>
-                        <container id="cid23249114" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249114" type="Folder">11</container>
-                        <unitdate normal="1935/1955" type="inclusive">[1945?]</unitdate>
-                    </did>
-                </c>
-                <c id="ref26" level="file">
-                    <did>
-                        <unittitle>JAFRC: Address by Barsky</unittitle>
-                        <container id="cid23249113" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249113" type="Folder">12</container>
-                        <unitdate>Apr 1945</unitdate>
-                    </did>
-                </c>
-                <c id="ref27" level="file">
-                    <did>
-                        <unittitle>JAFRC: Address by Barsky (Madison Square Garden)</unittitle>
-                        <container id="cid23249112" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249112" type="Folder">13</container>
-                        <unitdate>Sep 24, 1945</unitdate>
-                    </did>
-                </c>
-                <c id="ref28" level="file">
-                    <did>
-                        <unittitle>JAFRC: Address by Barsky</unittitle>
-                        <container id="cid23249111" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249111" type="Folder">14</container>
-                        <unitdate normal="1935/1955" type="inclusive">circa 1945</unitdate>
-                    </did>
-                </c>
-                <c id="ref29" level="file">
-                    <did>
-                        <unittitle>JAFRC: Address by Barsky: Commemoration of the founding of Spain</unittitle>
-                        <container id="cid23249110" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249110" type="Folder">15</container>
-                        <unitdate normal="1952/1952">1952</unitdate>
-                    </did>
-                </c>
-                <c id="ref30" level="file">
-                    <did>
-                        <unittitle>JAFRC: "Campaign Bulletin"</unittitle>
-                        <container id="cid23249109" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249109" type="Folder">16</container>
-                        <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref31" level="file">
-                    <did>
-                        <unittitle>JAFRC: Convention of Solidarity (Mexico City)</unittitle>
-                        <container id="cid23249108" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249108" type="Folder">17</container>
-                        <unitdate>Aug 1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref32" level="file">
-                    <did>
-                        <unittitle>JAFRC: Constitution</unittitle>
-                        <container id="cid23249107" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249107" type="Folder">18</container>
-                        <unitdate normal="1932/1952" type="inclusive">circa 1942</unitdate>
-                    </did>
-                </c>
-                <c id="ref33" level="file">
-                    <did>
-                        <unittitle>JAFRC: Correspondence</unittitle>
-                        <container id="cid23249106" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249106" type="Folder">19</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated , 1942-1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref34" level="file">
-                    <did>
-                        <unittitle>JAFRC: Correspondence: O’Casey, Sean</unittitle>
-                        <container id="cid23249105" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249105" type="Folder">20</container>
-                        <unitdate>Feb 3, 1950</unitdate>
-                    </did>
-                </c>
-                <c id="ref35" level="file">
-                    <did>
-                        <unittitle>JAFRC: Correspondence: Parker, Dorothy</unittitle>
-                        <container id="cid23249104" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249104" type="Folder">21</container>
-                        <unitdate normal="1951/1951">1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref36" level="file">
-                    <did>
-                        <unittitle>JAFRC: Correspondence: Robeson, Paul</unittitle>
-                        <container id="cid23249103" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249103" type="Folder">22</container>
-                        <unitdate>Sep 28, 1942</unitdate>
-                    </did>
-                </c>
-                <c id="ref37" level="file">
-                    <did>
-                        <unittitle>JAFRC: Correspondence: Welles, Sumner</unittitle>
-                        <container id="cid23249102" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249102" type="Folder">23</container>
-                        <unitdate normal="1943/1943">1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref38" level="file">
-                    <did>
-                        <unittitle>JAFRC: Financial Records</unittitle>
-                        <container id="cid23249101" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249101" type="Folder">24</container>
-                        <unitdate normal="1942/1948" type="inclusive">1942-1948</unitdate>
-                    </did>
-                </c>
-                <c id="ref39" level="file">
-                    <did>
-                        <unittitle>JAFRC: "Free Spain": Bulletin</unittitle>
-                        <container id="cid23249100" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249100" type="Folder">25</container>
-                        <unitdate normal="1951/1951">1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref40" level="file">
-                    <did>
-                        <unittitle>JAFRC: Fundraising Tribute: Jo Davidson</unittitle>
-                        <container id="cid23249099" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249099" type="Folder">26</container>
-                        <unitdate>[May 1948?]</unitdate>
-                    </did>
-                </c>
-                <c id="ref41" level="file">
-                    <did>
-                        <unittitle>JAFRC: Fundraising Tributes &amp; Events</unittitle>
-                        <container id="cid23249098" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249098" type="Folder">27</container>
-                        <unitdate normal="1943/1951" type="inclusive">1943-1945 , 1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref42" level="file">
-                    <did>
-                        <unittitle>JAFRC: House Un-American Activities Committee</unittitle>
-                        <container id="cid23249097" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249097" type="Folder">28</container>
-                        <unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate>
-                    </did>
-                </c>
-                <c id="ref43" level="file">
-                    <did>
-                        <unittitle>JAFRC: House Un-American Activities Committee: Congressional Record</unittitle>
-                        <container id="cid23249096" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249096" type="Folder">29</container>
-                        <unitdate normal="1946/1946">1946</unitdate>
-                    </did>
-                </c>
-                <c id="ref44" level="file">
-                    <did>
-                        <unittitle>JAFRC: International Revenue Investigation: Barsky Interview (Transcript) &amp; Correspondence</unittitle>
-                        <container id="cid23249095" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249095" type="Folder">30</container>
-                        <unitdate normal="1947/1957" type="inclusive">1947 , 1957</unitdate>
-                    </did>
-                </c>
-                <c id="ref45" level="file">
-                    <did>
-                        <unittitle>JAFRC: Organizational History</unittitle>
-                        <container id="cid23249094" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249094" type="Folder">31</container>
-                        <unitdate>May 1944</unitdate>
-                    </did>
-                </c>
-                <c id="ref46" level="file">
-                    <did>
-                        <unittitle>JAFRC: Press Releases, Pamphlets &amp; Leaflets</unittitle>
-                        <container id="cid23249093" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid23249093" type="Folder">32</container>
-                        <unitdate normal="1942/1950" type="inclusive">1942-1950</unitdate>
-                    </did>
-                </c>
-                <c id="ref47" level="file">
-                    <did>
-                        <unittitle>JAFRC: Reports</unittitle>
-                        <container id="cid23249092" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249092" type="Folder">1</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated , 1942-1946</unitdate>
-                    </did>
-                </c>
-                <c id="ref48" level="file">
-                    <did>
-                        <unittitle>JAFRC: Resolutions</unittitle>
-                        <container id="cid23249091" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249091" type="Folder">2</container>
-                        <unitdate normal="1943/1948" type="inclusive">1943-1948</unitdate>
-                    </did>
-                </c>
-                <c id="ref49" level="file">
-                    <did>
-                        <unittitle>JAFRC: Spanish Refugee Appeal: Inaugural Dinner (Lillian Hellman, guest of honor)</unittitle>
-                        <container id="cid23249090" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249090" type="Folder">3</container>
-                        <unitdate>Mar 22, 1945</unitdate>
-                    </did>
-                </c>
-                <c id="ref50" level="file">
-                    <did>
-                        <unittitle>JAFRC: Spanish Refugee Appeal: Pamphlets &amp; Programs</unittitle>
-                        <container id="cid23249089" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249089" type="Folder">4</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated , 1947-1948</unitdate>
-                    </did>
-                </c>
-                <c id="ref51" level="file">
-                    <did>
-                        <unittitle>JAFRC: Truman, Harry S.: Letters of Appeal</unittitle>
-                        <container id="cid23249088" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249088" type="Folder">5</container>
-                        <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref52" level="file">
-                    <did>
-                        <unittitle>JAFRC: Unitarian Service Committee Report in The Christian Register</unittitle>
-                        <container id="cid23249087" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249087" type="Folder">6</container>
-                        <unitdate normal="1946/1946">1946</unitdate>
-                    </did>
-                </c>
-                <c id="ref53" level="file">
-                    <did>
-                        <unittitle>Medical Bureau of the North American Committee to Aid Spanish Democracy: Herman Reissing Testimony before Dies Committee</unittitle>
-                        <container id="cid23249086" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249086" type="Folder">7</container>
-                        <unitdate normal="1939/1939">1939</unitdate>
-                    </did>
-                </c>
-                <c id="ref54" level="file">
-                    <did>
-                        <unittitle>Medical Bureau to Aid Spanish Democracy: Pamphlets</unittitle>
-                        <container id="cid23249085" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249085" type="Folder">8</container>
-                        <unitdate normal="1927/1947" type="inclusive">circa 1937</unitdate>
-                    </did>
-                </c>
-                <c id="ref55" level="file">
-                    <did>
-                        <unittitle>Spain: Anti-Franco Addresses: Phillip Jordan, Fred Myers, Quentin Reynolds</unittitle>
-                        <container id="cid23249084" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249084" type="Folder">9</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated , 1945-1946</unitdate>
-                    </did>
-                </c>
-                <c id="ref56" level="file">
-                    <did>
-                        <unittitle>Spain: Anti-Franco Address: Juan Negrin</unittitle>
-                        <container id="cid23249083" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249083" type="Folder">10</container>
-                        <unitdate normal="1935/1955" type="inclusive">circa 1945</unitdate>
-                    </did>
-                </c>
-                <c id="ref57" level="file">
-                    <did>
-                        <unittitle>Spain: Anti-Franco Address: Henry Wallace</unittitle>
-                        <container id="cid23249082" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249082" type="Folder">11</container>
-                        <unitdate>Apr 4, 1949</unitdate>
-                    </did>
-                </c>
-                <c id="ref58" level="file">
-                    <did>
-                        <unittitle>Spain: Refugees, Aid &amp; Politics: Clippings</unittitle>
-                        <container id="cid23249081" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249081" type="Folder">12</container>
-                        <unitdate normal="1945/1951" type="inclusive">1945-1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref59" level="file">
-                    <did>
-                        <unittitle>Spanish Civil War: Barsky, Edward: Clippings</unittitle>
-                        <container id="cid23249080" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249080" type="Folder">13</container>
-                        <unitdate normal="1937/1945" type="inclusive">1937-1945</unitdate>
-                    </did>
-                </c>
-                <c id="ref60" level="file">
-                    <did>
-                        <unittitle>Spanish Civil War: Barsky, Edward: Commendations Issued by Spanish Republic</unittitle>
-                        <container id="cid23249079" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249079" type="Folder">14</container>
-                        <unitdate>Jun 1938</unitdate>
-                    </did>
-                </c>
-                <c id="ref61" level="file">
-                    <did>
-                        <unittitle>Spanish Civil War: Barsky, Edward: Photographic License (Issued in Barcelona, Spain)</unittitle>
-                        <container id="cid23249078" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249078" type="Folder">15</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c>
-                <c id="ref62" level="file">
-                    <did>
-                        <unittitle>Spanish Civil War: International Brigades: Medical Reports &amp; Statistics</unittitle>
-                        <container id="cid23249077" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249077" type="Folder">16</container>
-                        <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
-                    </did>
-                </c>
-                <c id="ref63" level="file">
-                    <did>
-                        <unittitle>Spanish Civil War: "Lift the Embargo" Rally</unittitle>
-                        <container id="cid23249076" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249076" type="Folder">17</container>
-                        <unitdate normal="1939/1939">1939</unitdate>
-                    </did>
-                </c>
-                <c id="ref64" level="file">
-                    <did>
-                        <unittitle>Spanish Civil War: Ministry of National Defence Reports</unittitle>
-                        <container id="cid23249075" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249075" type="Folder">18</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c>
-                <c id="ref65" level="file">
-                    <did>
-                        <unittitle>Spanish Civil War: Public Health Reports &amp; Pamphlets</unittitle>
-                        <container id="cid23249074" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249074" type="Folder">19</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c>
-                <c id="ref66" level="file">
-                    <did>
-                        <unittitle>Spanish Civil War: Socorro Rojo: Pamphlet</unittitle>
-                        <container id="cid23249073" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249073" type="Folder">20</container>
-                        <unitdate normal="1939/1939">1939</unitdate>
-                    </did>
-                </c>
-                <c id="ref67" level="file">
-                    <did>
-                        <unittitle>Spanish Currency</unittitle>
-                        <container id="cid23249072" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249072" type="Folder">21</container>
-                        <unitdate normal="1931/1937" type="inclusive">1931 , 1937</unitdate>
-                    </did>
-                </c>
-                <c id="ref68" level="file">
-                    <did>
-                        <unittitle>Spanish Prisoners: Milton Wolff: Report on State Department Meeting</unittitle>
-                        <container id="cid23249071" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249071" type="Folder">22</container>
-                        <unitdate normal="1949/1949">1949</unitdate>
-                    </did>
-                </c>
-                <c id="ref69" level="file">
-                    <did>
-                        <unittitle>Unitarian Service Committee</unittitle>
-                        <container id="cid23249070" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249070" type="Folder">25</container>
-                        <unitdate normal="1945/1947" type="inclusive">1945-1947</unitdate>
-                    </did>
-                </c>
-                <c id="ref70" level="file">
-                    <did>
-                        <unittitle>United Nations: Relations with Spain</unittitle>
-                        <container id="cid23249069" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249069" type="Folder">26</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated , 1945-1946</unitdate>
-                    </did>
-                </c>
-                <c id="ref71" level="file">
-                    <did>
-                        <unittitle>Veterans of the Abraham Lincoln Brigade</unittitle>
-                        <container id="cid23249068" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249068" type="Folder">27</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref72" level="series">
-                <did>
-                    <unittitle>Series II: Subject Files, 1950-1973</unittitle>
-                </did>
-                <c id="ref73" level="file">
-                    <did>
-                        <unittitle>American Labor Party Election: Speech &amp; Certificate of Election</unittitle>
-                        <container id="cid23249067" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249067" type="Folder">28</container>
-                        <unitdate normal="1952/1952">1952</unitdate>
-                    </did>
-                </c>
-                <c id="ref74" level="file">
-                    <did>
-                        <unittitle>Civil Defense Pamphlet (French)</unittitle>
-                        <container id="cid23249066" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249066" type="Folder">29</container>
-                        <unitdate normal="1937/1937">1937</unitdate>
-                    </did>
-                </c>
-                <c id="ref75" level="file">
-                    <did>
-                        <unittitle>China Welfare Appeal</unittitle>
-                        <container id="cid23249065" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249065" type="Folder">30</container>
-                        <unitdate normal="1950/1950">1950</unitdate>
-                    </did>
-                </c>
-                <c id="ref76" level="file">
-                    <did>
-                        <unittitle>Continental Hospital: Outline for the Establishment of a Private Hospital</unittitle>
-                        <container id="cid23249064" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249064" type="Folder">31</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref77" level="file">
-                    <did>
-                        <unittitle>Correspondence: Personal</unittitle>
-                        <container id="cid23249063" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249063" type="Folder">32</container>
-                        <unitdate normal="1936/1973" type="inclusive">undated , 1956-1973</unitdate>
-                    </did>
-                </c>
-                <c id="ref78" level="file">
-                    <did>
-                        <unittitle>Douglas, Justice William O.: Address &amp; Opinion</unittitle>
-                        <container id="cid23249062" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249062" type="Folder">33</container>
-                        <unitdate normal="1947/1953" type="inclusive">1947 , 1953</unitdate>
-                    </did>
-                </c>
-                <c id="ref79" level="file">
-                    <did>
-                        <unittitle>Medical Committee for Human Rights</unittitle>
-                        <container id="cid23249061" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249061" type="Folder">34</container>
-                        <unitdate normal="1965/1965">1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref80" level="file">
-                    <did>
-                        <unittitle>National Conference for New Politics</unittitle>
-                        <container id="cid23249060" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249060" type="Folder">35</container>
-                        <unitdate normal="1966/1966">1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref81" level="file">
-                    <did>
-                        <unittitle>Segal, Ben: Eulogy delivered by Edward Barsky</unittitle>
-                        <container id="cid23249059" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249059" type="Folder">36</container>
-                        <unitdate normal="1960/1980" type="inclusive">circa 1970</unitdate>
-                    </did>
-                </c>
-                <c id="ref82" level="file">
-                    <did>
-                        <unittitle>Smith, Jessica: Tribute Address by Barsky</unittitle>
-                        <container id="cid23249058" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249058" type="Folder">37</container>
-                        <unitdate normal="1971/1971">1971</unitdate>
-                    </did>
-                </c>
-                <c id="ref83" level="file">
-                    <did>
-                        <unittitle>Un-American Activities Committee: Protest Literature</unittitle>
-                        <container id="cid23249057" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249057" type="Folder">38</container>
-                        <unitdate normal="1947/1964" type="inclusive">1947 , 1964</unitdate>
-                    </did>
-                </c>
-                <c id="ref84" level="file">
-                    <did>
-                        <unittitle>World Council of Peace</unittitle>
-                        <container id="cid23249056" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid23249056" type="Folder">39</container>
-                        <unitdate>Jun 1951</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref85" level="series">
-                <did>
-                    <unittitle>Series III: Trials &amp; Hearings, 1947-1960</unittitle>
-                </did>
-                <c id="ref86" level="file">
-                    <did>
-                        <unittitle>Barsky, et al. v. United States of America: US Court of Appeals: Joint Appendix to Briefs, Vol. I</unittitle>
-                        <container id="cid23249055" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid23249055" type="Folder">1</container>
-                        <unitdate normal="1947/1947">1947</unitdate>
-                    </did>
-                </c>
-                <c id="ref87" level="file">
-                    <did>
-                        <unittitle>Barsky, et al. v. United States of America: US Court of Appeals: Joint Appendix to Briefs, Vol. II</unittitle>
-                        <container id="cid23249054" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid23249054" type="Folder">2</container>
-                        <unitdate normal="1947/1947">1947</unitdate>
-                    </did>
-                </c>
-                <c id="ref88" level="file">
-                    <did>
-                        <unittitle>Barsky, et al. v. United States of America: Petition for Rehearing</unittitle>
-                        <container id="cid23249053" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid23249053" type="Folder">3</container>
-                        <unitdate>Oct 1947</unitdate>
-                    </did>
-                </c>
-                <c id="ref89" level="file">
-                    <did>
-                        <unittitle>Barsky, et al. v. United States of America: US Court of Appeals: Brief for Appellants</unittitle>
-                        <container id="cid23249052" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid23249052" type="Folder">4</container>
-                        <unitdate normal="1947/1947">1947</unitdate>
-                    </did>
-                </c>
-                <c id="ref90" level="file">
-                    <did>
-                        <unittitle>United States of America v. Barsky, et al.: Indictment &amp; Brief on Motion to Dismiss</unittitle>
-                        <container id="cid23249051" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid23249051" type="Folder">5</container>
-                        <unitdate normal="1947/1947">1947</unitdate>
-                    </did>
-                </c>
-                <c id="ref91" level="file">
-                    <did>
-                        <unittitle>Joint Anti-Fascist Refugee Committee v. United States of America: US Court of Appeals</unittitle>
-                        <container id="cid23249050" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid23249050" type="Folder">6</container>
-                        <unitdate>Feb 1948</unitdate>
-                    </did>
-                </c>
-                <c id="ref92" level="file">
-                    <did>
-                        <unittitle>Joint Anti-Fascist Refugee Committee v. United States of America: Writ or Certiorari to US Court of Appeals</unittitle>
-                        <container id="cid23249049" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid23249049" type="Folder">7</container>
-                        <unitdate normal="1949/1949">1949</unitdate>
-                    </did>
-                </c>
-                <c id="ref93" level="file">
-                    <did>
-                        <unittitle>Joint Anti-Fascist Refugee Committee v. United States of America: Brief for Petitioner</unittitle>
-                        <container id="cid23249048" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid23249048" type="Folder">8</container>
-                        <unitdate normal="1950/1950">1950</unitdate>
-                    </did>
-                </c>
-                <c id="ref94" level="file">
-                    <did>
-                        <unittitle>New York State Department of Education, Committee on Grievances: Hearing Transcript</unittitle>
-                        <container id="cid23249047" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249047" type="Folder">1</container>
-                        <unitdate>Feb 1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref95" level="file">
-                    <did>
-                        <unittitle>New York State Department of Education, Committee on Grievances: Revocation of Barsky’s License</unittitle>
-                        <container id="cid23249046" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249046" type="Folder">2</container>
-                        <unitdate>Apr 1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref96" level="file">
-                    <did>
-                        <unittitle>New York State Department of Education: Report of the Regents’ Committee on Discipline</unittitle>
-                        <container id="cid23249045" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249045" type="Folder">3</container>
-                        <unitdate>Jul 1951</unitdate>
-                    </did>
-                </c>
-                <c id="ref97" level="file">
-                    <did>
-                        <unittitle>Barsky v. Board of Regents of the University of the State of New York (NY Supreme Court): Petition to Review &amp; Briefs</unittitle>
-                        <container id="cid23249044" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249044" type="Folder">4</container>
-                        <unitdate normal="1952/1952">1952</unitdate>
-                    </did>
-                </c>
-                <c id="ref98" level="file">
-                    <did>
-                        <unittitle>Barsky v. Board of Regents of the University of the State of New York: Amici Curiae Brief</unittitle>
-                        <container id="cid23249043" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249043" type="Folder">5</container>
-                        <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
-                    </did>
-                </c>
-                <c id="ref99" level="file">
-                    <did>
-                        <unittitle>Barsky v. Board of Regents of the University of the State of New York (US Supreme Court): Brief</unittitle>
-                        <container id="cid23249042" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249042" type="Folder">6</container>
-                        <unitdate normal="1953/1953">1953</unitdate>
-                    </did>
-                </c>
-                <c id="ref100" level="file">
-                    <did>
-                        <unittitle>Barsky v. Board of Regents of the University of the State of New York (US Supreme Court): Opinion &amp; Dissent</unittitle>
-                        <container id="cid23249041" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249041" type="Folder">7</container>
-                        <unitdate normal="1954/1954">1954</unitdate>
-                    </did>
-                </c>
-                <c id="ref101" level="file">
-                    <did>
-                        <unittitle>New York State Department of Education, Board of Regents: Petition of Support</unittitle>
-                        <container id="cid23249040" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249040" type="Folder">8</container>
-                        <unitdate normal="1954/1954">1954</unitdate>
-                    </did>
-                </c>
-                <c id="ref102" level="file">
-                    <did>
-                        <unittitle>NYS Department of Education, Board of Regents: Barsky’s Appeal for Reinstatement</unittitle>
-                        <container id="cid23249039" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249039" type="Folder">9</container>
-                        <unitdate>Jul 1954</unitdate>
-                    </did>
-                </c>
-                <c id="ref103" level="file">
-                    <did>
-                        <unittitle>NYS Department of Education, Board of Regents: Suspension of Practice</unittitle>
-                        <container id="cid23249038" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249038" type="Folder">10</container>
-                        <unitdate>Jun 1954-Oct 1954</unitdate>
-                    </did>
-                </c>
-                <c id="ref104" level="file">
-                    <did>
-                        <unittitle>NYS Department of Education, Board of Regents: Termination of Suspension</unittitle>
-                        <container id="cid23249037" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249037" type="Folder">11</container>
-                        <unitdate>Oct 1954</unitdate>
-                    </did>
-                </c>
-                <c id="ref105" level="file">
-                    <did>
-                        <unittitle>Workmen’s Compensation Board Hearing</unittitle>
-                        <container id="cid23249036" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249036" type="Folder">12</container>
-                        <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
-                    </did>
-                </c>
-                <c id="ref106" level="file">
-                    <did>
-                        <unittitle>Philip Reisman v. Jack Froman et al. (Malpractice Case)</unittitle>
-                        <container id="cid23249035" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249035" type="Folder">13</container>
-                        <unitdate normal="1960/1960">1960</unitdate>
-                    </did>
-                </c>
-                <c id="ref107" level="file">
-                    <did>
-                        <unittitle>Character References: Notes on Solicited Individuals</unittitle>
-                        <container id="cid23249034" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249034" type="Folder">14</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref108" level="file">
-                    <did>
-                        <unittitle>Clippings: Trials</unittitle>
-                        <container id="cid23249033" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249033" type="Folder">15</container>
-                        <unitdate normal="1946/1954" type="inclusive">1946-1954</unitdate>
-                    </did>
-                </c>
-                <c id="ref109" level="file">
-                    <did>
-                        <unittitle>Correspondence</unittitle>
-                        <container id="cid23249032" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid23249032" type="Folder">16</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated , 1947-1955</unitdate>
-                    </did>
-                </c>
-                <c id="ref110" level="file">
-                    <did>
-                        <unittitle>Correspondence: NYS Department of Education, Board of Regents</unittitle>
-                        <container id="cid23249031" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249031" type="Folder">1</container>
-                        <unitdate normal="1950/1954" type="inclusive">1950-1951 , 1954</unitdate>
-                    </did>
-                </c>
-                <c id="ref111" level="file">
-                    <did>
-                        <unittitle>Notes</unittitle>
-                        <container id="cid23249030" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249030" type="Folder">2</container>
-                        <unitdate normal="1940/1960" type="inclusive">circa 1950</unitdate>
-                    </did>
-                </c>
-                <c id="ref112" level="file">
-                    <did>
-                        <unittitle>Prison Records: Statement of Sentence; Receipt of Personal Property</unittitle>
-                        <container id="cid23249029" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249029" type="Folder">3</container>
-                        <unitdate normal="1950/1950">1950</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref113" level="series">
-                <did>
-                    <unittitle>Series IV: Writings</unittitle>
-                </did>
-                <c id="ref114" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Forward and Chapter 1 (unpublished memoir)</unittitle>
-                        <container id="cid23249028" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249028" type="Folder">4</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref115" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 2</unittitle>
-                        <container id="cid23249027" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249027" type="Folder">5</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref116" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 3</unittitle>
-                        <container id="cid23249026" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249026" type="Folder">6</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref117" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 4</unittitle>
-                        <container id="cid23249025" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249025" type="Folder">7</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref118" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 5</unittitle>
-                        <container id="cid23249024" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249024" type="Folder">8</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref119" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 6</unittitle>
-                        <container id="cid23249023" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249023" type="Folder">9</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref120" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 7</unittitle>
-                        <container id="cid23249022" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249022" type="Folder">10</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref121" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 8</unittitle>
-                        <container id="cid23249021" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249021" type="Folder">11</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref122" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 9</unittitle>
-                        <container id="cid23249020" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249020" type="Folder">12</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref123" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 10</unittitle>
-                        <container id="cid23249019" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249019" type="Folder">13</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref124" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 11</unittitle>
-                        <container id="cid23249018" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249018" type="Folder">14</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref125" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 12</unittitle>
-                        <container id="cid23249017" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249017" type="Folder">15</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref126" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 13</unittitle>
-                        <container id="cid23249016" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249016" type="Folder">16</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref127" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 14</unittitle>
-                        <container id="cid23249015" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249015" type="Folder">17</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref128" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 15</unittitle>
-                        <container id="cid23249014" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249014" type="Folder">18</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref129" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 16</unittitle>
-                        <container id="cid23249013" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249013" type="Folder">19</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref130" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 17</unittitle>
-                        <container id="cid23249012" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249012" type="Folder">20</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref131" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 18</unittitle>
-                        <container id="cid23249011" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249011" type="Folder">21</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref134" level="file">
-                    <did>
-                        <unittitle>Barsky, Edward: "Surgeon Goes to War," Photocopy of Entire Manuscript</unittitle>
-                        <container id="cid23249008" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249008" type="Folder">31</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref132" level="file">
-                    <did>
-                        <unittitle>Barsky, Vita ? [Threats to Academic Freedom]</unittitle>
-                        <container id="cid23249010" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249010" type="Folder">22</container>
-                        <unitdate normal="1937/1957" type="inclusive">circa 1947</unitdate>
-                    </did>
-                </c>
-                <c id="ref133" level="file">
-                    <did>
-                        <unittitle>Barsky, Vita ? [Co-Education and the Treatment of Women]</unittitle>
-                        <container id="cid23249009" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249009" type="Folder">23</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref135" level="file">
-                    <did>
-                        <unittitle>Kristanov, Tsvetan Angelov: Medical Services of the International Brigades in Spain (Russian)</unittitle>
-                        <container id="cid23249007" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249007" type="Folder">24</container>
-                        <unitdate normal="1942/1942">1942</unitdate>
-                    </did>
-                </c>
-                <c id="ref136" level="file">
-                    <did>
-                        <unittitle>Marti-Ibanes, Felix: "Sigerist and Spain"</unittitle>
-                        <container id="cid23249006" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249006" type="Folder">25</container>
-                        <unitdate normal="1948/1968" type="inclusive">circa 1958</unitdate>
-                    </did>
-                </c>
-                <c id="ref137" level="file">
-                    <did>
-                        <unittitle>Uribe, Vicente: "Policy of Yankee Imperialism in Spain" (translated from 
-                            <title render="italic">Mundo Obrero</title>)</unittitle>
-                        <container id="cid23249005" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249005" type="Folder">26</container>
-                        <unitdate normal="1948/1948">1948</unitdate>
-                    </did>
-                </c>
-                <c id="ref138" level="file">
-                    <did>
-                        <unittitle>Vayo, J. Alvarez del: Articles</unittitle>
-                        <container id="cid23249004" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249004" type="Folder">27</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated , 1949-1956</unitdate>
-                    </did>
-                </c>
-                <c id="ref139" level="file">
-                    <did>
-                        <unittitle>Voros, Sandor: Unpublished Manuscript on American Hospitals &amp; International Medical Services in Spain</unittitle>
-                        <container id="cid23249003" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249003" type="Folder">28</container>
-                        <unitdate normal="1937/1937">1937</unitdate>
-                    </did>
-                </c>
-                <c id="ref140" level="file">
-                    <did>
-                        <unittitle>Unidentified: [Private Manufacturing of Armaments &amp; Profiteering]</unittitle>
-                        <container id="cid23249002" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249002" type="Folder">29</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref141" level="file">
-                    <did>
-                        <unittitle>Unidentified: [Surgery on the Front Lines]</unittitle>
-                        <container id="cid23249001" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid23249001" type="Folder">30</container>
-                        <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
-                    </did>
-                </c>
-            </c>
-        </dsc>
-    </archdesc>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Advisory Committee on Voluntary Foreign Aid</unittitle>
+            <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
+            <container id="aspace_a2dd5b3c51fe6e4cf5bd2598eb36c6d8" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_a2dd5b3c51fe6e4cf5bd2598eb36c6d8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>American Committee for Spanish Freedom</unittitle>
+            <unitdate normal="1933/1953" type="inclusive">circa 1943</unitdate>
+            <container id="aspace_8c31ef70b05e73a71fb8b247a28c83c8" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_8c31ef70b05e73a71fb8b247a28c83c8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Appeal for Amnesty (Organization to Aid Spain’s Political
+              Prisoners)</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_c9f70c72db39ee2130b6b673792e3eae" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_c9f70c72db39ee2130b6b673792e3eae" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Barsky, Edward: Address on Foreign Relations with Spain (Free Speech Forum of
+              the Newspaper Guild)</unittitle>
+            <unitdate type="inclusive">Jan 23, 1945</unitdate>
+            <container id="aspace_54bc5bf03dba4b537846098d9ea2b3b9" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_54bc5bf03dba4b537846098d9ea2b3b9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>French Public Health and Relief Organizations</unittitle>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_de7134e19dea7bb1d492a779db21804a" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_de7134e19dea7bb1d492a779db21804a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Friends of the Spanish Republic: Memorandum Submitted to the United Nations
+              Conference</unittitle>
+            <unitdate type="inclusive">Apr 25, 1945</unitdate>
+            <container id="aspace_6276e89650098949bdb66b47bd5a5020" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_6276e89650098949bdb66b47bd5a5020" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>International Brigades: 25th Anniversary</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_311fed1e36a397f5cdd8d2f88c3e6fa2" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_311fed1e36a397f5cdd8d2f88c3e6fa2" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>International Committee of Coordination and Information to Aid Republican
+              Spain</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_1d72e683f0eee1f44b11dec7dc53a326" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_1d72e683f0eee1f44b11dec7dc53a326" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Joint Anti-Fascist Refugee Committee (JAFRC): Address by Barsky (Hotel
+              Diplomat): Clipping</unittitle>
+            <unitdate type="inclusive">Nov 1942</unitdate>
+            <container id="aspace_43ca59f6e8873e62a01b2776e11f1a99" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_43ca59f6e8873e62a01b2776e11f1a99" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>JAFRC: Address by Barsky at Mexico City Convention</unittitle>
+            <unitdate type="inclusive">Aug 20, 1943</unitdate>
+            <container id="aspace_26b8591453e4f5e3942b14e716304f12" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_26b8591453e4f5e3942b14e716304f12" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>JAFRC: Address by Barsky</unittitle>
+            <unitdate normal="1935/1955" type="inclusive">[1945?]</unitdate>
+            <container id="aspace_6ded3bb4263c82fa5c5790109a622379" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_6ded3bb4263c82fa5c5790109a622379" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>JAFRC: Address by Barsky</unittitle>
+            <unitdate type="inclusive">Apr 1945</unitdate>
+            <container id="aspace_005ebff8a0371ce7df159ada27692e14" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_005ebff8a0371ce7df159ada27692e14" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>JAFRC: Address by Barsky (Madison Square Garden)</unittitle>
+            <unitdate type="inclusive">Sep 24, 1945</unitdate>
+            <container id="aspace_874f7d22afb2c5bc72eec82985b7bd94" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_874f7d22afb2c5bc72eec82985b7bd94" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>JAFRC: Address by Barsky</unittitle>
+            <unitdate normal="1935/1955" type="inclusive">circa 1945</unitdate>
+            <container id="aspace_a8f5b619cccb152c31e158a7eb583143" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_a8f5b619cccb152c31e158a7eb583143" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>JAFRC: Address by Barsky: Commemoration of the founding of Spain</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_33c43b750f021b765e617010349c40d3" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_33c43b750f021b765e617010349c40d3" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>JAFRC: "Campaign Bulletin"</unittitle>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_5cc089dc7bc8c7ef063a81d3d8de45c1" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_5cc089dc7bc8c7ef063a81d3d8de45c1" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>JAFRC: Convention of Solidarity (Mexico City)</unittitle>
+            <unitdate type="inclusive">Aug 1943</unitdate>
+            <container id="aspace_1d31d9d9089c0f5138cca9b51c6871b1" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_1d31d9d9089c0f5138cca9b51c6871b1" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>JAFRC: Constitution</unittitle>
+            <unitdate normal="1932/1952" type="inclusive">circa 1942</unitdate>
+            <container id="aspace_583cc50105e29492afe24cd784970422" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_583cc50105e29492afe24cd784970422" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>JAFRC: Correspondence</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated , 1942-1951</unitdate>
+            <container id="aspace_450982240028becdf04f69035f9e6af1" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_450982240028becdf04f69035f9e6af1" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>JAFRC: Correspondence: O’Casey, Sean</unittitle>
+            <unitdate type="inclusive">Feb 3, 1950</unitdate>
+            <container id="aspace_e60c59dd44583c9f01ae4567129cd4e8" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_e60c59dd44583c9f01ae4567129cd4e8" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>JAFRC: Correspondence: Parker, Dorothy</unittitle>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_b15773e3ae70e61db19a1379409adecf" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_b15773e3ae70e61db19a1379409adecf" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>JAFRC: Correspondence: Robeson, Paul</unittitle>
+            <unitdate type="inclusive">Sep 28, 1942</unitdate>
+            <container id="aspace_e1fdb3b30fd598346c3d2c8d159bd998" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_e1fdb3b30fd598346c3d2c8d159bd998" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>JAFRC: Correspondence: Welles, Sumner</unittitle>
+            <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+            <container id="aspace_b9e2efcacd36f324438c93743ad9c21b" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_b9e2efcacd36f324438c93743ad9c21b" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>JAFRC: Financial Records</unittitle>
+            <unitdate normal="1942/1948" type="inclusive">1942-1948</unitdate>
+            <container id="aspace_2ad13566cc58da05955ac19d4373e7ec" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_2ad13566cc58da05955ac19d4373e7ec" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>JAFRC: "Free Spain": Bulletin</unittitle>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_40b0693601e231bf83d280492d4295dc" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_40b0693601e231bf83d280492d4295dc" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>JAFRC: Fundraising Tribute: Jo Davidson</unittitle>
+            <unitdate type="inclusive">[May 1948?]</unitdate>
+            <container id="aspace_28fd69218ea73fa2e8836c3731d7480b" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_28fd69218ea73fa2e8836c3731d7480b" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>JAFRC: Fundraising Tributes &amp; Events</unittitle>
+            <unitdate normal="1943/1951" type="inclusive">1943-1945 , 1951</unitdate>
+            <container id="aspace_3dd869be6392ed5ed836fef1a01fdb75" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_3dd869be6392ed5ed836fef1a01fdb75" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>JAFRC: House Un-American Activities Committee</unittitle>
+            <unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate>
+            <container id="aspace_0cda42548a5892dcc7f4ec2765f16c31" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_0cda42548a5892dcc7f4ec2765f16c31" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>JAFRC: House Un-American Activities Committee: Congressional
+              Record</unittitle>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_c8954004b2034796ccb0e1b6a7ca22e9" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_c8954004b2034796ccb0e1b6a7ca22e9" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>JAFRC: International Revenue Investigation: Barsky Interview (Transcript)
+              &amp; Correspondence</unittitle>
+            <unitdate normal="1947/1957" type="inclusive">1947 , 1957</unitdate>
+            <container id="aspace_a0aefb9e1fcc0e8d6dd219184b408363" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_a0aefb9e1fcc0e8d6dd219184b408363" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>JAFRC: Organizational History</unittitle>
+            <unitdate type="inclusive">May 1944</unitdate>
+            <container id="aspace_db264cc61194050e058d734ceba4eb86" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_db264cc61194050e058d734ceba4eb86" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>JAFRC: Press Releases, Pamphlets &amp; Leaflets</unittitle>
+            <unitdate normal="1942/1950" type="inclusive">1942-1950</unitdate>
+            <container id="aspace_6ab6cf781f3afc8c07c77bee7b542de5" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_6ab6cf781f3afc8c07c77bee7b542de5" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>JAFRC: Reports</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated , 1942-1946</unitdate>
+            <container id="aspace_28620590e02828a7a426502f757b0d45" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_28620590e02828a7a426502f757b0d45" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>JAFRC: Resolutions</unittitle>
+            <unitdate normal="1943/1948" type="inclusive">1943-1948</unitdate>
+            <container id="aspace_77174775d05da63d7fa216d671a5c70b" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_77174775d05da63d7fa216d671a5c70b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>JAFRC: Spanish Refugee Appeal: Inaugural Dinner (Lillian Hellman, guest of
+              honor)</unittitle>
+            <unitdate type="inclusive">Mar 22, 1945</unitdate>
+            <container id="aspace_eca48b2bce399aba74163f7fd016fe2d" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_eca48b2bce399aba74163f7fd016fe2d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>JAFRC: Spanish Refugee Appeal: Pamphlets &amp; Programs</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated , 1947-1948</unitdate>
+            <container id="aspace_12adf22d6f491cb335075fad70e6aa02" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_12adf22d6f491cb335075fad70e6aa02" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>JAFRC: Truman, Harry S.: Letters of Appeal</unittitle>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_f55880c8b8482a634b309dbbe2663cde" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_f55880c8b8482a634b309dbbe2663cde" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>JAFRC: Unitarian Service Committee Report in The Christian
+              Register</unittitle>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_33b2d5a851f10e405429ff34e3c01afb" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_33b2d5a851f10e405429ff34e3c01afb" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Medical Bureau of the North American Committee to Aid Spanish Democracy:
+              Herman Reissing Testimony before Dies Committee</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_69594ca6a5c870f1d54f708fe5baca4b" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_69594ca6a5c870f1d54f708fe5baca4b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Medical Bureau to Aid Spanish Democracy: Pamphlets</unittitle>
+            <unitdate normal="1927/1947" type="inclusive">circa 1937</unitdate>
+            <container id="aspace_2b75cd8456a5c2060b27c70f0f61de67" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_2b75cd8456a5c2060b27c70f0f61de67" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Spain: Anti-Franco Addresses: Phillip Jordan, Fred Myers, Quentin
+              Reynolds</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated , 1945-1946</unitdate>
+            <container id="aspace_8f260b238f869def7a6f0d366a25ce2a" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_8f260b238f869def7a6f0d366a25ce2a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Spain: Anti-Franco Address: Juan Negrin</unittitle>
+            <unitdate normal="1935/1955" type="inclusive">circa 1945</unitdate>
+            <container id="aspace_ca8e618365bcae3a7a500b4824480d0a" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_ca8e618365bcae3a7a500b4824480d0a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Spain: Anti-Franco Address: Henry Wallace</unittitle>
+            <unitdate type="inclusive">Apr 4, 1949</unitdate>
+            <container id="aspace_6d6129c8bc5d1f295d38cfeebec2659e" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_6d6129c8bc5d1f295d38cfeebec2659e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Spain: Refugees, Aid &amp; Politics: Clippings</unittitle>
+            <unitdate normal="1945/1951" type="inclusive">1945-1951</unitdate>
+            <container id="aspace_3838856d18b95b76967de6e18a962d38" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_3838856d18b95b76967de6e18a962d38" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Spanish Civil War: Barsky, Edward: Clippings</unittitle>
+            <unitdate normal="1937/1945" type="inclusive">1937-1945</unitdate>
+            <container id="aspace_1c58681ba41a5a6c271a16180de11dd0" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_1c58681ba41a5a6c271a16180de11dd0" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Spanish Civil War: Barsky, Edward: Commendations Issued by Spanish
+              Republic</unittitle>
+            <unitdate type="inclusive">Jun 1938</unitdate>
+            <container id="aspace_01a0cf7e56501ff24d2a429ab2019add" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_01a0cf7e56501ff24d2a429ab2019add" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Spanish Civil War: Barsky, Edward: Photographic License (Issued in Barcelona,
+              Spain)</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_448ee42116ab2235129838c739758ac2" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_448ee42116ab2235129838c739758ac2" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Spanish Civil War: International Brigades: Medical Reports &amp;
+              Statistics</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container id="aspace_09e23d8310dea6a8587008bc7244f34b" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_09e23d8310dea6a8587008bc7244f34b" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Spanish Civil War: "Lift the Embargo" Rally</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_94816be53d0e0d961df7568e98fa69f3" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_94816be53d0e0d961df7568e98fa69f3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Spanish Civil War: Ministry of National Defence Reports</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_3baee5915319e4422df21e6c95d8fd24" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_3baee5915319e4422df21e6c95d8fd24" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Spanish Civil War: Public Health Reports &amp; Pamphlets</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_d18495570e37fed48eb7bf36df2c4a3b" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_d18495570e37fed48eb7bf36df2c4a3b" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Spanish Civil War: Socorro Rojo: Pamphlet</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_e7b73d5fba8ecee192e7220f347c2782" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_e7b73d5fba8ecee192e7220f347c2782" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Spanish Currency</unittitle>
+            <unitdate normal="1931/1937" type="inclusive">1931 , 1937</unitdate>
+            <container id="aspace_6f25ba7596c6a9990e4ac726fc28f798" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_6f25ba7596c6a9990e4ac726fc28f798" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Spanish Prisoners: Milton Wolff: Report on State Department
+              Meeting</unittitle>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_2b456d5e9bedbbb9bf1967b073c50916" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_2b456d5e9bedbbb9bf1967b073c50916" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Unitarian Service Committee</unittitle>
+            <unitdate normal="1945/1947" type="inclusive">1945-1947</unitdate>
+            <container id="aspace_c6e184cdbf2be8afe695bfafefc3c2a6" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_c6e184cdbf2be8afe695bfafefc3c2a6" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>United Nations: Relations with Spain</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated , 1945-1946</unitdate>
+            <container id="aspace_b436808fe2ac7d0006ca77b7080438b4" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_b436808fe2ac7d0006ca77b7080438b4" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_0fc910f602b4394f1c1fb635e99b4dcd" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_0fc910f602b4394f1c1fb635e99b4dcd" type="Folder">27</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref72" level="series">
+        <did>
+          <unittitle>Series II: Subject Files, 1950-1973</unittitle>
+        </did>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>American Labor Party Election: Speech &amp; Certificate of
+              Election</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_57f36de2692c5c5b85b26cd09b812b73" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_57f36de2692c5c5b85b26cd09b812b73" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Civil Defense Pamphlet (French)</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_d50309e502c0d5d1cf07c6b578fef47a" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_d50309e502c0d5d1cf07c6b578fef47a" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>China Welfare Appeal</unittitle>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_c9c418bc18d58cd2a13ce0b217261b72" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_c9c418bc18d58cd2a13ce0b217261b72" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Continental Hospital: Outline for the Establishment of a Private
+              Hospital</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_612294383c78f1b7ec343986a2291469" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_612294383c78f1b7ec343986a2291469" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Correspondence: Personal</unittitle>
+            <unitdate normal="1936/1973" type="inclusive">undated , 1956-1973</unitdate>
+            <container id="aspace_771ec88837315c475423c5298bb215b4" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_771ec88837315c475423c5298bb215b4" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Douglas, Justice William O.: Address &amp; Opinion</unittitle>
+            <unitdate normal="1947/1953" type="inclusive">1947 , 1953</unitdate>
+            <container id="aspace_c97c9c0b36e4926cd44f3d2c88b5e9ae" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_c97c9c0b36e4926cd44f3d2c88b5e9ae" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Medical Committee for Human Rights</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_378ce8e902c6fc70f7fce7f7446f3200" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_378ce8e902c6fc70f7fce7f7446f3200" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>National Conference for New Politics</unittitle>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_036533e8a2822384ab5939da68f0cb00" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_036533e8a2822384ab5939da68f0cb00" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Segal, Ben: Eulogy delivered by Edward Barsky</unittitle>
+            <unitdate normal="1960/1980" type="inclusive">circa 1970</unitdate>
+            <container id="aspace_a2873997cbe1a737caba47ed0b8cf98a" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_a2873997cbe1a737caba47ed0b8cf98a" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Smith, Jessica: Tribute Address by Barsky</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_3671b7fb4994632813e639c25d673bb7" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_3671b7fb4994632813e639c25d673bb7" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Un-American Activities Committee: Protest Literature</unittitle>
+            <unitdate normal="1947/1964" type="inclusive">1947 , 1964</unitdate>
+            <container id="aspace_cc130c67d8f635993f1c6f253a005172" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_cc130c67d8f635993f1c6f253a005172" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>World Council of Peace</unittitle>
+            <unitdate type="inclusive">Jun 1951</unitdate>
+            <container id="aspace_b5234b0d080bd9cdcc70873e1644f341" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_b5234b0d080bd9cdcc70873e1644f341" type="Folder">39</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref85" level="series">
+        <did>
+          <unittitle>Series III: Trials &amp; Hearings, 1947-1960</unittitle>
+        </did>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Barsky, et al. v. United States of America: US Court of Appeals: Joint
+              Appendix to Briefs, Vol. I</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_627020fd09e96f8ef9acde0971f680a0" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_627020fd09e96f8ef9acde0971f680a0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Barsky, et al. v. United States of America: US Court of Appeals: Joint
+              Appendix to Briefs, Vol. II</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_1d05503b89de6b916c03d157e489c290" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_1d05503b89de6b916c03d157e489c290" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Barsky, et al. v. United States of America: Petition for
+              Rehearing</unittitle>
+            <unitdate type="inclusive">Oct 1947</unitdate>
+            <container id="aspace_a4e468e00b2d2dd2d152e6dfcb910156" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_a4e468e00b2d2dd2d152e6dfcb910156" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Barsky, et al. v. United States of America: US Court of Appeals: Brief for
+              Appellants</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_4d4a205090d93712cae232b6c197eba2" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_4d4a205090d93712cae232b6c197eba2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>United States of America v. Barsky, et al.: Indictment &amp; Brief on Motion
+              to Dismiss</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_8aabeaeab0f4c7228f8a246ce00802a5" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_8aabeaeab0f4c7228f8a246ce00802a5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Joint Anti-Fascist Refugee Committee v. United States of America: US Court of
+              Appeals</unittitle>
+            <unitdate type="inclusive">Feb 1948</unitdate>
+            <container id="aspace_370d0417a322ac015a1aac12f7c39df0" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_370d0417a322ac015a1aac12f7c39df0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Joint Anti-Fascist Refugee Committee v. United States of America: Writ or
+              Certiorari to US Court of Appeals</unittitle>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_97a44e547dc9d120bd4d997e5e210abd" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_97a44e547dc9d120bd4d997e5e210abd" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Joint Anti-Fascist Refugee Committee v. United States of America: Brief for
+              Petitioner</unittitle>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_0b5f53b4ec3b74adb6539577fa450082" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_0b5f53b4ec3b74adb6539577fa450082" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>New York State Department of Education, Committee on Grievances: Hearing
+              Transcript</unittitle>
+            <unitdate type="inclusive">Feb 1951</unitdate>
+            <container id="aspace_221db91103d01cc9262e0a46916bc2be" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_221db91103d01cc9262e0a46916bc2be" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>New York State Department of Education, Committee on Grievances: Revocation
+              of Barsky’s License</unittitle>
+            <unitdate type="inclusive">Apr 1951</unitdate>
+            <container id="aspace_19a964adac93593f9dc2067550f457f5" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_19a964adac93593f9dc2067550f457f5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>New York State Department of Education: Report of the Regents’ Committee on
+              Discipline</unittitle>
+            <unitdate type="inclusive">Jul 1951</unitdate>
+            <container id="aspace_b06cecfe9c74420a0139bdc2fcada089" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_b06cecfe9c74420a0139bdc2fcada089" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Barsky v. Board of Regents of the University of the State of New York (NY
+              Supreme Court): Petition to Review &amp; Briefs</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_3ccbc0502c3f16b49f4fe4a57bbd7099" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_3ccbc0502c3f16b49f4fe4a57bbd7099" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Barsky v. Board of Regents of the University of the State of New York: Amici
+              Curiae Brief</unittitle>
+            <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
+            <container id="aspace_d0eb3343f389c242af507c09fe885433" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_d0eb3343f389c242af507c09fe885433" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Barsky v. Board of Regents of the University of the State of New York (US
+              Supreme Court): Brief</unittitle>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_68d5bc09a1c6976c4fe5cca9db2a7ded" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_68d5bc09a1c6976c4fe5cca9db2a7ded" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Barsky v. Board of Regents of the University of the State of New York (US
+              Supreme Court): Opinion &amp; Dissent</unittitle>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_db506ce4799288241f072d0c6c8572ba" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_db506ce4799288241f072d0c6c8572ba" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>New York State Department of Education, Board of Regents: Petition of
+              Support</unittitle>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_d69753003021c413ec0495ba37e06d3e" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_d69753003021c413ec0495ba37e06d3e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>NYS Department of Education, Board of Regents: Barsky’s Appeal for
+              Reinstatement</unittitle>
+            <unitdate type="inclusive">Jul 1954</unitdate>
+            <container id="aspace_a867dc3186234a1d8ad2ea73ed5f8e81" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_a867dc3186234a1d8ad2ea73ed5f8e81" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>NYS Department of Education, Board of Regents: Suspension of
+              Practice</unittitle>
+            <unitdate type="inclusive">Jun 1954-Oct 1954</unitdate>
+            <container id="aspace_02810f76327dd34f67bc5f30dcc90403" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_02810f76327dd34f67bc5f30dcc90403" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>NYS Department of Education, Board of Regents: Termination of
+              Suspension</unittitle>
+            <unitdate type="inclusive">Oct 1954</unitdate>
+            <container id="aspace_e570ecedd65a3c0d917e9bf070a381ea" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_e570ecedd65a3c0d917e9bf070a381ea" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Workmen’s Compensation Board Hearing</unittitle>
+            <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
+            <container id="aspace_950a1a681ef238b316ceb3536c56d518" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_950a1a681ef238b316ceb3536c56d518" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Philip Reisman v. Jack Froman et al. (Malpractice Case)</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_d16dd3b6d53eef4e547a57e21ea388d7" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_d16dd3b6d53eef4e547a57e21ea388d7" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Character References: Notes on Solicited Individuals</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_38ff57b7c9db6f337ff866bebd00a4d2" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_38ff57b7c9db6f337ff866bebd00a4d2" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Clippings: Trials</unittitle>
+            <unitdate normal="1946/1954" type="inclusive">1946-1954</unitdate>
+            <container id="aspace_049c9b2e95893fd46167fae7a29fb7f3" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_049c9b2e95893fd46167fae7a29fb7f3" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated , 1947-1955</unitdate>
+            <container id="aspace_47c80341d29770f2dc889e177794737a" label="Mixed Materials"
+              type="Box">4</container>
+            <container parent="aspace_47c80341d29770f2dc889e177794737a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Correspondence: NYS Department of Education, Board of Regents</unittitle>
+            <unitdate normal="1950/1954" type="inclusive">1950-1951 , 1954</unitdate>
+            <container id="aspace_4a8140805626c0b206687140b072e83f" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_4a8140805626c0b206687140b072e83f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Notes</unittitle>
+            <unitdate normal="1940/1960" type="inclusive">circa 1950</unitdate>
+            <container id="aspace_907c0ea8ab59bf3695942adea169b2cd" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_907c0ea8ab59bf3695942adea169b2cd" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Prison Records: Statement of Sentence; Receipt of Personal
+              Property</unittitle>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_d30df0ce1377c46a928185bad120560e" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_d30df0ce1377c46a928185bad120560e" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref113" level="series">
+        <did>
+          <unittitle>Series IV: Writings</unittitle>
+        </did>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Forward and Chapter 1 (unpublished
+              memoir)</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_05d9469e05ddfe596f2c1f095107d0b7" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_05d9469e05ddfe596f2c1f095107d0b7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 2</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_b6f8605ff05fbb1f448731895780c321" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_b6f8605ff05fbb1f448731895780c321" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 3</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_fec78dc07357c9f05302783b6623f502" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_fec78dc07357c9f05302783b6623f502" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 4</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_fdc61f59885d3787fd9e4cc5ea1a7a5a" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_fdc61f59885d3787fd9e4cc5ea1a7a5a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 5</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_5af7cba3f74210373425e0cf31b7663c" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_5af7cba3f74210373425e0cf31b7663c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 6</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_229b8a708552ae9254e29105613a5270" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_229b8a708552ae9254e29105613a5270" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 7</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_9c1896e7a40f448eede56630b53add36" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_9c1896e7a40f448eede56630b53add36" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 8</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_b8601137264ec44f96e037469530f85d" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_b8601137264ec44f96e037469530f85d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 9</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_e11cad59448259ce9852d650e560578b" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_e11cad59448259ce9852d650e560578b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 10</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_ae99647796dc989bdc393a40c5706278" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_ae99647796dc989bdc393a40c5706278" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 11</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_27a677f3b5f7b7b4e8da0193a1289559" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_27a677f3b5f7b7b4e8da0193a1289559" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 12</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_addbfb3f36aeb6ff609cf4fe7a99742b" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_addbfb3f36aeb6ff609cf4fe7a99742b" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 13</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_8514d61266bb0783142b91cf6822aa97" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_8514d61266bb0783142b91cf6822aa97" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 14</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_3cbc2bb17f70f92ad215d9a7ed57dbfb" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_3cbc2bb17f70f92ad215d9a7ed57dbfb" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 15</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_3fac07d6127aa96de86b5e22459e9c8a" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_3fac07d6127aa96de86b5e22459e9c8a" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 16</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_3d29eff34a9f46cd0525e2ff405e7ecf" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_3d29eff34a9f46cd0525e2ff405e7ecf" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 17</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_282e08f2ad4017d01fa21515a7f6a623" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_282e08f2ad4017d01fa21515a7f6a623" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Chapter 18</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_e225966331035258854bff3e1191646a" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_e225966331035258854bff3e1191646a" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Barsky, Edward: "Surgeon Goes to War," Photocopy of Entire
+              Manuscript</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_f779e81233ac67dbc225a212debd6723" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_f779e81233ac67dbc225a212debd6723" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Barsky, Vita ? [Threats to Academic Freedom]</unittitle>
+            <unitdate normal="1937/1957" type="inclusive">circa 1947</unitdate>
+            <container id="aspace_419654455d0581820601c1067a9a32f1" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_419654455d0581820601c1067a9a32f1" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Barsky, Vita ? [Co-Education and the Treatment of Women]</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_c190aa133897c61690eaa7cb7e07c27a" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_c190aa133897c61690eaa7cb7e07c27a" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Kristanov, Tsvetan Angelov: Medical Services of the International Brigades in
+              Spain (Russian)</unittitle>
+            <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+            <container id="aspace_e124333cbf9e88bc588f7876e0df1e07" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_e124333cbf9e88bc588f7876e0df1e07" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Marti-Ibanes, Felix: "Sigerist and Spain"</unittitle>
+            <unitdate normal="1948/1968" type="inclusive">circa 1958</unitdate>
+            <container id="aspace_2405d7b2067aa1725a6fc372dbf12bef" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_2405d7b2067aa1725a6fc372dbf12bef" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Uribe, Vicente: "Policy of Yankee Imperialism in Spain" (translated from
+                <title render="italic">Mundo Obrero</title>)</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_fa1b2160bbed3946483208ec11dbc3e2" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_fa1b2160bbed3946483208ec11dbc3e2" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Vayo, J. Alvarez del: Articles</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated , 1949-1956</unitdate>
+            <container id="aspace_87a9a0138969b3d97ef61cbe061e1a10" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_87a9a0138969b3d97ef61cbe061e1a10" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Voros, Sandor: Unpublished Manuscript on American Hospitals &amp;
+              International Medical Services in Spain</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_76809ac736be23d76110437eeb327bc2" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_76809ac736be23d76110437eeb327bc2" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>Unidentified: [Private Manufacturing of Armaments &amp;
+              Profiteering]</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_a80c88418fd0b0be88cc90a67740d907" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_a80c88418fd0b0be88cc90a67740d907" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Unidentified: [Surgery on the Front Lines]</unittitle>
+            <unitdate normal="1936/1970" type="inclusive">undated</unitdate>
+            <container id="aspace_04bb6ac8d615bfc10419abb7f1030c19" label="Mixed Materials"
+              type="Box">5</container>
+            <container parent="aspace_04bb6ac8d615bfc10419abb7f1030c19" type="Folder">30</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
