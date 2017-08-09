@@ -1,1407 +1,1618 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">alba_136</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Walter Schuetrum Papers
-                    <num>ALBA.136</num>
-                </titleproper>
-                <author>Finding aid prepared by Ariel Zambenedetti, 2008, Gail Malmgreen, 2012. Entered into Archivists Toolkit by Kate Dundon</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>2012</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-04-20T12:28-0400</date>
-            </creation>
-            <langusage>English</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>alba_136</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Walter Schuetrum Papers <num>ALBA.136</num></titleproper>
+        <author>Collection processed by Ariel Zambenedetti, 2008, Gail Malmgreen, 2012. Entered into
+          Archivists Toolkit by Kate Dundon </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace
+        <date>2017-08-09T15:01:19</date></creation>
+      <langusage>English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng"/>
+      </langmaterial>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Walter Schuetrum Papers</unittitle>
+      <origination label="creator">
+        <persname source="ingest">Schuetrum, Walter.</persname>
+      </origination>
+      <unitid>ALBA.136</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">(4 boxes)</extent>
+      </physdesc>
+      <unitdate normal="1937/1989" type="inclusive">1937-1989</unitdate>
+      <langmaterial id="aspace_4632c23ec2ec000c3b7bb0b7cb988c2b">Materials are in English, Spanish,
+        German, Swedish, French, and Catalan</langmaterial>
+      <abstract id="aspace_f17cf60f6f6cd5bd7ed325f5d7c20c19">Walter J. Schuetrum (1911-1986), a
+        native of Wisconsin, served as an ambulance driver in the Spanish Civil War. After serving
+        in the front lines of some of the crucial battles of the War, he retunred to the U.S. and,
+        after service in World War II, settled in San Francisco. He worked as a longshoreman and a
+        merchant seaman and was active in the International Longshoremen's and Warehousemen's Union,
+        the National Maritime Union, and the Bay Area Post of the Veterans of the Abraham Lincoln
+        Brigade. This collection of his papers includes documents, correspondence, ephemera, and
+        artifacts from his time in Spain, as well as correspondence and papers from the
+        1960s-1980s.</abstract>
+    </did>
+    <custodhist id="aspace_0bbb99e8b4e10ed0b2a1ed8a29bf86ae">
+      <head>Provenance</head>
+      <p>The Walter Schuetrum Papers were donated to the Abraham Lincoln Brigade Archives by Nancy
+        Fontana in 1996. This collection came to New York University in January 2001 as part of the
+        original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
+    </custodhist>
+    <accessrestrict id="aspace_2aae4536e0f350ec8eef554da375797b">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F.
+        Wagner Labor Archives for more information and to schedule an appointment,
+        tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <userestrict id="aspace_e903a623367240aee6f331ad8afe7db2">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the
+        Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November
+        2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this
+        collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives.
+        For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <separatedmaterial id="aspace_26821840a70ba7817c3906ef2b7b5b69">
+      <head>Separated Materials</head>
+      <p>Photographs from the Walter Schuetrum Papers have been transferred to the non-print section
+        of the ALBA collection in the Tamiment Library.</p>
+    </separatedmaterial>
+    <relatedmaterial id="aspace_7fa374361a22ad413d71da91c75177f9">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>ALBA collections at the Tamiment Library.</p>
+    </relatedmaterial>
+    <arrangement id="aspace_00eabef64083862b237a381398711df9">
+      <head>Arrangement</head>
+      <p>Arranged alphabetically within each series.</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I. Spanish Civil War Files. 1937-1939</item>
+        <item>II. General Files, Post-Spanish Civil War, 1946-1987</item>
+        <item>III. Artifacts and Memorabilia, 1937, undated. </item>
+      </list>
+      <p>The collection is organized in 3 series. Files are arranged alphabetically within each
+        series.</p>
+    </arrangement>
+    <bioghist id="aspace_fd16ab5ef18c8bbc0b1d63650763268b">
+      <head>Historical/Biographical Note</head>
+      <p>Walter J. Schuetrum was born in Superior, Wisconsin on October 18, 1911. The son of a
+        German-American miner turned switchman for the Great Northern Railroad who was an avid
+        trade-unionist, Schuetrum early in his life developed a concern for political and labor
+        issues. In 1937 he volunteered for service with the Loyalist forces in Spain. In Spain he
+        became an ambulance driver, and was present at many of the War’s crucial battles. In the
+        aftermath of the Battle of Teruel he was reported deceased, misinformation that was
+        publicized in Wisconsin Newspapers and only corrected after he wrote a letter to his family
+        assuring them of his safety. </p>
+      <p>After the Spanish Civil War, Schuetrum returned to Wisconsin with his close friend and
+        fellow veteran Randall "Petet" Smith and soon after moved with his wife, Viola Gruenhagen
+        Schuetrum, to San Francisco. On the West Coast, he got a job as a longshoreman and became an
+        active member and organizer for the International Longshoremen's and Warehousemen's Union.
+        During World War II, Schuetrum joined the U.S. Army, but because of his involvement in the
+        Spanish Civil War, was barred from fighting overseas and instead worked as an instructor on
+        land ships at the Indiantown Gap Military Reservation in Pennsylvania. He was discharged in
+        1946, and went on to get his seaman's papers and work work on merchant ships in the Pacific,
+        where he organized for the National Maritime Union.</p>
+      <p>In 1961, Schuetrum, along with other veterans of the Abraham Lincoln Brigade and the
+        Medical Service, was invited to the German Democratic Republic and spent three months there.
+        In the same year, with other veterans who were on that trip (including nurse Sana Goldblatt
+        and Steve Troxell), Schuetrum helped to establish the Bay Area Post of the Veterans of the
+        Abraham Lincoln Brigade (VALB). Although he never held an administrative position in VALB,
+        he was nonetheless directly involved in many of its activities and proceedings. He returned
+        to East Germany three times in the 1970s and traveled to Spain with other U.S. veterans in
+        1982. He died in 1986.</p>
+      <p>Sources: Fontana, Nancy. “Walter Schuetrum, My Father”. <emph render="italic">The
+          Volunteer</emph> Vol. III, 2 (Oct. 1986)</p>
+    </bioghist>
+    <scopecontent id="aspace_93a141530166f7ddc06076b84f4f9112">
+      <head>Scope and Content note</head>
+      <p>The collection is separated into three series. </p>
+      <p><emph render="bold">Series I. Spanish Civil War Files, 1937-1939 </emph>consists of
+        material from 1937-1939, from Schuetrum’s time in Spain and immediately following. Included
+        are letters from him to his family and friends, documents pertaining to his membership in
+        the IB and various other Spanish organizations, and ephemera collected during his tour. </p>
+      <p><emph render="bold">Series II. General Files, 1946-1987</emph> consists of all materials
+        that postdate the Spanish Civil War. Included are documents pertaining to Schuetrum’s
+        enlistment in the Army, his membership in the I.L.W.U, and correspondence from friends and
+        other veterans. Much of the material dated after 1970 is V.A.L.B. related. </p>
+      <p><emph render="bold">Series III. Artifacts and Memorabilia</emph> consists of non-print
+        memorabilia from Spain.</p>
+    </scopecontent>
+    <prefercite id="aspace_4d3dccb94623a8593bf21f8164683c18">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Walter Schuetrum Papers; ALBA 136; box number; folder number;
+        Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <controlaccess>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal
+        narratives.</geogname>
+      <geogname source="lcsh">Madrid (Spain)</geogname>
+      <geogname source="lcsh">Barcelona (Spain)</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Hospitals.</geogname>
+      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Foreign public
+        opinion.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation,
+        American.</geogname>
+      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Causes.</geogname>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <subject source="lcsh">Ebro River, Battle of the, Spain, 1938.</subject>
+      <subject source="lcsh">Teruel, Battle of, Teruel, Spain, 1937-1938.</subject>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Campaigns.</geogname>
+      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Biography.</geogname>
+      <subject source="lcsh">Brunete, Battle of, Brunete, Spain, 1937.</subject>
+      <genreform source="aat">Biography files.</genreform>
+      <genreform source="lcsh">Correspondence.</genreform>
+      <geogname source="lcsh">Jarama River Valley (Spain)</geogname>
+      <genreform source="aat">Personal papers.</genreform>
+      <geogname source="lcsh">Belchite (Spain) -- History -- Siege, 1937.</geogname>
+      <genreform source="aat">Memorabilia.</genreform>
+      <genreform source="aat">Printed ephemera.</genreform>
+      <corpname source="naf">Veterans of the Abraham Lincoln Brigade. Bay Area Post</corpname>
+      <persname source="naf">Smith, Randall, 1917-1989</persname>
+      <corpname source="naf">Veterans of the Abraham Lincoln Brigade. Historical
+        Commission</corpname>
+      <corpname source="naf">Abraham Lincoln Brigade Archives</corpname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. MacKenzie-Papineau
+        Battalion</corpname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. Abraham Lincoln
+        Battalion</corpname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. Brigada Internacional, XV --
+        |v Biography</corpname>
+      <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+      <corpname source="naf">North American Committee to Aid Spanish Democracy</corpname>
+      <corpname source="naf">Medical Bureau to Aid Spanish Democracy</corpname>
+      <corpname source="naf">Medical Bureau and North American Committee to Aid Spanish
+        Democracy</corpname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. Brigada Internacional,
+        XV</corpname>
+      <persname source="naf">Martin, Fredericka I.</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="series">
         <did>
-            <unittitle>Walter Schuetrum Papers</unittitle>
-            <unitid>ALBA.136</unitid>
-            <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>2.0 linear feet</extent>
-                <extent>(4 boxes)</extent>
-            </physdesc>
-            <unitdate normal="1937/1989" type="inclusive">1937-1989</unitdate>
-            <langmaterial id="ref23" label="Language of Materials">Materials are in English, Spanish, German, Swedish, French, and Catalan</langmaterial>
-            <abstract id="ref30" label="Abstract">Walter J. Schuetrum (1911-1986), a native of Wisconsin, served as an ambulance driver in the Spanish Civil War. After serving in the front lines of some of the crucial battles of the War, he retunred to the U.S. and, after service in World War II, settled in San Francisco. He worked as a longshoreman and a merchant seaman and was active in the International Longshoremen's and Warehousemen's Union, the National Maritime Union, and the Bay Area Post of the Veterans of the Abraham Lincoln Brigade. This collection of his papers includes documents, correspondence, ephemera, and artifacts from his time in Spain, as well as correspondence and papers from the 1960s-1980s.</abstract>
-            <origination label="creator">
-                <persname source="ingest">Schuetrum, Walter.</persname>
-            </origination>
+          <unittitle>Series I: Spanish Civil War Files, 1937-1939.</unittitle>
+          <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1
+            box</extent></physdesc>
+          <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
         </did>
-        <custodhist id="ref29">
-            <head>Provenance</head>
-            <p>The Walter Schuetrum Papers were donated to the Abraham Lincoln Brigade Archives by Nancy Fontana in 1996. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
-        </custodhist>
-        <accessrestrict id="ref28">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref27">
-            <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: gail.malmgreen@nyu.edu 
-                <lb/></p>
-        </userestrict>
-        <separatedmaterial id="ref26">
-            <head>Separated Materials</head>
-            <p>Photographs from the Walter Schuetrum Papers have been transferred to the non-print section of the ALBA collection in the Tamiment Library.</p>
-        </separatedmaterial>
-        <relatedmaterial id="ref25">
-            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>ALBA collections at the Tamiment Library.</p>
-        </relatedmaterial>
-        <arrangement id="ref22">
-            <head>Arrangement</head>
-            <list type="ordered">
-                <item>I. Spanish Civil War Files. 1937-1939</item>
-                <item>II. General Files, Post-Spanish Civil War, 1946-1987</item>
-                <item>III. Artifacts and Memorabilia, 1937, undated.</item>
-            </list>
-            <p>The collection is organized in 3 series. Files are arranged alphabetically within each series.</p>
-        </arrangement>
-        <bioghist id="ref21">
-            <head>Historical/Biographical Note</head>
-            <p>Walter J. Schuetrum was born in Superior, Wisconsin on October 18, 1911. The son of a German-American miner turned switchman for the Great Northern Railroad who was an avid trade-unionist, Schuetrum early in his life developed a concern for political and labor issues. In 1937 he volunteered for service with the Loyalist forces in Spain. In Spain he became an ambulance driver, and was present at many of the War’s crucial battles. In the aftermath of the Battle of Teruel he was reported deceased, misinformation that was publicized in Wisconsin Newspapers and only corrected after he wrote a letter to his family assuring them of his safety.</p>
-            <p>After the Spanish Civil War, Schuetrum returned to Wisconsin with his close friend and fellow veteran Randall "Petet" Smith and soon after moved with his wife, Viola Gruenhagen Schuetrum, to San Francisco. On the West Coast, he got a job as a longshoreman and became an active member and organizer for the International Longshoremen's and Warehousemen's Union. During World War II, Schuetrum joined the U.S. Army, but because of his involvement in the Spanish Civil War, was barred from fighting overseas and instead worked as an instructor on land ships at the Indiantown Gap Military Reservation in Pennsylvania. He was discharged in 1946, and went on to get his seaman's papers and work work on merchant ships in the Pacific, where he organized for the National Maritime Union.</p>
-            <p>In 1961, Schuetrum, along with other veterans of the Abraham Lincoln Brigade and the Medical Service, was invited to the German Democratic Republic and spent three months there. In the same year, with other veterans who were on that trip (including nurse Sana Goldblatt and Steve Troxell), Schuetrum helped to establish the Bay Area Post of the Veterans of the Abraham Lincoln Brigade (VALB). Although he never held an administrative position in VALB, he was nonetheless directly involved in many of its activities and proceedings. He returned to East Germany three times in the 1970s and traveled to Spain with other U.S. veterans in 1982. He died in 1986.</p>
-            <p>Sources: Fontana, Nancy. “Walter Schuetrum, My Father”. 
-                <emph render="italic">The Volunteer</emph> Vol. III, 2 (Oct. 1986)</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Content note</head>
-            <p>The collection is separated into three series.</p>
-            <p>
-                <emph render="bold">Series I. Spanish Civil War Files, 1937-1939 </emph>consists of material from 1937-1939, from Schuetrum’s time in Spain and immediately following. Included are letters from him to his family and friends, documents pertaining to his membership in the IB and various other Spanish organizations, and ephemera collected during his tour.</p>
-            <p>
-                <emph render="bold">Series II. General Files, 1946-1987</emph> consists of all materials that postdate the Spanish Civil War. Included are documents pertaining to Schuetrum’s enlistment in the Army, his membership in the I.L.W.U, and correspondence from friends and other veterans. Much of the material dated after 1970 is V.A.L.B. related.</p>
-            <p>
-                <emph render="bold">Series III. Artifacts and Memorabilia</emph> consists of non-print memorabilia from Spain.</p>
-        </scopecontent>
-        <controlaccess>
-            <corpname source="naf">Abraham Lincoln Brigade Archives.</corpname>
-            <persname source="naf">Martin, Fredericka I.</persname>
-            <corpname source="naf">Medical Bureau and North American Committee to Aid Spanish Democracy.</corpname>
-            <corpname source="naf">Medical Bureau to Aid Spanish Democracy.</corpname>
-            <corpname source="naf">North American Committee to Aid Spanish Democracy.</corpname>
-            <persname source="naf">Smith, Randall, 1917-1989</persname>
-            <corpname source="naf">Spain. Ejercito Popular de la Republica. Abraham Lincoln Battalion.</corpname>
-            <corpname source="naf">Spain. Ejercito Popular de la Republica. Brigada Internacional, XV.</corpname>
-            <corpname source="naf">Spain. Ejercito Popular de la Republica. Brigada Internacional, XV. -- |v Biography</corpname>
-            <corpname source="naf">Spain. Ejercito Popular de la Republica. MacKenzie-Papineau Battalion.</corpname>
-            <corpname source="naf">Veterans of the Abraham Lincoln Brigade. Bay Area Post.</corpname>
-            <corpname source="naf">Veterans of the Abraham Lincoln Brigade. Historical Commission.</corpname>
-            <corpname source="naf">Veterans of the Abraham Lincoln Brigade.</corpname>
-            <geogname source="lcsh">Barcelona (Spain)</geogname>
-            <geogname source="lcsh">Belchite (Spain) |x History |x Siege, 1937.</geogname>
-            <genreform source="aat">Biography files.</genreform>
-            <subject source="lcsh">Brunete, Battle of, Brunete, Spain, 1937.</subject>
-            <genreform source="aat">Correspondence.</genreform>
-            <subject source="lcsh">Ebro River, Battle of the, Spain, 1938.</subject>
-            <genreform source="aat">Ephemera.</genreform>
-            <geogname source="lcsh">Jarama River Valley (Spain)</geogname>
-            <geogname source="lcsh">Madrid (Spain)</geogname>
-            <genreform source="aat">Memorabilia.</genreform>
-            <genreform source="aat">Personal papers.</genreform>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Biography.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Personal narratives.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Campaigns.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Causes.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Foreign public opinion.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Hospitals.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, American.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, Foreign.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939.</geogname>
-            <subject source="lcsh">Teruel, Battle of, Teruel, Spain, 1937-1938.</subject>
-        </controlaccess>
-        <dsc>
-            <c01 id="ref2" level="series">
-                <did>
-                    <unittitle>Series I: Spanish Civil War Files, 1937-1939.</unittitle>
-                    <langmaterial>
-                        <language langcode="eng"/>
-                    </langmaterial>
-                    <physdesc>
-                        <extent>1.0 box</extent>
-                    </physdesc>
-                    <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
-                </did>
-                <c02 id="ref4" level="file">
-                    <did>
-                        <unittitle>Ambulance Drivers Handbook (Comisión Reguladora de Carreteras)</unittitle>
-                        <container id="cid20091001" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091001" type="Folder">1</container>
-                        <unitdate normal="1937/1937">[1937]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref5" level="file">
-                    <did>
-                        <unittitle>Asociacion de Amigos de la Union Sovetica: Stamps, Membership cards</unittitle>
-                        <container id="cid20091002" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091002" type="Folder">2</container>
-                        <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref6" level="file">
-                    <did>
-                        <unittitle>Boarding Receipts</unittitle>
-                        <container id="cid20091003" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091003" type="Folder">3</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref7" level="file">
-                    <did>
-                        <unittitle>Carnet Militar (signed by Langston Hughes, Paul Robeson, John Strachey, and James Waterman Wise)</unittitle>
-                        <container id="cid20091004" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091004" type="Folder">4</container>
-                        <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref8" level="file">
-                    <did>
-                        <unittitle>Clippings: Map from 
-                            <emph render="italic">The Evening Telegram</emph> (Superior, WI)</unittitle>
-                        <container id="cid20091005" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091005" type="Folder">5</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref9" level="file">
-                    <did>
-                        <unittitle>Clippings: On War, in English and French (
-                            <emph render="italic">l’Humanité</emph>)</unittitle>
-                        <container id="cid20091006" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091006" type="Folder">6</container>
-                        <unitdate normal="1939/1939">1939</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref10" level="file">
-                    <did>
-                        <unittitle>Clippings: WS Service in Spain and Return Home in Superior, WI Newspapers</unittitle>
-                        <container id="cid20091007" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091007" type="Folder">7</container>
-                        <unitdate normal="1939/1939">1939</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref11" level="file">
-                    <did>
-                        <unittitle>Communist Party of Spain: Carnet de Afiliado (Membership Card)</unittitle>
-                        <container id="cid20091008" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091008" type="Folder">8</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref12" level="file">
-                    <did>
-                        <unittitle>Communist Party of Spain: Farewell Card to International Brigade Volunteers</unittitle>
-                        <container id="cid20091009" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091009" type="Folder">9</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref14" level="file">
-                    <did>
-                        <unittitle>“Conquests of the Salvadorean Army of Spain” (Map)</unittitle>
-                        <container id="cid20091010" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091010" type="Folder">10</container>
-                        <unitdate normal="1938/1938">[1938]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref15" level="file">
-                    <did>
-                        <unittitle>Correspondence: “A Letter from Spain,” by WS (reprint from an unidentified periodical, 2 copies)</unittitle>
-                        <container id="cid20091011" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091011" type="Folder">11</container>
-                        <unitdate normal="1937/1937">Oct 6, 1937</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref16" level="file">
-                    <did>
-                        <unittitle>Correspondence: Bard, Sam (Friends of the Abraham Lincoln Brigade) to Mrs. Schuetrum</unittitle>
-                        <container id="cid20091012" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091012" type="Folder">12</container>
-                        <unitdate normal="1937/1937">1937</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref17" level="file">
-                    <did>
-                        <unittitle>Correspondence: Buckley, Nat T.</unittitle>
-                        <container id="cid20091013" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091013" type="Folder">13</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref18" level="file">
-                    <did>
-                        <unittitle>Correspondence: Dorfs, Sylvia</unittitle>
-                        <container id="cid20091014" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091014" type="Folder">14</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref19" level="file">
-                    <did>
-                        <unittitle>Correspondence: Harju, Rudolph</unittitle>
-                        <container id="cid20091015" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091015" type="Folder">15</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref31" level="file">
-                    <did>
-                        <unittitle>Correspondence: “International Comrades” to Mrs. Schuetrum (Thank You Letter for Package of Sweets)</unittitle>
-                        <container id="cid20091016" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091016" type="Folder">16</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref32" level="file">
-                    <did>
-                        <unittitle>Correspondence: Kartinen, Signe</unittitle>
-                        <container id="cid20091017" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091017" type="Folder">17</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref33" level="file">
-                    <did>
-                        <unittitle>Correspondence: McCollough, Kenneth</unittitle>
-                        <container id="cid20091018" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091018" type="Folder">18</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref34" level="file">
-                    <did>
-                        <unittitle>Correspondence: Parents</unittitle>
-                        <container id="cid20091019" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091019" type="Folder">19</container>
-                        <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref35" level="file">
-                    <did>
-                        <unittitle>Correspondence: Smith, Violet to Mr. and Mrs. W.J. Schuetrum</unittitle>
-                        <container id="cid20091020" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091020" type="Folder">20</container>
-                        <unitdate normal="1937/1937">1937</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref36" level="file">
-                    <did>
-                        <unittitle>Correspondence: Sundstrum, Lawrence H./ Boehme, Fred N.</unittitle>
-                        <container id="cid20091021" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091021" type="Folder">21</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref37" level="file">
-                    <did>
-                        <unittitle>Friends of the Abraham Lincoln Brigade: Arrival Notification for WS</unittitle>
-                        <container id="cid20091022" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091022" type="Folder">22</container>
-                        <unitdate normal="1938/1938">Dec 1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref38" level="file">
-                    <did>
-                        <unittitle>Hand-Drawn Map of Ebro Region/ “List of the Personnel of Villa”</unittitle>
-                        <container id="cid20091023" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091023" type="Folder">23</container>
-                        <unitdate normal="1937/1937">[1937]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref39" level="file">
-                    <did>
-                        <unittitle>Log of Vessels: 
-                            <emph render="italic">S.S. President Roosevelt</emph>, Cunard White Star 
-                            <emph render="italic">R.M.S. Ausonia</emph></unittitle>
-                        <container id="cid20091024" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091024" type="Folder">24</container>
-                        <unitdate normal="1937/1938" type="inclusive">1937; 1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref40" level="file">
-                    <did>
-                        <unittitle>Mackenzie, David: “Report on the War in Spain” at Odd Fellows Hall (Flyer)</unittitle>
-                        <container id="cid20091025" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091025" type="Folder">25</container>
-                        <unitdate normal="1937/1937">[1937]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref41" level="file">
-                    <did>
-                        <unittitle>Mailing Receipts</unittitle>
-                        <container id="cid20091026" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091026" type="Folder">26</container>
-                        <unitdate normal="1937/1937">1937</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref42" level="file">
-                    <did>
-                        <unittitle>Notebook of Volunteers’ U.S. Addresses and List of New York City Restaurants</unittitle>
-                        <container id="cid20091027" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091027" type="Folder">27</container>
-                        <unitdate normal="1938/1939" type="inclusive">[1938-1939]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref43" level="file">
-                    <did>
-                        <unittitle>Notes on History of Conflict and Personal Experiences in Spain, for Unidentified Project</unittitle>
-                        <container id="cid20091028" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091028" type="Folder">28</container>
-                        <unitdate normal="1939/1939">[1939]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref44" level="file">
-                    <did>
-                        <unittitle>Notes (Typed): “Why Walter Went to Spain,” w/ Extracts from his Letters (Author Unidentified)</unittitle>
-                        <container id="cid20091029" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091029" type="Folder">29</container>
-                        <unitdate normal="1930/1939" type="inclusive">[1930s]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref45" level="file">
-                    <did>
-                        <unittitle>Pamphlets (Includes Map of Paris for 1937 Exposition and “Guerra Viva” by José Herrera Petere)</unittitle>
-                        <container id="cid20091030" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091030" type="Folder">30</container>
-                        <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref46" level="file">
-                    <did>
-                        <unittitle>Radio Interview with WS on WEBC (Transcript)</unittitle>
-                        <container id="cid20091031" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091031" type="Folder">31</container>
-                        <unitdate normal="1939/1939">[1939]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref47" level="file">
-                    <did>
-                        <unittitle>
-                            <emph render="italic">Reconquista, 35 División</emph> (Periodical)</unittitle>
-                        <container id="cid20091032" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091032" type="Folder">32</container>
-                        <unitdate normal="1938/1938">1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref48" level="file">
-                    <did>
-                        <unittitle>Registration Form (American Consular Services)</unittitle>
-                        <container id="cid20091033" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091033" type="Folder">33</container>
-                        <unitdate normal="1937/1937">[1937]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref49" level="file">
-                    <did>
-                        <unittitle>Relatives of American Prisoners in Franco Spain: “Release Americans in Franco Prisons” (Petition)</unittitle>
-                        <container id="cid20091034" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091034" type="Folder">34</container>
-                        <unitdate normal="1939/1939">[1939]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref50" level="file">
-                    <did>
-                        <unittitle>Republican Stamps and Currency (“Vales”)</unittitle>
-                        <container id="cid20091035" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091035" type="Folder">35</container>
-                        <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref51" level="file">
-                    <did>
-                        <unittitle>El Socors Roig de Catalunya: Card to International Brigades Volunteers</unittitle>
-                        <container id="cid20091036" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091036" type="Folder">36</container>
-                        <unitdate normal="1938/1938">[1938]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref52" level="file">
-                    <did>
-                        <unittitle>Song-Cards: “Al Soldado Internacional Caído en España” (To a Fallen International Soldier), “A Jaskel Honigstein”, “Lina Odena”</unittitle>
-                        <container id="cid20091037" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091037" type="Folder">37</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref53" level="file">
-                    <did>
-                        <unittitle>Speech on War Experience</unittitle>
-                        <container id="cid20091038" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091038" type="Folder">38</container>
-                        <unitdate normal="1939/1939">[1939]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref54" level="file">
-                    <did>
-                        <unittitle>35 División del Ejército Popular: Carnet de Honor</unittitle>
-                        <container id="cid20091039" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091039" type="Folder">39</container>
-                        <unitdate normal="1938/1938">[1938]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref55" level="file">
-                    <did>
-                        <unittitle>Transport Documents (Safe-Conducts, Hoje de Ruta, etc.)</unittitle>
-                        <container id="cid20091040" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091040" type="Folder">40</container>
-                        <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref56" level="file">
-                    <did>
-                        <unittitle>Unión Nacional de Estudiantes de España: Honorary Membership Card</unittitle>
-                        <container id="cid20091041" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20091041" type="Folder">41</container>
-                        <unitdate normal="1937/1938" type="inclusive">[1937-1938]</unitdate>
-                    </did>
-                </c02>
-            </c01>
-            <c01 id="ref57" level="series">
-                <did>
-                    <unittitle>Series II: General Files (Post-Spanish Civil War), 1946-1987.</unittitle>
-                    <physdesc>
-                        <extent>2.0 box</extent>
-                    </physdesc>
-                    <unitdate normal="1946/1987" type="inclusive">1946-1987</unitdate>
-                </did>
-                <c02 id="ref58" level="file">
-                    <did>
-                        <unittitle>Abramson, Sam</unittitle>
-                        <container id="cid20096001" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid20096001" type="Folder">1</container>
-                        <unitdate normal="1981/1981">1981</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref59" level="file">
-                    <did>
-                        <unittitle>Black-Jewish Relations</unittitle>
-                        <container id="cid20096002" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid20096002" type="Folder">2</container>
-                        <unitdate normal="1978/1978">1978</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref60" level="file">
-                    <did>
-                        <unittitle>Barr, Reuven</unittitle>
-                        <container id="cid20096003" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid20096003" type="Folder">3</container>
-                        <unitdate normal="1982/1982">1982</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref61" level="file">
-                    <did>
-                        <unittitle>Bender, Ed</unittitle>
-                        <container id="cid20096004" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid20096004" type="Folder">4</container>
-                        <unitdate normal="1978/1978">1978</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref62" level="file">
-                    <did>
-                        <unittitle>Berch, Victor</unittitle>
-                        <container id="cid20096005" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid20096005" type="Folder">5</container>
-                        <unitdate normal="1985/1985">1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref63" level="file">
-                    <did>
-                        <unittitle>Bach, Ejgil</unittitle>
-                        <container id="cid20113001" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113001" type="Folder">6</container>
-                        <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref64" level="file">
-                    <did>
-                        <unittitle>Cesarini, Juan Carlos</unittitle>
-                        <container id="cid20113002" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113002" type="Folder">7</container>
-                        <unitdate normal="1982/1982">1982</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref65" level="file">
-                    <did>
-                        <unittitle>Dahlem, Franz and Reuter, Fritz</unittitle>
-                        <container id="cid20113003" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113003" type="Folder">8</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref66" level="file">
-                    <did>
-                        <unittitle>Delaney, Gerry</unittitle>
-                        <container id="cid20113004" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113004" type="Folder">9</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref67" level="file">
-                    <did>
-                        <unittitle>DeMaio, Tony</unittitle>
-                        <container id="cid20113005" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113005" type="Folder">10</container>
-                        <unitdate normal="1982/1985" type="inclusive">1982; 1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref68" level="file">
-                    <did>
-                        <unittitle>Durmayer, Heinrich</unittitle>
-                        <container id="cid20113006" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113006" type="Folder">11</container>
-                        <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref69" level="file">
-                    <did>
-                        <unittitle>El Salvador: Bay Area Protests</unittitle>
-                        <container id="cid20113007" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113007" type="Folder">12</container>
-                        <unitdate normal="1984/1984">[1984]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref70" level="file">
-                    <did>
-                        <unittitle>Eriksson, Per</unittitle>
-                        <container id="cid20113008" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113008" type="Folder">13</container>
-                        <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref71" level="file">
-                    <did>
-                        <unittitle>Farmer-Labor Progressive Federation: Campaign Ad for WS Board of Education Run</unittitle>
-                        <container id="cid20113009" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113009" type="Folder">14</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref72" level="file">
-                    <did>
-                        <unittitle>Feinberg, Helen Freeman</unittitle>
-                        <container id="cid20113010" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113010" type="Folder">15</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref73" level="file">
-                    <did>
-                        <unittitle>Felsen, Milt</unittitle>
-                        <container id="cid20113011" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113011" type="Folder">16</container>
-                        <unitdate normal="1986/1986">1986</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref74" level="file">
-                    <did>
-                        <unittitle>Fishman, Moe</unittitle>
-                        <container id="cid20113012" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113012" type="Folder">17</container>
-                        <unitdate normal="1961/1985" type="inclusive">1961-1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref75" level="file">
-                    <did>
-                        <unittitle>Forance, Priscilla</unittitle>
-                        <container id="cid20113013" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113013" type="Folder">18</container>
-                        <unitdate normal="1985/1985">1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref76" level="file">
-                    <did>
-                        <unittitle>Funke, Otto</unittitle>
-                        <container id="cid20113014" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113014" type="Folder">19</container>
-                        <unitdate normal="1976/1978" type="inclusive">1976-1978 </unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref77" level="file">
-                    <did>
-                        <unittitle>G., Susan (re: Swedish International Brigades Monument, “La Mano”)</unittitle>
-                        <container id="cid20113015" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113015" type="Folder">20</container>
-                        <unitdate normal="1981/1981">1981</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref78" level="file">
-                    <did>
-                        <unittitle>Geiser, Carl</unittitle>
-                        <container id="cid20113016" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113016" type="Folder">21</container>
-                        <unitdate normal="1970/1985" type="inclusive">1970-1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref79" level="file">
-                    <did>
-                        <unittitle>German Democratic Republic: I.B. Commemorations, Trips etc.</unittitle>
-                        <container id="cid20113017" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113017" type="Folder">22</container>
-                        <unitdate normal="1961/1981" type="inclusive">1961-1981</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref80" level="file">
-                    <did>
-                        <unittitle>Germany: Anti-Fascist Rally (Berlin), Clippings</unittitle>
-                        <container id="cid20113018" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113018" type="Folder">23</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref81" level="file">
-                    <did>
-                        <unittitle>Germany: Charles R. Allen, “A Letter from East Germany”</unittitle>
-                        <container id="cid20113019" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113019" type="Folder">24</container>
-                        <unitdate normal="1982/1982">1982</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref82" level="file">
-                    <did>
-                        <unittitle>Germany: 
-                            <emph render="italic">Democratic German Report</emph> (News Letter)</unittitle>
-                        <container id="cid20113020" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113020" type="Folder">25</container>
-                        <unitdate normal="1975/1975">1975</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref83" level="file">
-                    <did>
-                        <unittitle>Goldblatt, Sana</unittitle>
-                        <container id="cid20113021" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113021" type="Folder">26</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref84" level="file">
-                    <did>
-                        <unittitle>Gonzalez, Celestino</unittitle>
-                        <container id="cid20113022" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113022" type="Folder">27</container>
-                        <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref85" level="file">
-                    <did>
-                        <unittitle>Graeber, Kenneth</unittitle>
-                        <container id="cid20113023" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113023" type="Folder">28</container>
-                        <unitdate normal="1970/1970">1970</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref86" level="file">
-                    <did>
-                        <unittitle>Green, Nan</unittitle>
-                        <container id="cid20113024" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113024" type="Folder">29</container>
-                        <unitdate normal="1977/1979" type="inclusive">1977; 1979</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref87" level="file">
-                    <did>
-                        <unittitle>Greeting Cards (German)</unittitle>
-                        <container id="cid20113025" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113025" type="Folder">30</container>
-                        <unitdate normal="1978/1984" type="inclusive">1978; 1984</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref88" level="file">
-                    <did>
-                        <unittitle>Harju, W. A.</unittitle>
-                        <container id="cid20113026" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113026" type="Folder">31</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref89" level="file">
-                    <did>
-                        <unittitle>Hartzman, Jack</unittitle>
-                        <container id="cid20113027" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113027" type="Folder">32</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref90" level="file">
-                    <did>
-                        <unittitle>Hill, Josephine</unittitle>
-                        <container id="cid20113028" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113028" type="Folder">33</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref91" level="file">
-                    <did>
-                        <unittitle>Iceland, Ben</unittitle>
-                        <container id="cid20113029" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113029" type="Folder">34</container>
-                        <unitdate normal="1981/1985" type="inclusive">1981-1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref92" level="file">
-                    <did>
-                        <unittitle>Identification Cards (Includes Honorable Discharge Card)</unittitle>
-                        <container id="cid20113030" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113030" type="Folder">35</container>
-                        <unitdate normal="1957/1964" type="inclusive">1957-1964</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref93" level="file">
-                    <did>
-                        <unittitle>International Longshoremen’s and Warehousemen’s Union, Local 10: Dues Card</unittitle>
-                        <container id="cid20113031" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113031" type="Folder">36</container>
-                        <unitdate normal="1946/1955" type="inclusive">1946-1955</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref94" level="file">
-                    <did>
-                        <unittitle>Italy: 40th Anniversary, International Brigades (Florence)</unittitle>
-                        <container id="cid20113032" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113032" type="Folder">37</container>
-                        <unitdate normal="1976/1976">1976</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref95" level="file">
-                    <did>
-                        <unittitle>Italy: VALB Meeting with Sergio Segre</unittitle>
-                        <container id="cid20113033" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113033" type="Folder">38</container>
-                        <unitdate normal="1976/1976">1976</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref96" level="file">
-                    <did>
-                        <unittitle>Johnson, John and Irma</unittitle>
-                        <container id="cid20113034" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113034" type="Folder">39</container>
-                        <unitdate normal="1976/1976">1976</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref97" level="file">
-                    <did>
-                        <unittitle>Karsten, Peter</unittitle>
-                        <container id="cid20113035" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113035" type="Folder">40</container>
-                        <unitdate normal="1985/1985">1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref98" level="file">
-                    <did>
-                        <unittitle>Klaster, Leo</unittitle>
-                        <container id="cid20113036" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113036" type="Folder">41</container>
-                        <unitdate normal="1978/1978">1978</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref99" level="file">
-                    <did>
-                        <unittitle>Klebba, Gunter</unittitle>
-                        <container id="cid20113037" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113037" type="Folder">42</container>
-                        <unitdate normal="1978/1978">1978</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref100" level="file">
-                    <did>
-                        <unittitle>Knudsen, Arne</unittitle>
-                        <container id="cid20113038" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113038" type="Folder">43</container>
-                        <unitdate normal="1983/1983">1983</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref101" level="file">
-                    <did>
-                        <unittitle>Kozar, Tom</unittitle>
-                        <container id="cid20113039" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113039" type="Folder">44</container>
-                        <unitdate normal="1979/1979">1979</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref102" level="file">
-                    <did>
-                        <unittitle>Kramer, Jacob</unittitle>
-                        <container id="cid20113040" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113040" type="Folder">45</container>
-                        <unitdate normal="1986/1986">[1986]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref103" level="file">
-                    <did>
-                        <unittitle>Krauss, Martin</unittitle>
-                        <container id="cid20113041" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113041" type="Folder">46</container>
-                        <unitdate normal="1980/1980">1980</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref104" level="file">
-                    <did>
-                        <unittitle>Kummerer, Martha</unittitle>
-                        <container id="cid20113042" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113042" type="Folder">47</container>
-                        <unitdate normal="1977/1978" type="inclusive">1977; 1978</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref105" level="file">
-                    <did>
-                        <unittitle>Landis, Art</unittitle>
-                        <container id="cid20113043" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113043" type="Folder">48</container>
-                        <unitdate normal="1976/1981" type="inclusive">1976; 1981</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref106" level="file">
-                    <did>
-                        <unittitle>Lending, Edward</unittitle>
-                        <container id="cid20113044" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113044" type="Folder">49</container>
-                        <unitdate normal="1981/1981">1981</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref107" level="file">
-                    <did>
-                        <unittitle>Macfarlane, John</unittitle>
-                        <container id="cid20113045" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113045" type="Folder">50</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref108" level="file">
-                    <did>
-                        <unittitle>Maki, Martin</unittitle>
-                        <container id="cid20113046" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113046" type="Folder">51</container>
-                        <unitdate normal="1973/1985" type="inclusive">1973; 1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref109" level="file">
-                    <did>
-                        <unittitle>Map to Schuetrum Home</unittitle>
-                        <container id="cid20113047" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113047" type="Folder">52</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref110" level="file">
-                    <did>
-                        <unittitle>Marantz, Ray</unittitle>
-                        <container id="cid20113048" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113048" type="Folder">53</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref111" level="file">
-                    <did>
-                        <unittitle>Martin, Fredericka</unittitle>
-                        <container id="cid20113049" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113049" type="Folder">54</container>
-                        <unitdate normal="1970/1976" type="inclusive">1970-1972; 1976 </unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref112" level="file">
-                    <did>
-                        <unittitle>Mates, Dave</unittitle>
-                        <container id="cid20113050" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113050" type="Folder">55</container>
-                        <unitdate normal="1975/1975">1975</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref113" level="file">
-                    <did>
-                        <unittitle>Nelson, Steve</unittitle>
-                        <container id="cid20113051" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113051" type="Folder">56</container>
-                        <unitdate normal="1977/1985" type="inclusive">1977-1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref114" level="file">
-                    <did>
-                        <unittitle>Nicaragua</unittitle>
-                        <container id="cid20113052" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113052" type="Folder">57</container>
-                        <unitdate normal="1985/1988" type="inclusive">1985-1988</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref115" level="file">
-                    <did>
-                        <unittitle>Notes: Archives</unittitle>
-                        <container id="cid20113053" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113053" type="Folder">58</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref116" level="file">
-                    <did>
-                        <unittitle>Notes: International Brigades</unittitle>
-                        <container id="cid20113054" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113054" type="Folder">59</container>
-                        <unitdate normal="1987/1987">1987</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref117" level="file">
-                    <did>
-                        <unittitle>Notes (Handwritten): “Spain Revisited”</unittitle>
-                        <container id="cid20113055" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113055" type="Folder">60</container>
-                        <unitdate normal="1982/1982">1982</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref118" level="file">
-                    <did>
-                        <unittitle>Norris, Len</unittitle>
-                        <container id="cid20113056" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113056" type="Folder">61</container>
-                        <unitdate normal="1977/1985" type="inclusive">1977-1978; 1985 </unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref119" level="file">
-                    <did>
-                        <unittitle>Ornitz, Lou</unittitle>
-                        <container id="cid20113057" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113057" type="Folder">62</container>
-                        <unitdate normal="1981/1981">1981</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref120" level="file">
-                    <did>
-                        <unittitle>Osipenko, A.S.</unittitle>
-                        <container id="cid20113058" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113058" type="Folder">63</container>
-                        <unitdate normal="1983/1983">1983</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref121" level="file">
-                    <did>
-                        <unittitle>Persoff, Jim</unittitle>
-                        <container id="cid20113059" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113059" type="Folder">64</container>
-                        <unitdate normal="1979/1979">1979</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref122" level="file">
-                    <did>
-                        <unittitle>Pike, William</unittitle>
-                        <container id="cid20113060" type="Box-folder" label="Mixed materials">2</container>
-                        <container parent="cid20113060" type="Folder">65</container>
-                        <unitdate normal="1973/1986" type="inclusive">1973; 1985-1986 </unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref123" level="file">
-                    <did>
-                        <unittitle>Postcards (Blank)</unittitle>
-                        <container id="cid20116001" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116001" type="Folder">1</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref124" level="file">
-                    <did>
-                        <unittitle>Renn, Konrad</unittitle>
-                        <container id="cid20116002" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116002" type="Folder">2</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref125" level="file">
-                    <did>
-                        <unittitle>Ross, Adolph</unittitle>
-                        <container id="cid20116003" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116003" type="Folder">3</container>
-                        <unitdate normal="1986/1986">1986</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref126" level="file">
-                    <did>
-                        <unittitle>Salzman, Salman</unittitle>
-                        <container id="cid20116004" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116004" type="Folder">4</container>
-                        <unitdate normal="1985/1985">1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref127" level="file">
-                    <did>
-                        <unittitle>San Francisco Bay Area Longshoremen’s Memorial Association</unittitle>
-                        <container id="cid20116005" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116005" type="Folder">5</container>
-                        <unitdate normal="1982/1982">1982</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref128" level="file">
-                    <did>
-                        <unittitle>Schwartz, George</unittitle>
-                        <container id="cid20116006" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116006" type="Folder">6</container>
-                        <unitdate normal="1979/1979">1979</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref129" level="file">
-                    <did>
-                        <unittitle>Sills, Sam</unittitle>
-                        <container id="cid20116007" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116007" type="Folder">7</container>
-                        <unitdate normal="1985/1985">1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref130" level="file">
-                    <did>
-                        <unittitle>Smith, Randall “Pete”</unittitle>
-                        <container id="cid20116008" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116008" type="Folder">8</container>
-                        <unitdate normal="1977/1987" type="inclusive">1977-1987</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref131" level="file">
-                    <did>
-                        <unittitle>Spain: Carrillo Visit to Yale</unittitle>
-                        <container id="cid20116009" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116009" type="Folder">9</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref132" level="file">
-                    <did>
-                        <unittitle>Spain: Politics, Prisoners, etc.</unittitle>
-                        <container id="cid20116010" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116010" type="Folder">10</container>
-                        <unitdate normal="1962/1984" type="inclusive">1962-1984</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref133" level="file">
-                    <did>
-                        <unittitle>Spanish Civil War Historical Society</unittitle>
-                        <container id="cid20116011" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116011" type="Folder">11</container>
-                        <unitdate normal="1975/1982" type="inclusive">1975; 1980-1982 </unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref134" level="file">
-                    <did>
-                        <unittitle>Steck, Bob</unittitle>
-                        <container id="cid20116012" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116012" type="Folder">12</container>
-                        <unitdate normal="1979/1979">1979</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref135" level="file">
-                    <did>
-                        <unittitle>Sweden: Mayday Celebration</unittitle>
-                        <container id="cid20116013" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116013" type="Folder">13</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref136" level="file">
-                    <did>
-                        <unittitle>Thornton, Phyllis</unittitle>
-                        <container id="cid20116014" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116014" type="Folder">14</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref137" level="file">
-                    <did>
-                        <unittitle>Tribute to Walter Schuetrum by his Daughter, Nancy Fontana (From 
-                            <emph render="italic">The Volunteer</emph>, Vol.III, 2)</unittitle>
-                        <container id="cid20116015" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116015" type="Folder">15</container>
-                        <unitdate normal="1986/1986">1986</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref138" level="file">
-                    <did>
-                        <unittitle>Troxel, Steve: Tribute Written by Walter Schuetrum</unittitle>
-                        <container id="cid20116016" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116016" type="Folder">16</container>
-                        <unitdate normal="1980/1980">1980</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref139" level="file">
-                    <did>
-                        <unittitle>Unidentified Correspondents</unittitle>
-                        <container id="cid20116017" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116017" type="Folder">17</container>
-                        <unitdate normal="1976/1981" type="inclusive">Undated; 1976-1981</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref140" level="file">
-                    <did>
-                        <unittitle>US Army: Honorable Discharge</unittitle>
-                        <container id="cid20116018" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116018" type="Folder">18</container>
-                        <unitdate normal="1946/1946">1946</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref141" level="file">
-                    <did>
-                        <unittitle>US Army: Separation Qualification Record</unittitle>
-                        <container id="cid20116019" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116019" type="Folder">19</container>
-                        <unitdate normal="1946/1946">1946</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref142" level="file">
-                    <did>
-                        <unittitle>US Coast Guard: Certificate of Discharge</unittitle>
-                        <container id="cid20116020" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116020" type="Folder">20</container>
-                        <unitdate normal="1946/1946">1946</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref143" level="file">
-                    <did>
-                        <unittitle>Veterans of the Abraham Lincoln Brigade: Anniversaries, Bay Area</unittitle>
-                        <container id="cid20116021" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116021" type="Folder">21</container>
-                        <unitdate normal="1985/1985">1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref144" level="file">
-                    <did>
-                        <unittitle>VALB: Bay Area Post</unittitle>
-                        <container id="cid20116022" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116022" type="Folder">22</container>
-                        <unitdate normal="1973/1986" type="inclusive">1973-1986</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref145" level="file">
-                    <did>
-                        <unittitle>VALB: Coverage in Bay Area Press</unittitle>
-                        <container id="cid20116023" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116023" type="Folder">23</container>
-                        <unitdate normal="1971/1986" type="inclusive">1971-1986</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref146" level="file">
-                    <did>
-                        <unittitle>VALB: Draft Constitution, Discussion</unittitle>
-                        <container id="cid20116024" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116024" type="Folder">24</container>
-                        <unitdate normal="1979/1979">1979</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref147" level="file">
-                    <did>
-                        <unittitle>VALB: Draft Report</unittitle>
-                        <container id="cid20116025" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20116025" type="Folder">25</container>
-                        <unitdate normal="1984/1984">1984</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref148" level="file">
-                    <did>
-                        <unittitle>VALB: Finances</unittitle>
-                        <container id="cid20119001" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119001" type="Folder">26</container>
-                        <unitdate normal="1973/1980" type="inclusive">1973-1980</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref149" level="file">
-                    <did>
-                        <unittitle>VALB: “Freedom Picnic”</unittitle>
-                        <container id="cid20119002" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119002" type="Folder">27</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref150" level="file">
-                    <did>
-                        <unittitle>VALB: Historical Commission</unittitle>
-                        <container id="cid20119003" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119003" type="Folder">28</container>
-                        <unitdate normal="1977/1980" type="inclusive">1977; 1980</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref151" level="file">
-                    <did>
-                        <unittitle>VALB: Mailings</unittitle>
-                        <container id="cid20119004" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119004" type="Folder">29</container>
-                        <unitdate normal="1973/1984" type="inclusive">1973-1984</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref152" level="file">
-                    <did>
-                        <unittitle>VALB: Membership Books/Cards</unittitle>
-                        <container id="cid20119005" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119005" type="Folder">30</container>
-                        <unitdate normal="1938/1950" type="inclusive">1938-1950</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref153" level="file">
-                    <did>
-                        <unittitle>VALB: Minutes, Bay Area Post</unittitle>
-                        <container id="cid20119006" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119006" type="Folder">31</container>
-                        <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref154" level="file">
-                    <did>
-                        <unittitle>VALB: Minutes, National Board</unittitle>
-                        <container id="cid20119007" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119007" type="Folder">32</container>
-                        <unitdate normal="1977/1977">1977</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref155" level="file">
-                    <did>
-                        <unittitle>VALB: National Conferences (Reports, Discussions, etc.)</unittitle>
-                        <container id="cid20119008" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119008" type="Folder">33</container>
-                        <unitdate normal="1973/1979" type="inclusive">1973-1979</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref156" level="file">
-                    <did>
-                        <unittitle>VALB: News, Notes on Vets</unittitle>
-                        <container id="cid20119009" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119009" type="Folder">34</container>
-                        <unitdate normal="1980/1980">1980</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref157" level="file">
-                    <did>
-                        <unittitle>VALB: Subversive Activities Control Board (SACB)</unittitle>
-                        <container id="cid20119010" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119010" type="Folder">35</container>
-                        <unitdate normal="1965/1965">1965</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref158" level="file">
-                    <did>
-                        <unittitle>
-                            <emph render="italic">Volunteer, The</emph>: WS Letter Commenting on Landis-Peet Exchange</unittitle>
-                        <container id="cid20119011" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119011" type="Folder">36</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref159" level="file">
-                    <did>
-                        <unittitle>Wachtel, Marion (Merriman)</unittitle>
-                        <container id="cid20119012" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119012" type="Folder">37</container>
-                        <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref160" level="file">
-                    <did>
-                        <unittitle>Wallach, Hy: Notes on Conversation with</unittitle>
-                        <container id="cid20119013" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119013" type="Folder">38</container>
-                        <unitdate normal="1977/1977">[1977]</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref161" level="file">
-                    <did>
-                        <unittitle>Wolff, Frieda</unittitle>
-                        <container id="cid20119014" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119014" type="Folder">39</container>
-                        <unitdate normal="1984/1984">1984</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref162" level="file">
-                    <did>
-                        <unittitle>Wolff, Milton</unittitle>
-                        <container id="cid20119015" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119015" type="Folder">40</container>
-                        <unitdate normal="1980/1980">1980</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref163" level="file">
-                    <did>
-                        <unittitle>Wyden, Peter</unittitle>
-                        <container id="cid20119016" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119016" type="Folder">41</container>
-                        <unitdate normal="1980/1980">1980</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref164" level="file">
-                    <did>
-                        <unittitle>Yates, James</unittitle>
-                        <container id="cid20119017" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20119017" type="Folder">42</container>
-                        <unitdate normal="1980/1986" type="inclusive">1980; 1985; 1986 </unitdate>
-                    </did>
-                </c02>
-            </c01>
-            <c01 id="ref165" level="series">
-                <did>
-                    <unittitle>Series III: Artifacts and Memorabilia, 1937, undated.</unittitle>
-                    <physdesc>
-                        <extent>1.0 box</extent>
-                    </physdesc>
-                    <unitdate>1937; undated</unitdate>
-                </did>
-                <c02 id="ref172" level="file">
-                    <did>
-                        <unittitle>Brigades Internacionales: Patches (2)</unittitle>
-                        <container id="cid20119023" type="Box" label="Realia">4</container>
-                        <container parent="cid20119023" type="Object">1</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref175" level="file">
-                    <did>
-                        <unittitle>Package of Gauze from the Swiss Army (“Individ Verbandpackchen der schwizerischen Armee”)</unittitle>
-                        <container id="cid20119026" type="Box" label="Realia">4</container>
-                        <container parent="cid20119026" type="Object">2</container>
-                        <unitdate>1937</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref176" level="file">
-                    <did>
-                        <unittitle>Shrapnel from Explosive, Wrapped in Gauze</unittitle>
-                        <container id="cid20119027" type="Box" label="Realia">4</container>
-                        <container parent="cid20119027" type="Object">3</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref173" level="file">
-                    <did>
-                        <unittitle>Veterans of the Abraham Lincoln Brigade: Pennant</unittitle>
-                        <container id="cid20119024" type="Box" label="Realia">4</container>
-                        <container parent="cid20119024" type="Object">4</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref174" level="file">
-                    <did>
-                        <unittitle>Voluntarios Internacionales de la Libertad: Plaque</unittitle>
-                        <container id="cid20119025" type="Box" label="Realia">4</container>
-                        <container parent="cid20119025" type="Object">5</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-            </c01>
-        </dsc>
-    </archdesc>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Ambulance Drivers Handbook (Comisión Reguladora de Carreteras)</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">[1937]</unitdate>
+            <container id="aspace_c301ae620a09381e607f38e32d1d27c5" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_c301ae620a09381e607f38e32d1d27c5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Asociacion de Amigos de la Union Sovetica: Stamps, Membership
+              cards</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container id="aspace_0d98bb09bb39f592023b0f70647d907f" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_0d98bb09bb39f592023b0f70647d907f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Boarding Receipts </unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_01524ad01e7f36957b0b43f7e2e6ed26" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_01524ad01e7f36957b0b43f7e2e6ed26" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Carnet Militar (signed by Langston Hughes, Paul Robeson, John Strachey, and
+              James Waterman Wise)</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container id="aspace_1281cd03f13e7e181ef379d9e80d0c8a" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_1281cd03f13e7e181ef379d9e80d0c8a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Clippings: Map from <emph render="italic">The Evening Telegram</emph>
+              (Superior, WI)</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_751779c28ebada800754cb1b4e81fd03" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_751779c28ebada800754cb1b4e81fd03" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Clippings: On War, in English and French (<emph render="italic"
+                >l’Humanité</emph>)</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_f2f49b7c6a1b579258732b2ed08d9025" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_f2f49b7c6a1b579258732b2ed08d9025" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Clippings: WS Service in Spain and Return Home in Superior, WI
+              Newspapers</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_3b7689c83b58ea1fcce96950a5227f1c" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_3b7689c83b58ea1fcce96950a5227f1c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Communist Party of Spain: Carnet de Afiliado (Membership Card)</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_d0f9c475531336f454dd368c55cbcfa7" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_d0f9c475531336f454dd368c55cbcfa7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Communist Party of Spain: Farewell Card to International Brigade
+              Volunteers</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_a065dbe463f9dc26236642a5c8447a55" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_a065dbe463f9dc26236642a5c8447a55" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>“Conquests of the Salvadorean Army of Spain” (Map)</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">[1938]</unitdate>
+            <container id="aspace_7d8ac4d9f86523dc297f792f9168d717" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_7d8ac4d9f86523dc297f792f9168d717" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Correspondence: “A Letter from Spain,” by WS (reprint from an unidentified
+              periodical, 2 copies)</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">Oct 6, 1937</unitdate>
+            <container id="aspace_909708057902b962808173850c690cc1" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_909708057902b962808173850c690cc1" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Correspondence: Bard, Sam (Friends of the Abraham Lincoln Brigade) to Mrs.
+              Schuetrum</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_66a88abc9582c25a4fc836065bfc1924" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_66a88abc9582c25a4fc836065bfc1924" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Correspondence: Buckley, Nat T.</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_6d260d5cdbaf0633156514620daa4db1" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_6d260d5cdbaf0633156514620daa4db1" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Correspondence: Dorfs, Sylvia</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_5d861559dc9a8d898e8301521250a97b" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_5d861559dc9a8d898e8301521250a97b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Correspondence: Harju, Rudolph </unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_5313b564972549aaaf88816f8decc3d9" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_5313b564972549aaaf88816f8decc3d9" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Correspondence: “International Comrades” to Mrs. Schuetrum (Thank You Letter
+              for Package of Sweets)</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_d5079dd13fae3ed345f20bea5d5cb85f" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_d5079dd13fae3ed345f20bea5d5cb85f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Correspondence: Kartinen, Signe</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_22437b414bc00379fc5a3c8472f36893" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_22437b414bc00379fc5a3c8472f36893" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Correspondence: McCollough, Kenneth</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_eda54c837e3574ae6a06eb738b27dfc1" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_eda54c837e3574ae6a06eb738b27dfc1" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Correspondence: Parents </unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container id="aspace_76782c5a1e9e5a6d9aa49a0f39284b39" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_76782c5a1e9e5a6d9aa49a0f39284b39" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Correspondence: Smith, Violet to Mr. and Mrs. W.J. Schuetrum</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_d3fb660ba5dd382d36673f17fea8c758" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_d3fb660ba5dd382d36673f17fea8c758" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Correspondence: Sundstrum, Lawrence H./ Boehme, Fred N.</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_0ba1ab10135c89467e69c29196e92891" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_0ba1ab10135c89467e69c29196e92891" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Friends of the Abraham Lincoln Brigade: Arrival Notification for
+              WS</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">Dec 1938</unitdate>
+            <container id="aspace_caa93a1897ad88b5c16f05ac69d9c04e" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_caa93a1897ad88b5c16f05ac69d9c04e" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Hand-Drawn Map of Ebro Region/ “List of the Personnel of Villa” </unittitle>
+            <unitdate normal="1937/1937" type="inclusive">[1937]</unitdate>
+            <container id="aspace_fa002efb15ed6ff8b2fe4d112ee5aaed" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_fa002efb15ed6ff8b2fe4d112ee5aaed" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Log of Vessels: <emph render="italic">S.S. President Roosevelt</emph>, Cunard
+              White Star <emph render="italic">R.M.S. Ausonia</emph></unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937; 1938</unitdate>
+            <container id="aspace_4a9cde12c152bfee39ceb0feb967a0e9" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_4a9cde12c152bfee39ceb0feb967a0e9" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Mackenzie, David: “Report on the War in Spain” at Odd Fellows Hall
+              (Flyer)</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">[1937]</unitdate>
+            <container id="aspace_ee52e414b4c321d517b53ea48bca93ce" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_ee52e414b4c321d517b53ea48bca93ce" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Mailing Receipts </unittitle>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_87a00a276c74caf723f0bd96026b5b43" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_87a00a276c74caf723f0bd96026b5b43" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Notebook of Volunteers’ U.S. Addresses and List of New York City
+              Restaurants</unittitle>
+            <unitdate normal="1938/1939" type="inclusive">[1938-1939]</unitdate>
+            <container id="aspace_ab90dded02f8eee49caab258be03e9dc" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_ab90dded02f8eee49caab258be03e9dc" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Notes on History of Conflict and Personal Experiences in Spain, for
+              Unidentified Project</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">[1939]</unitdate>
+            <container id="aspace_43cb83e28d6cc82ba14dc1051f9ff747" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_43cb83e28d6cc82ba14dc1051f9ff747" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Notes (Typed): “Why Walter Went to Spain,” w/ Extracts from his Letters
+              (Author Unidentified)</unittitle>
+            <unitdate normal="1930/1939" type="inclusive">[1930s]</unitdate>
+            <container id="aspace_bee2842fd8326a217f2b6f5a321893c7" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_bee2842fd8326a217f2b6f5a321893c7" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Pamphlets (Includes Map of Paris for 1937 Exposition and “Guerra Viva” by
+              José Herrera Petere)</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container id="aspace_2ae940797d9d434948e98646b16272bd" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_2ae940797d9d434948e98646b16272bd" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Radio Interview with WS on WEBC (Transcript)</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">[1939]</unitdate>
+            <container id="aspace_9f0c575390e907be322deecd8f8a532c" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_9f0c575390e907be322deecd8f8a532c" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle><emph render="italic">Reconquista, 35 División</emph>
+              (Periodical)</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_df1dacfaf0ccb7ed3b0ac2c17bfe1c60" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_df1dacfaf0ccb7ed3b0ac2c17bfe1c60" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Registration Form (American Consular Services)</unittitle>
+            <unitdate normal="1937/1937" type="inclusive">[1937]</unitdate>
+            <container id="aspace_e98ab356d2a6d3a31691044f2814b2d7" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_e98ab356d2a6d3a31691044f2814b2d7" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Relatives of American Prisoners in Franco Spain: “Release Americans in Franco
+              Prisons” (Petition)</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">[1939]</unitdate>
+            <container id="aspace_ef38eae2581349c309076f60126e50a6" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_ef38eae2581349c309076f60126e50a6" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Republican Stamps and Currency (“Vales”)</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container id="aspace_929838d5fdf90bc16db252ca71a6074f" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_929838d5fdf90bc16db252ca71a6074f" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>El Socors Roig de Catalunya: Card to International Brigades Volunteers </unittitle>
+            <unitdate normal="1938/1938" type="inclusive">[1938]</unitdate>
+            <container id="aspace_8be06dd66dde875e157783e3c72e2c6c" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_8be06dd66dde875e157783e3c72e2c6c" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Song-Cards: “Al Soldado Internacional Caído en España” (To a Fallen
+              International Soldier), “A Jaskel Honigstein”, “Lina Odena” </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_3d76ba3826bcd316b8f994b722f4ab68" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_3d76ba3826bcd316b8f994b722f4ab68" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Speech on War Experience </unittitle>
+            <unitdate normal="1939/1939" type="inclusive">[1939]</unitdate>
+            <container id="aspace_57bc37cb4d502fd398f41be59fc220dd" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_57bc37cb4d502fd398f41be59fc220dd" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>35 División del Ejército Popular: Carnet de Honor</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">[1938]</unitdate>
+            <container id="aspace_b16a585179613d06de01a5c083da343f" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_b16a585179613d06de01a5c083da343f" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Transport Documents (Safe-Conducts, Hoje de Ruta, etc.)</unittitle>
+            <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
+            <container id="aspace_174426e5169e4d9dad9e6a0e3846e66e" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_174426e5169e4d9dad9e6a0e3846e66e" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Unión Nacional de Estudiantes de España: Honorary Membership Card</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">[1937-1938]</unitdate>
+            <container id="aspace_ee64e2909c0ecb8dc6cbed804cd64730" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_ee64e2909c0ecb8dc6cbed804cd64730" type="Folder">41</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref57" level="series">
+        <did>
+          <unittitle>Series II: General Files (Post-Spanish Civil War), 1946-1987.</unittitle>
+          <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2
+            box</extent></physdesc>
+          <unitdate normal="1946/1987" type="inclusive">1946-1987</unitdate>
+        </did>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Abramson, Sam</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_c92b8dfa73b4e581506713c721ffb979" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_c92b8dfa73b4e581506713c721ffb979" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Black-Jewish Relations</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_0b5f419644d20f3483068e2cd269ad0b" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_0b5f419644d20f3483068e2cd269ad0b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Barr, Reuven</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_f619d18b820369e5aab48816c887d841" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_f619d18b820369e5aab48816c887d841" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Bender, Ed</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_af8abba747c04616bb28ab1f2563b3c5" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_af8abba747c04616bb28ab1f2563b3c5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Berch, Victor </unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_b5ded47f208c9d7af2b6cc6e84e1f3e2" label="Mixed Materials"
+              type="Box">2</container>
+            <container parent="aspace_b5ded47f208c9d7af2b6cc6e84e1f3e2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Bach, Ejgil</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_cfdd59287f27855b95f858c9ddf22ddb" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_cfdd59287f27855b95f858c9ddf22ddb" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Cesarini, Juan Carlos</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_6bcf3c2da51c792f1187652bc17509b8" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_6bcf3c2da51c792f1187652bc17509b8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Dahlem, Franz and Reuter, Fritz</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_a6914d23d49eac154466350d5302e347" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_a6914d23d49eac154466350d5302e347" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Delaney, Gerry </unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_95723a7ec446811a459b78022edafe7d" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_95723a7ec446811a459b78022edafe7d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>DeMaio, Tony</unittitle>
+            <unitdate normal="1982/1985" type="inclusive">1982; 1985</unitdate>
+            <container id="aspace_641c336c7765a438b8b2269615b3b273" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_641c336c7765a438b8b2269615b3b273" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Durmayer, Heinrich</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_e996b8965f311a040e8a88eb80519791" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_e996b8965f311a040e8a88eb80519791" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>El Salvador: Bay Area Protests </unittitle>
+            <unitdate normal="1984/1984" type="inclusive">[1984]</unitdate>
+            <container id="aspace_7a819f2b1b4983f2f10d7530772aa746" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_7a819f2b1b4983f2f10d7530772aa746" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Eriksson, Per</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_2d5542ef2aeea2f0ca194260db420f99" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_2d5542ef2aeea2f0ca194260db420f99" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Farmer-Labor Progressive Federation: Campaign Ad for WS Board of Education
+              Run</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_fb241367aaaaa7ba808be95dc8f7380a" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_fb241367aaaaa7ba808be95dc8f7380a" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Feinberg, Helen Freeman</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_c381b1fef79e0227c7ab79a8c6136322" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_c381b1fef79e0227c7ab79a8c6136322" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Felsen, Milt</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_e73ccda3a5368790882dd53732bc1823" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_e73ccda3a5368790882dd53732bc1823" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Fishman, Moe</unittitle>
+            <unitdate normal="1961/1985" type="inclusive">1961-1985</unitdate>
+            <container id="aspace_c9646477f0da19bb993bab7dc33a9204" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_c9646477f0da19bb993bab7dc33a9204" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Forance, Priscilla</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_5827151dc0c54787682204c64f3c1a06" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_5827151dc0c54787682204c64f3c1a06" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Funke, Otto</unittitle>
+            <unitdate normal="1976/1978" type="inclusive">1976-1978 </unitdate>
+            <container id="aspace_7bb007e24e99353ecec1da4221474774" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_7bb007e24e99353ecec1da4221474774" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>G., Susan (re: Swedish International Brigades Monument, “La
+              Mano”)</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_74d968046bba6a6156e74d1fdd5dfe50" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_74d968046bba6a6156e74d1fdd5dfe50" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Geiser, Carl</unittitle>
+            <unitdate normal="1970/1985" type="inclusive">1970-1985</unitdate>
+            <container id="aspace_79bc1656d2c46f9a72ccd68a86be06e4" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_79bc1656d2c46f9a72ccd68a86be06e4" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>German Democratic Republic: I.B. Commemorations, Trips etc.</unittitle>
+            <unitdate normal="1961/1981" type="inclusive">1961-1981</unitdate>
+            <container id="aspace_667df19c08353e84b2ea86c92b861569" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_667df19c08353e84b2ea86c92b861569" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Germany: Anti-Fascist Rally (Berlin), Clippings </unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_398c25a7b38692c3df4e65008225272c" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_398c25a7b38692c3df4e65008225272c" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Germany: Charles R. Allen, “A Letter from East Germany”</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_ade95ca91fe5f93506fe350d192015c9" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_ade95ca91fe5f93506fe350d192015c9" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Germany: <emph render="italic">Democratic German Report</emph> (News
+              Letter)</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_f6c109782cbd2650a48accad166597f2" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_f6c109782cbd2650a48accad166597f2" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Goldblatt, Sana</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_47ce9fa6c6cdc7a09e6c71f931c3e14f" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_47ce9fa6c6cdc7a09e6c71f931c3e14f" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Gonzalez, Celestino </unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_78ecd6665e36ce6267b6f9a93aadab7a" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_78ecd6665e36ce6267b6f9a93aadab7a" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Graeber, Kenneth</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_ced497d2bad04a248e88eedfe054de30" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_ced497d2bad04a248e88eedfe054de30" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Green, Nan</unittitle>
+            <unitdate normal="1977/1979" type="inclusive">1977; 1979</unitdate>
+            <container id="aspace_447fb1e70fc64ed949371817530c1d5e" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_447fb1e70fc64ed949371817530c1d5e" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Greeting Cards (German)</unittitle>
+            <unitdate normal="1978/1984" type="inclusive">1978; 1984</unitdate>
+            <container id="aspace_b4107c447c6702dd67d12d51f0d4d908" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_b4107c447c6702dd67d12d51f0d4d908" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Harju, W. A.</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_c0818f466054ad88e8eac24eccd57e23" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_c0818f466054ad88e8eac24eccd57e23" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Hartzman, Jack</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_89bef6a1535221708720daaa2b8d3610" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_89bef6a1535221708720daaa2b8d3610" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Hill, Josephine</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_c958649ad38619ccd905b2e7b6f0c28c" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_c958649ad38619ccd905b2e7b6f0c28c" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Iceland, Ben</unittitle>
+            <unitdate normal="1981/1985" type="inclusive">1981-1985</unitdate>
+            <container id="aspace_6a2da69f3c437a6efa446275d8b3ffe2" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_6a2da69f3c437a6efa446275d8b3ffe2" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Identification Cards (Includes Honorable Discharge Card)</unittitle>
+            <unitdate normal="1957/1964" type="inclusive">1957-1964</unitdate>
+            <container id="aspace_1e7cc1da26a68cd1b0cd8304c8b96768" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_1e7cc1da26a68cd1b0cd8304c8b96768" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>International Longshoremen’s and Warehousemen’s Union, Local 10: Dues
+              Card</unittitle>
+            <unitdate normal="1946/1955" type="inclusive">1946-1955</unitdate>
+            <container id="aspace_e19de1dfbdc9459cfba2e416d8594277" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_e19de1dfbdc9459cfba2e416d8594277" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Italy: 40th Anniversary, International Brigades (Florence)</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_e7e04970f69aa43a16598ca976409d6a" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_e7e04970f69aa43a16598ca976409d6a" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Italy: VALB Meeting with Sergio Segre</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_a29cb719fb5707a317a46474284b1a79" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_a29cb719fb5707a317a46474284b1a79" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Johnson, John and Irma</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_5a333b825028a04a8e6829b22a2b1f58" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_5a333b825028a04a8e6829b22a2b1f58" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Karsten, Peter</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_795bd91e2afca0a9e7415fc8378dbca0" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_795bd91e2afca0a9e7415fc8378dbca0" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Klaster, Leo</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_a5c94c4ec67eb1a9779f38befcdd6123" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_a5c94c4ec67eb1a9779f38befcdd6123" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Klebba, Gunter</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_b43cb34f78e14855a35792ca3b43c79e" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_b43cb34f78e14855a35792ca3b43c79e" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Knudsen, Arne</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_85e368346bfb47a891a90bacff0d705a" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_85e368346bfb47a891a90bacff0d705a" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Kozar, Tom</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_52af58ee29088b652ea3105d9868f452" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_52af58ee29088b652ea3105d9868f452" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Kramer, Jacob</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">[1986]</unitdate>
+            <container id="aspace_1b05d4fbc7adbe8616004dbbddfc4608" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_1b05d4fbc7adbe8616004dbbddfc4608" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Krauss, Martin</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_e9e06e73dc76e948f9229cf76b2a6e8a" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_e9e06e73dc76e948f9229cf76b2a6e8a" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Kummerer, Martha</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977; 1978</unitdate>
+            <container id="aspace_c80704f1f2b2aca349061419c75e98cb" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_c80704f1f2b2aca349061419c75e98cb" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Landis, Art</unittitle>
+            <unitdate normal="1976/1981" type="inclusive">1976; 1981</unitdate>
+            <container id="aspace_06bef9ede1a5b9493634c70e37333c1e" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_06bef9ede1a5b9493634c70e37333c1e" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Lending, Edward</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_c9dd037365353d3aa457649956659464" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_c9dd037365353d3aa457649956659464" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Macfarlane, John</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_7e191215077df62df543a8713b50a6e8" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_7e191215077df62df543a8713b50a6e8" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Maki, Martin</unittitle>
+            <unitdate normal="1973/1985" type="inclusive">1973; 1985</unitdate>
+            <container id="aspace_693c7c28bf0a09ef9643798cdffcff90" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_693c7c28bf0a09ef9643798cdffcff90" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Map to Schuetrum Home</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_28e1b5622c7b7b7d261a6af5ed74732b" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_28e1b5622c7b7b7d261a6af5ed74732b" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Marantz, Ray</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_d8ddb3bf307337d511e5faf7b7f4f9ee" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_d8ddb3bf307337d511e5faf7b7f4f9ee" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Martin, Fredericka</unittitle>
+            <unitdate normal="1970/1976" type="inclusive">1970-1972; 1976 </unitdate>
+            <container id="aspace_45f5e47e51bd7bd0ea9c17b2654d3007" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_45f5e47e51bd7bd0ea9c17b2654d3007" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Mates, Dave</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_a6d67ad220cda0fd6f6c154d436a8ba7" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_a6d67ad220cda0fd6f6c154d436a8ba7" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Nelson, Steve</unittitle>
+            <unitdate normal="1977/1985" type="inclusive">1977-1985</unitdate>
+            <container id="aspace_ba2bcffd7d39f49b194138d36d0e3bf9" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_ba2bcffd7d39f49b194138d36d0e3bf9" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Nicaragua</unittitle>
+            <unitdate normal="1985/1988" type="inclusive">1985-1988</unitdate>
+            <container id="aspace_d46cc29c07ab07a6706dbfaa0551f1f9" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_d46cc29c07ab07a6706dbfaa0551f1f9" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Notes: Archives </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_03b83bde8f88b23e6647e88cabaf7090" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_03b83bde8f88b23e6647e88cabaf7090" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Notes: International Brigades </unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_fe0d89719e5ed24b1d70cc58348facc2" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_fe0d89719e5ed24b1d70cc58348facc2" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Notes (Handwritten): “Spain Revisited”</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_e3330850f38ec282374c5cfa12a3f69e" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_e3330850f38ec282374c5cfa12a3f69e" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Norris, Len</unittitle>
+            <unitdate normal="1977/1985" type="inclusive">1977-1978; 1985 </unitdate>
+            <container id="aspace_e87df6638b25e3d387256c80d7643887" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_e87df6638b25e3d387256c80d7643887" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Ornitz, Lou</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_f39ecb280aa28f6d63208a8810b22398" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_f39ecb280aa28f6d63208a8810b22398" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Osipenko, A.S.</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_e58f42ea964f4f8361c24b04360e3d51" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_e58f42ea964f4f8361c24b04360e3d51" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Persoff, Jim</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_0b6605a2d5f4f76ec736a22b530867e6" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_0b6605a2d5f4f76ec736a22b530867e6" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Pike, William</unittitle>
+            <unitdate normal="1973/1986" type="inclusive">1973; 1985-1986 </unitdate>
+            <container id="aspace_dfc2595ff83a42b49e21f68d2672b9c9" label="Mixed Materials"
+              type="Box-folder">2</container>
+            <container parent="aspace_dfc2595ff83a42b49e21f68d2672b9c9" type="Folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Postcards (Blank)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_14656f79ef155599c058e626f27372ad" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_14656f79ef155599c058e626f27372ad" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Renn, Konrad</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_759f6359148cd5e2c89bc5f9bf0c50ac" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_759f6359148cd5e2c89bc5f9bf0c50ac" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Ross, Adolph</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_850f2adbfe23863d833dab55c32f1873" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_850f2adbfe23863d833dab55c32f1873" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Salzman, Salman</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_6896e6d05383b9ce956660395890f8af" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_6896e6d05383b9ce956660395890f8af" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>San Francisco Bay Area Longshoremen’s Memorial Association</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_8b964c7ecf25090f23c263db393d46aa" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_8b964c7ecf25090f23c263db393d46aa" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Schwartz, George</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_05f14c9d3e2d906a149f599c7cba98cc" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_05f14c9d3e2d906a149f599c7cba98cc" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Sills, Sam</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_8cc58e88bb26cebc7e47baa7bcfe796a" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_8cc58e88bb26cebc7e47baa7bcfe796a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Smith, Randall “Pete”</unittitle>
+            <unitdate normal="1977/1987" type="inclusive">1977-1987</unitdate>
+            <container id="aspace_2500a424464b8be412c62e0aa2de43f3" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_2500a424464b8be412c62e0aa2de43f3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Spain: Carrillo Visit to Yale</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_ab69a48c9645a73830fb5bd66b7c2e0c" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_ab69a48c9645a73830fb5bd66b7c2e0c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Spain: Politics, Prisoners, etc.</unittitle>
+            <unitdate normal="1962/1984" type="inclusive">1962-1984</unitdate>
+            <container id="aspace_e0f5b2be9b1a531d41281e0ae3c93731" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_e0f5b2be9b1a531d41281e0ae3c93731" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Spanish Civil War Historical Society</unittitle>
+            <unitdate normal="1975/1982" type="inclusive">1975; 1980-1982 </unitdate>
+            <container id="aspace_74c01e6b2cc26c0a231dddb201a4bcd7" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_74c01e6b2cc26c0a231dddb201a4bcd7" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Steck, Bob</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_4eaafda4a628bed7c7281c612629c803" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_4eaafda4a628bed7c7281c612629c803" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Sweden: Mayday Celebration</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_efae8e0128030caff85b4b846b4825ef" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_efae8e0128030caff85b4b846b4825ef" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Thornton, Phyllis </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c16326aeefa5753b9fda8418a2bf4f55" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_c16326aeefa5753b9fda8418a2bf4f55" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Tribute to Walter Schuetrum by his Daughter, Nancy Fontana (From <emph
+                render="italic">The Volunteer</emph>, Vol.III, 2) </unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_cdfe4eec70b979074e1ff3bafc7b9a47" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_cdfe4eec70b979074e1ff3bafc7b9a47" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Troxel, Steve: Tribute Written by Walter Schuetrum</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_466e663743281e53d351fa45a131ec7f" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_466e663743281e53d351fa45a131ec7f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Unidentified Correspondents </unittitle>
+            <unitdate normal="1976/1981" type="inclusive">Undated; 1976-1981</unitdate>
+            <container id="aspace_8eee6b5d5da1a8e776275f7b92df3a9f" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_8eee6b5d5da1a8e776275f7b92df3a9f" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>US Army: Honorable Discharge</unittitle>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_b61b322c38110f1a5009bcda70fb25f5" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_b61b322c38110f1a5009bcda70fb25f5" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>US Army: Separation Qualification Record</unittitle>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_e3eb3afb50cbe3ae2fee53d537471218" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_e3eb3afb50cbe3ae2fee53d537471218" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>US Coast Guard: Certificate of Discharge</unittitle>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_169663cc671d658fe00fe898377ef5f0" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_169663cc671d658fe00fe898377ef5f0" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade: Anniversaries, Bay Area</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_45de84621ad01a8ca3cc67d02ec6499f" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_45de84621ad01a8ca3cc67d02ec6499f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>VALB: Bay Area Post</unittitle>
+            <unitdate normal="1973/1986" type="inclusive">1973-1986</unitdate>
+            <container id="aspace_3c34e2ab39197f7dad2834c41383e66f" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_3c34e2ab39197f7dad2834c41383e66f" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>VALB: Coverage in Bay Area Press</unittitle>
+            <unitdate normal="1971/1986" type="inclusive">1971-1986</unitdate>
+            <container id="aspace_e6f3f1cbe823359f0265b2b0a3108962" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_e6f3f1cbe823359f0265b2b0a3108962" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>VALB: Draft Constitution, Discussion</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_773e2c17738e1f15db2a90916d5287e0" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_773e2c17738e1f15db2a90916d5287e0" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>VALB: Draft Report</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_cb8377b436e96794e9b28f2be90c8f61" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_cb8377b436e96794e9b28f2be90c8f61" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>VALB: Finances </unittitle>
+            <unitdate normal="1973/1980" type="inclusive">1973-1980</unitdate>
+            <container id="aspace_1228a817105dbcade581abc4b7538669" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_1228a817105dbcade581abc4b7538669" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>VALB: “Freedom Picnic”</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_b3b724bcb8f06d117e8d5ac465558289" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_b3b724bcb8f06d117e8d5ac465558289" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>VALB: Historical Commission</unittitle>
+            <unitdate normal="1977/1980" type="inclusive">1977; 1980</unitdate>
+            <container id="aspace_a223f32de49ec2f7dd344771ac4c8207" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_a223f32de49ec2f7dd344771ac4c8207" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>VALB: Mailings </unittitle>
+            <unitdate normal="1973/1984" type="inclusive">1973-1984</unitdate>
+            <container id="aspace_11ad677732c860af1f232237b023b5dc" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_11ad677732c860af1f232237b023b5dc" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>VALB: Membership Books/Cards</unittitle>
+            <unitdate normal="1938/1950" type="inclusive">1938-1950</unitdate>
+            <container id="aspace_123ff4b8ca5e70c23db8819c31031978" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_123ff4b8ca5e70c23db8819c31031978" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>VALB: Minutes, Bay Area Post</unittitle>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container id="aspace_6653873b7f8046d729fe2d655148b04e" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_6653873b7f8046d729fe2d655148b04e" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>VALB: Minutes, National Board</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_828d6a3fc79062630f0fe3d61ed2bda3" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_828d6a3fc79062630f0fe3d61ed2bda3" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>VALB: National Conferences (Reports, Discussions, etc.)</unittitle>
+            <unitdate normal="1973/1979" type="inclusive">1973-1979</unitdate>
+            <container id="aspace_20710ba5e3bca4dfb48816696d3d4cc1" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_20710ba5e3bca4dfb48816696d3d4cc1" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>VALB: News, Notes on Vets</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_2dcea6238e87f0dd15a86604eb2cdf39" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_2dcea6238e87f0dd15a86604eb2cdf39" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>VALB: Subversive Activities Control Board (SACB)</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_56c82184af3ede1dc5164d2e7ef4cc8e" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_56c82184af3ede1dc5164d2e7ef4cc8e" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle><emph render="italic">Volunteer, The</emph>: WS Letter Commenting on
+              Landis-Peet Exchange</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_bb0377488d6ba6bb6b32cca07b06e60c" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_bb0377488d6ba6bb6b32cca07b06e60c" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Wachtel, Marion (Merriman)</unittitle>
+            <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <container id="aspace_a00c7d7d8953cd0e999185ff7e3db329" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_a00c7d7d8953cd0e999185ff7e3db329" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>Wallach, Hy: Notes on Conversation with</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">[1977]</unitdate>
+            <container id="aspace_18422432b8cd4f71b5517484c432953f" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_18422432b8cd4f71b5517484c432953f" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>Wolff, Frieda </unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_c0b800c9c6c22b6e2934cca958e0562b" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_c0b800c9c6c22b6e2934cca958e0562b" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>Wolff, Milton</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_eb24779bdba977ded686ae334d8f8afc" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_eb24779bdba977ded686ae334d8f8afc" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>Wyden, Peter</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_bc8b3931020802b17f33728d57986b43" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_bc8b3931020802b17f33728d57986b43" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>Yates, James</unittitle>
+            <unitdate normal="1980/1986" type="inclusive">1980; 1985; 1986 </unitdate>
+            <container id="aspace_83bd94635633b8e4846805ff4cae68c2" label="Mixed Materials"
+              type="Box">3</container>
+            <container parent="aspace_83bd94635633b8e4846805ff4cae68c2" type="Folder">42</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref165" level="series">
+        <did>
+          <unittitle>Series III: Artifacts and Memorabilia, 1937, undated.</unittitle>
+          <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1
+            box</extent></physdesc>
+          <unitdate type="inclusive">1937; undated</unitdate>
+        </did>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>Brigades Internacionales: Patches (2)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_2d47a9867204d2b79a27d62d2432f8c1" label="Realia" type="Box"
+              >4</container>
+            <container parent="aspace_2d47a9867204d2b79a27d62d2432f8c1" type="Object">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>Package of Gauze from the Swiss Army (“Individ Verbandpackchen der
+              schwizerischen Armee”)</unittitle>
+            <unitdate type="inclusive">1937</unitdate>
+            <container id="aspace_287534555caa1e3828004148e043ce00" label="Realia" type="Box"
+              >4</container>
+            <container parent="aspace_287534555caa1e3828004148e043ce00" type="Object">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>Shrapnel from Explosive, Wrapped in Gauze </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_cf8abcb6e03c5f96fa4a9118fb15facc" label="Realia" type="Box"
+              >4</container>
+            <container parent="aspace_cf8abcb6e03c5f96fa4a9118fb15facc" type="Object">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>Veterans of the Abraham Lincoln Brigade: Pennant </unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_add5fc518a56aa0a5c1cad1bbbd11055" label="Realia" type="Box"
+              >4</container>
+            <container parent="aspace_add5fc518a56aa0a5c1cad1bbbd11055" type="Object">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>Voluntarios Internacionales de la Libertad: Plaque</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c5f70266dbd8ae5261962c12bd31f362" label="Realia" type="Box"
+              >4</container>
+            <container parent="aspace_c5f70266dbd8ae5261962c12bd31f362" type="Object">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
