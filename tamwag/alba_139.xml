@@ -1,94 +1,89 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">alba_139</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Saul Wellman Papers
-                    <num>ALBA.139</num>
-                </titleproper>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-06-01T16:46-0400</date>
-            </creation>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>June 1, 2012</date>
-                <item>Edited by Hanan Ohayon for compliance with DACS and Tamiment Required Elements for Archival Description </item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Saul Wellman Papers</unittitle>
-            <unitid>ALBA.139</unitid>
-            <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>2.0 linear feet</extent>
-                <extent>in 2 record cartons</extent>
-            </physdesc>
-            <unitdate>Circa 1960s-1990s</unitdate>
-            <langmaterial id="ref2" label="Language of Materials note">Materials are in English</langmaterial>
-            <abstract id="ref8" label="Abstract">Saul Wellman was a veteran of the Abraham Lincoln Brigade. The collection consists mainly of published and unpublished material about the Spanish Civil War, including articles, clippings, periodicals, ephemera, veteran memoirs, and student writings.</abstract>
-            <origination label="creator">
-                <persname source="local">Wellman, Saul</persname>
-            </origination>
-        </did>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Published citations should take the following form: 
-                <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <arrangement id="ref3">
-            <head>Arrangement</head>
-            <p>This collection has not been arranged by an archivist.</p>
-        </arrangement>
-        <userestrict id="ref7">
-            <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@nyu.edu 
-                <lb/></p>
-        </userestrict>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <bioghist id="ref9">
-            <head>Historical/Biographical Note</head>
-            <p>Saul Wellman was a veteran of the Abraham Lincoln Brigade, and was indicted under the Smith Act in Michigan.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This collection consists mainly of published and unpublished material about the Spanish Civil War, including articles, clippings, periodicals, ephemera, veteran memoirs, and student writings.</p>
-        </scopecontent>
-        <custodhist id="ref10">
-            <head>Custodial History note</head>
-            <p>This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
-        </custodhist>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>alba_139</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Saul Wellman Papers <num>ALBA.139</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace
+        <date>2017-08-09T15:15:29</date></creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng"/>
+      </langmaterial>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Saul Wellman Papers</unittitle>
+      <origination label="creator">
+        <persname rules="dacs" source="local">Wellman, Saul</persname>
+      </origination>
+      <unitid>ALBA.139</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">in 2 record cartons</extent>
+      </physdesc>
+      <unitdate type="inclusive">Circa 1960s-1990s</unitdate>
+      <langmaterial id="aspace_24d3ae6585c0a01100c403c6e2047172">Materials are in
+        English</langmaterial>
+      <abstract id="aspace_bffc2da8f4fc6b391424200c7cc26c75">Saul Wellman was a veteran of the
+        Abraham Lincoln Brigade. The collection consists mainly of published and unpublished
+        material about the Spanish Civil War, including articles, clippings, periodicals, ephemera,
+        veteran memoirs, and student writings.</abstract>
+    </did>
+    <prefercite id="aspace_4db36a6e885a77ce9e6058f901110572">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date;
+        Collection name; Collection number; box number; folder number; Tamiment Library/Robert F.
+        Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <arrangement id="aspace_9460ab7c9aabd540747ef66b488154ad">
+      <head>Arrangement</head>
+      <p>This collection has not been arranged by an archivist.</p>
+    </arrangement>
+    <userestrict id="aspace_8bb857d16020e2cd9e4ecac373d6c69a">
+      <head>Use Restrictions</head>
+      <p>The Tamiment Library &amp; Robert F. Wagner Labor Archives has no information about
+        copyright ownership for this collection and is not authorized to grant permission to publish
+        or reproduce materials from it. Copyrights held by original creators of individual items in
+        the collection are expected to pass into the public domain 120 years after their creation.
+        For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor
+        Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <accessrestrict id="aspace_c56c0db48689a1d7c829cc3ae23309ea">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F.
+        Wagner Labor Archives for more information and to schedule an appointment,
+        tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <bioghist id="aspace_0c4ceec0ca2db4e4f8ba7dfb205f40ff">
+      <head>Historical/Biographical Note</head>
+      <p>Saul Wellman was a veteran of the Abraham Lincoln Brigade, and was indicted under the Smith
+        Act in Michigan.</p>
+    </bioghist>
+    <scopecontent id="aspace_b3d84025d251a3f7283d6126d8266ba8">
+      <head>Scope and Contents</head>
+      <p>This collection consists mainly of published and unpublished material about the Spanish
+        Civil War, including articles, clippings, periodicals, ephemera, veteran memoirs, and
+        student writings.</p>
+    </scopecontent>
+    <acqinfo id="aspace_f675d7924d6f2f874566f35b60b1552c">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection came to New York University in January 2001 as part of the original
+        acquisition of ALBA collections, formerly housed at Brandeis University.</p>
+    </acqinfo>
+    <dsc/>
+  </archdesc>
 </ead>
