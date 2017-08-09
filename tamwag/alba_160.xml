@@ -1,89 +1,117 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_160">alba_160</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Confederated Spanish Societies (Sociedades Hispanas Confederadas) Records
-                    <num>ALBA.160</num>
-                </titleproper>
-                <author>Finding aid prepared by Rachel Searcy</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>4/2/2015</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-04-02T16:14-0400</date>
-            </creation>
-            <langusage>Finding aid is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Confederated Spanish Societies (Sociedades Hispanas Confederadas) Records</unittitle>
-            <unitid>ALBA.160</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.5 linear feet</extent>
-                <extent>in 1 manuscript box</extent>
-            </physdesc>
-            <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
-            <langmaterial id="ref9" label="Language of Materials note">Materials are in Spanish.</langmaterial>
-            <abstract id="ref4" label="Abstract">The Confederated Spanish Societies (Sociedades Hispanas Confederadas) was an umbrella organization established during the Spanish Civil War to coordinate fundraising efforts on behalf of Republican factions, often thorugh events like dances, rallies, performances, or soccer matches. This unprocessed collection consists of records from the early 1960s including meeting minutes; publicity materials directed at the American public; correspondence from sympathizers; correspondence concerning the Societies' publication, 
-                <emph render="italic">Espana Libre</emph>; correspondence directed at American, Spanish, and United Nations officials concerning the treatment of Republican prisoners.</abstract>
-            <origination label="creator">
-                <corpname rules="dacs" source="naf">Sociedades Hispanas Confederadas de los Estados Unidos de Norte America.</corpname>
-            </origination>
-        </did>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This unprocessed collection consists of records from the early 1960s documenting the work of the Confederated Spanish Societies (Sociedades Hispanas Confederadas) in New York to mobilize support for Republican forces in the Spanish Civil War. Materials include meeting minutes; publicity materials directed at the American public; correspondence from sympathizers; correspondence concerning the Societies' publication, 
-                <emph render="italic">Espana Libre</emph>; correspondence directed at American, Spanish, and United Nations officials concerning the treatment of Republican prisoners.</p>
-        </scopecontent>
-        <arrangement id="ref2">
-            <head>Arrangement</head>
-            <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received.</p>
-        </arrangement>
-        <prefercite id="ref10">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Confederated Spanish Societies (Sociedades Hispanas Confederadas) Records; ALBA 160; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <custodhist id="ref8">
-            <head>Custodial History note</head>
-            <p>Tamiment Library does not have any documentation concerning the provenance of this collection, although it is possible that it had previously been donated to the Abraham Lincoln Brigade Archives at Brandeis University and later transferred to Tamiment in 2000. The accession number associated with this colletion is 2001.008.</p>
-        </custodhist>
-        <userestrict id="ref7">
-            <head>Use Restrictions</head>
-            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by the Confederated Spanish Societies are held by the Confederated Spanish Societies. Permission to publish or reproduce materials to which s/he holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting the donor.</p>
-        </userestrict>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>The Confederated Spanish Societies (Sociedades Hispanas Confederadas) was an umbrella organization established during the Spanish Civil War to coordinate fundraising efforts on behalf of Republican factions, often thorugh events like dances, rallies, performances, or soccer matches. Among its supporters were such prominent figures as Albert Einstein, Pablo Casals, Albert Camus, Nancy and Dwight Macdonald, A. Philip Randolph, Ignazio Silone and Victor Reuther.</p>
-        </bioghist>
-        <controlaccess>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Periodicals.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, American.</geogname>
-            <subject source="lcsh">Spain |x History |y Civil War, 1936-1939.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_160">alba_160</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Confederated Spanish Societies (Sociedades Hispanas Confederadas)
+          Records <num>ALBA.160</num></titleproper>
+        <author>Collection processed by Rachel Searcy</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace
+        <date>2017-08-09T16:03:09</date></creation>
+      <langusage>Finding aid is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng"/>
+      </langmaterial>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Confederated Spanish Societies (Sociedades Hispanas Confederadas)
+        Records</unittitle>
+      <origination label="creator">
+        <corpname rules="dacs" source="naf">Sociedades Hispanas Confederadas de los Estados Unidos
+          de Norte America</corpname>
+      </origination>
+      <unitid>ALBA.160</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">in 1 manuscript box</extent>
+      </physdesc>
+      <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
+      <langmaterial id="aspace_658714eb3c6c52e5313034386a899720">Materials are in
+        Spanish.</langmaterial>
+      <abstract id="aspace_a95c8695664b7903f5afcf04ce2f4637">The Confederated Spanish Societies
+        (Sociedades Hispanas Confederadas) was an umbrella organization established during the
+        Spanish Civil War to coordinate fundraising efforts on behalf of Republican factions, often
+        thorugh events like dances, rallies, performances, or soccer matches. This unprocessed
+        collection consists of records from the early 1960s including meeting minutes; publicity
+        materials directed at the American public; correspondence from sympathizers; correspondence
+        concerning the Societies' publication, <emph render="italic">Espana Libre</emph>;
+        correspondence directed at American, Spanish, and United Nations officials concerning the
+        treatment of Republican prisoners.</abstract>
+    </did>
+    <scopecontent id="aspace_d83a132778a261bf2666fec49f85fc6e">
+      <head>Scope and Contents</head>
+      <p>This unprocessed collection consists of records from the early 1960s documenting the work
+        of the Confederated Spanish Societies (Sociedades Hispanas Confederadas) in New York to
+        mobilize support for Republican forces in the Spanish Civil War. Materials include meeting
+        minutes; publicity materials directed at the American public; correspondence from
+        sympathizers; correspondence concerning the Societies' publication, <emph render="italic"
+          >Espana Libre</emph>; correspondence directed at American, Spanish, and United Nations
+        officials concerning the treatment of Republican prisoners.</p>
+    </scopecontent>
+    <arrangement id="aspace_42a52dd323203f45ecc6cff611a80ee9">
+      <head>Arrangement</head>
+      <p>This collection has not been arranged by an archivist. The materials are arranged in the
+        order in which they were received.</p>
+    </arrangement>
+    <prefercite id="aspace_6b22d368d90a5192d960d50d307260ac">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Confederated Spanish Societies (Sociedades Hispanas
+        Confederadas) Records; ALBA 160; box number; folder number; Tamiment Library/Robert F.
+        Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <custodhist id="aspace_3ce3f828876e13e4c82b66bf9bd254bd">
+      <head>Custodial History</head>
+      <p>The collection was donated by the Confederated Spanish Societies to the Abraham Lincoln
+        Brigade Archives, then held at Brandeis University, in 1974. This material was transferred
+        to the Tamiment Library, with the original acquisition of the Abraham Lincoln Brigade
+        Archives collections in January 2001. The accession number associated with this colletion is
+        2001.008.</p>
+    </custodhist>
+    <userestrict id="aspace_1a380f197ff4936050cfc1abfae0eee1">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the
+        Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November
+        2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this
+        collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives.
+        For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <accessrestrict id="aspace_b89ab216857ee71338dbd0226d6e827a">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F.
+        Wagner Labor Archives for more information and to schedule an appointment,
+        tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <bioghist id="aspace_aa3d717d153e878338571333ce0fb352">
+      <head>Historical/Biographical Note</head>
+      <p>The Confederated Spanish Societies (Sociedades Hispanas Confederadas) was an umbrella
+        organization established during the Spanish Civil War to coordinate fundraising efforts on
+        behalf of Republican factions, often thorugh events like dances, rallies, performances, or
+        soccer matches. Among its supporters were such prominent figures as Albert Einstein, Pablo
+        Casals, Albert Camus, Nancy and Dwight Macdonald, A. Philip Randolph, Ignazio Silone and
+        Victor Reuther.</p>
+    </bioghist>
+    <controlaccess>
+      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Periodicals.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation,
+        American.</geogname>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+    </controlaccess>
+    <dsc/>
+  </archdesc>
 </ead>
