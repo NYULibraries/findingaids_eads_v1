@@ -1,221 +1,263 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">alba_133</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Joseph and Leo Gordon Papers
-                    <num>ALBA.133</num>
-                </titleproper>
-                <author>Finding aid prepared by Wendy Scheir</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derived from gordon.doc</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-04-17T11:46-0400</date>
-            </creation>
-            <langusage>Description is in 
-                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>alba_133</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Joseph and Leo Gordon Papers <num>ALBA.133</num></titleproper>
+        <author>Collection processed by Wendy Scheir</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from gordon.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace
+        <date>2017-08-09T14:22:45</date></creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546"
+        >English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng"/>
+      </langmaterial>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Joseph and Leo Gordon Papers</unittitle>
+      <origination label="source">
+        <persname source="naf">Czitrom, Daniel J., 1951-</persname>
+      </origination>
+      <origination label="creator">
+        <persname source="local">Gordon, Leo, 1915-1938</persname>
+      </origination>
+      <origination label="creator">
+        <persname source="local">Gordon, Joseph, 1914-1942</persname>
+      </origination>
+      <unitid>ALBA.133</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate normal="1931/1939" type="inclusive">1931-1939</unitdate>
+      <abstract id="aspace_109b4098300c2e09931120bdaf1fe906">Joseph Gordon (1914-1942) and Leo
+        Gordon (1915-1938), brothers raised in Brooklyn, New York, joined the International Brigades
+        in Spain in 1936 and 1937, respectively. Leo was killed in action. Joe later joined the
+        Merchant Marines and was killed when his ship was torpedoed in the North Atlantic. The
+        collection is primarily comprised of letters from Leo and Joe during their time in Spain, as
+        well as letters written while they were traveling and working odd jobs around the U.S. in
+        the early 1930s.</abstract>
+    </did>
+    <custodhist id="aspace_da1c2e2505cf4b594c94f2a1f5f1fa96">
+      <head>Provenance</head>
+      <p>The Joseph and Leo Gordon Collection was donated to Abraham Lincoln Brigade Archives in
+        1998 by Daniel Czitrom. This collection came to New York University in January 2001 as part
+        of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
+    </custodhist>
+    <accessrestrict id="aspace_e874c2f732eaeec70621523e32be3abf">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F.
+        Wagner Labor Archives for more information and to schedule an appointment,
+        tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <bioghist id="aspace_c839ccc50a1cc1c2b13971c8b55d9ab5">
+      <head>Historical/Biographical Note</head>
+      <p>Born Joseph and Leo Mendelowitz in 1914 and 1915, respectively, Joe and Leo Gordon were the
+        sons of Eastern European immigrants, and were raised in the Williamsburg section of
+        Brooklyn. In 1931, soon after their mother died, Joe left home to find work. He hopped
+        freight trains and hitchhiked his way across the country, landing in San Francisco. Leo soon
+        joined Joe out west. The brothers traveled together, working odd jobs in Arizona, New
+        Mexico, Texas, and Louisiana. For a time, Joe had hopes of becoming a professional boxer in
+        New Orleans. Eventually, Joe and Leo went to work for the Civilian Conservation Corps (CCC)
+        in Tennessee, Idaho, and Wyoming. It was during this period that the brothers became
+        politically radicalized, and around this time they adopted the last name Gordon (Joe refers
+        to it in a letter as their "red name"). Joe began to organize cannery workers in San Diego,
+        quickly rising to a leadership role in the union. In 1935, he was beaten up by the San Diego
+        Police and kicked out of the city.</p>
+      <p>In December 1936 when he was 22, Joe Gordon sailed to France and hiked over the Pyrenees
+        into Spain to join the International Brigades in the Spanish Civil War. He was soon on the
+        front line in the Jarama Valley, where he made a name for himself as a tough and courageous
+        fighter. A sniper shot to the forehead in February 1937 injured him in the eye, but after a
+        short hospitalization Joe rejoined the Lincoln Battalion in the Brunete offensive. He was
+        group leader in the infantry when he was wounded in his leg and sent back to the States to
+        recuperate.</p>
+      <p>Leo Gordon left for Spain in July or August of 1937, and joined the Canadian
+        Mackenzie-Papineau Battalion. He quickly achieved the rank of lieutenant in command of a
+        machine gun company. Leo fought at Fuentes de Ebro and the battle of Teruel, where he was
+        wounded in the face by shrapnel fragments. In March 1938 he was leading a mission to enable
+        the Republican retreat by thwarting the fascist advance when he was killed in action.</p>
+      <p>Joe Gordon returned to Spain in June 1938, in part to search for his brother, who had thus
+        far only been reported missing. Joe continued to fight with the International Brigades until
+        they were evacuated from Spain. He returned to the States in December 1938.</p>
+      <p>Back in New York, Gordon remained politically active as an organizer for the Communist
+        Party, while making his living as a furrier. In 1942, he joined the Merchant Marines. His
+        ship was torpedoed while delivering supplies to the Soviet Union on the Murmansk run, and
+        Joe was killed.</p>
+      <p>Sources:</p>
+      <p><list>
+          <item>Daniel Czitrom, Introduction, "Volunteers for Liberty: Letters from Joe and Leo
+            Gordon, Americans in Spain, 1937-38," in Massachusetts Review 25 (Fall 1984).</item>
+        </list>
+      </p>
+    </bioghist>
+    <scopecontent id="aspace_d95e90d7f631ec3147961b91e53e10e6">
+      <head>Scope and Content Note</head>
+      <p><emph render="bold">Series I, Spanish Civil War (1937-1939)</emph>primarily consists of
+        letters from Leo and Joe Gordon to various family members about daily life, politics, and
+        battle experiences. All of Joe's letters date from his second trip to Spain, after Leo's
+        death. There are also newspaper articles related to the Spanish Civil War, a border pass and
+        military passport (Carnet militar) for Joe.</p>
+      <p><emph render="bold">Series II, Correspondence and Clipping (1931-1935)</emph>is almost
+        entirely comprised of letters written to family by Joe and Leo during their travels around
+        the United States in the early 1930s.</p>
+      <p>Letters addressed to "Gus" are to Gussie Moskowitz, a cousin of the Gordons who worked in
+        the garment industry and was involved in activist politics. In some letters Leo refers to
+        Joe by his nickname, "Chosie."</p>
+    </scopecontent>
+    <arrangement id="aspace_0d12dc68f9288959822f45fffd9fce4d">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically within each series.</p>
+      <p>The files are grouped into two series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Spanish Civil War (1937-1939)</item>
+        <item>II, Correspondence and Clipping (1931-1935)</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_11217656577889fd8d1f07532a1d1f89">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>ALBA collections at the Tamiment Library.</p>
+    </relatedmaterial>
+    <userestrict id="aspace_65714302bc0e318c76b7a3a752ec9555">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the
+        Abraham Lincoln Brigade Archives (ALBA), were transferred to New York University in November
+        2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this
+        collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives.
+        For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <prefercite id="aspace_3c877ad9774d476c44b7f9e323ad10b5">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date;
+        Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert
+        F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South
+        <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <geogname source="lcsh">Jarama River Valley (Spain)</geogname>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation,
+        American.</geogname>
+      <subject source="lcsh">Brunete, Battle of, Brunete, Spain, 1937.</subject>
+      <genreform source="aat">Printed ephemera.</genreform>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal
+        narratives.</geogname>
+      <genreform source="lcsh">Correspondence.</genreform>
+      <corpname source="local">Spain. Ejército Popular de la República. Brigada Internacional,
+        XV--Biography</corpname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. Brigada Internacional,
+        XV</corpname>
+      <persname source="local">Gordon, Leo, 1915-1938</persname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. Abraham Lincoln
+        Battalion</corpname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. MacKenzie-Papineau
+        Battalion</corpname>
+      <persname role="fmo" source="naf">Czitrom, Daniel J., 1951-</persname>
+      <persname source="local">Gordon, Joseph, 1914-1942</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
         <did>
-            <unittitle>Joseph and Leo Gordon Papers</unittitle>
-            <unitid>ALBA.133</unitid>
-            <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate normal="1931/1939" type="inclusive">1931-1939</unitdate>
-            <abstract id="ref3" label="Abstract">Joseph Gordon (1914-1942) and Leo Gordon (1915-1938), brothers raised in Brooklyn, New York, joined the International Brigades in Spain in 1936 and 1937, respectively. Leo was killed in action. Joe later joined the Merchant Marines and was killed when his ship was torpedoed in the North Atlantic. The collection is primarily comprised of letters from Leo and Joe during their time in Spain, as well as letters written while they were traveling and working odd jobs around the U.S. in the early 1930s.</abstract>
-            <origination label="creator">
-                <persname source="local">Gordon, Joseph, 1914-1942</persname>
-            </origination>
-            <origination label="creator">
-                <persname source="local">Gordon, Leo, 1915-1938</persname>
-            </origination>
+          <unittitle>Series I: Spanish Civil War (1937-1939)</unittitle>
         </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>The Joseph and Leo Gordon Collection was donated to Abraham Lincoln Brigade Archives in 1998 by Daniel Czitrom. This collection came to New York University in January 2001 as part of the original acquisition of ALBA collections, formerly housed at Brandeis University.</p>
-        </custodhist>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <bioghist id="ref8">
-            <head>Historical/Biographical Note</head>
-            <p>Born Joseph and Leo Mendelowitz in 1914 and 1915, respectively, Joe and Leo Gordon were the sons of Eastern European immigrants, and were raised in the Williamsburg section of Brooklyn. In 1931, soon after their mother died, Joe left home to find work. He hopped freight trains and hitchhiked his way across the country, landing in San Francisco. Leo soon joined Joe out west. The brothers traveled together, working odd jobs in Arizona, New Mexico, Texas, and Louisiana. For a time, Joe had hopes of becoming a professional boxer in New Orleans. Eventually, Joe and Leo went to work for the Civilian Conservation Corps (CCC) in Tennessee, Idaho, and Wyoming. It was during this period that the brothers became politically radicalized, and around this time they adopted the last name Gordon (Joe refers to it in a letter as their "red name"). Joe began to organize cannery workers in San Diego, quickly rising to a leadership role in the union. In 1935, he was beaten up by the San Diego Police and kicked out of the city.</p>
-            <p>In December 1936 when he was 22, Joe Gordon sailed to France and hiked over the Pyrenees into Spain to join the International Brigades in the Spanish Civil War. He was soon on the front line in the Jarama Valley, where he made a name for himself as a tough and courageous fighter. A sniper shot to the forehead in February 1937 injured him in the eye, but after a short hospitalization Joe rejoined the Lincoln Battalion in the Brunete offensive. He was group leader in the infantry when he was wounded in his leg and sent back to the States to recuperate.</p>
-            <p>Leo Gordon left for Spain in July or August of 1937, and joined the Canadian Mackenzie-Papineau Battalion. He quickly achieved the rank of lieutenant in command of a machine gun company. Leo fought at Fuentes de Ebro and the battle of Teruel, where he was wounded in the face by shrapnel fragments. In March 1938 he was leading a mission to enable the Republican retreat by thwarting the fascist advance when he was killed in action.</p>
-            <p>Joe Gordon returned to Spain in June 1938, in part to search for his brother, who had thus far only been reported missing. Joe continued to fight with the International Brigades until they were evacuated from Spain. He returned to the States in December 1938.</p>
-            <p>Back in New York, Gordon remained politically active as an organizer for the Communist Party, while making his living as a furrier. In 1942, he joined the Merchant Marines. His ship was torpedoed while delivering supplies to the Soviet Union on the Murmansk run, and Joe was killed.</p>
-            <p>Sources:</p>
-            <p>
-                <list>
-                    <item>Daniel Czitrom, Introduction, "Volunteers for Liberty: Letters from Joe and Leo Gordon, Americans in Spain, 1937-38," in Massachusetts Review 25 (Fall 1984).</item>
-                </list></p>
-        </bioghist>
-        <scopecontent id="ref9">
-            <head>Scope and Content Note</head>
-            <p>
-                <emph render="bold">Series I, Spanish Civil War (1937-1939)</emph>primarily consists of letters from Leo and Joe Gordon to various family members about daily life, politics, and battle experiences. All of Joe's letters date from his second trip to Spain, after Leo's death. There are also newspaper articles related to the Spanish Civil War, a border pass and military passport (Carnet militar) for Joe.</p>
-            <p>
-                <emph render="bold">Series II, Correspondence and Clipping (1931-1935)</emph>is almost entirely comprised of letters written to family by Joe and Leo during their travels around the United States in the early 1930s.</p>
-            <p>Letters addressed to "Gus" are to Gussie Moskowitz, a cousin of the Gordons who worked in the garment industry and was involved in activist politics. In some letters Leo refers to Joe by his nickname, "Chosie."</p>
-        </scopecontent>
-        <arrangement id="ref10">
-            <head>Arrangement</head>
-            <p>Folders are arranged alphabetically within each series.</p>
-            <p>The files are grouped into two series:</p>
-            <list type="ordered">
-                <item>I, Spanish Civil War (1937-1939)</item>
-                <item>II, Correspondence and Clipping (1931-1935)</item>
-            </list>
-        </arrangement>
-        <relatedmaterial id="ref13">
-            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>ALBA collections at the Tamiment Library.</p>
-        </relatedmaterial>
-        <userestrict id="ref24">
-            <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: gail.malmgreen@nyu.edu 
-                <lb/></p>
-        </userestrict>
-        <prefercite id="ref25">
-            <head>Preferred Citation</head>
-            <p>Published citations should take the following form: 
-                <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
-                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/>Elmer Holmes Bobst Library 
-                <lb/>70 Washington Square South 
-                <lb/>New York, NY 10012, New York University Libraries.</p>
-        </prefercite>
-        <controlaccess>
-            <persname source="ingest">Czitrom, Daniel</persname>
-            <persname source="local">Gordon, Joseph, 1914-1942</persname>
-            <persname source="local">Gordon, Leo, 1915-1938</persname>
-            <corpname source="naf">Spain. Ejercito Popular de la Republica. Abraham Lincoln Battalion.</corpname>
-            <corpname source="naf">Spain. Ejercito Popular de la Republica. Brigada Internacional, XV.</corpname>
-            <corpname source="naf">Spain. Ejercito Popular de la Republica. MacKenzie-Papineau Battalion.</corpname>
-            <corpname source="local">Spain. Ejército Popular de la República. Brigada Internacional, XV--Biography.</corpname>
-            <subject source="lcsh">Brunete, Battle of, Brunete, Spain, 1937.</subject>
-            <genreform source="aat">Clippings (information artifacts).</genreform>
-            <genreform source="aat">Correspondence.</genreform>
-            <genreform source="aat">Ephemera.</genreform>
-            <geogname source="lcsh">Jarama River Valley (Spain)</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Personal narratives.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, American.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939.</geogname>
-        </controlaccess>
-        <dsc>
-            <c01 id="ref14" level="series">
-                <did>
-                    <unittitle>Series I: Spanish Civil War (1937-1939)</unittitle>
-                    <langmaterial>
-                        <language langcode="eng"/>
-                    </langmaterial>
-                </did>
-                <c02 id="ref15" level="file">
-                    <did>
-                        <unittitle>Carnet militar and border pass</unittitle>
-                        <container id="cid67603" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid67603" type="Folder">1</container>
-                        <unitdate normal="1937/1938" type="inclusive">1937 , 1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref16" level="file">
-                    <did>
-                        <unittitle>Clippings</unittitle>
-                        <container id="cid67602" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid67602" type="Folder">2</container>
-                        <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref17" level="file">
-                    <did>
-                        <unittitle>Correspondence: Gordon, Joe</unittitle>
-                        <container id="cid67601" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid67601" type="Folder">3</container>
-                        <unitdate>Jun 1938-Sep 1938</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref18" level="file">
-                    <did>
-                        <unittitle>Correspondence: Gordon, Leo</unittitle>
-                        <container id="cid67600" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid67600" type="Folder">4</container>
-                        <unitdate>Aug 1937-Feb 1938</unitdate>
-                    </did>
-                </c02>
-            </c01>
-            <c01 id="ref19" level="series">
-                <did>
-                    <unittitle>Series II: Correspondence and Clipping (1931-1935)</unittitle>
-                    <langmaterial>
-                        <language langcode="eng"/>
-                    </langmaterial>
-                </did>
-                <c02 id="ref20" level="file">
-                    <did>
-                        <unittitle>Clipping</unittitle>
-                        <container id="cid67599" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid67599" type="Folder">5</container>
-                        <unitdate normal="1922/1942" type="inclusive">ca.1932</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref21" level="file">
-                    <did>
-                        <unittitle>Correspondence: Gordon, Joe</unittitle>
-                        <container id="cid67598" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid67598" type="Folder">6</container>
-                        <unitdate normal="1935/1935">1935</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref22" level="file">
-                    <did>
-                        <unittitle>Correspondence: Gordon, Leo</unittitle>
-                        <container id="cid67597" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid67597" type="Folder">7</container>
-                        <unitdate normal="1931/1939" type="inclusive">undated , Sep 1931-Jan 1934; 1937</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref23" level="file">
-                    <did>
-                        <unittitle>Correspondence: Gordon, Leo and Joe</unittitle>
-                        <container id="cid67596" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid67596" type="Folder">8</container>
-                        <unitdate>Dec 1931-Feb 1932</unitdate>
-                    </did>
-                </c02>
-            </c01>
-        </dsc>
-    </archdesc>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Carnet militar and border pass</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937 , 1938</unitdate>
+            <container id="aspace_070324a896fc0f6676226243dd041654" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_070324a896fc0f6676226243dd041654" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
+            <container id="aspace_7e3d4a7835f0d57bce7cc407adf36f03" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_7e3d4a7835f0d57bce7cc407adf36f03" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Correspondence: Gordon, Joe</unittitle>
+            <unitdate type="inclusive">Jun 1938-Sep 1938</unitdate>
+            <container id="aspace_30bb3050b464b86e8f0b3fd607486848" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_30bb3050b464b86e8f0b3fd607486848" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Correspondence: Gordon, Leo</unittitle>
+            <unitdate type="inclusive">Aug 1937-Feb 1938</unitdate>
+            <container id="aspace_54cf4b7318b158bd269218cfc4498c87" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_54cf4b7318b158bd269218cfc4498c87" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref19" level="series">
+        <did>
+          <unittitle>Series II: Correspondence and Clipping (1931-1935)</unittitle>
+        </did>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Clipping</unittitle>
+            <unitdate normal="1922/1942" type="inclusive">ca.1932</unitdate>
+            <container id="aspace_63f4dd354b80ccab563cc70afe026ba6" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_63f4dd354b80ccab563cc70afe026ba6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Correspondence: Gordon, Joe</unittitle>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_9126d352c6d68e28e2361d8e5f0b8e4a" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_9126d352c6d68e28e2361d8e5f0b8e4a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Correspondence: Gordon, Leo</unittitle>
+            <unitdate normal="1931/1939" type="inclusive">undated , Sep 1931-Jan 1934;
+              1937</unitdate>
+            <container id="aspace_5a951d618e5d3f3c38ea3e212dc5a71a" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_5a951d618e5d3f3c38ea3e212dc5a71a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Correspondence: Gordon, Leo and Joe</unittitle>
+            <unitdate type="inclusive">Dec 1931-Feb 1932</unitdate>
+            <container id="aspace_038a208c9e7bfedd4785aa652414fc04" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_038a208c9e7bfedd4785aa652414fc04" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
