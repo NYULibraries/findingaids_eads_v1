@@ -1,138 +1,151 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">alba_206</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the John M. Lucid Papers
-                    <num>ALBA.206</num>
-                </titleproper>
-                <author>Finding aid prepared by Wendy Scheir</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derived from lucid.doc</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-04-17T11:58-0400</date>
-            </creation>
-            <langusage>Description is in 
-                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>alba_206</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the John M. Lucid Papers <num>ALBA.206</num></titleproper>
+        <author>Collection processed by Wendy Scheir</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from lucid.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace
+        <date>2017-08-10T20:13:16</date></creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546"
+        >English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng"/>
+      </langmaterial>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>John M. Lucid Papers</unittitle>
+      <origination label="creator">
+        <persname source="local">Lucid, John M., 1915-1977</persname>
+      </origination>
+      <unitid>ALBA.206</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+      <abstract id="aspace_ff7934ee1438ff9139b5ec3d9a6c91c5">John Michael Lucid (1915-1977) fought
+        with the International Brigades in the Spanish Civil War from February 1937 through December
+        1938. Lucid joined the U.S. Army in 1942, and was stationed in the U.S., North Africa, and
+        Italy. The collection consists of letters from Lucid to another Spanish Civil War veteran
+        written while Lucid was in the Army.</abstract>
+    </did>
+    <custodhist id="aspace_e725f4dd54fdfd3407da300658cddcce">
+      <head>Provenance</head>
+      <p>The John M. Lucid Papers were donated to Abraham Lincoln Brigade Archives at New York
+        University in March 2003.</p>
+    </custodhist>
+    <accessrestrict id="aspace_ec041f3fbac2f53f5e82dd50fc89ac85">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F.
+        Wagner Labor Archives for more information and to schedule an appointment,
+        tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <bioghist id="aspace_5bd47ab94ec38adb2fdb19dc204adbd7">
+      <head>Historical/Biographical Note</head>
+      <p>John Michael Lucid (nicknamed Jack) was born in Everett, Washington in 1915. Before joining
+        the International Brigades in the Spanish Civil War, Lucid earned his B.A., studying
+        literature, journalism and history. He worked in food canning factories in Mexico and Alaska
+        and as a railway technician, among other jobs. A member of the Newspaper Guild and the
+        Communist Party, Lucid aspired to become a reporter for a left-wing publication.</p>
+      <p>Lucid sailed to France in February 1937 and hiked over the Pyrenees into Spain. After
+        training he was assigned to the British Battalion as an anti-aircraft and anti-tank
+        observer. He saw action in the battles of Ebro and Gandesa, where he was put in charge of a
+        trench-mortar unit, and was hospitalized briefly in March 1937. He returned on the S.S.
+        Paris in December 1938 when the International Brigades were evacuated out of Spain.</p>
+      <p>Lucid joined the U.S. Army in October 1942. Although he wanted to be sent overseas to join
+        a combat unit, for months he was shuffled from U.S. base to U.S. base performing menial
+        tasks. Finally he shipped out to North Africa and fought with the Rangers in Italy, where he
+        won a Silver Star.</p>
+      <p>Lucid died in 1977.</p>
+    </bioghist>
+    <scopecontent id="aspace_7435039adf410983870403c7b05a5788">
+      <head>Scope and Content Note</head>
+      <p><emph render="bold">Series I, World War II Letters</emph>consists of five letters and one
+        greeting card ("Greetings from Italy") from Lucid to Spanish Civil War veteran Archie Brown
+        and/or to Brown's wife, "Hon," during Lucid's first months in the Army. One letter is from
+        North Africa and the others from various army bases in the U.S. In his U.S. letters Lucid
+        expresses frustration and the belief that he and other Spanish Civil War veterans were being
+        sidelined, kept from active combat participation in World War II because of their political
+        views.</p>
+    </scopecontent>
+    <arrangement id="aspace_16eb3241c520d5c33435bb823096553c">
+      <head>Arrangement</head>
+      <p>Folders are arranged chronologically.</p>
+      <p>The files are grouped into one series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, World War II Letters</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_0a4edd3894811f52e0e2871803f274a1">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>ALBA collections at the Tamiment Library.</p>
+      <p><extref
+          href="http://dlib.nyu.edu/eadapp/transform?source=tamwag/brown.xml&amp;style=tamwag/tamwag.xsl"
+          >Archie Brown Papers (ALBA #207) contains V-Mail from Lucid dating from the same period as
+          the letters in this collection.</extref></p>
+    </relatedmaterial>
+    <userestrict id="aspace_6129c80ee4ebf6047697681c1fa73147">
+      <head>Use Restrictions</head>
+      <p>The Tamiment Library &amp; Robert F. Wagner Labor Archives has no information about
+        copyright ownership for this collection and is not authorized to grant permission to publish
+        or reproduce materials from it. Copyrights held by original creators of individual items in
+        the collection are expected to pass into the public domain 70 years after the creator’s
+        death. For more information, please contact the Tamiment Library &amp; Robert F. Wagner
+        Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <prefercite id="aspace_c98d4d636c4eadb0c152d421da1b75fe">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date;
+        Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert
+        F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South
+        <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation,
+        American.</geogname>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <genreform source="lcsh">Correspondence.</genreform>
+      <persname source="local">Lucid, John M., 1915-1977</persname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. Brigada Internacional,
+        XV</corpname>
+      <corpname source="naf">Spain. Ejercito Popular de la Republica. Abraham Lincoln
+        Battalion</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
         <did>
-            <unittitle>John M. Lucid Papers</unittitle>
-            <unitid>ALBA.206</unitid>
-            <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
-            <abstract id="ref3" label="Abstract">John Michael Lucid (1915-1977) fought with the International Brigades in the Spanish Civil War from February 1937 through December 1938. Lucid joined the U.S. Army in 1942, and was stationed in the U.S., North Africa, and Italy. The collection consists of letters from Lucid to another Spanish Civil War veteran written while Lucid was in the Army.</abstract>
-            <origination label="creator">
-                <persname source="local">Lucid, John M., 1915-1977</persname>
-            </origination>
+          <unittitle>Series I: World War II Letters</unittitle>
         </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>The John M. Lucid Papers were donated to Abraham Lincoln Brigade Archives at New York University in March 2003.</p>
-        </custodhist>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <bioghist id="ref8">
-            <head>Historical/Biographical Note</head>
-            <p>John Michael Lucid (nicknamed Jack) was born in Everett, Washington in 1915. Before joining the International Brigades in the Spanish Civil War, Lucid earned his B.A., studying literature, journalism and history. He worked in food canning factories in Mexico and Alaska and as a railway technician, among other jobs. A member of the Newspaper Guild and the Communist Party, Lucid aspired to become a reporter for a left-wing publication.</p>
-            <p>Lucid sailed to France in February 1937 and hiked over the Pyrenees into Spain. After training he was assigned to the British Battalion as an anti-aircraft and anti-tank observer. He saw action in the battles of Ebro and Gandesa, where he was put in charge of a trench-mortar unit, and was hospitalized briefly in March 1937. He returned on the S.S. Paris in December 1938 when the International Brigades were evacuated out of Spain.</p>
-            <p>Lucid joined the U.S. Army in October 1942. Although he wanted to be sent overseas to join a combat unit, for months he was shuffled from U.S. base to U.S. base performing menial tasks. Finally he shipped out to North Africa and fought with the Rangers in Italy, where he won a Silver Star.</p>
-            <p>Lucid died in 1977.</p>
-        </bioghist>
-        <scopecontent id="ref9">
-            <head>Scope and Content Note</head>
-            <p>
-                <emph render="bold">Series I, World War II Letters</emph>consists of five letters and one greeting card ("Greetings from Italy") from Lucid to Spanish Civil War veteran Archie Brown and/or to Brown's wife, "Hon," during Lucid's first months in the Army. One letter is from North Africa and the others from various army bases in the U.S. In his U.S. letters Lucid expresses frustration and the belief that he and other Spanish Civil War veterans were being sidelined, kept from active combat participation in World War II because of their political views.</p>
-        </scopecontent>
-        <arrangement id="ref10">
-            <head>Arrangement</head>
-            <p>Folders are arranged chronologically.</p>
-            <p>The files are grouped into one series:</p>
-            <list type="ordered">
-                <item>I, World War II Letters</item>
-            </list>
-        </arrangement>
-        <relatedmaterial id="ref13">
-            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>ALBA collections at the Tamiment Library.</p>
-            <p>
-                <archref>
-                    <extref ns2:href="http://dlib.nyu.edu/eadapp/transform?source=tamwag/brown.xml&amp;style=tamwag/tamwag.xsl">Archie Brown Papers (ALBA #207) contains V-Mail from Lucid dating from the same period as the letters in this collection.</extref> </archref></p>
-        </relatedmaterial>
-        <userestrict id="ref16">
-            <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: gail.malmgreen@nyu.edu 
-                <lb/></p>
-        </userestrict>
-        <prefercite id="ref17">
-            <head>Preferred Citation</head>
-            <p>Published citations should take the following form: 
-                <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
-                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/>Elmer Holmes Bobst Library 
-                <lb/>70 Washington Square South 
-                <lb/>New York, NY 10012, New York University Libraries.</p>
-        </prefercite>
-        <controlaccess>
-            <persname source="local">Lucid, John M., 1915-1977</persname>
-            <corpname source="naf">Spain. Ejercito Popular de la Republica. Abraham Lincoln Battalion.</corpname>
-            <corpname source="naf">Spain. Ejercito Popular de la Republica. Brigada Internacional, XV.</corpname>
-            <genreform source="aat">Correspondence.</genreform>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, American.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939.</geogname>
-        </controlaccess>
-        <dsc>
-            <c01 id="ref14" level="series">
-                <did>
-                    <unittitle>Series I: World War II Letters</unittitle>
-                    <langmaterial>
-                        <language langcode="eng"/>
-                    </langmaterial>
-                </did>
-                <c02 id="ref15" level="file">
-                    <did>
-                        <unittitle>Correspondence: Lucid, John to Archie Brown and/or "Hon" Brown</unittitle>
-                        <container id="cid85704" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid85704" type="Folder">1</container>
-                        <unitdate>Oct 1942-Dec 1943</unitdate>
-                    </did>
-                </c02>
-            </c01>
-        </dsc>
-    </archdesc>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Correspondence: Lucid, John to Archie Brown and/or "Hon" Brown</unittitle>
+            <unitdate type="inclusive">Oct 1942-Dec 1943</unitdate>
+            <container id="aspace_8fe9e4fd9e12d548b0978ff6306492e1" label="Mixed Materials"
+              type="Box">1</container>
+            <container parent="aspace_8fe9e4fd9e12d548b0978ff6306492e1" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
