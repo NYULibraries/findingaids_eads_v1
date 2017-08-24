@@ -1,396 +1,529 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">alba_audio_004</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Carl Geiser Audio Collection
-                    <num>ALBA.AUDIO.004</num>
-                </titleproper>
-                <author>Finding aid prepared by Jenny Pondo and Gail Malmgreen, 2010</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-05-07T09:21-0400</date>
-            </creation>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>alba_audio_004</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Carl Geiser Audio Collection
+          <num>ALBA.AUDIO.004</num></titleproper>
+        <author>Collection processed by Jenny Pondo and Gail Malmgreen, 2010</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace
+        <date>2017-08-24T16:43:18</date></creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng"/>
+      </langmaterial>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Carl Geiser Audio Collection</unittitle>
+      <origination label="creator">
+        <persname source="naf">Geiser, Carl</persname>
+      </origination>
+      <unitid>ALBA.AUDIO.004</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">(35 audiocassettes)</extent>
+      </physdesc>
+      <unitdate normal="1977/1986" type="inclusive">1977-1986</unitdate>
+      <abstract id="aspace_47a644a6ee9dfff894a046a781356f49">Carl Frederick Geiser was born in
+        Orrville, Ohio on December 10, 1910. He fought with the International Brigades in the
+        Spanish Civil War as a member of the Abraham Lincoln Brigade and was taken prisoner and held
+        in a fascist prisoner of war camp for a year before being released in April 1939. After a
+        successful career as an aeronautical engineer, he retired in 1971 and began to research and
+        write a history of American volunteers captured during the Spanish Civil War. His labors
+        resulted in the publication of <emph render="bolditalic">Prisoners of the Good Fight: The
+          Spanish Civil War 1936-1939</emph> in 1986. This collection consists of 35 audiocassettes,
+        most of them interviews with former prisoners conducted as part of the research for Geiser's
+        book. Also included are some taped "reflections" by Geiser in trips to Cuba and
+        Spain.</abstract>
+    </did>
+    <accessrestrict id="aspace_3beb1b493a718305aa25b14b5a4125c0">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F.
+        Wagner Labor Archives for more information and to schedule an appointment,
+        tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <relatedmaterial id="aspace_bab286307dc31ad27ee09634de794323">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Carl Geiser Papers (ALBA 004) ALBA Vertical Files: Individuals (ALBA VF 2) Robert Steck
+        Audio Collection (ALBA AUDIO 104) Robert Steck Papers (ALBA 104) Randall Smith: Veterans of
+        the Abraham Lincoln Brigade Historical Commission Records (ALBA 003)</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_497bd70c4bc778b7a1d3e5f7ce692c40">
+      <head>Scope and Content Note</head>
+      <p>Most of the 35 tapes in this collection contain interviews, comments and discussions
+        recorded in the 1970s and 80s in connection with research for Carl Geiser's book, <emph
+          render="italic">Prisoners of the Good Fight</emph>. Also included are Geiser's taped
+        "reflections' on the Spanish Civil War and on a trip to Cuba.</p>
+    </scopecontent>
+    <bioghist id="aspace_69db8c65ca4598a32b15bc2caf62544f">
+      <head>Historical/Biographical Note</head>
+      <p>Carl Frederick Geiser was born in Orrville, Ohio on December 10, 1910. He was the oldest of
+        six children; his father, a farmer, died in the influenza epidemic at the end of World War
+        I, and his mother a year later of tuberculosis. His maternal grandparents, Swiss immigrants
+        who spoke little English, raised Geiser and his siblings. The young Geiser received his
+        primary education in a one-room schoolhouse while helping to tend the family's sixteen-acre
+        farm. Upon his graduation from Orrville High School in 1928, he enrolled in the YMCA School
+        of Technology (later Fenn College) in Cleveland, where he majored in electrical
+        engineering.</p>
+      <p>In 1932, following the establishment of diplomatic relations between the United States and
+        the Soviet Union, Geiser was part of the first National Student Federation mission to travel
+        to the newly recognized country. Impressed by the Soviet system and the tenets of socialist
+        ideology, Geiser joined the Young Communist League on his return to Ohio. He was active in
+        the American Student Union in Cleveland and served as a delegate to the First Student
+        Congress Against War and Fascism held in Chicago. It was there that Geiser met his future
+        wife Sylvia, a teacher and organizer who shared his political fervor. The couple moved to
+        New York where they were absorbed into a dynamic culture of political activism and
+        organizing. Geiser wrote press releases and edited International Labor Defense bulletins,
+        organized for the League against War and Fascism, and in 1936 was elected to the National
+        Committee of the Young Communist League.</p>
+      <p>On April 13, 1937 Geiser boarded the S.S. Georgic to join the International Brigades
+        massing in defense of the Spanish Republic. He served as an ammunition carrier at the Battle
+        of Brunete, saw action at Quinto, and advanced to the rank of Lieutenant and then Political
+        Commissar. Wounded at the conflict at Fuentes de Ebro, Geiser was hospitalized for three
+        months. Returned to the front as Commissar of the Mackenzie-Papineau Battalion in January
+        1938, he was captured by fascist forces on April 1, 1938. For the next year, he was interned
+        at San Pedro de Cardeña, along with over 650 International Brigades prisoners. Through the
+        efforts of the Friends of the Abraham Lincoln Brigade and the U.S. State Department, Geiser
+        and a group of 71 Americans were released in April 1939.</p>
+      <p>Geiser returned to New York and secured an engineering position with Liquidometer, a
+        manufacturer of aeronautic equipment. By the early 1970s, Geiser turned his attention once
+        more to Spain. Upon retirement at age 71, Geiser began to write a comprehensive history of
+        American volunteers captured during the Spanish Civil War. With the assistance of fellow
+        prisoner Robert Steck, Geiser amassed biographical information on the 120 Americans
+        incarcerated in Spanish prisons. He also corresponded with over 150 veterans worldwide to
+        solicit their reminiscences, and traveled to archives in the United States and Europe to
+        conduct research. Five years of research and writing culminated in the publication of <emph
+          render="italic">Prisoners of the Good Fight</emph> (Lawrence Hill and Co., 1986).</p>
+    </bioghist>
+    <userestrict id="aspace_f160f57bf76fd2508b4688e149f55f29">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the
+        Abraham Lincoln Brigade Archives (ALBA) were transferred to New York University in November
+        2000 by the ALBA Board of Governors. Permission to publish or reproduce materials in this
+        collection must be secured from the Tamiment Library &amp; Robert F. Wagner Labor Archives.
+        For more information, contact tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <phystech id="aspace_67dbbee44109741167328ad850d68768">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Digital access copies for audiovisual materials may be available by appointment for reading
+        room viewing and listening only. Please contact the Tamiment Library &amp; Robert F. Wagner
+        Labor Archives for more information, to request digitization of materials, and to schedule
+        an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </phystech>
+    <controlaccess>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Personal
+        narratives.</geogname>
+      <genreform source="aat">Audiocassettes.</genreform>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Prisoners and
+        prisons.</geogname>
+      <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln
+        Battalion</corpname>
+      <persname source="naf">Geiser, Carl</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="item">
         <did>
-            <unittitle>Carl Geiser Audio Collection</unittitle>
-            <unitid>ALBA.AUDIO.004</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>2.0 linear feet</extent>
-                <extent>(35 audiocassettes)</extent>
-            </physdesc>
-            <unitdate normal="1977/1986" type="inclusive">1977-1986</unitdate>
-            <abstract id="ref40" label="Abstract">Carl Frederick Geiser was born in Orrville, Ohio on December 10, 1910. He fought with the International Brigades in the Spanish Civil War as a member of the Abraham Lincoln Brigade and was taken prisoner and held in a fascist prisoner of war camp for a year before being released in April 1939. After a successful career as an aeronautical engineer, he retired in 1971 and began to research and write a history of American volunteers captured during the Spanish Civil War. His labors resulted in the publication of 
-                <emph render="bolditalic">Prisoners of the Good Fight: The Spanish Civil War 1936-1939</emph> in 1986. This collection consists of 35 audiocassettes, most of them interviews with former prisoners conducted as part of the research for Geiser's book. Also included are some taped "reflections" by Geiser in trips to Cuba and Spain.</abstract>
-            <origination label="creator">
-                <persname source="naf">Geiser, Carl</persname>
-            </origination>
+          <unittitle>Alexander, William</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_7a63cd3816af9e27e5ea12778f7d29e8" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_7a63cd3816af9e27e5ea12778f7d29e8" type="Cassette">004-
+            001</container>
         </did>
-        <accessrestrict id="ref38">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <relatedmaterial id="ref39">
-            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>Carl Geiser Papers (ALBA 004) ALBA Vertical Files: Individuals (ALBA VF 2) Robert Steck Audio Collection (ALBA AUDIO 104) Robert Steck Papers (ALBA 104) Randall Smith: Veterans of the Abraham Lincoln Brigade Historical Commission Records (ALBA 003)</p>
-        </relatedmaterial>
-        <scopecontent id="ref43">
-            <head>Scope and Content Note</head>
-            <p>Most of the 35 tapes in this collection contain interviews, comments and discussions recorded in the 1970s and 80s in connection with research for Carl Geiser's book, 
-                <emph render="italic">Prisoners of the Good Fight</emph>. Also included are Geiser's taped "reflections' on the Spanish Civil War and on a trip to Cuba.</p>
-        </scopecontent>
-        <bioghist id="ref41">
-            <head>Historical/Biographical Note</head>
-            <p>Carl Frederick Geiser was born in Orrville, Ohio on December 10, 1910. He was the oldest of six children; his father, a farmer, died in the influenza epidemic at the end of World War I, and his mother a year later of tuberculosis. His maternal grandparents, Swiss immigrants who spoke little English, raised Geiser and his siblings. The young Geiser received his primary education in a one-room schoolhouse while helping to tend the family's sixteen-acre farm. Upon his graduation from Orrville High School in 1928, he enrolled in the YMCA School of Technology (later Fenn College) in Cleveland, where he majored in electrical engineering.</p>
-            <p>In 1932, following the establishment of diplomatic relations between the United States and the Soviet Union, Geiser was part of the first National Student Federation mission to travel to the newly recognized country. Impressed by the Soviet system and the tenets of socialist ideology, Geiser joined the Young Communist League on his return to Ohio. He was active in the American Student Union in Cleveland and served as a delegate to the First Student Congress Against War and Fascism held in Chicago. It was there that Geiser met his future wife Sylvia, a teacher and organizer who shared his political fervor. The couple moved to New York where they were absorbed into a dynamic culture of political activism and organizing. Geiser wrote press releases and edited International Labor Defense bulletins, organized for the League against War and Fascism, and in 1936 was elected to the National Committee of the Young Communist League.</p>
-            <p>On April 13, 1937 Geiser boarded the S.S. Georgic to join the International Brigades massing in defense of the Spanish Republic. He served as an ammunition carrier at the Battle of Brunete, saw action at Quinto, and advanced to the rank of Lieutenant and then Political Commissar. Wounded at the conflict at Fuentes de Ebro, Geiser was hospitalized for three months. Returned to the front as Commissar of the Mackenzie-Papineau Battalion in January 1938, he was captured by fascist forces on April 1, 1938. For the next year, he was interned at San Pedro de Cardeña, along with over 650 International Brigades prisoners. Through the efforts of the Friends of the Abraham Lincoln Brigade and the U.S. State Department, Geiser and a group of 71 Americans were released in April 1939.</p>
-            <p>Geiser returned to New York and secured an engineering position with Liquidometer, a manufacturer of aeronautic equipment. By the early 1970s, Geiser turned his attention once more to Spain. Upon retirement at age 71, Geiser began to write a comprehensive history of American volunteers captured during the Spanish Civil War. With the assistance of fellow prisoner Robert Steck, Geiser amassed biographical information on the 120 Americans incarcerated in Spanish prisons. He also corresponded with over 150 veterans worldwide to solicit their reminiscences, and traveled to archives in the United States and Europe to conduct research. Five years of research and writing culminated in the publication of 
-                <emph render="italic">Prisoners of the Good Fight</emph> (Lawrence Hill and Co., 1986).</p>
-        </bioghist>
-        <userestrict id="ref42">
-            <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@nyu.edu 
-                <lb/></p>
-        </userestrict>
+      </c>
+      <c id="aspace_ref2" level="item">
+        <did>
+          <unittitle>Allen, Richard Sanders</unittitle>
+          <unitdate type="inclusive">Apr 13, 1981</unitdate>
+          <container id="aspace_09d9da8f3117754c6846a4de9a7881b6" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_09d9da8f3117754c6846a4de9a7881b6" type="Cassette">004-
+            002</container>
+        </did>
+      </c>
+      <c id="aspace_ref3" level="item">
+        <did>
+          <unittitle>Amatniek, Ernest</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_2cb16615039d577020a3c88e894c7177" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_2cb16615039d577020a3c88e894c7177" type="Cassette">004-
+            003</container>
+        </did>
+      </c>
+      <c id="aspace_ref4" level="item">
+        <did>
+          <unittitle>Clemente Garcia, Santos; Hans Streuli (translation of a German
+            letter)</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_0f94fd676c910b57ad2e12857fe177f5" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_0f94fd676c910b57ad2e12857fe177f5" type="Cassette">004-
+            004</container>
+        </did>
+      </c>
+      <c id="aspace_ref5" level="item">
+        <did>
+          <unittitle>Eggar, Dougal</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_8166a1e7b33d4d9c1b52746adec44248" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_8166a1e7b33d4d9c1b52746adec44248" type="Cassette">004-
+            005</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="item">
+        <did>
+          <unittitle>Ersler, Gabriel</unittitle>
+          <unitdate type="inclusive">Sep 19 - Sep 23, 1983</unitdate>
+          <container id="aspace_9ba96e3d1566754b159735e5801f3004" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_9ba96e3d1566754b159735e5801f3004" type="Cassette">004-
+            006</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="item">
+        <did>
+          <unittitle>Gilbert, Tony</unittitle>
+          <unitdate type="inclusive">Sep 10, 1986</unitdate>
+          <container id="aspace_ee937e99ca44f7fb88151ffe71767ede" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_ee937e99ca44f7fb88151ffe71767ede" type="Cassette">004-
+            007</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="item">
+        <did>
+          <unittitle>Hafner, Otto (tape 1 of 3)</unittitle>
+          <unitdate type="inclusive">Jul 20, 1981</unitdate>
+          <container id="aspace_bc73cfd252c5d06a19a49564a9ebf4a1" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_bc73cfd252c5d06a19a49564a9ebf4a1" type="Cassette">004-
+            008</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="item">
+        <did>
+          <unittitle>Hafner, Otto (tape 2 of 3)</unittitle>
+          <unitdate type="inclusive">Jul 20, 1981</unitdate>
+          <container id="aspace_0edcefe44f18419d44a920f42f2c4acb" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_0edcefe44f18419d44a920f42f2c4acb" type="Cassette">004-
+            009</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="item">
+        <did>
+          <unittitle>Hafner, Otto (tape 3 of 3)</unittitle>
+          <unitdate type="inclusive">Jul 20, 1981</unitdate>
+          <container id="aspace_86f1d4311e3538459cee7e964c57cf9d" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_86f1d4311e3538459cee7e964c57cf9d" type="Cassette">004-
+            010</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="item">
+        <did>
+          <unittitle>Heinzman, Georg; Karl Loesch</unittitle>
+          <unitdate type="inclusive">1981</unitdate>
+          <container id="aspace_4f961e0062703647ccb7501d15f01f15" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_4f961e0062703647ccb7501d15f01f15" type="Cassette">004-
+            011</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="item">
+        <did>
+          <unittitle>Herman, Joe Hy</unittitle>
+          <unitdate type="inclusive">May 3, 1978</unitdate>
+          <container id="aspace_b1a8060dff95f2b705b62bd1eb4ebdb4" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_b1a8060dff95f2b705b62bd1eb4ebdb4" type="Cassette">004-
+            012</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="item">
+        <did>
+          <unittitle>Jones, Tom</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_26c3d547169284eae629d34e42dac0ca" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_26c3d547169284eae629d34e42dac0ca" type="Cassette">004-
+            013</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="item">
+        <did>
+          <unittitle>Kowalski, Arthur</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_37e7e3000863ae600eb63e5a446908fe" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_37e7e3000863ae600eb63e5a446908fe" type="Cassette">004-
+            014</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="item">
+        <did>
+          <unittitle>Levitas, Maurice; Tom Jones (tape 2 of 2; related to tape 004-013 or 004-028?)) </unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_7e9ef71841203070fa55db8dc823cb35" label="Access cd" type="Box">ALBA
+            Shared Access Audio 1</container>
+          <container id="aspace_608091d5910da827eda0abc8bc58cb28" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_608091d5910da827eda0abc8bc58cb28" type="Cassette"
+            >004-015</container>
+        </did>
         <controlaccess>
-            <corpname source="naf">Abraham Lincoln Brigade.</corpname>
-            <persname source="naf">Geiser, Carl</persname>
-            <corpname source="naf">Veterans of the Abraham Lincoln Brigade.</corpname>
-            <genreform source="aat">Audiocassettes.</genreform>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Personal narratives.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Prisoners and prisons.</geogname>
+          <persname role="cph" source="local">Levitas, Ruth</persname>
         </controlaccess>
-        <dsc>
-            <c01 id="ref1" level="item">
-                <did>
-                    <unittitle>Alexander, William</unittitle>
-                    <container id="cid19716001" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716001" type="Cassette">004- 001</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref2" level="item">
-                <did>
-                    <unittitle>Allen, Richard Sanders</unittitle>
-                    <container id="cid19716002" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716002" type="Cassette">004- 002</container>
-                    <unitdate>Apr 13, 1981</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref3" level="item">
-                <did>
-                    <unittitle>Amatniek, Ernest</unittitle>
-                    <container id="cid19716003" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716003" type="Cassette">004- 003</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref4" level="item">
-                <did>
-                    <unittitle>Clemente Garcia, Santos; Hans Streuli (translation of a German letter)</unittitle>
-                    <container id="cid19716004" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716004" type="Cassette">004- 004</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref5" level="item">
-                <did>
-                    <unittitle>Eggar, Dougal</unittitle>
-                    <container id="cid19716005" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716005" type="Cassette">004- 005</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref6" level="item">
-                <did>
-                    <unittitle>Ersler, Gabriel</unittitle>
-                    <container id="cid19716006" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716006" type="Cassette">004- 006</container>
-                    <unitdate>Sep 19 - Sep 23, 1983</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref7" level="item">
-                <did>
-                    <unittitle>Gilbert, Tony</unittitle>
-                    <container id="cid19716007" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716007" type="Cassette">004- 007</container>
-                    <unitdate>Sep 10, 1986</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref8" level="item">
-                <did>
-                    <unittitle>Hafner, Otto (tape 1 of 3)</unittitle>
-                    <container id="cid19716008" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716008" type="Cassette">004- 008</container>
-                    <unitdate>Jul 20, 1981</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref9" level="item">
-                <did>
-                    <unittitle>Hafner, Otto (tape 2 of 3)</unittitle>
-                    <container id="cid19716009" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716009" type="Cassette">004- 009</container>
-                    <unitdate>Jul 20, 1981</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref10" level="item">
-                <did>
-                    <unittitle>Hafner, Otto (tape 3 of 3)</unittitle>
-                    <container id="cid19716010" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716010" type="Cassette">004- 010</container>
-                    <unitdate>Jul 20, 1981</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref11" level="item">
-                <did>
-                    <unittitle>Heinzman, Georg; Karl Loesch</unittitle>
-                    <container id="cid19716011" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716011" type="Cassette">004- 011</container>
-                    <unitdate>1981</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref12" level="item">
-                <did>
-                    <unittitle>Herman, Joe Hy</unittitle>
-                    <container id="cid19716012" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716012" type="Cassette">004- 012</container>
-                    <unitdate>May 3, 1978</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref13" level="item">
-                <did>
-                    <unittitle>Jones, Tom</unittitle>
-                    <container id="cid19716013" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716013" type="Cassette">004- 013</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref14" level="item">
-                <did>
-                    <unittitle>Kowalski, Arthur</unittitle>
-                    <container id="cid19716014" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716014" type="Cassette">004- 014</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref15" level="item">
-                <did>
-                    <unittitle>Levitas, Maurice; Tom Jones (tape 2 of 2; related to tape 004-013 or 004-028?))</unittitle>
-                    <container id="cid23584001" type="Box" label="Access CD">ALBA Shared Access Audio 1</container>
-                    <container id="cid19716015" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716015" type="Cassette">004-015</container>
-                    <unitdate>undated</unitdate>
-                </did>
-                <controlaccess>
-                    <persname source="local" role="Copyright holder (cph)">Levitas, Ruth</persname>
-                </controlaccess>
-            </c01>
-            <c01 id="ref16" level="item">
-                <did>
-                    <unittitle>Loesch, Karl</unittitle>
-                    <container id="cid19716016" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716016" type="Cassette">004- 016</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref17" level="item">
-                <did>
-                    <unittitle>Lopez, Jules Herman (Cintron); Hy Wallach; Joseph Lafayette Young</unittitle>
-                    <container id="cid19716017" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716017" type="Cassette">004- 017</container>
-                    <container id="cid23542002" type="Box" label="Access CD">Shared ALBA Access Box 1</container>
-                    <unitdate>Jul 31, 1977</unitdate>
-                </did>
-                <controlaccess>
-                    <persname source="local" role="Copyright holder (cph)">Wallach, Nancy</persname>
-                </controlaccess>
-            </c01>
-            <c01 id="ref18" level="item">
-                <did>
-                    <unittitle>Lopez, Jules Herman (Cintron); Hy Wallach; Joseph Lafayette Young (committee meeting)</unittitle>
-                    <container id="cid19716018" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716018" type="Cassette">004- 018</container>
-                    <container id="cid23542003" type="Box" label="Access CD">Shared ALBA Access Box 1</container>
-                    <unitdate>Sep 17, 1978</unitdate>
-                </did>
-                <controlaccess>
-                    <persname source="local" role="Copyright holder (cph)">Wallach, Nancy</persname>
-                </controlaccess>
-            </c01>
-            <c01 id="ref19" level="item">
-                <did>
-                    <unittitle>Moon, Jimmy</unittitle>
-                    <container id="cid19716019" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716019" type="Cassette">004- 019</container>
-                    <unitdate>Aug 15</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref20" level="item">
-                <did>
-                    <unittitle>Moon, Jimmy</unittitle>
-                    <container id="cid19716020" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716020" type="Cassette">004- 020</container>
-                    <unitdate>Sep 12</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref21" level="item">
-                <did>
-                    <unittitle>Nelson, Steve; Jules Paivio (Nelson's greetings to the Mac Paps)</unittitle>
-                    <container id="cid19716021" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716021" type="Cassette">004- 021</container>
-                    <unitdate>Oct 1977</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref23" level="item">
-                <did>
-                    <unittitle>Ornitz, Louis Noah (tape 1 of 2)</unittitle>
-                    <container id="cid19716022" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716022" type="Cassette">004- 022</container>
-                    <unitdate>Jan 7, 1982</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref24" level="item">
-                <did>
-                    <unittitle>Ornitz, Louis Noah (tape 2 of 2)</unittitle>
-                    <container id="cid19716023" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716023" type="Cassette">004- 023</container>
-                    <unitdate>Jan 7, 1982</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref25" level="item">
-                <did>
-                    <unittitle>Riffe, Carl Herman</unittitle>
-                    <container id="cid19716024" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716024" type="Cassette">004- 024</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref26" level="item">
-                <did>
-                    <unittitle>Riffe, Carl Herman; Velmar Edward Hodge</unittitle>
-                    <container id="cid19716025" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716025" type="Cassette">004- 025</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref27" level="item">
-                <did>
-                    <unittitle>Streit, Herman (side 1); first meeting with Anti. Wider. Kom [Antifascist Historical Committee], Berlin (side 2)(tape 1 of 2)</unittitle>
-                    <container id="cid23659007" type="Box" label="Access CD">ALBA Shared Access Box 1</container>
-                    <container id="cid19716026" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716026" type="Cassette">004- 026</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref28" level="item">
-                <did>
-                    <unittitle>Streit, Herman (tape 2 of 2)</unittitle>
-                    <container id="cid23659011" type="Box" label="Access CD">ALBA Shared Access Box 1</container>
-                    <container id="cid19716027" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716027" type="Cassette">004- 027</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref29" level="item">
-                <did>
-                    <unittitle>Tenor, Leon; Maurice Levitas</unittitle>
-                    <container id="cid23584002" type="Box" label="Access CD">ALBA Shared Access Audio 1</container>
-                    <container id="cid19716028" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716028" type="Cassette">004- 028</container>
-                    <unitdate>Aug 30</unitdate>
-                </did>
-                <controlaccess>
-                    <persname source="local" role="Copyright holder (cph)">Levitas, Ruth</persname>
-                </controlaccess>
-            </c01>
-            <c01 id="ref30" level="item">
-                <did>
-                    <unittitle>West, Frank; Documents on Prisoners at San Pedro de Cardena</unittitle>
-                    <container id="cid23659012" type="Box" label="Access CD">ALBA Shared Access Box 1</container>
-                    <container id="cid19716029" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716029" type="Cassette">004- 029</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref31" level="item">
-                <did>
-                    <unittitle>West, Frank</unittitle>
-                    <container id="cid23659008" type="Box" label="Access CD">ALBA Shared Access Box 1</container>
-                    <container id="cid19716030" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716030" type="Cassette">004- 030</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref32" level="item">
-                <did>
-                    <unittitle>Young, Joseph Lafayette</unittitle>
-                    <container id="cid19716031" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716031" type="Cassette">004- 031</container>
-                    <unitdate>Jul 31, 1977</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref33" level="item">
-                <did>
-                    <unittitle>Interview with an Italian Woman re: Italian POWS Held by Republican Army</unittitle>
-                    <container id="cid19716032" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716032" type="Cassette">004- 032</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref34" level="item">
-                <did>
-                    <unittitle>Geiser, Carl; Reflections on Trip to Cuba</unittitle>
-                    <container id="cid19716033" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716033" type="Cassette">004- 033</container>
-                    <container id="cid23659009" type="Box" label="Access CD">ALBA Shared Access Box 1</container>
-                    <unitdate>1982</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref35" level="item">
-                <did>
-                    <unittitle>Geiser, Carl; Reflections on Spain (tape 1 of 2)</unittitle>
-                    <container id="cid23659010" type="Box" label="Access CD">ALBA Shared Access Box 1</container>
-                    <container id="cid19716034" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716034" type="Cassette">004- 034</container>
-                    <unitdate>Jun 8 - Jun 10</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref36" level="item">
-                <did>
-                    <unittitle>Geiser, Carl; Reflections on Spain (tape 2 of 2) [from Madrid]</unittitle>
-                    <container id="cid23659013" type="Box" label="Access CD">ALBA Shared Access Box 1</container>
-                    <container id="cid19716035" type="Drawer" label="Audio">2</container>
-                    <container parent="cid19716035" type="Cassette">004- 035</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-        </dsc>
-    </archdesc>
+      </c>
+      <c id="aspace_ref16" level="item">
+        <did>
+          <unittitle>Loesch, Karl</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_79dbe6db452e99eabecb4f3af4768106" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_79dbe6db452e99eabecb4f3af4768106" type="Cassette">004-
+            016</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="item">
+        <did>
+          <unittitle>Lopez, Jules Herman (Cintron); Hy Wallach; Joseph Lafayette Young</unittitle>
+          <unitdate type="inclusive">Jul 31, 1977</unitdate>
+          <container id="aspace_46bbbf128d52e8116d458e15148615c6" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_46bbbf128d52e8116d458e15148615c6" type="Cassette">004-
+            017</container>
+          <container id="aspace_c8980df1a9e2f98a291d514cf54562d6" label="Access cd" type="Box"
+            >Shared ALBA Access Box 1</container>
+        </did>
+        <controlaccess>
+          <persname role="cph" source="local">Wallach, Nancy</persname>
+        </controlaccess>
+      </c>
+      <c id="aspace_ref18" level="item">
+        <did>
+          <unittitle>Lopez, Jules Herman (Cintron); Hy Wallach; Joseph Lafayette Young (committee
+            meeting)</unittitle>
+          <unitdate type="inclusive">Sep 17, 1978</unitdate>
+          <container id="aspace_cf8edd8978f1a343bc5d77f94cded13f" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_cf8edd8978f1a343bc5d77f94cded13f" type="Cassette">004-
+            018</container>
+          <container id="aspace_6c0ed9c03d7d62cd16cfa4a648256546" label="Access cd" type="Box"
+            >Shared ALBA Access Box 1</container>
+        </did>
+        <controlaccess>
+          <persname role="cph" source="local">Wallach, Nancy</persname>
+        </controlaccess>
+      </c>
+      <c id="aspace_ref19" level="item">
+        <did>
+          <unittitle>Moon, Jimmy</unittitle>
+          <unitdate type="inclusive">Aug 15</unitdate>
+          <container id="aspace_16f58e92e8ffff0739f71cd982e53e62" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_16f58e92e8ffff0739f71cd982e53e62" type="Cassette">004-
+            019</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="item">
+        <did>
+          <unittitle>Moon, Jimmy</unittitle>
+          <unitdate type="inclusive">Sep 12</unitdate>
+          <container id="aspace_2453ba3bb4c6346de9ee1d6983145e1f" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_2453ba3bb4c6346de9ee1d6983145e1f" type="Cassette">004-
+            020</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="item">
+        <did>
+          <unittitle>Nelson, Steve; Jules Paivio (Nelson's greetings to the Mac Paps)</unittitle>
+          <unitdate type="inclusive">Oct 1977</unitdate>
+          <container id="aspace_fe62afcc9b98377dbb0946faf6cd42a1" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_fe62afcc9b98377dbb0946faf6cd42a1" type="Cassette">004-
+            021</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="item">
+        <did>
+          <unittitle>Ornitz, Louis Noah (tape 1 of 2)</unittitle>
+          <unitdate type="inclusive">Jan 7, 1982</unitdate>
+          <container id="aspace_1eec4c2d820dd069ddc72130e742e1e7" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_1eec4c2d820dd069ddc72130e742e1e7" type="Cassette">004-
+            022</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="item">
+        <did>
+          <unittitle>Ornitz, Louis Noah (tape 2 of 2)</unittitle>
+          <unitdate type="inclusive">Jan 7, 1982</unitdate>
+          <container id="aspace_16a63c60601cbe0d73cbc0faa604c669" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_16a63c60601cbe0d73cbc0faa604c669" type="Cassette">004-
+            023</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="item">
+        <did>
+          <unittitle>Riffe, Carl Herman</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_f324ab1efe5d9bf8976e5b716a139006" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_f324ab1efe5d9bf8976e5b716a139006" type="Cassette">004-
+            024</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="item">
+        <did>
+          <unittitle>Riffe, Carl Herman; Velmar Edward Hodge</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_a63f40d05f08b1293d9665e1a7655e79" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_a63f40d05f08b1293d9665e1a7655e79" type="Cassette">004-
+            025</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="item">
+        <did>
+          <unittitle>Streit, Herman (side 1); first meeting with Anti. Wider. Kom [Antifascist
+            Historical Committee], Berlin (side 2)(tape 1 of 2)</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_fbe578be718e3113560594d042acacba" label="Access cd" type="Box">ALBA
+            Shared Access Box 1</container>
+          <container id="aspace_a30062f2d2ac22c50f3eb20d84b32a38" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_a30062f2d2ac22c50f3eb20d84b32a38" type="Cassette">004-
+            026</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="item">
+        <did>
+          <unittitle>Streit, Herman (tape 2 of 2)</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_69c1df991b3eec192e3477a0781d65c4" label="Access cd" type="Box">ALBA
+            Shared Access Box 1</container>
+          <container id="aspace_c5f697910c1c5fd909a6ccd93e9ccc0f" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_c5f697910c1c5fd909a6ccd93e9ccc0f" type="Cassette">004-
+            027</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="item">
+        <did>
+          <unittitle>Tenor, Leon; Maurice Levitas</unittitle>
+          <unitdate type="inclusive">Aug 30</unitdate>
+          <container id="aspace_271e1edf8f65d46fe214bd99e79c1cb3" label="Access cd" type="Box">ALBA
+            Shared Access Audio 1</container>
+          <container id="aspace_8be8f44d7b44f0d2e56a7e213e9b2c95" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_8be8f44d7b44f0d2e56a7e213e9b2c95" type="Cassette">004-
+            028</container>
+        </did>
+        <controlaccess>
+          <persname role="cph" source="local">Levitas, Ruth</persname>
+        </controlaccess>
+      </c>
+      <c id="aspace_ref30" level="item">
+        <did>
+          <unittitle>West, Frank; Documents on Prisoners at San Pedro de Cardena</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_ab2e2e5f4e867608457233d205877116" label="Access cd" type="Box">ALBA
+            Shared Access Box 1</container>
+          <container id="aspace_54730a753c74285bac20b63a88229227" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_54730a753c74285bac20b63a88229227" type="Cassette">004-
+            029</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="item">
+        <did>
+          <unittitle>West, Frank</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_f318d51d59aa662d2dbe89656ebe370f" label="Access cd" type="Box">ALBA
+            Shared Access Box 1</container>
+          <container id="aspace_52ccb0ad97e3f559f89e1f6edaa24357" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_52ccb0ad97e3f559f89e1f6edaa24357" type="Cassette">004-
+            030</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="item">
+        <did>
+          <unittitle>Young, Joseph Lafayette</unittitle>
+          <unitdate type="inclusive">Jul 31, 1977</unitdate>
+          <container id="aspace_992c954912764d393da4c96d0fdf57ce" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_992c954912764d393da4c96d0fdf57ce" type="Cassette">004-
+            031</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="item">
+        <did>
+          <unittitle>Interview with an Italian Woman re: Italian POWS Held by Republican
+            Army</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_8bfc0eab498f4fa00875cafc5daf3e74" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_8bfc0eab498f4fa00875cafc5daf3e74" type="Cassette">004-
+            032</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="item">
+        <did>
+          <unittitle>Geiser, Carl; Reflections on Trip to Cuba</unittitle>
+          <unitdate type="inclusive">1982</unitdate>
+          <container id="aspace_1590b6ee316452fa8a1dc49c3963081e" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_1590b6ee316452fa8a1dc49c3963081e" type="Cassette">004-
+            033</container>
+          <container id="aspace_e716911b0c35a4a7db224258cdf71659" label="Access cd" type="Box">ALBA
+            Shared Access Box 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="item">
+        <did>
+          <unittitle>Geiser, Carl; Reflections on Spain (tape 1 of 2)</unittitle>
+          <unitdate type="inclusive">Jun 8 - Jun 10</unitdate>
+          <container id="aspace_29a67c4a534baa8443e2a779dea2bba4" label="Access cd" type="Box">ALBA
+            Shared Access Box 1</container>
+          <container id="aspace_20a826afd1b1905d57fdff01b5e31dcb" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_20a826afd1b1905d57fdff01b5e31dcb" type="Cassette">004-
+            034</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="item">
+        <did>
+          <unittitle>Geiser, Carl; Reflections on Spain (tape 2 of 2) [from Madrid]</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <container id="aspace_4f62f57b7c38bbc1e9da6868119ea5f4" label="Access cd" type="Box">ALBA
+            Shared Access Box 1</container>
+          <container id="aspace_6c9be8b441ca4590e91dea88380b4707" label="Audio" type="Drawer"
+            >2</container>
+          <container parent="aspace_6c9be8b441ca4590e91dea88380b4707" type="Cassette">004-
+            035</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
