@@ -1,124 +1,156 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">alba_181</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Preliminary Inventory to the George Brodsky: Yiddish Clippings and Serials Collection
-                    <num>ALBA.181</num>
-                </titleproper>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-06-04T10:56-0400</date>
-            </creation>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_181/">alba_181</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Inventory to the George Brodsky: Yiddish Clippings and Serials
+          Collection <num>ALBA.181</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace
+        <date>2017-09-08T14:30:53</date></creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng"/>
+      </langmaterial>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>George Brodsky: Yiddish Clippings and Serials Collection</unittitle>
+      <origination label="source">
+        <persname rules="dacs" source="local">Brodsky, George</persname>
+      </origination>
+      <unitid>ALBA.181</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate type="inclusive">ca.1936-1984</unitdate>
+    </did>
+    <custodhist id="aspace_55eb910e91e0e300cb9bc2a89f30dc32">
+      <head>Custodial History</head>
+      <p>The material was donated by George Brodsky to the Abraham Lincoln Brigade Archives at
+        Brandeis University in 1979, and transferred to the Tamiment Library with other ALBA
+        collections in 2001.</p>
+    </custodhist>
+    <scopecontent id="aspace_5b6791f83cf7737996ae20064f272662">
+      <head>Scope and Contents</head>
+      <p>The collection consists of clippings and photocopies of clippings pertaining to the Spanish
+        Civil War and especially to Jewish participation in the War. Among them are many cartoons,
+        photos, and other graphics clipped from a variety of Yiddish-language newspapers and
+        journals, most of them published in the United States. Much of the material dates from the
+        Spanish Civil War era; other items are commemorative or historical in nature. There is a
+        large folder of clippings of cartoons on the Civil War and the fight against fascism by
+        William Gropper (from the <emph render="italic">Morgen Freiheit</emph>), a folder of
+        cartoons by (from <emph render="italic">Der Tog</emph>), and a number of cartoons from other
+        sources. Many of the clippings are pasted on pages from a notebook or scrapbook, apparently
+        compiled ca. 1936-1938. The bulk of the individual clippings are unidentified as to source,
+        and undated, but the pages could be reassembled in chronological order by comparing the
+        clippings to the original newspapers that are the main sources for them. Also included are
+        several complete issues and articles from <emph render="italic">Folks-Sztyme</emph>
+        (1966-1976), a Yiddish newspaper published in Warsaw.</p>
+    </scopecontent>
+    <accessrestrict id="aspace_c12f6ee2129633ff9e86d29fce44d55c">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F.
+        Wagner Labor Archives for more information and to schedule an appointment,
+        tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <userestrict id="aspace_850df8329430c6fd43ef60caca490405">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the
+        collection. Items published after 1922 and before 1978 without copyright notice or renewal
+        are in the public domain. Items published after 1922 and before 1964 with copyright notice,
+        but not renewed after 28 years are in the public domain; if renewed after 28 years,
+        protection extends 95 years after publication. For more information, please contact the
+        Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or
+        212-998-2630.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <genreform source="aat">Political cartoons.</genreform>
+      <persname role="fmo" rules="dacs" source="local">Brodsky, George</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref3" level="file">
         <did>
-            <unittitle>George Brodsky: Yiddish Clippings and Serials Collection</unittitle>
-            <unitid>ALBA.181</unitid>
-            <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.5 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate>ca.1936-1984</unitdate>
+          <unittitle>Cartoons: Joseph Foshko in <emph render="italic">Der Tog</emph> (<emph
+              render="italic">The Day</emph>)</unittitle>
+          <unitdate type="inclusive">ca. 1936-1938</unitdate>
+          <container id="aspace_9d07b90cfb8f4d93bfb565c96b53e19f" label="Mixed Materials" type="Box"
+            >1</container>
+          <container parent="aspace_9d07b90cfb8f4d93bfb565c96b53e19f" type="Folder">1</container>
         </did>
-        <custodhist id="ref2">
-            <head>Custodial History note</head>
-            <p>The material was donated by George Brodsky to the Abraham Lincoln Brigade Archives at Brandeis University in 1979, and transferred to the Tamiment Library with other ALBA collections in 2001.</p>
-        </custodhist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>The collection consists of clippings and photocopies of clippings pertaining to the Spanish Civil War and especially to Jewish participation in the War. Among them are many cartoons, photos, and other graphics clipped from a variety of Yiddish-language newspapers and journals, most of them published in the United States. Much of the material dates from the Spanish Civil War era; other items are commemorative or historical in nature. There is a large folder of clippings of cartoons on the Civil War and the fight against fascism by William Gropper (from the 
-                <emph render="italic">Morgen Freiheit</emph>), a folder of cartoons by (from 
-                <emph render="italic">Der Tog</emph>), and a number of cartoons from other sources. Many of the clippings are pasted on pages from a notebook or scrapbook, apparently compiled ca. 1936-1938. The bulk of the individual clippings are unidentified as to source, and undated, but the pages could be reassembled in chronological order by comparing the clippings to the original newspapers that are the main sources for them. Also included are several complete issues and articles from 
-                <emph render="italic">Folks-Sztyme</emph> (1966-1976), a Yiddish newspaper published in Warsaw.</p>
-        </scopecontent>
-        <controlaccess>
-            <persname source="local">Brodsky, George D., 1908-</persname>
-            <genreform source="aat">Political cartoons.</genreform>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939.</geogname>
-        </controlaccess>
-        <dsc>
-            <c id="ref3" level="file">
-                <did>
-                    <unittitle>Cartoons: Joseph Foshko in 
-                        <emph render="italic">Der Tog</emph> (
-                        <emph render="italic">The Day</emph>)</unittitle>
-                    <container id="cid21784001" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid21784001" type="Folder">1</container>
-                    <unitdate>ca. 1936-1938</unitdate>
-                </did>
-            </c>
-            <c id="ref4" level="file">
-                <did>
-                    <unittitle>Cartoons: William Gropper in 
-                        <emph render="italic">Morgen Freiheit</emph></unittitle>
-                    <container id="cid21784002" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid21784002" type="Folder">2</container>
-                    <unitdate>ca. 1936-1938</unitdate>
-                </did>
-            </c>
-            <c id="ref5" level="file">
-                <did>
-                    <unittitle>Cartoons: Various</unittitle>
-                    <container id="cid21784003" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid21784003" type="Folder">3</container>
-                    <unitdate>ca. 1936-1938</unitdate>
-                </did>
-            </c>
-            <c id="ref6" level="file">
-                <did>
-                    <unittitle>Clippings (mostly photo images from 
-                        <emph render="italic">Morgen Freiheit</emph>)</unittitle>
-                    <container id="cid21784004" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid21784004" type="Folder">4</container>
-                    <unitdate>ca. 1936-1938; 1984</unitdate>
-                </did>
-            </c>
-            <c id="ref7" level="file">
-                <did>
-                    <unittitle>Clippings (mostly photo images from 
-                        <emph render="italic">Morgen Freiheit</emph>)</unittitle>
-                    <container id="cid21784005" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid21784005" type="Folder">5</container>
-                    <unitdate>ca. 1936-1938</unitdate>
-                </did>
-            </c>
-            <c id="ref8" level="file">
-                <did>
-                    <unittitle>
-                        <emph render="italic">Folks-Sztyme</emph> (Warsaw): Issues and Articles</unittitle>
-                    <container id="cid21784006" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid21784006" type="Folder">7</container>
-                    <unitdate normal="1966/1976" type="inclusive">1966-1976</unitdate>
-                </did>
-            </c>
-            <c id="ref9" level="file">
-                <did>
-                    <unittitle>Miscellaneous Newspaper and Journal Articles</unittitle>
-                    <container id="cid21784007" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid21784007" type="Folder">7</container>
-                    <unitdate>undated, 1974</unitdate>
-                </did>
-            </c>
-        </dsc>
-    </archdesc>
+      </c>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>Cartoons: William Gropper in <emph render="italic">Morgen
+            Freiheit</emph></unittitle>
+          <unitdate type="inclusive">ca. 1936-1938</unitdate>
+          <container id="aspace_0b8c2058c8268ba248bc939c75a8023d" label="Mixed Materials" type="Box"
+            >1</container>
+          <container parent="aspace_0b8c2058c8268ba248bc939c75a8023d" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref5" level="file">
+        <did>
+          <unittitle>Cartoons: Various</unittitle>
+          <unitdate type="inclusive">ca. 1936-1938</unitdate>
+          <container id="aspace_11a41abdd8741bef032c3d78d5d8a7d9" label="Mixed Materials" type="Box"
+            >1</container>
+          <container parent="aspace_11a41abdd8741bef032c3d78d5d8a7d9" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>Clippings (mostly photo images from <emph render="italic">Morgen
+              Freiheit</emph>)</unittitle>
+          <unitdate type="inclusive">ca. 1936-1938; 1984</unitdate>
+          <container id="aspace_ff55e1923d440100216ac278fc2fbc5d" label="Mixed Materials" type="Box"
+            >1</container>
+          <container parent="aspace_ff55e1923d440100216ac278fc2fbc5d" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>Clippings (mostly photo images from <emph render="italic">Morgen
+              Freiheit</emph>)</unittitle>
+          <unitdate type="inclusive">ca. 1936-1938</unitdate>
+          <container id="aspace_69e0b2929a53f3ff86aaf5708a1fdc37" label="Mixed Materials" type="Box"
+            >1</container>
+          <container parent="aspace_69e0b2929a53f3ff86aaf5708a1fdc37" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle><emph render="italic">Folks-Sztyme</emph> (Warsaw): Issues and
+            Articles</unittitle>
+          <unitdate normal="1966/1976" type="inclusive">1966-1976</unitdate>
+          <container id="aspace_5f10e72b1389cff53201104114e28390" label="Mixed Materials" type="Box"
+            >1</container>
+          <container parent="aspace_5f10e72b1389cff53201104114e28390" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Miscellaneous Newspaper and Journal Articles</unittitle>
+          <unitdate type="inclusive">undated, 1974</unitdate>
+          <container id="aspace_17c9eb6c57258753d5c50890ef963b2b" label="Mixed Materials" type="Box"
+            >1</container>
+          <container parent="aspace_17c9eb6c57258753d5c50890ef963b2b" type="Folder">7</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
