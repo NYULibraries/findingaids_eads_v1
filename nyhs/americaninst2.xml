@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">americaninst2</eadid>
+        <eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/americaninst2/">americaninst2</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Records of the American Institute of the City of New York for the Encouragement of Science and Invention 
@@ -23,7 +23,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2016-05-12T14:52-0400</date>
+                <date>2017-10-13T10:43-0400</date>
             </creation>
             <langusage>Description is in 
                 <language>English</language>.</langusage>
@@ -41,12 +41,11 @@
             </langmaterial>
             <physdesc>
                 <extent>272.0 Linear feet</extent>
+                <extent>in 491 boxes and 508 bound volumes</extent>
             </physdesc>
             <unitdate>1808-1983 (Bulk 1828-1940)</unitdate>
             <physloc id="ref2" label="Location note">15th Floor</physloc>
             <abstract id="ref3" label="Abstract">The records of the American Institute document over 175 years of fairs, programs, and activities of an organization committed to the promotion of American industry, agriculture, and science.</abstract>
-            <physdesc id="ref1" label="General Physical Description note">
-                <extent>(491 boxes and 508 bound volumes)</extent></physdesc>
         </did>
         <userestrict id="ref4">
             <head>Use Restrictions</head>
@@ -10344,63 +10343,72 @@
                     <c id="ref1290" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1041010" type="Volume" label="Mixed Materials">74</container>
+                            <container id="cid1041010" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1041010" type="Volume">74</container>
                             <unitdate>1904</unitdate>
                         </did>
                     </c>
                     <c id="ref1291" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1041009" type="Volume" label="Mixed Materials">75</container>
+                            <container id="cid1041009" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1041009" type="Volume">75</container>
                             <unitdate>1905</unitdate>
                         </did>
                     </c>
                     <c id="ref1292" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1041008" type="Volume" label="Mixed Materials">76</container>
+                            <container id="cid1041008" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1041008" type="Volume">76</container>
                             <unitdate>1906</unitdate>
                         </did>
                     </c>
                     <c id="ref1293" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1041007" type="Volume" label="Mixed Materials">77</container>
+                            <container id="cid1041007" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1041007" type="Volume">77</container>
                             <unitdate>1907</unitdate>
                         </did>
                     </c>
                     <c id="ref1294" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1041006" type="Volume" label="Mixed Materials">78</container>
+                            <container id="cid1041006" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1041006" type="Volume">78</container>
                             <unitdate>1908</unitdate>
                         </did>
                     </c>
                     <c id="ref1295" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1041005" type="Volume" label="Mixed Materials">79</container>
+                            <container id="cid1041005" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1041005" type="Volume">79</container>
                             <unitdate>1909</unitdate>
                         </did>
                     </c>
                     <c id="ref1296" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1041004" type="Volume" label="Mixed Materials">80</container>
+                            <container id="cid1041004" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1041004" type="Volume">80</container>
                             <unitdate>1910</unitdate>
                         </did>
                     </c>
                     <c id="ref1297" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1041003" type="Volume" label="Mixed Materials">81</container>
+                            <container id="cid1041003" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1041003" type="Volume">81</container>
                             <unitdate>1911</unitdate>
                         </did>
                     </c>
                     <c id="ref1298" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1041002" type="Volume" label="Mixed Materials">82</container>
+                            <container id="cid1041002" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1041002" type="Volume">82</container>
                             <unitdate>1912</unitdate>
                         </did>
                     </c>
@@ -10414,7 +10422,8 @@
                     <c id="ref1300" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1041000" type="Volume" label="Mixed Materials">84</container>
+                            <container id="cid1041000" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1041000" type="Volume">84</container>
                             <unitdate>1913</unitdate>
                         </did>
                     </c>
@@ -10428,35 +10437,40 @@
                     <c id="ref1302" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1040998" type="Volume" label="Mixed Materials">86</container>
+                            <container id="cid1040998" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040998" type="Volume">86</container>
                             <unitdate>1914</unitdate>
                         </did>
                     </c>
                     <c id="ref1303" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1040997" type="Volume" label="Mixed Materials">87</container>
+                            <container id="cid1040997" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040997" type="Volume">87</container>
                             <unitdate>1915</unitdate>
                         </did>
                     </c>
                     <c id="ref1304" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1040996" type="Volume" label="Mixed Materials">88</container>
+                            <container id="cid1040996" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040996" type="Volume">88</container>
                             <unitdate>1916</unitdate>
                         </did>
                     </c>
                     <c id="ref1305" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1040995" type="Volume" label="Mixed Materials">89</container>
+                            <container id="cid1040995" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040995" type="Volume">89</container>
                             <unitdate>1917</unitdate>
                         </did>
                     </c>
                     <c id="ref1306" level="file">
                         <did>
                             <unittitle>[Account books] Members' Ledger (in Hollinger box)</unittitle>
-                            <container id="cid1040994" type="Volume" label="Mixed Materials">90</container>
+                            <container id="cid1040994" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040994" type="Volume">90</container>
                             <unitdate>1918</unitdate>
                         </did>
                     </c>
@@ -10610,7 +10624,8 @@
                     <c id="ref1328" level="file">
                         <did>
                             <unittitle>[Cash books] Cash Book from Members, 18th Annual fair of the American Institute (in Hollinger box)</unittitle>
-                            <container id="cid1040972" type="Volume" label="Mixed Materials">112</container>
+                            <container id="cid1040972" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040972" type="Volume">112</container>
                             <unitdate>1845</unitdate>
                         </did>
                     </c>
@@ -11008,7 +11023,7 @@
                     </c>
                     <c id="ref1385" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Printing and Publicaton Committee of the13th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Printing and Publication Committee of the13th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040915" type="Volume" label="Mixed Materials">169</container>
                             <unitdate>1840</unitdate>
                         </did>
@@ -11085,7 +11100,7 @@
                     </c>
                     <c id="ref1396" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Committee of Arrangements of the17th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Committee of Arrangements of the 17th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040904" type="Volume" label="Mixed Materials">180</container>
                             <unitdate>1844</unitdate>
                         </did>
@@ -11096,6 +11111,24 @@
                             <container id="cid1040903" type="Volume" label="Mixed Materials">181</container>
                             <unitdate>1844</unitdate>
                         </did>
+                    </c>
+                    <c id="ref2180" level="file">
+                        <did>
+                            <unittitle>[Minute books] Minutes of the Premium Committee of the 17th Annual Fair of the American Institute</unittitle>
+                            <container id="cid3283006" type="Volume" label="Mixed materials">265</container>
+                            <unitdate>1844</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref2181" level="file">
+                        <did>
+                            <unittitle>[Minute books] Minutes of the Premium Committee of the 17th Annual Fair of the American Institute</unittitle>
+                            <container id="cid3283007" type="Volume" label="Mixed materials">266</container>
+                            <unitdate>1844</unitdate>
+                        </did>
+                        <scopecontent id="ref2182">
+                            <head>Scope and Contents Note</head>
+                            <p>This appears to be a second, incomplete copy of the above minutes.</p>
+                        </scopecontent>
                     </c>
                     <c id="ref1398" level="file">
                         <did>
@@ -11127,7 +11160,7 @@
                     </c>
                     <c id="ref1402" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Premium Committee of the20th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Premium Committee of the 20th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040898" type="Volume" label="Mixed Materials">186</container>
                             <unitdate>1847</unitdate>
                         </did>
@@ -11162,28 +11195,28 @@
                     </c>
                     <c id="ref1407" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Committee of Arrangements of the27th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Committee of Arrangements of the 22th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040893" type="Volume" label="Mixed Materials">191</container>
                             <unitdate>1849</unitdate>
                         </did>
                     </c>
                     <c id="ref1408" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Printing and Publicaton Committee of the23rd Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Printing and Publication Committee of the 23rd Annual Fair of the American Institute</unittitle>
                             <container id="cid1040892" type="Volume" label="Mixed Materials">192</container>
                             <unitdate>1850</unitdate>
                         </did>
                     </c>
                     <c id="ref1409" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Invitation Committee of the23rd Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Invitation Committee of the 23rd Annual Fair of the American Institute</unittitle>
                             <container id="cid1040891" type="Volume" label="Mixed Materials">193</container>
                             <unitdate>1850</unitdate>
                         </did>
                     </c>
                     <c id="ref1410" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Premium Committee of the23rd Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Premium Committee of the 23rd Annual Fair of the American Institute</unittitle>
                             <container id="cid1040890" type="Volume" label="Mixed Materials">194</container>
                             <unitdate>1850</unitdate>
                         </did>
@@ -11211,42 +11244,42 @@
                     </c>
                     <c id="ref1414" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Invitation Committee of the24th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Invitation Committee of the 24th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040886" type="Volume" label="Mixed Materials">198</container>
                             <unitdate>1851</unitdate>
                         </did>
                     </c>
                     <c id="ref1415" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Premium Committee of the24th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Premium Committee of the 24th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040885" type="Volume" label="Mixed Materials">199</container>
                             <unitdate>1851</unitdate>
                         </did>
                     </c>
                     <c id="ref1416" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Printing and Publicaton Committee of the24th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Printing and Publication Committee of the24th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040884" type="Volume" label="Mixed Materials">200</container>
                             <unitdate>1851-1852</unitdate>
                         </did>
                     </c>
                     <c id="ref1417" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Finance Committee of the25th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Finance Committee of the 25th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040883" type="Volume" label="Mixed Materials">201</container>
                             <unitdate>1852</unitdate>
                         </did>
                     </c>
                     <c id="ref1418" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Invitation Committee of the25th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Invitation Committee of the 25th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040882" type="Volume" label="Mixed Materials">202</container>
                             <unitdate>1852</unitdate>
                         </did>
                     </c>
                     <c id="ref1419" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Premium Committee of the25th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Premium Committee of the 25th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040881" type="Volume" label="Mixed Materials">203</container>
                             <unitdate>1852</unitdate>
                         </did>
@@ -11267,7 +11300,7 @@
                     </c>
                     <c id="ref1422" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Premium Committee of the26th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Premium Committee of the 26th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040878" type="Volume" label="Mixed Materials">206</container>
                             <unitdate>1853</unitdate>
                         </did>
@@ -11295,21 +11328,21 @@
                     </c>
                     <c id="ref1426" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Printing and Publicaton Committee of the27th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Printing and Publication Committee of the27th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040874" type="Volume" label="Mixed Materials">210</container>
                             <unitdate>1855</unitdate>
                         </did>
                     </c>
                     <c id="ref1427" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Finance Committee of the27th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Finance Committee of the 27th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040873" type="Volume" label="Mixed Materials">211</container>
                             <unitdate>1855</unitdate>
                         </did>
                     </c>
                     <c id="ref1428" level="file">
                         <did>
-                            <unittitle>[Minute books] Minutes of the Flag Committee of the27th Annual Fair of the American Institute</unittitle>
+                            <unittitle>[Minute books] Minutes of the Flag Committee of the 27th Annual Fair of the American Institute</unittitle>
                             <container id="cid1040872" type="Volume" label="Mixed Materials">212</container>
                             <unitdate>1855</unitdate>
                         </did>
@@ -11576,120 +11609,121 @@
                     <c id="ref1466" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 65th Annual Fair of the American Institute (In hollinger)</unittitle>
-                            <container id="cid1040834" type="Volume" label="Mixed Materials">250</container>
+                            <container id="cid1040834" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040834" type="Volume">250</container>
                             <unitdate>1896</unitdate>
                         </did>
                     </c>
                     <c id="ref1467" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 66th Annual Fair of the American Institute (In hollinger)</unittitle>
-                            <container id="cid1040833" type="Volume" label="Mixed Materials">251</container>
+                            <container id="cid1040833" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040833" type="Volume">251</container>
                             <unitdate>1897</unitdate>
                         </did>
                     </c>
                     <c id="ref1468" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 67th Annual Fair of the American Institute (In hollinger)</unittitle>
-                            <container id="cid1040832" type="Volume" label="Mixed Materials">252</container>
+                            <container id="cid1040832" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040832" type="Volume">252</container>
                             <unitdate>1898</unitdate>
                         </did>
                     </c>
                     <c id="ref1469" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 68th Annual Fair of the American Institute (In hollinger)</unittitle>
-                            <container id="cid1040831" type="Volume" label="Mixed Materials">253</container>
+                            <container id="cid1040831" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040831" type="Volume">253</container>
                             <unitdate>1899</unitdate>
                         </did>
                     </c>
                     <c id="ref1470" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 69th Annual Fair of the American Institute (In hollinger)</unittitle>
-                            <container id="cid1040830" type="Volume" label="Mixed Materials">254</container>
+                            <container id="cid1040830" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040830" type="Volume">254</container>
                             <unitdate>1900</unitdate>
                         </did>
                     </c>
                     <c id="ref1471" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 71st Annual Fair of the American Institute (In hollinger)</unittitle>
-                            <container id="cid1040829" type="Volume" label="Mixed Materials">255</container>
+                            <container id="cid1040829" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040829" type="Volume">255</container>
                             <unitdate>1902</unitdate>
                         </did>
                     </c>
                     <c id="ref1472" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 72nd Annual Fair of the American Institute (In hollinger, unbound material)</unittitle>
-                            <container id="cid1040828" type="Volume" label="Mixed Materials">256</container>
+                            <container id="cid1040828" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040828" type="Volume">256</container>
                             <unitdate>1903</unitdate>
                         </did>
                     </c>
                     <c id="ref1473" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 73rd Annual Fair of the American Institute (In hollinger, unbound material)</unittitle>
-                            <container id="cid1040827" type="Volume" label="Mixed Materials">257</container>
+                            <container id="cid1040827" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040827" type="Volume">257</container>
                             <unitdate>1904</unitdate>
                         </did>
                     </c>
                     <c id="ref1474" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 74th Annual Fair of the American Institute (In hollinger, unbound material)</unittitle>
-                            <container id="cid1040826" type="Volume" label="Mixed Materials">258</container>
+                            <container id="cid1040826" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040826" type="Volume">258</container>
                             <unitdate>1905</unitdate>
                         </did>
                     </c>
                     <c id="ref1475" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 75th Annual Fair of the American Institute (In hollinger, unbound material)</unittitle>
-                            <container id="cid1040825" type="Volume" label="Mixed Materials">259</container>
+                            <container id="cid1040825" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040825" type="Volume">259</container>
                             <unitdate>1906</unitdate>
                         </did>
                     </c>
                     <c id="ref1476" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 76th Annual Fair of the American Institute (In hollinger, unbound material)</unittitle>
-                            <container id="cid1040824" type="Volume" label="Mixed Materials">260</container>
+                            <container id="cid1040824" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040824" type="Volume">260</container>
                             <unitdate>1907</unitdate>
                         </did>
                     </c>
                     <c id="ref1477" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 77th Annual Fair of the American Institute (In hollinger, unbound material)</unittitle>
-                            <container id="cid1040823" type="Volume" label="Mixed Materials">261</container>
+                            <container id="cid1040823" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040823" type="Volume">261</container>
                             <unitdate>1908</unitdate>
                         </did>
                     </c>
                     <c id="ref1478" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 78th Annual Fair of the American Institute (In hollinger, unbound material)</unittitle>
-                            <container id="cid1040822" type="Volume" label="Mixed Materials">262</container>
+                            <container id="cid1040822" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040822" type="Volume">262</container>
                             <unitdate>1909</unitdate>
                         </did>
                     </c>
                     <c id="ref1479" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 79th Annual Fair of the American Institute (In hollinger, unbound material)</unittitle>
-                            <container id="cid1040821" type="Volume" label="Mixed Materials">263</container>
+                            <container id="cid1040821" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040821" type="Volume">263</container>
                             <unitdate>1910</unitdate>
                         </did>
                     </c>
                     <c id="ref1480" level="file">
                         <did>
                             <unittitle>[Minute books] Minutes of the Board of Managers of the 83rd Annual Fair of the American Institute (In hollinger, unbound material)</unittitle>
-                            <container id="cid1040820" type="Volume" label="Mixed Materials">264</container>
+                            <container id="cid1040820" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040820" type="Volume">264</container>
                             <unitdate>1914</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref1481" level="file">
-                        <did>
-                            <unittitle>[Minute books] Minutes of the Premium Committee of the 17th Annual Fair of the American Institute</unittitle>
-                            <container id="cid1040819" type="Volume" label="Mixed Materials">265</container>
-                            <unitdate>July-Dec.1844</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref1482" level="file">
-                        <did>
-                            <unittitle>[Minute books] Minutes of the Premium Committee of the 17th Annual Fair of the American Institute</unittitle>
-                            <container id="cid1040818" type="Volume" label="Mixed Materials">266</container>
-                            <unitdate>July-Oct. 1844</unitdate>
                         </did>
                     </c>
                     <c id="ref1483" level="file">
@@ -11772,7 +11806,8 @@
                     <c id="ref1494" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040806" type="Volume" label="Mixed Materials">278</container>
+                            <container id="cid1040806" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040806" type="Volume">278</container>
                             <unitdate>1851</unitdate>
                         </did>
                     </c>
@@ -11814,7 +11849,8 @@
                     <c id="ref1500" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040800" type="Volume" label="Mixed Materials">284</container>
+                            <container id="cid1040800" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040800" type="Volume">284</container>
                             <unitdate>1852</unitdate>
                         </did>
                     </c>
@@ -11828,35 +11864,40 @@
                     <c id="ref1502" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040798" type="Volume" label="Mixed Materials">286</container>
+                            <container id="cid1040798" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040798" type="Volume">286</container>
                             <unitdate>1855</unitdate>
                         </did>
                     </c>
                     <c id="ref1503" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040797" type="Volume" label="Mixed Materials">287</container>
+                            <container id="cid1040797" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040797" type="Volume">287</container>
                             <unitdate>1856</unitdate>
                         </did>
                     </c>
                     <c id="ref1504" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040796" type="Volume" label="Mixed Materials">288</container>
+                            <container id="cid1040796" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040796" type="Volume">288</container>
                             <unitdate>1857</unitdate>
                         </did>
                     </c>
                     <c id="ref1505" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040795" type="Volume" label="Mixed Materials">289</container>
+                            <container id="cid1040795" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040795" type="Volume">289</container>
                             <unitdate>1858</unitdate>
                         </did>
                     </c>
                     <c id="ref1506" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040794" type="Volume" label="Mixed Materials">290</container>
+                            <container id="cid1040794" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040794" type="Volume">290</container>
                             <unitdate>1859</unitdate>
                         </did>
                     </c>
@@ -11870,28 +11911,32 @@
                     <c id="ref1508" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040792" type="Volume" label="Mixed Materials">292</container>
+                            <container id="cid1040792" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040792" type="Volume">292</container>
                             <unitdate>1860</unitdate>
                         </did>
                     </c>
                     <c id="ref1509" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040791" type="Volume" label="Mixed Materials">293</container>
+                            <container id="cid1040791" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040791" type="Volume">293</container>
                             <unitdate>1862</unitdate>
                         </did>
                     </c>
                     <c id="ref1510" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040790" type="Volume" label="Mixed Materials">294</container>
+                            <container id="cid1040790" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040790" type="Volume">294</container>
                             <unitdate>1863</unitdate>
                         </did>
                     </c>
                     <c id="ref1511" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040789" type="Volume" label="Mixed Materials">295</container>
+                            <container id="cid1040789" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040789" type="Volume">295</container>
                             <unitdate>1865</unitdate>
                         </did>
                     </c>
@@ -11912,7 +11957,8 @@
                     <c id="ref1514" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040786" type="Volume" label="Mixed Materials">298</container>
+                            <container id="cid1040786" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040786" type="Volume">298</container>
                             <unitdate>1872</unitdate>
                         </did>
                     </c>
@@ -11926,42 +11972,48 @@
                     <c id="ref1516" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040784" type="Volume" label="Mixed Materials">300</container>
+                            <container id="cid1040784" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040784" type="Volume">300</container>
                             <unitdate>1873</unitdate>
                         </did>
                     </c>
                     <c id="ref1517" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040783" type="Volume" label="Mixed Materials">301</container>
+                            <container id="cid1040783" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040783" type="Volume">301</container>
                             <unitdate>1876</unitdate>
                         </did>
                     </c>
                     <c id="ref1518" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040782" type="Volume" label="Mixed Materials">302</container>
+                            <container id="cid1040782" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040782" type="Volume">302</container>
                             <unitdate>1878</unitdate>
                         </did>
                     </c>
                     <c id="ref1519" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040781" type="Volume" label="Mixed Materials">303</container>
+                            <container id="cid1040781" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040781" type="Volume">303</container>
                             <unitdate>1889</unitdate>
                         </did>
                     </c>
                     <c id="ref1520" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040780" type="Volume" label="Mixed Materials">304</container>
+                            <container id="cid1040780" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040780" type="Volume">304</container>
                             <unitdate>1890</unitdate>
                         </did>
                     </c>
                     <c id="ref1521" level="file">
                         <did>
                             <unittitle>[Receipt books] Engraving; Cups, Medals, etc. (in Hollinger box)</unittitle>
-                            <container id="cid1040779" type="Volume" label="Mixed Materials">305</container>
+                            <container id="cid1040779" type="Box" label="Mixed Materials">-</container>
+                            <container parent="cid1040779" type="Volume">305</container>
                             <unitdate>1892</unitdate>
                         </did>
                     </c>
