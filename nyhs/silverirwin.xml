@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NHi">silverirwin</eadid>
         <filedesc>
             <titlestmt>
@@ -9,7 +9,7 @@
                     <lb/>
                     <num>PR 209</num>
                 </titleproper>
-                <author>Finding aid prepared by Jenny Gotwals</author>
+                <author>Finding aid prepared by Jenny Gotwals; revised by Marybeth Kavanagh, 2017</author>
             </titlestmt>
             <editionstmt>
                 <p>This version was derived from silverirwin.xml</p>
@@ -26,11 +26,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-01-05T17:11-0500</date>
+                <date>2017-11-27T15:59-0500</date>
             </creation>
             <langusage>Description is in 
                 <language>English</language>.</langusage>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>11/27/2017</date>
+                <item>18 photographs added to Series I</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -48,11 +54,14 @@
             </physdesc>
             <unitdate>1977-2002</unitdate>
             <physloc audience="internal" id="ref2" label="Location note">Department of Prints, Photographs, and Architectural Collections</physloc>
-            <abstract id="ref3" label="Abstract">The Irwin Silver Photograph Collection contains photographs of New York City, primarily of memorial activities after the September 11, 2001, collapse of the World Trade Center towers.</abstract>
+            <abstract id="ref3" label="Abstract">The Irwin Silver Photograph Collection contains photographs of New York City, primarily of memorial activities after the September 11, 2001 terrorist attacks and the collapse of the World Trade Center towers.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="ingest" role="Photographer (pht)">Silver, Irwin, 1945-</persname>
+            </origination>
         </did>
         <custodhist id="ref4">
             <head>Provenance</head>
-            <p>Gift of Irwin Silver, 1994 and 2003.</p>
+            <p>Gift of Irwin Silver, 1994, 2003 and 2017.</p>
         </custodhist>
         <accessrestrict id="ref5">
             <head>Access Restrictions</head>
@@ -78,7 +87,7 @@
         </prefercite>
         <scopecontent id="ref8">
             <head>Scope and Content Note</head>
-            <p>The Irwin Silver Photograph Collection spans the period from 1977-2002 and contains photographs of New York City, primarily of memorial activities after the September 11, 2001 collapse of the World Trade Center towers. The photograph titles were assigned by the photographer.</p>
+            <p>The Irwin Silver Photograph Collection spans the period from 1977-2002 and contains photographs of New York City, primarily of memorial activities after the September 11, 2001 terrorist attacks and the collapse of the World Trade Center towers. The photograph titles were assigned by the photographer.</p>
         </scopecontent>
         <arrangement id="ref9">
             <head>Arrangement</head>
@@ -89,12 +98,13 @@
             <p>Other photographs of the World Trade Center and the aftermath of its destruction can be found in PR 169, the World Trade Center Photograph Collection.</p>
         </relatedmaterial>
         <controlaccess>
-            <subject source="lcsh">Fire fighters</subject>
-            <subject source="lcsh">Memorials</subject>
+            <subject source="lcsh">Fire fighters--New York (State)--New York--Pictorial works.</subject>
+            <subject source="lcsh">Memorials--New York (State)--New York--Pictorial works.</subject>
             <geogname source="lcsh">New York (N.Y.) -- Buildings, structures, etc.</geogname>
-            <genreform source="aat">Photographic prints</genreform>
+            <subject source="lcsh">New York (N.Y.). Fire Department. Vulcan Society</subject>
             <subject source="lcsh">September 11 Terrorist Attacks, 2001</subject>
-            <subject source="lcsh">Streets -- New York (State) -- New York</subject>
+            <subject source="lcsh">September 11 Terrorist Attacks, 2001--Photographs.</subject>
+            <geogname source="lcsh">World Trade Center Site (New York, N.Y.)--Pictorial works.</geogname>
         </controlaccess>
         <dsc>
             <c id="ref10" level="series">
@@ -103,8 +113,7 @@
                 </did>
                 <scopecontent id="ref29">
                     <head>Scope and Contents note</head>
-                    <p>Series I contains eighteen images from the photographer's series of the same name. The photographs are all black and white, 11x14 prints, and show memorials for people who died during the World Trade Center collapse. Many show public and private memorials to firefighters. Others show more public memorials, such as a fence where memorial tiles were hung. All the photographs were taken in 2002.</p>
-                    <p>Prints are arranged chronologically by month.</p>
+                    <p>Series I contains thirty-six images from the photographer's series of the same name. The photographs are all black and white, silver gelatin 11x14" prints, and show memorials for people who died during the World Trade Center collapse. Many show public and private memorials to firefighters. Others show more public memorials, such as a fence where memorial tiles were hung. All the photographs were taken in 2001-2002.</p>
                 </scopecontent>
                 <c id="ref11" level="otherlevel">
                     <did>
@@ -144,6 +153,14 @@
                         <container id="cid503499" type="Box" label="Mixed Materials">1</container>
                         <container parent="cid503499" type="Folder">1</container>
                         <unitdate>2002 Jan.</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="otherlevel">
+                    <did>
+                        <unittitle>Court Officers Memorial, New York State Supreme Court, 111 Centre Street (copy 1)</unittitle>
+                        <container id="cid503491" type="Box" label="Mixed Materials">1</container>
+                        <container parent="cid503491" type="Folder">1</container>
+                        <unitdate>2002 May</unitdate>
                     </did>
                 </c>
                 <c id="ref16" level="otherlevel">
@@ -186,6 +203,14 @@
                         <unitdate>2002 Mar.</unitdate>
                     </did>
                 </c>
+                <c id="ref26" level="otherlevel">
+                    <did>
+                        <unittitle>Interior, Rescue 2</unittitle>
+                        <container id="cid503488" type="Box" label="Mixed Materials">1</container>
+                        <container parent="cid503488" type="Folder">2</container>
+                        <unitdate>2002 May</unitdate>
+                    </did>
+                </c>
                 <c id="ref21" level="otherlevel">
                     <did>
                         <unittitle>Art Aid memorial with portrait of Captain Patrick J. Brown, Union Square Subway Station</unittitle>
@@ -199,14 +224,6 @@
                         <unittitle>Art Aid memorial with portrait of James Francis Quinn, Union Square Subway Station</unittitle>
                         <container id="cid503492" type="Box" label="Mixed Materials">1</container>
                         <container parent="cid503492" type="Folder">3</container>
-                        <unitdate>2002 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref23" level="otherlevel">
-                    <did>
-                        <unittitle>Court Officer's Memorial, New York State Supreme Court, 111 Centre Street</unittitle>
-                        <container id="cid503491" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid503491" type="Folder">3</container>
                         <unitdate>2002 May</unitdate>
                     </did>
                 </c>
@@ -226,14 +243,6 @@
                         <unitdate>2002 May</unitdate>
                     </did>
                 </c>
-                <c id="ref26" level="otherlevel">
-                    <did>
-                        <unittitle>Interior, Rescue 2</unittitle>
-                        <container id="cid503488" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid503488" type="Folder">3</container>
-                        <unitdate>2002 May</unitdate>
-                    </did>
-                </c>
                 <c id="ref27" level="otherlevel">
                     <did>
                         <unittitle>Fire Engine Door (salvaged from World Trade Center) memorial, Rescue 2, NYFD</unittitle>
@@ -242,12 +251,154 @@
                         <unitdate>2002 May</unitdate>
                     </did>
                 </c>
-                <c id="ref28" level="otherlevel">
+                <c id="ref28" level="file">
                     <did>
                         <unittitle>African-American Firefighters Memorial, Vulcan Hall, Eastern Parkway and Kingston Avenue, Brooklyn</unittitle>
                         <container id="cid503486" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid503486" type="Folder">4</container>
+                        <container parent="cid503486" type="Folder">3</container>
                         <unitdate>2002 Sep.</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="item">
+                    <did>
+                        <unittitle>Wreath with woman's portrait on fence at Broadway and Cedar</unittitle>
+                        <container id="cid3484001" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484001" type="Folder">4</container>
+                        <unitdate>2001 December</unitdate>
+                    </did>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>Wreath with Charlie Heeran's portrait on fence at Broadway and Cedar</unittitle>
+                        <container id="cid3484002" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484002" type="Folder">4</container>
+                        <unitdate>2001 December</unitdate>
+                    </did>
+                </c>
+                <c id="ref38" level="item">
+                    <did>
+                        <unittitle>Facade with flag salvaged from World Trade Center, Engine 6, FDNY</unittitle>
+                        <container id="cid3484003" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484003" type="Folder">4</container>
+                        <unitdate>2002 January</unitdate>
+                    </did>
+                </c>
+                <c id="ref39" level="item">
+                    <did>
+                        <unittitle>Memorial wall (with portrait of Firefighter Raymond York) St. Paul's Chapel gate</unittitle>
+                        <container id="cid3484004" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484004" type="Folder">4</container>
+                        <unitdate>2002 January</unitdate>
+                    </did>
+                </c>
+                <c id="ref40" level="item">
+                    <did>
+                        <unittitle>Memorial wall in snow, St. Paul's Chapel gate</unittitle>
+                        <unitdate>2002 January</unitdate>
+                    </did>
+                </c>
+                <c id="ref41" level="item">
+                    <did>
+                        <unittitle>Children's art, Union Square subway station</unittitle>
+                        <container id="cid3484005" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484005" type="Folder">4</container>
+                        <unitdate>2002 March</unitdate>
+                    </did>
+                </c>
+                <c id="ref42" level="item">
+                    <did>
+                        <unittitle>Memorial, Engine 8 and Ladder 2 Firehouse, FDNY</unittitle>
+                        <container id="cid3484006" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484006" type="Folder">5</container>
+                        <unitdate>2002 March</unitdate>
+                    </did>
+                </c>
+                <c id="ref43" level="item">
+                    <did>
+                        <unittitle>Art Aid memorial wall with angel and Jeffrey Coale's name, Union Square subway station</unittitle>
+                        <container id="cid3484007" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484007" type="Folder">5</container>
+                        <unitdate>2002 March</unitdate>
+                    </did>
+                </c>
+                <c id="ref44" level="item">
+                    <did>
+                        <unittitle>Shamrock in sidewalk for Jimmy Riches, Firefighter, Engine 18, Fifth Avenue, Brooklyn</unittitle>
+                        <container id="cid3484008" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484008" type="Folder">5</container>
+                        <unitdate>2002</unitdate>
+                    </did>
+                </c>
+                <c id="ref45" level="item">
+                    <did>
+                        <unittitle>Mural, Red Hook, Brooklyn</unittitle>
+                        <container id="cid3484009" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484009" type="Folder">5</container>
+                        <unitdate>2002 April</unitdate>
+                    </did>
+                </c>
+                <c id="ref46" level="item">
+                    <did>
+                        <unittitle>Memorial, Ladder Company 131, Engine Company 279, FDNY</unittitle>
+                        <container id="cid3484010" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484010" type="Folder">5</container>
+                        <unitdate>2002 April</unitdate>
+                    </did>
+                </c>
+                <c id="ref47" level="item">
+                    <did>
+                        <unittitle>Art Aid memorial with portrait of Firefighter William Wren, Union Square subway station</unittitle>
+                        <container id="cid3484011" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484011" type="Folder">5</container>
+                        <unitdate>2002 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle>Court Officers Memorial, New York State Supreme Court, 111 Centre Street (copy 2)</unittitle>
+                        <container id="cid3484012" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484012" type="Folder">6</container>
+                        <unitdate>2002 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="item">
+                    <did>
+                        <unittitle>Children's art, Court Officers Memorial Wall, New York State Supreme Court, 111 Centre Street</unittitle>
+                        <container id="cid3484013" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484013" type="Folder">6</container>
+                        <unitdate>2002 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref50" level="item">
+                    <did>
+                        <unittitle>Interior Memorial, Sixth Precinct House, NYPD</unittitle>
+                        <container id="cid3484014" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484014" type="Folder">6</container>
+                        <unitdate>2002 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref51" level="item">
+                    <did>
+                        <unittitle>Tile angels on fence, Greenwich House Project, 7th and Greenwich Avenues</unittitle>
+                        <container id="cid3484015" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484015" type="Folder">6</container>
+                        <unitdate>2002, May</unitdate>
+                    </did>
+                </c>
+                <c id="ref52" level="item">
+                    <did>
+                        <unittitle>Firefighter John Bergin, Engine Company 9, Ladder Company 6, Chinatown, FDNY</unittitle>
+                        <container id="cid3484016" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484016" type="Folder">6</container>
+                        <unitdate>2002 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref53" level="item">
+                    <did>
+                        <unittitle>Interior Memorial, Engine Company 9, Ladder Company 6, Chinatown, FDNY</unittitle>
+                        <container id="cid3484017" type="Box" label="Graphic materials">1</container>
+                        <container parent="cid3484017" type="Folder">6</container>
+                        <unitdate>2002 May</unitdate>
                     </did>
                 </c>
             </c>
@@ -262,8 +413,8 @@
                 <c id="ref31" level="otherlevel">
                     <did>
                         <unittitle>Replica of Statue of Liberty</unittitle>
-                        <container id="cid503485" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid503485" type="Folder">5</container>
+                        <container id="cid503485" type="Box" label="Mixed Materials">2</container>
+                        <container parent="cid503485" type="Folder">1</container>
                         <unitdate>2002 Feb.</unitdate>
                     </did>
                 </c>
@@ -271,7 +422,7 @@
                     <did>
                         <unittitle>Hanover Street, NYC, Autumn 1977</unittitle>
                         <container id="cid503484" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid503484" type="Folder">6</container>
+                        <container parent="cid503484" type="Folder">1</container>
                         <unitdate>1977</unitdate>
                     </did>
                 </c>
@@ -279,7 +430,7 @@
                     <did>
                         <unittitle>Orchard Street New York City, June 5, 1990</unittitle>
                         <container id="cid503483" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid503483" type="Folder">6</container>
+                        <container parent="cid503483" type="Folder">1</container>
                         <unitdate>1990, Jun. 5</unitdate>
                     </did>
                 </c>
