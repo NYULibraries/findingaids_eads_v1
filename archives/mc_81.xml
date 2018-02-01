@@ -1,1477 +1,168 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid url="http://dlib.nyu.edu/findingaids/html/archives/mc_81">mc_81</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Charles Butler Papers 
-                    <lb/>
-                    <date>1817-1908 </date>
-                    <lb/>(Bulk 
-                    <date normal="1837/1882" type="bulk">1837-1882) </date>
-                    <lb/>
-                    <num>MC 81 </num>
-                    <num>MC 81</num>
-                </titleproper>
-                <author>Finding aid prepared by Processed by Cynthia Siu and Geri Solomon</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derived from butler.xml</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>New York University Archives</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2641</addressline>
-                    <addressline>university-archives@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2016-06-08T11:06-0400</date>
-            </creation>
-            <langusage>Description is in 
-                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Charles Butler Papers</unittitle>
-            <unitid>MC 81</unitid>
-            <repository>
-                <corpname>New York University Archives</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>10.0 linear feet</extent>
-                <extent>10 linear feet (22 boxes)</extent>
-            </physdesc>
-            <unitdate normal="1837/1882" type="bulk">Bulk, 1837-1882</unitdate>
-            <unitdate normal="1817/1908" type="inclusive">1817-1908, (Bulk 1837-1882)</unitdate>
-            <physloc id="ref1" label="Location note">This collection is in offsite storage (except for the maps, which are stored onsite). Please contact the repository for access.</physloc>
-            <abstract id="ref2" label="Abstract">Charles Butler was born in New York in 1802. He was a lawyer whose endeavors included anti-Masonry, New York politics, western state bond issues and speculation, canal, road and railroad construction, and philanthropy. The papers of Charles Butler span the years 1817 to 1908, and include correspondence, business papers, legal documents, ledger books, pamphlets, and maps.</abstract>
-            <origination label="creator">
-                <persname source="naf">Butler, Charles, 1802-1897</persname>
-            </origination>
-        </did>
-        <bioghist id="ref11">
-            <head>Historical/Biographical Note</head>
-            <p>During his lifetime, Charles Butler was involved in many endeavors. For a time he was employed as an agent for the New York Life Insurance and Trust Company, and held various positions in the transportation industry working with canals, roads, and railroads. He was also involved in New York politics, anti-Masonry, and state bond investment and land speculation in the antebellum west. One such interest was in the Wabash and Erie Canal, the construction of which Congress authorized in 1827. When completed in 1853, the Wabash and Erie Canal was the longest man-made waterway in the Western Hemisphere and extended nearly 500 miles. By 1860, however, after a short time in use, the canal was incrementally abandoned in response to the proliferation of railroads.</p>
-            <p>Butler's other accomplishments are outlined in the following chronology</p>
-            <chronlist>
-                <chronitem>
-                    <date>Jan 15, 1802</date>
-                    <event>Born, Kinderhook Landing, N.Y.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1819</date>
-                    <event>Employed as clerk in the law office of Martin Van Buren at Albany, N.Y.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1822</date>
-                    <event>Appointed deputy clerk of New York State Senate</event>
-                </chronitem>
-                <chronitem>
-                    <date>1824</date>
-                    <event>Admitted to New York Bar</event>
-                </chronitem>
-                <chronitem>
-                    <date>1825</date>
-                    <event>Married Eliza A. Ogden</event>
-                </chronitem>
-                <chronitem>
-                    <date>1826-1827</date>
-                    <event>Prosecuted the kidnappers of William Morgan, a Freemason</event>
-                </chronitem>
-                <chronitem>
-                    <date>1829</date>
-                    <event>Appointed postmaster at Geneva, N.Y.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1830</date>
-                    <event>Became an agent of the New York Life Insurance and Trust Co.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1833</date>
-                    <event>Traveled in Michigan, Indiana, and Illinois</event>
-                </chronitem>
-                <chronitem>
-                    <date>1834</date>
-                    <event>Moved to New York City</event>
-                </chronitem>
-                <chronitem>
-                    <date>1836</date>
-                    <eventgrp>
-                        <event>Became a member of the Council of the University of the City of New York</event>
-                        <event>Became one of twenty founders of the Union Theological Seminary and a member of its first Board of Directors.</event>
-                    </eventgrp>
-                </chronitem>
-                <chronitem>
-                    <date>ca. 1862</date>
-                    <event>President of the St. Louis, Alton, and Terre Haute Railroad Co.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1870-1897</date>
-                    <event>President of the Board of Directors for the Union Theological Seminary</event>
-                </chronitem>
-                <chronitem>
-                    <date>Dec 13, 1897</date>
-                    <event>Died, New York City</event>
-                </chronitem>
-            </chronlist>
-        </bioghist>
-        <arrangement id="ref18">
-            <head>Arrangement</head>
-            <p>The collection contains correspondence, business papers, legal documents, and pamphlets organized alphabetically by subject.</p>
-            <p>This collection is arranged in three series:</p>
-            <list type="ordered">
-                <item>I. Correspondence and business papers, legal documents, and pamphlets. Arranged alphabetically by subject</item>
-                <item>II. Bound letter books and financial ledgers</item>
-                <item>III. Maps</item>
-            </list>
-        </arrangement>
-        <relatedmaterial id="ref185">
-            <head>Related Material at the New York University Archives</head>
-            <p>New York University Council. Charles Butler papers, 1837-1899 (RG 2.0.1).</p>
-        </relatedmaterial>
-        <scopecontent id="ref17">
-            <head>Scope and Content Note</head>
-            <p>The papers of Charles Butler span the years 1817 to 1908, the bulk of which pertain to the dealings of the American Land Company, and the Wabash and Erie Canal. They include correspondence, business papers, legal documents, ledger books, pamphlets, and maps.</p>
-            <p>Butler's American Land Company correspondence deals chiefly with property issues along the Mississippi River, public debts in Indiana, and the Wabash and Erie Canal. There is also a small amount of family correspondence and a 1833 letter written to the editor of the Albany Argus regarding travels in the western states.</p>
-            <p>The business papers include land patents for 1841, stock certificates dated 1847 and 1853, state of Michigan reports and the Governor's message of 1849, a patent signed by the secretary of the State of Wiscons in 1856, and bound letters from J.L. Williams, chief engineer of the Wabash and Erie Canal.</p>
-            <p>Many business letters are bound into volumes with indexes and prominent correspondents include Henry and Peter Anderson, Walter Goodman and James G. King of Indianapolis. Also included are legal documents which refer to the case of Anderson v. Messinger (a property case in Toledo, Ohio), correspondence, exhibits for trials in 1906 and 1908, briefs for the defendant and plaintiff, and a petition. Other legal documents concern the Wabash and Erie Canal and include letters to law offices and attorneys F.W. Gilley Jr., McDonald and Butler, F.F. Marbury, F.F. Marbury Jr. and others.</p>
-            <p>The financial ledgers contain bills receivable, bills payable, receipts, disbursements, expenses, balance sheets, and interest rates. There are also scrapbooks of newspaper clippings.</p>
-            <p>Pamphlets and annual reports span the years 1827-1878, and are primarily concerned with the Wabash and Erie Canal corporation. The maps include state maps of Pennsylvania, Indiana and Ohio from the 1840s and 50s; a detailed map of Toledo and its vicinity, with details of its streets, ports, and new additions ca. 1850s. There is also a map of an Indian Reservation and an Oak Orchard.</p>
-        </scopecontent>
-        <odd id="ref15">
-            <head>General note</head>
-            <p>Source: the Collection of Charles Butler, the Manuscript Division, Library of Congress.</p>
-        </odd>
-        <prefercite id="ref10">
-            <head>Preferred Citation</head>
-            <p>Published citations should take the following form: Identification of item, date (if known); Charles Butler Papers; MC 81; box number; folder number; New York University Archives, New York University Libraries.</p>
-        </prefercite>
-        <userestrict id="ref8">
-            <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the:
-                <lb/>
-                <address>
-                    <addressline>New York University Archives
-                        <lb/> </addressline>
-                    <addressline>Elmer Holmes Bobst Library
-                        <lb/> </addressline>
-                    <addressline>70 Washington Square South
-                        <lb/> </addressline>
-                    <addressline>New York, NY 10012
-                        <lb/> </addressline>
-                    <addressline>Phone: (212) 998-2646
-                        <lb/> </addressline>
-                    <addressline>Fax: (212) 995-4070
-                        <lb/> </addressline>
-                    <addressline>E-mail: university-archives@nyu.edu
-                        <lb/> </addressline>
-                </address></p>
-        </userestrict>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions. It is in
-                <extref ns2:href="http://www.nyu.edu/library/bobst/research/arch/butler.htm">
-                    <archref> off-site storage</archref> </extref></p>
-        </accessrestrict>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>These papers were donated to the New York University Archives by Charles Butler's daughter, Emily Ogden Butler, in 1925.</p>
-        </custodhist>
-        <controlaccess>
-            <corpname rules="dacs" source="local">Albany Argus.</corpname>
-            <corpname source="naf">American Land Company.</corpname>
-            <persname rules="dacs" source="local">Anderson, Henry, d. 1846.</persname>
-            <persname rules="dacs" source="local">Anderson, Peter, 1804-1868</persname>
-            <persname source="naf">Butler, Charles, 1802-1897</persname>
-            <persname rules="dacs" source="local">Butler, Emily Ogden</persname>
-            <persname source="naf">Croswell, Edwin, 1797-1871</persname>
-            <persname source="naf">Dowling, Thomas, 1806-1876</persname>
-            <persname rules="dacs" source="local">Goodman, Walter A.</persname>
-            <corpname source="naf">Indiana. Board of Trustees of the Wabash and Erie Canal.</corpname>
-            <persname source="naf">Williams, J. L.,  (Jesse Lynch), 1807-1886</persname>
-            <subject source="lcsh">Canals |x Design and construction |x Costs </subject>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <genreform source="aat">Correspondence.</genreform>
-            <subject source="lcsh">Land speculation |z United States.</subject>
-            <genreform source="aat">Ledgers (account books).</genreform>
-            <genreform source="lcsh">Legal documents.</genreform>
-            <genreform source="aat">Maps.</genreform>
-            <genreform source="lcsh">Pamphlets.</genreform>
-            <geogname source="lcsh">United States |x Territorial expansion.</geogname>
-            <subject source="lcsh">Wabash and Erie Canal (Ind. and Ohio)</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref21" level="series">
-                <did>
-                    <unittitle>Series I: Correspondence, Business Papers, Legal Documents, and Pamphlets</unittitle>
-                </did>
-                <c id="ref22" level="subseries">
-                    <did>
-                        <unittitle>American Land Company</unittitle>
-                    </did>
-                    <c id="ref23" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19476" type="Box" label="Mixed materials (31142042277213)">1</container>
-                            <container parent="cid19476" type="Folder">1</container>
-                            <unitdate normal="1837/1847" type="inclusive">1837-1847</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref24" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19475" type="Box" label="Mixed materials (31142042277213)">1</container>
-                            <container parent="cid19475" type="Folder">2</container>
-                            <unitdate normal="1840/1840">1840</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref25" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19474" type="Box" label="Mixed materials (31142042277213)">1</container>
-                            <container parent="cid19474" type="Folder">3</container>
-                            <unitdate normal="1841/1841">1841</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref26" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19473" type="Box" label="Mixed materials (31142042277213)">1</container>
-                            <container parent="cid19473" type="Folder">4</container>
-                            <unitdate normal="1842/1849" type="inclusive">1842-1849</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref27" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19472" type="Box" label="Mixed materials (31142042277213)">1</container>
-                            <container parent="cid19472" type="Folder">5</container>
-                            <unitdate normal="1853/1859" type="inclusive">1853-1859</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref28" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19471" type="Box" label="Mixed materials (31142042277213)">1</container>
-                            <container parent="cid19471" type="Folder">6</container>
-                            <unitdate normal="1860/1860">1860</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref29" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19470" type="Box" label="Mixed materials (31142042277213)">1</container>
-                            <container parent="cid19470" type="Folder">7</container>
-                            <unitdate normal="1861/1861">1861</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref30" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19469" type="Box" label="Mixed materials (31142042277213)">1</container>
-                            <container parent="cid19469" type="Folder">8</container>
-                            <unitdate normal="1864/1865" type="inclusive">1864-1865</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref31" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19468" type="Box" label="Mixed materials (31142042277213)">1</container>
-                            <container parent="cid19468" type="Folder">9</container>
-                            <unitdate normal="1866/1869" type="inclusive">1866-1869</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref32" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19467" type="Box" label="Mixed materials (31142042277213)">1</container>
-                            <container parent="cid19467" type="Folder">10</container>
-                            <unitdate normal="1870/1875" type="inclusive">1870-1875</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref33" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19466" type="Box" label="Mixed materials (31142042277221)">2</container>
-                            <container parent="cid19466" type="Folder">1</container>
-                            <unitdate normal="1877/1879" type="inclusive">1877-1879</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref34" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19465" type="Box" label="Mixed materials (31142042277221)">2</container>
-                            <container parent="cid19465" type="Folder">2</container>
-                            <unitdate normal="1880/1880">1880</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref35" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19464" type="Box" label="Mixed materials (31142042277221)">2</container>
-                            <container parent="cid19464" type="Folder">3</container>
-                            <unitdate normal="1881/1881">1881</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref36" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company</unittitle>
-                            <container id="cid19463" type="Box" label="Mixed materials (31142042277221)">2</container>
-                            <container parent="cid19463" type="Folder">4</container>
-                            <unitdate normal="1882/1882">1882</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref37" level="otherlevel">
-                        <did>
-                            <unittitle>Charles Avery File</unittitle>
-                            <container id="cid19462" type="Box" label="Mixed materials (31142042277221)">2</container>
-                            <container parent="cid19462" type="Folder">5</container>
-                            <unitdate normal="1883/1883">1883</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref38" level="otherlevel">
-                        <did>
-                            <unittitle>Charles Avery File</unittitle>
-                            <container id="cid19461" type="Box" label="Mixed materials (31142042277221)">2</container>
-                            <container parent="cid19461" type="Folder">6</container>
-                            <unitdate>Jan 1883</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref39" level="otherlevel">
-                        <did>
-                            <unittitle>Charles Avery File</unittitle>
-                            <container id="cid19460" type="Box" label="Mixed materials (31142042277221)">2</container>
-                            <container parent="cid19460" type="Folder">7</container>
-                            <unitdate>Feb 1883-Dec 1883</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref40" level="otherlevel">
-                        <did>
-                            <unittitle>Charles Avery File</unittitle>
-                            <container id="cid19459" type="Box" label="Mixed materials (31142042277221)">2</container>
-                            <container parent="cid19459" type="Folder">8</container>
-                            <unitdate normal="1884/1884">1884</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref41" level="otherlevel">
-                        <did>
-                            <unittitle>Charles Avery File</unittitle>
-                            <container id="cid19458" type="Box" label="Mixed materials (31142042277221)">2</container>
-                            <container parent="cid19458" type="Folder">9</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref42" level="subseries">
-                        <did>
-                            <unittitle>Anderson v. Messinger</unittitle>
-                        </did>
-                        <c id="ref43" level="otherlevel">
-                            <did>
-                                <unittitle>Anderson v. Messinger</unittitle>
-                                <container id="cid19457" type="Box" label="Mixed materials (31142042277221)">2</container>
-                                <container parent="cid19457" type="Folder">10</container>
-                                <unitdate normal="1837/1837">1837</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref44" level="otherlevel">
-                            <did>
-                                <unittitle>Anderson v. Messinger</unittitle>
-                                <container id="cid19456" type="Box" label="Mixed materials (31142042277221)">2</container>
-                                <container parent="cid19456" type="Folder">11</container>
-                                <unitdate normal="1840/1849" type="inclusive">1840-1849</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref45" level="otherlevel">
-                            <did>
-                                <unittitle>Anderson v. Messinger</unittitle>
-                                <container id="cid19455" type="Box" label="Mixed materials (31142042277221)">2</container>
-                                <container parent="cid19455" type="Folder">12</container>
-                                <unitdate normal="1850/1859" type="inclusive">1850-1859</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref46" level="otherlevel">
-                            <did>
-                                <unittitle>Anderson v. Messinger</unittitle>
-                                <container id="cid19454" type="Box" label="Mixed materials (31142042277221)">2</container>
-                                <container parent="cid19454" type="Folder">13</container>
-                                <unitdate normal="1860/1869" type="inclusive">1860-1869</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref47" level="otherlevel">
-                            <did>
-                                <unittitle>Anderson v. Messinger</unittitle>
-                                <container id="cid19453" type="Box" label="Mixed materials (31142042277221)">2</container>
-                                <container parent="cid19453" type="Folder">14</container>
-                                <unitdate normal="1903/1906" type="inclusive">1903-1906</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref48" level="otherlevel">
-                            <did>
-                                <unittitle>Exhibits for trial (documents dated: 1839-1866</unittitle>
-                                <container id="cid19452" type="Box" label="Mixed materials (31142042277221)">2</container>
-                                <container parent="cid19452" type="Folder">15</container>
-                                <unitdate>1906, Dec.</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref49" level="otherlevel">
-                            <did>
-                                <unittitle>Exhibits for trial (documents dated: 1838-1860</unittitle>
-                                <container id="cid19451" type="Box" label="Mixed materials (31142042277239)">3</container>
-                                <container parent="cid19451" type="Folder">1</container>
-                                <unitdate>Feb 13, 1908</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref50" level="otherlevel">
-                            <did>
-                                <unittitle>Briefs for the Defendant, case #679</unittitle>
-                                <container id="cid19450" type="Box" label="Mixed materials (31142042277239)">3</container>
-                                <container parent="cid19450" type="Folder">2</container>
-                                <unitdate>undated</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref51" level="otherlevel">
-                            <did>
-                                <unittitle>Briefs for the Defendant, case #11,434</unittitle>
-                                <container id="cid19449" type="Box" label="Mixed materials (31142042277239)">3</container>
-                                <container parent="cid19449" type="Folder">3</container>
-                                <unitdate>undated</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref52" level="otherlevel">
-                            <did>
-                                <unittitle>Briefs for the Defendant, case #1479</unittitle>
-                                <container id="cid19448" type="Box" label="Mixed materials (31142042277239)">3</container>
-                                <container parent="cid19448" type="Folder">4</container>
-                                <unitdate>undated</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref53" level="otherlevel">
-                            <did>
-                                <unittitle>Briefs for the Defendant, case #1879</unittitle>
-                                <container id="cid19447" type="Box" label="Mixed materials (31142042277239)">3</container>
-                                <container parent="cid19447" type="Folder">5</container>
-                                <unitdate>undated</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref54" level="otherlevel">
-                            <did>
-                                <unittitle>Briefs for the Defendant, case #1916</unittitle>
-                                <container id="cid19446" type="Box" label="Mixed materials (31142042277239)">3</container>
-                                <container parent="cid19446" type="Folder">6</container>
-                                <unitdate>undated</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref55" level="otherlevel">
-                            <did>
-                                <unittitle>Briefs for the Defendant, case #10,689</unittitle>
-                                <container id="cid19445" type="Box" label="Mixed materials (31142042277239)">3</container>
-                                <container parent="cid19445" type="Folder">7</container>
-                                <unitdate>undated</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref56" level="otherlevel">
-                            <did>
-                                <unittitle>Briefs for the Defendant, case #1679</unittitle>
-                                <container id="cid19444" type="Box" label="Mixed materials (31142042277239)">3</container>
-                                <container parent="cid19444" type="Folder">8</container>
-                                <unitdate>undated</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref57" level="otherlevel">
-                            <did>
-                                <unittitle>Briefs for the Defendant, case #1916</unittitle>
-                                <container id="cid19443" type="Box" label="Mixed materials (31142042277247)">4</container>
-                                <container parent="cid19443" type="Folder">1</container>
-                                <unitdate>undated</unitdate>
-                            </did>
-                        </c>
-                        <c id="ref58" level="otherlevel">
-                            <did>
-                                <unittitle>Petition</unittitle>
-                                <container id="cid19442" type="Box" label="Mixed materials (31142042277247)">4</container>
-                                <container parent="cid19442" type="Folder">2</container>
-                                <unitdate>undated</unitdate>
-                            </did>
-                        </c>
-                    </c>
-                </c>
-                <c id="ref59" level="subseries">
-                    <did>
-                        <unittitle>Business Correspondence</unittitle>
-                    </did>
-                    <c id="ref60" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19441" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19441" type="Folder">1</container>
-                            <unitdate normal="1841/1845" type="inclusive">1841-1845</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref61" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19440" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19440" type="Folder">2</container>
-                            <unitdate normal="1846/1849" type="inclusive">1846-1849</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref62" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19439" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19439" type="Folder">3</container>
-                            <unitdate normal="1867/1868" type="inclusive">1867-1868</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref63" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19438" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19438" type="Folder">4</container>
-                            <unitdate>Jan 1869</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref64" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19437" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19437" type="Folder">5</container>
-                            <unitdate>Feb 1869</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref65" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19436" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19436" type="Folder">6</container>
-                            <unitdate>Mar 1869-Apr 1869</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref66" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19435" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19435" type="Folder">7</container>
-                            <unitdate>May 1869-Jun 1869</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref67" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19434" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19434" type="Folder">8</container>
-                            <unitdate>Jul 1869-Aug 1869</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref68" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19433" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19433" type="Folder">9</container>
-                            <unitdate>Sep 1869-Oct 1869</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref69" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19432" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19432" type="Folder">10</container>
-                            <unitdate>Nov 1869-Dec 1869</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref70" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence</unittitle>
-                            <container id="cid19431" type="Box" label="Mixed materials (31142042277254)">5</container>
-                            <container parent="cid19431" type="Folder">11</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref71" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence. [Walter Goodman from Holly Springs, MS (bound)]</unittitle>
-                            <container id="cid19430" type="Box" label="Mixed materials (31142042277262)">6</container>
-                            <container parent="cid19430" type="Folder">1</container>
-                            <unitdate>1849-1854</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref72" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence (bound) [Various canal related]</unittitle>
-                            <container id="cid19429" type="Box" label="Mixed materials (31142042277262)">6</container>
-                            <container parent="cid19429" type="Folder">2</container>
-                            <unitdate>1850-1851</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref73" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence (bound)</unittitle>
-                            <container id="cid19428" type="Box" label="Mixed materials (31142042277270)">7</container>
-                            <container parent="cid19428" type="Folder">1</container>
-                            <unitdate>1849-1852</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref74" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence (bound)</unittitle>
-                            <container id="cid19427" type="Box" label="Mixed materials (31142042277270)">7</container>
-                            <container parent="cid19427" type="Folder">2</container>
-                            <unitdate>1856-1865</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref75" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence (bound)</unittitle>
-                            <container id="cid19426" type="Box" label="Mixed materials (31142042277270)">7</container>
-                            <container parent="cid19426" type="Folder">3</container>
-                            <unitdate normal="1857/1860" type="inclusive">1857-1860</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref76" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence (bound)</unittitle>
-                            <container id="cid19425" type="Box" label="Mixed materials (31142042277288)">8</container>
-                            <container parent="cid19425" type="Folder">1</container>
-                            <unitdate normal="1860/1867" type="inclusive">1860-1867</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref77" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence received (removed from bound vol.)</unittitle>
-                            <container id="cid19424" type="Box" label="Mixed materials (31142042277288)">8</container>
-                            <container parent="cid19424" type="Folder">2</container>
-                            <unitdate normal="1876/1901" type="inclusive">1876 , 1901</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref78" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence received (removed from bound vol.)</unittitle>
-                            <container id="cid19423" type="Box" label="Mixed materials (31142042277288)">8</container>
-                            <container parent="cid19423" type="Folder">3</container>
-                            <unitdate normal="1828/1828">ca. 1828</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref79" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence (bound)</unittitle>
-                            <container id="cid19422" type="Box" label="Mixed materials (31142042277288)">8</container>
-                            <container parent="cid19422" type="Folder">4</container>
-                            <unitdate>1833-1842</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref80" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence (bound)</unittitle>
-                            <container id="cid19421" type="Box" label="Mixed materials (31142042277288)">8</container>
-                            <container parent="cid19421" type="Folder">5</container>
-                            <unitdate>Dec 1845-May 1846</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref81" level="otherlevel">
-                        <did>
-                            <unittitle>Business Correspondence (bound)</unittitle>
-                            <container id="cid19420" type="Box" label="Mixed materials (31142042277288)">8</container>
-                            <container parent="cid19420" type="Folder">6</container>
-                            <unitdate normal="1849/1849">1849</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref82" level="subseries">
-                    <did>
-                        <unittitle>Indiana Debt</unittitle>
-                    </did>
-                    <c id="ref83" level="otherlevel">
-                        <did>
-                            <unittitle>Indiana Debt</unittitle>
-                            <container id="cid19419" type="Box" label="Mixed materials (31142042277296)">9</container>
-                            <container parent="cid19419" type="Folder">1</container>
-                            <unitdate normal="1843/1843">1843</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref84" level="otherlevel">
-                        <did>
-                            <unittitle>Indiana Debt</unittitle>
-                            <container id="cid19418" type="Box" label="Mixed materials (31142042277296)">9</container>
-                            <container parent="cid19418" type="Folder">2</container>
-                            <unitdate>Dec 1844-Jul 1845</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref85" level="otherlevel">
-                        <did>
-                            <unittitle>Legal Documents</unittitle>
-                            <container id="cid19417" type="Box" label="Mixed materials (31142042277296)">9</container>
-                            <container parent="cid19417" type="Folder">3</container>
-                            <unitdate>Jul 1845-Dec 1845</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref86" level="otherlevel">
-                        <did>
-                            <unittitle>Legal Documents</unittitle>
-                            <container id="cid19416" type="Box" label="Mixed materials (31142042277296)">9</container>
-                            <container parent="cid19416" type="Folder">4</container>
-                            <unitdate>Feb 1845</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref87" level="otherlevel">
-                        <did>
-                            <unittitle>Indiana Debt</unittitle>
-                            <container id="cid19415" type="Box" label="Mixed materials (31142042277296)">9</container>
-                            <container parent="cid19415" type="Folder">5</container>
-                            <unitdate>Feb 20, 1846</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref88" level="otherlevel">
-                        <did>
-                            <unittitle>Indiana Debt</unittitle>
-                            <container id="cid19414" type="Box" label="Mixed materials (31142042277304)">10</container>
-                            <container parent="cid19414" type="Folder">1</container>
-                            <unitdate>Mar 1846</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref89" level="otherlevel">
-                        <did>
-                            <unittitle>Indiana Debt</unittitle>
-                            <container id="cid19413" type="Box" label="Mixed materials (31142042277304)">10</container>
-                            <container parent="cid19413" type="Folder">2</container>
-                            <unitdate>Nov 1846</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref90" level="otherlevel">
-                        <did>
-                            <unittitle>Indiana Debt</unittitle>
-                            <container id="cid19412" type="Box" label="Mixed materials (31142042277304)">10</container>
-                            <container parent="cid19412" type="Folder">3</container>
-                            <unitdate>Dec 1846</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref91" level="otherlevel">
-                        <did>
-                            <unittitle>Indiana Debt</unittitle>
-                            <container id="cid19411" type="Box" label="Mixed materials (31142042277304)">10</container>
-                            <container parent="cid19411" type="Folder">4</container>
-                            <unitdate normal="1847/1849" type="inclusive">1847-1849</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref92" level="otherlevel">
-                        <did>
-                            <unittitle>St. Joseph Valley Register</unittitle>
-                            <container id="cid19410" type="Box" label="Mixed materials (31142042277304)">10</container>
-                            <container parent="cid19410" type="Folder">5</container>
-                            <unitdate>Jan 16, 1851</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref93" level="otherlevel">
-                        <did>
-                            <unittitle>St. Joseph Valley Register</unittitle>
-                            <container id="cid19409" type="Box" label="Mixed materials (31142042277304)">10</container>
-                            <container parent="cid19409" type="Folder">6</container>
-                            <unitdate normal="1868/1868">1868</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref94" level="otherlevel">
-                        <did>
-                            <unittitle>St. Joseph Valley Register</unittitle>
-                            <container id="cid19408" type="Box" label="Mixed materials (31142042277304)">10</container>
-                            <container parent="cid19408" type="Folder">7</container>
-                            <unitdate normal="1873/1873">1873</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref95" level="otherlevel">
-                        <did>
-                            <unittitle>Index to bound volume of letters</unittitle>
-                            <container id="cid19407" type="Box" label="Mixed materials (31142042277312)">11</container>
-                            <container parent="cid19407" type="Folder">1</container>
-                            <unitdate normal="1854/1856" type="inclusive">1854-1856</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref96" level="otherlevel">
-                        <did>
-                            <unittitle>Index to bound volume of letters</unittitle>
-                            <container id="cid19406" type="Box" label="Mixed materials (31142042277312)">11</container>
-                            <container parent="cid19406" type="Folder">2</container>
-                            <unitdate>Mar 21, 1854, -Jun. 29, 1854</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref97" level="otherlevel">
-                        <did>
-                            <unittitle>Index to bound volume of letters</unittitle>
-                            <container id="cid19405" type="Box" label="Mixed materials (31142042277312)">11</container>
-                            <container parent="cid19405" type="Folder">3</container>
-                            <unitdate>Jul 10, 1854-Dec 29, 1854,</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref98" level="otherlevel">
-                        <did>
-                            <unittitle>Index to bound volume of letters</unittitle>
-                            <container id="cid19404" type="Box" label="Mixed materials (31142042277312)">11</container>
-                            <container parent="cid19404" type="Folder">4</container>
-                            <unitdate>Jan 1, 1855-Jun 30, 1855</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref99" level="otherlevel">
-                        <did>
-                            <unittitle>Index to bound volume of letters</unittitle>
-                            <container id="cid19403" type="Box" label="Mixed materials (31142042277312)">11</container>
-                            <container parent="cid19403" type="Folder">5</container>
-                            <unitdate>Jul 1, 1855-Dec 25, 1855</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref100" level="otherlevel">
-                        <did>
-                            <unittitle>Index to bound volume of letters</unittitle>
-                            <container id="cid19402" type="Box" label="Mixed materials (31142042277312)">11</container>
-                            <container parent="cid19402" type="Folder">6</container>
-                            <unitdate>Jan 2, 1856-Jun 23, 1856</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref101" level="subseries">
-                    <did>
-                        <unittitle>Mississippi,Indiana</unittitle>
-                    </did>
-                    <c id="ref102" level="otherlevel">
-                        <did>
-                            <unittitle>Booklet on properties surrounding the river</unittitle>
-                            <container id="cid19401" type="Box" label="Mixed materials (31142042277320)">12</container>
-                            <container parent="cid19401" type="Folder">1</container>
-                            <unitdate normal="1835/1836" type="inclusive">ca.1835-1836</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref103" level="otherlevel">
-                        <did>
-                            <unittitle>State of Michigan reports and Governor's Message</unittitle>
-                            <container id="cid19400" type="Box" label="Mixed materials (31142042277320)">12</container>
-                            <container parent="cid19400" type="Folder">2</container>
-                            <unitdate normal="1849/1849">1849</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref104" level="otherlevel">
-                        <did>
-                            <unittitle>Letters, declarations, and miscellaneous. Includes letter to the Albany Argus editor column about travels through several western states</unittitle>
-                            <container id="cid19399" type="Box" label="Mixed materials (31142042277320)">12</container>
-                            <container parent="cid19399" type="Folder">3</container>
-                            <unitdate normal="1833/1853" type="inclusive">1833-1853</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref105" level="otherlevel">
-                        <did>
-                            <unittitle>Patents (land)</unittitle>
-                            <container id="cid19398" type="Box" label="Mixed materials (31142042277320)">12</container>
-                            <container parent="cid19398" type="Folder">4</container>
-                            <unitdate>Jan 5, 1841</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref106" level="otherlevel">
-                        <did>
-                            <unittitle>Patents (land) from the Secretary of the State of Wisconsin</unittitle>
-                            <container id="cid19397" type="Box" label="Mixed materials (31142042277320)">12</container>
-                            <container parent="cid19397" type="Folder">5</container>
-                            <unitdate>Oct 3, 1856</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref107" level="subseries">
-                    <did>
-                        <unittitle>Wabashand Erie Canal</unittitle>
-                    </did>
-                    <c id="ref108" level="otherlevel">
-                        <did>
-                            <unittitle>Circular Statement</unittitle>
-                            <container id="cid19396" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19396" type="Folder">1</container>
-                            <unitdate normal="1848/1861" type="inclusive">1848-1861</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref109" level="otherlevel">
-                        <did>
-                            <unittitle>Correspondence</unittitle>
-                            <container id="cid19395" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19395" type="Folder">2</container>
-                            <unitdate normal="1849/1858" type="inclusive">1849-1858</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref110" level="otherlevel">
-                        <did>
-                            <unittitle>Correspondence</unittitle>
-                            <container id="cid19394" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19394" type="Folder">3</container>
-                            <unitdate normal="1862/1869" type="inclusive">1862-1869</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref111" level="otherlevel">
-                        <did>
-                            <unittitle>Correspondence</unittitle>
-                            <container id="cid19393" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19393" type="Folder">3</container>
-                            <unitdate normal="1871/1877" type="inclusive">1871-1877</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref112" level="otherlevel">
-                        <did>
-                            <unittitle>Family Correspondence</unittitle>
-                            <container id="cid19392" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19392" type="Folder">4</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref113" level="otherlevel">
-                        <did>
-                            <unittitle>E.B. Allen Correspondence</unittitle>
-                            <container id="cid19391" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19391" type="Folder">6</container>
-                            <unitdate normal="1876/1877" type="inclusive">1876-1877</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref114" level="otherlevel">
-                        <did>
-                            <unittitle>James Anderson Correspondence</unittitle>
-                            <container id="cid19390" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19390" type="Folder">7</container>
-                            <unitdate normal="1873/1873">1873</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref115" level="otherlevel">
-                        <did>
-                            <unittitle>A.L. Backus Correspondence</unittitle>
-                            <container id="cid19389" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19389" type="Folder">8</container>
-                            <unitdate normal="1871/1876" type="inclusive">1871-1876</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref116" level="otherlevel">
-                        <did>
-                            <unittitle>J.M. Butler Correspondence</unittitle>
-                            <container id="cid19388" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19388" type="Folder">9</container>
-                            <unitdate normal="1852/1878" type="inclusive">1852-1878</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref117" level="otherlevel">
-                        <did>
-                            <unittitle>Charles J. Canda Correspondence</unittitle>
-                            <container id="cid19387" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19387" type="Folder">10</container>
-                            <unitdate normal="1876/1877" type="inclusive">1876-1877</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref118" level="otherlevel">
-                        <did>
-                            <unittitle>Edwin Croswell Correspondence</unittitle>
-                            <container id="cid19386" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19386" type="Folder">11</container>
-                            <unitdate normal="1849/1853" type="inclusive">1849-ca.1853</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref119" level="otherlevel">
-                        <did>
-                            <unittitle>John Dowling Correspondence</unittitle>
-                            <container id="cid19385" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19385" type="Folder">12</container>
-                            <unitdate normal="1876/1876">1876</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref120" level="otherlevel">
-                        <did>
-                            <unittitle>Thomas Dowling Correspondence</unittitle>
-                            <container id="cid19384" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19384" type="Folder">13</container>
-                            <unitdate normal="1860/1874" type="inclusive">1860-1874</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref121" level="otherlevel">
-                        <did>
-                            <unittitle>Thomas Dowling Correspondence</unittitle>
-                            <container id="cid19383" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19383" type="Folder">14</container>
-                            <unitdate normal="1875/1876" type="inclusive">1875-1876</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref122" level="otherlevel">
-                        <did>
-                            <unittitle>(?) Fleetwood Correspondence</unittitle>
-                            <container id="cid19382" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19382" type="Folder">15</container>
-                            <unitdate normal="1851/1852" type="inclusive">1851-1852</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref123" level="otherlevel">
-                        <did>
-                            <unittitle>Jonathan K. Gapen Correspondence</unittitle>
-                            <container id="cid19381" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19381" type="Folder">16</container>
-                            <unitdate normal="1868/1875" type="inclusive">1868-1875</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref124" level="otherlevel">
-                        <did>
-                            <unittitle>Office of F.W. Gilley Jr. Correspondence</unittitle>
-                            <container id="cid19380" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19380" type="Folder">17</container>
-                            <unitdate normal="1893/1893">1893</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref125" level="otherlevel">
-                        <did>
-                            <unittitle>S.B. Gookins and Geo. C. Duy Correspondence</unittitle>
-                            <container id="cid19379" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19379" type="Folder">18</container>
-                            <unitdate normal="1875/1877" type="inclusive">1875-1877</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref126" level="otherlevel">
-                        <did>
-                            <unittitle>J.H. Hager Correspondence</unittitle>
-                            <container id="cid19378" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19378" type="Folder">19</container>
-                            <unitdate normal="1853/1877" type="inclusive">1853-1877</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref127" level="otherlevel">
-                        <did>
-                            <unittitle>J.S. Hinton Correspondence</unittitle>
-                            <container id="cid19377" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19377" type="Folder">20</container>
-                            <unitdate normal="1875/1876" type="inclusive">1875-1876</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref128" level="otherlevel">
-                        <did>
-                            <unittitle>A. Gracie King Correspondence</unittitle>
-                            <container id="cid19376" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19376" type="Folder">21</container>
-                            <unitdate normal="1853/1876" type="inclusive">ca.1853-1876</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref129" level="otherlevel">
-                        <did>
-                            <unittitle>McDonald and Butler, Attorneys-at-Law, Office of, Correspondence</unittitle>
-                            <container id="cid19375" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19375" type="Folder">22</container>
-                            <unitdate normal="1877/1899" type="inclusive">1877-1899</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref130" level="otherlevel">
-                        <did>
-                            <unittitle>W.R. McKeen Correspondence</unittitle>
-                            <container id="cid19374" type="Box" label="Mixed materials (31142042277338)">13</container>
-                            <container parent="cid19374" type="Folder">23</container>
-                            <unitdate normal="1877/1899" type="inclusive">1877-1899</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref131" level="otherlevel">
-                        <did>
-                            <unittitle>Office of F.F. Marbury and F.F. Marbury Jr. (Counselors at law) Correspondence</unittitle>
-                            <container id="cid19373" type="Box" label="Mixed materials (31142042277346)">14</container>
-                            <container parent="cid19373" type="Folder">1</container>
-                            <unitdate normal="1873/1887" type="inclusive">1873-1887</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref132" level="otherlevel">
-                        <did>
-                            <unittitle>D.D. Pratt Correspondence</unittitle>
-                            <container id="cid19372" type="Box" label="Mixed materials (31142042277346)">14</container>
-                            <container parent="cid19372" type="Folder">2</container>
-                            <unitdate normal="1869/1872" type="inclusive">1869-1872</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref133" level="otherlevel">
-                        <did>
-                            <unittitle>J.L. Williams Correspondence</unittitle>
-                            <container id="cid19371" type="Box" label="Mixed materials (31142042277346)">14</container>
-                            <container parent="cid19371" type="Folder">3</container>
-                            <unitdate normal="1863/1874" type="inclusive">1863-1874</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref134" level="otherlevel">
-                        <did>
-                            <unittitle>J.L. Williams Correspondence</unittitle>
-                            <container id="cid19370" type="Box" label="Mixed materials (31142042277346)">14</container>
-                            <container parent="cid19370" type="Folder">4</container>
-                            <unitdate normal="1875/1881" type="inclusive">1875-1881</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref135" level="otherlevel">
-                        <did>
-                            <unittitle>Financial Papers</unittitle>
-                            <container id="cid19369" type="Box" label="Mixed materials (31142042277346)">14</container>
-                            <container parent="cid19369" type="Folder">5</container>
-                            <unitdate normal="1856/1877" type="inclusive">1856-1877</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref136" level="otherlevel">
-                        <did>
-                            <unittitle>Legal Documents</unittitle>
-                            <container id="cid19368" type="Box" label="Mixed materials (31142042277346)">14</container>
-                            <container parent="cid19368" type="Folder">6</container>
-                            <unitdate normal="1841/1853" type="inclusive">1841-1853</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref137" level="otherlevel">
-                        <did>
-                            <unittitle>Legal Documents</unittitle>
-                            <container id="cid19367" type="Box" label="Mixed materials (31142042277346)">14</container>
-                            <container parent="cid19367" type="Folder">7</container>
-                            <unitdate normal="1854/1872" type="inclusive">1854-1872</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref138" level="otherlevel">
-                        <did>
-                            <unittitle>Legal Documents</unittitle>
-                            <container id="cid19366" type="Box" label="Mixed materials (31142042277353)">15</container>
-                            <container parent="cid19366" type="Folder">1</container>
-                            <unitdate normal="1873/1876" type="inclusive">1873-1876, undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref139" level="otherlevel">
-                        <did>
-                            <unittitle>Legal Documents: Circuit Court of the United States for the District of Indiana-in Chancery Jonathan K. Gapen vs. The Trustees of the Wabash and Erie Canal</unittitle>
-                            <container id="cid19365" type="Box" label="Mixed materials (31142042277353)">15</container>
-                            <container parent="cid19365" type="Folder">2</container>
-                            <unitdate normal="1875/1875">1875</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref140" level="otherlevel">
-                        <did>
-                            <unittitle>Legal Documents: John W. Garrett vs. Board of Trustees of Wabash and Erie Canal</unittitle>
-                            <container id="cid19364" type="Box" label="Mixed materials (31142042277353)">15</container>
-                            <container parent="cid19364" type="Folder">3</container>
-                            <unitdate>Nov 11, 1872</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref141" level="otherlevel">
-                        <did>
-                            <unittitle>Memos</unittitle>
-                            <container id="cid19363" type="Box" label="Mixed materials (31142042277353)">15</container>
-                            <container parent="cid19363" type="Folder">4</container>
-                            <unitdate normal="1845/1877" type="inclusive">ca.1845-1877, undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref142" level="otherlevel">
-                        <did>
-                            <unittitle>Newspapers</unittitle>
-                            <container id="cid19362" type="Box" label="Mixed materials (31142042277353)">15</container>
-                            <container parent="cid19362" type="Folder">5</container>
-                            <unitdate normal="1876/1876">1876</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref143" level="otherlevel">
-                        <did>
-                            <unittitle>Newspapers Clippings</unittitle>
-                            <container id="cid19361" type="Box" label="Mixed materials (31142042277353)">15</container>
-                            <container parent="cid19361" type="Folder">6</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref144" level="otherlevel">
-                        <did>
-                            <unittitle>Pamphlets: Annual Reports of the Board of Trustees</unittitle>
-                            <container id="cid19360" type="Box" label="Mixed materials (31142042277361)">16</container>
-                            <container parent="cid19360" type="Folder">1</container>
-                            <unitdate normal="1860/1874" type="inclusive">1860-1874</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref145" level="otherlevel">
-                        <did>
-                            <unittitle>Pamphlets: Memorial of the Holders of Certificates of Stock</unittitle>
-                            <container id="cid19359" type="Box" label="Mixed materials (31142042277361)">16</container>
-                            <container parent="cid19359" type="Folder">2</container>
-                            <unitdate normal="1857/1870" type="inclusive">1857-1870</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref146" level="otherlevel">
-                        <did>
-                            <unittitle>Pamphlets: Message of...</unittitle>
-                            <container id="cid19358" type="Box" label="Mixed materials (31142042277361)">16</container>
-                            <container parent="cid19358" type="Folder">3</container>
-                            <unitdate normal="1865/1871" type="inclusive">1865-1871</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref147" level="otherlevel">
-                        <did>
-                            <unittitle>Pamphlets: Relating to the Wabash and Erie Canal</unittitle>
-                            <container id="cid19357" type="Box" label="Mixed materials (31142042277361)">16</container>
-                            <container parent="cid19357" type="Folder">4</container>
-                            <unitdate normal="1827/1878" type="inclusive">1827-1878</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref148" level="otherlevel">
-                        <did>
-                            <unittitle>Pamphlets: Report of the Board of Trustees</unittitle>
-                            <container id="cid19356" type="Box" label="Mixed materials (31142042277361)">16</container>
-                            <container parent="cid19356" type="Folder">5</container>
-                            <unitdate normal="1869/1872" type="inclusive">1869-1872</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref149" level="otherlevel">
-                        <did>
-                            <unittitle>Pamphlets: Speech</unittitle>
-                            <container id="cid19355" type="Box" label="Mixed materials (31142042277361)">16</container>
-                            <container parent="cid19355" type="Folder">6</container>
-                            <unitdate normal="1870/1871" type="inclusive">1870-1871</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref150" level="otherlevel">
-                        <did>
-                            <unittitle>Pamphlets: Miscellaneous Printed Materials</unittitle>
-                            <container id="cid19354" type="Box" label="Mixed materials (31142042277361)">16</container>
-                            <container parent="cid19354" type="Folder">7</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                </c>
-            </c>
-            <c id="ref151" level="series">
-                <did>
-                    <unittitle>Series II</unittitle>
-                </did>
-                <c id="ref152" level="subseries">
-                    <did>
-                        <unittitle>Wabash and Erie Canal</unittitle>
-                    </did>
-                    <c id="ref153" level="otherlevel">
-                        <did>
-                            <unittitle>Bound Correspondence "from Dowling, Nofsinger, Puet and others"</unittitle>
-                            <container id="cid19353" type="Box" label="Mixed materials (31142042277379)">17</container>
-                            <container parent="cid19353" type="Folder">1</container>
-                            <unitdate normal="1849/1854" type="inclusive">1849-1854</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref154" level="otherlevel">
-                        <did>
-                            <unittitle>Bound Correspondence</unittitle>
-                            <container id="cid19352" type="Box" label="Mixed materials (31142042277379)">17</container>
-                            <container parent="cid19352" type="Folder">2</container>
-                            <unitdate normal="1852/1856" type="inclusive">1852-1856</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref155" level="otherlevel">
-                        <did>
-                            <unittitle>Stock Certificates</unittitle>
-                            <container id="cid19351" type="Box" label="Mixed materials (31142042277379)">17</container>
-                            <container parent="cid19351" type="Folder">3</container>
-                            <unitdate normal="1847/1853" type="inclusive">1847 1853</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref156" level="otherlevel">
-                        <did>
-                            <unittitle>Bound Correspondence "from J.L. Williams, Chief Engineer and others"</unittitle>
-                            <container id="cid19350" type="Box" label="Mixed materials (31142042277387)">18</container>
-                            <container parent="cid19350" type="Folder">1</container>
-                            <unitdate normal="1854/1859" type="inclusive">1854-1859</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref157" level="otherlevel">
-                        <did>
-                            <unittitle>Bound Correspondence</unittitle>
-                            <container id="cid19349" type="Box" label="Mixed materials (31142042277387)">18</container>
-                            <container parent="cid19349" type="Folder">2</container>
-                            <unitdate normal="1870/1874" type="inclusive">1870-1874</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref158" level="subseries">
-                    <did>
-                        <unittitle>Ledger Books</unittitle>
-                    </did>
-                    <c id="ref159" level="otherlevel">
-                        <did>
-                            <unittitle>American Land Company (detailed description)</unittitle>
-                            <container id="cid19348" type="Box" label="Mixed materials (31142042277395)">19</container>
-                            <unitdate normal="1835/1892" type="inclusive">1835-1892</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref160" level="otherlevel">
-                        <did>
-                            <unittitle>Financial Volume, includes bills receivable, bills payable; with index of names</unittitle>
-                            <container id="cid19347" type="Box" label="Mixed materials (31142042277403)">20</container>
-                            <unitdate normal="1854/1861" type="inclusive">ca.1854-1861</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref161" level="otherlevel">
-                        <did>
-                            <unittitle>Financial Volume, includes receipts and disbursements, expenses, balance sheet</unittitle>
-                            <container id="cid19346" type="Box" label="Mixed materials (31142042277411)">21</container>
-                            <unitdate normal="1831/1840" type="inclusive">1831-1840</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref162" level="otherlevel">
-                        <did>
-                            <unittitle>Wabash and Erie canal Financial volume, includes interest rates, names, who received, date, amount, when paid</unittitle>
-                            <container id="cid19345" type="Box" label="Mixed materials (31142042277411)">21</container>
-                            <unitdate normal="1857/1862" type="inclusive">1857-1862</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref163" level="otherlevel">
-                        <did>
-                            <unittitle>Scrapbook of Newspaper Clippings</unittitle>
-                            <container id="cid19344" type="Box" label="Mixed materials (31142042277429)">22</container>
-                            <unitdate normal="1833/1880" type="inclusive">1833-1880</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref164" level="otherlevel">
-                        <did>
-                            <unittitle>Three indexed volumes</unittitle>
-                            <container id="cid19343" type="Box" label="Mixed materials (31142042277429)">22</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                </c>
-            </c>
-            <c id="ref165" level="series">
-                <did>
-                    <unittitle>Series III</unittitle>
-                </did>
-                <c id="ref166" level="subseries">
-                    <did>
-                        <unittitle>Maps</unittitle>
-                    </did>
-                    <c id="ref167" level="otherlevel">
-                        <did>
-                            <unittitle>Northwestern Ohio, showing area of Indian reservation; inscribed "Greenville 12th Reservation mark by Gen'l Morgan (?) in 1795. Laws of 1817 for sale of 12 miles square sold in Minster, Ohio 1817</unittitle>
-                            <container id="cid19342" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19342" type="Folder">1</container>
-                            <unitdate normal="1817/1900" type="inclusive">[not before 1847]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref168" level="otherlevel">
-                        <did>
-                            <unittitle>Map of Port Lawrence and Vistula/Toledo</unittitle>
-                            <container id="cid19341" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19341" type="Folder">1</container>
-                            <unitdate>Aug 1834</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref169" level="otherlevel">
-                        <did>
-                            <unittitle>Oak Orchard (properties of American Life Insurance and Trust Company</unittitle>
-                            <container id="cid19340" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19340" type="Folder">1</container>
-                            <unitdate>Aug 8, 1840</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref170" level="otherlevel">
-                        <did>
-                            <unittitle>Map of Toledo and Port Lawrence Township</unittitle>
-                            <container id="cid19339" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19339" type="Folder">1</container>
-                            <unitdate normal="1844/1844">1844</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref171" level="otherlevel">
-                        <did>
-                            <unittitle>Map of Toledo and Port Lawrence Township</unittitle>
-                            <container id="cid19338" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19338" type="Folder">1</container>
-                            <unitdate normal="1844/1844">1844</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref172" level="otherlevel">
-                        <did>
-                            <unittitle>Map of Lucas Company</unittitle>
-                            <container id="cid19337" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19337" type="Folder">1</container>
-                            <unitdate>Feb 24, 1845</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref173" level="otherlevel">
-                        <did>
-                            <unittitle>Indiana</unittitle>
-                            <container id="cid19336" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19336" type="Folder">1</container>
-                            <unitdate normal="1846/1847" type="inclusive">1846-1847 , 1856-1857</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref174" level="otherlevel">
-                        <did>
-                            <unittitle>River Tracts 5&amp;6 T.III. V.S.R. in Toledo, Ohio</unittitle>
-                            <container id="cid19335" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19335" type="Folder">1</container>
-                            <unitdate>Mar 1852</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref175" level="otherlevel">
-                        <did>
-                            <unittitle>Map of Toledo showing new addition</unittitle>
-                            <container id="cid19334" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19334" type="Folder">1</container>
-                            <unitdate normal="1872/1872">1872</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref176" level="otherlevel">
-                        <did>
-                            <unittitle>Evansville, Map of Indiana and part of Ohio</unittitle>
-                            <container id="cid19333" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19333" type="Folder">1</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref177" level="otherlevel">
-                        <did>
-                            <unittitle>Maumee River and its surroundings with Vistula Plot and Port Lawrence Plot</unittitle>
-                            <container id="cid19332" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19332" type="Folder">1</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref178" level="otherlevel">
-                        <did>
-                            <unittitle>Mulberry, Chestnut, Elm, Lagrange, Champlain, Michigan, Ontario, Erie Streets. (Toledo)</unittitle>
-                            <container id="cid19331" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19331" type="Folder">1</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref179" level="otherlevel">
-                        <did>
-                            <unittitle>Map of Ohio</unittitle>
-                            <container id="cid19330" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19330" type="Folder">1</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref180" level="otherlevel">
-                        <did>
-                            <unittitle>Toledo</unittitle>
-                            <container id="cid19329" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19329" type="Folder">1</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref181" level="otherlevel">
-                        <did>
-                            <unittitle>Indiana (duplicates)</unittitle>
-                            <container id="cid19328" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19328" type="Folder">1</container>
-                            <unitdate normal="1846/1857" type="inclusive">1846-1847 1856-1857</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref182" level="otherlevel">
-                        <did>
-                            <unittitle>The oil district Venango, Crawford and Warren Counties, Pennsylvania</unittitle>
-                            <container id="cid19327" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19327" type="Folder">1</container>
-                            <unitdate normal="1864/1864">1864</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref183" level="otherlevel">
-                        <did>
-                            <unittitle>Orleans County Property</unittitle>
-                            <container id="cid19326" type="Drawer" label="Mixed materials (0)">10</container>
-                            <container parent="cid19326" type="Folder">2</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                </c>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_81">mc_81</eadid><filedesc><titlestmt><titleproper>Guide to the Charles Butler Papers <lb/><date>1817-1908 </date><lb/>(Bulk <date normal="1837/1882" type="bulk">1837-1882) </date><lb/><num>MC 81 </num> <num>MC.81</num></titleproper><author>Collection processed by Processed by Cynthia Siu and Geri Solomon</author></titlestmt><editionstmt><p>This version was derived from butler.xml</p></editionstmt><publicationstmt><publisher>New York University Archives</publisher><address><addressline>New York University Archives</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2641</addressline><addressline>university-archives@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-02-01T16:21:28</date></creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc><revisiondesc><change><date>February 2018</date><item>Container List updated by John Zarrillo</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>New York University Archives</corpname>
+    </repository>
+    <unittitle>Charles Butler Papers</unittitle>
+    <origination label="creator">
+      <persname source="naf">Butler, Charles, 1802-1897</persname>
+    </origination>
+    <unitid>MC.81</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">10 Linear Feet</extent>
+      <extent altrender="carrier">in 27 boxes</extent>
+    </physdesc>
+    <unitdate normal="1817/1908" type="inclusive">1817-1908</unitdate>
+    <unitdate normal="1837/1882" type="bulk">1837-1882</unitdate>
+    <physloc id="aspace_0326dc56049ccb69a756129813aced98">This collection is in offsite storage (except for the maps, which are stored onsite). Please contact the repository for access.</physloc>
+    <abstract id="aspace_24363d6d9b820f9a582c2e4cd11b3861">Charles Butler was born in New York in 1802. He was a lawyer whose endeavors included anti-Masonry, New York politics, western state bond issues and speculation, canal, road and railroad construction, and philanthropy. The papers of Charles Butler span the years 1817 to 1908, and include correspondence, business papers, legal documents, ledger books, pamphlets, and maps.</abstract>
+  </did>
+  <bioghist id="aspace_c7f9cf05fbe10faa4e5c69c6e640f918">
+    <head>Historical/Biographical Note</head>
+<p>During his lifetime, Charles Butler was involved in many endeavors. For a time he was employed as an agent for the New York Life Insurance and Trust Company, and held various positions in the transportation industry working with canals, roads, and railroads. He was also involved in New York politics, anti-Masonry, and state bond investment and land speculation in the antebellum west. One such interest was in the Wabash and Erie Canal, the construction of which Congress authorized in 1827. When completed in 1853, the Wabash and Erie Canal was the longest man-made waterway in the Western Hemisphere and extended nearly 500 miles. By 1860, however, after a short time in use, the canal was incrementally abandoned in response to the proliferation of railroads.</p><p>Butler's other accomplishments are outlined in the following chronology</p>    <chronlist>
+      <head>Missing Title</head>
+      <chronitem>
+        <date>Jan 15, 1802</date>
+        <eventgrp>
+          <event>Born, Kinderhook Landing, N.Y.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1819</date>
+        <eventgrp>
+          <event>Employed as clerk in the law office of Martin Van Buren at Albany, N.Y.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1822</date>
+        <eventgrp>
+          <event>Appointed deputy clerk of New York State Senate</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1824</date>
+        <eventgrp>
+          <event>Admitted to New York Bar</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1825</date>
+        <eventgrp>
+          <event>Married Eliza A. Ogden</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1826-1827</date>
+        <eventgrp>
+          <event>Prosecuted the kidnappers of William Morgan, a Freemason</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1829</date>
+        <eventgrp>
+          <event>Appointed postmaster at Geneva, N.Y.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1830</date>
+        <eventgrp>
+          <event>Became an agent of the New York Life Insurance and Trust Co.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1833</date>
+        <eventgrp>
+          <event> Traveled in Michigan, Indiana, and Illinois</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1834</date>
+        <eventgrp>
+          <event>Moved to New York City</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1836</date>
+        <eventgrp>
+          <event>Became a member of the Council of the University of the City of New York</event>
+          <event>Became one of twenty founders of the Union Theological Seminary and a member of its first Board of Directors.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>ca. 1862</date>
+        <eventgrp>
+          <event>President of the St. Louis, Alton, and Terre Haute Railroad Co.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1870-1897</date>
+        <eventgrp>
+          <event>President of the Board of Directors for the Union Theological Seminary</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>Dec 13, 1897</date>
+        <eventgrp>
+          <event>Died, New York City</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+  </bioghist>
+  <arrangement id="aspace_158f6af6ce246aa209d6449aeb7849d9">
+    <head>Arrangement</head>
+<p>The collection contains correspondence, business papers, legal documents, and pamphlets organized alphabetically by subject.</p><p>This collection is arranged in three series:</p>    <list type="ordered">
+      <item>I. Correspondence and business papers, legal documents, and pamphlets. Arranged alphabetically by subject</item>
+      <item>II. Bound letter books and financial ledgers</item>
+      <item>III. Maps</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_916da97abf393cd9031e7b48c1dcd40d">
+    <head>Related Material at the New York University Archives</head>
+<p>New York University Council. Charles Butler papers, 1837-1899 (RG 2.0.1).</p>  </relatedmaterial>
+  <scopecontent id="aspace_434e1c6cf2d7fab94eacd2f6d54b5d0b">
+    <head>Scope and Content Note</head>
+<p>The papers of Charles Butler span the years 1817 to 1908, the bulk of which pertain to the dealings of the American Land Company, and the Wabash and Erie Canal. They include correspondence, business papers, legal documents, ledger books, pamphlets, and maps.</p><p>Butler's American Land Company correspondence deals chiefly with property issues along the Mississippi River, public debts in Indiana, and the Wabash and Erie Canal. There is also a small amount of family correspondence and a 1833 letter written to the editor of the Albany Argus regarding travels in the western states. </p><p>The business papers include land patents for 1841, stock certificates dated 1847 and 1853, state of Michigan reports and the Governor's message of 1849, a patent signed by the secretary of the State of Wiscons in 1856, and bound letters from J.L. Williams, chief engineer of the Wabash and Erie Canal.</p><p>Many business letters are bound into volumes with indexes and prominent correspondents include Henry and Peter Anderson, Walter Goodman and James G. King of Indianapolis. Also included are legal documents which refer to the case of Anderson v. Messinger (a property case in Toledo, Ohio), correspondence, exhibits for trials in 1906 and 1908, briefs for the defendant and plaintiff, and a petition. Other legal documents concern the Wabash and Erie Canal and include letters to law offices and attorneys F.W. Gilley Jr., McDonald and Butler, F.F. Marbury, F.F. Marbury Jr. and others. </p><p>The financial ledgers contain bills receivable, bills payable, receipts, disbursements, expenses, balance sheets, and interest rates. There are also scrapbooks of newspaper clippings.</p><p>Pamphlets and annual reports span the years 1827-1878, and are primarily concerned with the Wabash and Erie Canal corporation. The maps include state maps of Pennsylvania, Indiana and Ohio from the 1840s and 50s; a detailed map of Toledo and its vicinity, with details of its streets, ports, and new additions ca. 1850s. There is also a map of an Indian Reservation and an Oak Orchard.</p>  </scopecontent>
+  <prefercite id="aspace_edad8acb69c9e39ca92cd4dafdeff37c">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: Identification of item, date (if known); Charles Butler Papers; MC 81; box number; folder number; New York University Archives, New York University Libraries.</p>  </prefercite>
+  <userestrict id="aspace_1803fdc9ff09cb033ba56fd984d1e685">
+    <head>Use Restrictions</head>
+<p>Permission to publish materials must be obtained in writing from the:</p><p>New York University Archives</p><p>Elmer Holmes Bobst Library</p><p>70 Washington Square South</p><p>New York, NY 10012</p><p>Phone: (212) 998-2646</p><p>E-mail: university-archives@nyu.edu</p>  </userestrict>
+  <accessrestrict id="aspace_6b202a5e96b2cccfed13f5572a7d3f62">
+    <head>Access Restrictions</head>
+<p>Open for research without restrictions. The collection is held in off-site storage. Some folders in boxes 8 and 17 are currently unavailable. Please consult University Archives staff for more information.</p>  </accessrestrict>
+  <acqinfo id="aspace_bbf097c85fd2bbdb7eff8a83d36b8a06">
+    <head>Immediate Source of Acquisition</head>
+<p>These papers were donated to the New York University Archives by Charles Butler's daughter, Emily Ogden Butler, in 1925.</p>  </acqinfo>
+  <processinfo id="aspace_f8a2f9c12c07a974ab2e59a46c07c9d1">
+    <head>Processing Information</head>
+<p>A portion of the collection was rehoused for preservation purposes in fall 2017.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Maps.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Legal documents.</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Ledgers (account books).</genreform>
+    <genreform source="aat">Pamphlets.</genreform>
+    <subject source="lcsh">Wabash and Erie Canal (Ind. and Ohio)</subject>
+    <subject source="lcsh">Land speculation |z United States.</subject>
+    <geogname source="lcsh">United States |x Territorial expansion.</geogname>
+    <subject source="lcsh">Canals |x Design and construction |x Costs </subject>
+    <persname rules="dacs" source="local">Anderson, Peter, 1804-1868</persname>
+    <corpname source="naf">American Land Company</corpname>
+    <persname rules="dacs" source="local">Anderson, Henry, d. 1846.</persname>
+    <corpname rules="dacs" source="local">Albany Argus</corpname>
+    <persname rules="dacs" source="local">Butler, Emily Ogden</persname>
+    <persname source="naf">Butler, Charles, 1802-1897</persname>
+    <persname source="naf">Dowling, Thomas, 1806-1876</persname>
+    <persname source="naf">Croswell, Edwin, 1797-1871</persname>
+    <corpname source="naf">Indiana. Board of Trustees of the Wabash and Erie Canal</corpname>
+    <persname rules="dacs" source="local">Goodman, Walter A.</persname>
+    <persname source="naf">Williams, J. L. (Jesse Lynch), 1807-1886</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref21" level="series"><did><unittitle>Series I: Correspondence, Business Papers, Legal Documents, and Pamphlets</unittitle></did><c id="aspace_ref22" level="subseries"><did><unittitle>American Land Company</unittitle></did><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1837/1847" type="inclusive">1837-1847</unitdate><container id="aspace_872382834ec37a74b12d02cfd9609b98" label="Mixed Materials (31142042277213)" type="Box">1</container><container parent="aspace_872382834ec37a74b12d02cfd9609b98" type="Folder">1</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1840/1840" type="inclusive">1840</unitdate><container id="aspace_e55ec9af23f75276cafcc94c901c1a30" label="Mixed Materials (31142042277213)" type="Box">1</container><container parent="aspace_e55ec9af23f75276cafcc94c901c1a30" type="Folder">2</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1841/1841" type="inclusive">1841</unitdate><container id="aspace_f4740f7b707b482cc500c67a93e87a4e" label="Mixed Materials (31142042277213)" type="Box">1</container><container parent="aspace_f4740f7b707b482cc500c67a93e87a4e" type="Folder">3</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1842/1849" type="inclusive">1842-1849</unitdate><container id="aspace_88b91e42d722aa8fdb08f8d7d69c6347" label="Mixed Materials (31142042277213)" type="Box">1</container><container parent="aspace_88b91e42d722aa8fdb08f8d7d69c6347" type="Folder">4</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1853/1859" type="inclusive">1853-1859</unitdate><container id="aspace_082c653eaae56240b683c2bc0351bdf5" label="Mixed Materials (31142042277213)" type="Box">1</container><container parent="aspace_082c653eaae56240b683c2bc0351bdf5" type="Folder">5</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1860/1860" type="inclusive">1860</unitdate><container id="aspace_2bb3f05d27842012396f3bb8da78acc6" label="Mixed Materials (31142042277213)" type="Box">1</container><container parent="aspace_2bb3f05d27842012396f3bb8da78acc6" type="Folder">6</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1861/1861" type="inclusive">1861</unitdate><container id="aspace_137d233842504480cbd225c95d515d4a" label="Mixed Materials (31142042277213)" type="Box">1</container><container parent="aspace_137d233842504480cbd225c95d515d4a" type="Folder">7</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1864/1865" type="inclusive">1864-1865</unitdate><container id="aspace_69545b50c22d147a95d307ab29e152f2" label="Mixed Materials (31142042277213)" type="Box">1</container><container parent="aspace_69545b50c22d147a95d307ab29e152f2" type="Folder">8</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1866/1869" type="inclusive">1866-1869</unitdate><container id="aspace_4b37a44d037e235b6cd02b5a0c2805c1" label="Mixed Materials (31142042277213)" type="Box">1</container><container parent="aspace_4b37a44d037e235b6cd02b5a0c2805c1" type="Folder">9</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1870/1875" type="inclusive">1870-1875</unitdate><container id="aspace_f4e5eecddf4ebd79df2ec08283f09571" label="Mixed Materials (31142042277213)" type="Box">1</container><container parent="aspace_f4e5eecddf4ebd79df2ec08283f09571" type="Folder">10</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1877/1879" type="inclusive">1877-1879</unitdate><container id="aspace_9706209d16e1d35751902e588c9b2086" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_9706209d16e1d35751902e588c9b2086" type="Folder">1</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1880/1880" type="inclusive">1880</unitdate><container id="aspace_bdf596cf22247c86cb2ca2e0ab3a0f93" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_bdf596cf22247c86cb2ca2e0ab3a0f93" type="Folder">2</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1881/1881" type="inclusive">1881</unitdate><container id="aspace_6f71ed23e6276d4d4e0d74b1b1a9c89a" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_6f71ed23e6276d4d4e0d74b1b1a9c89a" type="Folder">3</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company</unittitle><unitdate normal="1882/1882" type="inclusive">1882</unitdate><container id="aspace_b79909d242ecdcc5fa7bba3826aa4c5e" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_b79909d242ecdcc5fa7bba3826aa4c5e" type="Folder">4</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>Charles Avery File</unittitle><unitdate normal="1883/1883" type="inclusive">1883</unitdate><container id="aspace_b9b6831908f9cceca9852525f7ff44e3" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_b9b6831908f9cceca9852525f7ff44e3" type="Folder">5</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Charles Avery File</unittitle><unitdate type="inclusive">Jan 1883</unitdate><container id="aspace_3a3263ad6c61ce595999de3b12c63ea5" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_3a3263ad6c61ce595999de3b12c63ea5" type="Folder">6</container></did></c><c id="aspace_ref39" level="otherlevel" otherlevel="unspecified"><did><unittitle>Charles Avery File</unittitle><unitdate type="inclusive">Feb 1883-Dec 1883</unitdate><container id="aspace_162648cb93b0364c01730d1494972f82" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_162648cb93b0364c01730d1494972f82" type="Folder">7</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>Charles Avery File</unittitle><unitdate normal="1884/1884" type="inclusive">1884</unitdate><container id="aspace_748d817bb5447395821e5f37b33f7a52" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_748d817bb5447395821e5f37b33f7a52" type="Folder">8</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>Charles Avery File</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_b5176457177e2838683f48c0c12d2d23" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_b5176457177e2838683f48c0c12d2d23" type="Folder">9</container></did></c><c id="aspace_ref42" level="subseries"><did><unittitle>Anderson v. Messinger</unittitle></did><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>Anderson v. Messinger</unittitle><unitdate normal="1837/1837" type="inclusive">1837</unitdate><container id="aspace_756cbd2be82e188502641db95b16e40e" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_756cbd2be82e188502641db95b16e40e" type="Folder">10</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>Anderson v. Messinger</unittitle><unitdate normal="1840/1849" type="inclusive">1840-1849</unitdate><container id="aspace_9b4caf91053ded46ac5a2afd2088c2eb" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_9b4caf91053ded46ac5a2afd2088c2eb" type="Folder">11</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Anderson v. Messinger</unittitle><unitdate normal="1850/1859" type="inclusive">1850-1859</unitdate><container id="aspace_c5e0dd368c166dcdebd2251db31533a9" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_c5e0dd368c166dcdebd2251db31533a9" type="Folder">12</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>Anderson v. Messinger</unittitle><unitdate normal="1860/1869" type="inclusive">1860-1869</unitdate><container id="aspace_7de7fa28116e0ee2dbdf46a5770b8a4c" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_7de7fa28116e0ee2dbdf46a5770b8a4c" type="Folder">13</container></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Anderson v. Messinger</unittitle><unitdate normal="1903/1906" type="inclusive">1903-1906</unitdate><container id="aspace_7f444c680e7d94826e4d696c16fe037a" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_7f444c680e7d94826e4d696c16fe037a" type="Folder">14</container></did></c><c id="aspace_ref48" level="otherlevel" otherlevel="unspecified"><did><unittitle>Exhibits for trial (documents dated: 1839-1866</unittitle><unitdate type="inclusive">1906, Dec.</unitdate><container id="aspace_613bba6dc6e3b53b7b40843b3a733e0a" label="Mixed Materials (31142042277221)" type="Box">2</container><container parent="aspace_613bba6dc6e3b53b7b40843b3a733e0a" type="Folder">15</container></did></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Exhibits for trial (documents dated: 1838-1860</unittitle><unitdate type="inclusive">Feb 13, 1908</unitdate><container id="aspace_0ce1f5ab611bb0ac0765ad78f8d4e017" label="Mixed Materials (31142042277239)" type="Box">3</container><container parent="aspace_0ce1f5ab611bb0ac0765ad78f8d4e017" type="Folder">1</container></did></c><c id="aspace_ref50" level="otherlevel" otherlevel="unspecified"><did><unittitle>Briefs for the Defendant, case #679</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_78b1a35c4ffc59fa1c56a6f54b145ec1" label="Mixed Materials (31142042277239)" type="Box">3</container><container parent="aspace_78b1a35c4ffc59fa1c56a6f54b145ec1" type="Folder">2</container></did></c><c id="aspace_ref51" level="otherlevel" otherlevel="unspecified"><did><unittitle>Briefs for the Defendant, case #11,434</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_7ef9dd14bedb332e9c39a2c9d44596fe" label="Mixed Materials (31142042277239)" type="Box">3</container><container parent="aspace_7ef9dd14bedb332e9c39a2c9d44596fe" type="Folder">3</container></did></c><c id="aspace_ref52" level="otherlevel" otherlevel="unspecified"><did><unittitle>Briefs for the Defendant, case #1479</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_809c1029af2bb26da8ebe85dd4653d6d" label="Mixed Materials (31142042277239)" type="Box">3</container><container parent="aspace_809c1029af2bb26da8ebe85dd4653d6d" type="Folder">4</container></did></c><c id="aspace_ref53" level="otherlevel" otherlevel="unspecified"><did><unittitle>Briefs for the Defendant, case #1879</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_98ed5d17feb9deec7c15f55da49d2bb8" label="Mixed Materials (31142042277239)" type="Box">3</container><container parent="aspace_98ed5d17feb9deec7c15f55da49d2bb8" type="Folder">5</container></did></c><c id="aspace_ref54" level="otherlevel" otherlevel="unspecified"><did><unittitle>Briefs for the Defendant, case #1916</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_9b9e42a699fe5dbced7cfd38437f7f4c" label="Mixed Materials (31142042277239)" type="Box">3</container><container parent="aspace_9b9e42a699fe5dbced7cfd38437f7f4c" type="Folder">6</container></did></c><c id="aspace_ref55" level="otherlevel" otherlevel="unspecified"><did><unittitle>Briefs for the Defendant, case #10,689</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_b9f26123f0dbb393e9e66530a868d11e" label="Mixed Materials (31142042277239)" type="Box">3</container><container parent="aspace_b9f26123f0dbb393e9e66530a868d11e" type="Folder">7</container></did></c><c id="aspace_ref56" level="otherlevel" otherlevel="unspecified"><did><unittitle>Briefs for the Defendant, case #1679</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_81d70b7c7df3c54cbc80440dfbf493d5" label="Mixed Materials (31142042277239)" type="Box">3</container><container parent="aspace_81d70b7c7df3c54cbc80440dfbf493d5" type="Folder">8</container></did></c><c id="aspace_ref57" level="otherlevel" otherlevel="unspecified"><did><unittitle>Briefs for the Defendant, case #1916</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_083a020548b4b6864b3e6e38511353e3" label="Mixed Materials (31142042277247)" type="Box">4</container><container parent="aspace_083a020548b4b6864b3e6e38511353e3" type="Folder">1</container></did></c><c id="aspace_ref58" level="otherlevel" otherlevel="unspecified"><did><unittitle>Petition</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_3d0de9997a69f9e747067ec7ed3f1d2d" label="Mixed Materials (31142042277247)" type="Box">4</container><container parent="aspace_3d0de9997a69f9e747067ec7ed3f1d2d" type="Folder">2</container></did></c></c></c><c id="aspace_ref59" level="subseries"><did><unittitle>Business Correspondence</unittitle></did><c id="aspace_ref60" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate normal="1841/1845" type="inclusive">1841-1845</unitdate><container id="aspace_7d3d87b1258350c1e9e200db44e3df23" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_7d3d87b1258350c1e9e200db44e3df23" type="Folder">1</container></did></c><c id="aspace_ref61" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate normal="1846/1849" type="inclusive">1846-1849</unitdate><container id="aspace_cb35c77818c356d43c9a365f3a516479" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_cb35c77818c356d43c9a365f3a516479" type="Folder">2</container></did></c><c id="aspace_ref62" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate normal="1867/1868" type="inclusive">1867-1868</unitdate><container id="aspace_fed03513c8618ccc6c4417bddc9f6571" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_fed03513c8618ccc6c4417bddc9f6571" type="Folder">3</container></did></c><c id="aspace_ref63" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate type="inclusive">Jan 1869</unitdate><container id="aspace_b46b7bbcc4caa90e84f6ac945f1ef75b" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_b46b7bbcc4caa90e84f6ac945f1ef75b" type="Folder">4</container></did></c><c id="aspace_ref64" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate type="inclusive">Feb 1869</unitdate><container id="aspace_c762c568497fea66e53d7f883ece0fb8" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_c762c568497fea66e53d7f883ece0fb8" type="Folder">5</container></did></c><c id="aspace_ref65" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate type="inclusive">Mar 1869-Apr 1869</unitdate><container id="aspace_c50ffae62dc3478d43fda9b2c6878848" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_c50ffae62dc3478d43fda9b2c6878848" type="Folder">6</container></did></c><c id="aspace_ref66" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate type="inclusive">May 1869-Jun 1869</unitdate><container id="aspace_56716b68d08983eb25b354c2caa83d2d" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_56716b68d08983eb25b354c2caa83d2d" type="Folder">7</container></did></c><c id="aspace_ref67" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate type="inclusive">Jul 1869-Aug 1869</unitdate><container id="aspace_d4df17460e8b047b757bd623f0934dd9" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_d4df17460e8b047b757bd623f0934dd9" type="Folder">8</container></did></c><c id="aspace_ref68" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate type="inclusive">Sep 1869-Oct 1869</unitdate><container id="aspace_76d1cbd038316117309d0bcdcb3b4ac8" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_76d1cbd038316117309d0bcdcb3b4ac8" type="Folder">9</container></did></c><c id="aspace_ref69" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate type="inclusive">Nov 1869-Dec 1869</unitdate><container id="aspace_e27d1ee9ea38f1ef510b74aec4fbe1e6" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_e27d1ee9ea38f1ef510b74aec4fbe1e6" type="Folder">10</container></did></c><c id="aspace_ref70" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_690c6eee743a3979deef7c2e0dfca6d5" label="Mixed Materials (31142042277254)" type="Box">5</container><container parent="aspace_690c6eee743a3979deef7c2e0dfca6d5" type="Folder">11</container></did></c><c id="aspace_ref71" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence. [Walter Goodman from Holly Springs, MS (bound)]</unittitle><unitdate type="inclusive">1849-1854</unitdate><container id="aspace_cdc238671c611e98a424541f135aa98f" label="Mixed Materials (31142042277262)" type="Box">6</container></did></c><c id="aspace_ref72" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence (bound) [Various canal related]</unittitle><unitdate type="inclusive">1850-1851</unitdate><container id="aspace_9b1e459c5c2bcd0e6d75b227a23ace35" label="Mixed Materials (31142046558287)" type="Box">23</container></did></c><c id="aspace_ref73" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence (bound)</unittitle><unitdate type="inclusive">1849-1852</unitdate><container id="aspace_00b1c11ec9ea2a840631f65cdfbb7719" label="Mixed Materials (31142042277270)" type="Box">7</container><container parent="aspace_00b1c11ec9ea2a840631f65cdfbb7719" type="Folder">1</container></did></c><c id="aspace_ref74" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence (bound)</unittitle><unitdate type="inclusive">1856-1865</unitdate><container id="aspace_0c74634ab9c4b3929e2e2844fe208332" label="Mixed Materials (31142042277270)" type="Box">7</container><container parent="aspace_0c74634ab9c4b3929e2e2844fe208332" type="Folder">2</container></did></c><c id="aspace_ref75" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence (bound)</unittitle><unitdate normal="1857/1860" type="inclusive">1857-1860</unitdate><container id="aspace_00a655f16426abdc65effe008881ed38" label="Mixed Materials (31142042277270)" type="Box">7</container><container parent="aspace_00a655f16426abdc65effe008881ed38" type="Folder">3</container></did></c><c id="aspace_ref76" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence (bound)</unittitle><unitdate normal="1860/1867" type="inclusive">1860-1867</unitdate><container id="aspace_df121197bb5b06de514749414182c262" label="Mixed Materials (31142042277288)" type="Box">8</container></did></c><c id="aspace_ref77" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence received (removed from bound vol.)</unittitle><unitdate normal="1876/1901" type="inclusive">1876 , 1901</unitdate><container id="aspace_efe5eab65336b27f46da5f98ceaa970d" label="Mixed Materials (31142042277288)" type="Box">8</container><container parent="aspace_efe5eab65336b27f46da5f98ceaa970d" type="Folder">2</container></did></c><c id="aspace_ref78" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence received (removed from bound vol.)</unittitle><unitdate normal="1828/1828" type="inclusive">ca. 1828</unitdate><container id="aspace_8fb45ed16950dd1df1fa84e54e292e6b" label="Mixed Materials (31142042277288)" type="Box">8</container><container parent="aspace_8fb45ed16950dd1df1fa84e54e292e6b" type="Folder">3</container></did></c><c id="aspace_ref79" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence (bound)</unittitle><unitdate type="inclusive">1833-1842</unitdate><container id="aspace_8c82892d84ac4291bf60a5cc066bcaf3" label="Mixed Materials (31142046558295)" type="Box">24</container></did></c><c id="aspace_ref80" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence (bound)</unittitle><unitdate type="inclusive">Dec 1845-May 1846</unitdate><container id="aspace_27983c2120b2fd9796879535e85dbfa0" label="Mixed Materials (31142046558303)" type="Box">25</container></did></c><c id="aspace_ref81" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Correspondence (bound)</unittitle><unitdate normal="1849/1849" type="inclusive">1849</unitdate><container id="aspace_7941330d01f407bc3bae7003c4543c63" label="Mixed Materials (31142046558311)" type="Box">26</container></did></c></c><c id="aspace_ref82" level="subseries"><did><unittitle>Indiana Debt</unittitle></did><c id="aspace_ref83" level="otherlevel" otherlevel="unspecified"><did><unittitle>Indiana Debt</unittitle><unitdate normal="1843/1843" type="inclusive">1843</unitdate><container id="aspace_97e296c8e0f1b81f7ab023999d729e57" label="Mixed Materials (31142042277296)" type="Box">9</container><container parent="aspace_97e296c8e0f1b81f7ab023999d729e57" type="Folder">1</container></did></c><c id="aspace_ref84" level="otherlevel" otherlevel="unspecified"><did><unittitle>Indiana Debt</unittitle><unitdate type="inclusive">Dec 1844-Jul 1845</unitdate><container id="aspace_21b326a0118c082b5e5e2c01b629384b" label="Mixed Materials (31142042277296)" type="Box">9</container><container parent="aspace_21b326a0118c082b5e5e2c01b629384b" type="Folder">2</container></did></c><c id="aspace_ref85" level="otherlevel" otherlevel="unspecified"><did><unittitle>Legal Documents</unittitle><unitdate type="inclusive">Jul 1845-Dec 1845</unitdate><container id="aspace_2d57305ea311bd9f9c98d2edaae13925" label="Mixed Materials (31142042277296)" type="Box">9</container><container parent="aspace_2d57305ea311bd9f9c98d2edaae13925" type="Folder">3</container></did></c><c id="aspace_ref86" level="otherlevel" otherlevel="unspecified"><did><unittitle>Legal Documents</unittitle><unitdate type="inclusive">Feb 1845</unitdate><container id="aspace_5a6815bd0db9cb9fabd6066ff852c47f" label="Mixed Materials (31142042277296)" type="Box">9</container><container parent="aspace_5a6815bd0db9cb9fabd6066ff852c47f" type="Folder">4</container></did></c><c id="aspace_ref87" level="otherlevel" otherlevel="unspecified"><did><unittitle>Indiana Debt</unittitle><unitdate type="inclusive">Feb 20, 1846</unitdate><container id="aspace_790e156e78ad18b858416e6906516214" label="Mixed Materials (31142042277296)" type="Box">9</container><container parent="aspace_790e156e78ad18b858416e6906516214" type="Folder">5</container></did></c><c id="aspace_ref88" level="otherlevel" otherlevel="unspecified"><did><unittitle>Indiana Debt</unittitle><unitdate type="inclusive">Mar 1846</unitdate><container id="aspace_04115ef3047ff1b0c80bd571afbbaaa7" label="Mixed Materials (31142042277304)" type="Box">10</container><container parent="aspace_04115ef3047ff1b0c80bd571afbbaaa7" type="Folder">1</container></did></c><c id="aspace_ref89" level="otherlevel" otherlevel="unspecified"><did><unittitle>Indiana Debt</unittitle><unitdate type="inclusive">Nov 1846</unitdate><container id="aspace_e1dbffb3bd57348aa4e4f20ba16b76a5" label="Mixed Materials (31142042277304)" type="Box">10</container><container parent="aspace_e1dbffb3bd57348aa4e4f20ba16b76a5" type="Folder">2</container></did></c><c id="aspace_ref90" level="otherlevel" otherlevel="unspecified"><did><unittitle>Indiana Debt</unittitle><unitdate type="inclusive">Dec 1846</unitdate><container id="aspace_8a8636ab24d98c7a21bdf2c38f0cbc0e" label="Mixed Materials (31142042277304)" type="Box">10</container><container parent="aspace_8a8636ab24d98c7a21bdf2c38f0cbc0e" type="Folder">3</container></did></c><c id="aspace_ref91" level="otherlevel" otherlevel="unspecified"><did><unittitle>Indiana Debt</unittitle><unitdate normal="1847/1849" type="inclusive">1847-1849</unitdate><container id="aspace_1787af117cee7a519d6a020173ed10af" label="Mixed Materials (31142042277304)" type="Box">10</container><container parent="aspace_1787af117cee7a519d6a020173ed10af" type="Folder">4</container></did></c><c id="aspace_ref92" level="otherlevel" otherlevel="unspecified"><did><unittitle>St. Joseph Valley Register</unittitle><unitdate type="inclusive">Jan 16, 1851</unitdate><container id="aspace_f3f14bba57d4d07867b685af221a6ab0" label="Mixed Materials (31142042277304)" type="Box">10</container><container parent="aspace_f3f14bba57d4d07867b685af221a6ab0" type="Folder">5</container></did></c><c id="aspace_ref93" level="otherlevel" otherlevel="unspecified"><did><unittitle>St. Joseph Valley Register</unittitle><unitdate normal="1868/1868" type="inclusive">1868</unitdate><container id="aspace_bd27eee23381329bc08e8bea44651bfb" label="Mixed Materials (31142042277304)" type="Box">10</container><container parent="aspace_bd27eee23381329bc08e8bea44651bfb" type="Folder">6</container></did></c><c id="aspace_ref94" level="otherlevel" otherlevel="unspecified"><did><unittitle>St. Joseph Valley Register</unittitle><unitdate normal="1873/1873" type="inclusive">1873</unitdate><container id="aspace_5f473c636a2973a4e439b666c300533f" label="Mixed Materials (31142042277304)" type="Box">10</container><container parent="aspace_5f473c636a2973a4e439b666c300533f" type="Folder">7</container></did></c><c id="aspace_ref95" level="otherlevel" otherlevel="unspecified"><did><unittitle>Index to bound volume of letters</unittitle><unitdate normal="1854/1856" type="inclusive">1854-1856</unitdate><container id="aspace_7c1d3dd0de2c79a4745663a810d5f544" label="Mixed Materials (31142042277312)" type="Box">11</container><container parent="aspace_7c1d3dd0de2c79a4745663a810d5f544" type="Folder">1</container></did></c><c id="aspace_ref96" level="otherlevel" otherlevel="unspecified"><did><unittitle>Index to bound volume of letters</unittitle><unitdate type="inclusive">Mar 21, 1854, -Jun. 29, 1854</unitdate><container id="aspace_10430f68b8d82480597623841a6ebdff" label="Mixed Materials (31142042277312)" type="Box">11</container><container parent="aspace_10430f68b8d82480597623841a6ebdff" type="Folder">2</container></did></c><c id="aspace_ref97" level="otherlevel" otherlevel="unspecified"><did><unittitle>Index to bound volume of letters</unittitle><unitdate type="inclusive">Jul 10, 1854-Dec 29, 1854,</unitdate><container id="aspace_fda57b7bc5e70ef6cecc6a3795bd8ba6" label="Mixed Materials (31142042277312)" type="Box">11</container><container parent="aspace_fda57b7bc5e70ef6cecc6a3795bd8ba6" type="Folder">3</container></did></c><c id="aspace_ref98" level="otherlevel" otherlevel="unspecified"><did><unittitle>Index to bound volume of letters</unittitle><unitdate type="inclusive">Jan 1, 1855-Jun 30, 1855</unitdate><container id="aspace_c530a9aca0037a3a62a2095b0250f758" label="Mixed Materials (31142042277312)" type="Box">11</container><container parent="aspace_c530a9aca0037a3a62a2095b0250f758" type="Folder">4</container></did></c><c id="aspace_ref99" level="otherlevel" otherlevel="unspecified"><did><unittitle>Index to bound volume of letters</unittitle><unitdate type="inclusive">Jul 1, 1855-Dec 25, 1855</unitdate><container id="aspace_fe58ce4b9e6ad2140b6ec56757861138" label="Mixed Materials (31142042277312)" type="Box">11</container><container parent="aspace_fe58ce4b9e6ad2140b6ec56757861138" type="Folder">5</container></did></c><c id="aspace_ref100" level="otherlevel" otherlevel="unspecified"><did><unittitle>Index to bound volume of letters</unittitle><unitdate type="inclusive">Jan 2, 1856-Jun 23, 1856</unitdate><container id="aspace_65579f49719f323c29a3d54bb20827fe" label="Mixed Materials (31142042277312)" type="Box">11</container><container parent="aspace_65579f49719f323c29a3d54bb20827fe" type="Folder">6</container></did></c></c><c id="aspace_ref101" level="subseries"><did><unittitle>Mississippi,Indiana</unittitle></did><c id="aspace_ref102" level="otherlevel" otherlevel="unspecified"><did><unittitle>Booklet on properties surrounding the river</unittitle><unitdate normal="1835/1836" type="inclusive">ca.1835-1836</unitdate><container id="aspace_9a15ecb8dec97d4709f5a09afe2e884e" label="Mixed Materials (31142042277320)" type="Box">12</container><container parent="aspace_9a15ecb8dec97d4709f5a09afe2e884e" type="Folder">1</container></did></c><c id="aspace_ref103" level="otherlevel" otherlevel="unspecified"><did><unittitle>State of Michigan reports and Governor's Message</unittitle><unitdate normal="1849/1849" type="inclusive">1849</unitdate><container id="aspace_6b87fd7dc40b45f5a60ce13adf891fc9" label="Mixed Materials (31142042277320)" type="Box">12</container><container parent="aspace_6b87fd7dc40b45f5a60ce13adf891fc9" type="Folder">2</container></did></c><c id="aspace_ref104" level="otherlevel" otherlevel="unspecified"><did><unittitle>Letters, declarations, and miscellaneous. Includes letter to the Albany Argus editor column about travels through several western states</unittitle><unitdate normal="1833/1853" type="inclusive">1833-1853</unitdate><container id="aspace_f68c3271174c84e2f97528aadef4610d" label="Mixed Materials (31142042277320)" type="Box">12</container><container parent="aspace_f68c3271174c84e2f97528aadef4610d" type="Folder">3</container></did></c><c id="aspace_ref105" level="otherlevel" otherlevel="unspecified"><did><unittitle>Patents (land)</unittitle><unitdate type="inclusive">Jan 5, 1841</unitdate><container id="aspace_b3918199eb24b87bc38e30ea58191361" label="Mixed Materials (31142042277320)" type="Box">12</container><container parent="aspace_b3918199eb24b87bc38e30ea58191361" type="Folder">4</container></did></c><c id="aspace_ref106" level="otherlevel" otherlevel="unspecified"><did><unittitle>Patents (land) from the Secretary of the State of Wisconsin</unittitle><unitdate type="inclusive">Oct 3, 1856</unitdate><container id="aspace_3d103fab83a96bec3a049820e9d471a7" label="Mixed Materials (31142042277320)" type="Box">12</container><container parent="aspace_3d103fab83a96bec3a049820e9d471a7" type="Folder">5</container></did></c></c><c id="aspace_ref107" level="subseries"><did><unittitle>Wabashand Erie Canal</unittitle></did><c id="aspace_ref108" level="otherlevel" otherlevel="unspecified"><did><unittitle>Circular Statement</unittitle><unitdate normal="1848/1861" type="inclusive">1848-1861</unitdate><container id="aspace_eb66eb322f129b39dfb9f04868c1d125" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_eb66eb322f129b39dfb9f04868c1d125" type="Folder">1</container></did></c><c id="aspace_ref109" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate normal="1849/1858" type="inclusive">1849-1858</unitdate><container id="aspace_0f8a3f66ea6aade4e1797955dcd21ae0" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_0f8a3f66ea6aade4e1797955dcd21ae0" type="Folder">2</container></did></c><c id="aspace_ref110" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate normal="1862/1869" type="inclusive">1862-1869</unitdate><container id="aspace_822588b00146b5d19bcfc08ed2a84d30" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_822588b00146b5d19bcfc08ed2a84d30" type="Folder">3</container></did></c><c id="aspace_ref111" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate normal="1871/1877" type="inclusive">1871-1877</unitdate><container id="aspace_2666c4f678316fa116a1df502a93c526" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_2666c4f678316fa116a1df502a93c526" type="Folder">3</container></did></c><c id="aspace_ref112" level="otherlevel" otherlevel="unspecified"><did><unittitle>Family Correspondence</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_22a5e3877cc9b60eb564b65c0bd40a97" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_22a5e3877cc9b60eb564b65c0bd40a97" type="Folder">4</container></did></c><c id="aspace_ref113" level="otherlevel" otherlevel="unspecified"><did><unittitle>E.B. Allen Correspondence</unittitle><unitdate normal="1876/1877" type="inclusive">1876-1877</unitdate><container id="aspace_d887e930d8ed8121ac80d8a9c1647c88" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_d887e930d8ed8121ac80d8a9c1647c88" type="Folder">6</container></did></c><c id="aspace_ref114" level="otherlevel" otherlevel="unspecified"><did><unittitle>James Anderson Correspondence</unittitle><unitdate normal="1873/1873" type="inclusive">1873</unitdate><container id="aspace_634e622b10d72f768ca679dbd878ad91" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_634e622b10d72f768ca679dbd878ad91" type="Folder">7</container></did></c><c id="aspace_ref115" level="otherlevel" otherlevel="unspecified"><did><unittitle>A.L. Backus Correspondence</unittitle><unitdate normal="1871/1876" type="inclusive">1871-1876</unitdate><container id="aspace_3a7239cabdfeda1758ec15d735aa41f5" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_3a7239cabdfeda1758ec15d735aa41f5" type="Folder">8</container></did></c><c id="aspace_ref116" level="otherlevel" otherlevel="unspecified"><did><unittitle>J.M. Butler Correspondence</unittitle><unitdate normal="1852/1878" type="inclusive">1852-1878</unitdate><container id="aspace_735ea1b61df9dee533bc8d5d92ef6027" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_735ea1b61df9dee533bc8d5d92ef6027" type="Folder">9</container></did></c><c id="aspace_ref117" level="otherlevel" otherlevel="unspecified"><did><unittitle>Charles J. Canda Correspondence</unittitle><unitdate normal="1876/1877" type="inclusive">1876-1877</unitdate><container id="aspace_1eb65c9cbe67fbddb821f24027694070" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_1eb65c9cbe67fbddb821f24027694070" type="Folder">10</container></did></c><c id="aspace_ref118" level="otherlevel" otherlevel="unspecified"><did><unittitle>Edwin Croswell Correspondence</unittitle><unitdate normal="1849/1853" type="inclusive">1849-ca.1853</unitdate><container id="aspace_81598385172a865f4e4e0644e2048eaa" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_81598385172a865f4e4e0644e2048eaa" type="Folder">11</container></did></c><c id="aspace_ref119" level="otherlevel" otherlevel="unspecified"><did><unittitle>John Dowling Correspondence</unittitle><unitdate normal="1876/1876" type="inclusive">1876</unitdate><container id="aspace_379e52918ed804cbe6c8690345551f44" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_379e52918ed804cbe6c8690345551f44" type="Folder">12</container></did></c><c id="aspace_ref120" level="otherlevel" otherlevel="unspecified"><did><unittitle>Thomas Dowling Correspondence</unittitle><unitdate normal="1860/1874" type="inclusive">1860-1874</unitdate><container id="aspace_59c98882f05165de4248c37e3e645623" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_59c98882f05165de4248c37e3e645623" type="Folder">13</container></did></c><c id="aspace_ref121" level="otherlevel" otherlevel="unspecified"><did><unittitle>Thomas Dowling Correspondence</unittitle><unitdate normal="1875/1876" type="inclusive">1875-1876</unitdate><container id="aspace_d289da05513b08adcc6b801b3e6cf904" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_d289da05513b08adcc6b801b3e6cf904" type="Folder">14</container></did></c><c id="aspace_ref122" level="otherlevel" otherlevel="unspecified"><did><unittitle>(?) Fleetwood Correspondence</unittitle><unitdate normal="1851/1852" type="inclusive">1851-1852</unitdate><container id="aspace_6b8b5f7fb22bdd73badc66058aa9131a" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_6b8b5f7fb22bdd73badc66058aa9131a" type="Folder">15</container></did></c><c id="aspace_ref123" level="otherlevel" otherlevel="unspecified"><did><unittitle>Jonathan K. Gapen Correspondence</unittitle><unitdate normal="1868/1875" type="inclusive">1868-1875</unitdate><container id="aspace_5cb281242c4797a81f36c4e628d60c6b" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_5cb281242c4797a81f36c4e628d60c6b" type="Folder">16</container></did></c><c id="aspace_ref124" level="otherlevel" otherlevel="unspecified"><did><unittitle>Office of F.W. Gilley Jr. Correspondence</unittitle><unitdate normal="1893/1893" type="inclusive">1893</unitdate><container id="aspace_e2aef2ce2b924dfc7bb631beac1d5fe5" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_e2aef2ce2b924dfc7bb631beac1d5fe5" type="Folder">17</container></did></c><c id="aspace_ref125" level="otherlevel" otherlevel="unspecified"><did><unittitle>S.B. Gookins and Geo. C. Duy Correspondence</unittitle><unitdate normal="1875/1877" type="inclusive">1875-1877</unitdate><container id="aspace_c2ebb695d76570f2fac2d6c34bded38a" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_c2ebb695d76570f2fac2d6c34bded38a" type="Folder">18</container></did></c><c id="aspace_ref126" level="otherlevel" otherlevel="unspecified"><did><unittitle>J.H. Hager Correspondence</unittitle><unitdate normal="1853/1877" type="inclusive">1853-1877</unitdate><container id="aspace_3ff4d9330a3e794c9218e9185e6c6255" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_3ff4d9330a3e794c9218e9185e6c6255" type="Folder">19</container></did></c><c id="aspace_ref127" level="otherlevel" otherlevel="unspecified"><did><unittitle>J.S. Hinton Correspondence</unittitle><unitdate normal="1875/1876" type="inclusive">1875-1876</unitdate><container id="aspace_b96f5a016d89b63adf471f382182182f" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_b96f5a016d89b63adf471f382182182f" type="Folder">20</container></did></c><c id="aspace_ref128" level="otherlevel" otherlevel="unspecified"><did><unittitle>A. Gracie King Correspondence</unittitle><unitdate normal="1853/1876" type="inclusive">ca.1853-1876</unitdate><container id="aspace_3ea7e1d05d822e4576a0c2fdc6be3513" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_3ea7e1d05d822e4576a0c2fdc6be3513" type="Folder">21</container></did></c><c id="aspace_ref129" level="otherlevel" otherlevel="unspecified"><did><unittitle>McDonald and Butler, Attorneys-at-Law, Office of, Correspondence</unittitle><unitdate normal="1877/1899" type="inclusive">1877-1899</unitdate><container id="aspace_4691b4bdfeb0daac1ee53aaae6a8929b" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_4691b4bdfeb0daac1ee53aaae6a8929b" type="Folder">22</container></did></c><c id="aspace_ref130" level="otherlevel" otherlevel="unspecified"><did><unittitle>W.R. McKeen Correspondence</unittitle><unitdate normal="1877/1899" type="inclusive">1877-1899</unitdate><container id="aspace_55602bf6915a430e9d65f90fe69dfbb9" label="Mixed Materials (31142042277338)" type="Box">13</container><container parent="aspace_55602bf6915a430e9d65f90fe69dfbb9" type="Folder">23</container></did></c><c id="aspace_ref131" level="otherlevel" otherlevel="unspecified"><did><unittitle>Office of F.F. Marbury and F.F. Marbury Jr. (Counselors at law) Correspondence</unittitle><unitdate normal="1873/1887" type="inclusive">1873-1887</unitdate><container id="aspace_cf887106f780d143fc5cc77bb40fe20f" label="Mixed Materials (31142042277346)" type="Box">14</container><container parent="aspace_cf887106f780d143fc5cc77bb40fe20f" type="Folder">1</container></did></c><c id="aspace_ref132" level="otherlevel" otherlevel="unspecified"><did><unittitle>D.D. Pratt Correspondence</unittitle><unitdate normal="1869/1872" type="inclusive">1869-1872</unitdate><container id="aspace_0fce170e5438f0ddfe3680e33a534953" label="Mixed Materials (31142042277346)" type="Box">14</container><container parent="aspace_0fce170e5438f0ddfe3680e33a534953" type="Folder">2</container></did></c><c id="aspace_ref133" level="otherlevel" otherlevel="unspecified"><did><unittitle>J.L. Williams Correspondence</unittitle><unitdate normal="1863/1874" type="inclusive">1863-1874</unitdate><container id="aspace_1f33ba7af3407873768338ef37df248e" label="Mixed Materials (31142042277346)" type="Box">14</container><container parent="aspace_1f33ba7af3407873768338ef37df248e" type="Folder">3</container></did></c><c id="aspace_ref134" level="otherlevel" otherlevel="unspecified"><did><unittitle>J.L. Williams Correspondence</unittitle><unitdate normal="1875/1881" type="inclusive">1875-1881</unitdate><container id="aspace_e2bef60bc799832a12f5309cfdeda955" label="Mixed Materials (31142042277346)" type="Box">14</container><container parent="aspace_e2bef60bc799832a12f5309cfdeda955" type="Folder">4</container></did></c><c id="aspace_ref135" level="otherlevel" otherlevel="unspecified"><did><unittitle>Financial Papers</unittitle><unitdate normal="1856/1877" type="inclusive">1856-1877</unitdate><container id="aspace_780cf65774797b6952929aa46e59eae6" label="Mixed Materials (31142042277346)" type="Box">14</container><container parent="aspace_780cf65774797b6952929aa46e59eae6" type="Folder">5</container></did></c><c id="aspace_ref136" level="otherlevel" otherlevel="unspecified"><did><unittitle>Legal Documents</unittitle><unitdate normal="1841/1853" type="inclusive">1841-1853</unitdate><container id="aspace_9e632f0b95cfd9b9f90d46f8fb2a4053" label="Mixed Materials (31142042277346)" type="Box">14</container><container parent="aspace_9e632f0b95cfd9b9f90d46f8fb2a4053" type="Folder">6</container></did></c><c id="aspace_ref137" level="otherlevel" otherlevel="unspecified"><did><unittitle>Legal Documents</unittitle><unitdate normal="1854/1872" type="inclusive">1854-1872</unitdate><container id="aspace_33464ed18ed7befcadf693c0ec6fc2f7" label="Mixed Materials (31142042277346)" type="Box">14</container><container parent="aspace_33464ed18ed7befcadf693c0ec6fc2f7" type="Folder">7</container></did></c><c id="aspace_ref138" level="otherlevel" otherlevel="unspecified"><did><unittitle>Legal Documents</unittitle><unitdate normal="1873/1876" type="inclusive">1873-1876, undated</unitdate><container id="aspace_7f1ce5f525726e99957c9e1d97b1d6e2" label="Mixed Materials (31142042277353)" type="Box">15</container><container parent="aspace_7f1ce5f525726e99957c9e1d97b1d6e2" type="Folder">1</container></did></c><c id="aspace_ref139" level="otherlevel" otherlevel="unspecified"><did><unittitle>Legal Documents: Circuit Court of the United States for the District of Indiana-in Chancery Jonathan K. Gapen vs. The Trustees of the Wabash and Erie Canal</unittitle><unitdate normal="1875/1875" type="inclusive">1875</unitdate><container id="aspace_e49eddf804f6290225fd5c5a98c8ed55" label="Mixed Materials (31142042277353)" type="Box">15</container><container parent="aspace_e49eddf804f6290225fd5c5a98c8ed55" type="Folder">2</container></did></c><c id="aspace_ref140" level="otherlevel" otherlevel="unspecified"><did><unittitle>Legal Documents: John W. Garrett vs. Board of Trustees of Wabash and Erie Canal</unittitle><unitdate type="inclusive">Nov 11, 1872</unitdate><container id="aspace_09299c634712a50401179b94ebba6f03" label="Mixed Materials (31142042277353)" type="Box">15</container><container parent="aspace_09299c634712a50401179b94ebba6f03" type="Folder">3</container></did></c><c id="aspace_ref141" level="otherlevel" otherlevel="unspecified"><did><unittitle>Memos</unittitle><unitdate normal="1845/1877" type="inclusive">ca.1845-1877, undated</unitdate><container id="aspace_20c0abe8330eb22f6adb54458089b4de" label="Mixed Materials (31142042277353)" type="Box">15</container><container parent="aspace_20c0abe8330eb22f6adb54458089b4de" type="Folder">4</container></did></c><c id="aspace_ref142" level="otherlevel" otherlevel="unspecified"><did><unittitle>Newspapers</unittitle><unitdate normal="1876/1876" type="inclusive">1876</unitdate><container id="aspace_672cb7ebb7aff380b0e454e271bbf9a0" label="Mixed Materials (31142042277353)" type="Box">15</container><container parent="aspace_672cb7ebb7aff380b0e454e271bbf9a0" type="Folder">5</container></did></c><c id="aspace_ref143" level="otherlevel" otherlevel="unspecified"><did><unittitle>Newspapers Clippings</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_97480f396230e699d8ba67f51cf2d07a" label="Mixed Materials (31142042277353)" type="Box">15</container><container parent="aspace_97480f396230e699d8ba67f51cf2d07a" type="Folder">6</container></did></c><c id="aspace_ref144" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pamphlets: Annual Reports of the Board of Trustees</unittitle><unitdate normal="1860/1874" type="inclusive">1860-1874</unitdate><container id="aspace_09b0f7be39d22629066b4bc85baa08e1" label="Mixed Materials (31142042277361)" type="Box">16</container><container parent="aspace_09b0f7be39d22629066b4bc85baa08e1" type="Folder">1</container></did></c><c id="aspace_ref145" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pamphlets: Memorial of the Holders of Certificates of Stock</unittitle><unitdate normal="1857/1870" type="inclusive">1857-1870</unitdate><container id="aspace_64bdb71d0634744767cd5b12521c700e" label="Mixed Materials (31142042277361)" type="Box">16</container><container parent="aspace_64bdb71d0634744767cd5b12521c700e" type="Folder">2</container></did></c><c id="aspace_ref146" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pamphlets: Message of...</unittitle><unitdate normal="1865/1871" type="inclusive">1865-1871</unitdate><container id="aspace_507066c654cd26cce123599fb537ab24" label="Mixed Materials (31142042277361)" type="Box">16</container><container parent="aspace_507066c654cd26cce123599fb537ab24" type="Folder">3</container></did></c><c id="aspace_ref147" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pamphlets: Relating to the Wabash and Erie Canal</unittitle><unitdate normal="1827/1878" type="inclusive">1827-1878</unitdate><container id="aspace_f86d6375deedab1f6d879236eee40b58" label="Mixed Materials (31142042277361)" type="Box">16</container><container parent="aspace_f86d6375deedab1f6d879236eee40b58" type="Folder">4</container></did></c><c id="aspace_ref148" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pamphlets: Report of the Board of Trustees</unittitle><unitdate normal="1869/1872" type="inclusive">1869-1872</unitdate><container id="aspace_4802a62b70bf601f13080f611c0decf1" label="Mixed Materials (31142042277361)" type="Box">16</container><container parent="aspace_4802a62b70bf601f13080f611c0decf1" type="Folder">5</container></did></c><c id="aspace_ref149" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pamphlets: Speech</unittitle><unitdate normal="1870/1871" type="inclusive">1870-1871</unitdate><container id="aspace_fd67070077c76fcf71da88e08a699277" label="Mixed Materials (31142042277361)" type="Box">16</container><container parent="aspace_fd67070077c76fcf71da88e08a699277" type="Folder">6</container></did></c><c id="aspace_ref150" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pamphlets: Miscellaneous Printed Materials</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_b0adb59b7cb8d565e1f6c9eee8d0a0e9" label="Mixed Materials (31142042277361)" type="Box">16</container><container parent="aspace_b0adb59b7cb8d565e1f6c9eee8d0a0e9" type="Folder">7</container></did></c></c></c><c id="aspace_ref151" level="series"><did><unittitle>Series II: Bound letter books and financial ledgers</unittitle></did><c id="aspace_ref152" level="subseries"><did><unittitle>Wabash and Erie Canal</unittitle></did><c id="aspace_ref153" level="otherlevel" otherlevel="unspecified"><did><unittitle>Bound Correspondence "from Dowling, Nofsinger, Puet and others"</unittitle><unitdate normal="1849/1854" type="inclusive">1849-1854</unitdate><container id="aspace_689ecade665dbeb39b061245fdd294d0" label="Mixed Materials (31142042277379)" type="Box">17</container></did></c><c id="aspace_ref154" level="otherlevel" otherlevel="unspecified"><did><unittitle>Bound Correspondence</unittitle><unitdate normal="1852/1856" type="inclusive">1852-1856</unitdate><container id="aspace_f981b0bf365cd07214f249fc8685a62d" label="Mixed Materials (31142046558329)" type="Box">27</container></did></c><c id="aspace_ref155" level="otherlevel" otherlevel="unspecified"><did><unittitle>Stock Certificates</unittitle><unitdate normal="1847/1853" type="inclusive">1847 1853</unitdate><container id="aspace_62a1e584b349e922c521e03b8458d190" label="Mixed Materials (31142042277379)" type="Box">17</container><container parent="aspace_62a1e584b349e922c521e03b8458d190" type="Folder">3</container></did></c><c id="aspace_ref156" level="otherlevel" otherlevel="unspecified"><did><unittitle>Bound Correspondence "from J.L. Williams, Chief Engineer and others"</unittitle><unitdate normal="1854/1859" type="inclusive">1854-1859</unitdate><container id="aspace_8d9960c886566c4a14d6392d48deef64" label="Mixed Materials (31142042277387)" type="Box">18</container><container parent="aspace_8d9960c886566c4a14d6392d48deef64" type="Folder">1</container></did></c><c id="aspace_ref157" level="otherlevel" otherlevel="unspecified"><did><unittitle>Bound Correspondence</unittitle><unitdate normal="1870/1874" type="inclusive">1870-1874</unitdate><container id="aspace_1eca9381ba518becf8ce7a665c4a53fc" label="Mixed Materials (31142042277387)" type="Box">18</container><container parent="aspace_1eca9381ba518becf8ce7a665c4a53fc" type="Folder">2</container></did></c></c><c id="aspace_ref158" level="subseries"><did><unittitle>Ledger Books</unittitle></did><c id="aspace_ref159" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Land Company (detailed description)</unittitle><unitdate normal="1835/1892" type="inclusive">1835-1892</unitdate><container id="aspace_8cb61c1248507775f8b95d7df045d2e5" label="Mixed Materials (31142042277395)" type="Box">19</container></did></c><c id="aspace_ref160" level="otherlevel" otherlevel="unspecified"><did><unittitle>Financial Volume, includes bills receivable, bills payable; with index of names</unittitle><unitdate normal="1854/1861" type="inclusive">ca.1854-1861</unitdate><container id="aspace_ca4a1d5dd2139d1f2bc0e9662bc88392" label="Mixed Materials (31142042277403)" type="Box">20</container></did></c><c id="aspace_ref161" level="otherlevel" otherlevel="unspecified"><did><unittitle>Financial Volume, includes receipts and disbursements, expenses, balance sheet</unittitle><unitdate normal="1831/1840" type="inclusive">1831-1840</unitdate><container id="aspace_417765fa0d9a640f255ea957569d6d43" label="Mixed Materials (31142042277411)" type="Box">21</container></did></c><c id="aspace_ref162" level="otherlevel" otherlevel="unspecified"><did><unittitle>Wabash and Erie canal Financial volume, includes interest rates, names, who received, date, amount, when paid</unittitle><unitdate normal="1857/1862" type="inclusive">1857-1862</unitdate><container id="aspace_3b77a955f9b1008073994b18e6c14520" label="Mixed Materials (31142042277411)" type="Box">21</container></did></c><c id="aspace_ref163" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook of Newspaper Clippings</unittitle><unitdate normal="1833/1880" type="inclusive">1833-1880</unitdate><container id="aspace_7238200e43e2ab1bff9bb5c6cf8e4384" label="Mixed Materials (31142042277429)" type="Box">22</container></did></c><c id="aspace_ref164" level="otherlevel" otherlevel="unspecified"><did><unittitle>Three indexed volumes</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_4b506537d3d59ea4d7a0f1ec82c1a7df" label="Mixed Materials (31142042277429)" type="Box">22</container></did></c></c></c><c id="aspace_ref165" level="series"><did><unittitle>Series III: Maps</unittitle></did><c id="aspace_ref166" level="subseries"><did><unittitle>Maps </unittitle></did><c id="aspace_ref167" level="otherlevel" otherlevel="unspecified"><did><unittitle>Northwestern Ohio, showing area of Indian reservation; inscribed "Greenville 12th Reservation mark by Gen'l Morgan (?) in 1795. Laws of 1817 for sale of 12 miles square sold in Minster, Ohio 1817</unittitle><unitdate normal="1817/1900" type="inclusive">[not before 1847]</unitdate><container id="aspace_5b12dde83bde30874d3e01302160e625" label="Graphic Materials" type="Box">16</container><container parent="aspace_5b12dde83bde30874d3e01302160e625" type="Folder">5</container></did></c><c id="aspace_ref168" level="otherlevel" otherlevel="unspecified"><did><unittitle>Map of Port Lawrence and Vistula/Toledo</unittitle><unitdate type="inclusive">Aug 1834</unitdate><container id="aspace_fbd3ba17c92237b2aaddba1fa949e390" label="Mixed Materials" type="Box">16</container><container parent="aspace_fbd3ba17c92237b2aaddba1fa949e390" type="Folder">5</container></did></c><c id="aspace_ref169" level="otherlevel" otherlevel="unspecified"><did><unittitle>Oak Orchard (properties of American Life Insurance and Trust Company</unittitle><unitdate type="inclusive">Aug 8, 1840</unitdate><container id="aspace_1497ce835e7e77e0624e75b8dfe22853" label="Mixed Materials" type="Box">16</container><container parent="aspace_1497ce835e7e77e0624e75b8dfe22853" type="Folder">5</container></did></c><c id="aspace_ref170" level="otherlevel" otherlevel="unspecified"><did><unittitle>Map of Toledo and Port Lawrence Township</unittitle><unitdate normal="1844/1844" type="inclusive">1844</unitdate><container id="aspace_52cb23ffb65847a2bae905df2cbfc5f6" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_52cb23ffb65847a2bae905df2cbfc5f6" type="Folder">1</container></did></c><c id="aspace_ref171" level="otherlevel" otherlevel="unspecified"><did><unittitle>Map of Toledo and Port Lawrence Township</unittitle><unitdate normal="1844/1844" type="inclusive">1844</unitdate><container id="aspace_f4703e0bf71c4fcae6631bf1026c7b6c" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_f4703e0bf71c4fcae6631bf1026c7b6c" type="Folder">1</container></did></c><c id="aspace_ref172" level="otherlevel" otherlevel="unspecified"><did><unittitle>Map of Lucas County</unittitle><unitdate type="inclusive">Feb 24, 1845</unitdate><container id="aspace_22d9f2f42c382646d202ae656332186c" label="Mixed Materials" type="Box">16</container><container parent="aspace_22d9f2f42c382646d202ae656332186c" type="Folder">5</container></did></c><c id="aspace_ref173" level="otherlevel" otherlevel="unspecified"><did><unittitle>Indiana</unittitle><unitdate normal="1846/1847" type="inclusive">1846-1847 , 1856-1857</unitdate><container id="aspace_7c468d35db7a617c6caa1bcdbe8d928b" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_7c468d35db7a617c6caa1bcdbe8d928b" type="Folder">1</container></did></c><c id="aspace_ref174" level="otherlevel" otherlevel="unspecified"><did><unittitle>River Tracts 5&amp;6 T.III. V.S.R. in Toledo, Ohio</unittitle><unitdate type="inclusive">Mar 1852</unitdate><container id="aspace_562e69161656bf5ce2510deafa36037b" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_562e69161656bf5ce2510deafa36037b" type="Folder">1</container></did></c><c id="aspace_ref175" level="otherlevel" otherlevel="unspecified"><did><unittitle>Map of Toledo showing new addition</unittitle><unitdate normal="1872/1872" type="inclusive">1872</unitdate><container id="aspace_b167eee2f8fc52417e2813cf7dfa4809" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_b167eee2f8fc52417e2813cf7dfa4809" type="Folder">1</container></did></c><c id="aspace_ref176" level="otherlevel" otherlevel="unspecified"><did><unittitle>Evansville, Map of Indiana and part of Ohio</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_c4152cb0a19829a0152f9700eee329d5" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_c4152cb0a19829a0152f9700eee329d5" type="Folder">1</container></did></c><c id="aspace_ref177" level="otherlevel" otherlevel="unspecified"><did><unittitle>Maumee River and its surroundings with Vistula Plot and Port Lawrence Plot</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_36560072db7c3aec93f765ea050214b1" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_36560072db7c3aec93f765ea050214b1" type="Folder">1</container></did></c><c id="aspace_ref178" level="otherlevel" otherlevel="unspecified"><did><unittitle>Mulberry, Chestnut, Elm, Lagrange, Champlain, Michigan, Ontario, Erie Streets. (Toledo)</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_788e8a29cbefe2598fcf01eb90a007bf" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_788e8a29cbefe2598fcf01eb90a007bf" type="Folder">1</container></did></c><c id="aspace_ref179" level="otherlevel" otherlevel="unspecified"><did><unittitle>Map of Ohio</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_109ea63126d50eda3014140be21d35f5" label="Mixed Materials" type="Box">16</container><container parent="aspace_109ea63126d50eda3014140be21d35f5" type="Folder">5</container></did></c><c id="aspace_ref180" level="otherlevel" otherlevel="unspecified"><did><unittitle>Toledo</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_849c3d052fdba2733d8d45628078f228" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_849c3d052fdba2733d8d45628078f228" type="Folder">1</container></did></c><c id="aspace_ref181" level="otherlevel" otherlevel="unspecified"><did><unittitle>Indiana (duplicates)</unittitle><unitdate normal="1846/1857" type="inclusive">1846-1847 1856-1857</unitdate><container id="aspace_9f4f13e61ee0ede7f16470221ca62276" label="Mixed Materials" type="Box">16</container><container parent="aspace_9f4f13e61ee0ede7f16470221ca62276" type="Folder">5</container></did></c><c id="aspace_ref182" level="otherlevel" otherlevel="unspecified"><did><unittitle>The oil district Venango, Crawford and Warren Counties, Pennsylvania</unittitle><unitdate normal="1864/1864" type="inclusive">1864</unitdate><container id="aspace_87ac955a052d44266861ee451590bee2" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_87ac955a052d44266861ee451590bee2" type="Folder">1</container></did></c><c id="aspace_ref183" level="otherlevel" otherlevel="unspecified"><did><unittitle>Orleans County Property</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_b7ea48b7b8b067cbc33384663cc63e85" label="Mixed Materials (0)" type="Drawer">10</container><container parent="aspace_b7ea48b7b8b067cbc33384663cc63e85" type="Folder">2</container></did></c></c></c></dsc>
+</archdesc>
 </ead>
