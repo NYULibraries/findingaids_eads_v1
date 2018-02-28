@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/timeincrg16/">timeincrg16</eadid>
+        <eadid countrycode="US" mainagencycode="US-NHi">timeincrg16</eadid>
         <filedesc>
             <titlestmt>
-                <titleproper>Guide to the Time Inc. New Building Department Records
-                    <lb/>1953-1960
-                    <lb/>
-                    <num>MS 3009-RG 16</num>
+                <titleproper>Guide to the Time Inc. New Building Department Records<lb/>1953-1960<lb/>
+                    <num>MS 3009.RG 16</num>
                 </titleproper>
                 <author>Finding aid prepared by Finding aid prepared by Holly Deakyne and Melanie Rinehart</author>
                 <sponsor>The processing of the Time Inc. Records was made possible by a generous grant from the Henry Luce Foundation.</sponsor>
@@ -24,7 +22,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2017-05-05T15:52-0400</date>
+                <date>2017-04-18T09:43-0400</date>
             </creation>
             <langusage>Description is in 
                 <language>English</language></langusage>
@@ -34,7 +32,7 @@
     <archdesc level="collection">
         <did>
             <unittitle>Time Inc. New Building Department Records</unittitle>
-            <unitid>MS 3009-RG 16</unitid>
+            <unitid>MS 3009.RG 16</unitid>
             <repository>
                 <corpname>© 2011 New-York Historical Society</corpname>
             </repository>
@@ -80,11 +78,11 @@
         </arrangement>
         <prefercite id="ref9">
             <head>Preferred Citation Note</head>
-            <p>This record group should be cited as Time Inc. New Building Department Records (MS 3009-RG 16), The New-York Historical Society.</p>
+            <p>This record group should be cited as Time Inc. New Building Department Records (MS 3009.RG 16), The New-York Historical Society.</p>
         </prefercite>
         <accessrestrict id="ref10">
             <head>Access Restrictions</head>
-            <p>Open to qualified researchers with the exception of restricted materials. Restricted materials may include privileged attorney correspondence; student records; medical records; personnel performance evaluations; contracts and agreements; and records with personally identifiable information. Restricted materials are located in box R7.</p>
+            <p>Open to qualified researchers with the exception of restricted materials. Restricted materials may include privileged attorney correspondence; student records; medical records; personnel performance evaluations; contracts and agreements; and records with personally identifiable information. Restricted materials are located in box R7. Materials are stored offsite and advance notice is required for use.</p>
         </accessrestrict>
         <userestrict id="ref11">
             <head>Use Restrictions</head>
@@ -103,7 +101,7 @@
             <subject source="lcsh">Time, inc -- Management</subject>
         </controlaccess>
         <dsc>
-            <c id="ref12" level="series">
+            <c01 id="ref12" level="series">
                 <did>
                     <unittitle>Series I: Henry Luce III Chronological Binders</unittitle>
                     <container id="cid2626002" type="Offsite-Box" label="Mixed materials">712</container>
@@ -122,8 +120,8 @@
                     <head>Scope and Contents Note</head>
                     <p>The Henry Luce III Chronological Binders appear to be kept by the head of the department as a record of the sequence of events. Luce is the primary author with a substantial amount of material from department staff member Alex Hood included. The files contain memoranda, correspondence, cost estimates, and Publisher's Subcommittee on Housing meeting agenda and notes. Of interest is a July 1958 survey of the editorial reference material undertaken to determine space requirements.</p>
                 </scopecontent>
-            </c>
-            <c id="ref16" level="series">
+            </c01>
+            <c01 id="ref16" level="series">
                 <did>
                     <unittitle>Series II: Subject Files</unittitle>
                     <physdesc>
@@ -140,252 +138,252 @@
                     <head>Scope and Contents Note</head>
                     <p>The Subject Files appear to have been processed and organized by the Time Inc. Archives. The first folder contains ideas for possible sites while the rest of the folders focus on the construction and set up of the Time &amp; Life Building. The files contain planning records such as memoranda, correspondence, cost estimates, publicity clips, and Publisher's Subcommittee on Housing meeting agenda and notes. Also inculded are plans for a building cornerstone and the time capsule placed within, financial information with regards to purchasing furniture, and references for design choices.</p>
                 </scopecontent>
-                <c id="ref18" level="file">
+                <c02 id="ref18" level="file">
                     <did>
                         <unittitle>New Sites: 1953-1955</unittitle>
                         <container id="cid2539002" type="Offsite-Box" label="Mixed materials">712</container>
                         <container parent="cid2539002" type="Folder">12</container>
                     </did>
-                </c>
-                <c id="ref19" level="file">
+                </c02>
+                <c02 id="ref19" level="file">
                     <did>
                         <unittitle>Time-Life: Designs for Business</unittitle>
                         <container id="cid2626004" type="Offsite-Box" label="Mixed materials">712</container>
                         <container parent="cid2626004" type="Folder">13</container>
                     </did>
-                </c>
-                <c id="ref62" level="file">
+                </c02>
+                <c02 id="ref62" level="file">
                     <did>
                         <unittitle>Time-Life: Designs for Business: Legal [RESTRICTED]</unittitle>
                         <container id="cid2632001" type="Offsite-Box" label="Mixed materials">R7</container>
                         <container parent="cid2632001" type="Folder">1-2</container>
                     </did>
-                </c>
-                <c id="ref20" level="file">
+                </c02>
+                <c02 id="ref20" level="file">
                     <did>
                         <unittitle>Time-Life: Elevators</unittitle>
                         <container id="cid2626003" type="Offsite-Box" label="Mixed materials">712</container>
                         <container parent="cid2626003" type="Folder">14</container>
                     </did>
-                </c>
-                <c id="ref64" level="file">
+                </c02>
+                <c02 id="ref64" level="file">
                     <did>
                         <unittitle>Time-Life: Fuller-Lowry: Legal [RESTRICTED]</unittitle>
                         <container id="cid2632002" type="Offsite-Box" label="Mixed materials">R7</container>
                         <container parent="cid2632002" type="Folder">3</container>
                     </did>
-                </c>
-                <c id="ref21" level="file">
+                </c02>
+                <c02 id="ref21" level="file">
                     <did>
                         <unittitle>Time-Life: Financial: Furniture</unittitle>
                         <container id="cid2626005" type="Offsite-Box" label="Mixed materials">712</container>
                         <container parent="cid2626005" type="Folder">15</container>
                     </did>
-                </c>
-                <c id="ref22" level="file">
+                </c02>
+                <c02 id="ref22" level="file">
                     <did>
                         <unittitle>Time-Life: Financial: Miscellaneous: 1954-1957</unittitle>
                         <container id="cid2626006" type="Offsite-Box" label="Mixed materials">712</container>
                         <container parent="cid2626006" type="Folder">16-17</container>
                     </did>
-                </c>
-                <c id="ref23" level="file">
+                </c02>
+                <c02 id="ref23" level="file">
                     <did>
                         <unittitle>Time-Life: Financial: Miscellaneous: 1958-1960</unittitle>
                         <container id="cid2626008" type="Offsite-Box" label="Mixed materials">712</container>
                         <container parent="cid2626008" type="Folder">18-19</container>
                     </did>
-                </c>
-                <c id="ref24" level="file">
+                </c02>
+                <c02 id="ref24" level="file">
                     <did>
                         <unittitle>Time-Life: Financial: Profit and loss summary, first 30 years</unittitle>
                         <container id="cid2626007" type="Offsite-Box" label="Mixed materials">712</container>
                         <container parent="cid2626007" type="Folder">20</container>
                     </did>
-                </c>
-                <c id="ref25" level="file">
+                </c02>
+                <c02 id="ref25" level="file">
                     <did>
                         <unittitle>Time-Life: Fuller-Lowry subcontractor's meetings</unittitle>
                         <container id="cid2626009" type="Offsite-Box" label="Mixed materials">712</container>
                         <container parent="cid2626009" type="Folder">21</container>
                     </did>
-                </c>
-                <c id="ref26" level="file">
+                </c02>
+                <c02 id="ref26" level="file">
                     <did>
                         <unittitle>Time-Life: Heliport Proposals</unittitle>
                         <container id="cid2626010" type="Offsite-Box" label="Mixed materials">712</container>
                         <container parent="cid2626010" type="Folder">22</container>
                     </did>
-                </c>
-                <c id="ref27" level="file">
+                </c02>
+                <c02 id="ref27" level="file">
                     <did>
                         <unittitle>Time-Life: Miscellaneous</unittitle>
                         <container id="cid2626011" type="Offsite-Box" label="Mixed materials">712</container>
                         <container parent="cid2626011" type="Folder">23</container>
                     </did>
-                </c>
-                <c id="ref28" level="file">
+                </c02>
+                <c02 id="ref28" level="file">
                     <did>
                         <unittitle>Time-Life: Move: Miscellaneous</unittitle>
                         <container id="cid2626012" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626012" type="Folder">1</container>
                     </did>
-                </c>
-                <c id="ref65" level="file">
+                </c02>
+                <c02 id="ref65" level="file">
                     <did>
                         <unittitle>Time-Life: Move: Miscellaneous [RESTRICTED]</unittitle>
                         <container id="cid2632003" type="Offsite-Box" label="Mixed materials">R7</container>
                         <container parent="cid2632003" type="Folder">4</container>
                     </did>
-                </c>
-                <c id="ref29" level="file">
+                </c02>
+                <c02 id="ref29" level="file">
                     <did>
                         <unittitle>Time-Life: Move: Time-Incers</unittitle>
                         <container id="cid2626015" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626015" type="Folder">2</container>
                     </did>
-                </c>
-                <c id="ref30" level="file">
+                </c02>
+                <c02 id="ref30" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move: Advertiser Relations</unittitle>
                         <container id="cid2626014" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626014" type="Folder">3</container>
                     </did>
-                </c>
-                <c id="ref31" level="file">
+                </c02>
+                <c02 id="ref31" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move: Coordinating Committee</unittitle>
                         <container id="cid2626013" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626013" type="Folder">4</container>
                     </did>
-                </c>
-                <c id="ref32" level="file">
+                </c02>
+                <c02 id="ref32" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move: Cornerstone</unittitle>
                         <container id="cid2626018" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626018" type="Folder">5-6</container>
                     </did>
-                </c>
-                <c id="ref33" level="file">
+                </c02>
+                <c02 id="ref33" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move: Design Committee</unittitle>
                         <container id="cid2626017" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626017" type="Folder">7</container>
                     </did>
-                </c>
-                <c id="ref34" level="file">
+                </c02>
+                <c02 id="ref34" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move: Design and Sketches (Brennan)</unittitle>
                         <container id="cid2626016" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626016" type="Folder">8</container>
                     </did>
-                </c>
-                <c id="ref66" level="file">
+                </c02>
+                <c02 id="ref66" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move-Directors Memos [RESTRICTED]</unittitle>
                         <container id="cid2632004" type="Offsite-Box" label="Mixed materials">R7</container>
                         <container parent="cid2632004" type="Folder">5</container>
                     </did>
-                </c>
-                <c id="ref35" level="file">
+                </c02>
+                <c02 id="ref35" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move: Furniture Meetings</unittitle>
                         <container id="cid2626021" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626021" type="Folder">9</container>
                     </did>
-                </c>
-                <c id="ref36" level="file">
+                </c02>
+                <c02 id="ref36" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move: Job Meetings</unittitle>
                         <container id="cid2539001" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2539001" type="Folder">10-11</container>
                     </did>
-                </c>
-                <c id="ref37" level="file">
+                </c02>
+                <c02 id="ref37" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move: Miscellaneous</unittitle>
                         <container id="cid2626020" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626020" type="Folder">12</container>
                     </did>
-                </c>
-                <c id="ref40" level="file">
+                </c02>
+                <c02 id="ref40" level="file">
                     <did>
                         <unittitle>Time-Life: Publicity: Clips</unittitle>
                         <container id="cid2626019" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626019" type="Folder">13</container>
                     </did>
-                </c>
-                <c id="ref41" level="file">
+                </c02>
+                <c02 id="ref41" level="file">
                     <did>
                         <unittitle>Time-Life: Publicity: Miscellaneous</unittitle>
                         <container id="cid2626023" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626023" type="Folder">14-15</container>
                     </did>
-                </c>
-                <c id="ref38" level="file">
+                </c02>
+                <c02 id="ref38" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move: Publisher's Subcommittee on Housing</unittitle>
                         <container id="cid2626022" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626022" type="Folder">16</container>
                     </did>
-                </c>
-                <c id="ref39" level="file">
+                </c02>
+                <c02 id="ref39" level="file">
                     <did>
                         <unittitle>Time-Life: Pre-Move: Rock-Time Meetings</unittitle>
                         <container id="cid2626025" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626025" type="Folder">17</container>
                     </did>
-                </c>
-                <c id="ref42" level="file">
+                </c02>
+                <c02 id="ref42" level="file">
                     <did>
                         <unittitle>Time-Life: Special Areas: Dining Rooms: Hemisphere Club</unittitle>
                         <container id="cid2626024" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626024" type="Folder">18-19</container>
                     </did>
-                </c>
-                <c id="ref43" level="file">
+                </c02>
+                <c02 id="ref43" level="file">
                     <did>
                         <unittitle>Time-Life: Special Areas: Dining Rooms: Miscellaneous</unittitle>
                         <container id="cid2626027" type="Offsite-Box" label="Mixed materials">713</container>
                         <container parent="cid2626027" type="Folder">20</container>
                     </did>
-                </c>
-                <c id="ref44" level="file">
+                </c02>
+                <c02 id="ref44" level="file">
                     <did>
                         <unittitle>Time-Life: Special Areas: Library</unittitle>
                         <container id="cid2626026" type="Offsite-Box" label="Mixed materials">713-714</container>
                     </did>
-                </c>
-                <c id="ref45" level="file">
+                </c02>
+                <c02 id="ref45" level="file">
                     <did>
                         <unittitle>Time-Life: Special Areas: Miscellaneous</unittitle>
                         <container id="cid2626031" type="Offsite-Box" label="Mixed materials">714</container>
                         <container parent="cid2626031" type="Folder">2</container>
                     </did>
-                </c>
-                <c id="ref46" level="file">
+                </c02>
+                <c02 id="ref46" level="file">
                     <did>
                         <unittitle>Time-Life: Special Areas: Plaza</unittitle>
                         <container id="cid2626030" type="Offsite-Box" label="Mixed materials">714</container>
                         <container parent="cid2626030" type="Folder">3</container>
                     </did>
-                </c>
-                <c id="ref47" level="file">
+                </c02>
+                <c02 id="ref47" level="file">
                     <did>
                         <unittitle>Time-Life: Special Areas: Reception Center</unittitle>
                         <container id="cid2626029" type="Offsite-Box" label="Mixed materials">714</container>
                         <container parent="cid2626029" type="Folder">4-5</container>
                     </did>
-                </c>
-                <c id="ref48" level="file">
+                </c02>
+                <c02 id="ref48" level="file">
                     <did>
                         <unittitle>Time-Life: Sublet Space</unittitle>
                         <container id="cid2626028" type="Offsite-Box" label="Mixed materials">714</container>
                         <container parent="cid2626028" type="Folder">6</container>
                     </did>
-                </c>
-            </c>
-            <c id="ref51" level="series">
+                </c02>
+            </c01>
+            <c01 id="ref51" level="series">
                 <did>
                     <unittitle>Series III. Invoices and Purchase Orders</unittitle>
                     <unitdate>1959-1961</unitdate>
@@ -398,31 +396,31 @@
                     <head>Scope and Contents Note</head>
                     <p>Invoices and Purchase Orders consists of material removed from three binders. DFB Purchase Orders and Untitled contain purchase orders and invoices for furniture, interior decor, and plants. Subcontractors' K &amp; Co Amounts includes invoices for "Time Inc. Tenant Work" regarding construction. All binders contain a small amount of correspondence to and from Time Inc. regarding work to be done and credits on returns.</p>
                 </scopecontent>
-                <c id="ref52" level="file">
+                <c02 id="ref52" level="file">
                     <did>
                         <unittitle>DFB Purchase Orders Binder</unittitle>
                         <container id="cid2596001" type="Offsite-Box" label="Mixed materials">714</container>
                         <container parent="cid2596001" type="Folder">7-9</container>
                         <unitdate>1960</unitdate>
                     </did>
-                </c>
-                <c id="ref54" level="file">
+                </c02>
+                <c02 id="ref54" level="file">
                     <did>
                         <unittitle>Untitled Binder</unittitle>
                         <container id="cid2626033" type="Offsite-Box" label="Mixed materials">714</container>
                         <container parent="cid2626033" type="Folder">10-12</container>
                         <unitdate>1960</unitdate>
                     </did>
-                </c>
-                <c id="ref53" level="file">
+                </c02>
+                <c02 id="ref53" level="file">
                     <did>
                         <unittitle>Subcontractors' K &amp; Co Amounts Binder</unittitle>
                         <container id="cid2626032" type="Offsite-Box" label="Mixed materials">714</container>
                         <container parent="cid2626032" type="Folder">13-17</container>
                         <unitdate>1959-1961</unitdate>
                     </did>
-                </c>
-            </c>
+                </c02>
+            </c01>
         </dsc>
     </archdesc>
 </ead>
