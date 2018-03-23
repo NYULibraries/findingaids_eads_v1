@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">pr354_sugar_packets</eadid>
+        <eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/pr354_sugar_packets/">pr354_sugar_packets</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Crago-Kramer Collection of Sugar Packets
@@ -23,7 +23,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2018-02-16T14:55-0500</date>
+                <date>2018-03-23T16:24-0400</date>
             </creation>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
@@ -38,10 +38,9 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid3796001" type="Box" label="Mixed materials">1</container>
             <physdesc>
                 <extent>0.42 Linear feet</extent>
-                <extent>in one document box (7 folders)</extent>
+                <extent>in one document box</extent>
             </physdesc>
             <unitdate>circa 1939-1960s</unitdate>
             <abstract id="ref3" label="Abstract">The Crago-Kramer collection includes a variety of sugar packets from New York City and New York State, dating from the 1930s-1960s. The packets are often distinctive in that they refer to particular business establishments, especially hotels and restaurants, institutions, and some events, notably the World's Fairs of 1939-40 and of 1964-65 and the 1980 Winter Olympics.</abstract>
@@ -51,7 +50,7 @@
         </did>
         <processinfo id="ref10">
             <head>Processing Information Note</head>
-            <p>The collection was processed in February 2018 by archivist Larry Weimer aand volunteer Carol Reisner.</p>
+            <p>The collection was processed in February 2018 by archivist Larry Weimer and volunteer Carol Reisner.</p>
         </processinfo>
         <prefercite id="ref9">
             <head>Preferred Citation Note</head>
@@ -92,6 +91,15 @@
             <genreform source="aat">Packets (containers)</genreform>
             <subject source="lcsh">Sugar -- Packaging -- New York (State)</subject>
         </controlaccess>
-        <dsc/>
+        <dsc>
+            <c id="ref13" level="file">
+                <did>
+                    <unittitle>Sugar Packets (7 folders)</unittitle>
+                    <container id="cid3984001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3984001" type="Folder">1-7</container>
+                    <unitdate>circa 1939-1960s</unitdate>
+                </did>
+            </c>
+        </dsc>
     </archdesc>
 </ead>
