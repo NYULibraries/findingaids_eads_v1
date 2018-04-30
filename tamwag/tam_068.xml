@@ -1,85 +1,54 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_068</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Glenn Jenkins Papers
-                    <num>TAM.068</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/17/2010</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-09-23T13:02-0400</date>
-            </creation>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Glenn Jenkins Papers</unittitle>
-            <unitid>TAM.068</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid20042001" type="Box" label="Mixed materials">1-2</container>
-            <physdesc>
-                <extent>1.0 linear feet</extent>
-                <extent>(2 boxes)</extent>
-            </physdesc>
-            <unitdate normal="1970/1980" type="inclusive">1970-1980</unitdate>
-            <origination label="creator">
-                <persname source="local">Jenkins, Glenn</persname>
-            </origination>
-        </did>
-        <bioghist id="ref4">
-            <head>Historical/Biographical Note</head>
-            <p>Glenn Jenkins was a part-time student, hospital worker and self-described revolutionary living in Wisconsin in the early 1970s.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This unprocessed collection includes correspondence, leaflets, reports, position papers and journals relating to the Socialist Workers Party, Revolutionary Marxist Group, Communist Party, International Socialists, National Caucus of Labor Committees (NCLC), Revolutionary Union, Workers League, Revolutionary Socialist League, Students for a Democratic Society, the Health Policy Advisory Center (Health/PAC) and various other organizations.</p>
-        </scopecontent>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Collection is unprocessed and is not available to researchers at this time.</p>
-        </accessrestrict>
-        <userestrict id="ref7">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2100. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <controlaccess>
-            <corpname source="naf">Communist Party of the United States of America.</corpname>
-            <corpname source="naf">Health/PAC.</corpname>
-            <corpname source="naf">International Socialists (U.S.).</corpname>
-            <persname source="local">Jenkins, Glenn</persname>
-            <corpname source="naf">National Caucus of Labor Committees (U.S.).</corpname>
-            <corpname source="naf">Revolutionary Marxist Group.</corpname>
-            <corpname source="naf">Revolutionary Socialist League.</corpname>
-            <corpname source="naf">Revolutionary Union.</corpname>
-            <corpname source="naf">Socialist Workers Party.</corpname>
-            <corpname source="naf">Students for a Democratic Society (U.S.).</corpname>
-            <corpname source="naf">Workers League (U.S.).</corpname>
-            <subject source="lcsh">Communist parties |z United States.</subject>
-            <subject source="lcsh">New Left |z United States.</subject>
-            <subject source="lcsh">Radicals |z United States.</subject>
-            <subject source="lcsh">Socialist parties |z United States.</subject>
-            <subject source="local">Trotskyist parties |z United States.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_068</eadid><filedesc><titlestmt><titleproper>Glenn Jenkins Papers <num>TAM.068</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-04-30T19:31:04</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Glenn Jenkins Papers</unittitle>
+    <origination label="creator">
+      <persname source="local">Jenkins, Glenn</persname>
+    </origination>
+    <unitid>TAM.068</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate normal="1970/1980" type="inclusive">1970-1980</unitdate>
+    <container id="aspace_14599caeb9be096d517ee80dfa6301d2" label="Mixed Materials" type="Box">1-2</container>
+  </did>
+  <bioghist id="aspace_ee5452609d2928ba4a6c40a14b3dabd3">
+    <head>Historical/Biographical Note</head>
+<p>Glenn Jenkins was a part-time student, hospital worker and self-described revolutionary living in Wisconsin in the early 1970s.</p>  </bioghist>
+  <scopecontent id="aspace_50ab0b09e40fcfbf2feda4a71257e60b">
+    <head>Scope and Contents</head>
+<p>This unprocessed collection includes correspondence, leaflets, reports, position papers and journals relating to the Socialist Workers Party, Revolutionary Marxist Group, Communist Party, International Socialists, National Caucus of Labor Committees (NCLC), Revolutionary Union, Workers League, Revolutionary Socialist League, Students for a Democratic Society, the Health Policy Advisory Center (Health/PAC) and various other organizations.</p>  </scopecontent>
+  <accessrestrict id="aspace_ee24d784b82dac82c290826fe03ebab8">
+    <head>Conditions Governing Access</head>
+<p>Collection is unprocessed and is not available to researchers at this time.</p>  </accessrestrict>
+  <userestrict id="aspace_d18da54f8f9c0e19f023ce1544bb15b2">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1970-1980, are expected to enter the public domain in 2101.</p>  </userestrict>
+  <acqinfo id="aspace_0afbf0e4315276236d1a08c494f60c7d">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. The accession number associated with this collection is 1976.002.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Socialist parties -- United States.</subject>
+    <subject source="lcsh">New Left -- United States.</subject>
+    <subject source="lcsh">Communist parties |z United States.</subject>
+    <subject source="lcsh">Radicals -- United States.</subject>
+    <corpname source="naf">International Socialists (U.S.)</corpname>
+    <corpname source="naf">Socialist Workers Party</corpname>
+    <corpname source="naf">Students for a Democratic Society (U.S.)</corpname>
+    <corpname source="naf">Workers League (U.S.)</corpname>
+    <corpname source="naf">National Caucus of Labor Committees (U.S.)</corpname>
+    <corpname rules="aacr" source="naf">Communist Party of the United States of America</corpname>
+    <corpname source="naf">Revolutionary Marxist Group</corpname>
+    <corpname source="naf">Health/PAC</corpname>
+    <corpname source="naf">Revolutionary Socialist League</corpname>
+    <corpname source="naf">Revolutionary Union</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
