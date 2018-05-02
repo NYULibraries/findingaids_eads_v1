@@ -1,188 +1,56 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Inventory_FolderLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_085">tam_085</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Henry J. Meyer United States National War Labor Board Files
-                    <num>TAM.085</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>12/14/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-10-19T14:42-0400</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>2/26/2015</date>
-                <item>Finding aid was updated by Giana Ricci for compliance with DACS standards and Tamiment requirements.</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Henry J. Meyer United States National War Labor Board Files</unittitle>
-            <unitid>TAM.085</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>1.25 linear feet</extent>
-                <extent>in 3 manuscript boxes</extent>
-            </physdesc>
-            <unitdate normal="1941/1947" type="inclusive">1941-1947</unitdate>
-            <abstract id="ref20" label="Abstract">The material comes from the National War Labor Board (NWLB) files of Henry J. Meyer and consists of correspondence between Meyer and labor unions (both established and independent unions), national and regional boards of the (NWLB), the Dade County (Florida) Stabilization Panel, and the National Telephone panel.</abstract>
-            <langmaterial id="ref18" label="Language of Materials note">Materials are in English</langmaterial>
-            <origination label="creator">
-                <persname source="local">Meyer, Henry J.</persname>
-            </origination>
-            <origination label="creator">
-                <corpname source="naf">United States. National War Labor Board (1942-1945).</corpname>
-            </origination>
-        </did>
-        <bioghist id="ref2">
-            <head>Historical/Biographical Note</head>
-            <p>Henry J. Meyer was the United States National War Labor Board (NWLB) liaison officer for independent unions. During World War II he was vice-chairman of the NWLB's National Telephone Panel and chair of the Wage Stabilization Board.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>The material comes from the National War Labor Board (NWLB) files of Henry J. Meyer and consists of correspondence between Meyer and labor unions (both established and independent unions), national and regional boards of the (NWLB), the Dade County (Florida) Stabilization Panel, and the National Telephone panel.</p>
-        </scopecontent>
-        <prefercite id="ref19">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Henry J. Meyer United States National War Labor Board Files; TAM 085; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <accessrestrict id="ref17">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref4">
-            <head>Use Restrictions</head>
-            <p>Information generated by the National War Labor Board is in the public domain, and users need not secure permission from the Tamiment Library in order to public or reproduce these materials. This collection may also contain materials created by other individuals or organizations for which the copyright is unknown, and for which Tamiment Library is not authorized to grant permission to publish or reproduce.</p>
-        </userestrict>
-        <controlaccess>
-            <persname source="local">Meyer, Henry J.</persname>
-            <corpname source="naf">United States. National War Labor Board (1942-1945).</corpname>
-            <corpname source="naf">United States. Wage Stabilization Board.</corpname>
-            <subject source="local">Labor policy |z United States |y 1940-1950.</subject>
-            <subject source="lcsh">Telecommunication |x Employees |x Labor unions |z United States.</subject>
-            <subject source="lcsh">World War, 1939-1945 |z United States.</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref5" level="file">
-                <did>
-                    <unittitle>Administrative Affairs</unittitle>
-                    <container id="cid23560001" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23560001" type="Folder">1</container>
-                    <unitdate normal="1941/1945" type="inclusive">1941-1945</unitdate>
-                </did>
-            </c>
-            <c id="ref6" level="file">
-                <did>
-                    <unittitle>Dade County Stabilization Panel</unittitle>
-                    <container id="cid23560002" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23560002" type="Folder">2</container>
-                    <unitdate normal="1945/1947" type="inclusive">1945-1947</unitdate>
-                </did>
-            </c>
-            <c id="ref7" level="file">
-                <did>
-                    <unittitle>Established unions and the NWLB</unittitle>
-                    <container id="cid23560003" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23560003" type="Folder">3</container>
-                    <unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate>
-                </did>
-            </c>
-            <c id="ref8" level="file">
-                <did>
-                    <unittitle>Independent unions</unittitle>
-                    <container id="cid23560004" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23560004" type="Folder">4-5</container>
-                    <unitdate normal="1944/1944">Jan 1944-Mar 1944</unitdate>
-                </did>
-            </c>
-            <c id="ref9" level="file">
-                <did>
-                    <unittitle>Independent unions</unittitle>
-                    <container id="cid23560005" type="Box" label="Mixed materials">2</container>
-                    <container parent="cid23560005" type="Folder">1-2</container>
-                    <unitdate normal="1944/1944">May 1944-Sep 1944</unitdate>
-                </did>
-            </c>
-            <c id="ref10" level="file">
-                <did>
-                    <unittitle>Independent unions</unittitle>
-                    <container id="cid23560006" type="Box" label="Mixed materials">2</container>
-                    <container parent="cid23560006" type="Folder">3</container>
-                    <unitdate normal="1944/1945" type="inclusive">Sep 1944-Jan 1945</unitdate>
-                </did>
-            </c>
-            <c id="ref11" level="file">
-                <did>
-                    <unittitle>National Telephone Panel</unittitle>
-                    <container id="cid23560007" type="Box" label="Mixed materials">2</container>
-                    <container parent="cid23560007" type="Folder">4</container>
-                    <unitdate normal="1942/1944" type="inclusive">Jun 1942-Nov 1944</unitdate>
-                </did>
-            </c>
-            <c id="ref12" level="file">
-                <did>
-                    <unittitle>National Telephone Panel</unittitle>
-                    <container id="cid23560008" type="Box" label="Mixed materials">2</container>
-                    <container parent="cid23560008" type="Folder">5</container>
-                    <unitdate normal="1944/1944">Dec 1944</unitdate>
-                </did>
-            </c>
-            <c id="ref13" level="file">
-                <did>
-                    <unittitle>National Telephone Panel</unittitle>
-                    <container id="cid23560009" type="Box" label="Mixed materials">2</container>
-                    <container parent="cid23560009" type="Folder">6</container>
-                    <unitdate normal="1945/1945">Jan 1945-Jun 1945</unitdate>
-                </did>
-            </c>
-            <c id="ref14" level="file">
-                <did>
-                    <unittitle>National Telephone Panel</unittitle>
-                    <container id="cid23560010" type="Box" label="Mixed materials">3</container>
-                    <container parent="cid23560010" type="Folder">1</container>
-                    <unitdate normal="1945/1945">Jul 1945-Dec 1945</unitdate>
-                </did>
-            </c>
-            <c id="ref15" level="file">
-                <did>
-                    <unittitle>National Telephone Panel</unittitle>
-                    <container id="cid23560011" type="Box" label="Mixed materials">3</container>
-                    <container parent="cid23560011" type="Folder">2</container>
-                    <unitdate normal="1946/1946">1946</unitdate>
-                </did>
-            </c>
-            <c id="ref16" level="file">
-                <did>
-                    <unittitle>National Wage Stabilization Board</unittitle>
-                    <container id="cid23560012" type="Box" label="Mixed materials">3</container>
-                    <container parent="cid23560012" type="Folder">3</container>
-                    <unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate>
-                </did>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_folderlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_085">tam_085</eadid><filedesc><titlestmt><titleproper>Guide to the Henry J. Meyer United States National War Labor Board Files <num>TAM.085</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-05-02T20:29:38</date></creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Henry J. Meyer United States National War Labor Board Files</unittitle>
+    <origination label="creator">
+      <corpname source="naf">United States. National War Labor Board (1942-1945)</corpname>
+    </origination>
+    <origination label="creator">
+      <persname source="local">Meyer, Henry J.</persname>
+    </origination>
+    <origination label="source">
+      <persname source="local">Meyer, Henry J.</persname>
+    </origination>
+    <unitid>TAM.085</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+      <extent altrender="carrier">in 3 manuscript boxes</extent>
+    </physdesc>
+    <unitdate normal="1941/1947" type="inclusive">1941-1947</unitdate>
+    <abstract id="aspace_14c04cb0aaf5c82b633d764777725da1">The material comes from the National War Labor Board (NWLB) files of Henry J. Meyer and consists of correspondence between Meyer and labor unions (both established and independent unions), national and regional boards of the (NWLB), the Dade County (Florida) Stabilization Panel, and the National Telephone panel.</abstract>
+    <langmaterial id="aspace_e27dffa2d779df80a9504eda0ee2f070">Materials are in English</langmaterial>
+  </did>
+  <bioghist id="aspace_e93f4ffe4eb2496638d2e2122cdadff9">
+    <head>Historical/Biographical Note</head>
+<p>Henry J. Meyer was the United States National War Labor Board (NWLB) liaison officer for independent unions. During World War II he was vice-chairman of the NWLB's National Telephone Panel and chair of the Wage Stabilization Board.</p>  </bioghist>
+  <scopecontent id="aspace_90195c48b5e1c0b9a3aa4de0d765d961">
+    <head>Scope and Contents</head>
+<p>The material comes from the National War Labor Board (NWLB) files of Henry J. Meyer and consists of correspondence between Meyer and labor unions (both established and independent unions), national and regional boards of the (NWLB), the Dade County (Florida) Stabilization Panel, and the National Telephone panel.</p>  </scopecontent>
+  <prefercite id="aspace_2add087aec86deb34de0b313ec0113ab">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Henry J. Meyer United States National War Labor Board Files; TAM 085; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <accessrestrict id="aspace_4e27b7849aee6bd53beba67b2ecee4a7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_941aa3346d4eb1bba5895a3b81bdc7b3">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1941-1947, are expected to enter the public domain in 2068.</p>  </userestrict>
+  <acqinfo id="aspace_88f353d741531eb323492d76e7b58298">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. The accession number associated with this collection is 1978.016.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">World War, 1939-1945 -- United States.</subject>
+    <subject source="local">Labor policy |z United States |y 1940-1950.</subject>
+    <subject source="lcsh">Telecommunication |x Employees |x Labor unions |z United States.</subject>
+    <corpname source="naf">United States. Wage Stabilization Board</corpname>
+    <corpname source="naf">United States. National War Labor Board (1942-1945)</corpname>
+    <persname role="fmo" source="local">Meyer, Henry J.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref5" level="file"><did><unittitle>Administrative Affairs</unittitle><unitdate normal="1941/1945" type="inclusive">1941-1945</unitdate><container id="aspace_9cedf7eb5b599693b9a470cff4264966" label="Mixed Materials" type="Box">1</container><container parent="aspace_9cedf7eb5b599693b9a470cff4264966" type="Folder">1</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Dade County Stabilization Panel</unittitle><unitdate normal="1945/1947" type="inclusive">1945-1947</unitdate><container id="aspace_5f1a0645035e82458c0fd9b89acdb459" label="Mixed Materials" type="Box">1</container><container parent="aspace_5f1a0645035e82458c0fd9b89acdb459" type="Folder">2</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Established unions and the NWLB</unittitle><unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate><container id="aspace_30abcf9700c3ed855084246645099f95" label="Mixed Materials" type="Box">1</container><container parent="aspace_30abcf9700c3ed855084246645099f95" type="Folder">3</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Independent unions</unittitle><unitdate normal="1944/1944" type="inclusive">Jan 1944-Mar 1944</unitdate><container id="aspace_434d23908a2698857ba4da8801f7cd78" label="Mixed Materials" type="Box">1</container><container parent="aspace_434d23908a2698857ba4da8801f7cd78" type="Folder">4-5</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Independent unions</unittitle><unitdate normal="1944/1944" type="inclusive">May 1944-Sep 1944</unitdate><container id="aspace_15c0d3dae419f298fa5c6a46c13c3e2b" label="Mixed Materials" type="Box">2</container><container parent="aspace_15c0d3dae419f298fa5c6a46c13c3e2b" type="Folder">1-2</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Independent unions</unittitle><unitdate normal="1944/1945" type="inclusive">Sep 1944-Jan 1945</unitdate><container id="aspace_b71a2bbb2cd2f3c45d4652d3c4eceaba" label="Mixed Materials" type="Box">2</container><container parent="aspace_b71a2bbb2cd2f3c45d4652d3c4eceaba" type="Folder">3</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>National Telephone Panel</unittitle><unitdate normal="1942/1944" type="inclusive">Jun 1942-Nov 1944</unitdate><container id="aspace_67085ad04d57cce05610bafb698fe620" label="Mixed Materials" type="Box">2</container><container parent="aspace_67085ad04d57cce05610bafb698fe620" type="Folder">4</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>National Telephone Panel</unittitle><unitdate normal="1944/1944" type="inclusive">Dec 1944</unitdate><container id="aspace_5d5f64098732a97f0cdc05398d0302e1" label="Mixed Materials" type="Box">2</container><container parent="aspace_5d5f64098732a97f0cdc05398d0302e1" type="Folder">5</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>National Telephone Panel</unittitle><unitdate normal="1945/1945" type="inclusive">Jan 1945-Jun 1945</unitdate><container id="aspace_2e74ab3d2b83fd5f39cce52366e27385" label="Mixed Materials" type="Box">2</container><container parent="aspace_2e74ab3d2b83fd5f39cce52366e27385" type="Folder">6</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>National Telephone Panel</unittitle><unitdate normal="1945/1945" type="inclusive">Jul 1945-Dec 1945</unitdate><container id="aspace_ab4e044cc6e6d5952bce3674f7b59ccd" label="Mixed Materials" type="Box">3</container><container parent="aspace_ab4e044cc6e6d5952bce3674f7b59ccd" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>National Telephone Panel</unittitle><unitdate normal="1946/1946" type="inclusive">1946</unitdate><container id="aspace_3d3b85187a1d948a07fa8745048ec4a5" label="Mixed Materials" type="Box">3</container><container parent="aspace_3d3b85187a1d948a07fa8745048ec4a5" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>National Wage Stabilization Board</unittitle><unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate><container id="aspace_b29e9bff90aec415cd9ae910a1c2543b" label="Mixed Materials" type="Box">3</container><container parent="aspace_b29e9bff90aec415cd9ae910a1c2543b" type="Folder">3</container></did></c></dsc>
+</archdesc>
 </ead>
