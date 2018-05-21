@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NHi">causeries</eadid>
         <filedesc>
             <titlestmt>
@@ -8,7 +8,6 @@
                     <date>1880-1996</date>
                     <date> (bulk 1880-1974)</date>
                     <lb/>
-                    <num></num>
                     <num>MS 104</num>
                 </titleproper>
                 <author>Finding aid prepared by Processed by Anna Helgeson, 2007 with additions by Catherine Newton, 2012</author>
@@ -17,7 +16,7 @@
                 <p>This version was derived from causeries.xml</p>
             </editionstmt>
             <publicationstmt>
-                <publisher>© 2011 New-York Historical Society</publisher>
+                <publisher>New-York Historical Society</publisher>
                 <address>
                     <addressline>New-York Historical Society</addressline>
                     <addressline>170 Central Park West</addressline>
@@ -28,18 +27,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-11-12T11:36-0500</date>
+                <date>2018-05-21T15:23-0400</date>
             </creation>
-            <langusage>Description is in 
-                <language>English</language>.</langusage>
+            <langusage>English</langusage>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
         <did>
-            <unittitle>Causeries du Lundi Records</unittitle>
+            <unittitle>Causeries du Lundi records</unittitle>
             <unitid>MS 104</unitid>
             <repository>
-                <corpname>© 2011 New-York Historical Society</corpname>
+                <corpname>New-York Historical Society</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -48,9 +46,11 @@
                 <extent>7.3 Linear feet</extent>
                 <extent>(18 boxes)</extent>
             </physdesc>
-            <unitdate>1880-1996 (bulk 1880-1974)</unitdate>
-            <physloc audience="internal" id="ref2" label="Location note">Manuscript cage</physloc>
+            <unitdate>1880-2012 (bulk 1880-1974)</unitdate>
             <abstract id="ref3" label="Abstract">This collection includes member and meeting information of the women's writing group, Causeries du Lundi, founded in 1880 and still active today. Members of this group write and present their essays at meetings, gathering the first Monday of every month in the winter.</abstract>
+            <origination label="creator">
+                <corpname rules="rda" source="local">Causeries du Lundi.</corpname>
+            </origination>
         </did>
         <custodhist id="ref4">
             <head>Provenance</head>
@@ -113,22 +113,23 @@
                     <extref ns2:href="http://dlib.nyu.edu/findingaids/html/nyhs/erving.html">Erving-King Papers.</extref> </archref></p>
         </relatedmaterial>
         <controlaccess>
-            <subject source="lcsh">Book Clubs (Discussion groups) -- New York (State) -- New York</subject>
-            <geogname source="lcsh">New York (N.Y.) -- Clubs</geogname>
-            <subject source="lcsh">Societies</subject>
+            <corpname rules="rda" source="local">Causeries du Lundi.</corpname>
+            <subject source="lcsh">Book clubs (Discussion groups) -- New York (State) -- New York</subject>
+            <subject source="lcsh">Clubs -- New York (State) -- New York</subject>
+            <subject source="lcsh">Societies -- New York (State) -- New York.</subject>
             <subject source="lcsh">Women -- Societies and clubs</subject>
-            <subject source="lcsh">Women History</subject>
         </controlaccess>
         <dsc>
             <c id="ref14" level="series">
                 <did>
-                    <unittitle>Series I. Rules of Government, 1922, 1947, 1970</unittitle>
+                    <unittitle>Series I. Rules of Government</unittitle>
+                    <unitdate>1922, 1947, 1970</unitdate>
                 </did>
                 <scopecontent id="ref16">
                     <head>Scope and Contents note</head>
                     <p>This series includes printed material detailing the protocol of membership and governing committees in the Causeries du Lundi.</p>
                 </scopecontent>
-                <c id="ref15" level="otherlevel">
+                <c id="ref15" level="file">
                     <did>
                         <unittitle>Rules of Government</unittitle>
                         <container id="cid490119" type="Box" label="Mixed Materials">1</container>
@@ -139,13 +140,14 @@
             </c>
             <c id="ref17" level="series">
                 <did>
-                    <unittitle>Series II. President's books, 1926-1979</unittitle>
+                    <unittitle>Series II. President's books</unittitle>
+                    <unitdate>1926-1979</unitdate>
                 </did>
                 <scopecontent id="ref20">
                     <head>Scope and Contents note</head>
                     <p>President's books contain membership information as well as meeting schedules, including the hostess and paper topic lists.</p>
                 </scopecontent>
-                <c id="ref18" level="otherlevel">
+                <c id="ref18" level="file">
                     <did>
                         <unittitle>President's Books</unittitle>
                         <container id="cid490118" type="Box" label="Mixed Materials">1</container>
@@ -153,7 +155,7 @@
                         <unitdate>1926-1944</unitdate>
                     </did>
                 </c>
-                <c id="ref19" level="otherlevel">
+                <c id="ref19" level="file">
                     <did>
                         <unittitle>President's Books</unittitle>
                         <container id="cid490117" type="Box" label="Mixed Materials">1</container>
@@ -164,13 +166,14 @@
             </c>
             <c id="ref21" level="series">
                 <did>
-                    <unittitle>Series III. Anniversary books, 1890-1955</unittitle>
+                    <unittitle>Series III. Anniversary books</unittitle>
+                    <unitdate>1890-1955</unitdate>
                 </did>
                 <scopecontent id="ref27">
                     <head>Scope and Contents note</head>
                     <p>This series contains printed books celebrating the anniversaries of and detailing the history of the organization and its members.</p>
                 </scopecontent>
-                <c id="ref22" level="otherlevel">
+                <c id="ref22" level="file">
                     <did>
                         <unittitle>Anniversary Book</unittitle>
                         <container id="cid490116" type="Box" label="Mixed Materials">1</container>
@@ -178,7 +181,7 @@
                         <unitdate>1890</unitdate>
                     </did>
                 </c>
-                <c id="ref23" level="otherlevel">
+                <c id="ref23" level="file">
                     <did>
                         <unittitle>Anniversary Book</unittitle>
                         <container id="cid490115" type="Box" label="Mixed Materials">1</container>
@@ -186,7 +189,7 @@
                         <unitdate>1900</unitdate>
                     </did>
                 </c>
-                <c id="ref24" level="otherlevel">
+                <c id="ref24" level="file">
                     <did>
                         <unittitle>Anniversary Book</unittitle>
                         <container id="cid490114" type="Box" label="Mixed Materials">1</container>
@@ -194,7 +197,7 @@
                         <unitdate>1912</unitdate>
                     </did>
                 </c>
-                <c id="ref25" level="otherlevel">
+                <c id="ref25" level="file">
                     <did>
                         <unittitle>Anniversary Book</unittitle>
                         <container id="cid490113" type="Box" label="Mixed Materials">1</container>
@@ -202,7 +205,7 @@
                         <unitdate>1930</unitdate>
                     </did>
                 </c>
-                <c id="ref26" level="otherlevel">
+                <c id="ref26" level="file">
                     <did>
                         <unittitle>Anniversary Book</unittitle>
                         <container id="cid490112" type="Box" label="Mixed Materials">1</container>
@@ -213,13 +216,14 @@
             </c>
             <c id="ref28" level="series">
                 <did>
-                    <unittitle>Series IV. Annual reports, 1897-1901</unittitle>
+                    <unittitle>Series IV. Annual reports</unittitle>
+                    <unitdate>1897-1901</unitdate>
                 </did>
                 <scopecontent id="ref34">
                     <head>Scope and Contents note</head>
                     <p>Annual reports contain meeting and budget information. After 1901, annual reports are kept with the meeting minutes.</p>
                 </scopecontent>
-                <c id="ref29" level="otherlevel">
+                <c id="ref29" level="file">
                     <did>
                         <unittitle>Annual Report</unittitle>
                         <container id="cid490111" type="Box" label="Mixed Materials">2</container>
@@ -227,7 +231,7 @@
                         <unitdate>1897</unitdate>
                     </did>
                 </c>
-                <c id="ref30" level="otherlevel">
+                <c id="ref30" level="file">
                     <did>
                         <unittitle>Annual Report</unittitle>
                         <container id="cid490110" type="Box" label="Mixed Materials">2</container>
@@ -235,7 +239,7 @@
                         <unitdate>1898</unitdate>
                     </did>
                 </c>
-                <c id="ref31" level="otherlevel">
+                <c id="ref31" level="file">
                     <did>
                         <unittitle>Annual Report</unittitle>
                         <container id="cid490109" type="Box" label="Mixed Materials">2</container>
@@ -243,7 +247,7 @@
                         <unitdate>1899</unitdate>
                     </did>
                 </c>
-                <c id="ref32" level="otherlevel">
+                <c id="ref32" level="file">
                     <did>
                         <unittitle>Annual Report</unittitle>
                         <container id="cid490108" type="Box" label="Mixed Materials">2</container>
@@ -251,7 +255,7 @@
                         <unitdate>1900</unitdate>
                     </did>
                 </c>
-                <c id="ref33" level="otherlevel">
+                <c id="ref33" level="file">
                     <did>
                         <unittitle>Annual Report</unittitle>
                         <container id="cid490107" type="Box" label="Mixed Materials">2</container>
@@ -262,13 +266,14 @@
             </c>
             <c id="ref35" level="series">
                 <did>
-                    <unittitle>Series V. Minutes, 1880-1974</unittitle>
+                    <unittitle>Series V. Minutes</unittitle>
+                    <unitdate>1880-1974</unitdate>
                 </did>
                 <scopecontent id="ref67">
                     <head>Scope and Contents note</head>
                     <p>Minutes detail meeting and hostess information, with synopses of presented papers and ensuing discussion, as well as the group's treasury reports. Book numbers are taken from the cover of notebook or binder of the minutes. Many have been removed from their binder for preservation purposes, but a representative sample of the binders is available at the end of the series.</p>
                 </scopecontent>
-                <c id="ref36" level="otherlevel">
+                <c id="ref36" level="file">
                     <did>
                         <unittitle>Minutes (Book 1)</unittitle>
                         <container id="cid490106" type="Box" label="Mixed Materials">2</container>
@@ -276,7 +281,7 @@
                         <unitdate>1880 Apr.-1886 Jan.</unitdate>
                     </did>
                 </c>
-                <c id="ref37" level="otherlevel">
+                <c id="ref37" level="file">
                     <did>
                         <unittitle>Minutes (Book 2)</unittitle>
                         <container id="cid490105" type="Box" label="Mixed Materials">2</container>
@@ -284,7 +289,7 @@
                         <unitdate>1886 Feb.-1889 Jan.</unitdate>
                     </did>
                 </c>
-                <c id="ref38" level="otherlevel">
+                <c id="ref38" level="file">
                     <did>
                         <unittitle>Minutes (Book 3)</unittitle>
                         <container id="cid490104" type="Box" label="Mixed Materials">2</container>
@@ -292,7 +297,7 @@
                         <unitdate>1889 Jan.-1891 Dec.</unitdate>
                     </did>
                 </c>
-                <c id="ref39" level="otherlevel">
+                <c id="ref39" level="file">
                     <did>
                         <unittitle>Minutes (Book 4)</unittitle>
                         <container id="cid490103" type="Box" label="Mixed Materials">2</container>
@@ -300,7 +305,7 @@
                         <unitdate>1892 Jan.-1894 May</unitdate>
                     </did>
                 </c>
-                <c id="ref40" level="otherlevel">
+                <c id="ref40" level="file">
                     <did>
                         <unittitle>Minutes (Book 5)</unittitle>
                         <container id="cid490102" type="Box" label="Mixed Materials">2</container>
@@ -308,7 +313,7 @@
                         <unitdate>1894 Nov.-1896 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref41" level="otherlevel">
+                <c id="ref41" level="file">
                     <did>
                         <unittitle>Minutes (Book 6)</unittitle>
                         <container id="cid490101" type="Box" label="Mixed Materials">2</container>
@@ -316,7 +321,7 @@
                         <unitdate>1896 Nov.-1900 Feb.</unitdate>
                     </did>
                 </c>
-                <c id="ref42" level="otherlevel">
+                <c id="ref42" level="file">
                     <did>
                         <unittitle>Minutes (Book 7)</unittitle>
                         <container id="cid490100" type="Box" label="Mixed Materials">3</container>
@@ -324,7 +329,7 @@
                         <unitdate>1900 Mar.-1902 Mar.</unitdate>
                     </did>
                 </c>
-                <c id="ref43" level="otherlevel">
+                <c id="ref43" level="file">
                     <did>
                         <unittitle>Minutes (Book 8)</unittitle>
                         <container id="cid490099" type="Box" label="Mixed Materials">3</container>
@@ -332,7 +337,7 @@
                         <unitdate>1902 Nov.-1905 Jan.</unitdate>
                     </did>
                 </c>
-                <c id="ref44" level="otherlevel">
+                <c id="ref44" level="file">
                     <did>
                         <unittitle>Minutes (Book 9)</unittitle>
                         <container id="cid490098" type="Box" label="Mixed Materials">3</container>
@@ -340,7 +345,7 @@
                         <unitdate>1905 Feb.-1907 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref45" level="otherlevel">
+                <c id="ref45" level="file">
                     <did>
                         <unittitle>Minutes (Book 10)</unittitle>
                         <container id="cid490097" type="Box" label="Mixed Materials">3</container>
@@ -348,7 +353,7 @@
                         <unitdate>1907 Nov.-1909 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref46" level="otherlevel">
+                <c id="ref46" level="file">
                     <did>
                         <unittitle>Minutes (Book 10A)</unittitle>
                         <container id="cid490096" type="Box" label="Mixed Materials">3</container>
@@ -356,7 +361,7 @@
                         <unitdate>1910 Nov.-1911 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref47" level="otherlevel">
+                <c id="ref47" level="file">
                     <did>
                         <unittitle>Minutes (Book 11)</unittitle>
                         <container id="cid490095" type="Box" label="Mixed Materials">3</container>
@@ -364,7 +369,7 @@
                         <unitdate>1909 Nov.-1912 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref48" level="otherlevel">
+                <c id="ref48" level="file">
                     <did>
                         <unittitle>Minutes (Book 12)</unittitle>
                         <container id="cid490094" type="Box" label="Mixed Materials">4</container>
@@ -372,7 +377,7 @@
                         <unitdate>1912 Nov.-1914 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref49" level="otherlevel">
+                <c id="ref49" level="file">
                     <did>
                         <unittitle>Minutes (Book 13)</unittitle>
                         <container id="cid490093" type="Box" label="Mixed Materials">4</container>
@@ -380,7 +385,7 @@
                         <unitdate>1914 Dec.-1917 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref50" level="otherlevel">
+                <c id="ref50" level="file">
                     <did>
                         <unittitle>Minutes (Book 14)</unittitle>
                         <container id="cid490092" type="Box" label="Mixed Materials">4</container>
@@ -388,7 +393,7 @@
                         <unitdate>1917 Dec.-1920 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref51" level="otherlevel">
+                <c id="ref51" level="file">
                     <did>
                         <unittitle>Minutes (Book 15)</unittitle>
                         <container id="cid490091" type="Box" label="Mixed Materials">4</container>
@@ -396,7 +401,7 @@
                         <unitdate>1920 Dec.-1926 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref52" level="otherlevel">
+                <c id="ref52" level="file">
                     <did>
                         <unittitle>Minutes (Book 16)</unittitle>
                         <container id="cid490090" type="Box" label="Mixed Materials">4</container>
@@ -404,7 +409,7 @@
                         <unitdate>1926 Dec.-1929 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref53" level="otherlevel">
+                <c id="ref53" level="file">
                     <did>
                         <unittitle>Minutes (Book 17)</unittitle>
                         <container id="cid490089" type="Box" label="Mixed Materials">4</container>
@@ -412,7 +417,7 @@
                         <unitdate>1929 Dec.-1933 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref54" level="otherlevel">
+                <c id="ref54" level="file">
                     <did>
                         <unittitle>Minutes (Book 18)</unittitle>
                         <container id="cid490088" type="Box" label="Mixed Materials">4</container>
@@ -420,7 +425,7 @@
                         <unitdate>1933 Dec.-1934 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref55" level="otherlevel">
+                <c id="ref55" level="file">
                     <did>
                         <unittitle>Minutes (Book 19)</unittitle>
                         <container id="cid490087" type="Box" label="Mixed Materials">5</container>
@@ -428,7 +433,7 @@
                         <unitdate>1934 Dec.-1940 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref56" level="otherlevel">
+                <c id="ref56" level="file">
                     <did>
                         <unittitle>Minutes</unittitle>
                         <container id="cid490086" type="Box" label="Mixed Materials">5</container>
@@ -436,7 +441,7 @@
                         <unitdate>1936 Dec.-1941 Nov.</unitdate>
                     </did>
                 </c>
-                <c id="ref57" level="otherlevel">
+                <c id="ref57" level="file">
                     <did>
                         <unittitle>Minutes (Book 20)</unittitle>
                         <container id="cid490085" type="Box" label="Mixed Materials">5</container>
@@ -444,7 +449,7 @@
                         <unitdate>1940 Nov.-1941 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref58" level="otherlevel">
+                <c id="ref58" level="file">
                     <did>
                         <unittitle>Minutes (Book 21)</unittitle>
                         <container id="cid490084" type="Box" label="Mixed Materials">5</container>
@@ -452,7 +457,7 @@
                         <unitdate>1941 Dec.-1944 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref59" level="otherlevel">
+                <c id="ref59" level="file">
                     <did>
                         <unittitle>Minutes (Book 22)</unittitle>
                         <container id="cid490083" type="Box" label="Mixed Materials">5</container>
@@ -460,7 +465,7 @@
                         <unitdate>1944 May-1952 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref60" level="otherlevel">
+                <c id="ref60" level="file">
                     <did>
                         <unittitle>Minutes (Book 23)</unittitle>
                         <container id="cid490082" type="Box" label="Mixed Materials">5</container>
@@ -468,7 +473,7 @@
                         <unitdate>1952 Apr.-1957 Mar.</unitdate>
                     </did>
                 </c>
-                <c id="ref61" level="otherlevel">
+                <c id="ref61" level="file">
                     <did>
                         <unittitle>Minutes</unittitle>
                         <container id="cid490081" type="Box" label="Mixed Materials">5</container>
@@ -476,7 +481,7 @@
                         <unitdate>1957 Apr.-1959 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref62" level="otherlevel">
+                <c id="ref62" level="file">
                     <did>
                         <unittitle>Minutes</unittitle>
                         <container id="cid490080" type="Box" label="Mixed Materials">6</container>
@@ -484,7 +489,7 @@
                         <unitdate>1959 Nov.-1963 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref63" level="otherlevel">
+                <c id="ref63" level="file">
                     <did>
                         <unittitle>Minutes</unittitle>
                         <container id="cid490079" type="Box" label="Mixed Materials">6</container>
@@ -492,7 +497,7 @@
                         <unitdate>1963 Nov.-1967 May</unitdate>
                     </did>
                 </c>
-                <c id="ref64" level="otherlevel">
+                <c id="ref64" level="file">
                     <did>
                         <unittitle>Minutes</unittitle>
                         <container id="cid490078" type="Box" label="Mixed Materials">6</container>
@@ -500,7 +505,7 @@
                         <unitdate>1967 Dec.-1970 Apr.</unitdate>
                     </did>
                 </c>
-                <c id="ref65" level="otherlevel">
+                <c id="ref65" level="file">
                     <did>
                         <unittitle>Minutes</unittitle>
                         <container id="cid490077" type="Box" label="Mixed Materials">6</container>
@@ -508,7 +513,7 @@
                         <unitdate>1970 Apr.-1974 Jan.</unitdate>
                     </did>
                 </c>
-                <c id="ref66" level="otherlevel">
+                <c id="ref66" level="file">
                     <did>
                         <unittitle>Representative sample of Minutes binder</unittitle>
                         <container id="cid490076" type="Box" label="Mixed Materials">6</container>
@@ -520,12 +525,13 @@
             <c id="ref68" level="series">
                 <did>
                     <unittitle>Series VI. Members' Essays</unittitle>
+                    <unitdate>1887-2012</unitdate>
                 </did>
                 <scopecontent id="ref225">
                     <head>Scope and Contents note</head>
                     <p>This series contains members' essay files with corresponding dates. There is a chronological list of all papers at the beginning of the series. Most papers are 10-30 pages in length, most having been transcribed and typewritten and usually pertain to art, ancestral or historical topics. Some files contain clippings and other miscellaneous notes. If there are more than four papers in a file, the range of dates is given. Member's files are arranged alphabetically and are arranged as their names appear in their papers.</p>
                 </scopecontent>
-                <c id="ref69" level="otherlevel">
+                <c id="ref69" level="file">
                     <did>
                         <unittitle>Chronological list of papers</unittitle>
                         <container id="cid490075" type="Box" label="Mixed Materials">7</container>
@@ -533,7 +539,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref71" level="otherlevel">
+                <c id="ref71" level="file">
                     <did>
                         <unittitle>Mrs. Wolcott Erskine Andrews</unittitle>
                         <container id="cid490073" type="Box" label="Mixed Materials">7</container>
@@ -541,7 +547,7 @@
                         <unitdate>1975, 1977, 1980</unitdate>
                     </did>
                 </c>
-                <c id="ref72" level="otherlevel">
+                <c id="ref72" level="file">
                     <did>
                         <unittitle>Mrs. William Appleton Aiken</unittitle>
                         <container id="cid490072" type="Box" label="Mixed Materials">7</container>
@@ -549,7 +555,7 @@
                         <unitdate>1967</unitdate>
                     </did>
                 </c>
-                <c id="ref73" level="otherlevel">
+                <c id="ref73" level="file">
                     <did>
                         <unittitle>Mrs. Thompson Barker</unittitle>
                         <container id="cid490071" type="Box" label="Mixed Materials">7</container>
@@ -557,7 +563,7 @@
                         <unitdate>1959, 1964, 1968, 1971</unitdate>
                     </did>
                 </c>
-                <c id="ref74" level="otherlevel">
+                <c id="ref74" level="file">
                     <did>
                         <unittitle>Mrs. Philip Bartlett</unittitle>
                         <container id="cid490070" type="Box" label="Mixed Materials">7</container>
@@ -565,7 +571,7 @@
                         <unitdate>1961-1994</unitdate>
                     </did>
                 </c>
-                <c id="ref75" level="otherlevel">
+                <c id="ref75" level="file">
                     <did>
                         <unittitle>Mrs. Henry Bartol (Hester G.)</unittitle>
                         <container id="cid490069" type="Box" label="Mixed Materials">7</container>
@@ -573,7 +579,7 @@
                         <unitdate>1917-1956</unitdate>
                     </did>
                 </c>
-                <c id="ref76" level="otherlevel">
+                <c id="ref76" level="file">
                     <did>
                         <unittitle>Mrs. E. Farrar Bateson (Rosina O.)</unittitle>
                         <container id="cid490068" type="Box" label="Mixed Materials">7</container>
@@ -581,7 +587,7 @@
                         <unitdate>1954, 1959, 1969</unitdate>
                     </did>
                 </c>
-                <c id="ref77" level="otherlevel">
+                <c id="ref77" level="file">
                     <did>
                         <unittitle>Mrs. William Massena Benjamin</unittitle>
                         <container id="cid490067" type="Box" label="Mixed Materials">7</container>
@@ -589,7 +595,7 @@
                         <unitdate>1947, 1952, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref78" level="otherlevel">
+                <c id="ref78" level="file">
                     <did>
                         <unittitle>Mrs. Frank Berry</unittitle>
                         <container id="cid490066" type="Box" label="Mixed Materials">7</container>
@@ -597,7 +603,7 @@
                         <unitdate>1963, 1967, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref79" level="otherlevel">
+                <c id="ref79" level="file">
                     <did>
                         <unittitle>Mrs. Hans Bielenstein (Gabrielle Maupin)</unittitle>
                         <container id="cid490065" type="Box" label="Mixed Materials">7</container>
@@ -605,7 +611,7 @@
                         <unitdate>1983, 1985, 1988, 1995, 2001</unitdate>
                     </did>
                 </c>
-                <c id="ref80" level="otherlevel">
+                <c id="ref80" level="file">
                     <did>
                         <unittitle>Mrs. Christina F. Boardman</unittitle>
                         <container id="cid490064" type="Box" label="Mixed Materials">8</container>
@@ -618,7 +624,7 @@
                         <unittitle>Mrs. Martin Bregman (Cornelia Sharpe)</unittitle>
                         <container id="cid612001" type="Box" label="Mixed materials">8</container>
                         <container parent="cid612001" type="Folder">2</container>
-                        <unitdate normal="1998/1998">1998</unitdate>
+                        <unitdate>1998</unitdate>
                     </did>
                 </c>
                 <c id="ref238" level="file">
@@ -637,7 +643,7 @@
                         <unitdate>2005-2006</unitdate>
                     </did>
                 </c>
-                <c id="ref81" level="otherlevel">
+                <c id="ref81" level="file">
                     <did>
                         <unittitle>Mrs. Julian Buckley</unittitle>
                         <container id="cid490063" type="Box" label="Mixed Materials">8</container>
@@ -645,7 +651,7 @@
                         <unitdate>1964, 1986</unitdate>
                     </did>
                 </c>
-                <c id="ref82" level="otherlevel">
+                <c id="ref82" level="file">
                     <did>
                         <unittitle>Mrs. H. Schuyler Cammann (Katherine)</unittitle>
                         <container id="cid490062" type="Box" label="Mixed Materials">8</container>
@@ -653,7 +659,7 @@
                         <unitdate>1928, 1930, 1965, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref83" level="otherlevel">
+                <c id="ref83" level="file">
                     <did>
                         <unittitle>Mrs. George Canfield</unittitle>
                         <container id="cid490061" type="Box" label="Mixed Materials">8</container>
@@ -666,10 +672,10 @@
                         <unittitle>Angela Cason</unittitle>
                         <container id="cid612003" type="Box" label="Mixed materials">8</container>
                         <container parent="cid612003" type="Folder">8</container>
-                        <unitdate normal="2011/2011">2011</unitdate>
+                        <unitdate>2011</unitdate>
                     </did>
                 </c>
-                <c id="ref84" level="otherlevel">
+                <c id="ref84" level="file">
                     <did>
                         <unittitle>Miss Barbara Cheney</unittitle>
                         <container id="cid490060" type="Box" label="Mixed Materials">8</container>
@@ -677,7 +683,7 @@
                         <unitdate>1932-1970</unitdate>
                     </did>
                 </c>
-                <c id="ref85" level="otherlevel">
+                <c id="ref85" level="file">
                     <did>
                         <unittitle>Mrs. George Cheney</unittitle>
                         <container id="cid490059" type="Box" label="Mixed Materials">8</container>
@@ -685,7 +691,7 @@
                         <unitdate>1927, 1938</unitdate>
                     </did>
                 </c>
-                <c id="ref86" level="otherlevel">
+                <c id="ref86" level="file">
                     <did>
                         <unittitle>Mrs. B. Clarkson</unittitle>
                         <container id="cid490058" type="Box" label="Mixed Materials">8</container>
@@ -693,7 +699,7 @@
                         <unitdate>1934</unitdate>
                     </did>
                 </c>
-                <c id="ref87" level="otherlevel">
+                <c id="ref87" level="file">
                     <did>
                         <unittitle>Gloria J. Conn</unittitle>
                         <container id="cid490057" type="Box" label="Mixed Materials">8</container>
@@ -701,7 +707,7 @@
                         <unitdate>1993</unitdate>
                     </did>
                 </c>
-                <c id="ref88" level="otherlevel">
+                <c id="ref88" level="file">
                     <did>
                         <unittitle>Mrs. Thomas Riggs Cox (Marian Buckley)</unittitle>
                         <container id="cid490056" type="Box" label="Mixed Materials">8</container>
@@ -709,7 +715,7 @@
                         <unitdate>1963, 1965, 1968, 1971</unitdate>
                     </did>
                 </c>
-                <c id="ref89" level="otherlevel">
+                <c id="ref89" level="file">
                     <did>
                         <unittitle>Mrs. George Crocker (Elizabeth)</unittitle>
                         <container id="cid490055" type="Box" label="Mixed Materials">8</container>
@@ -717,7 +723,7 @@
                         <unitdate>1935</unitdate>
                     </did>
                 </c>
-                <c id="ref90" level="otherlevel">
+                <c id="ref90" level="file">
                     <did>
                         <unittitle>Miss Constance Curtis</unittitle>
                         <container id="cid490054" type="Box" label="Mixed Materials">8</container>
@@ -725,7 +731,7 @@
                         <unitdate>1939</unitdate>
                     </did>
                 </c>
-                <c id="ref91" level="otherlevel">
+                <c id="ref91" level="file">
                     <did>
                         <unittitle>Mrs. Edward Curtis (Augusta L.)</unittitle>
                         <container id="cid490053" type="Box" label="Mixed Materials">9</container>
@@ -733,7 +739,7 @@
                         <unitdate>1907, 1912, 1926</unitdate>
                     </did>
                 </c>
-                <c id="ref92" level="otherlevel">
+                <c id="ref92" level="file">
                     <did>
                         <unittitle>Miss Olga Dahlgren</unittitle>
                         <container id="cid490052" type="Box" label="Mixed Materials">9</container>
@@ -741,7 +747,7 @@
                         <unitdate>1947-1964</unitdate>
                     </did>
                 </c>
-                <c id="ref93" level="otherlevel">
+                <c id="ref93" level="file">
                     <did>
                         <unittitle>Pamela Tiffin Danon</unittitle>
                         <container id="cid490051" type="Box" label="Mixed Materials">9</container>
@@ -749,7 +755,7 @@
                         <unitdate>1991</unitdate>
                     </did>
                 </c>
-                <c id="ref94" level="otherlevel">
+                <c id="ref94" level="file">
                     <did>
                         <unittitle>Mrs. Henry W de Forest</unittitle>
                         <container id="cid490050" type="Box" label="Mixed Materials">9</container>
@@ -757,7 +763,7 @@
                         <unitdate>1947</unitdate>
                     </did>
                 </c>
-                <c id="ref95" level="otherlevel">
+                <c id="ref95" level="file">
                     <did>
                         <unittitle>Mrs. Joseph L. Delafield (Mary R.)</unittitle>
                         <container id="cid490049" type="Box" label="Mixed Materials">9</container>
@@ -765,7 +771,7 @@
                         <unitdate>1948, 1953</unitdate>
                     </did>
                 </c>
-                <c id="ref96" level="otherlevel">
+                <c id="ref96" level="file">
                     <did>
                         <unittitle>G.M. Dexter</unittitle>
                         <container id="cid490048" type="Box" label="Mixed Materials">9</container>
@@ -773,7 +779,7 @@
                         <unitdate>1921</unitdate>
                     </did>
                 </c>
-                <c id="ref97" level="otherlevel">
+                <c id="ref97" level="file">
                     <did>
                         <unittitle>Miss Alys M. Downing</unittitle>
                         <container id="cid490047" type="Box" label="Mixed Materials">9</container>
@@ -781,7 +787,7 @@
                         <unitdate>1945-1967</unitdate>
                     </did>
                 </c>
-                <c id="ref98" level="otherlevel">
+                <c id="ref98" level="file">
                     <did>
                         <unittitle>Mrs. Augustus Downing</unittitle>
                         <container id="cid490046" type="Box" label="Mixed Materials">9</container>
@@ -789,7 +795,7 @@
                         <unitdate>1937-1962</unitdate>
                     </did>
                 </c>
-                <c id="ref99" level="otherlevel">
+                <c id="ref99" level="file">
                     <did>
                         <unittitle>Mrs. Joseph Drexel (Lucy Wharton)</unittitle>
                         <container id="cid490045" type="Box" label="Mixed Materials">9</container>
@@ -797,7 +803,7 @@
                         <unitdate>1887</unitdate>
                     </did>
                 </c>
-                <c id="ref100" level="otherlevel">
+                <c id="ref100" level="file">
                     <did>
                         <unittitle>Mrs. Alfred Edey</unittitle>
                         <container id="cid490044" type="Box" label="Mixed Materials">9</container>
@@ -805,7 +811,7 @@
                         <unitdate>1935, 1944</unitdate>
                     </did>
                 </c>
-                <c id="ref101" level="otherlevel">
+                <c id="ref101" level="file">
                     <did>
                         <unittitle>Mrs. W. Page Ely</unittitle>
                         <container id="cid490043" type="Box" label="Mixed Materials">9</container>
@@ -813,7 +819,7 @@
                         <unitdate>1928-1948</unitdate>
                     </did>
                 </c>
-                <c id="ref102" level="otherlevel">
+                <c id="ref102" level="file">
                     <did>
                         <unittitle>Miss Justine Bayard Erving</unittitle>
                         <container id="cid490042" type="Box" label="Mixed Materials">10</container>
@@ -821,7 +827,7 @@
                         <unitdate>1918-1952</unitdate>
                     </did>
                 </c>
-                <c id="ref103" level="otherlevel">
+                <c id="ref103" level="file">
                     <did>
                         <unittitle>Mrs. Guy Ewall</unittitle>
                         <container id="cid490041" type="Box" label="Mixed Materials">10</container>
@@ -834,10 +840,10 @@
                         <unittitle>Mrs. Firth Haring Fabend</unittitle>
                         <container id="cid611002" type="Box" label="Mixed materials">10</container>
                         <container parent="cid611002" type="Folder">3</container>
-                        <unitdate normal="2001/2001">2001</unitdate>
+                        <unitdate>2001</unitdate>
                     </did>
                 </c>
-                <c id="ref104" level="otherlevel">
+                <c id="ref104" level="file">
                     <did>
                         <unittitle>Mrs. B. Tappan Fairchild (Julia Freeman)</unittitle>
                         <container id="cid490040" type="Box" label="Mixed Materials">10</container>
@@ -845,7 +851,7 @@
                         <unitdate>1955-1977</unitdate>
                     </did>
                 </c>
-                <c id="ref105" level="otherlevel">
+                <c id="ref105" level="file">
                     <did>
                         <unittitle>Eleanor V.R. Fairfax</unittitle>
                         <container id="cid490039" type="Box" label="Mixed Materials">10</container>
@@ -853,7 +859,7 @@
                         <unitdate>1910</unitdate>
                     </did>
                 </c>
-                <c id="ref106" level="otherlevel">
+                <c id="ref106" level="file">
                     <did>
                         <unittitle>Mrs. Peter Farnum (Louise Kobbe)</unittitle>
                         <container id="cid490038" type="Box" label="Mixed Materials">10</container>
@@ -861,7 +867,7 @@
                         <unitdate>1941, 1945, 1949, 1951</unitdate>
                     </did>
                 </c>
-                <c id="ref107" level="otherlevel">
+                <c id="ref107" level="file">
                     <did>
                         <unittitle>Mrs. Ernest Flagg</unittitle>
                         <container id="cid490037" type="Box" label="Mixed Materials">10</container>
@@ -869,7 +875,7 @@
                         <unitdate>1938-1969</unitdate>
                     </did>
                 </c>
-                <c id="ref108" level="otherlevel">
+                <c id="ref108" level="file">
                     <did>
                         <unittitle>Wynne Byard Fooshee</unittitle>
                         <container id="cid490036" type="Box" label="Mixed Materials">10</container>
@@ -877,7 +883,7 @@
                         <unitdate>1987, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref109" level="otherlevel">
+                <c id="ref109" level="file">
                     <did>
                         <unittitle>Mrs. William Forsyth (Agnes M.)</unittitle>
                         <container id="cid490035" type="Box" label="Mixed Materials">10</container>
@@ -885,7 +891,7 @@
                         <unitdate>1984, 1989, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref110" level="otherlevel">
+                <c id="ref110" level="file">
                     <did>
                         <unittitle>Mrs. Guernsey Frey (Josephine W.)</unittitle>
                         <container id="cid490034" type="Box" label="Mixed Materials">10</container>
@@ -893,7 +899,7 @@
                         <unitdate>1958, 1961</unitdate>
                     </did>
                 </c>
-                <c id="ref111" level="otherlevel">
+                <c id="ref111" level="file">
                     <did>
                         <unittitle>Mrs. John A. Gade</unittitle>
                         <container id="cid490033" type="Box" label="Mixed Materials">10</container>
@@ -901,7 +907,7 @@
                         <unitdate>1955</unitdate>
                     </did>
                 </c>
-                <c id="ref112" level="otherlevel">
+                <c id="ref112" level="file">
                     <did>
                         <unittitle>Mrs. William Montague Geer, Jr. (Edith)</unittitle>
                         <container id="cid490032" type="Box" label="Mixed Materials">10</container>
@@ -909,7 +915,7 @@
                         <unitdate>1927</unitdate>
                     </did>
                 </c>
-                <c id="ref113" level="otherlevel">
+                <c id="ref113" level="file">
                     <did>
                         <unittitle>Mrs. J. Roosevelt Geer (Dorothy)</unittitle>
                         <container id="cid490031" type="Box" label="Mixed Materials">10</container>
@@ -917,7 +923,7 @@
                         <unitdate>1941-1961</unitdate>
                     </did>
                 </c>
-                <c id="ref114" level="otherlevel">
+                <c id="ref114" level="file">
                     <did>
                         <unittitle>Mrs. Langdon Geer</unittitle>
                         <container id="cid490030" type="Box" label="Mixed Materials">11</container>
@@ -925,7 +931,7 @@
                         <unitdate>1937, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref115" level="otherlevel">
+                <c id="ref115" level="file">
                     <did>
                         <unittitle>Miss Edna Grant</unittitle>
                         <container id="cid490029" type="Box" label="Mixed Materials">11</container>
@@ -933,7 +939,7 @@
                         <unitdate>1966</unitdate>
                     </did>
                 </c>
-                <c id="ref116" level="otherlevel">
+                <c id="ref116" level="file">
                     <did>
                         <unittitle>Miss Julia M. Grant</unittitle>
                         <container id="cid490028" type="Box" label="Mixed Materials">11</container>
@@ -941,7 +947,7 @@
                         <unitdate>1949-1961</unitdate>
                     </did>
                 </c>
-                <c id="ref117" level="otherlevel">
+                <c id="ref117" level="file">
                     <did>
                         <unittitle>Martha Hughes Griffis</unittitle>
                         <container id="cid490027" type="Box" label="Mixed Materials">11</container>
@@ -949,7 +955,7 @@
                         <unitdate>1978</unitdate>
                     </did>
                 </c>
-                <c id="ref118" level="otherlevel">
+                <c id="ref118" level="file">
                     <did>
                         <unittitle>Miss Frances Grimes</unittitle>
                         <container id="cid490026" type="Box" label="Mixed Materials">11</container>
@@ -957,7 +963,7 @@
                         <unitdate>1946, 1950, 1954</unitdate>
                     </did>
                 </c>
-                <c id="ref119" level="otherlevel">
+                <c id="ref119" level="file">
                     <did>
                         <unittitle>Mrs. Augustus Hand</unittitle>
                         <container id="cid490025" type="Box" label="Mixed Materials">11</container>
@@ -965,7 +971,7 @@
                         <unitdate>1931-1956</unitdate>
                     </did>
                 </c>
-                <c id="ref120" level="otherlevel">
+                <c id="ref120" level="file">
                     <did>
                         <unittitle>Mrs. Sinclair Hatch (Laura Lea)</unittitle>
                         <container id="cid490024" type="Box" label="Mixed Materials">11</container>
@@ -973,7 +979,7 @@
                         <unitdate>1961, 1964, 1970, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref121" level="otherlevel">
+                <c id="ref121" level="file">
                     <did>
                         <unittitle>Mrs. Harter</unittitle>
                         <container id="cid490023" type="Box" label="Mixed Materials">11</container>
@@ -981,7 +987,7 @@
                         <unitdate>1935</unitdate>
                     </did>
                 </c>
-                <c id="ref122" level="otherlevel">
+                <c id="ref122" level="file">
                     <did>
                         <unittitle>Mrs. Geoffrey Hellman (Katherine)</unittitle>
                         <container id="cid490022" type="Box" label="Mixed Materials">11</container>
@@ -989,7 +995,7 @@
                         <unitdate>1971-1979</unitdate>
                     </did>
                 </c>
-                <c id="ref123" level="otherlevel">
+                <c id="ref123" level="file">
                     <did>
                         <unittitle>Mrs. Seton Henry (Josephine W. Drexel)</unittitle>
                         <container id="cid490021" type="Box" label="Mixed Materials">11</container>
@@ -997,7 +1003,7 @@
                         <unitdate>1942-1958</unitdate>
                     </did>
                 </c>
-                <c id="ref124" level="otherlevel">
+                <c id="ref124" level="file">
                     <did>
                         <unittitle>Mrs. G.P. Herrick</unittitle>
                         <container id="cid490020" type="Box" label="Mixed Materials">11</container>
@@ -1005,7 +1011,7 @@
                         <unitdate>1941</unitdate>
                     </did>
                 </c>
-                <c id="ref125" level="otherlevel">
+                <c id="ref125" level="file">
                     <did>
                         <unittitle>Mrs. C. Lambery Heyniger</unittitle>
                         <container id="cid490019" type="Box" label="Mixed Materials">12</container>
@@ -1013,7 +1019,7 @@
                         <unitdate>1928, 1935, 1939, 1942</unitdate>
                     </did>
                 </c>
-                <c id="ref126" level="otherlevel">
+                <c id="ref126" level="file">
                     <did>
                         <unittitle>Mrs. Arthur B. Hoff</unittitle>
                         <container id="cid490018" type="Box" label="Mixed Materials">12</container>
@@ -1021,7 +1027,7 @@
                         <unitdate>1974, 1977, 1980</unitdate>
                     </did>
                 </c>
-                <c id="ref127" level="otherlevel">
+                <c id="ref127" level="file">
                     <did>
                         <unittitle>Mrs. Hoge</unittitle>
                         <container id="cid490017" type="Box" label="Mixed Materials">12</container>
@@ -1029,7 +1035,7 @@
                         <unitdate>1977</unitdate>
                     </did>
                 </c>
-                <c id="ref128" level="otherlevel">
+                <c id="ref128" level="file">
                     <did>
                         <unittitle>S.C.W. Hoppin</unittitle>
                         <container id="cid490016" type="Box" label="Mixed Materials">12</container>
@@ -1037,7 +1043,7 @@
                         <unitdate>1927</unitdate>
                     </did>
                 </c>
-                <c id="ref129" level="otherlevel">
+                <c id="ref129" level="file">
                     <did>
                         <unittitle>Sarah Lord Howells</unittitle>
                         <container id="cid490015" type="Box" label="Mixed Materials">12</container>
@@ -1045,7 +1051,7 @@
                         <unitdate>1893</unitdate>
                     </did>
                 </c>
-                <c id="ref130" level="otherlevel">
+                <c id="ref130" level="file">
                     <did>
                         <unittitle>Mrs. Theodore Humphrey</unittitle>
                         <container id="cid490014" type="Box" label="Mixed Materials">12</container>
@@ -1053,7 +1059,7 @@
                         <unitdate>1936, 1940, 1953</unitdate>
                     </did>
                 </c>
-                <c id="ref131" level="otherlevel">
+                <c id="ref131" level="file">
                     <did>
                         <unittitle>Miss Catherine Huntington</unittitle>
                         <container id="cid490013" type="Box" label="Mixed Materials">12</container>
@@ -1061,7 +1067,7 @@
                         <unitdate>1962</unitdate>
                     </did>
                 </c>
-                <c id="ref132" level="otherlevel">
+                <c id="ref132" level="file">
                     <did>
                         <unittitle>Mrs. Frances Huntington (Susan L.)</unittitle>
                         <container id="cid490012" type="Box" label="Mixed Materials">12</container>
@@ -1069,7 +1075,7 @@
                         <unitdate>1933, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref133" level="otherlevel">
+                <c id="ref133" level="file">
                     <did>
                         <unittitle>Mrs. Robert S. Hutchins (Evelyn)</unittitle>
                         <container id="cid490011" type="Box" label="Mixed Materials">12</container>
@@ -1077,7 +1083,7 @@
                         <unitdate>1968-1984</unitdate>
                     </did>
                 </c>
-                <c id="ref134" level="otherlevel">
+                <c id="ref134" level="file">
                     <did>
                         <unittitle>Mrs. M. Hutchinson (Martha)</unittitle>
                         <container id="cid490010" type="Box" label="Mixed Materials">12</container>
@@ -1085,7 +1091,7 @@
                         <unitdate>1935</unitdate>
                     </did>
                 </c>
-                <c id="ref135" level="otherlevel">
+                <c id="ref135" level="file">
                     <did>
                         <unittitle>Mrs. John H. Janeway</unittitle>
                         <container id="cid490009" type="Box" label="Mixed Materials">12</container>
@@ -1093,7 +1099,7 @@
                         <unitdate>1910-1931</unitdate>
                     </did>
                 </c>
-                <c id="ref136" level="otherlevel">
+                <c id="ref136" level="file">
                     <did>
                         <unittitle>Mrs. Edwin Jarrett</unittitle>
                         <container id="cid490008" type="Box" label="Mixed Materials">12</container>
@@ -1106,10 +1112,10 @@
                         <unittitle>Elbrun Kimmelman</unittitle>
                         <container id="cid611004" type="Box" label="Mixed materials">12</container>
                         <container parent="cid611004" type="Folder">13</container>
-                        <unitdate normal="2000/2000">2000</unitdate>
+                        <unitdate>2000</unitdate>
                     </did>
                 </c>
-                <c id="ref137" level="otherlevel">
+                <c id="ref137" level="file">
                     <did>
                         <unittitle>Mrs. Augustus King</unittitle>
                         <container id="cid490007" type="Box" label="Mixed Materials">12</container>
@@ -1117,7 +1123,7 @@
                         <unitdate>1939, 1945, 1949</unitdate>
                     </did>
                 </c>
-                <c id="ref138" level="otherlevel">
+                <c id="ref138" level="file">
                     <did>
                         <unittitle>Mrs. Adrian Lambert</unittitle>
                         <container id="cid490006" type="Box" label="Mixed Materials">12</container>
@@ -1125,7 +1131,7 @@
                         <unitdate>1945</unitdate>
                     </did>
                 </c>
-                <c id="ref139" level="otherlevel">
+                <c id="ref139" level="file">
                     <did>
                         <unittitle>Mrs. Elliott Hugh Lee</unittitle>
                         <container id="cid490005" type="Box" label="Mixed Materials">12</container>
@@ -1133,7 +1139,7 @@
                         <unitdate>1959, 1964, 1968</unitdate>
                     </did>
                 </c>
-                <c id="ref140" level="otherlevel">
+                <c id="ref140" level="file">
                     <did>
                         <unittitle>Mrs. Barent Lefferts (Isabella M.)</unittitle>
                         <container id="cid490004" type="Box" label="Mixed Materials">13</container>
@@ -1141,7 +1147,7 @@
                         <unitdate>1935-1955</unitdate>
                     </did>
                 </c>
-                <c id="ref141" level="otherlevel">
+                <c id="ref141" level="file">
                     <did>
                         <unittitle>Mrs. Gillett Lefferts</unittitle>
                         <container id="cid490003" type="Box" label="Mixed Materials">13</container>
@@ -1149,7 +1155,7 @@
                         <unitdate>1937</unitdate>
                     </did>
                 </c>
-                <c id="ref142" level="otherlevel">
+                <c id="ref142" level="file">
                     <did>
                         <unittitle>Mrs. Howard Lipson</unittitle>
                         <container id="cid490002" type="Box" label="Mixed Materials">13</container>
@@ -1157,7 +1163,7 @@
                         <unitdate>1970, 1973</unitdate>
                     </did>
                 </c>
-                <c id="ref143" level="otherlevel">
+                <c id="ref143" level="file">
                     <did>
                         <unittitle>Miss Alice Lounsberry</unittitle>
                         <container id="cid490001" type="Box" label="Mixed Materials">13</container>
@@ -1165,7 +1171,7 @@
                         <unitdate>1939</unitdate>
                     </did>
                 </c>
-                <c id="ref144" level="otherlevel">
+                <c id="ref144" level="file">
                     <did>
                         <unittitle>Mrs. John T. McClintock (Mary M.)</unittitle>
                         <container id="cid490000" type="Box" label="Mixed Materials">13</container>
@@ -1173,7 +1179,7 @@
                         <unitdate>1972-1989</unitdate>
                     </did>
                 </c>
-                <c id="ref145" level="otherlevel">
+                <c id="ref145" level="file">
                     <did>
                         <unittitle>Mrs. Dennis Daughtry McCrary (Eugenia)</unittitle>
                         <container id="cid489999" type="Box" label="Mixed Materials">13</container>
@@ -1181,7 +1187,7 @@
                         <unitdate>1986, 1988, 1994</unitdate>
                     </did>
                 </c>
-                <c id="ref146" level="otherlevel">
+                <c id="ref146" level="file">
                     <did>
                         <unittitle>Renee McKay</unittitle>
                         <container id="cid489998" type="Box" label="Mixed Materials">13</container>
@@ -1189,7 +1195,7 @@
                         <unitdate>1993</unitdate>
                     </did>
                 </c>
-                <c id="ref147" level="otherlevel">
+                <c id="ref147" level="file">
                     <did>
                         <unittitle>Mrs. Alan D. McLean</unittitle>
                         <container id="cid489997" type="Box" label="Mixed Materials">13</container>
@@ -1197,7 +1203,7 @@
                         <unitdate>1937</unitdate>
                     </did>
                 </c>
-                <c id="ref148" level="otherlevel">
+                <c id="ref148" level="file">
                     <did>
                         <unittitle>Mrs. Malone</unittitle>
                         <container id="cid489996" type="Box" label="Mixed Materials">13</container>
@@ -1210,10 +1216,10 @@
                         <unittitle>Lynn S. Manger</unittitle>
                         <container id="cid613005" type="Box" label="Mixed materials">13</container>
                         <container parent="cid613005" type="Folder">10</container>
-                        <unitdate normal="2009/2009">2009</unitdate>
+                        <unitdate>2009</unitdate>
                     </did>
                 </c>
-                <c id="ref149" level="otherlevel">
+                <c id="ref149" level="file">
                     <did>
                         <unittitle>Julia O. Marrow</unittitle>
                         <container id="cid489995" type="Box" label="Mixed Materials">13</container>
@@ -1221,7 +1227,7 @@
                         <unitdate>1975</unitdate>
                     </did>
                 </c>
-                <c id="ref150" level="otherlevel">
+                <c id="ref150" level="file">
                     <did>
                         <unittitle>Charlotte Delafield Marsh</unittitle>
                         <container id="cid489994" type="Box" label="Mixed Materials">13</container>
@@ -1229,7 +1235,7 @@
                         <unitdate>1927</unitdate>
                     </did>
                 </c>
-                <c id="ref151" level="otherlevel">
+                <c id="ref151" level="file">
                     <did>
                         <unittitle>Mrs. Francis Robert Masters</unittitle>
                         <container id="cid489993" type="Box" label="Mixed Materials">13</container>
@@ -1237,7 +1243,7 @@
                         <unitdate>1940, 1948, 1959</unitdate>
                     </did>
                 </c>
-                <c id="ref152" level="otherlevel">
+                <c id="ref152" level="file">
                     <did>
                         <unittitle>Mrs. Richard Meade (Helena Rutherford Ely)</unittitle>
                         <container id="cid489992" type="Box" label="Mixed Materials">13</container>
@@ -1245,7 +1251,7 @@
                         <unitdate>1908-1965</unitdate>
                     </did>
                 </c>
-                <c id="ref153" level="otherlevel">
+                <c id="ref153" level="file">
                     <did>
                         <unittitle>Mrs. John Melcher (Helen)</unittitle>
                         <container id="cid489991" type="Box" label="Mixed Materials">13</container>
@@ -1253,7 +1259,7 @@
                         <unitdate>1938-1968</unitdate>
                     </did>
                 </c>
-                <c id="ref154" level="otherlevel">
+                <c id="ref154" level="file">
                     <did>
                         <unittitle>Mrs. John Williams Morgan</unittitle>
                         <container id="cid489990" type="Box" label="Mixed Materials">14</container>
@@ -1261,7 +1267,7 @@
                         <unitdate>1955, 1958, 1962</unitdate>
                     </did>
                 </c>
-                <c id="ref155" level="otherlevel">
+                <c id="ref155" level="file">
                     <did>
                         <unittitle>Mrs. S.C. Munroe</unittitle>
                         <container id="cid489989" type="Box" label="Mixed Materials">14</container>
@@ -1269,7 +1275,7 @@
                         <unitdate>1942</unitdate>
                     </did>
                 </c>
-                <c id="ref156" level="otherlevel">
+                <c id="ref156" level="file">
                     <did>
                         <unittitle>Mrs. Joseph Lawrence Myers (Henrietta)</unittitle>
                         <container id="cid489988" type="Box" label="Mixed Materials">14</container>
@@ -1282,10 +1288,10 @@
                         <unittitle>Susan Nagel</unittitle>
                         <container id="cid611003" type="Box" label="Mixed materials">14</container>
                         <container parent="cid611003" type="Folder">4</container>
-                        <unitdate normal="1999/2012" type="inclusive">1999-2012</unitdate>
+                        <unitdate>1999-2012</unitdate>
                     </did>
                 </c>
-                <c id="ref157" level="otherlevel">
+                <c id="ref157" level="file">
                     <did>
                         <unittitle>Acosta Nichols</unittitle>
                         <container id="cid489987" type="Box" label="Mixed Materials">14</container>
@@ -1301,7 +1307,7 @@
                         <unitdate>1956, 1959, 1963, 1964</unitdate>
                     </did>
                 </c>
-                <c id="ref159" level="otherlevel">
+                <c id="ref159" level="file">
                     <did>
                         <unittitle>Mrs. Leonard E. Opdycke</unittitle>
                         <container id="cid489985" type="Box" label="Mixed Materials">14</container>
@@ -1309,7 +1315,7 @@
                         <unitdate>1911</unitdate>
                     </did>
                 </c>
-                <c id="ref160" level="otherlevel">
+                <c id="ref160" level="file">
                     <did>
                         <unittitle>Mrs. Ostrander</unittitle>
                         <container id="cid489984" type="Box" label="Mixed Materials">14</container>
@@ -1317,7 +1323,7 @@
                         <unitdate>1928</unitdate>
                     </did>
                 </c>
-                <c id="ref161" level="otherlevel">
+                <c id="ref161" level="file">
                     <did>
                         <unittitle>Mrs. Augustus G. Paine (Francisca Warren)</unittitle>
                         <container id="cid489983" type="Box" label="Mixed Materials">14</container>
@@ -1325,7 +1331,7 @@
                         <unitdate>1939, 1961</unitdate>
                     </did>
                 </c>
-                <c id="ref162" level="otherlevel">
+                <c id="ref162" level="file">
                     <did>
                         <unittitle>Mrs. Hugh E. Paine, Jr. (Julia)</unittitle>
                         <container id="cid489982" type="Box" label="Mixed Materials">14</container>
@@ -1333,7 +1339,7 @@
                         <unitdate>1970, 1973</unitdate>
                     </did>
                 </c>
-                <c id="ref163" level="otherlevel">
+                <c id="ref163" level="file">
                     <did>
                         <unittitle>Elinor Parker</unittitle>
                         <container id="cid489981" type="Box" label="Mixed Materials">14</container>
@@ -1341,7 +1347,7 @@
                         <unitdate>1983, 1986, 1988</unitdate>
                     </did>
                 </c>
-                <c id="ref164" level="otherlevel">
+                <c id="ref164" level="file">
                     <did>
                         <unittitle>Mrs. Williams Parsons (Louise B.)</unittitle>
                         <container id="cid489980" type="Box" label="Mixed Materials">14</container>
@@ -1349,7 +1355,7 @@
                         <unitdate>1976, 1978, 1986</unitdate>
                     </did>
                 </c>
-                <c id="ref165" level="otherlevel">
+                <c id="ref165" level="file">
                     <did>
                         <unittitle>Mrs. Henry S. Patterson</unittitle>
                         <container id="cid613004" type="Box" label="Mixed materials">14</container>
@@ -1357,7 +1363,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref166" level="otherlevel">
+                <c id="ref166" level="file">
                     <did>
                         <unittitle>Mrs. George R. Peabody</unittitle>
                         <container id="cid489978" type="Box" label="Mixed Materials">14</container>
@@ -1365,7 +1371,7 @@
                         <unitdate>1935</unitdate>
                     </did>
                 </c>
-                <c id="ref167" level="otherlevel">
+                <c id="ref167" level="file">
                     <did>
                         <unittitle>Mrs. John D. Peabody</unittitle>
                         <container id="cid489977" type="Box" label="Mixed Materials">14</container>
@@ -1373,7 +1379,7 @@
                         <unitdate>1945</unitdate>
                     </did>
                 </c>
-                <c id="ref168" level="otherlevel">
+                <c id="ref168" level="file">
                     <did>
                         <unittitle>Mrs. Robert Swain Peabody (Helen Lee)</unittitle>
                         <container id="cid489976" type="Box" label="Mixed Materials">14</container>
@@ -1397,7 +1403,7 @@
                         <unitdate>2011</unitdate>
                     </did>
                 </c>
-                <c id="ref169" level="otherlevel">
+                <c id="ref169" level="file">
                     <did>
                         <unittitle>Mrs. William Curtis Pierce (Elizabeth Gay)</unittitle>
                         <container id="cid489975" type="Box" label="Mixed Materials">14</container>
@@ -1405,7 +1411,7 @@
                         <unitdate>1965-1987</unitdate>
                     </did>
                 </c>
-                <c id="ref170" level="otherlevel">
+                <c id="ref170" level="file">
                     <did>
                         <unittitle>Miss Mary Cheney Platt</unittitle>
                         <container id="cid489974" type="Box" label="Mixed Materials">14</container>
@@ -1413,7 +1419,7 @@
                         <unitdate>1969, 1971, 1977, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref171" level="otherlevel">
+                <c id="ref171" level="file">
                     <did>
                         <unittitle>Mrs. George Poindexter</unittitle>
                         <container id="cid489973" type="Box" label="Mixed Materials">14</container>
@@ -1421,7 +1427,7 @@
                         <unitdate>1983</unitdate>
                     </did>
                 </c>
-                <c id="ref172" level="otherlevel">
+                <c id="ref172" level="file">
                     <did>
                         <unittitle>Mrs. Frank Porter</unittitle>
                         <container id="cid489972" type="Box" label="Mixed Materials">14</container>
@@ -1429,7 +1435,7 @@
                         <unitdate>1959, 1965</unitdate>
                     </did>
                 </c>
-                <c id="ref173" level="otherlevel">
+                <c id="ref173" level="file">
                     <did>
                         <unittitle>Mrs. John A. Pruyn (LaVerne)</unittitle>
                         <container id="cid489971" type="Box" label="Mixed Materials">15</container>
@@ -1437,7 +1443,7 @@
                         <unitdate>1972-1991</unitdate>
                     </did>
                 </c>
-                <c id="ref174" level="otherlevel">
+                <c id="ref174" level="file">
                     <did>
                         <unittitle>Mrs. Harold Pulsifer (Susan Nichols)</unittitle>
                         <container id="cid489970" type="Box" label="Mixed Materials">15</container>
@@ -1445,7 +1451,7 @@
                         <unitdate>1931, 1936, 1940, 1943</unitdate>
                     </did>
                 </c>
-                <c id="ref175" level="otherlevel">
+                <c id="ref175" level="file">
                     <did>
                         <unittitle>Mrs. Hopeton D. Atterbury Quaid</unittitle>
                         <container id="cid489969" type="Box" label="Mixed Materials">15</container>
@@ -1453,7 +1459,7 @@
                         <unitdate>1953, 1957</unitdate>
                     </did>
                 </c>
-                <c id="ref176" level="otherlevel">
+                <c id="ref176" level="file">
                     <did>
                         <unittitle>Mrs. Henry Rawle</unittitle>
                         <container id="cid489968" type="Box" label="Mixed Materials">15</container>
@@ -1461,7 +1467,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref177" level="otherlevel">
+                <c id="ref177" level="file">
                     <did>
                         <unittitle>Mrs. Charles A. Richards (Henrietta King)</unittitle>
                         <container id="cid489967" type="Box" label="Mixed Materials">15</container>
@@ -1469,7 +1475,7 @@
                         <unitdate>1927, 1940</unitdate>
                     </did>
                 </c>
-                <c id="ref178" level="otherlevel">
+                <c id="ref178" level="file">
                     <did>
                         <unittitle>Cordelia C. Richards</unittitle>
                         <container id="cid489966" type="Box" label="Mixed Materials">15</container>
@@ -1477,7 +1483,7 @@
                         <unitdate>1985</unitdate>
                     </did>
                 </c>
-                <c id="ref179" level="otherlevel">
+                <c id="ref179" level="file">
                     <did>
                         <unittitle>Mrs. Beverly R. Robinson</unittitle>
                         <container id="cid489965" type="Box" label="Mixed Materials">15</container>
@@ -1485,7 +1491,7 @@
                         <unitdate>1963, 1966</unitdate>
                     </did>
                 </c>
-                <c id="ref180" level="otherlevel">
+                <c id="ref180" level="file">
                     <did>
                         <unittitle>Mrs. Philip Ashton Rollins</unittitle>
                         <container id="cid489964" type="Box" label="Mixed Materials">15</container>
@@ -1493,7 +1499,7 @@
                         <unitdate>1932, 1937, 1941</unitdate>
                     </did>
                 </c>
-                <c id="ref181" level="otherlevel">
+                <c id="ref181" level="file">
                     <did>
                         <unittitle>Kate Shippen Roosevelt</unittitle>
                         <container id="cid489963" type="Box" label="Mixed Materials">15</container>
@@ -1501,7 +1507,7 @@
                         <unitdate>1920, 1922, 1924</unitdate>
                     </did>
                 </c>
-                <c id="ref182" level="otherlevel">
+                <c id="ref182" level="file">
                     <did>
                         <unittitle>Mrs. James Rorimer (Katherine)</unittitle>
                         <container id="cid489962" type="Box" label="Mixed Materials">15</container>
@@ -1517,7 +1523,7 @@
                         <unitdate>2011, 2012</unitdate>
                     </did>
                 </c>
-                <c id="ref183" level="otherlevel">
+                <c id="ref183" level="file">
                     <did>
                         <unittitle>Mrs. Frances J. Rue, Jr.</unittitle>
                         <container id="cid489961" type="Box" label="Mixed Materials">15</container>
@@ -1530,9 +1536,10 @@
                         <unittitle>Mrs. Ralph Saltus (Marilyn M.)</unittitle>
                         <container id="cid613002" type="Box" label="Mixed materials">15</container>
                         <container parent="cid613002" type="Folder">13</container>
+                        <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref184" level="otherlevel">
+                <c id="ref184" level="file">
                     <did>
                         <unittitle>Mrs. James C. Sargent (Rebecca P.J.)</unittitle>
                         <container id="cid489960" type="Box" label="Mixed Materials">15</container>
@@ -1540,7 +1547,7 @@
                         <unitdate>1974-1995</unitdate>
                     </did>
                 </c>
-                <c id="ref185" level="otherlevel">
+                <c id="ref185" level="file">
                     <did>
                         <unittitle>Mrs. Theodore Fiske Savage (May)</unittitle>
                         <container id="cid489959" type="Box" label="Mixed Materials">16</container>
@@ -1548,7 +1555,7 @@
                         <unitdate>1950-1972</unitdate>
                     </did>
                 </c>
-                <c id="ref186" level="otherlevel">
+                <c id="ref186" level="file">
                     <did>
                         <unittitle>Mrs. William L. Savage (Serena Hand)</unittitle>
                         <container id="cid489958" type="Box" label="Mixed Materials">16</container>
@@ -1556,7 +1563,7 @@
                         <unitdate>1932-1944</unitdate>
                     </did>
                 </c>
-                <c id="ref187" level="otherlevel">
+                <c id="ref187" level="file">
                     <did>
                         <unittitle>Mrs. Schuyler Schieffelin</unittitle>
                         <container id="cid489957" type="Box" label="Mixed Materials">16</container>
@@ -1564,7 +1571,7 @@
                         <unitdate>1934</unitdate>
                     </did>
                 </c>
-                <c id="ref188" level="otherlevel">
+                <c id="ref188" level="file">
                     <did>
                         <unittitle>Miss Alice Seward</unittitle>
                         <container id="cid489956" type="Box" label="Mixed Materials">16</container>
@@ -1572,7 +1579,7 @@
                         <unitdate>1911</unitdate>
                     </did>
                 </c>
-                <c id="ref189" level="otherlevel">
+                <c id="ref189" level="file">
                     <did>
                         <unittitle>Mrs. Sherman</unittitle>
                         <container id="cid489955" type="Box" label="Mixed Materials">16</container>
@@ -1580,7 +1587,7 @@
                         <unitdate>1939</unitdate>
                     </did>
                 </c>
-                <c id="ref190" level="otherlevel">
+                <c id="ref190" level="file">
                     <did>
                         <unittitle>Miss Shippen</unittitle>
                         <container id="cid489954" type="Box" label="Mixed Materials">16</container>
@@ -1588,7 +1595,7 @@
                         <unitdate>1945, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref191" level="otherlevel">
+                <c id="ref191" level="file">
                     <did>
                         <unittitle>Mrs. Minot Simons</unittitle>
                         <container id="cid489953" type="Box" label="Mixed Materials">16</container>
@@ -1596,7 +1603,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref192" level="otherlevel">
+                <c id="ref192" level="file">
                     <did>
                         <unittitle>Mrs. Slade</unittitle>
                         <container id="cid489952" type="Box" label="Mixed Materials">16</container>
@@ -1604,7 +1611,7 @@
                         <unitdate>1941, 1943, 1946</unitdate>
                     </did>
                 </c>
-                <c id="ref193" level="otherlevel">
+                <c id="ref193" level="file">
                     <did>
                         <unittitle>Mary (Polly) Coxe Smith</unittitle>
                         <container id="cid489951" type="Box" label="Mixed Materials">16</container>
@@ -1612,7 +1619,7 @@
                         <unitdate>1990, 2001, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref194" level="otherlevel">
+                <c id="ref194" level="file">
                     <did>
                         <unittitle>Mrs. Mason Smith (Mary A. E.)</unittitle>
                         <container id="cid489950" type="Box" label="Mixed Materials">16</container>
@@ -1620,7 +1627,7 @@
                         <unitdate>1949, 1951, 1955</unitdate>
                     </did>
                 </c>
-                <c id="ref195" level="otherlevel">
+                <c id="ref195" level="file">
                     <did>
                         <unittitle>Mrs. H. Southworth</unittitle>
                         <container id="cid489949" type="Box" label="Mixed Materials">16</container>
@@ -1628,7 +1635,7 @@
                         <unitdate>1966, 1981</unitdate>
                     </did>
                 </c>
-                <c id="ref196" level="otherlevel">
+                <c id="ref196" level="file">
                     <did>
                         <unittitle>Mrs. T. Guthrie Spears, Jr. (Susan Savage)</unittitle>
                         <container id="cid489948" type="Box" label="Mixed Materials">16</container>
@@ -1636,7 +1643,7 @@
                         <unitdate>1954-1978</unitdate>
                     </did>
                 </c>
-                <c id="ref197" level="otherlevel">
+                <c id="ref197" level="file">
                     <did>
                         <unittitle>Mrs. Henry A. Stickney (Helen Morgan Frick)</unittitle>
                         <container id="cid489947" type="Box" label="Mixed Materials">16</container>
@@ -1644,7 +1651,7 @@
                         <unitdate>1938, 1941, 1943, 1946</unitdate>
                     </did>
                 </c>
-                <c id="ref198" level="otherlevel">
+                <c id="ref198" level="file">
                     <did>
                         <unittitle>Mrs. Ernest Stillman (Mildred W.)</unittitle>
                         <container id="cid489946" type="Box" label="Mixed Materials">17</container>
@@ -1652,7 +1659,7 @@
                         <unitdate>1943, 1947</unitdate>
                     </did>
                 </c>
-                <c id="ref199" level="otherlevel">
+                <c id="ref199" level="file">
                     <did>
                         <unittitle>Eugenia Stillman</unittitle>
                         <container id="cid489945" type="Box" label="Mixed Materials">17</container>
@@ -1660,7 +1667,7 @@
                         <unitdate>1985</unitdate>
                     </did>
                 </c>
-                <c id="ref200" level="otherlevel">
+                <c id="ref200" level="file">
                     <did>
                         <unittitle>Mrs. Lloyd Paul Stryker</unittitle>
                         <container id="cid489944" type="Box" label="Mixed Materials">17</container>
@@ -1668,7 +1675,7 @@
                         <unitdate>1957, 1961</unitdate>
                     </did>
                 </c>
-                <c id="ref201" level="otherlevel">
+                <c id="ref201" level="file">
                     <did>
                         <unittitle>Mrs. Arthur Sutcliffe (Alice Crary)</unittitle>
                         <container id="cid489943" type="Box" label="Mixed Materials">17</container>
@@ -1676,7 +1683,7 @@
                         <unitdate>1927-1951</unitdate>
                     </did>
                 </c>
-                <c id="ref202" level="otherlevel">
+                <c id="ref202" level="file">
                     <did>
                         <unittitle>Mrs. Arthur Talbot</unittitle>
                         <container id="cid489942" type="Box" label="Mixed Materials">17</container>
@@ -1684,7 +1691,7 @@
                         <unitdate>1930, 1939</unitdate>
                     </did>
                 </c>
-                <c id="ref203" level="otherlevel">
+                <c id="ref203" level="file">
                     <did>
                         <unittitle>Mrs. J.H. Thomas</unittitle>
                         <container id="cid489941" type="Box" label="Mixed Materials">17</container>
@@ -1692,7 +1699,7 @@
                         <unitdate>1944, 1948, 1952</unitdate>
                     </did>
                 </c>
-                <c id="ref204" level="otherlevel">
+                <c id="ref204" level="file">
                     <did>
                         <unittitle>Mrs. Elliot Tuckerman</unittitle>
                         <container id="cid489940" type="Box" label="Mixed Materials">17</container>
@@ -1700,7 +1707,7 @@
                         <unitdate>1927</unitdate>
                     </did>
                 </c>
-                <c id="ref205" level="otherlevel">
+                <c id="ref205" level="file">
                     <did>
                         <unittitle>Miss E. L. Tuckerman</unittitle>
                         <container id="cid489939" type="Box" label="Mixed Materials">17</container>
@@ -1708,7 +1715,7 @@
                         <unitdate>1922</unitdate>
                     </did>
                 </c>
-                <c id="ref206" level="otherlevel">
+                <c id="ref206" level="file">
                     <did>
                         <unittitle>Miss Jane Tuckerman</unittitle>
                         <container id="cid489938" type="Box" label="Mixed Materials">17</container>
@@ -1716,7 +1723,7 @@
                         <unitdate>1903-1914</unitdate>
                     </did>
                 </c>
-                <c id="ref207" level="otherlevel">
+                <c id="ref207" level="file">
                     <did>
                         <unittitle>Mrs. Twiss</unittitle>
                         <container id="cid489937" type="Box" label="Mixed Materials">17</container>
@@ -1724,7 +1731,7 @@
                         <unitdate>1967, 1972, 1981</unitdate>
                     </did>
                 </c>
-                <c id="ref208" level="otherlevel">
+                <c id="ref208" level="file">
                     <did>
                         <unittitle>Mrs. Twyeffort</unittitle>
                         <container id="cid489936" type="Box" label="Mixed Materials">17</container>
@@ -1732,7 +1739,7 @@
                         <unitdate>1979, 1982, 1983</unitdate>
                     </did>
                 </c>
-                <c id="ref70" level="otherlevel">
+                <c id="ref70" level="file">
                     <did>
                         <unittitle>Unknown Authors</unittitle>
                         <container id="cid490074" type="Box" label="Mixed Materials">17</container>
@@ -1740,7 +1747,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref209" level="otherlevel">
+                <c id="ref209" level="file">
                     <did>
                         <unittitle>Gwendolen Van Antwerp</unittitle>
                         <container id="cid489935" type="Box" label="Mixed Materials">17</container>
@@ -1748,7 +1755,7 @@
                         <unitdate>1975</unitdate>
                     </did>
                 </c>
-                <c id="ref210" level="otherlevel">
+                <c id="ref210" level="file">
                     <did>
                         <unittitle>Mrs. John King Van Rensselaer</unittitle>
                         <container id="cid489934" type="Box" label="Mixed Materials">17</container>
@@ -1756,7 +1763,7 @@
                         <unitdate>undated</unitdate>
                     </did>
                 </c>
-                <c id="ref211" level="otherlevel">
+                <c id="ref211" level="file">
                     <did>
                         <unittitle>Miss Mary Wagstaff</unittitle>
                         <container id="cid489933" type="Box" label="Mixed Materials">17</container>
@@ -1764,7 +1771,7 @@
                         <unitdate>1930-1967</unitdate>
                     </did>
                 </c>
-                <c id="ref212" level="otherlevel">
+                <c id="ref212" level="file">
                     <did>
                         <unittitle>Mrs. Bradford Warner</unittitle>
                         <container id="cid489932" type="Box" label="Mixed Materials">17</container>
@@ -1772,7 +1779,7 @@
                         <unitdate>1989</unitdate>
                     </did>
                 </c>
-                <c id="ref213" level="otherlevel">
+                <c id="ref213" level="file">
                     <did>
                         <unittitle>Mrs. Wolcott Warner (Eloise)</unittitle>
                         <container id="cid489931" type="Box" label="Mixed Materials">17</container>
@@ -1780,7 +1787,7 @@
                         <unitdate>1995</unitdate>
                     </did>
                 </c>
-                <c id="ref214" level="otherlevel">
+                <c id="ref214" level="file">
                     <did>
                         <unittitle>Martha Rosalie Myer Webber</unittitle>
                         <container id="cid489930" type="Box" label="Mixed Materials">18</container>
@@ -1788,7 +1795,7 @@
                         <unitdate>1958-1976</unitdate>
                     </did>
                 </c>
-                <c id="ref215" level="otherlevel">
+                <c id="ref215" level="file">
                     <did>
                         <unittitle>Miss Alice Delano Weekes</unittitle>
                         <container id="cid489929" type="Box" label="Mixed Materials">18</container>
@@ -1796,7 +1803,7 @@
                         <unitdate>1926, 1929, 1933</unitdate>
                     </did>
                 </c>
-                <c id="ref216" level="otherlevel">
+                <c id="ref216" level="file">
                     <did>
                         <unittitle>Mrs. Wightman (Anne)</unittitle>
                         <container id="cid489928" type="Box" label="Mixed Materials">18</container>
@@ -1809,10 +1816,10 @@
                         <unittitle>Mary Jane Victor Wheelock</unittitle>
                         <container id="cid611005" type="Box" label="Mixed materials">18</container>
                         <container parent="cid611005" type="Folder">4</container>
-                        <unitdate normal="1999/1999">1999</unitdate>
+                        <unitdate>1999</unitdate>
                     </did>
                 </c>
-                <c id="ref217" level="otherlevel">
+                <c id="ref217" level="file">
                     <did>
                         <unittitle>Mrs. W. Hollingsworth Whyte (Jenny Bell)</unittitle>
                         <container id="cid489927" type="Box" label="Mixed Materials">18</container>
@@ -1820,7 +1827,7 @@
                         <unitdate>1974, 1978, 1987, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref218" level="otherlevel">
+                <c id="ref218" level="file">
                     <did>
                         <unittitle>Anne H. Willard</unittitle>
                         <container id="cid489926" type="Box" label="Mixed Materials">18</container>
@@ -1828,7 +1835,7 @@
                         <unitdate>1955</unitdate>
                     </did>
                 </c>
-                <c id="ref219" level="otherlevel">
+                <c id="ref219" level="file">
                     <did>
                         <unittitle>Mrs. I.T. Williams (Edna D.)</unittitle>
                         <container id="cid489925" type="Box" label="Mixed Materials">18</container>
@@ -1836,7 +1843,7 @@
                         <unitdate>1969,1970, 1975</unitdate>
                     </did>
                 </c>
-                <c id="ref220" level="otherlevel">
+                <c id="ref220" level="file">
                     <did>
                         <unittitle>Mrs. Roderick Williams (Dorothea C.)</unittitle>
                         <container id="cid611001" type="Box" label="Mixed materials">18</container>
@@ -1846,7 +1853,7 @@
                         <unitdate>1978-2003</unitdate>
                     </did>
                 </c>
-                <c id="ref221" level="otherlevel">
+                <c id="ref221" level="file">
                     <did>
                         <unittitle>Mrs. Charles Woodman</unittitle>
                         <container id="cid489923" type="Box" label="Mixed Materials">19</container>
@@ -1854,7 +1861,7 @@
                         <unitdate>1957, 1964, undated</unitdate>
                     </did>
                 </c>
-                <c id="ref222" level="otherlevel">
+                <c id="ref222" level="file">
                     <did>
                         <unittitle>Alice Bradford Woolsey</unittitle>
                         <container id="cid489922" type="Box" label="Mixed Materials">19</container>
@@ -1862,7 +1869,7 @@
                         <unitdate>1932</unitdate>
                     </did>
                 </c>
-                <c id="ref223" level="otherlevel">
+                <c id="ref223" level="file">
                     <did>
                         <unittitle>Mrs. Benjamin S. Young</unittitle>
                         <container id="cid489921" type="Box" label="Mixed Materials">19</container>
@@ -1870,7 +1877,7 @@
                         <unitdate>1940-1972</unitdate>
                     </did>
                 </c>
-                <c id="ref224" level="otherlevel">
+                <c id="ref224" level="file">
                     <did>
                         <unittitle>Mrs. Thomas S. Young (Caroline E.)</unittitle>
                         <container id="cid489920" type="Box" label="Mixed Materials">19</container>
@@ -1882,12 +1889,13 @@
             <c id="ref226" level="series">
                 <did>
                     <unittitle>Series VII. Invitations</unittitle>
+                    <unitdate>1930-1980</unitdate>
                 </did>
                 <scopecontent id="ref228">
                     <head>Scope and Contents note</head>
                     <p>This series consists of ten printed invitations to Causeries du Lundi meetings.</p>
                 </scopecontent>
-                <c id="ref227" level="otherlevel">
+                <c id="ref227" level="file">
                     <did>
                         <unittitle>Invitations</unittitle>
                         <container id="cid489919" type="Box" label="Mixed Materials">19</container>
