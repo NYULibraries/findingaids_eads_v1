@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/oversize/">oversize</eadid>
         <filedesc>
             <titlestmt>
@@ -22,7 +22,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2018-05-03T10:42-0400</date>
+                <date>2018-06-07T10:24-0400</date>
             </creation>
             <langusage>Finding Aid is written in English.
                 <lb/></langusage>
@@ -92,6 +92,10 @@
                     <extref ns2:href="http://bobcat.library.nyu.edu/primo_library/libweb/action/search.do?vid=NYHS">catalog</extref> </archref>.</p>
             <p>Some of the documents in Series I are also related by subject matter (and possibly provenance) to other archival material at the New-York Historical Society. Folders in Series I that contain material relating to other collections have "See Also" notes next to them in the folder list.</p>
         </relatedmaterial>
+        <accruals id="ref570">
+            <head>Accruals Note</head>
+            <p>Items continue to be added to this collection.</p>
+        </accruals>
         <controlaccess>
             <persname source="ingest">Andros, Edmund, Sir, 1637-1714</persname>
             <persname source="ingest">Audubon, John James, 1785-1851. Birds of America</persname>
@@ -3519,6 +3523,30 @@
                         <unitdate>1887-1929</unitdate>
                     </did>
                 </c>
+                <c id="ref566" level="file">
+                    <did>
+                        <unittitle>[Y-Falk, Myron, Papers (MS 3047)]</unittitle>
+                        <container id="cid4350005" type="Box-folder" label="Mixed materials">Small</container>
+                        <unitdate>1923-1944</unitdate>
+                    </did>
+                    <scopecontent id="ref568">
+                        <head>Scope and Contents Note</head>
+                        <p>Includes various oversize items from the Myron Falk papers. See the 
+                            <extref ns2:actuate="onRequest" ns2:href="http://dlib.nyu.edu/findingaids/html/nyhs/ms3047_myron_falk/">Falk finding aid</extref> for details.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref567" level="file">
+                    <did>
+                        <unittitle>[Y-Falk, Myron, Papers (MS 3047)]</unittitle>
+                        <container id="cid4350006" type="Box-folder" label="Mixed materials">Large</container>
+                        <unitdate>1913-1930</unitdate>
+                    </did>
+                    <scopecontent id="ref569">
+                        <head>Scope and Contents Note</head>
+                        <p>Includes various oversize items from the Myron Falk papers. See the 
+                            <extref ns2:actuate="onRequest" ns2:href="http://dlib.nyu.edu/findingaids/html/nyhs/ms3047_myron_falk/">Falk finding aid</extref> for details.</p>
+                    </scopecontent>
+                </c>
                 <c id="ref459" level="otherlevel">
                     <did>
                         <unittitle>[Y-Goldstone, Harmon Hendricks]</unittitle>
@@ -3798,6 +3826,42 @@
                         <container id="cid595045" type="Box-folder" label="Mixed materials">Medium</container>
                         <unitdate normal="1875/1881" type="inclusive">1875-1881</unitdate>
                     </did>
+                </c>
+                <c id="ref560" level="file">
+                    <did>
+                        <unittitle>[Y-Luce, Henry, Papers. (MS 3014)] 10 folders</unittitle>
+                        <container id="cid4350002" type="Box-folder" label="Mixed materials">Small</container>
+                        <unitdate>1939-1965</unitdate>
+                    </did>
+                    <scopecontent id="ref561">
+                        <head>Scope and Contents Note</head>
+                        <p>Includes various oversize items from the Henry R. Luce papers. See the 
+                            <extref ns2:actuate="onRequest" ns2:href="http://dlib.nyu.edu/findingaids/html/nyhs/ms3014_henry_luce/">Luce finding aid</extref> for details.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref562" level="file">
+                    <did>
+                        <unittitle>[Y-Luce, Henry, Papers. MS 3014] (2 folders)</unittitle>
+                        <container id="cid4350003" type="Box-folder" label="Mixed materials">Medium</container>
+                        <unitdate>1912-1913, 1941</unitdate>
+                    </did>
+                    <scopecontent id="ref564">
+                        <head>Scope and Contents Note</head>
+                        <p>Includes various oversize items from the Henry R. Luce papers. See the 
+                            <extref ns2:actuate="onRequest" ns2:href="http://dlib.nyu.edu/findingaids/html/nyhs/ms3014_henry_luce/">Luce finding aid</extref> for details.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref563" level="file">
+                    <did>
+                        <unittitle>[Y-Luce, Henry, Papers. MS 3014]</unittitle>
+                        <container id="cid4350004" type="Box-folder" label="Mixed materials">Large</container>
+                        <unitdate>circa 1933-1949</unitdate>
+                    </did>
+                    <scopecontent id="ref565">
+                        <head>Scope and Contents Note</head>
+                        <p>Includes various oversize items from the Henry R. Luce papers. See the 
+                            <extref ns2:actuate="onRequest" ns2:href="http://dlib.nyu.edu/findingaids/html/nyhs/ms3014_henry_luce/">Luce finding aid</extref> for details.</p>
+                    </scopecontent>
                 </c>
                 <c id="ref296" level="file">
                     <did>
