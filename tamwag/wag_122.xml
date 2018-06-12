@@ -1,94 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_122/">wag_122</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Norah Chase Papers on the City University of New York Professional Staff Congress
-                    <num>WAG.122</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>12/23/2009</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>Brief EAD</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-07-07T11:21-0400</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>Jul 2015</date>
-                <item>Edited by Heather Mulliner to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Norah Chase Papers on the City University of New York Professional Staff Congress</unittitle>
-            <unitid>WAG.122</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid18984001" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 folder)</extent>
-            </physdesc>
-            <unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate>
-            <langmaterial id="ref6" label="Language of Materials note">Materials are in English</langmaterial>
-            <origination label="creator">
-                <persname source="naf">Chase, Norah C.</persname>
-            </origination>
-        </did>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Nora Chase Papers; WAG 122; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref4">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <acqinfo id="ref3">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Nora Chase sent a gift of her papers to Tamiment Library, the date of this donation is unknown. The accession number associated with this gift is 1950.078.</p>
-        </acqinfo>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>Norah Chase, an associate professor of English at Kingsborough Community College in Brooklyn, N.Y., and a long-time activist in the Professional Staff Congress (PSC), the labor union representing college teachers in the City University of New York system, donated these materials. This collection contains copies of 
-                <emph render="italic">Unity News</emph>, pamphlets, flyers, correspondence, and meeting minutes related to the 2000 election of PSC officers and representatives by Chase and other members of the union's Unity Caucus.</p>
-        </scopecontent>
-        <controlaccess>
-            <persname source="naf">Chase, Norah C.</persname>
-            <persname source="naf">Chase, Norah C.</persname>
-            <corpname source="naf">City University of New York.</corpname>
-            <corpname source="naf">Kingsborough Community College.</corpname>
-            <corpname source="naf">Professional Staff Congress/City University of New York.</corpname>
-            <subject source="lcsh">College teachers' unions |z New York (State) |z New York |x History.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_122/">wag_122</eadid><filedesc><titlestmt><titleproper>Guide to the Norah Chase Papers on the City University of New York Professional Staff Congress <num>WAG.122</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt><notestmt><note><p>Brief EAD</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-12T19:34:09</date></creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Norah Chase Papers on the City University of New York Professional Staff Congress</unittitle>
+    <origination label="creator">
+      <persname source="naf">Chase, Norah C.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" source="naf">Chase, Norah C.</persname>
+    </origination>
+    <unitid>WAG.122</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 folder)</extent>
+    </physdesc>
+    <unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate>
+    <langmaterial id="aspace_d0c1447707f2df3e64b21c948d99afe7">Materials are in English</langmaterial>
+    <container id="aspace_573ebb6775da3861938c5f94abacd251" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <prefercite id="aspace_b0affdb518c50ef51b8296c24cd7b21a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Nora Chase Papers; WAG 122; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <accessrestrict id="aspace_ea7a538972f6968b1d6159efe11de1d0">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_e846f017fecdc271b2fb37a9557f6b9e">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Norah Chase was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <acqinfo id="aspace_fb95e821b997f2f94a0f27701a6ce69e">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Nora Chase at an unknown date. The accession number associated with this gift is 1950.078.</p>  </acqinfo>
+  <scopecontent id="aspace_126430ce1940272c7479e23b4b31dd5c">
+    <head>Scope and Contents</head>
+<p>Norah Chase, an associate professor of English at Kingsborough Community College in Brooklyn, N.Y., and a long-time activist in the Professional Staff Congress (PSC), the labor union representing college teachers in the City University of New York system, donated these materials. This collection contains copies of <emph render="italic">Unity News</emph>, pamphlets, flyers, correspondence, and meeting minutes related to the 2000 election of PSC officers and representatives by Chase and other members of the union's Unity Caucus.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">College teachers' unions -- New York (State) -- New York -- History.</subject>
+    <persname role="dnr" source="naf">Chase, Norah C.</persname>
+    <corpname source="naf">Professional Staff Congress/City University of New York</corpname>
+    <corpname source="naf">Kingsborough Community College</corpname>
+    <corpname source="naf">City University of New York</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
