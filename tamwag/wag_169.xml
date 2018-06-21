@@ -1,190 +1,61 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_169/index.html">wag_169</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the John Lovari Collection of the Staff of the New-York Historical Society Organizing Records
-                    <num>WAG.169</num>
-                </titleproper>
-                <author>Finding aid prepared by Maggie Schreiner</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-01-28T15:27-0500</date>
-            </creation>
-            <langusage>Description is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>John Lovari Collection of the Staff of the New-York Historical Society Organizing Records</unittitle>
-            <unitid>WAG.169</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.5 linear feet</extent>
-                <extent>in 1 manuscript box</extent>
-            </physdesc>
-            <unitdate normal="1979/1980" type="bulk">Bulk, 1979-1980</unitdate>
-            <unitdate normal="1979/1997" type="inclusive">1979-1997</unitdate>
-            <abstract id="ref24" label="Abstract">In 1979 the staff of the New-York Historical Society began an organizing drive with District 65, United Automobile Workers of America. Victory in the union elections led to contract negotiations, and the staff conducted a six month strike before signing a collective bargaining agreement in 1980. This collection contains newspaper clippings, photographs, minutes from the negotiating committee, copies of contracts, and leaflets.</abstract>
-            <langmaterial id="ref25" label="Language of Materials note">Materials are in English</langmaterial>
-            <origination label="creator">
-                <persname source="ingest">Lovari, John A.</persname>
-            </origination>
-        </did>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This collection contains newspaper clippings, photographs, minutes from the negotiating committee, copies of contracts, and leaflets.</p>
-        </scopecontent>
-        <acqinfo id="ref3">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Donated by John A. Lovari in 2000. The accession number 2000.029 is associated with this gift.</p>
-        </acqinfo>
-        <accessrestrict id="ref4">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <bioghist id="ref6">
-            <head>Historical/Biographical Note</head>
-            <p>In 1979 the staff of the New-York Historical Society began an organizing drive with District 65, United Automobile Workers of America. Victory in the union elections led to contract negotiations later in the same year. The negotiations were unsuccessful, and the staff conducted a six month strike before signing a collective bargaining agreement in 1980.</p>
-            <p>John Lovari was a reference librarian at the New-York Historical Society, head of the negotiating committee, and after an agreement was reached, a shop steward.</p>
-        </bioghist>
-        <userestrict id="ref7">
-            <head>Use Restrictions</head>
-            <p>Coyright (and related rights to publicity and privacy) to materials in this collection created by John Lovari are held by John Lovari. Permission to publish or reproduce materials to which he holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting John Lovari.</p>
-        </userestrict>
-        <processinfo id="ref9">
-            <head>Processing Information note</head>
-            <p>No original order was apparent on receipt of the materials from the donor. The materials were grouped by topic and placed in archival folders and boxes.</p>
-        </processinfo>
-        <arrangement id="ref10">
-            <head>Arrangement</head>
-            <p>Materials are arranged in alphabetical order by topic.</p>
-        </arrangement>
-        <prefercite id="ref11">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; John Lovari Collection of the Staff of the New-York Historical Society Organizing Records; WAG 169; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <controlaccess>
-            <corpname source="naf">Distributive, Processing, and Office Workers of America. District 65.</corpname>
-            <corpname source="naf">New-York Historical Society.</corpname>
-            <subject source="lcsh">Labor disputes |z New York (State) |z New York.</subject>
-            <subject source="lcsh">Library employees |x Labor unions |z New York (State) |z New York.</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref12" level="file">
-                <did>
-                    <unittitle>Clippings</unittitle>
-                    <container id="cid23519001" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519001" type="Folder">1</container>
-                    <unitdate>1979-1980, 1997</unitdate>
-                </did>
-            </c>
-            <c id="ref13" level="file">
-                <did>
-                    <unittitle>Collective Bargaining Agreements</unittitle>
-                    <container id="cid23519002" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519002" type="Folder">2</container>
-                    <unitdate normal="1980/1980">1980</unitdate>
-                </did>
-            </c>
-            <c id="ref14" level="file">
-                <did>
-                    <unittitle>Correspondence: New-York Historical Society</unittitle>
-                    <container id="cid23519003" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519003" type="Folder">3</container>
-                    <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-                </did>
-            </c>
-            <c id="ref15" level="file">
-                <did>
-                    <unittitle>Correspondence: Staff of the New-York Historical Society</unittitle>
-                    <container id="cid23519004" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519004" type="Folder">4</container>
-                    <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-                </did>
-            </c>
-            <c id="ref16" level="file">
-                <did>
-                    <unittitle>Federation of Special Police and Law Enforcement Officers</unittitle>
-                    <container id="cid23519005" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519005" type="Folder">5</container>
-                    <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-                </did>
-            </c>
-            <c id="ref17" level="file">
-                <did>
-                    <unittitle>Financial and Salary Schedules</unittitle>
-                    <container id="cid23519006" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519006" type="Folder">6</container>
-                    <unitdate normal="1979/1979">1979</unitdate>
-                </did>
-            </c>
-            <c id="ref18" level="file">
-                <did>
-                    <unittitle>Leaflets</unittitle>
-                    <container id="cid23519007" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519007" type="Folder">7</container>
-                    <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-                </did>
-            </c>
-            <c id="ref19" level="file">
-                <did>
-                    <unittitle>Meeting Minutes</unittitle>
-                    <container id="cid23519008" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519008" type="Folder">8</container>
-                    <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-                </did>
-            </c>
-            <c id="ref20" level="file">
-                <did>
-                    <unittitle>Museum Labor Relations</unittitle>
-                    <container id="cid23519009" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519009" type="Folder">9</container>
-                    <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-                </did>
-            </c>
-            <c id="ref21" level="file">
-                <did>
-                    <unittitle>Notes and Revisions</unittitle>
-                    <container id="cid23519010" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519010" type="Folder">10</container>
-                    <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-                </did>
-            </c>
-            <c id="ref22" level="file">
-                <did>
-                    <unittitle>Picket Schedules</unittitle>
-                    <container id="cid23519011" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519011" type="Folder">11</container>
-                    <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-                </did>
-            </c>
-            <c id="ref23" level="file">
-                <did>
-                    <unittitle>Photographs</unittitle>
-                    <container id="cid23519012" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23519012" type="Folder">12</container>
-                    <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-                </did>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_169/index.html">wag_169</eadid><filedesc><titlestmt><titleproper>Guide to the John Lovari Collection of the Staff of the New-York Historical Society Organizing Records <num>WAG.169</num></titleproper><author>Collection processed by Maggie Schreiner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-21T18:41:20</date></creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>John Lovari Collection of the Staff of the New-York Historical Society Organizing Records</unittitle>
+    <origination label="creator">
+      <persname rules="dacs" source="local">Lovari, John A.</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Lovari, John A.</persname>
+    </origination>
+    <unitid>WAG.169</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
+    </physdesc>
+    <unitdate normal="1979/1997" type="inclusive">1979-1997</unitdate>
+    <unitdate normal="1979/1980" type="bulk">1979-1980</unitdate>
+    <langmaterial id="aspace_5890d28bf7746997d6c483bb068dd0d0">Materials are in English</langmaterial>
+    <abstract id="aspace_bacd8566e6a5e80a333824c89b96e88f">In 1979 the staff of the New-York Historical Society began an organizing drive with District 65, United Automobile Workers of America. Victory in the union elections led to contract negotiations, and the staff conducted a six month strike before signing a collective bargaining agreement in 1980. This collection contains newspaper clippings, photographs, minutes from the negotiating committee, copies of contracts, and leaflets.
+</abstract>
+    <physloc id="aspace_9e4a6c931edc355fd96c051d6177d4fa">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
+  </did>
+  <prefercite id="aspace_ac68926c08b1a33df845db8caca8307b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; John Lovari Collection of the Staff of the New-York Historical Society Organizing Records; WAG 169; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <arrangement id="aspace_0abece8addc0400452dfa410a46170fc">
+    <head>Arrangement</head>
+<p>Materials are arranged in alphabetical order by topic.</p>  </arrangement>
+  <processinfo id="aspace_b426d3a07f9d3f3bc5458338d741a715">
+    <head>Processing Information</head>
+<p>No original order was apparent on receipt of the materials from the donor. The materials were grouped by topic and placed in archival folders and boxes.</p>  </processinfo>
+  <scopecontent id="aspace_dce6a6a7242ba486c217165b05fd79ed">
+    <head>Scope and Contents</head>
+<p>This collection contains newspaper clippings, photographs, minutes from the negotiating committee, copies of contracts, and leaflets.</p>  </scopecontent>
+  <acqinfo id="aspace_087a08f2fefd9189d77efca9bd9aa23b">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by John A. Lovari in 2000. The accession number 2000.029 is associated with this gift.</p>  </acqinfo>
+  <userestrict id="aspace_c008ce4ddf14c1f93e7b3d31bdcafe00">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by John Lovari was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <accessrestrict id="aspace_c556f03ba94047b1300a20651201bed5">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <bioghist id="aspace_fdb9f61596730cd5871a7e0822b6d445">
+    <head>Historical/Biographical Note</head>
+<p>In 1979 the staff of the New-York Historical Society began an organizing drive with District 65, United Automobile Workers of America. Victory in the union elections led to contract negotiations later in the same year. The negotiations were unsuccessful, and the staff conducted a six month strike before signing a collective bargaining agreement in 1980. </p><p>John Lovari was a reference librarian at the New-York Historical Society, head of the negotiating committee, and after an agreement was reached, a shop steward. </p>  </bioghist>
+  <controlaccess>
+    <subject source="lcsh">Library employees |x Labor unions |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Labor disputes -- New York (State) -- New York.</subject>
+    <corpname source="naf">Distributive, Processing, and Office Workers of America. District 65</corpname>
+    <corpname source="naf">New-York Historical Society</corpname>
+    <persname role="dnr" rules="dacs" source="local">Lovari, John A.</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref12" level="file"><did><unittitle>Clippings</unittitle><unitdate>1979-1980, 1997</unitdate><container id="aspace_2eb0bf4620ac05ad4841393433e12284" label="Mixed Materials" type="Box">1</container><container parent="aspace_2eb0bf4620ac05ad4841393433e12284" type="Folder">1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Collective Bargaining Agreements</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container id="aspace_4c13d2ab820e99b3f2c77f4e82f53490" label="Mixed Materials" type="Box">1</container><container parent="aspace_4c13d2ab820e99b3f2c77f4e82f53490" type="Folder">2</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Correspondence: New-York Historical Society</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container id="aspace_c2f4d46c27f847ce84b12c6f2c7b1848" label="Mixed Materials" type="Box">1</container><container parent="aspace_c2f4d46c27f847ce84b12c6f2c7b1848" type="Folder">3</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Correspondence: Staff of the New-York Historical Society</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container id="aspace_fe519e013dc2a63fe1b189ed6c975c7f" label="Mixed Materials" type="Box">1</container><container parent="aspace_fe519e013dc2a63fe1b189ed6c975c7f" type="Folder">4</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Federation of Special Police and Law Enforcement Officers</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container id="aspace_b86b584e2c3a1ca82985317ac0aee959" label="Mixed Materials" type="Box">1</container><container parent="aspace_b86b584e2c3a1ca82985317ac0aee959" type="Folder">5</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Financial and Salary Schedules</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container id="aspace_40ac14327b5bc50b9c0121ad567bfdec" label="Mixed Materials" type="Box">1</container><container parent="aspace_40ac14327b5bc50b9c0121ad567bfdec" type="Folder">6</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Leaflets</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container id="aspace_6c72a15e59c506f5242f3ea95bc654cf" label="Mixed Materials" type="Box">1</container><container parent="aspace_6c72a15e59c506f5242f3ea95bc654cf" type="Folder">7</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Meeting Minutes</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container id="aspace_ee1b428e7cc949fb5997aa899b4e0f4f" label="Mixed Materials" type="Box">1</container><container parent="aspace_ee1b428e7cc949fb5997aa899b4e0f4f" type="Folder">8</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Museum Labor Relations</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container id="aspace_00e5735b7d526713bb24513fcf49be39" label="Mixed Materials" type="Box">1</container><container parent="aspace_00e5735b7d526713bb24513fcf49be39" type="Folder">9</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Notes and Revisions</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container id="aspace_3a4327bdc1f8e800ccb783b367410d73" label="Mixed Materials" type="Box">1</container><container parent="aspace_3a4327bdc1f8e800ccb783b367410d73" type="Folder">10</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Picket Schedules</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container id="aspace_39dd8dec66aa4c3bddb90f5a658adfe4" label="Mixed Materials" type="Box">1</container><container parent="aspace_39dd8dec66aa4c3bddb90f5a658adfe4" type="Folder">11</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Photographs</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container id="aspace_2fd87f8099a76fe47e4a15dc870b148d" label="Mixed Materials" type="Box">1</container><container parent="aspace_2fd87f8099a76fe47e4a15dc870b148d" type="Folder">12</container></did></c></dsc>
+</archdesc>
 </ead>
