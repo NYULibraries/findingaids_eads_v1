@@ -1,1350 +1,290 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">travelersaid</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Records of the Travelers Aid Society of New York
-                    <lb/>
-                    <date>1917-1979</date>
-                    <date></date>
-                    <lb/>
-                    <num></num>
-                    <num>MS 635</num>
-                </titleproper>
-                <author>Finding aid prepared by Susan Kriete</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derivedfrom travelersaid.xml</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>© 2011 New-York Historical Society</publisher>
-                <address>
-                    <addressline>New-York Historical Society</addressline>
-                    <addressline>170 Central Park West</addressline>
-                    <addressline>New York, NY 10024</addressline>
-                    <addressline>Phone: (212) 873-3400</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2016-12-10T12:55-0500</date>
-            </creation>
-            <langusage>Description is in 
-                <language>English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Travelers Aid Society of New York Records</unittitle>
-            <unitid>MS 635</unitid>
-            <repository>
-                <corpname>© 2011 New-York Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>4.5 Linear feet</extent>
-                <extent>(10 archival boxes and 1 oversize box)</extent>
-            </physdesc>
-            <unitdate>1917-1979</unitdate>
-            <physloc audience="internal" id="ref2" label="Location note">Manuscript cage</physloc>
-            <abstract id="ref3" label="Abstract">The collection documents the history of the Travelers Aid Society of New York, an organization founded in 1905 to assist women travelers, and eventually expanded to aid all travelers. It consists of board minutes, annual reports, a few press articles and speeches, and a number of photographs of clients, TAS workers, board members, and organizational and fundraising events.</abstract>
-        </did>
-        <custodhist id="ref5">
-            <head>Provenance</head>
-            <p>Donation of the Metropolitan Assistance Corporation, 1985</p>
-        </custodhist>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open to qualified researchers.</p>
-            <p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)</p>
-        </accessrestrict>
-        <userestrict id="ref7">
-            <head>Use Restrictions</head>
-            <p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to 
-                <lb/>
-                <lb/>Manuscripts Curator
-                <lb/>
-                <address>
-                    <addressline>The New-York Historical Society
-                        <lb/></addressline>
-                    <addressline>170 Central Park West
-                        <lb/></addressline>
-                    <addressline>New York, NY 10024
-                        <lb/>
-                        <lb/></addressline>
-                </address></p>
-        </userestrict>
-        <prefercite id="ref8">
-            <head>Preferred Citation</head>
-            <p>This collection should be cited as Records of the Travelers Aid Society of New York, The New-York Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref9">
-            <head>Historical Note</head>
-            <chronlist>
-                <chronitem>
-                    <date>1905 March</date>
-                    <event>Social welfare worker and philanthropist Grace Hoadley Dodge founds the New York Travelers Aid Society ("TAS"), a non-sectarian welfare organization headed by a committee of Jewish, Roman Catholic and Protestant women. Initially aimed solely at protecting women travelers, TAS sets forth the following three objectives at its first meeting: "(1) Protection for traveling women as complete as possible in a world of incompleteness; (2) A building dedicated to her comfort especially if she be poor and in distress; (3) An employment clearing house through which a steady circulation between city and country may take place benefiting both."</event>
-                </chronitem>
-                <chronitem>
-                    <date>1905 July</date>
-                    <event>TAS begins active work at Grand Central and Pennsylvania Station, carried out by two agents. Headquarters are in a one-room office at 361 W. 34th Street.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1905 November</date>
-                    <event>Advisory Board of Men formed chiefly to provide advice on legal and business matters.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1907 January</date>
-                    <event>TAS is formally incorporated; office is now at 238 48th Street.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1909 September</date>
-                    <event>One room in TAS headquarters is reserved to provide emergency accomodations for women and girl travelers arriving too late to find other shelter.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1910</date>
-                    <event>Grace Hoadley Dodge resigns as President.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1911</date>
-                    <event>TAS constitution is revised to allow men to serve on the Board of Directors; annual report notes that although organization's most important work is performed for women, men are also being helped "solely on ground of necessity." A "Department of National Cooperation" is established to further goal of cooperation with other social work agencies, both within and between cities.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1914</date>
-                    <event>Grace Hoadley Dodge dies. TAS takes over work of the White Rose Home (a home for African-American girls in Harlem) for "colored travelers coming from the south by boat."</event>
-                </chronitem>
-                <chronitem>
-                    <date>1917</date>
-                    <event>U.S. enters WWI. TAS annual report indicates that 30,422 persons were assisted "notwithstanding the great decrease in steamer travel;" also reports "increased work for colored people" due to "labor conditions caused by the withdrawal of many men for the army" and "the shortage of food on the Islands [which] have caused a large migration to and through New York." National Travelers Aid Society is formed to coordinate efforts of the various local Travelers Aid organizations, with headquarters in New York City.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1918</date>
-                    <event>End of WWI; TAS assists thousands of war brides and fiances in following years.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1919</date>
-                    <event>TAS annual report notes that a large portion of work is devoted to caring for people who have left home due to war conditions, including many American girls and women traveling to fill new openings in industry. TAS becomes a member of the National Conference of Social Work.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1921</date>
-                    <event>Service is provided to increasing numbers of old people and homeless men.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1923</date>
-                    <event>According to annual report, work at Pennsylvania Station has greatly increased "due to the migration of large groups of colored people from the South, which necessitated our adding a colored worker to our staff to assist in caring for them." TAS begins sending some of its workers to the New York School of Social Work for formal training.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1924 May</date>
-                    <event>Edwin Gould Foundation donates use of building at 144 E. 44th Street for TAS headquarters; also donates use of connecting property at 139 E. 43rd Street to open TAS-run Guest House.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1925</date>
-                    <event>TAS becomes one of the first social work organization to provide psychiatric services to its clients.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1930s</date>
-                    <event>Great Depression; TAS takes on added responsibility of providing assistance to thousands of "transient homeless men and transient families."</event>
-                </chronitem>
-                <chronitem>
-                    <date>1931</date>
-                    <event>TAS services begin to shift away from Port Office to bus stations and the TAS Central Office, where transient unemployed are referred.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1935</date>
-                    <event>Annual report reflects new emphasis on "preventive" nature of TAS in discouraging "undesirable people from settling here and becoming public charges."</event>
-                </chronitem>
-                <chronitem>
-                    <date>1939</date>
-                    <event>
-                        <title ns2:type="simple" render="italic">New Yorker</title> magazine publishes article on work of TAS; reports that increasing numbers of the foreigners served are returning American citizens.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1940</date>
-                    <event>TAS workers meet 546 children refugees from the British Isles. National Travelers Aid Society organization joins with five other national welfare organizations to form the United Services Organization for National Defense, Inc. ("USO").</event>
-                </chronitem>
-                <chronitem>
-                    <date>1941</date>
-                    <event>U.S. enters WWII; Mrs. Edna Moses, sister of Robert Moses, is named Supervisor of joint USO-Travelers Aid Society Services. Additional information desks are opened in Grand Central and Pennsylvania Stations for exclusive use of service men and their families.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1942 March</date>
-                    <event>In conjunction with the USO, TAS opens Service Men's Lounge in Pennsylvania Station for traveling servicemen and women.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1942 October</date>
-                    <event>"Red, White and Blue Lounge" opens in Grand Central Station; it is the largest Service Men's lounge in the country.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1945 March</date>
-                    <event>TAS changes name from "Travelers Aid Society" to "Travelers Aid Society of New York" to avoid confusion with national organization.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1945 April</date>
-                    <event>TAS purchases properties at E. 43rd and E. 44th Street from the Edwin Gould Foundation.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1946 June</date>
-                    <event>Service Men's Lounges are closed.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1950</date>
-                    <event>Outbreak of Korean War; U.S. State Department requests TAS to meet all individually sponsored Displaced Persons.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1951</date>
-                    <event>USO lounge opened in Pennsylvania Station on temporary basis; USO Information Center opened in Diplomat Hotel (TAS Board later reports concern over rumors that this is a meeting place for many union and communist front organizations). TAS also opens booth in the new Port Authority bus terminal.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1953</date>
-                    <event>With funding provided by Puerto Rican government, TAS begins providing services at Idlewood (now Kennedy) Airport.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1955</date>
-                    <event>TAS celebrates its "Golden Jubilee" year; also purchases property at 204 E. 39th Street.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1958</date>
-                    <event>Board minutes document increase in cases involving teenagers and seniors (persons over 65).</event>
-                </chronitem>
-                <chronitem>
-                    <date>1960</date>
-                    <event>TAS offices at Grand Central are demolished to make room for 54-story Pan Am Building.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1962</date>
-                    <event>TAS office space at Pennsylvania Station absorbed by Madison Square Garden.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1965</date>
-                    <event>TAS takes over travelers aid services in Newark, N.J., and surrounding area; board minutes reflect increasing concern over budget deficits.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1968</date>
-                    <event>TAS opens Evelyn A. Jaffee Travelers Aid Center in Grand Central Station; launches experimental group counseling project for runaway children.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1982</date>
-                    <event>TAS merges with Victim Services Agency to form the Metropolitan Assistance Corporation.</event>
-                </chronitem>
-            </chronlist>
-        </bioghist>
-        <scopecontent id="ref12">
-            <head>Scope and Content Note</head>
-            <p>This collection documents more than 60 years of efforts by the Travelers Aid Society of New York ("TAS") to help meet the needs of women, children, and, eventually, men, traveling to or through New York City. The collection is arranged by subject matter and/or type of material and is housed in 10 archival boxes and one oversize box. Documentary materials include board minutes, annual reports, some press articles and speeches, and a few memoranda which provide a general overview of the organization's history, purpose, and operations. There are also a number of photographs of clients, TAS workers, board members, and organizational and fundraising events; though these appear to date primarily from the 1940's to 1960's, there are also a few shots from earier decades. The collection does not include station reports or casework materials documenting the day-to-day activities of the workers.</p>
-            <p>These materials provide an overview of the changing face of travel and travelers as the 20th century progressed; the organization's efforts to adapt to these changes also reflect the tumultuous social upheaval of this time period. Though its original mission was to protect women travelers, TAS soon broadend its scope to encompass the floods of male immigrants arriving in equal need of help; with the advent of WWI, TAS began serving increasing numbers of African-Americans mobilized by newly available jobs; during the Great Depression, TAS changed its focus from the piers to train and bus stations, where transient men and boys were arriving by the thousands in search of work; when the U.S. entered WWII, TAS, under the auspices of the United Service Organization ("USO"), began operating Troops-in-Transit lounges for traveling servicement and women; and in the post-War era, TAS increasingly focused on "problem cases" involving seniors or runaway teenagers.</p>
-            <p>Despite the lack of detailed case reports, the collection illustrates the development of social welfare organizations and social work in the United State. It was one of the first organizations to employ the services of a psychiatrist, and by the 1920's was sending its caseworkers for formal training at the School of Social Work in New York City.</p>
-        </scopecontent>
-        <arrangement id="ref13">
-            <head>Arrangement</head>
-            <p>The Travlers Aid Society of New York collection has been organized by type of material into the following seven series:</p>
-            <list type="ordered">
-                <item>Series I: Minutes, 1917-1979 (excluding 1930 and 1970-1972)</item>
-                <item>Series II: Annual Reports, 1917-1979</item>
-                <item>Series III: Organizational Records, 1938-1978</item>
-                <item>Series IV: Public Relations, [1950's-1979]</item>
-                <item>Series V: Real Estate documents, 1945-1981</item>
-                <item>Series VI: Photographs [1920's-1970's]</item>
-            </list>
-        </arrangement>
-        <relatedmaterial id="ref160">
-            <head>Related Material at The New-York Historical Society</head>
-            <p>A full set of annual reports, and a collection of other printed materials pertaining to the Travelers Aid Society of New York (informational pamphlets, fund raising literature, and programs to accompany benefit events), are cataloged separately in the New-York Historical Society library's general collections.</p>
-        </relatedmaterial>
-        <controlaccess>
-            <persname source="ingest">Dodge, Grace Hoadley</persname>
-            <corpname source="ingest">Travelers Aid Society of New York</corpname>
-            <genreform source="aat">Annual reports</genreform>
-            <genreform source="aat">Articles</genreform>
-            <subject source="lcsh">Charities -- New York (State) -- New York</subject>
-            <genreform source="aat">Clippings</genreform>
-            <genreform source="aat">Deeds</genreform>
-            <genreform source="aat">Memoranda</genreform>
-            <genreform source="aat">Minutes</genreform>
-            <geogname source="lcsh">New York (N.Y.)</geogname>
-            <subject source="lcsh">New York (N.Y.) -- Social Conditions -- 20th Century</subject>
-            <genreform source="aat">Photographs</genreform>
-            <subject source="lcsh">Social service -- New York (State) -- New York</subject>
-            <subject source="lcsh">Travelers Aid societies -- New York (State) -- New York</subject>
-            <subject source="lcsh">Travelers Aid Society of New York</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref16" level="series">
-                <did>
-                    <unittitle>Series I: Minutes, 1917 - 1979</unittitle>
-                </did>
-                <scopecontent id="ref94">
-                    <head>Scope and Contents note</head>
-                    <p>This series includes an almost complete set of minutes of Board of Directors meetings (generally held monthly) from December, 1917 through 1979; there are no minutes for 1930 through March, 1931, or for the years 1970-1972. The minutes contain discussions of the current business of the TAS (including financial statements), reports of various committees, and descriptions of casework and efforts to adapt to changing social conditions and travelers needs. These transcripts also provide details about the death of Board members and employees, issues at the various ports and stations, relations with the national organization, staffing issues, publicity and fundraising efforts, and particulars regarding the purchase and maintenance of TAS offices and guesthouse properties. Also included are minutes of meetings of the Travelers Aid Society of Northern New Jersey, which was taken over by the Travelers Aid Society of New York in 1965. Researchers should note that these minutes, though removed from their original binders, have been organized into folders in their original order (often reverse chronological order). An example of the original binders has been retained.</p>
-                </scopecontent>
-                <c id="ref17" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505254" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505254" type="Folder">1</container>
-                        <unitdate>1917 Dec.-1918</unitdate>
-                    </did>
-                </c>
-                <c id="ref18" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505253" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505253" type="Folder">2</container>
-                        <unitdate>1919-1921</unitdate>
-                    </did>
-                </c>
-                <c id="ref19" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505252" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505252" type="Folder">3</container>
-                        <unitdate>1922-1923</unitdate>
-                    </did>
-                </c>
-                <c id="ref20" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505251" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505251" type="Folder">4</container>
-                        <unitdate>1924-1925</unitdate>
-                    </did>
-                </c>
-                <c id="ref21" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505250" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505250" type="Folder">5</container>
-                        <unitdate>1926-1927</unitdate>
-                    </did>
-                </c>
-                <c id="ref22" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505249" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505249" type="Folder">6</container>
-                        <unitdate>1928-1929</unitdate>
-                    </did>
-                </c>
-                <c id="ref23" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505248" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505248" type="Folder">7</container>
-                        <unitdate>1931-1932</unitdate>
-                    </did>
-                </c>
-                <c id="ref24" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505247" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505247" type="Folder">8</container>
-                        <unitdate>1933</unitdate>
-                    </did>
-                </c>
-                <c id="ref25" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505246" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505246" type="Folder">9</container>
-                        <unitdate>1934-1935</unitdate>
-                    </did>
-                </c>
-                <c id="ref26" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505245" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505245" type="Folder">10</container>
-                        <unitdate>1936-1937</unitdate>
-                    </did>
-                </c>
-                <c id="ref27" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505244" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505244" type="Folder">11</container>
-                        <unitdate>1938</unitdate>
-                    </did>
-                </c>
-                <c id="ref28" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505243" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505243" type="Folder">12</container>
-                        <unitdate>1939</unitdate>
-                    </did>
-                </c>
-                <c id="ref29" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505242" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505242" type="Folder">13</container>
-                        <unitdate>1940</unitdate>
-                    </did>
-                </c>
-                <c id="ref30" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505241" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid505241" type="Folder">14</container>
-                        <unitdate>1941</unitdate>
-                    </did>
-                </c>
-                <c id="ref31" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505240" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505240" type="Folder">1</container>
-                        <unitdate>1942 Jan.-1942 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref32" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505239" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505239" type="Folder">2</container>
-                        <unitdate>1942 June-1942 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref33" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505238" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505238" type="Folder">3</container>
-                        <unitdate>1943 Jan.-1943 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref34" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505237" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505237" type="Folder">4</container>
-                        <unitdate>1943 June-1943 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref35" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505236" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505236" type="Folder">5</container>
-                        <unitdate>1944 Jan.-1944 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref36" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505235" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505235" type="Folder">6</container>
-                        <unitdate>1944 June-1944 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref37" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505234" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505234" type="Folder">7</container>
-                        <unitdate>1945 Jan.-1945 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref38" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505233" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505233" type="Folder">8</container>
-                        <unitdate>1945 June-1945 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref39" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505232" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505232" type="Folder">9</container>
-                        <unitdate>1946 Jan.-1946 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref40" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505231" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505231" type="Folder">10</container>
-                        <unitdate>1946 June-1946 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref41" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505230" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505230" type="Folder">11</container>
-                        <unitdate>1947 Jan.-1947 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref42" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505229" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505229" type="Folder">12</container>
-                        <unitdate>1947 June-1947 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref43" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505228" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505228" type="Folder">13</container>
-                        <unitdate>1948 Jan.-1948 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref44" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505227" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid505227" type="Folder">14</container>
-                        <unitdate>1948 June-1948 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref45" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505226" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505226" type="Folder">1</container>
-                        <unitdate>1949 Jan.-1949 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref46" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505225" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505225" type="Folder">2</container>
-                        <unitdate>1949 June-1949 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref47" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505224" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505224" type="Folder">3</container>
-                        <unitdate>1950 Jan.-1950 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref48" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505223" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505223" type="Folder">4</container>
-                        <unitdate>1950 June-1950 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref49" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505222" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505222" type="Folder">5</container>
-                        <unitdate>1951 Jan.-1951 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref50" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505221" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505221" type="Folder">6</container>
-                        <unitdate>1951 June-1951 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref51" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505220" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505220" type="Folder">7</container>
-                        <unitdate>1952 Jan.-1952 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref52" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505219" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505219" type="Folder">8</container>
-                        <unitdate>1952 June-1952 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref53" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505218" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505218" type="Folder">9</container>
-                        <unitdate>1953 Jan.-1953 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref54" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505217" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505217" type="Folder">10</container>
-                        <unitdate>1953 June-1953 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref55" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505216" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505216" type="Folder">11</container>
-                        <unitdate>1954</unitdate>
-                    </did>
-                </c>
-                <c id="ref56" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505215" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505215" type="Folder">12</container>
-                        <unitdate>1955</unitdate>
-                    </did>
-                </c>
-                <c id="ref57" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505214" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid505214" type="Folder">13</container>
-                        <unitdate>1956</unitdate>
-                    </did>
-                </c>
-                <c id="ref58" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505213" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505213" type="Folder">1</container>
-                        <unitdate>1957</unitdate>
-                    </did>
-                </c>
-                <c id="ref59" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505212" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505212" type="Folder">2</container>
-                        <unitdate>1958</unitdate>
-                    </did>
-                </c>
-                <c id="ref60" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505211" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505211" type="Folder">3</container>
-                        <unitdate>1959</unitdate>
-                    </did>
-                </c>
-                <c id="ref61" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505210" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505210" type="Folder">4</container>
-                        <unitdate>1960</unitdate>
-                    </did>
-                </c>
-                <c id="ref62" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505209" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505209" type="Folder">5</container>
-                        <unitdate>1961</unitdate>
-                    </did>
-                </c>
-                <c id="ref63" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505208" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505208" type="Folder">6</container>
-                        <unitdate>1961 (2d copy)</unitdate>
-                    </did>
-                </c>
-                <c id="ref64" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505207" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505207" type="Folder">7</container>
-                        <unitdate>1962</unitdate>
-                    </did>
-                </c>
-                <c id="ref65" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505206" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505206" type="Folder">8</container>
-                        <unitdate>1962 (2d copy)</unitdate>
-                    </did>
-                </c>
-                <c id="ref66" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505205" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505205" type="Folder">9</container>
-                        <unitdate>1963</unitdate>
-                    </did>
-                </c>
-                <c id="ref67" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505204" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505204" type="Folder">10</container>
-                        <unitdate>1964</unitdate>
-                    </did>
-                </c>
-                <c id="ref68" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505203" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505203" type="Folder">11</container>
-                        <unitdate>1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref69" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505202" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid505202" type="Folder">12</container>
-                        <unitdate>1965 (2d copy)</unitdate>
-                    </did>
-                </c>
-                <c id="ref70" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes, TAS of Northern New Jersey</unittitle>
-                        <container id="cid505201" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505201" type="Folder">1</container>
-                        <unitdate>1963-1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref71" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes, TAS of Northern New Jersey</unittitle>
-                        <container id="cid505200" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505200" type="Folder">2</container>
-                        <unitdate>1966-1967</unitdate>
-                    </did>
-                    <odd id="ref72">
-                        <head>General note</head>
-                        <p>Includes minutes of the combined annual meeting of the New York/New Jersey TAS on May 24, 1966</p>
-                    </odd>
-                </c>
-                <c id="ref73" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505199" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505199" type="Folder">3</container>
-                        <unitdate>1966 Jan.-1966 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref74" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505198" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505198" type="Folder">4</container>
-                        <unitdate>1966 June-1966 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref75" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505197" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505197" type="Folder">5</container>
-                        <unitdate>1967 Jan.-1967 May</unitdate>
-                    </did>
-                    <odd id="ref76">
-                        <head>General note</head>
-                        <p>Includes minutes of the combined annual meeting of the New York/New Jersey TAS on April 10, 1967</p>
-                    </odd>
-                </c>
-                <c id="ref77" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505196" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505196" type="Folder">6</container>
-                        <unitdate>1967 June-1967 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref78" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505195" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505195" type="Folder">7</container>
-                        <unitdate>1968 Jan.-1968 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref79" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505194" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505194" type="Folder">8</container>
-                        <unitdate>1968 June-1968 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref80" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505193" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505193" type="Folder">9</container>
-                        <unitdate>1969 Jan.-1969 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref81" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505192" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505192" type="Folder">10</container>
-                        <unitdate>1969 June-1969 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref82" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505191" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505191" type="Folder">11</container>
-                        <unitdate>1973</unitdate>
-                    </did>
-                </c>
-                <c id="ref83" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505190" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505190" type="Folder">12</container>
-                        <unitdate>1974</unitdate>
-                    </did>
-                </c>
-                <c id="ref84" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505189" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505189" type="Folder">13</container>
-                        <unitdate>1975 Jan.-1975 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref85" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505188" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid505188" type="Folder">14</container>
-                        <unitdate>1975 June-1975 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref86" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505187" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505187" type="Folder">1</container>
-                        <unitdate>1976 Jan.-1976 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref87" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505186" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505186" type="Folder">2</container>
-                        <unitdate>1976 June-1976 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref88" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505185" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505185" type="Folder">3</container>
-                        <unitdate>1977 Jan.-1977 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref89" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505184" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505184" type="Folder">4</container>
-                        <unitdate>1977 June-1977 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref90" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505183" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505183" type="Folder">5</container>
-                        <unitdate>1978 Jan.-1978 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref91" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505182" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505182" type="Folder">6</container>
-                        <unitdate>1978 June-1978 Dec.</unitdate>
-                    </did>
-                </c>
-                <c id="ref92" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505181" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505181" type="Folder">7</container>
-                        <unitdate>1979 Jan.-1979 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref93" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes</unittitle>
-                        <container id="cid505180" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505180" type="Folder">8</container>
-                        <unitdate>1979 June-1979 Dec.</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref95" level="series">
-                <did>
-                    <unittitle>Series II: Annual Reports, 1917-1979</unittitle>
-                </did>
-                <scopecontent id="ref99">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains TAS annual reports for the years 1917, 1927, 1931, 1935, 1936, 1942, 1945, 1950, 1952, 1960, 1962, 1967, 1969, 1974, 1975, 1978, and 1979. These reports include financial information, the names of officers, directors and executive staff, and a narrative description of the work performed in that year. A complete set of annual reports is housed separately in the general collections of the New-York Historical Society library (see Related Collections).</p>
-                </scopecontent>
-                <c id="ref96" level="otherlevel">
-                    <did>
-                        <unittitle>Annual Reports</unittitle>
-                        <container id="cid505179" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505179" type="Folder">9</container>
-                        <unitdate>1917-1979 (some missing)</unitdate>
-                    </did>
-                    <odd id="ref97">
-                        <head>General note</head>
-                    </odd>
-                    <phystech id="ref98">
-                        <head>Physical Characteristics and Technical Requirements note</head>
-                    </phystech>
-                </c>
-            </c>
-            <c id="ref100" level="series">
-                <did>
-                    <unittitle>Series III: Organizational Records, 1938-1978</unittitle>
-                </did>
-                <scopecontent id="ref106">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains a Plan of Operation (1938), several memoranda and papers, and the Restated Certificate of Incorporation.</p>
-                </scopecontent>
-                <c id="ref101" level="otherlevel">
-                    <did>
-                        <unittitle>Plan of Operation</unittitle>
-                        <container id="cid505178" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505178" type="Folder">10</container>
-                        <unitdate>1938 March</unitdate>
-                    </did>
-                </c>
-                <c id="ref102" level="otherlevel">
-                    <did>
-                        <unittitle>Memo re: Transportation of War Brides; Instructions for Administration of Civilian War Assistance Program</unittitle>
-                        <container id="cid505177" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505177" type="Folder">11</container>
-                        <unitdate>1946 May 17; circa 1948</unitdate>
-                    </did>
-                </c>
-                <c id="ref103" level="otherlevel">
-                    <did>
-                        <unittitle>Presentation Paper on "Travel Service to Newcomers from Abroad"</unittitle>
-                        <container id="cid505176" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505176" type="Folder">12</container>
-                        <unitdate>1952 June</unitdate>
-                    </did>
-                </c>
-                <c id="ref104" level="otherlevel">
-                    <did>
-                        <unittitle>Draft Paper on Past, Present and Future of Travelers Aid Program</unittitle>
-                        <container id="cid505175" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505175" type="Folder">13</container>
-                        <unitdate>1967 Dec. 15</unitdate>
-                    </did>
-                </c>
-                <c id="ref105" level="otherlevel">
-                    <did>
-                        <unittitle>Restated Certificate of Incorporation</unittitle>
-                        <container id="cid505174" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505174" type="Folder">14</container>
-                        <unitdate>1978 June 26</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref107" level="series">
-                <did>
-                    <unittitle>Series IV: Public Relations, [1950-1979]</unittitle>
-                </did>
-                <scopecontent id="ref116">
-                    <head>Scope and Contents note</head>
-                    <p>This series consists of press articles and a miscellany of other public relations materials, including a handwritten letter from a (former?) TAS worker describing a few of her more memorable cases.</p>
-                </scopecontent>
-                <c id="ref108" level="otherlevel">
-                    <did>
-                        <unittitle>Press articles</unittitle>
-                        <container id="cid505173" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505173" type="Folder">15</container>
-                        <unitdate>1970's-1980's</unitdate>
-                    </did>
-                </c>
-                <c id="ref109" level="otherlevel">
-                    <did>
-                        <unittitle>Speeches</unittitle>
-                        <container id="cid505172" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505172" type="Folder">16</container>
-                        <unitdate>1960's</unitdate>
-                    </did>
-                </c>
-                <c id="ref110" level="otherlevel">
-                    <did>
-                        <unittitle>Publicity Release Forms</unittitle>
-                        <container id="cid505171" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505171" type="Folder">17</container>
-                        <unitdate>1970-1972</unitdate>
-                    </did>
-                </c>
-                <c id="ref111" level="otherlevel">
-                    <did>
-                        <unittitle>Fundraising Documents</unittitle>
-                        <container id="cid505170" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505170" type="Folder">18</container>
-                        <unitdate>1977-1978</unitdate>
-                    </did>
-                </c>
-                <c id="ref112" level="otherlevel">
-                    <did>
-                        <unittitle>Publicity Forms, Annual Campaign</unittitle>
-                        <container id="cid505169" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505169" type="Folder">19</container>
-                        <unitdate>1978-1979</unitdate>
-                    </did>
-                </c>
-                <c id="ref113" level="otherlevel">
-                    <did>
-                        <unittitle>TAS worker's handwritten recollection of memorable cases</unittitle>
-                        <container id="cid505168" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505168" type="Folder">20</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref114" level="otherlevel">
-                    <did>
-                        <unittitle>Various images, brochures and letters</unittitle>
-                        <container id="cid505167" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid505167" type="Folder">21</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref115" level="otherlevel">
-                    <did>
-                        <unittitle>Press articles (oversized)</unittitle>
-                        <container id="cid505166" type="Box" label="Mixed Materials">11</container>
-                        <container parent="cid505166" type="Folder">1</container>
-                        <unitdate>1950's-1980's</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref117" level="series">
-                <did>
-                    <unittitle>Series V: Real Estate Documents, 1945-1981</unittitle>
-                </did>
-                <scopecontent id="ref121">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains documents relating to the purchase and sale of property for TAS operations.</p>
-                </scopecontent>
-                <c id="ref118" level="otherlevel">
-                    <did>
-                        <unittitle>Documents relating to TAS property at 140-146 E. 44th Street</unittitle>
-                        <container id="cid505165" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid505165" type="Folder">1</container>
-                        <unitdate>1945 Mar.-1956 Aug.</unitdate>
-                    </did>
-                </c>
-                <c id="ref119" level="otherlevel">
-                    <did>
-                        <unittitle>Documents relating to TAS property at 204-206 E. 39th Street</unittitle>
-                        <container id="cid505164" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid505164" type="Folder">2</container>
-                        <unitdate>1955</unitdate>
-                    </did>
-                </c>
-                <c id="ref120" level="otherlevel">
-                    <did>
-                        <unittitle>Appraisal of TAS property at 204-206 E. 39th Street</unittitle>
-                        <container id="cid505163" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid505163" type="Folder">3</container>
-                        <unitdate>1981</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref122" level="series">
-                <did>
-                    <unittitle>Series VI: Photographs, [1920's-1970's]</unittitle>
-                </did>
-                <scopecontent id="ref159">
-                    <head>Scope and Contents note</head>
-                    <p>This series includes photographs of clients, portraits of board members and donors, and pictures of meetings and fundraising events.</p>
-                </scopecontent>
-                <c id="ref123" level="subseries">
-                    <did>
-                        <unittitle>Subseries I: Photographs of clients, [1920's-1970's]</unittitle>
-                    </did>
-                    <scopecontent id="ref131">
-                        <head>Scope and Contents note</head>
-                        <p>It appears that most of the photographs in this series are posed shots of clients, sometimes with staff, that were intended to be used for promotional purposes. Because the photographs are largely undated, the dates assigned are approximate.</p>
-                    </scopecontent>
-                    <c id="ref124" level="otherlevel">
-                        <did>
-                            <unittitle>Photographs of clients--children</unittitle>
-                            <container id="cid505162" type="Box" label="Mixed Materials">7</container>
-                            <container parent="cid505162" type="Folder">4</container>
-                            <unitdate>[1920's-1970's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref125" level="otherlevel">
-                        <did>
-                            <unittitle>Photographs of clients--elderly</unittitle>
-                            <container id="cid505161" type="Box" label="Mixed Materials">7</container>
-                            <container parent="cid505161" type="Folder">5</container>
-                            <unitdate>[1930's-1970's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref126" level="otherlevel">
-                        <did>
-                            <unittitle>Photographs of clients--family</unittitle>
-                            <container id="cid505160" type="Box" label="Mixed Materials">7</container>
-                            <container parent="cid505160" type="Folder">6</container>
-                            <unitdate>[1920's-1970's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref127" level="otherlevel">
-                        <did>
-                            <unittitle>Photographs of clients--family</unittitle>
-                            <container id="cid505159" type="Box" label="Mixed Materials">7</container>
-                            <container parent="cid505159" type="Folder">7</container>
-                            <unitdate>[1920's-1970's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref128" level="otherlevel">
-                        <did>
-                            <unittitle>Photographs of clients with TAS workers</unittitle>
-                            <container id="cid505158" type="Box" label="Mixed Materials">7</container>
-                            <container parent="cid505158" type="Folder">8</container>
-                            <unitdate>[1930's-1970's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref129" level="otherlevel">
-                        <did>
-                            <unittitle>Photographs of clients with TAS workers--Service Lounges</unittitle>
-                            <container id="cid505157" type="Box" label="Mixed Materials">8</container>
-                            <container parent="cid505157" type="Folder">1</container>
-                            <unitdate>1940's</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref130" level="otherlevel">
-                        <did>
-                            <unittitle>Mock-ups of photographs and other promotional materials (oversized)</unittitle>
-                            <container id="cid505156" type="Box" label="Mixed Materials">11</container>
-                            <container parent="cid505156" type="Folder">2</container>
-                            <unitdate>[1930's-1960's]</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref132" level="subseries">
-                    <did>
-                        <unittitle>Subseries II: Photographs of TAS executives and events, [1940's-1970's]</unittitle>
-                    </did>
-                    <scopecontent id="ref158">
-                        <head>Scope and Contents note</head>
-                        <p>This subseries includes photographic portraits of board members and other individuals connected to TAS, as well as photographs of balls, benefits and other fund-raising events. The photographs are largely unidentified and undated; accordingly, the dates assigned are approximate.</p>
-                    </scopecontent>
-                    <c id="ref133" level="otherlevel">
-                        <did>
-                            <unittitle>Portraits</unittitle>
-                            <container id="cid505155" type="Box" label="Mixed Materials">8</container>
-                            <container parent="cid505155" type="Folder">2</container>
-                            <unitdate>[1940's-1960's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref134" level="otherlevel">
-                        <did>
-                            <unittitle>Portraits</unittitle>
-                            <container id="cid505154" type="Box" label="Mixed Materials">8</container>
-                            <container parent="cid505154" type="Folder">3</container>
-                            <unitdate>[1940's-1960's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref135" level="otherlevel">
-                        <did>
-                            <unittitle>Portraits</unittitle>
-                            <container id="cid505153" type="Box" label="Mixed Materials">8</container>
-                            <container parent="cid505153" type="Folder">4</container>
-                            <unitdate>[1940's-1960's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref136" level="otherlevel">
-                        <did>
-                            <unittitle>Annual Meetings</unittitle>
-                            <container id="cid505152" type="Box" label="Mixed Materials">8</container>
-                            <container parent="cid505152" type="Folder">5</container>
-                            <unitdate>1940's-1950's</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref137" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Celebrity Shots</unittitle>
-                            <container id="cid505151" type="Box" label="Mixed Materials">8</container>
-                            <container parent="cid505151" type="Folder">6</container>
-                            <unitdate>[1950's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref138" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505150" type="Box" label="Mixed Materials">8</container>
-                            <container parent="cid505150" type="Folder">7</container>
-                            <unitdate>1920's</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref139" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/USO Lounges</unittitle>
-                            <container id="cid505149" type="Box" label="Mixed Materials">8</container>
-                            <container parent="cid505149" type="Folder">8</container>
-                            <unitdate>1940's</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref140" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505148" type="Box" label="Mixed Materials">9</container>
-                            <container parent="cid505148" type="Folder">1</container>
-                            <unitdate>1940's-1950's</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref141" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505147" type="Box" label="Mixed Materials">9</container>
-                            <container parent="cid505147" type="Folder">2</container>
-                            <unitdate>[1940's-1950's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref142" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505146" type="Box" label="Mixed Materials">9</container>
-                            <container parent="cid505146" type="Folder">3</container>
-                            <unitdate>[1940's-1950's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref143" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505145" type="Box" label="Mixed Materials">9</container>
-                            <container parent="cid505145" type="Folder">4</container>
-                            <unitdate>[1940's-1950's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref144" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505144" type="Box" label="Mixed Materials">9</container>
-                            <container parent="cid505144" type="Folder">5</container>
-                            <unitdate>[1950's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref145" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505143" type="Box" label="Mixed Materials">9</container>
-                            <container parent="cid505143" type="Folder">6</container>
-                            <unitdate>[1950's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref146" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505142" type="Box" label="Mixed Materials">9</container>
-                            <container parent="cid505142" type="Folder">7</container>
-                            <unitdate>[1950's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref147" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505141" type="Box" label="Mixed Materials">9</container>
-                            <container parent="cid505141" type="Folder">8</container>
-                            <unitdate>[1950's-1960's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref148" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505140" type="Box" label="Mixed Materials">9</container>
-                            <container parent="cid505140" type="Folder">9</container>
-                            <unitdate>[1950's-1960's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref149" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505139" type="Box" label="Mixed Materials">9</container>
-                            <container parent="cid505139" type="Folder">10</container>
-                            <unitdate>[1960's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref150" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505138" type="Box" label="Mixed Materials">10</container>
-                            <container parent="cid505138" type="Folder">1</container>
-                            <unitdate>[1960's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref151" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505137" type="Box" label="Mixed Materials">10</container>
-                            <container parent="cid505137" type="Folder">2</container>
-                            <unitdate>[1960's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref152" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505136" type="Box" label="Mixed Materials">10</container>
-                            <container parent="cid505136" type="Folder">3</container>
-                            <unitdate>[1960's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref153" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505135" type="Box" label="Mixed Materials">10</container>
-                            <container parent="cid505135" type="Folder">4</container>
-                            <unitdate>[1960's]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref154" level="otherlevel">
-                        <did>
-                            <unittitle>Campaign Publicity/Special Events</unittitle>
-                            <container id="cid505134" type="Box" label="Mixed Materials">10</container>
-                            <container parent="cid505134" type="Folder">5</container>
-                            <unitdate>1960's-1970's</unitdate>
-                        </did>
-                        <odd id="ref155">
-                            <head>General note</head>
-                            <p>Includes photographs of the 1961 "Blue Grass Ball" benefits, the 1968 "Great Book Caper" benefit, and the 1970 "Rothschild's Benefit"</p>
-                        </odd>
-                    </c>
-                    <c id="ref156" level="otherlevel">
-                        <did>
-                            <unittitle>"Farewell to the Queen Mary" Benefit (Photographs)</unittitle>
-                            <container id="cid505133" type="Box" label="Mixed Materials">10</container>
-                            <container parent="cid505133" type="Folder">6</container>
-                            <unitdate>1967 July</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref157" level="otherlevel">
-                        <did>
-                            <unittitle>"Farewell to the Queen Mary" Benefit (Documents)</unittitle>
-                            <container id="cid505132" type="Box" label="Mixed Materials">10</container>
-                            <container parent="cid505132" type="Folder">7</container>
-                            <unitdate>1967 July</unitdate>
-                        </did>
-                    </c>
-                </c>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">travelersaid</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the Travelers Aid Society of New York<lb/><date>1917-1979</date><date></date><lb/><num></num> <num>MS 635</num></titleproper><author>Collection processed by Susan Kriete</author></titlestmt><editionstmt><p>This version was derivedfrom travelersaid.xml</p></editionstmt><publicationstmt><publisher>New-York Historical Society</publisher><address><addressline>New-York Historical Society</addressline><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Phone: (212) 873-3400</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-07-03T18:18:43</date></creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Travelers Aid Society of New York records</unittitle>
+    <unitid>MS 635</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+      <extent altrender="carrier">(10 archival boxes and 1 oversize box)</extent>
+    </physdesc>
+    <unitdate type="inclusive">1917-1979</unitdate>
+    <abstract id="aspace_12c941a89721ffe03257a191a9635bdd">The collection documents the history of the Travelers Aid Society of New York, an organization founded in 1905 to assist women travelers, and eventually expanded to aid all travelers. It consists of board minutes, annual reports, a few press articles and speeches, and a number of photographs of clients, TAS workers, board members, and organizational and fundraising events.</abstract>
+  </did>
+  <acqinfo id="aspace_5eece1cf360993ded1d9cb90f2a1a74c">
+    <head>Immediate Source of Acquisition</head>
+<p>Donation of the Metropolitan Assistance Corporation, 1985</p>  </acqinfo>
+  <accessrestrict id="aspace_9cf5def8129b7389d8da7eca7bfee7fe">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p><p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)</p>  </accessrestrict>
+  <userestrict id="aspace_016372d69fe4e5cd4f8d56625f4e360f">
+    <head>Use Restrictions</head>
+<p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to <lb/><lb/>Manuscripts Curator<lb/><address><addressline>The New-York Historical Society<lb/></addressline><addressline>170 Central Park West<lb/></addressline><addressline>New York, NY 10024<lb/><lb/></addressline></address></p>  </userestrict>
+  <prefercite id="aspace_040d10670eadffd301452bf86a95523b">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as Records of the Travelers Aid Society of New York, The New-York Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_7114b9f8d75cb62b33e97eff0108eca7">
+    <head>Historical Note</head>
+    <chronlist>
+      <head>Missing Title</head>
+      <chronitem>
+        <date>1905 March</date>
+        <eventgrp>
+          <event>Social welfare worker and philanthropist Grace Hoadley Dodge founds the New York Travelers Aid Society ("TAS"), a non-sectarian welfare organization headed by a committee of Jewish, Roman Catholic and Protestant women. Initially aimed solely at protecting women travelers, TAS sets forth the following three objectives at its first meeting: "(1) Protection for traveling women as complete as possible in a world of incompleteness; (2) A building dedicated to her comfort especially if she be poor and in distress; (3) An employment clearing house through which a steady circulation between city and country may take place benefiting both."</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1905 July</date>
+        <eventgrp>
+          <event>TAS begins active work at Grand Central and Pennsylvania Station, carried out by two agents. Headquarters are in a one-room office at 361 W. 34th Street.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1905 November</date>
+        <eventgrp>
+          <event>Advisory Board of Men formed chiefly to provide advice on legal and business matters.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1907 January</date>
+        <eventgrp>
+          <event>TAS is formally incorporated; office is now at 238 48th Street.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1909 September</date>
+        <eventgrp>
+          <event>One room in TAS headquarters is reserved to provide emergency accomodations for women and girl travelers arriving too late to find other shelter.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1910</date>
+        <eventgrp>
+          <event>Grace Hoadley Dodge resigns as President.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1911</date>
+        <eventgrp>
+          <event>TAS constitution is revised to allow men to serve on the Board of Directors; annual report notes that although organization's most important work is performed for women, men are also being helped "solely on ground of necessity." A "Department of National Cooperation" is established to further goal of cooperation with other social work agencies, both within and between cities.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1914</date>
+        <eventgrp>
+          <event>Grace Hoadley Dodge dies. TAS takes over work of the White Rose Home (a home for African-American girls in Harlem) for "colored travelers coming from the south by boat."</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1917</date>
+        <eventgrp>
+          <event>U.S. enters WWI. TAS annual report indicates that 30,422 persons were assisted "notwithstanding the great decrease in steamer travel;" also reports "increased work for colored people" due to "labor conditions caused by the withdrawal of many men for the army" and "the shortage of food on the Islands [which] have caused a large migration to and through New York." National Travelers Aid Society is formed to coordinate efforts of the various local Travelers Aid organizations, with headquarters in New York City.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1918</date>
+        <eventgrp>
+          <event>End of WWI; TAS assists thousands of war brides and fiances in following years.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1919</date>
+        <eventgrp>
+          <event>TAS annual report notes that a large portion of work is devoted to caring for people who have left home due to war conditions, including many American girls and women traveling to fill new openings in industry. TAS becomes a member of the National Conference of Social Work.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1921</date>
+        <eventgrp>
+          <event>Service is provided to increasing numbers of old people and homeless men.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1923</date>
+        <eventgrp>
+          <event>According to annual report, work at Pennsylvania Station has greatly increased "due to the migration of large groups of colored people from the South, which necessitated our adding a colored worker to our staff to assist in caring for them." TAS begins sending some of its workers to the New York School of Social Work for formal training.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1924 May</date>
+        <eventgrp>
+          <event>Edwin Gould Foundation donates use of building at 144 E. 44th Street for TAS headquarters; also donates use of connecting property at 139 E. 43rd Street to open TAS-run Guest House.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1925</date>
+        <eventgrp>
+          <event>TAS becomes one of the first social work organization to provide psychiatric services to its clients.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1930s</date>
+        <eventgrp>
+          <event>Great Depression; TAS takes on added responsibility of providing assistance to thousands of "transient homeless men and transient families."</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1931</date>
+        <eventgrp>
+          <event>TAS services begin to shift away from Port Office to bus stations and the TAS Central Office, where transient unemployed are referred.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1935</date>
+        <eventgrp>
+          <event>Annual report reflects new emphasis on "preventive" nature of TAS in discouraging "undesirable people from settling here and becoming public charges."</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1939</date>
+        <eventgrp>
+          <event><title ns2:type="simple" render="italic">New Yorker</title> magazine publishes article on work of TAS; reports that increasing numbers of the foreigners served are returning American citizens.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1940</date>
+        <eventgrp>
+          <event>TAS workers meet 546 children refugees from the British Isles. National Travelers Aid Society organization joins with five other national welfare organizations to form the United Services Organization for National Defense, Inc. ("USO").</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1941</date>
+        <eventgrp>
+          <event>U.S. enters WWII; Mrs. Edna Moses, sister of Robert Moses, is named Supervisor of joint USO-Travelers Aid Society Services. Additional information desks are opened in Grand Central and Pennsylvania Stations for exclusive use of service men and their families.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1942 March</date>
+        <eventgrp>
+          <event>In conjunction with the USO, TAS opens Service Men's Lounge in Pennsylvania Station for traveling servicemen and women.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1942 October</date>
+        <eventgrp>
+          <event>"Red, White and Blue Lounge" opens in Grand Central Station; it is the largest Service Men's lounge in the country.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1945 March</date>
+        <eventgrp>
+          <event>TAS changes name from "Travelers Aid Society" to "Travelers Aid Society of New York" to avoid confusion with national organization.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1945 April</date>
+        <eventgrp>
+          <event>TAS purchases properties at E. 43rd and E. 44th Street from the Edwin Gould Foundation.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1946 June</date>
+        <eventgrp>
+          <event>Service Men's Lounges are closed.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1950</date>
+        <eventgrp>
+          <event>Outbreak of Korean War; U.S. State Department requests TAS to meet all individually sponsored Displaced Persons.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1951</date>
+        <eventgrp>
+          <event>USO lounge opened in Pennsylvania Station on temporary basis; USO Information Center opened in Diplomat Hotel (TAS Board later reports concern over rumors that this is a meeting place for many union and communist front organizations). TAS also opens booth in the new Port Authority bus terminal.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1953</date>
+        <eventgrp>
+          <event>With funding provided by Puerto Rican government, TAS begins providing services at Idlewood (now Kennedy) Airport.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1955</date>
+        <eventgrp>
+          <event>TAS celebrates its "Golden Jubilee" year; also purchases property at 204 E. 39th Street.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1958</date>
+        <eventgrp>
+          <event>Board minutes document increase in cases involving teenagers and seniors (persons over 65).</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1960</date>
+        <eventgrp>
+          <event>TAS offices at Grand Central are demolished to make room for 54-story Pan Am Building.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1962</date>
+        <eventgrp>
+          <event>TAS office space at Pennsylvania Station absorbed by Madison Square Garden.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1965</date>
+        <eventgrp>
+          <event>TAS takes over travelers aid services in Newark, N.J., and surrounding area; board minutes reflect increasing concern over budget deficits.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1968</date>
+        <eventgrp>
+          <event>TAS opens Evelyn A. Jaffee Travelers Aid Center in Grand Central Station; launches experimental group counseling project for runaway children.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1982</date>
+        <eventgrp>
+          <event>TAS merges with Victim Services Agency to form the Metropolitan Assistance Corporation.</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+
+
+  </bioghist>
+  <scopecontent id="aspace_dc03c3be1e380ab7f4e78f7a2dc4a2a7">
+    <head>Scope and Content Note</head>
+<p>This collection documents more than 60 years of efforts by the Travelers Aid Society of New York ("TAS") to help meet the needs of women, children, and, eventually, men, traveling to or through New York City. The collection is arranged by subject matter and/or type of material and is housed in 10 archival boxes and one oversize box. Documentary materials include board minutes, annual reports, some press articles and speeches, and a few memoranda which provide a general overview of the organization's history, purpose, and operations. There are also a number of photographs of clients, TAS workers, board members, and organizational and fundraising events; though these appear to date primarily from the 1940's to 1960's, there are also a few shots from earier decades. The collection does not include station reports or casework materials documenting the day-to-day activities of the workers.</p><p>These materials provide an overview of the changing face of travel and travelers as the 20th century progressed; the organization's efforts to adapt to these changes also reflect the tumultuous social upheaval of this time period. Though its original mission was to protect women travelers, TAS soon broadend its scope to encompass the floods of male immigrants arriving in equal need of help; with the advent of WWI, TAS began serving increasing numbers of African-Americans mobilized by newly available jobs; during the Great Depression, TAS changed its focus from the piers to train and bus stations, where transient men and boys were arriving by the thousands in search of work; when the U.S. entered WWII, TAS, under the auspices of the United Service Organization ("USO"), began operating Troops-in-Transit lounges for traveling servicement and women; and in the post-War era, TAS increasingly focused on "problem cases" involving seniors or runaway teenagers.</p><p>Despite the lack of detailed case reports, the collection illustrates the development of social welfare organizations and social work in the United State. It was one of the first organizations to employ the services of a psychiatrist, and by the 1920's was sending its caseworkers for formal training at the School of Social Work in New York City.</p>  </scopecontent>
+  <arrangement id="aspace_2129d5157fea05593399d4ebd7ae8e13">
+    <head>Arrangement</head>
+<p>The Travlers Aid Society of New York collection has been organized by type of material into the following seven series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I: Minutes, 1917-1979 (excluding 1930 and 1970-1972)</item>
+      <item>Series II: Annual Reports, 1917-1979</item>
+      <item>Series III: Organizational Records, 1938-1978</item>
+      <item>Series IV: Public Relations, [1950's-1979]</item>
+      <item>Series V: Real Estate documents, 1945-1981</item>
+      <item>Series VI: Photographs [1920's-1970's]</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_d847521320c8bd71736c703458dbad5e">
+    <head>Related Material at The New-York Historical Society</head>
+<p>A full set of annual reports, and a collection of other printed materials pertaining to the Travelers Aid Society of New York (informational pamphlets, fund raising literature, and programs to accompany benefit events), are cataloged separately in the New-York Historical Society library's general collections.</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Deeds.</genreform>
+    <geogname source="lcsh">New York (N.Y.) -- Social conditions  -- 20th century</geogname>
+    <subject source="lcsh">Social service -- New York (State) -- New York  </subject>
+    <subject source="lcsh">Travelers Aid societies -- New York (State) -- New York  </subject>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <genreform source="aat">Annual reports.</genreform>
+    <genreform source="aat">Articles</genreform>
+    <genreform source="aat">Memoranda</genreform>
+    <genreform source="aat">Minutes</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <subject source="lcsh">Charities -- New York (State) -- New York. </subject>
+    <persname source="ingest">Dodge, Grace Hoadley</persname>
+    <corpname source="ingest">Travelers Aid Society of New York</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref16_hvo" level="series"><did><unittitle>Series I: Minutes</unittitle><unitdate type="inclusive">1917 - 1979</unitdate></did><scopecontent id="aspace_6ce160775c0d1659266db2d759981dde"><head>Scope and Contents note</head><p>This series includes an almost complete set of minutes of Board of Directors meetings (generally held monthly) from December, 1917 through 1979; there are no minutes for 1930 through March, 1931, or for the years 1970-1972. The minutes contain discussions of the current business of the TAS (including financial statements), reports of various committees, and descriptions of casework and efforts to adapt to changing social conditions and travelers needs. These transcripts also provide details about the death of Board members and employees, issues at the various ports and stations, relations with the national organization, staffing issues, publicity and fundraising efforts, and particulars regarding the purchase and maintenance of TAS offices and guesthouse properties. Also included are minutes of meetings of the Travelers Aid Society of Northern New Jersey, which was taken over by the Travelers Aid Society of New York in 1965. Researchers should note that these minutes, though removed from their original binders, have been organized into folders in their original order (often reverse chronological order). An example of the original binders has been retained.</p></scopecontent><c id="aspace_ref17_nki" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1917 December-1918</unitdate><container id="aspace_e544c8716abe6d710a45f4829729a857" label="Mixed Materials" type="Box">1</container><container parent="aspace_e544c8716abe6d710a45f4829729a857" type="Folder">1</container></did></c><c id="aspace_ref18_yxd" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1919-1921</unitdate><container id="aspace_bd5af1b56df86971a22f5706ac2c8834" label="Mixed Materials" type="Box">1</container><container parent="aspace_bd5af1b56df86971a22f5706ac2c8834" type="Folder">2</container></did></c><c id="aspace_ref19_h6s" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1922-1923</unitdate><container id="aspace_0360b22cddcfbd1113978b6faee8d107" label="Mixed Materials" type="Box">1</container><container parent="aspace_0360b22cddcfbd1113978b6faee8d107" type="Folder">3</container></did></c><c id="aspace_ref20_uka" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1924-1925</unitdate><container id="aspace_550696f62e15384a23988670ba50df87" label="Mixed Materials" type="Box">1</container><container parent="aspace_550696f62e15384a23988670ba50df87" type="Folder">4</container></did></c><c id="aspace_ref21_jjt" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1926-1927</unitdate><container id="aspace_ee4f12482214f5559302c1fb2ea6b63e" label="Mixed Materials" type="Box">1</container><container parent="aspace_ee4f12482214f5559302c1fb2ea6b63e" type="Folder">5</container></did></c><c id="aspace_ref22_718" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1928-1929</unitdate><container id="aspace_7adb709f4d001e646c0872597513272e" label="Mixed Materials" type="Box">1</container><container parent="aspace_7adb709f4d001e646c0872597513272e" type="Folder">6</container></did></c><c id="aspace_ref23_2l4" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1931-1932</unitdate><container id="aspace_75fc1ba5b0699103e0e2d830c439ee1a" label="Mixed Materials" type="Box">1</container><container parent="aspace_75fc1ba5b0699103e0e2d830c439ee1a" type="Folder">7</container></did></c><c id="aspace_ref24_cm8" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1933</unitdate><container id="aspace_2670f31fd2c95517f20dd103d7a62ca2" label="Mixed Materials" type="Box">1</container><container parent="aspace_2670f31fd2c95517f20dd103d7a62ca2" type="Folder">8</container></did></c><c id="aspace_ref25_rgw" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1934-1935</unitdate><container id="aspace_14ce453a9498d79a0f53fec628c343e9" label="Mixed Materials" type="Box">1</container><container parent="aspace_14ce453a9498d79a0f53fec628c343e9" type="Folder">9</container></did></c><c id="aspace_ref26_bfu" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1936-1937</unitdate><container id="aspace_b373ea1aedb334d166b4678e70e5432a" label="Mixed Materials" type="Box">1</container><container parent="aspace_b373ea1aedb334d166b4678e70e5432a" type="Folder">10</container></did></c><c id="aspace_ref27_rmu" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1938</unitdate><container id="aspace_b732170d180b6a9da7799bce8b53429e" label="Mixed Materials" type="Box">1</container><container parent="aspace_b732170d180b6a9da7799bce8b53429e" type="Folder">11</container></did></c><c id="aspace_ref28_hgx" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1939</unitdate><container id="aspace_b9eebf5b78f66ba61b6759ae98ef8202" label="Mixed Materials" type="Box">1</container><container parent="aspace_b9eebf5b78f66ba61b6759ae98ef8202" type="Folder">12</container></did></c><c id="aspace_ref29_lxg" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1940</unitdate><container id="aspace_6a806c9bf535f1c5e9e45c2e416322a8" label="Mixed Materials" type="Box">1</container><container parent="aspace_6a806c9bf535f1c5e9e45c2e416322a8" type="Folder">13</container></did></c><c id="aspace_ref30_wcs" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1941</unitdate><container id="aspace_dc86ca96c497ee8583356d1a30f15976" label="Mixed Materials" type="Box">1</container><container parent="aspace_dc86ca96c497ee8583356d1a30f15976" type="Folder">14</container></did></c><c id="aspace_ref31_1lw" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1942 January-May</unitdate><container id="aspace_3a4cb8a041be1ed01054ec0aea011113" label="Mixed Materials" type="Box">2</container><container parent="aspace_3a4cb8a041be1ed01054ec0aea011113" type="Folder">1</container></did></c><c id="aspace_ref32_sax" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1942 June-December</unitdate><container id="aspace_22ddcfe82b59d36904fecac0a35a947b" label="Mixed Materials" type="Box">2</container><container parent="aspace_22ddcfe82b59d36904fecac0a35a947b" type="Folder">2</container></did></c><c id="aspace_ref33_k5o" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1943 January-May</unitdate><container id="aspace_469f714135652a02e11599066ae97647" label="Mixed Materials" type="Box">2</container><container parent="aspace_469f714135652a02e11599066ae97647" type="Folder">3</container></did></c><c id="aspace_ref34_r9o" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1943 June-December</unitdate><container id="aspace_9633b78c16d2af739c1e139fe0e217bc" label="Mixed Materials" type="Box">2</container><container parent="aspace_9633b78c16d2af739c1e139fe0e217bc" type="Folder">4</container></did></c><c id="aspace_ref35_hqh" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1944 January-May</unitdate><container id="aspace_55e997ef86cd7c5458fcbbebda80d831" label="Mixed Materials" type="Box">2</container><container parent="aspace_55e997ef86cd7c5458fcbbebda80d831" type="Folder">5</container></did></c><c id="aspace_ref36_boo" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1944 June-December</unitdate><container id="aspace_d745f2d74e4a4cd6f1a08cfc5e31a033" label="Mixed Materials" type="Box">2</container><container parent="aspace_d745f2d74e4a4cd6f1a08cfc5e31a033" type="Folder">6</container></did></c><c id="aspace_ref37_j79" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1945 January-May</unitdate><container id="aspace_da1d9d3d376d1b479b04b4340ac4fa22" label="Mixed Materials" type="Box">2</container><container parent="aspace_da1d9d3d376d1b479b04b4340ac4fa22" type="Folder">7</container></did></c><c id="aspace_ref38_xab" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1945 June-December</unitdate><container id="aspace_7959fa9c5fa94678490b50c4f8de1b1a" label="Mixed Materials" type="Box">2</container><container parent="aspace_7959fa9c5fa94678490b50c4f8de1b1a" type="Folder">8</container></did></c><c id="aspace_ref39_7m4" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1946 January-May</unitdate><container id="aspace_66ecdcffe586d0fc6547ddf97ea8ee85" label="Mixed Materials" type="Box">2</container><container parent="aspace_66ecdcffe586d0fc6547ddf97ea8ee85" type="Folder">9</container></did></c><c id="aspace_ref40_v44" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1946 June-December</unitdate><container id="aspace_6021a526630a3d2eae241576ce4f750a" label="Mixed Materials" type="Box">2</container><container parent="aspace_6021a526630a3d2eae241576ce4f750a" type="Folder">10</container></did></c><c id="aspace_ref41_tx1" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1947 January-May</unitdate><container id="aspace_36154f0285098fd0b3fd4cdc94a39d3b" label="Mixed Materials" type="Box">2</container><container parent="aspace_36154f0285098fd0b3fd4cdc94a39d3b" type="Folder">11</container></did></c><c id="aspace_ref42_x1o" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1947 June-December</unitdate><container id="aspace_7186831178c48aa4960713c7358b1337" label="Mixed Materials" type="Box">2</container><container parent="aspace_7186831178c48aa4960713c7358b1337" type="Folder">12</container></did></c><c id="aspace_ref43_nqy" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1948 January-May</unitdate><container id="aspace_9e1d5919e173863c9ff7bad6ec1c9b4f" label="Mixed Materials" type="Box">2</container><container parent="aspace_9e1d5919e173863c9ff7bad6ec1c9b4f" type="Folder">13</container></did></c><c id="aspace_ref44_veg" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1948 June-December</unitdate><container id="aspace_13c939d8278e1cfe6c7a81989622b0dc" label="Mixed Materials" type="Box">2</container><container parent="aspace_13c939d8278e1cfe6c7a81989622b0dc" type="Folder">14</container></did></c><c id="aspace_ref45_f92" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1949 January-May</unitdate><container id="aspace_dc1b2b2b74f0cb1b2ea057fbb021f260" label="Mixed Materials" type="Box">3</container><container parent="aspace_dc1b2b2b74f0cb1b2ea057fbb021f260" type="Folder">1</container></did></c><c id="aspace_ref46_w36" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1949 June-December</unitdate><container id="aspace_c9f3005710b16d9298dc66a437bcd713" label="Mixed Materials" type="Box">3</container><container parent="aspace_c9f3005710b16d9298dc66a437bcd713" type="Folder">2</container></did></c><c id="aspace_ref47_0tq" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1950 January-May</unitdate><container id="aspace_d9076aa02a59adb4575189812ced60be" label="Mixed Materials" type="Box">3</container><container parent="aspace_d9076aa02a59adb4575189812ced60be" type="Folder">3</container></did></c><c id="aspace_ref48_jfs" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1950 June-December</unitdate><container id="aspace_88bac0f7180ba6c2324daaa71b525bf5" label="Mixed Materials" type="Box">3</container><container parent="aspace_88bac0f7180ba6c2324daaa71b525bf5" type="Folder">4</container></did></c><c id="aspace_ref49_jsk" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1951 January-May</unitdate><container id="aspace_8b5ec2d0bf5bcf093d8e77f9435dcceb" label="Mixed Materials" type="Box">3</container><container parent="aspace_8b5ec2d0bf5bcf093d8e77f9435dcceb" type="Folder">5</container></did></c><c id="aspace_ref50_g2j" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1951 June-December</unitdate><container id="aspace_99a8035072caa8321a6462e62aba98df" label="Mixed Materials" type="Box">3</container><container parent="aspace_99a8035072caa8321a6462e62aba98df" type="Folder">6</container></did></c><c id="aspace_ref51_zi9" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1952 January-May</unitdate><container id="aspace_756c30d4b2fb33db4f6f124e71ce91e4" label="Mixed Materials" type="Box">3</container><container parent="aspace_756c30d4b2fb33db4f6f124e71ce91e4" type="Folder">7</container></did></c><c id="aspace_ref52_5jw" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1952 June-December</unitdate><container id="aspace_bb1195eb405743f889e3440e6752be87" label="Mixed Materials" type="Box">3</container><container parent="aspace_bb1195eb405743f889e3440e6752be87" type="Folder">8</container></did></c><c id="aspace_ref53_mou" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1953 January-May</unitdate><container id="aspace_18089d10c283efdbac860baad700cf09" label="Mixed Materials" type="Box">3</container><container parent="aspace_18089d10c283efdbac860baad700cf09" type="Folder">9</container></did></c><c id="aspace_ref54_98w" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1953 June-December</unitdate><container id="aspace_62daeec5ce8481384b09f7747b0dc083" label="Mixed Materials" type="Box">3</container><container parent="aspace_62daeec5ce8481384b09f7747b0dc083" type="Folder">10</container></did></c><c id="aspace_ref55_fsr" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1954</unitdate><container id="aspace_dbf539388934558306af7dbb751ccca9" label="Mixed Materials" type="Box">3</container><container parent="aspace_dbf539388934558306af7dbb751ccca9" type="Folder">11</container></did></c><c id="aspace_ref56_ehm" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1955</unitdate><container id="aspace_5cf85a7097c7c74dab6e7189435173ff" label="Mixed Materials" type="Box">3</container><container parent="aspace_5cf85a7097c7c74dab6e7189435173ff" type="Folder">12</container></did></c><c id="aspace_ref57_5b5" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1956</unitdate><container id="aspace_825b500cfb467e0dc330cca52b5ef840" label="Mixed Materials" type="Box">3</container><container parent="aspace_825b500cfb467e0dc330cca52b5ef840" type="Folder">13</container></did></c><c id="aspace_ref58_jck" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1957</unitdate><container id="aspace_2958ac8a21fea582541a464e2aa64f13" label="Mixed Materials" type="Box">4</container><container parent="aspace_2958ac8a21fea582541a464e2aa64f13" type="Folder">1</container></did></c><c id="aspace_ref59_vhu" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1958</unitdate><container id="aspace_964be6790a8b6b92110498e0adee5d1a" label="Mixed Materials" type="Box">4</container><container parent="aspace_964be6790a8b6b92110498e0adee5d1a" type="Folder">2</container></did></c><c id="aspace_ref60_nuo" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1959</unitdate><container id="aspace_9bcc62d831d5b06cbfae004a9a5d97b5" label="Mixed Materials" type="Box">4</container><container parent="aspace_9bcc62d831d5b06cbfae004a9a5d97b5" type="Folder">3</container></did></c><c id="aspace_ref61_p6m" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1960</unitdate><container id="aspace_59b36a56e39eda84929750dc72bfa6f1" label="Mixed Materials" type="Box">4</container><container parent="aspace_59b36a56e39eda84929750dc72bfa6f1" type="Folder">4</container></did></c><c id="aspace_ref62_djf" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1961</unitdate><container id="aspace_76764639eab6b29bb7a541773b3a495b" label="Mixed Materials" type="Box">4</container><container parent="aspace_76764639eab6b29bb7a541773b3a495b" type="Folder">5</container></did></c><c id="aspace_ref63_ku1" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1961 (2d copy)</unitdate><container id="aspace_7c5331c833e0ab364897f7d65f13531e" label="Mixed Materials" type="Box">4</container><container parent="aspace_7c5331c833e0ab364897f7d65f13531e" type="Folder">6</container></did></c><c id="aspace_ref64_vxo" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1962</unitdate><container id="aspace_4b3249ca280179baed446b65f9f8a318" label="Mixed Materials" type="Box">4</container><container parent="aspace_4b3249ca280179baed446b65f9f8a318" type="Folder">7</container></did></c><c id="aspace_ref65_w17" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1962 (2d copy)</unitdate><container id="aspace_96f1276b6791a76646fb4eec265a491d" label="Mixed Materials" type="Box">4</container><container parent="aspace_96f1276b6791a76646fb4eec265a491d" type="Folder">8</container></did></c><c id="aspace_ref66_gdo" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1963</unitdate><container id="aspace_bb39f234f52034ab38f8cfa3eee2ef7d" label="Mixed Materials" type="Box">4</container><container parent="aspace_bb39f234f52034ab38f8cfa3eee2ef7d" type="Folder">9</container></did></c><c id="aspace_ref67_to8" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1964</unitdate><container id="aspace_ae85fd1827c4f729def639c5b0175c5d" label="Mixed Materials" type="Box">4</container><container parent="aspace_ae85fd1827c4f729def639c5b0175c5d" type="Folder">10</container></did></c><c id="aspace_ref68_dm5" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1965</unitdate><container id="aspace_d540c9d8c08c49a2ced31f7011d2e834" label="Mixed Materials" type="Box">4</container><container parent="aspace_d540c9d8c08c49a2ced31f7011d2e834" type="Folder">11</container></did></c><c id="aspace_ref69_4b6" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1965 (2d copy)</unitdate><container id="aspace_a371ae49a22bbae1abf7eb17f3975cb1" label="Mixed Materials" type="Box">4</container><container parent="aspace_a371ae49a22bbae1abf7eb17f3975cb1" type="Folder">12</container></did></c><c id="aspace_ref70_6ir" level="file"><did><unittitle>Minutes, TAS of Northern New Jersey</unittitle><unitdate type="inclusive">1963-1965</unitdate><container id="aspace_eb979a011b05bed3ebf59c91a1fd6847" label="Mixed Materials" type="Box">5</container><container parent="aspace_eb979a011b05bed3ebf59c91a1fd6847" type="Folder">1</container></did></c><c id="aspace_ref71_t0r" level="file"><did><unittitle>Minutes, TAS of Northern New Jersey</unittitle><unitdate type="inclusive">1966-1967</unitdate><container id="aspace_c7aaafdf83b6337151c8380403d139f5" label="Mixed Materials" type="Box">5</container><container parent="aspace_c7aaafdf83b6337151c8380403d139f5" type="Folder">2</container></did><odd id="aspace_f54037776207b3dddb3fce0b96a05a73"><head>General note</head><p>Includes minutes of the combined annual meeting of the New York/New Jersey TAS on May 24, 1966</p></odd></c><c id="aspace_ref73_gl6" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1966 January-May</unitdate><container id="aspace_85e03f9b81102efb78eb6367780e4ab1" label="Mixed Materials" type="Box">5</container><container parent="aspace_85e03f9b81102efb78eb6367780e4ab1" type="Folder">3</container></did></c><c id="aspace_ref74_bpn" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1966 June-December</unitdate><container id="aspace_60c88df46b04d762bdc607efc0b3fb8f" label="Mixed Materials" type="Box">5</container><container parent="aspace_60c88df46b04d762bdc607efc0b3fb8f" type="Folder">4</container></did></c><c id="aspace_ref75_xk2" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1967 January-May</unitdate><container id="aspace_678b2eb10160eba8a035c169d2840584" label="Mixed Materials" type="Box">5</container><container parent="aspace_678b2eb10160eba8a035c169d2840584" type="Folder">5</container></did><odd id="aspace_3b0fd73474b3ef93091cb5f5d0e764fc"><head>General note</head><p>Includes minutes of the combined annual meeting of the New York/New Jersey TAS on April 10, 1967</p></odd></c><c id="aspace_ref77_l9k" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1967 June-December</unitdate><container id="aspace_3bc294376da1cbda06a6c760501e01dd" label="Mixed Materials" type="Box">5</container><container parent="aspace_3bc294376da1cbda06a6c760501e01dd" type="Folder">6</container></did></c><c id="aspace_ref78_ufu" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1968 January-May</unitdate><container id="aspace_fe841db0da55ae890e9669e4873e857b" label="Mixed Materials" type="Box">5</container><container parent="aspace_fe841db0da55ae890e9669e4873e857b" type="Folder">7</container></did></c><c id="aspace_ref79_g60" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1968 June-December</unitdate><container id="aspace_f0e15ecd55dfd5f437e7140ab063b4d5" label="Mixed Materials" type="Box">5</container><container parent="aspace_f0e15ecd55dfd5f437e7140ab063b4d5" type="Folder">8</container></did></c><c id="aspace_ref80_dv4" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1969 January-May</unitdate><container id="aspace_f956d70e752e2d6ec25cdf7cb1d3a8a8" label="Mixed Materials" type="Box">5</container><container parent="aspace_f956d70e752e2d6ec25cdf7cb1d3a8a8" type="Folder">9</container></did></c><c id="aspace_ref81_4vf" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1969 June-December</unitdate><container id="aspace_42200e6acc78c7fec7267637a40c04b0" label="Mixed Materials" type="Box">5</container><container parent="aspace_42200e6acc78c7fec7267637a40c04b0" type="Folder">10</container></did></c><c id="aspace_ref82_vsc" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1973</unitdate><container id="aspace_ea0a67662c75d213c5a197ddf455e3ab" label="Mixed Materials" type="Box">5</container><container parent="aspace_ea0a67662c75d213c5a197ddf455e3ab" type="Folder">11</container></did></c><c id="aspace_ref83_6m2" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1974</unitdate><container id="aspace_7f6404aea689dae07c64412eed816b95" label="Mixed Materials" type="Box">5</container><container parent="aspace_7f6404aea689dae07c64412eed816b95" type="Folder">12</container></did></c><c id="aspace_ref84_uss" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1975 January-May</unitdate><container id="aspace_8127b65d1c640ebb0875115f20c3fdf4" label="Mixed Materials" type="Box">5</container><container parent="aspace_8127b65d1c640ebb0875115f20c3fdf4" type="Folder">13</container></did></c><c id="aspace_ref85_wpd" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1975 June-December</unitdate><container id="aspace_f4814a7cb9c7ddde79e6e03e14708e73" label="Mixed Materials" type="Box">5</container><container parent="aspace_f4814a7cb9c7ddde79e6e03e14708e73" type="Folder">14</container></did></c><c id="aspace_ref86_es3" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1976 January-May</unitdate><container id="aspace_8cd7fdbe19b31899bb0c340c1d9b9043" label="Mixed Materials" type="Box">6</container><container parent="aspace_8cd7fdbe19b31899bb0c340c1d9b9043" type="Folder">1</container></did></c><c id="aspace_ref87_v8e" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1976 June-December</unitdate><container id="aspace_24092e0ab7e33839f94d478b71a31587" label="Mixed Materials" type="Box">6</container><container parent="aspace_24092e0ab7e33839f94d478b71a31587" type="Folder">2</container></did></c><c id="aspace_ref88_1jc" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1977 January-May</unitdate><container id="aspace_84f43257b80fc69e1ec6cee7514a2a7c" label="Mixed Materials" type="Box">6</container><container parent="aspace_84f43257b80fc69e1ec6cee7514a2a7c" type="Folder">3</container></did></c><c id="aspace_ref89_egt" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1977 June-December</unitdate><container id="aspace_b6897c2f62269f015c83746a2f461949" label="Mixed Materials" type="Box">6</container><container parent="aspace_b6897c2f62269f015c83746a2f461949" type="Folder">4</container></did></c><c id="aspace_ref90_psy" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1978 January-May</unitdate><container id="aspace_2337a6adfddb3b6b2909d4ffaff5596c" label="Mixed Materials" type="Box">6</container><container parent="aspace_2337a6adfddb3b6b2909d4ffaff5596c" type="Folder">5</container></did></c><c id="aspace_ref91_d8m" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1978 June-December</unitdate><container id="aspace_80378aec9461725716d06ad0c97ef2b1" label="Mixed Materials" type="Box">6</container><container parent="aspace_80378aec9461725716d06ad0c97ef2b1" type="Folder">6</container></did></c><c id="aspace_ref92_ew4" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1979 January-May</unitdate><container id="aspace_ec7a7da4ab79384d45cb0e277dc0c50a" label="Mixed Materials" type="Box">6</container><container parent="aspace_ec7a7da4ab79384d45cb0e277dc0c50a" type="Folder">7</container></did></c><c id="aspace_ref93_9bg" level="file"><did><unittitle>Minutes</unittitle><unitdate type="inclusive">1979 June-December</unitdate><container id="aspace_698627a723d12f31fd08faaf7abd340a" label="Mixed Materials" type="Box">6</container><container parent="aspace_698627a723d12f31fd08faaf7abd340a" type="Folder">8</container></did></c></c><c id="aspace_ref95_b15" level="series"><did><unittitle>Series II: Annual Reports</unittitle><unitdate type="inclusive">1917-1979</unitdate></did><scopecontent id="aspace_5e2109a331b7cc062df2eed93accf914"><head>Scope and Contents note</head><p>This series contains TAS annual reports for the years 1917, 1927, 1931, 1935, 1936, 1942, 1945, 1950, 1952, 1960, 1962, 1967, 1969, 1974, 1975, 1978, and 1979. These reports include financial information, the names of officers, directors and executive staff, and a narrative description of the work performed in that year. A complete set of annual reports is housed separately in the general collections of the New-York Historical Society library (see Related Collections).</p></scopecontent><c id="aspace_ref96_d6j" level="file"><did><unittitle>Annual Reports</unittitle><unitdate>1917-1979 (some missing)</unitdate><container id="aspace_f1a836b188fc91a2c22d6fb3db60da07" label="Mixed Materials" type="Box">6</container><container parent="aspace_f1a836b188fc91a2c22d6fb3db60da07" type="Folder">9</container></did></c></c><c id="aspace_ref100_mai" level="series"><did><unittitle>Series III: Organizational Records</unittitle><unitdate type="inclusive">1938-1978</unitdate></did><scopecontent id="aspace_334343c5714b0c51035e605e0da54e7b"><head>Scope and Contents note</head><p>This series contains a Plan of Operation (1938), several memoranda and papers, and the Restated Certificate of Incorporation.</p></scopecontent><c id="aspace_ref101_krg" level="file"><did><unittitle>Plan of Operation</unittitle><unitdate type="inclusive">1938 March</unitdate><container id="aspace_2317b415c42b006b0d59c41d92f0b631" label="Mixed Materials" type="Box">6</container><container parent="aspace_2317b415c42b006b0d59c41d92f0b631" type="Folder">10</container></did></c><c id="aspace_ref102_qcz" level="file"><did><unittitle>Memo re: Transportation of War Brides; Instructions for Administration of Civilian War Assistance Program</unittitle><unitdate type="inclusive">1946 May 17; circa 1948</unitdate><container id="aspace_21cfdda740a828500e7f4cc95122e03f" label="Mixed Materials" type="Box">6</container><container parent="aspace_21cfdda740a828500e7f4cc95122e03f" type="Folder">11</container></did></c><c id="aspace_ref103_t94" level="file"><did><unittitle>Presentation Paper on "Travel Service to Newcomers from Abroad"</unittitle><unitdate type="inclusive">1952 June</unitdate><container id="aspace_1b6cbc58112881a3823322e23ce24189" label="Mixed Materials" type="Box">6</container><container parent="aspace_1b6cbc58112881a3823322e23ce24189" type="Folder">12</container></did></c><c id="aspace_ref104_6gk" level="file"><did><unittitle>Draft Paper on Past, Present and Future of Travelers Aid Program</unittitle><unitdate>1967 December 15</unitdate><container id="aspace_e4c1169b32819c4f9a0fc452cb418935" label="Mixed Materials" type="Box">6</container><container parent="aspace_e4c1169b32819c4f9a0fc452cb418935" type="Folder">13</container></did></c><c id="aspace_ref105_vvc" level="file"><did><unittitle>Restated Certificate of Incorporation</unittitle><unitdate>1978 June 26</unitdate><container id="aspace_710637d9b57c8ac647c596b69eb22d08" label="Mixed Materials" type="Box">6</container><container parent="aspace_710637d9b57c8ac647c596b69eb22d08" type="Folder">14</container></did></c></c><c id="aspace_ref107_hgp" level="series"><did><unittitle>Series IV: Public Relations</unittitle><unitdate type="inclusive">[1950-1979]</unitdate></did><scopecontent id="aspace_1e287ec2fd0b00fb8bb96a40a2f7e175"><head>Scope and Contents note</head><p>This series consists of press articles and a miscellany of other public relations materials, including a handwritten letter from a (former?) TAS worker describing a few of her more memorable cases.</p></scopecontent><c id="aspace_ref108_cn9" level="file"><did><unittitle>Press articles</unittitle><unitdate type="inclusive">1970s-1980s</unitdate><container id="aspace_eaabb761505e4bc5acf79d36003f2125" label="Mixed Materials" type="Box">6</container><container parent="aspace_eaabb761505e4bc5acf79d36003f2125" type="Folder">15</container></did></c><c id="aspace_ref109_zb6" level="file"><did><unittitle>Speeches</unittitle><unitdate>1960s</unitdate><container id="aspace_3913e6294506f24be06173d29f24b3ca" label="Mixed Materials" type="Box">6</container><container parent="aspace_3913e6294506f24be06173d29f24b3ca" type="Folder">16</container></did></c><c id="aspace_ref110_862" level="file"><did><unittitle>Publicity Release Forms</unittitle><unitdate type="inclusive">1970-1972</unitdate><container id="aspace_a44bbc22529547445ced782f30a5c664" label="Mixed Materials" type="Box">6</container><container parent="aspace_a44bbc22529547445ced782f30a5c664" type="Folder">17</container></did></c><c id="aspace_ref111_k2o" level="file"><did><unittitle>Fundraising Documents</unittitle><unitdate type="inclusive">1977-1978</unitdate><container id="aspace_014ba76e949a352fa4127fe719d03a27" label="Mixed Materials" type="Box">6</container><container parent="aspace_014ba76e949a352fa4127fe719d03a27" type="Folder">18</container></did></c><c id="aspace_ref112_45u" level="file"><did><unittitle>Publicity Forms, Annual Campaign</unittitle><unitdate type="inclusive">1978-1979</unitdate><container id="aspace_54896b3e8daa874cb647260ffc305938" label="Mixed Materials" type="Box">6</container><container parent="aspace_54896b3e8daa874cb647260ffc305938" type="Folder">19</container></did></c><c id="aspace_ref113_u1o" level="file"><did><unittitle>TAS worker's handwritten recollection of memorable cases</unittitle><unitdate>undated</unitdate><container id="aspace_3e191fc33e70cc3bca46225e2b15a2bd" label="Mixed Materials" type="Box">6</container><container parent="aspace_3e191fc33e70cc3bca46225e2b15a2bd" type="Folder">20</container></did></c><c id="aspace_ref114_zpm" level="file"><did><unittitle>Various images, brochures and letters</unittitle><unitdate>undated</unitdate><container id="aspace_a2c0fb4695738f918fe944fdccff55a6" label="Mixed Materials" type="Box">6</container><container parent="aspace_a2c0fb4695738f918fe944fdccff55a6" type="Folder">21</container></did></c><c id="aspace_ref115_2e2" level="file"><did><unittitle>Press articles (oversized)</unittitle><unitdate type="inclusive">1950s-1980s</unitdate><container id="aspace_dfb08495fb6520c307e75e85dbd9728b" label="Mixed Materials" type="Box">11</container><container parent="aspace_dfb08495fb6520c307e75e85dbd9728b" type="Folder">1</container></did></c></c><c id="aspace_ref117_k8f" level="series"><did><unittitle>Series V: Real Estate Documents</unittitle><unitdate type="inclusive">1945-1981</unitdate></did><scopecontent id="aspace_fc3e0e07070234f847592e98b7ff11c6"><head>Scope and Contents note</head><p>This series contains documents relating to the purchase and sale of property for TAS operations.</p></scopecontent><c id="aspace_ref118_cjn" level="file"><did><unittitle>Documents relating to TAS property at 140-146 E. 44th Street</unittitle><unitdate type="inclusive">1945 March-1956 August</unitdate><container id="aspace_3246aa5f79b89d7a109df4367d3a6365" label="Mixed Materials" type="Box">7</container><container parent="aspace_3246aa5f79b89d7a109df4367d3a6365" type="Folder">1</container></did></c><c id="aspace_ref119_nk3" level="file"><did><unittitle>Documents relating to TAS property at 204-206 E. 39th Street</unittitle><unitdate type="inclusive">1955</unitdate><container id="aspace_a968d4c6e08a9830274d083e862df5bc" label="Mixed Materials" type="Box">7</container><container parent="aspace_a968d4c6e08a9830274d083e862df5bc" type="Folder">2</container></did></c><c id="aspace_ref120_8oz" level="file"><did><unittitle>Appraisal of TAS property at 204-206 E. 39th Street</unittitle><unitdate type="inclusive">1981</unitdate><container id="aspace_2510e5cc070ba1078cf17a1796c5edf6" label="Mixed Materials" type="Box">7</container><container parent="aspace_2510e5cc070ba1078cf17a1796c5edf6" type="Folder">3</container></did></c></c><c id="aspace_ref122_gr5" level="series"><did><unittitle>Series VI: Photographs</unittitle><unitdate type="inclusive">[1920s-1970s]</unitdate></did><scopecontent id="aspace_c10c65aa8773173c036bcb3ec9515fe7"><head>Scope and Contents note</head><p>This series includes photographs of clients, portraits of board members and donors, and pictures of meetings and fundraising events.</p></scopecontent><c id="aspace_ref123_gnj" level="subseries"><did><unittitle>Subseries I: Photographs of clients</unittitle><unitdate type="inclusive">[1920s-1970s]</unitdate></did><scopecontent id="aspace_72cd33e96afd42b19a4c7a20e2f45f88"><head>Scope and Contents note</head><p>It appears that most of the photographs in this series are posed shots of clients, sometimes with staff, that were intended to be used for promotional purposes. Because the photographs are largely undated, the dates assigned are approximate.</p></scopecontent><c id="aspace_ref124_wwl" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs of clients--children</unittitle><unitdate>[1920's-1970's]</unitdate><container id="aspace_94490a7f8b538e67f4b8d25714df0ccc" label="Mixed Materials" type="Box">7</container><container parent="aspace_94490a7f8b538e67f4b8d25714df0ccc" type="Folder">4</container></did></c><c id="aspace_ref125_fz7" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs of clients--elderly</unittitle><unitdate>[1930's-1970's]</unitdate><container id="aspace_59f9a079c864273dc4d9d721aadf248a" label="Mixed Materials" type="Box">7</container><container parent="aspace_59f9a079c864273dc4d9d721aadf248a" type="Folder">5</container></did></c><c id="aspace_ref126_6l3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs of clients--family</unittitle><unitdate>[1920's-1970's]</unitdate><container id="aspace_3664e5f5e6f25f7f3307bd01b08c8a39" label="Mixed Materials" type="Box">7</container><container parent="aspace_3664e5f5e6f25f7f3307bd01b08c8a39" type="Folder">6</container></did></c><c id="aspace_ref127_dic" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs of clients--family</unittitle><unitdate>[1920's-1970's]</unitdate><container id="aspace_53655bbe721c810e81aa3b5e250c6522" label="Mixed Materials" type="Box">7</container><container parent="aspace_53655bbe721c810e81aa3b5e250c6522" type="Folder">7</container></did></c><c id="aspace_ref128_8i2" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs of clients with TAS workers</unittitle><unitdate>[1930's-1970's]</unitdate><container id="aspace_58c4fc0e27ee9d878118015a249d74be" label="Mixed Materials" type="Box">7</container><container parent="aspace_58c4fc0e27ee9d878118015a249d74be" type="Folder">8</container></did></c><c id="aspace_ref129_959" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs of clients with TAS workers--Service Lounges</unittitle><unitdate>1940's</unitdate><container id="aspace_b5c50aafd82ed1e00f7418fb41fa2c46" label="Mixed Materials" type="Box">8</container><container parent="aspace_b5c50aafd82ed1e00f7418fb41fa2c46" type="Folder">1</container></did></c><c id="aspace_ref130_fej" level="otherlevel" otherlevel="unspecified"><did><unittitle>Mock-ups of photographs and other promotional materials (oversized)</unittitle><unitdate>[1930's-1960's]</unitdate><container id="aspace_6baa0b52a8859aa859f9856382e528db" label="Mixed Materials" type="Box">11</container><container parent="aspace_6baa0b52a8859aa859f9856382e528db" type="Folder">2</container></did></c></c><c id="aspace_ref132_r4e" level="subseries"><did><unittitle>Subseries II: Photographs of TAS executives and events</unittitle><unitdate type="inclusive">[1940s-1970s]</unitdate></did><scopecontent id="aspace_cbad76bd9da87ad358d496eb15eeda31"><head>Scope and Contents note</head><p>This subseries includes photographic portraits of board members and other individuals connected to TAS, as well as photographs of balls, benefits and other fund-raising events. The photographs are largely unidentified and undated; accordingly, the dates assigned are approximate.</p></scopecontent><c id="aspace_ref133_yox" level="otherlevel" otherlevel="unspecified"><did><unittitle>Portraits</unittitle><unitdate>[1940's-1960's]</unitdate><container id="aspace_04a2a29af8e33fb954a48cf848b37375" label="Mixed Materials" type="Box">8</container><container parent="aspace_04a2a29af8e33fb954a48cf848b37375" type="Folder">2</container></did></c><c id="aspace_ref134_a0f" level="otherlevel" otherlevel="unspecified"><did><unittitle>Portraits</unittitle><unitdate>[1940's-1960's]</unitdate><container id="aspace_bad442b9f1f7ff6d3371cb3f71b4db6c" label="Mixed Materials" type="Box">8</container><container parent="aspace_bad442b9f1f7ff6d3371cb3f71b4db6c" type="Folder">3</container></did></c><c id="aspace_ref135_j6j" level="otherlevel" otherlevel="unspecified"><did><unittitle>Portraits</unittitle><unitdate>[1940's-1960's]</unitdate><container id="aspace_54149b9eb5725f80bb722e821b797a6c" label="Mixed Materials" type="Box">8</container><container parent="aspace_54149b9eb5725f80bb722e821b797a6c" type="Folder">4</container></did></c><c id="aspace_ref136_egk" level="otherlevel" otherlevel="unspecified"><did><unittitle>Annual Meetings</unittitle><unitdate>1940's-1950's</unitdate><container id="aspace_e1d8b1a276fcae096ec2db6a2f7e578f" label="Mixed Materials" type="Box">8</container><container parent="aspace_e1d8b1a276fcae096ec2db6a2f7e578f" type="Folder">5</container></did></c><c id="aspace_ref137_m60" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Celebrity Shots</unittitle><unitdate>[1950's]</unitdate><container id="aspace_93a07699d0150d9f0c3f237b38dbe81b" label="Mixed Materials" type="Box">8</container><container parent="aspace_93a07699d0150d9f0c3f237b38dbe81b" type="Folder">6</container></did></c><c id="aspace_ref138_9wk" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>1920's</unitdate><container id="aspace_f6630b0efda144471c234f10ad117f49" label="Mixed Materials" type="Box">8</container><container parent="aspace_f6630b0efda144471c234f10ad117f49" type="Folder">7</container></did></c><c id="aspace_ref139_65w" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/USO Lounges</unittitle><unitdate>1940's</unitdate><container id="aspace_bd5406cb855becad2a284cbce8d143c5" label="Mixed Materials" type="Box">8</container><container parent="aspace_bd5406cb855becad2a284cbce8d143c5" type="Folder">8</container></did></c><c id="aspace_ref140_21y" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>1940's-1950's</unitdate><container id="aspace_c991169d35fe5caf5311a15554501659" label="Mixed Materials" type="Box">9</container><container parent="aspace_c991169d35fe5caf5311a15554501659" type="Folder">1</container></did></c><c id="aspace_ref141_ltm" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1940's-1950's]</unitdate><container id="aspace_764c3d40aaf29a39105fdcdf1da1e0f7" label="Mixed Materials" type="Box">9</container><container parent="aspace_764c3d40aaf29a39105fdcdf1da1e0f7" type="Folder">2</container></did></c><c id="aspace_ref142_ear" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1940's-1950's]</unitdate><container id="aspace_a6576d3757c76d3d4aa275792a89c567" label="Mixed Materials" type="Box">9</container><container parent="aspace_a6576d3757c76d3d4aa275792a89c567" type="Folder">3</container></did></c><c id="aspace_ref143_ta3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1940's-1950's]</unitdate><container id="aspace_d051a2c3e04f1fd9cda39ce3a5918464" label="Mixed Materials" type="Box">9</container><container parent="aspace_d051a2c3e04f1fd9cda39ce3a5918464" type="Folder">4</container></did></c><c id="aspace_ref144_isb" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1950's]</unitdate><container id="aspace_8691639b63bedc15eccc796dad3f40ef" label="Mixed Materials" type="Box">9</container><container parent="aspace_8691639b63bedc15eccc796dad3f40ef" type="Folder">5</container></did></c><c id="aspace_ref145_orv" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1950's]</unitdate><container id="aspace_6da87e0e9c59948ca2d5a0d98b800361" label="Mixed Materials" type="Box">9</container><container parent="aspace_6da87e0e9c59948ca2d5a0d98b800361" type="Folder">6</container></did></c><c id="aspace_ref146_u6a" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1950's]</unitdate><container id="aspace_5917739ffdff6a8b93d6a78b173d3c47" label="Mixed Materials" type="Box">9</container><container parent="aspace_5917739ffdff6a8b93d6a78b173d3c47" type="Folder">7</container></did></c><c id="aspace_ref147_dkn" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1950's-1960's]</unitdate><container id="aspace_16a7e334ca4c349f30cd7d953a01a4a0" label="Mixed Materials" type="Box">9</container><container parent="aspace_16a7e334ca4c349f30cd7d953a01a4a0" type="Folder">8</container></did></c><c id="aspace_ref148_r71" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1950's-1960's]</unitdate><container id="aspace_1a07386a6855900a8ae154df23853f50" label="Mixed Materials" type="Box">9</container><container parent="aspace_1a07386a6855900a8ae154df23853f50" type="Folder">9</container></did></c><c id="aspace_ref149_165" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1960's]</unitdate><container id="aspace_aa58c63ff0cb2f4a0a5435e5fe5a4f99" label="Mixed Materials" type="Box">9</container><container parent="aspace_aa58c63ff0cb2f4a0a5435e5fe5a4f99" type="Folder">10</container></did></c><c id="aspace_ref150_n5s" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1960's]</unitdate><container id="aspace_806648073d792353dfe3628fd99df770" label="Mixed Materials" type="Box">10</container><container parent="aspace_806648073d792353dfe3628fd99df770" type="Folder">1</container></did></c><c id="aspace_ref151_inz" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1960's]</unitdate><container id="aspace_18aad57cf62c491763f1f01616ff1c72" label="Mixed Materials" type="Box">10</container><container parent="aspace_18aad57cf62c491763f1f01616ff1c72" type="Folder">2</container></did></c><c id="aspace_ref152_la3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1960's]</unitdate><container id="aspace_37640e4df5b6104e57f855e0878ad10e" label="Mixed Materials" type="Box">10</container><container parent="aspace_37640e4df5b6104e57f855e0878ad10e" type="Folder">3</container></did></c><c id="aspace_ref153_ujn" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>[1960's]</unitdate><container id="aspace_925faff93a3c5c1ab689beff47abc5ca" label="Mixed Materials" type="Box">10</container><container parent="aspace_925faff93a3c5c1ab689beff47abc5ca" type="Folder">4</container></did></c><c id="aspace_ref154_rm9" level="otherlevel" otherlevel="unspecified"><did><unittitle>Campaign Publicity/Special Events</unittitle><unitdate>1960's-1970's</unitdate><container id="aspace_5c5fcd3b2d34d0774092f1b9d108f950" label="Mixed Materials" type="Box">10</container><container parent="aspace_5c5fcd3b2d34d0774092f1b9d108f950" type="Folder">5</container></did><scopecontent id="aspace_55eafc62c5e2144713e313be0f883f30"><head>General note</head><p>Includes photographs of the 1961 "Blue Grass Ball" benefits, the 1968 "Great Book Caper" benefit, and the 1970 "Rothschild's Benefit"</p></scopecontent></c><c id="aspace_ref156_v6l" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Farewell to the Queen Mary" Benefit (Photographs)</unittitle><unitdate>1967 July</unitdate><container id="aspace_3df4285267adf76114a5681302e45dab" label="Mixed Materials" type="Box">10</container><container parent="aspace_3df4285267adf76114a5681302e45dab" type="Folder">6</container></did></c><c id="aspace_ref157_5y6" level="otherlevel" otherlevel="unspecified"><did><unittitle>"Farewell to the Queen Mary" Benefit (Documents)</unittitle><unitdate>1967 July</unitdate><container id="aspace_9e3832da3773ea4020dc01244dfb10c5" label="Mixed Materials" type="Box">10</container><container parent="aspace_9e3832da3773ea4020dc01244dfb10c5" type="Folder">7</container></did></c></c></c></dsc>
+</archdesc>
 </ead>
