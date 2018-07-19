@@ -1,76 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_249/">wag_249</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Textile Workers Union of America Scrapbooks
-                    <num>WAG.249</num>
-                </titleproper>
-                <author>Finding aid prepared by Maggie Schreiner</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>2014</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-08-21T17:33-0400</date>
-            </creation>
-            <langusage>Description is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Textile Workers Union of America Scrapbooks</unittitle>
-            <unitid>WAG.249</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>6.0 linear feet</extent>
-                <extent>(6 boxes)</extent>
-            </physdesc>
-            <unitdate normal="1948/1962" type="inclusive">1948-1962</unitdate>
-            <origination label="creator">
-                <corpname source="naf">Textile Workers Union of America.</corpname>
-            </origination>
-        </did>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>The collection consists of large scrapbooks dating approximately from 1948 to 1962 containing conference and meeting reports, as well as statistical data gathered by the TWUA's Research Department.</p>
-        </scopecontent>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>The Textile Workers Union of America (TWUA) was an industrial union of textile workers established through the Congress of Industrial Organizations in 1939 and which merged with the Amalgamated Clothing Workers of America to become the Amalgamated Clothing and Textile Workers Union (ACTWU) in 1976. As a leading organization in the CIO's "Operation Dixie," it led numerous organizing campaigns in the union-resistant South, aiming to help textile workers achieve higher wages, health insurance and other benefits, and to ensure fair labor practices. The TWUA was able to organize new plants and revive some moribund organizations, but it was unable to achieve a breakthrough win which would organize the whole industry. The TWUA's textile locals eventually became part of UNITE/HERE, a manufacturing and hospitality workers union.</p>
-        </bioghist>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Textile Workers Union of America Scrapbooks; WAG 249; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 1950.058.</p>
-        </acqinfo>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2082. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <accessrestrict id="ref7">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_249/">wag_249</eadid><filedesc><titlestmt><titleproper>Guide to the Textile Workers Union of America Scrapbooks <num>WAG.249</num></titleproper><author>Collection processed by Maggie Schreiner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-07-19T18:56:45</date></creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Textile Workers Union of America Scrapbooks</unittitle>
+    <origination label="creator">
+      <corpname source="naf">Textile Workers Union of America</corpname>
+    </origination>
+    <unitid>WAG.249</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+      <extent altrender="carrier">(6 boxes)</extent>
+    </physdesc>
+    <unitdate normal="1948/1962" type="inclusive">1948-1962</unitdate>
+  </did>
+  <bioghist id="aspace_a32d552e7d820451e9e93142a4f08c46">
+    <head>Historical/Biographical Note</head>
+<p>The Textile Workers Union of America (TWUA) was an industrial union of textile workers established through the Congress of Industrial Organizations in 1939 and which merged with the Amalgamated Clothing Workers of America to become the Amalgamated Clothing and Textile Workers Union (ACTWU) in 1976. As a leading organization in the CIO's "Operation Dixie," it led numerous organizing campaigns in the union-resistant South, aiming to help textile workers achieve higher wages, health insurance and other benefits, and to ensure fair labor practices.  The TWUA was able to organize new plants and revive some moribund organizations, but it was unable to achieve a breakthrough win which would organize the whole industry. The TWUA's textile locals eventually became part of UNITE/HERE, a manufacturing and hospitality workers union.</p>  </bioghist>
+  <accessrestrict id="aspace_cf6deefb8dabf4cc913aca1131c16f7b">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_b6c0e6cfb79aa73afac5166326a8611e">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1948-1962, are expected to enter the public domain in 2083.</p>  </userestrict>
+  <acqinfo id="aspace_7bb5b9d912ca112113303c1f493586c6">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository; provenance is unknown. The accession number associated with this collection is 1950.058.</p>  </acqinfo>
+  <prefercite id="aspace_86ce16a0e948cd2b0f8d949b12374ab4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Textile Workers Union of America Scrapbooks; WAG 249; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_8a49416c020c2bb07874f427d71a96bc">
+    <head>Scope and Contents</head>
+<p>The collection consists of large scrapbooks dating approximately from 1948 to 1962 containing conference and meeting reports, as well as statistical data gathered by the TWUA's Research Department.</p>  </scopecontent>
+  <dsc></dsc>
+</archdesc>
 </ead>
