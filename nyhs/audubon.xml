@@ -1,538 +1,68 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">audubon</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the John James Audubon Print Collection
-                    <lb/>
-                    <date>[1820] - 1860, 1985</date>
-                    <lb/>
-                    <num> </num>
-                    <num>PR 162</num>
-                </titleproper>
-                <author>Finding aid prepared by Jenny Gotwals</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derived from audubon.xml</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>@ 2011 New-York Historical Society</publisher>
-                <address>
-                    <addressline>New-York Historical Society</addressline>
-                    <addressline>170 Central Park West</addressline>
-                    <addressline>New York, NY 10024</addressline>
-                    <addressline>Phone: (212) 873-3400</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-10-31T18:50-0400</date>
-            </creation>
-            <langusage>Description is in 
-                <language>English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>John James Audubon Print Collection 
-                <lb/></unittitle>
-            <unitid>PR 162</unitid>
-            <repository>
-                <corpname>@ 2011 New-York Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>1.88 Linear feet</extent>
-                <extent>(2 boxes, 1 drawer)</extent>
-            </physdesc>
-            <unitdate>[1820] - 1860, 1985 (bulk 1832-1845)</unitdate>
-            <physloc audience="internal" id="ref2" label="Location note">Department of Prints, Photographs, and Architectural Collections</physloc>
-            <abstract id="ref3" label="Abstract">The Audubon print collection contains hand-colored aquatints, lithographs, chromolithographs, and items of ephemera of or pertaining to the work of John James Audubon, including both original prints from his famous color-plate books of natural history, and later, derivative prints of the same.</abstract>
-        </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>The collection is mainly comprised of gifts from a variety of donors. The proof prints were purchased in 1947.</p>
-        </custodhist>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open to qualified researchers.</p>
-            <p>Photocopying undertaken by staff only. Limited to thirty exposures of stable, unbound material per day. See guidelines in Print Room for details.</p>
-        </accessrestrict>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>Permission to reproduce any Print Room holdings through publication must be obtained from: 
-                <lb/>
-                <address>
-                    <addressline>Rights and Reproductions
-                        <lb/></addressline>
-                    <addressline>The New-York Historical Society
-                        <lb/>Two West 77th Street
-                        <lb/>New York, NY 10024</addressline>
-                    <addressline>Phone: (212) 873-3400 ext. 282</addressline>
-                    <addressline>Fax: (212) 579-8794</addressline>
-                </address></p>
-        </userestrict>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>This collection should be cited as John James Audubon Print Collection, PR 162, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref8">
-            <head>Biographical Note</head>
-        </bioghist>
-        <scopecontent id="ref9">
-            <head>Scope and Content Note</head>
-            <p>The John James Audubon Print Collection spans the period from ca. 1827-1860, and 1977 to 1986 and contains both original prints from Audubon's famous color-plate books of natural history, and later derivatives. The collection is divided into three series: 
-                <title render="italic">Birds of America</title>;
-                <title render="italic">Viviparous Quadrupeds of North America </title>; and Miscellaneous.</p>
-        </scopecontent>
-        <arrangement id="ref10">
-            <head>Arrangement</head>
-            <p>The collection is divided into three series.</p>
-            <list type="ordered">
-                <item>Series I. 
-                    <title render="italic">Birds of America</title></item>
-                <item>Series II. 
-                    <title render="italic">Viviparous Quadrupeds of North America </title></item>
-                <item>Series III. Miscellaneous</item>
-            </list>
-        </arrangement>
-        <relatedmaterial id="ref71">
-            <head>Related Material at the New-York Historical Society</head>
-            <p>Portraits of John James Audubon and his family can be found in the Portrait File (PR 052). The Department of Prints, Photographs, and Architectural Collections also holds a double Elephant folio set of Audubon's 
-                <title render="italic">Birds of America</title>, and the N-YHS Library has an Octavo set of the same. The Manuscripts Department holds some of Audubon's correspondence. The N-YHS Museum holds Audubon's original watercolors for 
-                <title render="italic">Birds of America</title>, as well as other work by Audubon, including an empty marbleized paper and leather portfolio, of double Elephant folio size, with "Birds of America" printed on the cover, which was used by Audubon himself to carry his watercolors or sample prints as samples to show to potential subscribers.</p>
-        </relatedmaterial>
-        <controlaccess>
-            <persname source="ingest">Audubon, John James, 1785-1851. Birds of America</persname>
-            <persname source="ingest">Audubon, John James, 1785-1851. Viviparous quadrupeds of North America</persname>
-            <corpname source="ingest">Childs &amp; Inman</corpname>
-            <persname source="ingest">Havell, Robert, 1793-1878</persname>
-            <genreform source="aat">Aquatints</genreform>
-            <subject source="lcsh">Birds -- United States -- Pictorial works</subject>
-            <genreform source="aat">Chromolithographs</genreform>
-            <genreform source="aat">Circulars</genreform>
-            <genreform source="aat">Ephemera</genreform>
-            <genreform source="aat">Lithographs</genreform>
-            <subject source="lcsh">Natural history -- United States -- Pictorial works</subject>
-            <subject source="lcsh">Prints -- Coloring</subject>
-            <genreform source="aat">Proofs</genreform>
-            <genreform source="aat">Visiting cards</genreform>
-        </controlaccess>
-        <dsc>
-            <c id="ref13" level="series">
-                <did>
-                    <unittitle>Series I: 
-                        <title render="italic">Birds of America</title></unittitle>
-                </did>
-                <scopecontent id="ref54">
-                    <head>Scope and Contents note</head>
-                    <p>Series I. 
-                        <title render="italic">Birds of America</title> contains material related to the original double Elephant folio publication of 
-                        <title render="italic">Birds of America</title>, published in numbers from 1827 to 1838. Plates for this edition were aquatinted by Robert Havell, Jr., after drawings by Audubon, and were hand-colored both by Havell's studio staff and Audubon's wife and children. This series is arranged into three subseries: Pattern Proof Prints, Loose Plates, and Facsimiles and Reproductions.</p>
-                    <p>The fifteen color proof prints were used as patterns for the colorists of the aquatints. These sheets give primary and detailed evidence about the coloring process; several have penciled color notations, and one has a notation for textual change. Eleven loose plates from the double Elephant Folio edition, all marked with Havell's name, are also included. One of these, the White-headed Eagle, appears in both uncolored and colored format. Several modern reprints of Audubon's birds can also be found in this series.</p>
-                    <p>Prints are arranged by plate number, where known.</p>
-                </scopecontent>
-                <c id="ref14" level="subseries">
-                    <did>
-                        <unittitle>Pattern Proof Prints</unittitle>
-                    </did>
-                    <c id="ref15" level="item">
-                        <did>
-                            <unittitle>Common Yellow Throat [Plate 24]</unittitle>
-                            <container id="cid511762" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511762" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref16" level="item">
-                        <did>
-                            <unittitle>Kentucky Warbler [Plate 38]</unittitle>
-                            <container id="cid511761" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511761" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref17" level="item">
-                        <did>
-                            <unittitle>Chestnut Sided Warbler [Plate 59]</unittitle>
-                            <container id="cid511760" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511760" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref18" level="item">
-                        <did>
-                            <unittitle>Autumnal Warbler [Plate 88]</unittitle>
-                            <container id="cid511759" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511759" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref19" level="item">
-                        <did>
-                            <unittitle>Carolina Titmouse [Plate 160]</unittitle>
-                            <container id="cid511758" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511758" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref20" level="item">
-                        <did>
-                            <unittitle>Orange Crowned Warbler [Plate 178]</unittitle>
-                            <container id="cid511757" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511757" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref21" level="item">
-                        <did>
-                            <unittitle>Tree Sparrow [Plate 188]</unittitle>
-                            <container id="cid511756" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511756" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref22" level="item">
-                        <did>
-                            <unittitle>Manx Shearwater [Plate 295]</unittitle>
-                            <container id="cid511755" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511755" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref23" level="item">
-                        <did>
-                            <unittitle>Yellow Breasted Rail [Plate 329]</unittitle>
-                            <container id="cid511754" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511754" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref24" level="item">
-                        <did>
-                            <unittitle>American Widgeon [Plate 345]</unittitle>
-                            <container id="cid511753" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511753" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref25" level="item">
-                        <did>
-                            <unittitle>Rocky Mountain Plover [Plate 350]</unittitle>
-                            <container id="cid511752" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511752" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref26" level="item">
-                        <did>
-                            <unittitle>Lapland Longspur [Plate 365]</unittitle>
-                            <container id="cid511751" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511751" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref27" level="item">
-                        <did>
-                            <unittitle>Golden Winged Warbler [Plate 414]</unittitle>
-                            <container id="cid511750" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511750" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref28" level="item">
-                        <did>
-                            <unittitle>Tawny Thrush/Townsend's Thrush &amp; Canada Jay [Plate 419]</unittitle>
-                            <container id="cid511749" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511749" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref29" level="item">
-                        <did>
-                            <unittitle>Western Duck [Plate 429]</unittitle>
-                            <container id="cid511748" type="Box" label="Mixed Materials">1</container>
-                            <container parent="cid511748" type="Folder"></container>
-                            <unitdate>1827-1838</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref30" level="subseries">
-                    <did>
-                        <unittitle>Loose Plates</unittitle>
-                    </did>
-                    <scopecontent id="ref39">
-                        <head>Scope and Contents note</head>
-                        <p>These prints are housed flat in a map case.</p>
-                    </scopecontent>
-                    <c id="ref31" level="item">
-                        <did>
-                            <unittitle>White-headed Eagle [Plate 31]</unittitle>
-                            <container id="cid511747" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511747" type="Folder">1</container>
-                            <unitdate>1828</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref32" level="item">
-                        <did>
-                            <unittitle>House Wren [Plate 83]</unittitle>
-                            <container id="cid511746" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511746" type="Folder">1</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref33" level="item">
-                        <did>
-                            <unittitle>Connecticut Warbler [Plate 138]</unittitle>
-                            <container id="cid511745" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511745" type="Folder">1</container>
-                            <unitdate>1832</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref34" level="item">
-                        <did>
-                            <unittitle>Sooty Tern [Plate 235]</unittitle>
-                            <container id="cid511744" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511744" type="Folder">1</container>
-                            <unitdate>1834</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref35" level="item">
-                        <did>
-                            <unittitle>Great Marbled Godwit [Plate 238]</unittitle>
-                            <container id="cid511743" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511743" type="Folder">1</container>
-                            <unitdate>1835</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref36" level="item">
-                        <did>
-                            <unittitle>Tell-tale Godwit or Snipe [Plate 308]</unittitle>
-                            <container id="cid511742" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511742" type="Folder">1</container>
-                            <unitdate>1836</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref37" level="item">
-                        <did>
-                            <unittitle>Redheaded Duck [Plate 322]</unittitle>
-                            <container id="cid511741" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511741" type="Folder">1</container>
-                            <unitdate>1836</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref38" level="item">
-                        <did>
-                            <unittitle>Trumpeter Swan [Plate 376]</unittitle>
-                            <container id="cid511740" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511740" type="Folder">1</container>
-                            <unitdate>1837</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref40" level="subseries">
-                    <did>
-                        <unittitle>Facsimiles and Reproductions</unittitle>
-                    </did>
-                    <scopecontent id="ref53">
-                        <head>Scope and Contents note</head>
-                        <p>These prints are housed flat in a map case.</p>
-                    </scopecontent>
-                    <c id="ref41" level="item">
-                        <did>
-                            <unittitle>Great Egret</unittitle>
-                            <container id="cid511739" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511739" type="Folder">2</container>
-                            <unitdate>1977</unitdate>
-                        </did>
-                        <odd id="ref42">
-                            <head>General note</head>
-                            <p>Printed by the National Audubon Society</p>
-                        </odd>
-                    </c>
-                    <c id="ref43" level="item">
-                        <did>
-                            <unittitle>Canvas Backed Duck</unittitle>
-                            <container id="cid511738" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511738" type="Folder">2</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                        <odd id="ref44">
-                            <head>General note</head>
-                            <p>Printed by R. R. Donnelley &amp; Sons, courtesy of the Field Museum of Natural History</p>
-                        </odd>
-                    </c>
-                    <c id="ref45" level="item">
-                        <did>
-                            <unittitle>American White Pelican</unittitle>
-                            <container id="cid511737" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511737" type="Folder">2</container>
-                            <unitdate>1985</unitdate>
-                        </did>
-                        <odd id="ref46">
-                            <head>General note</head>
-                            <p>No. 152 of 500, printed by Princeton Audubon, Ltd</p>
-                        </odd>
-                    </c>
-                    <c id="ref47" level="item">
-                        <did>
-                            <unittitle>Wild Turkey</unittitle>
-                            <container id="cid511736" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511736" type="Folder">2</container>
-                            <unitdate>1985</unitdate>
-                        </did>
-                        <odd id="ref48">
-                            <head>General note</head>
-                            <p>No. 135 of 500, printed by Princeton Audubon, Ltd</p>
-                        </odd>
-                    </c>
-                    <c id="ref49" level="item">
-                        <did>
-                            <unittitle>Purple Heron</unittitle>
-                            <container id="cid511735" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511735" type="Folder">2</container>
-                            <unitdate>1985</unitdate>
-                        </did>
-                        <odd id="ref50">
-                            <head>General note</head>
-                            <p>No. 140 of 1500, printed by Princeton Audubon, Ltd</p>
-                        </odd>
-                    </c>
-                    <c id="ref51" level="item">
-                        <did>
-                            <unittitle>Brown Pelican</unittitle>
-                            <container id="cid511734" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid511734" type="Folder">2</container>
-                            <unitdate>1985</unitdate>
-                        </did>
-                        <odd id="ref52">
-                            <head>General note</head>
-                            <p>No. 1136 of 1500, printed by Princeton Audubon, Ltd</p>
-                        </odd>
-                    </c>
-                </c>
-            </c>
-            <c id="ref55" level="series">
-                <did>
-                    <unittitle>Series II: 
-                        <title render="italic">Viviparous Quadrupeds of North America </title></unittitle>
-                </did>
-                <scopecontent id="ref62">
-                    <head>Scope and Contents note</head>
-                    <p>Series II. 
-                        <title render="italic">Viviparous Quadrupeds of North America </title> was issued from 1845 to 1848. Six loose plates of small animals from that book are held here. All are hand colored lithographs by J. T. Bowen after drawings by John James Audubon.</p>
-                    <p>These prints are housed flat in a map case.</p>
-                </scopecontent>
-                <c id="ref56" level="item">
-                    <did>
-                        <unittitle>Common American Wildcat [Plate 1]</unittitle>
-                        <container id="cid511733" type="Box" label="Mixed Materials"></container>
-                        <container parent="cid511733" type="Folder">3</container>
-                        <unitdate>1842</unitdate>
-                    </did>
-                </c>
-                <c id="ref57" level="item">
-                    <did>
-                        <unittitle>Cat Squirrel [Plate 17]</unittitle>
-                        <container id="cid511732" type="Box" label="Mixed Materials"></container>
-                        <container parent="cid511732" type="Folder">3</container>
-                        <unitdate>1843</unitdate>
-                    </did>
-                </c>
-                <c id="ref58" level="item">
-                    <did>
-                        <unittitle>Red-tailed Squirrel [Plate 55]</unittitle>
-                        <container id="cid511731" type="Box" label="Mixed Materials"></container>
-                        <container parent="cid511731" type="Folder">3</container>
-                        <unitdate>1844</unitdate>
-                    </did>
-                </c>
-                <c id="ref59" level="item">
-                    <did>
-                        <unittitle>Brindled Weasel [Plate 60]</unittitle>
-                        <container id="cid511730" type="Box" label="Mixed Materials"></container>
-                        <container parent="cid511730" type="Folder">3</container>
-                        <unitdate>1845</unitdate>
-                    </did>
-                </c>
-                <c id="ref60" level="item">
-                    <did>
-                        <unittitle>Brewer's Shrew Mole [Plate 74]</unittitle>
-                        <container id="cid511729" type="Box" label="Mixed Materials"></container>
-                        <container parent="cid511729" type="Folder">3</container>
-                        <unitdate>1845</unitdate>
-                    </did>
-                </c>
-                <c id="ref61" level="item">
-                    <did>
-                        <unittitle>Carolina Shrew [Plate 75]</unittitle>
-                        <container id="cid511728" type="Box" label="Mixed Materials"></container>
-                        <container parent="cid511728" type="Folder">3</container>
-                        <unitdate>1845</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref63" level="series">
-                <did>
-                    <unittitle>Series III: Miscellaneous</unittitle>
-                </did>
-                <scopecontent id="ref70">
-                    <head>Scope and Contents note</head>
-                    <p>Series III contains nineteenth century material that does not readily fit into the above two series. A lithograph of a "Marsh Hen," by the firm Childs &amp; Inman of Philadelphia and published in 1832, is one of a very few known copies of this print; the only one of Audubon's birds to be separately printed in this format. Little documentary evidence exists of Audubon's foray into lithography, but the print is thought to have been drawn on stone by Albert Newsam in the summer of 1832.</p>
-                    <p>Included in this series are four of John James Audubon's calling cards; all but one note his distinction as a "Fellow of the Royal Linnean Societies of London." A prospectus dated June 1834 announces the forthcoming publication of the double Elephant folio of Birds of America, and seeks subscribers. The series also includes a title page from and another prospectus for the 1860 double Elephant size reissue of Birds of America, with chromolithography by J. Bien, which was published by Roe, Lockwood, &amp; Son, of New York.</p>
-                </scopecontent>
-                <c id="ref64" level="item">
-                    <did>
-                        <unittitle>Marsh Hen [no plate marking]</unittitle>
-                        <container id="cid511727" type="Box" label="Mixed Materials"></container>
-                        <container parent="cid511727" type="Folder">4</container>
-                        <unitdate>1832</unitdate>
-                    </did>
-                    <odd id="ref65">
-                        <head>General note</head>
-                        <p>Lithograph, drawn and printed by Childs &amp; Inman, Philadelphia</p>
-                    </odd>
-                </c>
-                <c id="ref66" level="item">
-                    <did>
-                        <unittitle>Title Page from 
-                            <title render="italic">Birds of America</title>, edition of 1860, published in New York by Roe, Lockwood &amp; Son, New York, chromolithography by J. Bien</unittitle>
-                        <container id="cid511726" type="Box" label="Mixed Materials"></container>
-                        <container parent="cid511726" type="Folder">5</container>
-                        <unitdate>1860</unitdate>
-                    </did>
-                </c>
-                <c id="ref67" level="item">
-                    <did>
-                        <unittitle>John James Audubon, four calling cards, three as "Fellow of the Royal Linnean Societies of London"</unittitle>
-                        <container id="cid511725" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511725" type="Folder">6</container>
-                        <unitdate>[1820-1839]</unitdate>
-                    </did>
-                </c>
-                <c id="ref68" level="item">
-                    <did>
-                        <unittitle>Brochure advertising double Elephant Folio edition of Audubon's 
-                            <title render="italic">Birds of America</title></unittitle>
-                        <container id="cid511724" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511724" type="Folder">7</container>
-                        <unitdate>1834</unitdate>
-                    </did>
-                </c>
-                <c id="ref69" level="item">
-                    <did>
-                        <unittitle>Brochure advertising double Elephant Folio and Octavo chromolithography editions of Audubon's 
-                            <title render="italic">Birds of America</title> and 
-                            <title render="italic">Viviparous Quadrupeds</title>, as well as a stand on which to display the book. Published by George Lockwood, 812 Broadway, New York.</unittitle>
-                        <container id="cid511723" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511723" type="Folder">8</container>
-                        <unitdate>[1860]</unitdate>
-                    </did>
-                </c>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">audubon</eadid><filedesc><titlestmt><titleproper>Guide to the John James Audubon Print Collection<lb/><date>[1820]-1860, 1985</date><lb/><num> </num> <num>PR 162</num></titleproper><author>Collection processed by Jenny Gotwals</author></titlestmt><editionstmt><p>This version was derived from audubon.xml</p></editionstmt><publicationstmt><publisher>New-York Historical Society</publisher><address><addressline>New-York Historical Society</addressline><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Phone: (212) 873-3400</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-07-19T19:58:30</date></creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>John James Audubon print collection</unittitle>
+    <unitid>PR 162</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.88 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes, 1 drawer)</extent>
+    </physdesc>
+    <unitdate normal="0/0" type="inclusive">[1820]-1860, 1985 (bulk 1832-1845)</unitdate>
+    <abstract id="aspace_d5590d47a5e054bf6841d79504d80d16">The Audubon print collection contains hand-colored aquatints, lithographs, chromolithographs, and items of ephemera of or pertaining to the work of John James Audubon, including both original prints from his famous color-plate books of natural history, and later, derivative prints of the same.</abstract>
+  </did>
+  <custodhist id="aspace_0ed47da08a75545c721b670875544ccf">
+    <head>Provenance</head>
+<p>The collection is mainly comprised of gifts from a variety of donors. The proof prints were purchased in 1947.</p>  </custodhist>
+  <accessrestrict id="aspace_d81219d37d5cc46981a5c04e88795ef5">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p><p>Photocopying undertaken by staff only. Limited to thirty exposures of stable, unbound material per day. See guidelines in Print Room for details.</p>  </accessrestrict>
+  <userestrict id="aspace_9dbd5c8921d429ad3f7c1b1c9d02037c">
+    <head>Use Restrictions</head>
+<p>Permission to reproduce any Print Room holdings through publication must be obtained from: <lb/><address><addressline>Rights and Reproductions<lb/></addressline><addressline>The New-York Historical Society<lb/>Two West 77th Street<lb/>New York, NY 10024</addressline><addressline>Phone: (212) 873-3400 ext. 282</addressline><addressline>Fax: (212) 579-8794</addressline></address></p>  </userestrict>
+  <prefercite id="aspace_21a3595f2c9af90bba69e43139c7bb66">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as John James Audubon Print Collection, PR 162, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_bd9cbabc062adeaf1246cafc6cd2ea45">
+    <head>Biographical Note</head>
+
+
+  </bioghist>
+  <scopecontent id="aspace_41be14fdfeb2e0149add9cddd1905757">
+    <head>Scope and Content Note</head>
+<p>The John James Audubon Print Collection spans the period from ca. 1827-1860, and 1977 to 1986 and contains both original prints from Audubon's famous color-plate books of natural history, and later derivatives. The collection is divided into three series: <title render="italic">Birds of America</title>;<title render="italic">Viviparous Quadrupeds of North America </title>; and Miscellaneous.</p>  </scopecontent>
+  <arrangement id="aspace_f1a2dcf798d74f97712ce3d75cd61f76">
+    <head>Arrangement</head>
+<p>The collection is divided into three series.</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I. <title render="italic">Birds of America</title></item>
+      <item>Series II. <title render="italic">Viviparous Quadrupeds of North America </title></item>
+      <item>Series III. Miscellaneous</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_61e7db735e46ad28cfd01c96eb7a3625">
+    <head>Related Material at the New-York Historical Society</head>
+<p>Portraits of John James Audubon and his family can be found in the Portrait File (PR 052). The Department of Prints, Photographs, and Architectural Collections also holds a double Elephant folio set of Audubon's <title render="italic">Birds of America</title>, and the N-YHS Library has an Octavo set of the same. The Manuscripts Department holds some of Audubon's correspondence. The N-YHS Museum holds Audubon's original watercolors for <title render="italic">Birds of America</title>, as well as other work by Audubon, including an empty marbleized paper and leather portfolio, of double Elephant folio size, with "Birds of America" printed on the cover, which was used by Audubon himself to carry his watercolors or sample prints as samples to show to potential subscribers.</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Visiting cards</genreform>
+    <genreform source="aat">Proofs</genreform>
+    <genreform source="aat">Lithographs</genreform>
+    <genreform source="aat">Ephemera</genreform>
+    <genreform source="aat">Chromolithographs</genreform>
+    <genreform source="aat">Circulars</genreform>
+    <genreform source="aat">Aquatints</genreform>
+    <subject source="lcsh">Prints -- Coloring</subject>
+    <subject source="lcsh">Natural history -- United States -- Pictorial works</subject>
+    <subject source="lcsh">Birds -- United States -- Pictorial works</subject>
+    <persname source="ingest">Audubon, John James, 1785-1851. Birds of America</persname>
+    <persname source="ingest">Audubon, John James, 1785-1851. Viviparous quadrupeds of North America</persname>
+    <corpname source="ingest">Childs &amp; Inman</corpname>
+    <persname source="ingest">Havell, Robert, 1793-1878</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13_epj" level="series"><did><unittitle>Series I: <title render="italic">Birds of America</title></unittitle><unitid audience="internal" identifier="42012" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42012</unitid></did><scopecontent id="aspace_bc83ebfceb4e58f734a0da65f0e3415a"><head>Scope and Contents note</head><p>Series I. <title render="italic">Birds of America</title> contains material related to the original double Elephant folio publication of <title render="italic">Birds of America</title>, published in numbers from 1827 to 1838. Plates for this edition were aquatinted by Robert Havell, Jr., after drawings by Audubon, and were hand-colored both by Havell's studio staff and Audubon's wife and children. This series is arranged into three subseries: Pattern Proof Prints, Loose Plates, and Facsimiles and Reproductions.</p><p>The fifteen color proof prints were used as patterns for the colorists of the aquatints. These sheets give primary and detailed evidence about the coloring process; several have penciled color notations, and one has a notation for textual change. Eleven loose plates from the double Elephant Folio edition, all marked with Havell's name, are also included. One of these, the White-headed Eagle, appears in both uncolored and colored format. Several modern reprints of Audubon's birds can also be found in this series. </p><p>Prints are arranged by plate number, where known. </p></scopecontent><c id="aspace_ref14_v7n" level="subseries"><did><unittitle>Pattern Proof Prints</unittitle><unitid audience="internal" identifier="42029" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42029</unitid></did><c id="aspace_ref15_0w5" level="item"><did><unittitle>Common Yellow Throat [Plate 24]</unittitle><unitid audience="internal" identifier="42044" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42044</unitid><unitdate>1827-1838</unitdate><container id="aspace_5eda87ce81fadd25e8478e808465ed74" label="Mixed Materials" type="Box">1</container><container parent="aspace_5eda87ce81fadd25e8478e808465ed74" type="Folder">unknown container</container></did></c><c id="aspace_ref16_kyx" level="item"><did><unittitle>Kentucky Warbler [Plate 38]</unittitle><unitid audience="internal" identifier="42043" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42043</unitid><unitdate>1827-1838</unitdate><container id="aspace_e31e53d5c3bff809a598ece09746f784" label="Mixed Materials" type="Box">1</container><container parent="aspace_e31e53d5c3bff809a598ece09746f784" type="Folder">unknown container</container></did></c><c id="aspace_ref17_h6x" level="item"><did><unittitle>Chestnut Sided Warbler [Plate 59]</unittitle><unitid audience="internal" identifier="42042" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42042</unitid><unitdate>1827-1838</unitdate><container id="aspace_3b8c81082a48552b3a38781dfee7c1cc" label="Mixed Materials" type="Box">1</container><container parent="aspace_3b8c81082a48552b3a38781dfee7c1cc" type="Folder">unknown container</container></did></c><c id="aspace_ref18_w7e" level="item"><did><unittitle>Autumnal Warbler [Plate 88]</unittitle><unitid audience="internal" identifier="42041" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42041</unitid><unitdate>1827-1838</unitdate><container id="aspace_bb71433aa60cc0d434fe8ac9d73ec828" label="Mixed Materials" type="Box">1</container><container parent="aspace_bb71433aa60cc0d434fe8ac9d73ec828" type="Folder">unknown container</container></did></c><c id="aspace_ref19_16s" level="item"><did><unittitle>Carolina Titmouse [Plate 160]</unittitle><unitid audience="internal" identifier="42040" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42040</unitid><unitdate>1827-1838</unitdate><container id="aspace_c40559b7ff6526392404649c3f8def49" label="Mixed Materials" type="Box">1</container><container parent="aspace_c40559b7ff6526392404649c3f8def49" type="Folder">unknown container</container></did></c><c id="aspace_ref20_z5d" level="item"><did><unittitle>Orange Crowned Warbler [Plate 178]</unittitle><unitid audience="internal" identifier="42039" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42039</unitid><unitdate>1827-1838</unitdate><container id="aspace_899338a2e9738d13f2dd01a7e5d83155" label="Mixed Materials" type="Box">1</container><container parent="aspace_899338a2e9738d13f2dd01a7e5d83155" type="Folder">unknown container</container></did></c><c id="aspace_ref21_3of" level="item"><did><unittitle>Tree Sparrow [Plate 188]</unittitle><unitid audience="internal" identifier="42038" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42038</unitid><unitdate>1827-1838</unitdate><container id="aspace_bd98e83c5162009bcfb1f7f81ba4dc51" label="Mixed Materials" type="Box">1</container><container parent="aspace_bd98e83c5162009bcfb1f7f81ba4dc51" type="Folder">unknown container</container></did></c><c id="aspace_ref22_sjx" level="item"><did><unittitle>Manx Shearwater [Plate 295]</unittitle><unitid audience="internal" identifier="42037" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42037</unitid><unitdate>1827-1838</unitdate><container id="aspace_3794e496a2c1aefb30e2d8d83f62c1d2" label="Mixed Materials" type="Box">1</container><container parent="aspace_3794e496a2c1aefb30e2d8d83f62c1d2" type="Folder">unknown container</container></did></c><c id="aspace_ref23_8cc" level="item"><did><unittitle>Yellow Breasted Rail [Plate 329]</unittitle><unitid audience="internal" identifier="42036" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42036</unitid><unitdate>1827-1838</unitdate><container id="aspace_a094cda4afc0dca6f8d78311e5d486cb" label="Mixed Materials" type="Box">1</container><container parent="aspace_a094cda4afc0dca6f8d78311e5d486cb" type="Folder">unknown container</container></did></c><c id="aspace_ref24_wcv" level="item"><did><unittitle>American Widgeon [Plate 345]</unittitle><unitid audience="internal" identifier="42035" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42035</unitid><unitdate>1827-1838</unitdate><container id="aspace_f3fa4cdf6a6ef5fddb1932e770e70ca9" label="Mixed Materials" type="Box">1</container><container parent="aspace_f3fa4cdf6a6ef5fddb1932e770e70ca9" type="Folder">unknown container</container></did></c><c id="aspace_ref25_nsb" level="item"><did><unittitle>Rocky Mountain Plover [Plate 350]</unittitle><unitid audience="internal" identifier="42034" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42034</unitid><unitdate>1827-1838</unitdate><container id="aspace_bd9e9bb5913e7eb76cab70c74b4d2e90" label="Mixed Materials" type="Box">1</container><container parent="aspace_bd9e9bb5913e7eb76cab70c74b4d2e90" type="Folder">unknown container</container></did></c><c id="aspace_ref26_z9f" level="item"><did><unittitle>Lapland Longspur [Plate 365]</unittitle><unitid audience="internal" identifier="42033" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42033</unitid><unitdate>1827-1838</unitdate><container id="aspace_67853fff0eaf95a0770b280dd6879829" label="Mixed Materials" type="Box">1</container><container parent="aspace_67853fff0eaf95a0770b280dd6879829" type="Folder">unknown container</container></did></c><c id="aspace_ref27_zpk" level="item"><did><unittitle>Golden Winged Warbler [Plate 414]</unittitle><unitid audience="internal" identifier="42032" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42032</unitid><unitdate>1827-1838</unitdate><container id="aspace_1650156fdae28776bdc22b424334aadd" label="Mixed Materials" type="Box">1</container><container parent="aspace_1650156fdae28776bdc22b424334aadd" type="Folder">unknown container</container></did></c><c id="aspace_ref28_6ia" level="item"><did><unittitle>Tawny Thrush/Townsend's Thrush &amp; Canada Jay [Plate 419]</unittitle><unitid audience="internal" identifier="42031" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42031</unitid><unitdate>1827-1838</unitdate><container id="aspace_73b166a1cb80f59c8b2a93ac11ff7da6" label="Mixed Materials" type="Box">1</container><container parent="aspace_73b166a1cb80f59c8b2a93ac11ff7da6" type="Folder">unknown container</container></did></c><c id="aspace_ref29_d94" level="item"><did><unittitle>Western Duck [Plate 429]</unittitle><unitid audience="internal" identifier="42030" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42030</unitid><unitdate>1827-1838</unitdate><container id="aspace_a4458965b8d67fe4b74f98b5b7f736f9" label="Mixed Materials" type="Box">1</container><container parent="aspace_a4458965b8d67fe4b74f98b5b7f736f9" type="Folder">unknown container</container></did></c></c><c id="aspace_ref30_nex" level="subseries"><did><unittitle>Loose Plates</unittitle><unitid audience="internal" identifier="42020" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42020</unitid></did><scopecontent id="aspace_639952fa1bb72272386298e15c265c87"><head>Scope and Contents note</head><p>These prints are housed flat in a map case.</p></scopecontent><c id="aspace_ref31_f8c" level="item"><did><unittitle>White-headed Eagle [Plate 31]</unittitle><unitid audience="internal" identifier="42028" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42028</unitid><unitdate>1828</unitdate><container id="aspace_1780276e02f318979bf0f9250ef6bf57" label="Mixed Materials" type="Box">Unknown container 689 for instance of White-headed Eagle [Plate 31]</container><container parent="aspace_1780276e02f318979bf0f9250ef6bf57" type="Folder">1</container></did></c><c id="aspace_ref32_t7k" level="item"><did><unittitle>House Wren [Plate 83]</unittitle><unitid audience="internal" identifier="42027" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42027</unitid><unitdate>undated</unitdate><container id="aspace_352304435b795469f8251fa658465f66" label="Mixed Materials" type="Box">Unknown container 690 for instance of House Wren [Plate 83]</container><container parent="aspace_352304435b795469f8251fa658465f66" type="Folder">1</container></did></c><c id="aspace_ref33_hkw" level="item"><did><unittitle>Connecticut Warbler [Plate 138]</unittitle><unitid audience="internal" identifier="42026" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42026</unitid><unitdate>1832</unitdate><container id="aspace_7fd21b2f9b08eab5c5e33a9e12cd5f12" label="Mixed Materials" type="Box">Unknown container 691 for instance of Connecticut Warbler [Plate 138]</container><container parent="aspace_7fd21b2f9b08eab5c5e33a9e12cd5f12" type="Folder">1</container></did></c><c id="aspace_ref34_20k" level="item"><did><unittitle>Sooty Tern [Plate 235]</unittitle><unitid audience="internal" identifier="42025" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42025</unitid><unitdate>1834</unitdate><container id="aspace_3ee9b5ec30ac6d4ad070ec85784c2956" label="Mixed Materials" type="Box">Unknown container 692 for instance of Sooty Tern [Plate 235]</container><container parent="aspace_3ee9b5ec30ac6d4ad070ec85784c2956" type="Folder">1</container></did></c><c id="aspace_ref35_fa5" level="item"><did><unittitle>Great Marbled Godwit [Plate 238]</unittitle><unitid audience="internal" identifier="42024" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42024</unitid><unitdate>1835</unitdate><container id="aspace_122f43d8adee880c63b3012d80083fe9" label="Mixed Materials" type="Box">Unknown container 693 for instance of Great Marbled Godwit [Plate 238]</container><container parent="aspace_122f43d8adee880c63b3012d80083fe9" type="Folder">1</container></did></c><c id="aspace_cb6a34375282d8d32b3c952f8ffeca7c" level="item"><did><unittitle>Red-necked Grebe [Plate 298]</unittitle><unitdate type="inclusive">1836</unitdate><container id="aspace_b9079948381471e37dab9e03b2fa4401" label="Mixed Materials" type="Folder">1</container></did></c><c id="aspace_ref36_j5g" level="item"><did><unittitle>Tell-tale Godwit or Snipe [Plate 308]</unittitle><unitid audience="internal" identifier="42023" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42023</unitid><unitdate>1836</unitdate><container id="aspace_d0b1ab9f4bd37e86645d1eaf9a480777" label="Mixed Materials" type="Box">Unknown container 694 for instance of Tell-tale Godwit or Snipe [Plate 308]</container><container parent="aspace_d0b1ab9f4bd37e86645d1eaf9a480777" type="Folder">1</container></did></c><c id="aspace_ref37_wcr" level="item"><did><unittitle>Redheaded Duck [Plate 322]</unittitle><unitid audience="internal" identifier="42022" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42022</unitid><unitdate>1836</unitdate><container id="aspace_ee4dce02dbcc322f203b0b7f2ce2aad5" label="Mixed Materials" type="Box">Unknown container 695 for instance of Redheaded Duck [Plate 322]</container><container parent="aspace_ee4dce02dbcc322f203b0b7f2ce2aad5" type="Folder">1</container></did></c><c id="aspace_ref38_lyd" level="item"><did><unittitle>Trumpeter Swan [Plate 376]</unittitle><unitid audience="internal" identifier="42021" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42021</unitid><unitdate>1837</unitdate><container id="aspace_a443ed551f48137081b4c588637b9ee0" label="Mixed Materials" type="Box">Unknown container 696 for instance of Trumpeter Swan [Plate 376]</container><container parent="aspace_a443ed551f48137081b4c588637b9ee0" type="Folder">1</container></did></c></c><c id="aspace_ref40_ng7" level="subseries"><did><unittitle>Facsimiles and Reproductions</unittitle><unitid audience="internal" identifier="42013" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42013</unitid></did><scopecontent id="aspace_079417f91e1a0e9c28c957d3cf7eac55"><head>Scope and Contents note</head><p>These prints are housed flat in a map case.</p></scopecontent><c id="aspace_ref41_yth" level="item"><did><unittitle>Great Egret</unittitle><unitid audience="internal" identifier="42019" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42019</unitid><unitdate>1977</unitdate><container id="aspace_a3d33eaa38258a66a9aaf727ecb74f49" label="Mixed Materials" type="Box">Unknown container 697 for instance of Great Egret</container><container parent="aspace_a3d33eaa38258a66a9aaf727ecb74f49" type="Folder">2</container></did><odd id="aspace_71ee6734f4b5af6beaba0ee07d377bb7"><head>General note</head><p>Printed by the National Audubon Society</p></odd></c><c id="aspace_ref43_9vi" level="item"><did><unittitle>Canvas Backed Duck</unittitle><unitid audience="internal" identifier="42018" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42018</unitid><unitdate>undated</unitdate><container id="aspace_509ce67d5662364079863aeca84cd939" label="Mixed Materials" type="Box">Unknown container 698 for instance of Canvas Backed Duck</container><container parent="aspace_509ce67d5662364079863aeca84cd939" type="Folder">2</container></did><odd id="aspace_efdba4acafa64caaac37ac28b1e9c779"><head>General note</head><p>Printed by R. R. Donnelley &amp; Sons, courtesy of the Field Museum of Natural History</p></odd></c><c id="aspace_ref45_glh" level="item"><did><unittitle>American White Pelican</unittitle><unitid audience="internal" identifier="42017" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42017</unitid><unitdate>1985</unitdate><container id="aspace_e5159668134b9304ae690ac887dbb72a" label="Mixed Materials" type="Box">Unknown container 699 for instance of American White Pelican</container><container parent="aspace_e5159668134b9304ae690ac887dbb72a" type="Folder">2</container></did><odd id="aspace_93fc85c7d37552f14bb749c261df8904"><head>General note</head><p>No. 152 of 500, printed by Princeton Audubon, Ltd</p></odd></c><c id="aspace_ref47_tfw" level="item"><did><unittitle>Wild Turkey</unittitle><unitid audience="internal" identifier="42016" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42016</unitid><unitdate>1985</unitdate><container id="aspace_c8fbb99db1d4e4e41aaa2fde0f70452c" label="Mixed Materials" type="Box">Unknown container 700 for instance of Wild Turkey</container><container parent="aspace_c8fbb99db1d4e4e41aaa2fde0f70452c" type="Folder">2</container></did><odd id="aspace_b1edca810e5e7dbf03abebdefc10f37f"><head>General note</head><p>No. 135 of 500, printed by Princeton Audubon, Ltd</p></odd></c><c id="aspace_ref49_9n1" level="item"><did><unittitle>Purple Heron</unittitle><unitid audience="internal" identifier="42015" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42015</unitid><unitdate>1985</unitdate><container id="aspace_7f581662d8e39c5b0b9d9eb7a1d334a7" label="Mixed Materials" type="Box">Unknown container 701 for instance of Purple Heron</container><container parent="aspace_7f581662d8e39c5b0b9d9eb7a1d334a7" type="Folder">2</container></did><odd id="aspace_ac4e6299855ebd61fc4f37f9286f25c4"><head>General note</head><p>No. 140 of 1500, printed by Princeton Audubon, Ltd</p></odd></c><c id="aspace_ref51_gr5" level="item"><did><unittitle>Brown Pelican</unittitle><unitid audience="internal" identifier="42014" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42014</unitid><unitdate>1985</unitdate><container id="aspace_a68e4abac3e48201f678a31771deab72" label="Mixed Materials" type="Box">Unknown container 702 for instance of Brown Pelican</container><container parent="aspace_a68e4abac3e48201f678a31771deab72" type="Folder">2</container></did><odd id="aspace_9212f0b22579d39f8f1402a004aa01c6"><head>General note</head><p>No. 1136 of 1500, printed by Princeton Audubon, Ltd</p></odd></c></c></c><c id="aspace_ref55_ith" level="series"><did><unittitle>Series II: <title render="italic">Viviparous Quadrupeds of North America </title></unittitle><unitid audience="internal" identifier="42005" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42005</unitid></did><scopecontent id="aspace_4aaf91fbbfd824eee12c88c6a71bfacb"><head>Scope and Contents note</head><p>Series II. <title render="italic">Viviparous Quadrupeds of North America </title> was issued from 1845 to 1848. Six loose plates of small animals from that book are held here. All are hand colored lithographs by J. T. Bowen after drawings by John James Audubon. </p><p>These prints are housed flat in a map case.</p></scopecontent><c id="aspace_ref56_28l" level="item"><did><unittitle>Common American Wildcat [Plate 1]</unittitle><unitid audience="internal" identifier="42011" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42011</unitid><unitdate>1842</unitdate><container id="aspace_f15e108660e35accdeec8808a5d5699b" label="Mixed Materials" type="Box">Unknown container 703 for instance of Common American Wildcat [Plate 1]</container><container parent="aspace_f15e108660e35accdeec8808a5d5699b" type="Folder">3</container></did></c><c id="aspace_ref57_t47" level="item"><did><unittitle>Cat Squirrel [Plate 17]</unittitle><unitid audience="internal" identifier="42010" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42010</unitid><unitdate>1843</unitdate><container id="aspace_9f9bc9c1e9fc8e904edda420c6afa84f" label="Mixed Materials" type="Box">Unknown container 704 for instance of Cat Squirrel [Plate 17]</container><container parent="aspace_9f9bc9c1e9fc8e904edda420c6afa84f" type="Folder">3</container></did></c><c id="aspace_ref58_j35" level="item"><did><unittitle>Red-tailed Squirrel [Plate 55]</unittitle><unitid audience="internal" identifier="42009" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42009</unitid><unitdate>1844</unitdate><container id="aspace_f165b47ac3ebb0f9e40b6cf18b568eb9" label="Mixed Materials" type="Box">Unknown container 705 for instance of Red-tailed Squirrel [Plate 55]</container><container parent="aspace_f165b47ac3ebb0f9e40b6cf18b568eb9" type="Folder">3</container></did></c><c id="aspace_ref59_ywo" level="item"><did><unittitle>Brindled Weasel [Plate 60]</unittitle><unitid audience="internal" identifier="42008" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42008</unitid><unitdate>1845</unitdate><container id="aspace_bf15447eef42c862f85b449626edd3c8" label="Mixed Materials" type="Box">Unknown container 706 for instance of Brindled Weasel [Plate 60]</container><container parent="aspace_bf15447eef42c862f85b449626edd3c8" type="Folder">3</container></did></c><c id="aspace_ref60_d67" level="item"><did><unittitle>Brewer's Shrew Mole [Plate 74]</unittitle><unitid audience="internal" identifier="42007" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42007</unitid><unitdate>1845</unitdate><container id="aspace_740985fedf606afc86e610ad424da9b7" label="Mixed Materials" type="Box">Unknown container 707 for instance of Brewer's Shrew Mole [Plate 74]</container><container parent="aspace_740985fedf606afc86e610ad424da9b7" type="Folder">3</container></did></c><c id="aspace_ref61_d1p" level="item"><did><unittitle>Carolina Shrew [Plate 75]</unittitle><unitid audience="internal" identifier="42006" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42006</unitid><unitdate>1845</unitdate><container id="aspace_65e5fa12f28ff2f71c8e2d1bf796e0d7" label="Mixed Materials" type="Box">Unknown container 708 for instance of Carolina Shrew [Plate 75]</container><container parent="aspace_65e5fa12f28ff2f71c8e2d1bf796e0d7" type="Folder">3</container></did></c></c><c id="aspace_ref63_ro0" level="series"><did><unittitle>Series III: Miscellaneous</unittitle><unitid audience="internal" identifier="41999" type="Archivists Toolkit Database::RESOURCE_COMPONENT">41999</unitid></did><scopecontent id="aspace_bf049547b6a261537bbc45fb72f5d3a9"><head>Scope and Contents note</head><p>Series III contains nineteenth century material that does not readily fit into the above two series. A lithograph of a "Marsh Hen," by the firm Childs and Inman of Philadelphia and published in 1832, is one of a very few known copies of this print; the only one of Audubon's birds to be separately printed in this format. Little documentary evidence exists of Audubon's foray into lithography, but the print is thought to have been drawn on stone by Albert Newsam in the summer of 1832.</p><p>Included in this series are four of John James Audubon's calling cards; all but one note his distinction as a "Fellow of the Royal Linnean Societies of London." A prospectus dated June 1834 announces the forthcoming publication of the double Elephant folio of Birds of America, and seeks subscribers. The series also includes a title page from and another prospectus for the 1860 double Elephant size reissue of Birds of America, with chromolithography by J. Bien, which was published by Roe, Lockwood, and Son, of New York. </p></scopecontent><c id="aspace_ref64_soq" level="item"><did><unittitle>Marsh Hen [no plate marking]</unittitle><unitid audience="internal" identifier="42004" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42004</unitid><unitdate>1832</unitdate><container id="aspace_a74222192190ebb358ce8998a179ac3b" label="Mixed Materials" type="Box">Unknown container 709 for instance of Marsh Hen [no plate marking]</container><container parent="aspace_a74222192190ebb358ce8998a179ac3b" type="Folder">4</container></did><odd id="aspace_20a1c2b69d4b561222ed9f652e7ee84e"><head>General note</head><p>Lithograph, drawn and printed by Childs and Inman, Philadelphia</p></odd></c><c id="aspace_ref66_gh2" level="item"><did><unittitle>Title Page from <title render="italic">Birds of America</title>, edition of 1860, published in New York by Roe, Lockwood &amp; Son, New York, chromolithography by J. Bien</unittitle><unitid audience="internal" identifier="42003" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42003</unitid><unitdate>1860</unitdate><container id="aspace_9e91ed6f2a3c88202cf7c92ba692ff81" label="Mixed Materials" type="Folder">5</container></did></c><c id="aspace_ref67_dax" level="item"><did><unittitle>John James Audubon, four calling cards, three as "Fellow of the Royal Linnean Societies of London"</unittitle><unitid audience="internal" identifier="42002" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42002</unitid><unitdate>[1820-1839]</unitdate><container id="aspace_2e88cf447ffe2a0a3c95aeab01979278" label="Mixed Materials" type="Box">2</container><container parent="aspace_2e88cf447ffe2a0a3c95aeab01979278" type="Folder">6</container></did></c><c id="aspace_ref68_itp" level="item"><did><unittitle>Brochure advertising double Elephant Folio edition of Audubon's <title render="italic">Birds of America</title></unittitle><unitid audience="internal" identifier="42001" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42001</unitid><unitdate>1834</unitdate><container id="aspace_96f1b788cd76cc73a4bc54f052ce7eae" label="Mixed Materials" type="Box">2</container><container parent="aspace_96f1b788cd76cc73a4bc54f052ce7eae" type="Folder">7</container></did></c><c id="aspace_ref69_2oa" level="item"><did><unittitle>Brochure advertising double Elephant Folio and Octavo chromolithography editions of Audubon's <title render="italic">Birds of America</title> and <title render="italic">Viviparous Quadrupeds</title>, as well as a stand on which to display the book. Published by George Lockwood, 812 Broadway, New York.</unittitle><unitid audience="internal" identifier="42000" type="Archivists Toolkit Database::RESOURCE_COMPONENT">42000</unitid><unitdate>[1860]</unitdate><container id="aspace_72a808db36a77a4fccdf2e33e0f749f2" label="Mixed Materials" type="Box">2</container><container parent="aspace_72a808db36a77a4fccdf2e33e0f749f2" type="Folder">8</container></did></c></c></dsc>
+</archdesc>
 </ead>
