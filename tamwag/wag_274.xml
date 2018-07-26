@@ -1,88 +1,46 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_274/index.html">wag_274</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the American Communications Association Records
-                    <num>WAG.274</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment Staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-02-11T16:34-0500</date>
-            </creation>
-            <langusage>Description is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>February 2015</date>
-                <item>Edited by Maggie Schreiner for DACS compliance and to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>American Communications Association Records</unittitle>
-            <unitid>WAG.274</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>1.0 linear feet</extent>
-                <extent>in 1 box</extent>
-            </physdesc>
-            <unitdate normal="1950/1969" type="inclusive">1950-1969</unitdate>
-            <langmaterial id="ref3" label="Language of Materials note">Materials are in English.</langmaterial>
-            <abstract id="ref12" label="Abstract">The American Communications Association (ACA) was formed in 1931 as the American Radio Telegraphists Association, a union representing telegraphists and radio operators. This collection contains pamphlets and newsletters concerning locals and organizing in the ACA from the 1950's and 1960's.</abstract>
-            <origination label="creator">
-                <corpname source="naf">American Communications Association.</corpname>
-            </origination>
-        </did>
-        <scopecontent id="ref1">
-            <head>Scope and Content Note</head>
-            <p>This collection contains pamphlets and newsletters concerning locals and organizing in the American Communications Association (ACA) from the 1950's and 1960's. Some of the material pertains to anti-Communist attacks on the organization. The collection also contains photographs of individuals and groups (including board members of various locals) probably used by the ACA News.</p>
-        </scopecontent>
-        <accessrestrict id="ref2">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2089. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <prefercite id="ref9">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; American Communications Association Records; WAG 274; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <acqinfo id="ref8">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Materials found in collection; provenance is unknown. The accession number 2008.013 is associated with these materials.</p>
-        </acqinfo>
-        <arrangement id="ref10">
-            <head>Arrangement</head>
-            <p>This collection has not been arranged by an archivist, materials are in the order in which they were received from the donor.</p>
-        </arrangement>
-        <bioghist id="ref11">
-            <head>Historical/Biographical Note</head>
-            <p>The American Communications Association (ACA) was formed in 1931 as the American Radio Telegraphists Association, a union representing telegraphists and radio operators. In 1938 the Communist-dominated union affiliated with the Congress of Industrial Organizations. During the 1940s, leaders of the ACA refused to sign the anti-communist affidavits required under the Taft-Hartley Act, claiming the oaths violated their First Amendment rights. The ACA sued is response to this provision of the Taft-Hartley Act, and in 1950 the United States Supreme Court ruled that the imposition of an anti-communist oath on labor union leaders does not violate the First Amendment.</p>
-        </bioghist>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_274/">wag_274</eadid><filedesc><titlestmt><titleproper>Guide to the American Communications Association Records <num>WAG.274</num></titleproper><author>Collection processed by Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-07-26T20:13:06</date></creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>American Communications Association Records</unittitle>
+    <origination label="creator">
+      <corpname source="naf">American Communications Association</corpname>
+    </origination>
+    <unitid>WAG.274</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in 1 box</extent>
+    </physdesc>
+    <unitdate normal="1950/1969" type="inclusive">1950-1969</unitdate>
+    <langmaterial id="aspace_cd54db90c1127e19027a5434b04b8ca1">Materials are in English.</langmaterial>
+    <abstract id="aspace_ee8bf6941b0d1070c0a549ada3e810c3">The American Communications Association (ACA) was formed in 1931 as the American Radio Telegraphists Association, a union representing telegraphists and radio operators. This collection contains pamphlets and newsletters concerning locals and organizing in the ACA from the 1950's and 1960's.</abstract>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_57b05ea5a807a005849389cc8d820119" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <scopecontent id="aspace_4a1b5cf0eac3af3c8f4e72e9e200d15a">
+    <head>Scope and Content Note</head>
+<p>This collection contains pamphlets and newsletters concerning locals and organizing in the American Communications Association (ACA) from the 1950's and 1960's. Some of the material pertains to anti-Communist attacks on the organization. The collection also contains photographs of individuals and groups (including board members of various locals) probably used by the ACA News.</p>  </scopecontent>
+  <accessrestrict id="aspace_7d5c977e2ff6521629a981c0f374629e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_edb464e85e5fd402293427085afafc9b">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1950-1969, are expected to enter the public domain in 2090.</p>  </userestrict>
+  <prefercite id="aspace_6b98c09f11238927ed928f207faa4edf">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; American Communications Association Records; WAG 274; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <acqinfo id="aspace_97101aa95fbb042f1cc32a231677f792">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository; provenance is unknown. The accession number associated with this collection is 2008.013.</p>  </acqinfo>
+  <arrangement id="aspace_303c651b2db8a3bcb8e726ae27e9d297">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist, materials are in the order in which they were received from the donor.</p>  </arrangement>
+  <bioghist id="aspace_1a306efda8b4e4a30b65dedc11db79c8">
+    <head>Historical/Biographical Note</head>
+<p>The American Communications Association (ACA) was formed in 1931 as the American Radio Telegraphists Association, a union representing telegraphists and radio operators. In 1938 the Communist-dominated union affiliated with the Congress of Industrial Organizations. During the 1940s, leaders of the ACA refused to sign the anti-communist affidavits required under the Taft-Hartley Act, claiming the oaths violated their First Amendment rights. The ACA sued is response to this provision of the Taft-Hartley Act, and in 1950 the United States Supreme Court ruled that the imposition of an anti-communist oath on labor union leaders does not violate the First Amendment.</p>  </bioghist>
+  <dsc/>
+</archdesc>
 </ead>
