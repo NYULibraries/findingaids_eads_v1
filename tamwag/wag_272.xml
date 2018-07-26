@@ -1,87 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_272/index.html">wag_272</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Al Viani Papers
-                    <num>WAG.272</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment Staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>undated</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-05-06T16:04-0400</date>
-            </creation>
-            <langusage>Description is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>February 2015</date>
-                <item>Edited by Maggie Schreiner for DACS compliance and to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Al Viani Papers</unittitle>
-            <unitid>WAG.272</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>1.5 linear feet</extent>
-                <extent>in 2 boxes</extent>
-            </physdesc>
-            <unitdate>undated</unitdate>
-            <abstract id="ref9" label="Abstract">Al Viani was the president of the Local in 1964 during the Welfare Department strike of January 1965. This collection is made up primarily of correspondence and press clippings from Viani's days with Local 371, including a scrapbook he kept of the events of January to February 1965.</abstract>
-            <origination label="creator">
-                <persname source="local">Viani, Alan</persname>
-            </origination>
-        </did>
-        <userestrict id="ref8">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2135. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <accessrestrict id="ref7">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Materials found in collection; provenance is unknown. The accession number 1950.276 is associated with this collection.</p>
-        </acqinfo>
-        <prefercite id="ref5">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Al Viani Papers; WAG 272; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <arrangement id="ref4">
-            <head>Arrangement</head>
-            <p>This collection has not been arranged by an archivist, materials are in the order in which they were received from the donor.</p>
-        </arrangement>
-        <scopecontent id="ref3">
-            <head>Scope and Content Note</head>
-            <p>This collection is made up primarily of correspondence and press clippings from Viani's days with Local 371, including a scrapbook he kept of the events of January to February 1965. There is a small amount of additional materials pertaining to the rest of his career.</p>
-        </scopecontent>
-        <bioghist id="ref1">
-            <head>Historical/Biographical Note</head>
-            <p>Al Viani joined Local 371, AFSCME on the first day he came to work for the NYC Department of Social Services in 1961. He became president of the Local in 1964, a position he held during the Welfare Department strike of January 1965. With other members of the Local's Executive Board, along with the leaders of the Social Service Employees Union (SSEU), Viani spent 12 days in jail for defying the Condon-Wadlin law by refusing to order the membership back to work. In 1968 he left the local to become the assistant director of, District Council 37's Research and Negotiations section. He became its director in 1973. In 1986 he left DC 37 to become the Deputy Director of the Office of Collective Bargaining (OCB), an agency that was established as a direct result of that 1965 strike. He retired in December of 1992. Although retired he is still active as a labor negotiator and was one of the people brought in to help end the New York City transit strike of 2005.</p>
-        </bioghist>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_272/">wag_272</eadid><filedesc><titlestmt><titleproper>Guide to the Al Viani Papers <num>WAG.272</num></titleproper><author>Collection processed by Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-07-26T19:44:19</date></creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Al Viani Papers</unittitle>
+    <origination label="creator">
+      <persname rules="dacs" source="local">Viani, Alan</persname>
+    </origination>
+    <unitid>WAG.272</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      <extent altrender="carrier">in 2 boxes</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <abstract id="aspace_c96293fcbe3ce7aa255057065aec92f0">Al Viani was the president of the Local in 1964 during the Welfare Department strike of January 1965. This collection is made up primarily of correspondence and press clippings from Viani's days with Local 371, including a scrapbook he kept of the events of January to February 1965.</abstract>
+    <container altrender="Record carton" id="aspace_13259e5612da91c7857ac88d2f8a9b2f" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <userestrict id="aspace_0d4df4ee38b4ad0e429dcb1ba70a4bba">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection are expected to enter the public domain in 120 years after their date of creation.</p>  </userestrict>
+  <accessrestrict id="aspace_d3e4ce7ce514748fb3cf1d64cb4a69fe">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_bc4db9829e7696d96d2d046498ef363f">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository; provenance is unknown. The accession number associated with this collection is 1950.276.</p>  </acqinfo>
+  <prefercite id="aspace_44c0305486a3b9491ce0f67449d042cc">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Al Viani Papers; WAG 272; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <arrangement id="aspace_b75729e22a5d6fe735a1d71b7f66e708">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist, materials are in the order in which they were received from the donor.</p>  </arrangement>
+  <scopecontent id="aspace_a9e29c2f0adf3ad2efb3654b681be66a">
+    <head>Scope and Content Note</head>
+<p>This collection is made up primarily of correspondence and press clippings from Viani's days with Local 371, including a scrapbook he kept of the events of January to February 1965. There is a small amount of additional materials pertaining to the rest of his career.</p>  </scopecontent>
+  <bioghist id="aspace_485afde481ec118078177601ff850b1e">
+    <head>Historical/Biographical Note</head>
+<p>Al Viani joined Local 371, AFSCME on the first day he came to work for the NYC Department of Social Services in 1961. He became president of the Local in 1964, a position he held during the Welfare Department strike of January 1965. With other members of the Local's Executive Board, along with the leaders of the Social Service Employees Union (SSEU), Viani spent 12 days in jail for defying the Condon-Wadlin law by refusing to order the membership back to work. In 1968 he left the local to become the assistant director of, District Council 37's Research and Negotiations section. He became its director in 1973. In 1986 he left DC 37 to become the Deputy Director of the Office of Collective Bargaining (OCB), an agency that was established as a direct result of that 1965 strike. He retired in December of 1992. Although retired he is still active as a labor negotiator and was one of the people brought in to help end the New York City transit strike of 2005.</p>  </bioghist>
+  <dsc/>
+</archdesc>
 </ead>
