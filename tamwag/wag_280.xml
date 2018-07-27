@@ -1,82 +1,46 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_280/">wag_280</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Herman W. Benson Typescript "Insurgency and Reform in the Painters Union, 1960-1967"
-                    <num>WAG.280</num>
-                </titleproper>
-                <author>Finding aid prepared by Maggie Schreiner</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>February 2015</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-02-17T17:46-0500</date>
-            </creation>
-            <langusage>Description is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Herman W. Benson Typescript "Insurgency and Reform in the Painters Union, 1960-1967"</unittitle>
-            <unitid>WAG.280</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 boxes)</extent>
-            </physdesc>
-            <unitdate normal="1974/1974">1974</unitdate>
-            <langmaterial id="ref4" label="Language of Materials note">Materials are in English</langmaterial>
-            <abstract id="ref11" label="Abstract">Herman W. Benson is a union member and labor journalist. This collection contains a typescript of an unpublished paper by Herman W. Benson regarding the reform movement in the Brotherhood of Painters, Decorators and Paperhangers in the 1960s.</abstract>
-        </did>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This collection contains a typescript of an unpublished paper by Herman W. Benson regarding the reform movement in the Brotherhood of Painters, Decorators and Paperhangers in the 1960s.</p>
-        </scopecontent>
-        <prefercite id="ref3">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Herman W. Benson Typescript "Insurgency and Reform in the Painters Union, 1960-1967"; WAG 280; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Materials found in collection; provenance is unknown. The accession number 1950.280 is associated with this collection.</p>
-        </acqinfo>
-        <accessrestrict id="ref7">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref8">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2094. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <bioghist id="ref9">
-            <head>Historical/Biographical Note</head>
-            <p>Herman W. Benson was a member of the United Auto Workers and the United Rubber Workers. As a labor journalist, he served as the trade union editor of
-                <emph render="italic"> Labor Action</emph> and as editor and publisher of 
-                <emph render="italic">Union Democracy in Action</emph>. Benson is the author of 
-                <emph render="italic">Democratic Rights For Union Members: A Guide To Internal Union Democracy </emph>.</p>
-        </bioghist>
-        <arrangement id="ref10">
-            <head>Arrangement</head>
-            <p>This collection has not been arranged by an archivist. Materials are in the order in which they were received from the donor.</p>
-        </arrangement>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_280/">wag_280</eadid><filedesc><titlestmt><titleproper>Guide to the Herman W. Benson Typescript "Insurgency and Reform in the Painters Union, 1960-1967" <num>WAG.280</num></titleproper><author>Collection processed by Maggie Schreiner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-07-27T18:55:31</date></creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Herman W. Benson Typescript "Insurgency and Reform in the Painters Union, 1960-1967"</unittitle>
+    <origination label="creator">
+      <persname rules="dacs" source="local">Benson, Herman W.</persname>
+    </origination>
+    <unitid>WAG.280</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 boxes)</extent>
+    </physdesc>
+    <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+    <langmaterial id="aspace_7a8f711b0cf69017c4fb713995c110c9">Materials are in English</langmaterial>
+    <abstract id="aspace_afe84c7c7dba838a54b139d4942e7665">Herman W. Benson is a union member and labor journalist. This collection contains a typescript of an unpublished paper by Herman W. Benson regarding the reform movement in the Brotherhood of Painters, Decorators and Paperhangers in the 1960s.</abstract>
+  </did>
+  <userestrict id="aspace_9f127921c7346a9867519935844e8d25">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1974, are expected to enter the public domain in 2095.</p>  </userestrict>
+  <accessrestrict id="aspace_f5bf4b084fe2f09c52afd25f463044b5">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_a0b94a3e19c7086f5badd94543770b83">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository; provenance is unknown. The accession number associated with this collection is 1950.280.</p>  </acqinfo>
+  <bioghist id="aspace_36dee70013ac53cfabfdd3996e197074">
+    <head>Historical/Biographical Note</head>
+<p>Herman W. Benson was a member of the United Auto Workers and the United Rubber Workers. As a 
+labor journalist, he served as the trade union editor of<emph render="italic"> Labor Action</emph> and as editor and publisher of <emph render="italic">Union Democracy in Action</emph>. Benson is the author of <emph render="italic">Democratic Rights For Union Members: A Guide To Internal Union Democracy </emph>.</p>  </bioghist>
+  <arrangement id="aspace_f1cab7fc386ff236db479640a42311ea">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist. Materials are in the order in which they were received from the donor.</p>  </arrangement>
+  <prefercite id="aspace_e340d3bf18af222e86cf245f74848a57">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Herman W. Benson Typescript "Insurgency and Reform in the Painters Union, 1960-1967"; WAG 280; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_cb5a74ce26b49cbcd7f6c745e035e16a">
+    <head>Scope and Contents</head>
+<p>This collection contains a typescript of an unpublished paper by Herman W. Benson regarding the reform movement in the Brotherhood of Painters, Decorators and Paperhangers in the 1960s.</p>  </scopecontent>
+  <dsc><c id="aspace_0952edb69e96e5378341fa181893a2a5" level="file"><did><unittitle>Unprocessed Records</unittitle><container altrender="Manuscript box - Letter - Half" id="aspace_27a51da2f69bb771635ae4ba032d1c90" label="Mixed Materials" type="Box">1</container></did></c></dsc>
+</archdesc>
 </ead>
