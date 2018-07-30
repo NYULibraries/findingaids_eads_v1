@@ -1,73 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_293/">wag_293</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Retail Apparel Salespeople's Union, Local 340A of New York Arbitration Cases
-                    <num>WAG.293</num>
-                </titleproper>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-07-17T15:20-0400</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>Jul 2015</date>
-                <item>Edited by Heather Mulliner to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Retail Apparel Salespeople's Union, Local 340A of New York Arbitration Cases</unittitle>
-            <unitid>WAG.293</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>1.0 linear feet</extent>
-                <extent>(1 boxes)</extent>
-            </physdesc>
-            <unitdate>undated</unitdate>
-        </did>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>Materials relate to the Retail Apparel Salespeople's Union Local 340A of New York, and arbitration cases such as Local 1125 v. Kelly Mutual Credit Clothing Company.</p>
-        </scopecontent>
-        <prefercite id="ref3">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Retail Apparel Salespeople's Union, Local 340A of New York Arbitration Cases; WAG 293; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <userestrict id="ref4">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Tamiment Libary received a gift the Retail Apparel Salespeople's Union, Local 304A arbitration files. The date and provenance of this donation is unknown. The accession number associated with this collection is 1950.224.</p>
-        </acqinfo>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_293/">wag_293</eadid><filedesc><titlestmt><titleproper>Guide to the Retail Apparel Salespeople's Union, Local 340A of New York Arbitration Cases <num>WAG.293</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-07-30T19:59:47</date></creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Retail Apparel Salespeople's Union, Local 340A of New York Arbitration Cases</unittitle>
+    <unitid>WAG.293</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(1 boxes)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <container altrender="Record carton" id="aspace_affdffd2e830fc48cd90cc75e9a6768d" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <acqinfo id="aspace_21587f2da2400a00b4a6ddf91b6a7f30">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. The accession number associated with this collection is 1950.224.</p>  </acqinfo>
+  <accessrestrict id="aspace_77161ea886330a38c7fb239bf6b15aa1">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_ac93767d9278ac7b1220d56bba01483a">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection are expected to enter the public domain in 120 years after their date of creation.</p>  </userestrict>
+  <prefercite id="aspace_dbdc0b09665d803d47ea710cc5c9de82">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Retail Apparel Salespeople's Union, Local 340A of New York Arbitration Cases; WAG 293; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_070da72141c8799a1671f079844a897b">
+    <head>Scope and Contents</head>
+<p>Materials relate to the Retail Apparel Salespeople's Union Local 340A of New York, and arbitration cases such as Local 1125 v. Kelly Mutual Credit Clothing Company.</p>  </scopecontent>
+  <dsc/>
+</archdesc>
 </ead>
