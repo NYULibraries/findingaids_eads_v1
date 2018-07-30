@@ -1,77 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_290/">wag_290</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the American Federation of State, County, and Municipal Employees (AFSCME), Local 1306 Records
-                    <num>WAG.290</num>
-                </titleproper>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-07-17T11:11-0400</date>
-            </creation>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>Jul 2015</date>
-                <item>Edited by Heather Mulliner to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>American Federation of State, County, and Municipal Employees (AFSCME), Local 1306 Records</unittitle>
-            <unitid>WAG.290</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid19826003" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 boxes)</extent>
-            </physdesc>
-            <unitdate>undated</unitdate>
-            <langmaterial id="ref7" label="Language of Materials note">Materials are in English</langmaterial>
-            <origination label="creator">
-                <corpname source="local">AFSCME. Local 1306 (American Museum of Natural History) (New York, N.Y.).</corpname>
-            </origination>
-        </did>
-        <acqinfo id="ref4">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Reggie Qadar, president of Local 1306, sent a gift of the union's records in 2008. The accession number associated with this gift is 1979.003.</p>
-        </acqinfo>
-        <prefercite id="ref3">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; American Federation of State, County, and Municipal Employees (AFSCME), Local 1306 Records; WAG 209; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This very small collection contains some records of the American Federation of State, County, and Municipal Employees (AFSCME), DC 37, Local 1306, which represented workers in the American Museum of Natural History. The collection contains correspondence, collective bargaining documents, grievances, and minutes of the local.</p>
-        </scopecontent>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref5">
-            <head>Use Restrictions</head>
-            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by American Federation of State, County, and Municipal Employees (AFSCME), Local 1306 are held by Local 1306. Permission to publish or reproduce materials to which the union holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Local 1306.</p>
-        </userestrict>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_290/">wag_290</eadid><filedesc><titlestmt><titleproper>Guide to the American Federation of State, County, and Municipal Employees (AFSCME), Local 1306 Records  <num>WAG.290</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-07-30T19:32:17</date></creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>American Federation of State, County, and Municipal Employees (AFSCME), Local 1306 Records</unittitle>
+    <origination label="creator">
+      <corpname rules="dacs" source="local">AFSCME. Local 1306 (American Museum of Natural History) (New York, N.Y.)</corpname>
+    </origination>
+    <origination label="source">
+      <corpname role="dnr" rules="dacs" source="local">AFSCME. Local 1306 (American Museum of Natural History) (New York, N.Y.)</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Qadar, Reggie</persname>
+    </origination>
+    <unitid>WAG.290</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 boxes)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <langmaterial id="aspace_a78bbed18e5c36f3a806cc01cbe7c497">Materials are in English</langmaterial>
+    <container id="aspace_5b18dcb08b9d2a330318e39b1032c8eb" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <acqinfo id="aspace_92e35917b12fb5daf037a4fc33c2c75a">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Reggie Qadar, Local 1306 president, on behalf of the American Federation of State, County, and Municipal Employees (AFSCME), Local 1306, in 2008. The accession number associated with this gift is 1979.003.</p>  </acqinfo>
+  <prefercite id="aspace_00a8f1b1af3b51f936452b727c2e4a24">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; American Federation of State, County, and Municipal Employees (AFSCME), Local 1306 Records; WAG 209; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_25f8f8f189cb08c23a6c80f22bbc527e">
+    <head>Scope and Contents</head>
+<p>This very small collection contains some records of the American Federation of State, County, and Municipal Employees (AFSCME), DC 37, Local 1306, which represented workers in the American Museum of Natural History. The collection contains correspondence, collective bargaining documents, grievances, and minutes of the local.</p>  </scopecontent>
+  <accessrestrict id="aspace_15bfa7b0bcbe66845c89ac5162791b99">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_96ff399a2d144f47acb1bb1f08bdce1a">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the American Federation of State, County, and Municipal Employees (AFSCME), Local 1306, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <corpname role="dnr" rules="dacs" source="local">AFSCME. Local 1306 (American Museum of Natural History) (New York, N.Y.)</corpname>
+    <persname role="dnr" rules="dacs" source="local">Qadar, Reggie</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
