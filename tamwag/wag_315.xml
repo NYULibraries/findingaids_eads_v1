@@ -1,87 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_315/">wag_315</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Billy Holden Collection of United Electrical Workers, Connecticut Files
-                    <num>WAG.315</num>
-                </titleproper>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-08-10T12:16-0400</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>Aug 2010</date>
-                <item>Edited by Heather Mulliner to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Billy Holden Collection of United Electrical Workers, Connecticut Files</unittitle>
-            <unitid>WAG.315</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>2.0 linear feet</extent>
-                <extent>(2 boxes)</extent>
-            </physdesc>
-            <unitdate>1940s-1990s</unitdate>
-            <origination label="creator">
-                <persname source="local">Holden, Billy</persname>
-            </origination>
-        </did>
-        <bioghist id="ref1">
-            <head>Historical/Biographical Note</head>
-            <p>Billy Holden was a field organizer for the United Electrical Workers (UE) in Connecticut in the 1980s, working out of an office in North Haven. He had a keen interest in labor history, especially Connecticut labor history and the history of the UE. He collected UE material from a number of communities in the state and also preserved his own notes and photocopies on topics of interest.</p>
-        </bioghist>
-        <phystech id="ref4">
-            <head>Physical Characteristics and Technical Requirements note</head>
-            <p>This collection is unprocessed and some of the material very fragile; please check with staff for access.</p>
-        </phystech>
-        <scopecontent id="ref2">
-            <head>Scope and Content Note</head>
-            <p>The collection includes union records from UE locals in many Connecticut towns (including Local 205, Bridgeport; Local 209, Westinghouse workers; Local 227, Singer workers; Local 282, Winchester; Local 299, North Haven; and others). Materials include bargaining files, newsletters, flyers, correspondence, mailings and publications of the international union, scripts of radio spots, clippings, photocopies of scholarly articles, typescript histories and Holden's notes on labor history. One folder contains a number of photographs of UE demonstrations in Connecticut in the 1940s. Holden also collected flyers distributed by rival electrical workers' unions, reflecting the bitter political attacks on the union, which was often accused of being Communist-led.</p>
-        </scopecontent>
-        <prefercite id="ref5">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Billy Holden Collection of United Electrical Workers, Connecticut Files; WAG 315; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref7">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <acqinfo id="ref8">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Bill Holden most likely sent a gift of United Electrical Workers Connecticut files to the Tamiment library, but the provenance of this donation is unconfirmed. The date of this accession is unknown. The accession number associated with this gift is 2010.098.</p>
-        </acqinfo>
-        <controlaccess>
-            <persname source="local">Holden, Billy</persname>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_315/">wag_315</eadid><filedesc><titlestmt><titleproper>Guide to the Billy Holden Collection of United Electrical Workers, Connecticut Files <num>WAG.315</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-08-02T20:30:49</date></creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Billy Holden Collection of United Electrical Workers, Connecticut Files</unittitle>
+    <origination label="creator">
+      <persname rules="dacs" source="local">Holden, Billy</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Holden, Billy</persname>
+    </origination>
+    <unitid>WAG.315</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate>1940s-1990s</unitdate>
+  </did>
+  <bioghist id="aspace_662b6908bff573dd825e01eb1ee5efd5">
+    <head>Historical/Biographical Note</head>
+<p>Billy Holden was a field organizer for the United Electrical Workers (UE) in Connecticut in the 1980s, working out of an office in North Haven. He had a keen interest in labor history, especially Connecticut labor history and the history of the UE.  He collected UE material from a number of communities in the state and also preserved his own notes and photocopies on topics of interest.</p>  </bioghist>
+  <phystech id="aspace_5a2cafe7f90c713cbef35c456dfb6d60">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>This collection is unprocessed and some of the material very fragile; please check with staff for access.</p>  </phystech>
+  <scopecontent id="aspace_d6f871bb5b0f117b1524194c09f14394">
+    <head>Scope and Content Note</head>
+<p>The collection includes union records from UE locals in many Connecticut towns (including Local 205, Bridgeport; Local 209, Westinghouse workers; Local 227, Singer workers; Local 282, Winchester; Local 299, North Haven; and others).  Materials include bargaining files, newsletters, flyers, correspondence, mailings and publications of the international union, scripts of radio spots, clippings, photocopies of scholarly articles, typescript histories and Holden's notes on labor history.  One folder contains a number of photographs of UE demonstrations in Connecticut in the 1940s.  Holden also collected flyers distributed by rival electrical workers' unions, reflecting the bitter political attacks on the union, which was often accused of being Communist-led.</p>  </scopecontent>
+  <acqinfo id="aspace_28df4fd793fd47d40cbbb0f5b114d4e7">
+    <head>Immediate Source of Acquisition</head>
+<p>Possibly donated by Bill Holden at an unknown date. The accession number associated with this gift is 2010.098.</p>  </acqinfo>
+  <userestrict id="aspace_d3fd9cacb8f5968286584e20a54e1093">
+    <head>Conditions Governing Use</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Billy Holden was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <accessrestrict id="aspace_1946df94bee37a444ea7b79eaf683f1e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <prefercite id="aspace_239861fc2aadc332d492330f06545852">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Billy Holden Collection of United Electrical Workers, Connecticut Files; WAG 315; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="local">Holden, Billy</persname>
+  </controlaccess>
+  <dsc><c id="aspace_3539308e1f5a3f945163b8c2621e2fe9" level="file"><did><unittitle>Unprocessed Records</unittitle><container altrender="Record carton" id="aspace_115c5f414f70bf5219007606f5d5f3d4" label="Mixed Materials" type="Box">1</container><container altrender="Record carton" id="aspace_553532ec65c1f6207474d596b9df12e0" label="Mixed Materials" type="Box">2</container></did></c></dsc>
+</archdesc>
 </ead>
