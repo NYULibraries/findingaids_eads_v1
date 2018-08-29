@@ -1,97 +1,56 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_272</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Daniel Nilva Papers
-                    <num>TAM.272</num>
-                </titleproper>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>12/01/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-08-07T18:11-0400</date>
-            </creation>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>August 2014</date>
-                <item>Edited by Nicole Greenhouse to reflect updated administrative information.</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Daniel Nilva Papers</unittitle>
-            <unitid>TAM.272</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid18885001" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>1.0 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate>undated</unitdate>
-            <origination label="creator">
-                <persname source="ingest">Nilva, Daniel.</persname>
-            </origination>
-        </did>
-        <bioghist id="ref4">
-            <head>Historical/Biographical Note</head>
-            <p>Daniel Nilva was a freelance photographer involved in the Film and Photo League in the 1920s. Nilva also worked as a staff photographer for the International Ladies' Garment Workers Union for many years and saw himself as an historian of the role of the Communist Party in the labor movement.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This small collection contains various newsletters, publications, and mailings by the Communist Party, the Socialist Party, the Young Communist League and Communist Party opposition groups on the Left. There is also a small amount of biographical material on Nilva.</p>
-        </scopecontent>
-        <relatedmaterial id="ref2">
-            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>Daniel Nilva Photographs (Photographs 067)</p>
-        </relatedmaterial>
-        <userestrict id="ref5">
-            <head>Use Restrictions</head>
-            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Sheila Nilva are held by Sheila Nilva. Permission to publish or reproduce materials to which she holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Sheila Nilva.</p>
-        </userestrict>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Sheila Nilva sent a gift of papers by her husband, Daniel Nilva in March 1993. The accession number associated with this gift is 1994.028.</p>
-        </acqinfo>
-        <accessrestrict id="ref7">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <controlaccess>
-            <corpname source="naf">Communist Party of the United States of America.</corpname>
-            <corpname rules="dacs" source="naf">International Ladies' Garment Workers' Union.</corpname>
-            <persname source="ingest">Nilva, Daniel.</persname>
-            <corpname source="naf">Socialist Party (U.S.).</corpname>
-            <corpname source="naf">Young Communist League of the U.S.</corpname>
-            <genreform source="aat">Circular letters.</genreform>
-            <subject source="lcsh">Communism |z United States.</subject>
-            <subject source="lcsh">Communist parties |z United States.</subject>
-            <subject source="lcsh">Communists |z United States.</subject>
-            <subject source="lcsh">Jewish communists |z United States.</subject>
-            <subject source="lcsh">Labor unions and communism |z United States.</subject>
-            <genreform source="aat">Newsletters.</genreform>
-            <subject source="lcsh">Photographers |z United States.</subject>
-            <subject source="lcsh">Socialism |z United States.</subject>
-            <subject source="local">Trotskyism |z United States.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_272</eadid><filedesc><titlestmt><titleproper>Guide to the Daniel Nilva Papers <num>TAM 272</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-05-10T18:19:10</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Daniel Nilva Papers</unittitle>
+    <unitid>TAM 272</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <container id="aspace_a0d549d91f3ae700af489a496af6b76a" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_f9e34983866bd4a9ed3c1f59d6351202">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_3cbc31031ebf2e7acd08c4446ea66697">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Sheila Cole Nilva in 1993. The accession number associated with this gift is 1994.028.</p>  </acqinfo>
+  <bioghist id="aspace_7e5a451eb3511c3a78255dc58349724c">
+    <head>Historical/Biographical Note</head>
+<p>Daniel Nilva was a freelance photographer involved in the Film and Photo League in the 1920s. Nilva also worked as a staff photographer for the International Ladies' Garment Workers Union for many years and saw himself as an historian of the role of the Communist Party in the labor movement.</p>  </bioghist>
+  <relatedmaterial id="aspace_1772cd86510c92dedbba54bbabf35f68">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Daniel Nilva Photographs (Photographs 067)</p>  </relatedmaterial>
+  <scopecontent id="aspace_3b95c33f467721e16244948a9f45b051">
+    <head>Scope and Contents</head>
+<p>This small collection contains various newsletters, publications, and mailings by the Communist Party, the Socialist Party, the Young Communist League and Communist Party opposition groups on the Left. There is also a small amount of biographical material on Nilva.</p>  </scopecontent>
+  <userestrict id="aspace_b4277291ef8e438cc92833b5d0d9f4ae">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Daniel Nilva or Sheila Cole Nilva was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Communism -- United States.</subject>
+    <subject source="lcsh">Communists -- United States.</subject>
+    <subject source="lcsh">Jewish communists -- United States.</subject>
+    <genreform source="aat">Circular letters.</genreform>
+    <genreform source="aat">Newsletters.</genreform>
+    <subject source="lcsh">Socialism -- United States.</subject>
+    <subject source="lcsh">Labor unions and communism -- United States.</subject>
+    <subject source="lcsh">Photographers |z United States.</subject>
+    <subject source="lcsh">Communist parties |z United States.</subject>
+    <subject source="local">Trotskyism |z United States.</subject>
+    <corpname rules="aacr" source="naf">Young Communist League of the U.S.</corpname>
+    <corpname source="naf">Socialist Party (U.S.)</corpname>
+    <corpname rules="dacs" source="naf">International Ladies' Garment Workers' Union</corpname>
+    <corpname rules="aacr" source="naf">Communist Party of the United States of America</corpname>
+    <persname source="ingest">Nilva, Daniel.</persname>
+    <persname role="dnr" rules="local">Nilva, Sheila Cole</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
