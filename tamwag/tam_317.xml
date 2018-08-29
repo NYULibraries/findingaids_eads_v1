@@ -1,223 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_317/">tam_317</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Carl Reeve Papers
-                    <num>TAM.317</num>
-                </titleproper>
-                <author>Finding aid prepared by Peter Filardo</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/2/2010</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-10-31T11:00-0400</date>
-            </creation>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>Oct 2014</date>
-                <item>Heather Mulliner to reflect updated administrative information  </item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Carl Reeve Papers</unittitle>
-            <unitid>TAM.317</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.5 linear feet</extent>
-                <extent>in 1 manuscript box</extent>
-            </physdesc>
-            <unitdate normal="1970/1989" type="bulk">Bulk, 1970-1989</unitdate>
-            <unitdate normal="1910/2009" type="inclusive">1910-2009</unitdate>
-            <physloc audience="internal" id="ref4" label="Location note">Materials are located at the Tamiment Library.</physloc>
-            <origination label="creator">
-                <persname source="naf">Reeve, Carl, 1900-</persname>
-            </origination>
-        </did>
-        <bioghist id="ref5">
-            <head>Historical/Biographical Note</head>
-            <p>Carl Reeve (1900-1980), a son, along with Harold Ware, of Ella Reeve Bloor (1862-1951) was a Communist, the chair of the Washington State CP, at one time served on the Central Committee of the CPUSA, was Educational Director of Party's Eastern Pennsylvania organization, and was in 1940 a Communist candiate for Senator from Pennsylvania. He wrote 
-                <emph render="italic">The Life and Times of Daniel De Leon</emph> (1972) and with his wife Ann Barton Reeve, 
-                <emph render="italic">James Connolly and the United States: The Road to the Irish Rebellion</emph> (1978).</p>
-        </bioghist>
-        <scopecontent id="ref3">
-            <head>Scope and Content Note</head>
-            <p>The collection contains research materials, notes and reviews pertaining to 
-                <emph render="italic">James Connolly and the United States</emph>, correspondence of Ann and Carl Reeve, manuscripts my Ann and Carl Reeve, including a review essay by the latter "Under Which Flage: A Play by James Connolly," two small Irish nationalist posters, one memorializing Connolly, the other in Gaelic, a file on the Transport Workers Union of America, Local 100 (New York City), and a fragile copy of the 
-                <emph render="italic">Sinn Fein Rebellion Handbook: Easter, 1916</emph>, compiled and published by the Weekly Irish Times of Dublin, Ireland.</p>
-        </scopecontent>
-        <acqinfo id="ref22">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Susan Reeve Steinmann sent a gift of Carl Reeve's papers in 2005. The accession number associated with this gift is 2005.020.</p>
-        </acqinfo>
-        <userestrict id="ref23">
-            <head>Use Restrictions</head>
-            <p>Any rights (including copyright and related rights to publicity and privacy) held by Susan Reeve Steinmann, Carl Reeve's heir, were transferred to New York University in 2005. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>
-        </userestrict>
-        <accessrestrict id="ref24">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <controlaccess>
-            <persname source="naf">Connolly, James, 1868-1916</persname>
-            <persname source="naf">Reeve, Ann Barton</persname>
-            <persname source="naf">Reeve, Carl, 1900-</persname>
-            <corpname source="naf">Transport Workers Union of America. Local 100.</corpname>
-            <subject source="lcsh">Communists |z United States.</subject>
-            <geogname source="lcsh">Ireland |x History |y 20th century</geogname>
-            <geogname source="lcsh">Ireland |x History |y Easter Rising, 1916</geogname>
-            <subject source="lcsh">Women communists |z United States.</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref11" level="file">
-                <did>
-                    <unittitle>Barton, Ann: "She Was a Gentle Woman" (Memoir about Her Mother)</unittitle>
-                    <container id="cid23291006" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291006" type="Folder">1</container>
-                    <unitdate>Dec 5, 1948</unitdate>
-                </did>
-            </c>
-            <c id="ref6" level="file">
-                <did>
-                    <unittitle>Brewer, Karen: American Career of James Connolly (Masters Thesis)</unittitle>
-                    <container id="cid23291001" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291001" type="Folder">2</container>
-                    <unitdate normal="1977/1977">1977</unitdate>
-                </did>
-            </c>
-            <c id="ref7" level="file">
-                <did>
-                    <unittitle>Connolly, James: "Under Which Flag" Play</unittitle>
-                    <container id="cid23291002" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291002" type="Folder">3</container>
-                    <unitdate normal="1916/1916">1916</unitdate>
-                </did>
-            </c>
-            <c id="ref8" level="file">
-                <did>
-                    <unittitle>Connolly, James: Poems (photocopies)</unittitle>
-                    <container id="cid23291003" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291003" type="Folder">4</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref9" level="file">
-                <did>
-                    <unittitle>Connolly, James: Research Materials</unittitle>
-                    <container id="cid23291004" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291004" type="Folder">5</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref10" level="file">
-                <did>
-                    <unittitle>Connolly, James: Memorial Poster</unittitle>
-                    <container id="cid23291005" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291005" type="Folder">6</container>
-                    <unitdate>circa 1916</unitdate>
-                </did>
-            </c>
-            <c id="ref13" level="file">
-                <did>
-                    <unittitle>
-                        <emph render="italic">James Connolly and the United States</emph> Reviews</unittitle>
-                    <container id="cid23291007" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291007" type="Folder">7</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref12" level="file">
-                <did>
-                    <unittitle>Correspondence</unittitle>
-                    <container id="cid23291008" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291008" type="Folder">8</container>
-                    <unitdate normal="1970/1989" type="inclusive">1970-1989</unitdate>
-                </did>
-            </c>
-            <c id="ref14" level="file">
-                <did>
-                    <unittitle>Harju, W.A.: "The Finnish American: An Essay on Finnish American History"</unittitle>
-                    <container id="cid23291009" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291009" type="Folder">9</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref15" level="file">
-                <did>
-                    <unittitle>Notes regarding James Connolly</unittitle>
-                    <container id="cid23291010" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291010" type="Folder">10</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref16" level="file">
-                <did>
-                    <unittitle>Photograph of Gravesite</unittitle>
-                    <container id="cid23291011" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291011" type="Folder">11</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref17" level="file">
-                <did>
-                    <unittitle>Poblacht na hEireann: Poster</unittitle>
-                    <container id="cid23291012" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291012" type="Folder">12</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref18" level="file">
-                <did>
-                    <unittitle>Reeve, Carl: "Under Which Flag: A Play by James Connolly" Review</unittitle>
-                    <container id="cid23291013" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291013" type="Folder">13</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref19" level="file">
-                <did>
-                    <unittitle>Transport Workers Local 100</unittitle>
-                    <container id="cid23291014" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291014" type="Folder">14</container>
-                    <unitdate normal="1970/2009" type="inclusive">1970-2009</unitdate>
-                </did>
-            </c>
-            <c id="ref20" level="file">
-                <did>
-                    <unittitle>Writings: Miscellaneous</unittitle>
-                    <container id="cid23291015" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291015" type="Folder">15</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref21" level="file">
-                <did>
-                    <unittitle>Sinn Fein Rebellion Handbook: Easter 1916 (Compiled by the 
-                        <emph render="italic">Irish Times</emph>)</unittitle>
-                    <container id="cid23291016" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid23291016" type="Folder">16</container>
-                    <unitdate normal="1916/1916">1916</unitdate>
-                </did>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_317/">tam_317</eadid><filedesc><titlestmt><titleproper>Guide to the Carl Reeve Papers <num>TAM 317</num></titleproper><author>Collection processed by Peter Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-05-15T20:13:18</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Carl Reeve Papers</unittitle>
+    <origination label="source">
+      <persname role="dnr" source="local">Steinmann, Susan Reeve</persname>
+    </origination>
+    <unitid>TAM 317</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
+    </physdesc>
+    <unitdate normal="1910/2009" type="inclusive">1910-2009</unitdate>
+    <unitdate normal="1970/1989" type="bulk">1970-1989</unitdate>
+  </did>
+  <accessrestrict id="aspace_d34d4281e2d3a1bf6994eb09ec815241">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_4a5660cdf3bf0022c04284839790037f">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Susan Reeve Steinmann in 2005. The accession number associated with this gift is 2005.020.</p>  </acqinfo>
+  <bioghist id="aspace_7d5a8965d3a1cd62941e2798698dc413">
+    <head>Historical/Biographical Note</head>
+<p>Carl Reeve (1900-1980), a son, along with Harold Ware, of Ella Reeve Bloor (1862-1951) was a Communist, the chair of the Washington State CP, at one time served on the Central Committee of the CPUSA, was Educational Director of Party's Eastern Pennsylvania organization, and was in 1940 a Communist candiate for Senator from Pennsylvania. He wrote <emph render="italic">The Life and Times of Daniel De Leon</emph> (1972) and with his wife Ann Barton Reeve, <emph render="italic">James Connolly and the United States: The Road to the Irish Rebellion</emph> (1978).</p>  </bioghist>
+  <scopecontent id="aspace_7fc9fc064c4aa0dcaf0bbf4ee12b4139">
+    <head>Scope and Content Note</head>
+<p>The collection contains research materials, notes and reviews pertaining to <emph render="italic">James Connolly and the United States</emph>, correspondence of Ann and Carl Reeve, manuscripts my Ann and Carl Reeve, including a review essay by the latter "Under Which Flage: A Play by James Connolly," two small Irish nationalist posters, one memorializing Connolly, the other in Gaelic, a file on the Transport Workers Union of America, Local 100 (New York City), and a fragile copy of the <emph render="italic">Sinn Fein Rebellion Handbook: Easter, 1916</emph>, compiled and published by the Weekly Irish Times of Dublin, Ireland.</p>  </scopecontent>
+  <userestrict id="aspace_4c39bb17681c7543c867d5c64a988790">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Carl Reeve were transferred to New York University in 2005 by Susan Reeve Steinmann. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Communists -- United States.</subject>
+    <subject source="lcsh">Women communists -- United States.</subject>
+    <geogname source="lcsh">Ireland |x History |y Easter Rising, 1916</geogname>
+    <geogname source="lcsh">Ireland -- History -- 20th century.</geogname>
+    <persname source="naf">Reeve, Ann Barton</persname>
+    <persname source="naf">Connolly, James, 1868-1916</persname>
+    <corpname source="naf">Transport Workers Union of America. Local 100</corpname>
+    <persname source="naf">Reeve, Carl, 1900-</persname>
+    <persname role="dnr" source="local">Steinmann, Susan Reeve</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref11" level="file"><did><unittitle>Barton, Ann: "She Was a Gentle Woman" (Memoir about Her Mother)</unittitle><unitdate>Dec 5, 1948</unitdate><container id="aspace_b78f588e1d7f4c9361abaeb685b3bcea" label="Mixed Materials" type="Box">1</container><container parent="aspace_b78f588e1d7f4c9361abaeb685b3bcea" type="Folder">1</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Brewer, Karen: American Career of James Connolly (Masters Thesis)</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_92c79f291d864fef79b0547297273326" label="Mixed Materials" type="Box">1</container><container parent="aspace_92c79f291d864fef79b0547297273326" type="Folder">2</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Connolly, James: "Under Which Flag" Play</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container id="aspace_5d2d53725937008a5f04efcea72b1fc3" label="Mixed Materials" type="Box">1</container><container parent="aspace_5d2d53725937008a5f04efcea72b1fc3" type="Folder">3</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Connolly, James: Poems (photocopies)</unittitle><unitdate>undated</unitdate><container id="aspace_420c85876fb9e2d2f16767d585357f42" label="Mixed Materials" type="Box">1</container><container parent="aspace_420c85876fb9e2d2f16767d585357f42" type="Folder">4</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Connolly, James: Research Materials</unittitle><unitdate>undated</unitdate><container id="aspace_287572eac800bc0ef484fd135f454c3e" label="Mixed Materials" type="Box">1</container><container parent="aspace_287572eac800bc0ef484fd135f454c3e" type="Folder">5</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Connolly, James: Memorial Poster</unittitle><unitdate>circa 1916</unitdate><container id="aspace_6356d58381c4b8f33b25964b1149e7f3" label="Mixed Materials" type="Box">1</container><container parent="aspace_6356d58381c4b8f33b25964b1149e7f3" type="Folder">6</container></did></c><c id="aspace_ref13" level="file"><did><unittitle><emph render="italic">James Connolly and the United States</emph> Reviews</unittitle><unitdate>undated</unitdate><container id="aspace_fc62e6f8c26b35c8f86d8fbd677afc4d" label="Mixed Materials" type="Box">1</container><container parent="aspace_fc62e6f8c26b35c8f86d8fbd677afc4d" type="Folder">7</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1970/1989" type="inclusive">1970-1989</unitdate><container id="aspace_450eca0e9a5e6d151432ed62060e8011" label="Mixed Materials" type="Box">1</container><container parent="aspace_450eca0e9a5e6d151432ed62060e8011" type="Folder">8</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Harju, W.A.: "The Finnish American: An Essay on Finnish American History"</unittitle><unitdate>undated</unitdate><container id="aspace_fdae3b73ffb08f2a0c52a66e3dd94191" label="Mixed Materials" type="Box">1</container><container parent="aspace_fdae3b73ffb08f2a0c52a66e3dd94191" type="Folder">9</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Notes regarding James Connolly</unittitle><unitdate>undated</unitdate><container id="aspace_e4d8f9a885d1e6745fc3cb0eec919501" label="Mixed Materials" type="Box">1</container><container parent="aspace_e4d8f9a885d1e6745fc3cb0eec919501" type="Folder">10</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Photograph of Gravesite</unittitle><unitdate>undated</unitdate><container id="aspace_4ee41cceefb554b59ecb69d5989de850" label="Mixed Materials" type="Box">1</container><container parent="aspace_4ee41cceefb554b59ecb69d5989de850" type="Folder">11</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Poblacht na hEireann: Poster</unittitle><unitdate>undated</unitdate><container id="aspace_4d3e6073a8d54efdfabc75899a99cfb1" label="Mixed Materials" type="Box">1</container><container parent="aspace_4d3e6073a8d54efdfabc75899a99cfb1" type="Folder">12</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Reeve, Carl: "Under Which Flag: A Play by James Connolly" Review</unittitle><unitdate>undated</unitdate><container id="aspace_b035aa0e39135e8e652141781f6d7b01" label="Mixed Materials" type="Box">1</container><container parent="aspace_b035aa0e39135e8e652141781f6d7b01" type="Folder">13</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Transport Workers Local 100</unittitle><unitdate normal="1970/2009" type="inclusive">1970-2009</unitdate><container id="aspace_9db7c8ef7bd1230bf49c200b024c68f6" label="Mixed Materials" type="Box">1</container><container parent="aspace_9db7c8ef7bd1230bf49c200b024c68f6" type="Folder">14</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Writings: Miscellaneous</unittitle><unitdate>undated</unitdate><container id="aspace_e8f6d7aab2f8835a4a744dc6070ba2ba" label="Mixed Materials" type="Box">1</container><container parent="aspace_e8f6d7aab2f8835a4a744dc6070ba2ba" type="Folder">15</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Sinn Fein Rebellion Handbook: Easter 1916 (Compiled by the <emph render="italic">Irish Times</emph>)</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container id="aspace_e4cd67cff620fe6ffbbe3a4e76a315cd" label="Mixed Materials" type="Box">1</container><container parent="aspace_e4cd67cff620fe6ffbbe3a4e76a315cd" type="Folder">16</container></did></c></dsc>
+</archdesc>
 </ead>
