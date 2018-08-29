@@ -1,132 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Inventory_BoxLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_175/">tam_175</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Earl and Sylvia Price Papers
-                    <num>TAM.175</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment Staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-07-11T16:59-0400</date>
-            </creation>
-            <langusage>Description is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>July 2014</date>
-                <item>Edited by Maggie Schreiner to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Earl and Sylvia Price Papers</unittitle>
-            <unitid>TAM.175</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>6.0 linear feet</extent>
-                <extent>(6 boxes)</extent>
-            </physdesc>
-            <unitdate normal="1945/1960" type="bulk">Bulk, 1945-1960</unitdate>
-            <unitdate normal="1940/1979" type="inclusive">1940s-1970s</unitdate>
-            <langmaterial id="ref16" label="Language of Materials note">Materials are in English</langmaterial>
-            <origination label="creator">
-                <persname source="local">Price, Earl</persname>
-            </origination>
-            <origination label="creator">
-                <persname source="local">Price, Sylvia</persname>
-            </origination>
-        </did>
-        <bioghist id="ref4">
-            <head>Historical/Biographical Note</head>
-            <p>Earl and Sylvia Price were members of the Communist Party USA in New York City who were expelled in the late 1940s because they held that the CPUSA, although it had expelled its "revisionist" leader Earl Browder in 1945, had not thereafter become sufficiently radical and militant.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This unprocessed collection contains materials created by various groupings of former members of the Communist Party USA who were expelled for their excessive radicalism in the years following World War II.</p>
-        </scopecontent>
-        <accessrestrict id="ref11">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref12">
-            <head>Use Restrictions</head>
-            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Earl and Sylvia Price are held by Earl and Sylvia Price. Permission to publish or reproduce materaisl to which they hold copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Earl and Sylvia Price.</p>
-        </userestrict>
-        <acqinfo id="ref14">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Materials found in repository, provenance is unknown but were likely donated by Earl and Sylvia Price in 1994. The accession number associated with this gift is 1994.006.</p>
-        </acqinfo>
-        <prefercite id="ref15">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Earl and Sylvia Price Papers; TAM 175; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <controlaccess>
-            <corpname source="naf">Communist Party of the United States of America.</corpname>
-            <persname rules="dacs" source="naf">Foster, William Z., 1881-1961.</persname>
-            <persname source="local">Price, Sylvia</persname>
-            <subject source="lcsh">Communism |z United States |y 20th century.</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref5" level="file">
-                <did>
-                    <unittitle>NCP Report; [Rosenberg Case?]</unittitle>
-                    <container id="cid23290001" type="Box" label="Mixed materials">1</container>
-                </did>
-            </c>
-            <c id="ref6" level="file">
-                <did>
-                    <unittitle>Rosenberg Case (Criticism of CP role, clips)</unittitle>
-                    <container id="cid23290002" type="Box" label="Mixed materials">2</container>
-                </did>
-            </c>
-            <c id="ref7" level="file">
-                <did>
-                    <unittitle>Activities, writings, serials from Prices; other left-CP</unittitle>
-                    <container id="cid23290005" type="Box" label="Mixed materials">3</container>
-                    <unitdate>1940s-1960s</unitdate>
-                </did>
-            </c>
-            <c id="ref8" level="file">
-                <did>
-                    <unittitle>David Mitchell; Anti-civil defense; Early opposition to nuclear plants</unittitle>
-                    <container id="cid23290003" type="Box" label="Mixed materials">4</container>
-                </did>
-            </c>
-            <c id="ref9" level="file">
-                <did>
-                    <unittitle>
-                        <emph render="italic">Turning Point</emph> corresp; Paul Robeson CP club; NY, other left-CP efforts in the US</unittitle>
-                    <container id="cid23290004" type="Box" label="Mixed materials">5</container>
-                </did>
-            </c>
-            <c id="ref10" level="file">
-                <did>
-                    <unittitle>Expelled groups (including correspondence); Correspondence</unittitle>
-                    <container id="cid23290006" type="Box" label="Mixed materials">6</container>
-                    <unitdate>1940s-1950s</unitdate>
-                </did>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_boxlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_175/">tam_175</eadid><filedesc><titlestmt><titleproper>Guide to the Earl and Sylvia Price Papers <num>TAM 175</num></titleproper><author>Collection processed by Tamiment Staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-04-26T19:03:49</date></creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Earl and Sylvia Price Papers</unittitle>
+    <unitid>TAM 175</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+      <extent altrender="carrier">(6 boxes)</extent>
+    </physdesc>
+    <unitdate normal="1940/1979" type="inclusive">1940s-1970s</unitdate>
+    <unitdate normal="1945/1960" type="bulk">1945-1960</unitdate>
+    <langmaterial id="aspace_cb251a8270b7562877df96100d426115">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_e7ea53201b5c6877bf93b68d1c4dbd08">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_eab96cb4af182aa49d7677441b9f398b">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository, provenance is unknown but were most likely donated Sylvia Price in 1994. The accession number associated with this gift is 1994.006.</p>  </acqinfo>
+  <bioghist id="aspace_9339f23447d806f1393724db1aea8654">
+    <head>Historical/Biographical Note</head>
+<p>Earl and Sylvia Price were members of the Communist Party USA in New York City who were expelled in the late 1940s because they held that the CPUSA, although it had expelled its "revisionist" leader Earl Browder in 1945, had not thereafter become sufficiently radical and militant.</p>  </bioghist>
+  <prefercite id="aspace_c45b8cecea5f5bae0f6ebbd10a72c7f2">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Earl and Sylvia Price Papers; TAM 175; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_65a3fcd81f0a849e7d0ab5646314b381">
+    <head>Scope and Contents</head>
+<p>This unprocessed collection contains materials created by various groupings of former members of the Communist Party USA who were expelled for their excessive radicalism in the years following World War II.</p>  </scopecontent>
+  <userestrict id="aspace_107c48677ac82e82d51fc22e3ef18559">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Earl and Sylvia Price was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Communism -- United States -- 20th century</subject>
+    <corpname rules="aacr" source="naf">Communist Party of the United States of America</corpname>
+    <persname rules="dacs" source="naf">Foster, William Z., 1881-1961.</persname>
+    <persname role="fmo" rules="dacs" source="local">Price, Sylvia</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref5" level="file"><did><unittitle>NCP Report; [Rosenberg Case?] </unittitle><container id="aspace_dc274ee4692c13f841156af2c77e5eaa" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Rosenberg Case (Criticism of CP role, clips)</unittitle><container id="aspace_8290efb9e7d185d59827f12346d31c6a" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Activities, writings, serials from Prices; other left-CP</unittitle><unitdate>1940s-1960s</unitdate><container id="aspace_2b3ee4543aff228762dc002be83e6153" label="Mixed Materials" type="Box">3</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>David Mitchell; Anti-civil defense; Early opposition to nuclear plants</unittitle><container id="aspace_66edea79eb219524c7f2192ee2a3683b" label="Mixed Materials" type="Box">4</container></did></c><c id="aspace_ref9" level="file"><did><unittitle><emph render="italic">Turning Point</emph> corresp; Paul Robeson CP club; NY, other left-CP efforts in the US</unittitle><container id="aspace_e4b4398f9c7be59a4e6f1acaa7a3a28a" label="Mixed Materials" type="Box">5</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Expelled groups (including correspondence); Correspondence</unittitle><unitdate>1940s-1950s</unitdate><container id="aspace_3c2227e4f0de1dcdf23fc9e2d0416b3c" label="Mixed Materials" type="Box">6</container></did></c></dsc>
+</archdesc>
 </ead>
