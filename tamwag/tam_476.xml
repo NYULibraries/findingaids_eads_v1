@@ -1,88 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_476/">tam_476</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Neil Basen Socialist Women Research Collection
-                    <num>TAM.476</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/12/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-07-03T16:14-0400</date>
-            </creation>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>July 2014</date>
-                <item>Edited by Bonnie Gordon to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Neil Basen Socialist Women Research Collection</unittitle>
-            <unitid>TAM.476</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate normal="1902/1978" type="inclusive">1902-1978</unitdate>
-            <abstract id="ref8" label="Abstract">Neil Basen, formerly Assistant Professor of History at the University of Wisconsin, Madison, conducted research on leading U.S. socialist women of the late 19th and early 20th centuries. This collection contains a small portion of Neil Basen' correspondence with other scholars, descendants of several of these women, and clippings by and about these women, who are: Mary Beals, Viola Coche Dietz, Ida Crouch Hazlett, Luella Krehbiel, and Anna Maley.</abstract>
-            <langmaterial id="ref7" label="Language of Materials note">Materials are in English</langmaterial>
-            <origination label="creator">
-                <persname source="local">Basen, Neil</persname>
-            </origination>
-        </did>
-        <bioghist id="ref4">
-            <head>Historical/Biographical Note</head>
-            <p>Neil Basen, formerly Assistant Professor of History at the University of Wisconsin, Madison, conducted extensive research on leading U.S. socialist women of the late 19th and early 20th centuries.</p>
-        </bioghist>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain beginning in 2022. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This collection contains a small portion of Neil Basen' correspondence with other scholars, descendants of several of these women, and clippings by and about these women, who are: Mary Beals, Viola Coche Dietz, Ida Crouch Hazlett, Luella Krehbiel, and Anna Maley.</p>
-        </scopecontent>
-        <acqinfo id="ref9">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Provenance is unknown. The accession number associated with this collection is 2009.032.</p>
-        </acqinfo>
-        <controlaccess>
-            <persname source="local">Dietz, Viola Coche</persname>
-            <persname source="local">Hazlett, Ida Crouch.</persname>
-            <persname source="local">Krehbiel, Luella.</persname>
-            <persname source="local">Maley, Anna.</persname>
-            <subject source="lcsh">Socialism |z United States.</subject>
-            <subject source="lcsh">Women and socialism |z United States.</subject>
-            <subject source="lcsh">Women socialists |z United States.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_476/">tam_476</eadid><filedesc><titlestmt><titleproper>Neil Basen Socialist Women Research Collection <num>TAM 476</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-11T20:20:07</date></creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Neil Basen Socialist Women Research Collection</unittitle>
+    <unitid>TAM 476</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate normal="1902/1978" type="inclusive">1902-1978</unitdate>
+    <abstract id="aspace_0399ca24b452a4552fcf3d6259b422c0">Neil Basen, formerly Assistant Professor of History at the University of Wisconsin, Madison, conducted research on leading U.S. socialist women of the late 19th and early 20th centuries. This collection contains a small portion of Neil Basen' correspondence with other scholars, descendants of several of these women, and clippings by and about these women, who are: Mary Beals, Viola Coche Dietz, Ida Crouch Hazlett, Luella Krehbiel, and Anna Maley.</abstract>
+    <langmaterial id="aspace_4042cd476312423b26f82ac208988a3c">Materials are in English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_6a99bde1fc98668113bbfa6377907f0e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_7aee935ea000ba06d0c8efcc9b2f3df9">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 2009.032.</p>  </acqinfo>
+  <bioghist id="aspace_fc5d2b918f5f9d851828361f4cd02c9e">
+    <head>Historical/Biographical Note</head>
+<p>Neil Basen, formerly Assistant Professor of History at the University of Wisconsin, Madison, conducted extensive research on leading U.S. socialist women of the late 19th and early 20th centuries.</p>  </bioghist>
+  <scopecontent id="aspace_386cfc1076c22d570ba50887f10e1fdb">
+    <head>Scope and Contents</head>
+<p>This collection contains a small portion of Neil Basen' correspondence with other scholars, descendants of several of these women, and clippings by and about these women, who are: Mary Beals, Viola Coche Dietz, Ida Crouch Hazlett, Luella Krehbiel, and Anna Maley.</p>  </scopecontent>
+  <userestrict id="aspace_cba259cec558935272205971fc581585">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1902-1978, are expected to enter the public domain in 2098.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Socialism -- United States.</subject>
+    <subject source="lcsh">Women socialists -- United States.</subject>
+    <subject source="lcsh">Women and socialism -- United States.</subject>
+    <persname source="local">Dietz, Viola Coche</persname>
+    <persname source="local">Hazlett, Ida Crouch.</persname>
+    <persname source="local">Krehbiel, Luella.</persname>
+    <persname source="local">Maley, Anna.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
