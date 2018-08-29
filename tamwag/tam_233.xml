@@ -1,88 +1,46 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_233</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Yale Graduate Student Union Records
-                    <num>TAM.233</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>12/28/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-01-31T15:36-0500</date>
-            </creation>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>1/31/2015</date>
-                <item>Edited by Nicole Greenhouse to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Yale Graduate Student Union Records</unittitle>
-            <unitid>TAM.233</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid18985002" type="Box" label="Mixed materials">1-2</container>
-            <physdesc>
-                <extent>0.75 linear feet</extent>
-                <extent>(2 boxes)</extent>
-            </physdesc>
-            <unitdate>circa 1988-circa 1992</unitdate>
-            <origination label="creator">
-                <corpname source="local">Yale Graduate Students Union.</corpname>
-            </origination>
-        </did>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Tamiment has no information on the donor of the collection. The accession number associated with this collection is 1950.095.</p>
-        </acqinfo>
-        <accessrestrict id="ref4">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref3">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2112. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <bioghist id="ref2">
-            <head>Historical/Biographical Note</head>
-            <p>Yale University graduate students / graduate teaching assistants attempted to organize labor unions in the 1980s-1990s. The two key organizations were the Graduate Employees and Student Organization, and the Graduate Student Union.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>The collection includes GESO Voice: newsletter of the Graduate Employees and Student Organizations, notes from meetings, findings from a graduate student employee survey, newspaper clippings, research re: other graduate student attempts to organize, statements from the Graduate Student Union and officials from Yale University and a timeline of teaching assistant solidarity at Yale.</p>
-        </scopecontent>
-        <controlaccess>
-            <corpname source="local">GESO voice (New Haven, Conn.).</corpname>
-            <corpname source="local">Yale Graduate Students Union.</corpname>
-            <corpname source="naf">Yale University.</corpname>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <subject source="lcsh">Graduate students |x Political activity |z Connecticut |z New Haven.</subject>
-            <subject source="lcsh">Graduate teaching assistants |x Labor unions |z Connecticut |z New Haven.</subject>
-            <genreform source="aat">Notes.</genreform>
-            <genreform source="aat">Press releases.</genreform>
-            <genreform source="aat">Timelines (chronologies).</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_233</eadid><filedesc><titlestmt><titleproper>Yale Graduate Student Union Records <num>TAM 233</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-05-08T14:48:40</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Yale Graduate Student Union Records</unittitle>
+    <unitid>TAM 233</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate>circa 1988-circa 1992</unitdate>
+    <container id="aspace_5655cc7430b0895469aa4db7b09a74c1" label="Mixed Materials" type="Box">1-2</container>
+  </did>
+  <accessrestrict id="aspace_aa03c62c0cd64604d966e0d92db132a7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_5ea330b3059632f6e1dc9bf0229f9901">
+    <head>Immediate Source of Acquisition</head>
+<p>Provenance unknown. The accession number associated with this collection is 1950.095.</p>  </acqinfo>
+  <bioghist id="aspace_22d89437fb09e84df2e1702bcabedb86">
+    <head>Historical/Biographical Note</head>
+<p>Yale University graduate students / graduate teaching assistants attempted to organize labor unions in the 1980s-1990s. The two key organizations were the Graduate Employees and Student Organization, and the Graduate Student Union.</p>  </bioghist>
+  <scopecontent id="aspace_f238d526cad72be04e76ea00db8e4725">
+    <head>Scope and Contents</head>
+<p>The collection includes GESO Voice: newsletter of the Graduate Employees and Student Organizations, notes from meetings, findings from a graduate student employee survey, newspaper clippings, research re: other graduate student attempts to organize, statements from the Graduate Student Union and officials from Yale University and a timeline of teaching assistant solidarity at Yale.</p>  </scopecontent>
+  <userestrict id="aspace_4dbd75c989c03dfaace43ab82882bef8">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in circa 1988-circa 1992, are expected to enter the public domain in 2112.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Timelines (chronologies).</genreform>
+    <genreform source="aat">Press releases.</genreform>
+    <subject source="lcsh">Graduate teaching assistants |x Labor unions |z Connecticut |z New Haven.</subject>
+    <genreform source="aat">Notes.</genreform>
+    <subject source="lcsh">Graduate students |x Political activity |z Connecticut |z New Haven.</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <corpname source="naf">Yale University</corpname>
+    <corpname source="local">Yale Graduate Students Union</corpname>
+    <corpname source="local">GESO voice (New Haven, Conn.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>

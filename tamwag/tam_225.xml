@@ -1,83 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_225</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Sandi Cooper Papers on the Future of the City University of New York
-                    <num>TAM.225</num>
-                </titleproper>
-                <author>Finding aid prepared by Peter Filardo</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/21/2010</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-10-18T13:35-0400</date>
-            </creation>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>October 2014</date>
-                <item>Edited by Nicole Greenhouse to reflect additional administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Sandi Cooper Papers on the Future of the City University of New York</unittitle>
-            <unitid>TAM.225</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid20061001" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>1.0 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate>1998-2000</unitdate>
-            <origination label="creator">
-                <persname source="naf">Cooper, Sandi E.</persname>
-            </origination>
-        </did>
-        <scopecontent id="ref4">
-            <head>Scope and Content Note</head>
-            <p>This small unprocessed collection contains correspondence; reports by CUNY, The New York State Department of Education, the U.S. Department of Education, as well as by interested third parties (most of these latter critical of the CUNY plan); reports produced by CUNY faculty and others CUNY activists opposed to the Plan; legal documents relating to actions taken by the Plan's opponents; research files; and a file of material pertaining to Friends of CUNY, a group in which Cooper participated.</p>
-        </scopecontent>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>Sandi E. Cooper, PhD, is a professor of history at the College of Staten Island of the City University of New York (CUNY). In 2000, CUNY issued "The City University of New York Master Plan 2000-2004," the controversial product of several year's work principally concerned with raising academic standards at the University. Many, including Cooper, opposed the plan, seeing it as harmful to the working class and people of color students who comprise the majority of CUNY's student body, and held that it would lessen their access to CUNY, especially to its four year colleges (as opposed to its two year community colleges) and failing to provide for them adequate academic and remedial support, in effect, undermining CUNY's policy of open admission. A notable critical report, "The Future of CUNY" (2000), was produced by the Commission on the Future of CUNY of the Association of the Bar of the City of New York.</p>
-        </bioghist>
-        <userestrict id="ref5">
-            <head>Use Restrictions</head>
-            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Sandi Cooper are held by Sandi Cooper. Permission to publish or reproduce materials to which she holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Sandi Cooper.</p>
-        </userestrict>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>A gift of CUNY documents were donated by Sandi Cooper in two accessions, one in 2000 and one in 2001. The accession number associated with this collection is 2000.018.</p>
-        </acqinfo>
-        <controlaccess>
-            <corpname source="naf">City University of New York.</corpname>
-            <persname source="naf">Cooper, Sandi E.</persname>
-            <persname source="naf">Cooper, Sandi E.</persname>
-            <corpname source="local">Friends of CUNY.</corpname>
-            <subject source="local">Higher education accessibility |z New York (State) |z New York.</subject>
-            <subject source="lcsh">Higher education and state |z New York (State) |z New York.</subject>
-            <subject source="lcsh">Minorities |x Education (Higher) |z New York (State) |z New York |x History.</subject>
-            <subject source="lcsh">Universities and colleges |x Open admission |z New York (State) |z New York.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_225</eadid><filedesc><titlestmt><titleproper>Sandi Cooper Papers on the Future of the City University of New York <num>TAM 225</num></titleproper><author>Collection processed by Peter Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-05-03T16:05:54</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Sandi Cooper Papers on the Future of the City University of New York</unittitle>
+    <unitid>TAM 225</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate>1998-2000</unitdate>
+    <container altrender="Record carton" id="aspace_bdc0a5a4e0c7721c7f495101832cee29" label="Mixed Materials [31142063293081]" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_452c6402c546837a933defd1c6db2b61">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_473a7bfd54ab343f96bb5f1667b58cf4">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials donated by Sandi Cooper in 2000 and 2001. The accession number associated with this collection is 2000.018.</p>  </acqinfo>
+  <bioghist id="aspace_e3d02eb166b790147a97a42f78615ce4">
+    <head>Historical/Biographical Note</head>
+<p>Sandi E. Cooper, PhD, is a professor of history at the College of Staten Island of the City University of New York (CUNY). In 2000, CUNY issued "The City University of New York Master Plan 2000-2004," the controversial product of several year's work principally concerned with raising academic standards at the University. Many, including Cooper, opposed the plan, seeing it as harmful to the working class and people of color students who comprise the majority of CUNY's student body, and held that it would lessen their access to CUNY, especially to its four year colleges (as opposed to its two year community colleges) and failing to provide for them adequate academic and remedial support, in effect, undermining CUNY's policy of open admission. A notable critical report, "The Future of CUNY" (2000), was produced by the Commission on the Future of CUNY of the Association of the Bar of the City of New York.</p>  </bioghist>
+  <scopecontent id="aspace_9309083380605a008f393b4df006a3e9">
+    <head>Scope and Content Note</head>
+<p>This small unprocessed collection contains correspondence; reports by CUNY, The New York State Department of Education, the U.S. Department of Education, as well as by interested third parties (most of these latter critical of the CUNY plan); reports produced by CUNY faculty and others CUNY activists opposed to the Plan; legal documents relating to actions taken by the Plan's opponents; research files; and a file of material pertaining to Friends of CUNY, a group in which Cooper participated.</p>  </scopecontent>
+  <userestrict id="aspace_546e48efb2dd37ba47960eb429bf4f9c">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Sandi Cooper was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Universities and colleges |x Open admission |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Higher education and state |z New York (State) |z New York.</subject>
+    <subject source="local">Higher education accessibility |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Minorities |x Education (Higher) |z New York (State) |z New York |x History.</subject>
+    <corpname source="naf">City University of New York</corpname>
+    <persname source="naf">Cooper, Sandi E.</persname>
+    <persname role="fmo" source="naf">Cooper, Sandi E.</persname>
+    <corpname source="local">Friends of CUNY</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
