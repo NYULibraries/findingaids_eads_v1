@@ -1,97 +1,54 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_400/">tam_400</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Shirley Kaplowitz Young Papers
-                    <num>TAM.400</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/24/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-05-06T14:56-0400</date>
-            </creation>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>May 2015</date>
-                <item>Edited by Heather Mulliner to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Shirley Kaplowitz Young Papers</unittitle>
-            <unitid>TAM.400</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid18866003" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
-            <abstract id="ref9" label="Abstract">Shirley (Shani) Kaplowitz (Kaplan) was a clerk at a Naval shipyard in New York who was released from her job for affiliation with the American Labor Party and other organizations perceived as Communist fronts by the American government in the 1950s.This small collection contains official documents from the Navy addressing their charges against Kaplan as well as photographs taken of Kaplan by the Navy. The collection also contains correspondence and other documents from Kaplan and her boyfriend (later husband) Louis Young in her defense.</abstract>
-            <origination label="creator">
-                <persname source="local">Young, Shirley Kaplowitz</persname>
-            </origination>
-        </did>
-        <acqinfo id="ref8">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Beth Levine sent a gift of her aunt Shirley Kaplowitz Young's papers in 2006. The accession number associated with this gift is 2006.014.</p>
-        </acqinfo>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>Shirley (Shani) Kaplowitz (Kaplan) was a clerk at a Naval shipyard in New York who was released from her job for affiliation with the American Labor Party and other organizations perceived as Communist fronts by the American government in the 1950s.</p>
-        </bioghist>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Shirley Kaplowitz Young Papers; TAM 400; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This small collection contains official documents from the Navy addressing their charges against Kaplan as well as photographs taken of Kaplan by the Navy. The collection also contains correspondence and other documents from Kaplan and her boyfriend (later husband) Louis Young in her defense.</p>
-        </scopecontent>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Shirley Kaplowitz Young are held by Shirley Kaplowitz Young. Permission to publish or reproduce materials to which s/he holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Shirley Kaplowitz Young.</p>
-        </userestrict>
-        <controlaccess>
-            <persname rules="dacs" source="ingest">Levine, Beth</persname>
-            <corpname source="naf">United States. Navy Dept.</corpname>
-            <persname source="local">Young, Louis</persname>
-            <persname source="local">Young, Shirley Kaplowitz</persname>
-            <subject source="lcsh">Anti-communist movements |z United States.</subject>
-            <genreform source="aat">Black-and-white photographs.</genreform>
-            <subject source="lcsh">Blacklisting, Labor | z United States.</subject>
-            <subject source="lcsh">Clerks |z New York (State) |z New York</subject>
-            <genreform source="aat">Correspondence.</genreform>
-            <subject source="lcsh">Discrimination in employment |z New York (State) |z New York.</subject>
-            <genreform source="aat">Federal government records.</genreform>
-            <genreform source="aat">Legal documents.</genreform>
-            <geogname source="lcsh">United States |x Officials and employees |x Dismissal of.</geogname>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_400/">tam_400</eadid><filedesc><titlestmt><titleproper>Shirley Kaplowitz Young Papers <num>TAM 400</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-05-29T18:28:10</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Shirley Kaplowitz Young Papers</unittitle>
+    <unitid>TAM 400</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
+    <abstract id="aspace_3fef919caad4f0a1640f77c498ab1b32">Shirley (Shani) Kaplowitz (Kaplan) was a clerk at a Naval shipyard in New York who was released from her job for affiliation with the American Labor Party and other organizations perceived as Communist fronts by the American government in the 1950s.This small collection contains official documents from the Navy addressing their charges against Kaplan as well as photographs taken of Kaplan by the Navy. The collection also contains correspondence and other documents from Kaplan and her boyfriend (later husband) Louis Young in her defense.</abstract>
+    <container id="aspace_14d1bcdf95013fc779d97707866a1a93" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_3b764beb662adbe57a72b7a7b6e625ab">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_c5c2e8511e5a1b195c6db75b90e541dd">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Beth Levine in 2006. The accession number associated with this gift is 2006.014.</p>  </acqinfo>
+  <bioghist id="aspace_8187b8886ea411c58e0cd1b27da46473">
+    <head>Historical/Biographical Note</head>
+<p>Shirley (Shani) Kaplowitz (Kaplan) was a clerk at a Naval shipyard in New York who was released from her job for affiliation with the American Labor Party and other organizations perceived as Communist fronts by the American government in the 1950s.</p>  </bioghist>
+  <prefercite id="aspace_8f7567481914fb05bb9681a4f7128493">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Shirley Kaplowitz Young Papers; TAM 400; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_60f520b5feb151ddf50869e0ed3714e6">
+    <head>Scope and Contents</head>
+<p>This small collection contains official documents from the Navy addressing their charges against Kaplan as well as photographs taken of Kaplan by the Navy. The collection also contains correspondence and other documents from Kaplan and her boyfriend (later husband) Louis Young in her defense.</p>  </scopecontent>
+  <userestrict id="aspace_86c742214a7f29ac0a8dfc9f5b4a718e">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Shirley Kaplowitz Young, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Legal documents.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <subject source="lcsh">Blacklisting, Labor -- United States.</subject>
+    <geogname source="lcsh">United States |x Officials and employees |x Dismissal of.</geogname>
+    <subject source="lcsh">Clerks |z New York (State) |z New York</subject>
+    <genreform source="aat">Federal government records.</genreform>
+    <subject source="lcsh">Discrimination in employment |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Anti-communist movements -- United States.</subject>
+    <persname role="dnr" rules="dacs" source="ingest">Levine, Beth</persname>
+    <persname source="local">Young, Louis</persname>
+    <persname source="local">Young, Shirley Kaplowitz</persname>
+    <corpname rules="dacs" source="local">United States. Department of the Navy</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
