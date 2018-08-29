@@ -1,81 +1,42 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_455</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Cleveland Radicalism Clippings Scrapbook
-                    <num>TAM.455</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/16/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-09-02T14:23-0500</date>
-            </creation>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Cleveland Radicalism Clippings Scrapbook</unittitle>
-            <unitid>TAM.455</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid18823001" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>0.3 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate normal="1915/1926" type="inclusive">1915-1920s</unitdate>
-        </did>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>The 
-                <emph render="italic">Socialist News</emph> was formed by the merger of the 
-                <emph render="italic">Cleveland Socialist</emph> and 
-                <emph render="italic">Workers' Cause</emph>. It was published by first by the Local Cleveland, Socialist Party, beginning in 1914, then by the Local Cuyahoga County, Socialist Party, ending in 1919. The 
-                <emph render="italic">Cleveland Plain Dealer</emph>, founded in 1845, is the largest daily newspaper in Ohio.</p>
-        </bioghist>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref5">
-            <head>Use Restrictions</head>
-            <p>The majority of the materials in this collection are in the public domain. The Tamiment Library does not have information about who owns copyright to the remainder of this collection. Users need not secure permission from the Tamiment library to publish or reproduce materials in this collection.</p>
-        </userestrict>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This small collection contains photocopied material from a scrapbook containing clippings on local and national radical activity. The majority of the clippings come from the 
-                <emph render="italic">Cleveland Plain Dealer</emph> and the 
-                <emph render="italic">Socialist News of Cleveland</emph> with a few clippings from other papers local to the Cleveland, Ohio area. The clippings span from 1915-1919 with a few items from the mid-1920s. The original scrapbook, of unknown provenance, was in fragile and fading condition and was disbound and recopied.</p>
-        </scopecontent>
-        <acqinfo id="ref4">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Provenance is unknown. The accession number associated with this collection is 1950.178.</p>
-        </acqinfo>
-        <controlaccess>
-            <geogname source="lcsh">Cleveland (Ohio) |v Periodicals.</geogname>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <subject source="lcsh">Radicalism |z Ohio |z Cleveland (Ohio)</subject>
-            <genreform source="aat">Scrapbooks.</genreform>
-            <subject source="lcsh">Socialism |z Ohio |z Cleveland.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_455</eadid><filedesc><titlestmt><titleproper>Cleveland Radicalism Clippings Scrapbook <num>TAM 455</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-07T20:16:17</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Cleveland Radicalism Clippings Scrapbook</unittitle>
+    <unitid>TAM 455</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate normal="1915/1926" type="inclusive">1915-1920s</unitdate>
+    <container id="aspace_b95def130236a9c17b2d11b7d8aa1651" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_c148650bebbfd60b0eba23088724df72">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_1f5372d7f088acd4f58c2922efac76a1">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 1950.178.</p>  </acqinfo>
+  <bioghist id="aspace_d01e75707eceeeaf45152c8a01755632">
+    <head>Historical/Biographical Note</head>
+<p>The <emph render="italic">Socialist News</emph> was formed by the merger of the <emph render="italic">Cleveland Socialist</emph> and <emph render="italic">Workers' Cause</emph>. It was published by first by the Local Cleveland, Socialist Party, beginning in 1914, then by the Local Cuyahoga County, Socialist Party, ending in 1919. The <emph render="italic">Cleveland Plain Dealer</emph>, founded in 1845, is the largest daily newspaper in Ohio.</p>  </bioghist>
+  <scopecontent id="aspace_ae7c463d70170f036764280a3bbf92b4">
+    <head>Scope and Contents</head>
+<p>This small collection contains photocopied material from a scrapbook containing clippings on local and national radical activity. The majority of the clippings come from the <emph render="italic">Cleveland Plain Dealer</emph> and the <emph render="italic">Socialist News of Cleveland</emph> with a few clippings from other papers local to the Cleveland, Ohio area. The clippings span from 1915-1919 with a few items from the mid-1920s. The original scrapbook, of unknown provenance, was in fragile and fading condition and was disbound and recopied.</p>  </scopecontent>
+  <userestrict id="aspace_a2fa2dd1b9f8ab53c1f6ac797360cb19">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1915-1920s, are expected to enter the public domain in 2040.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <geogname source="lcsh">Cleveland (Ohio) |v Periodicals.</geogname>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <subject source="lcsh">Socialism |z Ohio |z Cleveland.</subject>
+    <subject source="lcsh">Radicalism |z Ohio |z Cleveland (Ohio)</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>

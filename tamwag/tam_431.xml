@@ -1,80 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_431/">tam_431</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Chicago Historical Society Collection on the New York Council to Abolish HUAC
-                    <num>TAM.431</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/19/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-09-02T14:17-0500</date>
-            </creation>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Chicago Historical Society Collection on the New York Council to Abolish HUAC</unittitle>
-            <unitid>TAM.431</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid18839003" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>0.5 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate normal="1946/1970" type="inclusive">1946-1970</unitdate>
-            <origination label="creator">
-                <corpname source="naf">Chicago Historical Society.</corpname>
-            </origination>
-        </did>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>The New York Council to Abolish HUAC circulated literature and staged rallies and protests to try to abolish the United States Congress's House Committee on Un-American Activities.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>The collection includes press releases, newsletters, flyers and memoranda. The collection also contains flyers, leaflets and outreach collected from the National Lawyers Guild and other organizations on the left interested in law reform. The documents date from 1946 to 1970.</p>
-        </scopecontent>
-        <custodhist id="ref4">
-            <head>Custodial History note</head>
-            <p>In 1994, the Chicago Historical Society donated to Tamiment material that had been separated from their civil liberties and civil rights collections. The accession number associated with this gift is 1994.018.</p>
-        </custodhist>
-        <userestrict id="ref5">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain beginning in 2066. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <controlaccess>
-            <corpname source="naf">Chicago Historical Society.</corpname>
-            <corpname source="naf">National Lawyers Guild.</corpname>
-            <corpname source="local">New York Council to Abolish HUAC.</corpname>
-            <corpname source="naf">United States. Congress. House. Committee on Un-American Activities.</corpname>
-            <corpname source="naf">United States. Constitution. 1st Amendment.</corpname>
-            <subject source="lcsh">Anti-communist movements |z United States.</subject>
-            <subject source="lcsh">Civil rights |z United States.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_431/">tam_431</eadid><filedesc><titlestmt><titleproper>Guide to the Chicago Historical Society Collection on the New York Council to Abolish HUAC <num>TAM 431</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-01T20:34:28</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Chicago Historical Society Collection on the New York Council to Abolish HUAC</unittitle>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="naf">Motley, Archie</persname>
+    </origination>
+    <unitid>TAM 431</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate normal="1946/1970" type="inclusive">1946-1970</unitdate>
+    <container id="aspace_c2210c7b3e8a14d6f019e8ba9890a546" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_941e5fef20e7c9afc2f3b9c602e7c117">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_20e94fd5925a8356e338d6482e558737">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Archie Motley, Curator of Archives and Manuscripts, on behalf of the Chicago Historical Society in 1994. The accession number associated with this collection is 1994.018.</p>  </acqinfo>
+  <bioghist id="aspace_33bbe220c58eec13ceb15714a56b0f1e">
+    <head>Historical/Biographical Note</head>
+<p>The New York Council to Abolish HUAC circulated literature and staged rallies and protests to try to abolish the United States Congress's House Committee on Un-American Activities.</p>  </bioghist>
+  <custodhist id="aspace_76dcf3f443a68958341cf38a44c3f3f3">
+    <head>Custodial History</head>
+<p>In 1994, the Chicago Historical Society donated to Tamiment material that had been separated from their civil liberties and civil rights collections.  The accession number associated with this gift is 1994.018.</p>  </custodhist>
+  <scopecontent id="aspace_9665584ed0211dc58075d7337abcf8d3">
+    <head>Scope and Contents</head>
+<p>The collection includes press releases, newsletters, flyers and memoranda. The collection also contains flyers, leaflets and outreach collected from the National Lawyers Guild and other organizations on the left interested in law reform. The documents date from 1946 to 1970.</p>  </scopecontent>
+  <userestrict id="aspace_1f0833e0714576ec261719e9ca90a749">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1946-1970, are expected to enter the public domain in 2090.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Anti-communist movements -- United States.</subject>
+    <subject source="lcsh">Civil rights -- United States.</subject>
+    <corpname rules="aacr" source="naf">United States. Congress. House. |b Committee on Un-American Activities</corpname>
+    <corpname source="local">New York Council to Abolish HUAC</corpname>
+    <corpname source="naf">United States. Constitution. 1st Amendment</corpname>
+    <corpname source="naf">National Lawyers Guild</corpname>
+    <corpname role="dnr" source="naf">Chicago Historical Society</corpname>
+    <persname role="dnr" rules="dacs" source="naf">Motley, Archie</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>

@@ -1,93 +1,50 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_434/">tam_434</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Riva Rosenfield Papers on Camp Wo-Chi-Ca and Camp Higley Hill
-                    <num>TAM.434</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/19/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-07-17T10:50-0400</date>
-            </creation>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>July 2014</date>
-                <item>Edited by Bonnie Gordon to reflect updated administrative information and changed title</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Riva Rosenfield Papers on Camp Wo-Chi-Ca and Camp Higley Hill</unittitle>
-            <unitid>TAM.434</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid18839001" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>0.5 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate>undated</unitdate>
-            <origination label="creator">
-                <persname source="ingest">Rosenfield, Riva.</persname>
-            </origination>
-        </did>
-        <relatedmaterial id="ref3">
-            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <p>Grace Granich and Manny Granich Papers (TAM 255)</p>
-        </relatedmaterial>
-        <bioghist id="ref4">
-            <head>Historical/Biographical Note</head>
-            <p>Riva Rosenfield attended and was involved with the Communist-associated Workers Children's Camp (Camp Wo-Chi-Ca).</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This small collection includes writings on Camp Wo-Chi-Ca. Some documents also touch on Higley Hill, another camp run and staffed by the Communist Party of America. A set of photographs of Higley Hill and its campers from the early 1950's remains in the collection. The collection also contains a file of FBI and WPA papers on Herbert Gurewitz obtained through a Freedom of Information Act request.</p>
-        </scopecontent>
-        <userestrict id="ref5">
-            <head>Use Restrictions</head>
-            <p>Any rights (including copyright and related rights to publicity and privacy) held by Riva Rosenfield, the creator of this collection, were transferred to New York University in 2008. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>
-        </userestrict>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Riva Rosenfield, 2008. The accession number associated with this gift is 2008.019.</p>
-        </acqinfo>
-        <accessrestrict id="ref7">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <controlaccess>
-            <corpname source="local">Camp Wo-Chi-Ca (N.J.).</corpname>
-            <persname source="local">Gurewitz, Herbert</persname>
-            <corpname source="local">Higley Hill Camp (Wilmington, Vt.).</corpname>
-            <persname source="ingest">Rosenfield, Riva.</persname>
-            <genreform source="aat">Black-and-white photographs.</genreform>
-            <subject source="lcsh">Camps |z New Jersey |x History.</subject>
-            <subject source="lcsh">Children and politics |z United States.</subject>
-            <subject source="lcsh">Communist education |z United States.</subject>
-            <genreform source="aat">Federal government records.</genreform>
-            <subject source="lcsh">Socialism and youth |z United States.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_434/">tam_434</eadid><filedesc><titlestmt><titleproper>Guide to the Riva Rosenfield Papers on Camp Wo-Chi-Ca and Camp Higley Hill <num>TAM 434</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-05T14:22:22</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Riva Rosenfield Papers on Camp Wo-Chi-Ca and Camp Higley Hill</unittitle>
+    <unitid>TAM 434</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <container id="aspace_62bb5fe3848d038d372e02f3cbf4b58b" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_dfaa31b7a022c39eb999da2e45435720">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_fb7bdf1adc112728484f9cc3cf98175e">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Riva Rosenfield in 2008.  The accession number associated with this gift is 2008.019.</p>  </acqinfo>
+  <bioghist id="aspace_e3380c3da4258ceac653f7317cfece97">
+    <head>Historical/Biographical Note</head>
+<p>Riva Rosenfield attended and was involved with the Communist-associated Workers Children's Camp (Camp Wo-Chi-Ca).</p>  </bioghist>
+  <relatedmaterial id="aspace_957aec51cdba93d3f6083fd1ffcf96bd">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+<p>Grace Granich and Manny Granich Papers (TAM 255)</p>  </relatedmaterial>
+  <scopecontent id="aspace_9887485800c9a041859323b6419c3321">
+    <head>Scope and Contents</head>
+<p>This small collection includes writings on Camp Wo-Chi-Ca. Some documents also touch on Higley Hill, another camp run and staffed by the Communist Party of America. A set of photographs of Higley Hill and its campers from the early 1950's remains in the collection. The collection also contains a file of FBI and WPA papers on Herbert Gurewitz obtained through a Freedom of Information Act request.</p>  </scopecontent>
+  <userestrict id="aspace_e09ee7f24f7bc688e20ce96cd62ddfaf">
+    <head>Conditions Governing Use</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Riva Rosenfield were transferred to New York University in 2008 by Riva Rosenfield. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Communist education |z United States.</subject>
+    <subject source="lcsh">Socialism and youth -- United States.</subject>
+    <subject source="lcsh">Camps |z New Jersey |x History.</subject>
+    <subject source="lcsh">Children and politics |z United States.</subject>
+    <genreform source="aat">Federal government records.</genreform>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <persname source="local">Gurewitz, Herbert</persname>
+    <corpname source="local">Higley Hill Camp (Wilmington, Vt.)</corpname>
+    <corpname source="local">Camp Wo-Chi-Ca (N.J.)</corpname>
+    <persname role="dnr" source="ingest">Rosenfield, Riva.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>

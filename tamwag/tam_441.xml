@@ -1,86 +1,43 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_441</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>American Workers Party Records
-                    <num>TAM.441</num>
-                </titleproper>
-                <author>Finding aid prepared by Peter Filardo</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/16/2010</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-07-21T12:05-0400</date>
-            </creation>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>July 2014</date>
-                <item>Edited by Bonnie Gordon to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>American Workers Party Records</unittitle>
-            <unitid>TAM.441</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid18849008" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate normal="1976/1984" type="inclusive">circa 1976-1984</unitdate>
-            <origination label="creator">
-                <corpname source="local">American Workers Party (New York, N.Y., 197- ).</corpname>
-            </origination>
-        </did>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain beginning in 2071. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <scopecontent id="ref5">
-            <head>Scope and Content Note</head>
-            <p>This collection of American Workers Party materials consists of four folders: Essays for Basic Study Group; Issue Mailings; Leaflets; Position Papers; and was accompanied by an item-level list of the contents of these folders. The contents include some items by other U.S. Marxist-Leninist organizations. In addition to contemporary issues, a significant portion of the material is concerned with the history and internal politics of the AWP.</p>
-        </scopecontent>
-        <bioghist id="ref4">
-            <head>Historical/Biographical Note</head>
-            <p>The American Workers Party (1970s-1980s) was a Marxist-Leninst group based in New York City.</p>
-        </bioghist>
-        <acqinfo id="ref7">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Provenance is unknown. The accession number associated with this collection is 1950.256.</p>
-        </acqinfo>
-        <separatedmaterial id="ref8">
-            <head>Separated Materials</head>
-            <p>Several pamphlets have been separated for cataloging.</p>
-        </separatedmaterial>
-        <accessrestrict id="ref9">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <controlaccess>
-            <corpname source="local">American Workers Party (New York, N.Y., 197- ).</corpname>
-            <subject source="lcsh">Communism |z United States |y 20th century.</subject>
-            <subject source="lcsh">Communist parties |z United States.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_441</eadid><filedesc><titlestmt><titleproper>American Workers  Party Records <num>TAM 441</num></titleproper><author>Collection processed by Peter Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-05T16:41:36</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>American Workers Party Records</unittitle>
+    <unitid>TAM 441</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate normal="1976/1984" type="inclusive">circa 1976-1984</unitdate>
+    <container id="aspace_84636048fc9368309dc8324659c60ec3" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_7f1386bc8017895367e568d2980770e8">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_105353aa8f170974a6988b5cfdf86d69">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 1950.256.</p>  </acqinfo>
+  <bioghist id="aspace_2516806136257e66022781cb9a033c22">
+    <head>Historical/Biographical Note</head>
+<p>The American Workers Party (1970s-1980s) was a Marxist-Leninst group based in New York City.</p>  </bioghist>
+  <scopecontent id="aspace_b14da39c802af080b977d5da6e2c40c2">
+    <head>Scope and Content Note</head>
+<p>This collection of American Workers Party materials consists of four folders: Essays for Basic Study Group; Issue Mailings; Leaflets; Position Papers; and was accompanied by an item-level list of the contents of these folders. The contents include some items by other U.S. Marxist-Leninist organizations. In addition to contemporary issues, a significant portion of the material is concerned with the history and internal politics of the AWP.</p>  </scopecontent>
+  <separatedmaterial id="aspace_0137d445dd8402785b80c493ecbf6172">
+    <head>Separated Materials</head>
+<p>Several pamphlets have been separated for cataloging.</p>  </separatedmaterial>
+  <userestrict id="aspace_9e9142dd11e5e91f225d1c5c0b45ac5a">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in circa 1976-1984, are expected to enter the public domain in 2104.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Communism -- United States -- 20th century</subject>
+    <subject source="lcsh">Communist parties |z United States.</subject>
+    <corpname source="local">American Workers Party (New York, N.Y., 197- )</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>

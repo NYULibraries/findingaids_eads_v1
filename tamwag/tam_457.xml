@@ -1,78 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_457</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Spartacist Records
-                    <num>TAM.457</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>11/14/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-07-15T14:53-0400</date>
-            </creation>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Spartacist Records</unittitle>
-            <unitid>TAM.457</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.5 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate normal="1964/1969" type="inclusive">1964-1969</unitdate>
-            <origination label="creator">
-                <corpname source="local">International Spartacist League (Fourth Internationalist).</corpname>
-            </origination>
-        </did>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>The International Communist League (Fourth Internationalist), was a Trostkyist international organization based primarily in the United States. The group was led by James Robertson and Tim Wohlforth.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This collection contains the minutes of the editorial board of 
-                <emph render="italic">Spartacist</emph>.</p>
-        </scopecontent>
-        <userestrict id="ref4">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain beginning in 2084. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Provenance is unknown. The accession number associated with this collection is 1950.202.</p>
-        </acqinfo>
-        <controlaccess>
-            <corpname source="local">International Spartacist League (Fourth Internationalist).</corpname>
-            <corpname source="local">Spartacist.</corpname>
-            <persname source="naf">Wohlforth, Tim</persname>
-            <subject source="local">Trotskyism |z United States |v Periodicals.</subject>
-            <subject source="local">Trotskyism |z United States.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_457</eadid><filedesc><titlestmt><titleproper>Spartacist Records <num>TAM 457</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-07T20:30:06</date></creation></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Spartacist Records</unittitle>
+    <unitid>TAM 457</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate normal="1964/1969" type="inclusive">1964-1969</unitdate>
+  </did>
+  <accessrestrict id="aspace_1f08d5b9e594d0f3cd5471099b3c49ee">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_5c51ae1458521baf728232d0e479a4bd">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 1950.202.</p>  </acqinfo>
+  <bioghist id="aspace_614cb3c46d084df7686b62424c0a4c9d">
+    <head>Historical/Biographical Note</head>
+<p>The International Communist League (Fourth Internationalist), was a Trostkyist international organization based primarily in the United States. The group was led by James Robertson and Tim Wohlforth.</p>  </bioghist>
+  <scopecontent id="aspace_94af5fddc262b80fc32bf3a12aad4a2b">
+    <head>Scope and Contents</head>
+<p>This collection contains the minutes of the editorial board of <emph render="italic">Spartacist</emph>.</p>  </scopecontent>
+  <userestrict id="aspace_7f78d37d43aeaac6306f5b4a5d494144">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1964-1969, are expected to enter the public domain in 2105.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Trotskyism |z United States.</subject>
+    <subject source="local">Trotskyism |z United States |v Periodicals.</subject>
+    <corpname source="local">International Spartacist League (Fourth Internationalist)</corpname>
+    <corpname source="local">Spartacist</corpname>
+    <persname source="naf">Wohlforth, Tim</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
