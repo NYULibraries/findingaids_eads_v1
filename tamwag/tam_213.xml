@@ -1,97 +1,50 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Brief_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_213/">tam_213</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the American Veterans Committee: FOIA Files
-                    <num>TAM.213</num>
-                </titleproper>
-                <author>Finding aid prepared by Tamiment staff</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>12/09/2009</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-07-23T13:28-0400</date>
-            </creation>
-            <langusage>Description is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>July 2014</date>
-                <item>Edited by Maggie Schreiner to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>American Veterans Committee: FOIA Files</unittitle>
-            <unitid>TAM.213</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid18925001" type="Box" label="Mixed materials">1-3</container>
-            <physdesc>
-                <extent>3.0 linear feet</extent>
-                <extent>(3 boxes)</extent>
-            </physdesc>
-            <unitdate>1940s-1950s</unitdate>
-            <origination label="creator">
-                <corpname source="naf">United States. Air Force. Office of Special Investigations.</corpname>
-            </origination>
-        </did>
-        <relatedmaterial id="ref4">
-            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives and Elsewhere</head>
-            <p>The records of the American Veterans Committee are housed at George Washington University Library's Special Collections Department.</p>
-            <p>American Veterans for Peace Records (TAM 246)</p>
-        </relatedmaterial>
-        <scopecontent id="ref3">
-            <head>Scope and Content Note</head>
-            <p>The collection contains United States Air Force Office of Special Investigation files (lacking any apparent system of arrangement) from the 1940s-1950s obtained in the 1990s under the Freedom of Information Act by Marvin E. Gettleman, emeritus professor of history at Brooklyn Polytechnic Institute.</p>
-        </scopecontent>
-        <prefercite id="ref5">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; American Veterans Committee: FOIA Files; TAM 213; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Materials found in repository; provenance is unknown.</p>
-        </acqinfo>
-        <bioghist id="ref7">
-            <head>Historical/Biographical Note</head>
-            <p>The American Veterans Committee (AVC) was founded in 1944, during World War II, as a liberal veterans organization and an alternative to groups such as the American Legion and the Veterans of Foreign Wars. With the motto "Citizens first, veterans second," the AVC supported a range of liberal causes: for example, it challenged military segregation and maintained racially integrated chapters in Southern states. Although it had 100,000 member by 1947, it was targeted as a "Communist front" organization (i.e., one under the control of the Communist Party, USA), and in response the AVC ousted prominent Communist members and chapters, and subsequently voted to close its membership to members of all totalitarian parties. This bitter struggle resulted in a decline in membership, with AVC rolls falling to 20,000 by 1948, although continued to support liberal causes until it disbanded in 2003.</p>
-        </bioghist>
-        <accessrestrict id="ref8">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref9">
-            <head>Use Restrictions</head>
-            <p>Materials in this collection are in the public domain. Users need not secure permission from the Tamiment Library to publish or reproduce materials in this collection.</p>
-        </userestrict>
-        <controlaccess>
-            <corpname source="naf">American Veterans Committee.</corpname>
-            <corpname source="naf">Communist Party of the United States of America.</corpname>
-            <persname source="naf">Gettleman, Marvin E.</persname>
-            <subject source="lcsh">Anti-communist movements |z United States.</subject>
-            <subject source="lcsh">Civil rights |z United States.</subject>
-            <subject source="lcsh">Veterans |z United States |x Political activity |y 1945-1960.</subject>
-            <subject source="lcsh">World War, 1939-1945 |x Veterans.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_213/">tam_213</eadid><filedesc><titlestmt><titleproper>Guide to the American Veterans Committee: FOIA Files <num>TAM 213</num></titleproper><author>Collection processed by Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-05-02T18:36:06</date></creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>American Veterans Committee: FOIA Files</unittitle>
+    <unitid>TAM 213</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+      <extent altrender="carrier">(3 boxes)</extent>
+    </physdesc>
+    <unitdate>1940s-1950s</unitdate>
+    <container id="aspace_e488775ab0a31225dc18a935dcede4b1" label="Mixed Materials" type="Box">1-3</container>
+  </did>
+  <accessrestrict id="aspace_a0f95617de22cf10b66bddade8b05c1b">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_8c8f8b74159a876ca3a54a3a6c2e1ac2">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in repository; provenance is unknown but the collection was likely donated by Marvin E. Gettleman circa 1995. The accession number associated with this collection is 2001.024.</p>  </acqinfo>
+  <bioghist id="aspace_3c86e8926b0c7b9736fa5439f4641cb7">
+    <head>Historical/Biographical Note</head>
+<p>The American Veterans Committee (AVC) was founded in 1944, during World War II, as a liberal veterans organization and an alternative to groups such as the American Legion and the Veterans of Foreign Wars. With the motto "Citizens first, veterans second," the AVC supported a range of liberal causes: for example, it challenged military segregation and maintained racially integrated chapters in Southern states. Although it had 100,000 member by 1947, it was targeted as a "Communist front" organization (i.e., one under the control of the Communist Party, USA), and in response the AVC ousted prominent Communist members and chapters, and subsequently voted to close its membership to members of all totalitarian parties. This bitter struggle resulted in a decline in membership, with AVC rolls falling to 20,000 by 1948, although continued to support liberal causes until it disbanded in 2003.</p>  </bioghist>
+  <prefercite id="aspace_6682c9da93a839163a19740463f27e15">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; American Veterans Committee: FOIA Files; TAM 213; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <relatedmaterial id="aspace_c1db5baa1ef7faf88a9f76d9c7e033a8">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives and Elsewhere</head>
+<p>The records of the American Veterans Committee are housed at George Washington University Library's Special Collections Department. </p><p>American Veterans for Peace Records (TAM 246)</p>  </relatedmaterial>
+  <scopecontent id="aspace_386a1f45bab952edb8219f7969c80e64">
+    <head>Scope and Content Note</head>
+<p>The collection contains United States Air Force Office of Special Investigation files (lacking any apparent system of arrangement) from the 1940s-1950s obtained in the 1990s under the Freedom of Information Act by Marvin E. Gettleman, emeritus professor of history at Brooklyn Polytechnic Institute.</p>  </scopecontent>
+  <userestrict id="aspace_11fd0ce502b0b47b194f8eeb25ee7b4d">
+    <head>Conditions Governing Use</head>
+<p>Materials in this collection, which were created in circa 1940s-1950s, are in the public domain. Permission to publish or reproduce is not required.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Anti-communist movements -- United States.</subject>
+    <subject source="lcsh">Veterans |z United States |x Political activity |y 1945-1960.</subject>
+    <subject source="lcsh">World War, 1939-1945 -- Veterans.</subject>
+    <subject source="lcsh">Civil rights -- United States.</subject>
+    <persname role="fmo" source="naf">Gettleman, Marvin E.</persname>
+    <corpname source="naf">American Veterans Committee</corpname>
+    <corpname rules="aacr" source="naf">Communist Party of the United States of America</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
