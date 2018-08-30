@@ -1,96 +1,53 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_575</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Russell Phillips Arbitration Files
-                    <num>TAM.575</num>
-                </titleproper>
-                <author>Finding aid prepared by Peter Filardo</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>March 2011</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-03-16T11:44-0400</date>
-            </creation>
-            <langusage>Description is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>March 2015</date>
-                <item>Edited by Maggie Schreiner to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Russell Phillips Arbitration Files</unittitle>
-            <unitid>TAM.575</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid20457001" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate>
-            <abstract id="ref4" label="Abstract">Russell Phillips, an employee of Lenox Hill Hospital in New York City and member of Local 1199, was fired in 1983 after a physical altercation on October 28, 1983, with another employee, apparently arising from Mr. Phillips' distribution of radical political literature. This collection contains union and management briefs and exhibits, and American Arbitration Association rulings, ultimately upholding the dismissal of Mr. Phillips.</abstract>
-            <langmaterial id="ref8" label="Language of Materials note">Materials are in English</langmaterial>
-        </did>
-        <prefercite id="ref10">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Russell Phillips Arbitration Files; TAM 575; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <userestrict id="ref7">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who ownd copyright to this collection. Materials in this collection are expected to enter the public domain in 2105. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <acqinfo id="ref9">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Materials found in collection; provenance is unknown. The accession number 2011.031 is associated with this collection.</p>
-        </acqinfo>
-        <arrangement id="ref5">
-            <head>Arrangement</head>
-            <p>This collection has not been arranged by an archivist; materials are in the order in which they were recieved from the donor.</p>
-        </arrangement>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>Russell Phillips, who worked in the engineering department of Lenox Hill Hospital in New York City, was fired after a physical altercation on October 28, 1983, with another employee, Andres Alfonso, apparently arising from Mr. Phillips' distribution of radical political literature of the Progressive Labor Party.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This collection contains union (District 1199, National Union of Hospital and Health Care Employees, RWDSU) and management briefs and exhibits, and several American Arbitration Association rulings.</p>
-        </scopecontent>
-        <controlaccess>
-            <corpname source="naf">American Arbitration Association.</corpname>
-            <corpname source="naf">Lenox Hill Hospital.</corpname>
-            <corpname source="naf">National Union of Hospital and Nursing Home Employees. Local 1199 Drug &amp; Hospital Union (New York, N.Y.).</corpname>
-            <persname source="local">Phillips, Russell</persname>
-            <corpname source="naf">Retail, Wholesale, and Department Store Union. Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.).</corpname>
-            <genreform source="local">Arbitration files.</genreform>
-            <subject source="lcsh">Arbitration, Industrial |z New York (State) |z New York.</subject>
-            <subject source="lcsh">Hospitals |x Employees |x Labor unions |z New York (State) |z New York.</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_575</eadid><filedesc><titlestmt><titleproper>Guide to the Russell Phillips Arbitration Files <num>TAM 575</num></titleproper><author>Collection processed by Peter Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-21T19:53:53</date></creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Russell Phillips Arbitration Files</unittitle>
+    <unitid>TAM 575</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate>
+    <abstract id="aspace_137e6384cbb739865c2488b4acb3312e">Russell Phillips, an employee of Lenox Hill Hospital in New York City and member of Local 1199, was fired in 1983 after a physical altercation on October 28, 1983, with another employee, apparently arising from Mr. Phillips' distribution of radical political literature. This collection contains union and management briefs and exhibits, and American Arbitration Association rulings, ultimately upholding the dismissal of Mr. Phillips.</abstract>
+    <langmaterial id="aspace_afcbdcffb9ae6695a07ef531d2d3b608">Materials are in English</langmaterial>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_b3b3e51b0117c60527e334f24f3b49b1" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_300449e0b1c612a4832e4b7899cb4a8e">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_359b1726a317df2accb10f71897dd1c8">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 2011.031.</p>  </acqinfo>
+  <arrangement id="aspace_54bae5e9784cdc9f746acf5b953e1537">
+    <head>Arrangement</head>
+<p>This collection has not been arranged by an archivist; materials are in the order in which they were recieved from the donor.</p>  </arrangement>
+  <bioghist id="aspace_51ff9fc1b1b6f1a05ef8502662084bf3">
+    <head>Historical/Biographical Note</head>
+<p>Russell Phillips, who worked in the engineering department of Lenox Hill Hospital in New York City, was fired after a physical altercation on October 28, 1983, with another employee, Andres Alfonso, apparently arising from Mr. Phillips' distribution of radical political literature of the Progressive Labor Party.</p>  </bioghist>
+  <prefercite id="aspace_aa6fdf86cfab9ede046beea7fd85deb4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Russell Phillips Arbitration Files; TAM 575; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_632f0805d5bdb78489d75d9189dea050">
+    <head>Scope and Contents</head>
+<p>This collection contains union (District 1199, National Union of Hospital and Health Care Employees, RWDSU) and management briefs and exhibits, and several American Arbitration Association rulings.</p>  </scopecontent>
+  <userestrict id="aspace_86aa60fe1dd1a089e8346d62be2a6a1c">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1983-1985, are expected to enter the public domain in 2105.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="local">Arbitration files.</genreform>
+    <subject source="lcsh">Arbitration, Industrial |z New York (State) |z New York.</subject>
+    <subject source="lcsh">Hospitals |x Employees |x Labor unions |z New York (State) |z New York.</subject>
+    <corpname source="naf">National Union of Hospital and Nursing Home Employees. Local 1199 Drug &amp; Hospital Union (New York, N.Y.)</corpname>
+    <corpname source="naf">American Arbitration Association</corpname>
+    <corpname source="naf">Lenox Hill Hospital</corpname>
+    <corpname source="naf">Retail, Wholesale, and Department Store Union. Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)</corpname>
+    <persname source="local">Phillips, Russell</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>

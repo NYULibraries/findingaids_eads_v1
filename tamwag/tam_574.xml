@@ -1,93 +1,53 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_574</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Kenneth P. Neilson Collection on Frederic Ewen
-                    <num>TAM.574</num>
-                </titleproper>
-                <author>Finding aid prepared by Maggie Schreiner</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>March 2015</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-03-16T11:43-0400</date>
-            </creation>
-            <langusage>Description is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Kenneth P. Neilson Collection on Frederic Ewen</unittitle>
-            <unitid>TAM.574</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid20445001" type="Box" label="Mixed materials">MS 002</container>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>in one folder in a shared box</extent>
-            </physdesc>
-            <unitdate normal="1964/1989" type="inclusive">1964-1989</unitdate>
-            <langmaterial id="ref8" label="Language of Materials note">Materials are in English</langmaterial>
-            <abstract id="ref4" label="Abstract">Kenneth P. Neilsen is an educator, artist, composer, publisher and author, and friend of Frederic Ewen. Ewen (1899-1989) was a professor of English from Brooklyn College who was forced to resign in 1952 because of his progressive politics and resistance to McCarthyism, and who later formed a theater company. The collection contains correspondence, notes, clippings, and playbills.</abstract>
-            <origination label="creator">
-                <persname source="naf">Neilson, Kenneth P.</persname>
-            </origination>
-        </did>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>Kenneth P. Neilsen is an educator, artist, composer publisher and author, and was a Friend of Frederic Ewen (1899-1989), a professor of English from Brooklyn College who was forced to resign in 1952 because of his progressive politics and resistance to McCarthyism, and who later formed a theater company that produced plays. Neilson co-operated with Ewen in several such endeavors.</p>
-        </bioghist>
-        <acqinfo id="ref10">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Donated by Kenneth P. Neilson in 2011. The accession number 2011.030 is associated with this gift.</p>
-        </acqinfo>
-        <prefercite id="ref9">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Kenneth P. Neilson Collection on Frederic Ewen; TAM 574; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <userestrict id="ref7">
-            <head>Use Restrictions</head>
-            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Kenneth P. Neilson are held by Kenneth P. Neilson. Permission to publish or reproduce materials to which he holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Kenneth P. Neilson.</p>
-        </userestrict>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <arrangement id="ref5">
-            <head>Arrangement</head>
-            <p>This collection is arranged into one folder.</p>
-        </arrangement>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>The collection contains correspondence, notes, clippings, and playbills.</p>
-        </scopecontent>
-        <controlaccess>
-            <persname source="naf">Ewen, Frederic, 1899-</persname>
-            <persname source="naf">Neilson, Kenneth P.</persname>
-            <persname source="naf">Neilson, Kenneth P.</persname>
-            <subject source="lcsh">Authors, American.</subject>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <genreform source="aat">Correspondence.</genreform>
-            <subject source="lcsh">Dramatists, American.</subject>
-            <genreform source="aat">Playbills.</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>tam_574</eadid><filedesc><titlestmt><titleproper>Guide to the Kenneth P. Neilson Collection on Frederic Ewen <num>TAM 574</num></titleproper><author>Collection processed by Maggie Schreiner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-21T19:45:58</date></creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Kenneth P. Neilson Collection on Frederic Ewen</unittitle>
+    <unitid>TAM 574</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in one folder in a shared box</extent>
+    </physdesc>
+    <unitdate normal="1964/1989" type="inclusive">1964-1989</unitdate>
+    <abstract id="aspace_02f44d562b152cb981bb1463d2fa13e3">Kenneth P. Neilsen is an educator, artist, composer, publisher and author, and friend of Frederic Ewen. Ewen (1899-1989) was a professor of English from Brooklyn College who was forced to resign in 1952 because of his progressive politics and resistance to McCarthyism, and who later formed a theater company. The collection contains correspondence, notes, clippings, and playbills.</abstract>
+    <langmaterial id="aspace_3aac23b5d78605c5c059f3bf26a57395">Materials are in English</langmaterial>
+    <container id="aspace_b02ec13043a69c87a8c371b1d67398d3" label="Mixed Materials" type="Box">MS 002</container>
+  </did>
+  <accessrestrict id="aspace_6a1ffde150eba9a8dd84d1e930f1669b">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_800fb196f64e3bc024ef3b2415e2196d">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Kenneth P. Neilson in 2011. The accession number associated with this gift is 2011.030.</p>  </acqinfo>
+  <arrangement id="aspace_95342b669498d8fafd55b13a20187c9d">
+    <head>Arrangement</head>
+<p>This collection is arranged into one folder.</p>  </arrangement>
+  <bioghist id="aspace_70da4376a2b6fac013bcba8c79c5cf90">
+    <head>Historical/Biographical Note</head>
+<p>Kenneth P. Neilsen is an educator, artist, composer publisher and author, and was a Friend of Frederic Ewen (1899-1989), a professor of English from Brooklyn College who was forced to resign in 1952 because of his progressive politics and resistance to McCarthyism, and who later formed a theater company that produced plays. Neilson co-operated with Ewen in several such endeavors.</p>  </bioghist>
+  <prefercite id="aspace_dd3c658aa8ec89d432371490814621cf">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Kenneth P. Neilson Collection on Frederic Ewen; TAM 574; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_e89a0233e26a36c3e0fe6a5b0b4813e2">
+    <head>Scope and Contents</head>
+<p>The collection contains correspondence, notes, clippings, and playbills.</p>  </scopecontent>
+  <userestrict id="aspace_a1e3a6929e46605bf1e6de3eed9f82dd">
+    <head>Conditions Governing Use</head>
+<p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Kenneth P. Neilson, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Playbills.</genreform>
+    <subject source="lcsh">Dramatists, American.</subject>
+    <subject source="lcsh">Authors, American.</subject>
+    <genreform source="aat">Correspondence.</genreform>
+    <persname source="naf">Ewen, Frederic, 1899-</persname>
+    <persname source="naf">Neilson, Kenneth P.</persname>
+    <persname role="dnr" source="naf">Neilson, Kenneth P.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
