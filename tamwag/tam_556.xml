@@ -1,154 +1,48 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_556/">tam_556</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Samuel Joseph Papers
-                    <num>TAM.556</num>
-                </titleproper>
-                <author>Finding aid prepared by Peter Filardo</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>2010</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-11-04T14:56-0500</date>
-            </creation>
-            <langusage>Description is in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>November 2014</date>
-                <item>Edited by Maggie Schreiner to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Samuel Joseph Papers</unittitle>
-            <unitid>TAM.556</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid19923001" type="Box" label="Mixed materials">1</container>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>(1 box)</extent>
-            </physdesc>
-            <unitdate>1895-1900, undated</unitdate>
-            <langmaterial id="ref14" label="Language of Materials note">Materials are in English</langmaterial>
-            <abstract id="ref15" label="Abstract">Samuel Joseph (1858-1913) was a German American immigrant and apparently a member of the Socialist Labor Party. The collection contains several letters to Joseph, including one from Daniel De Leon, several unpublished manuscripts, including an untitled ms. about the Paris Exhibition of 1900 and the socialist movement in Europe, clippings, and biographical information.</abstract>
-            <origination label="creator">
-                <persname source="local">Joseph, Samuel, 1858-1913</persname>
-            </origination>
-        </did>
-        <userestrict id="ref13">
-            <head>Use Restrictions</head>
-            <p>Materials in this collection are in the public domain. Users need not secure permission from the Tamiment Library to publish or reproduce materials in this collection.</p>
-        </userestrict>
-        <accessrestrict id="ref12">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <bioghist id="ref3">
-            <head>Historical/Biographical Note</head>
-            <p>Samuel Joseph (1858-1913) was a German American immigrant and apparently a member of the Socialist Labor Party.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>The collection contains several letters to Joseph, including one from Daniel De Leon, several unpublished manuscripts, including "The Discovery of Neptune, and an untitled ms. about the Paris Exhibition of 1900 and the socialist movement in Europe (principally in France and Germany), clippings, and biographical information.</p>
-        </scopecontent>
-        <acqinfo id="ref16">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Materials found in collection; provenance is unknown. The accession number 2010.080 is associated with this collection.</p>
-        </acqinfo>
-        <prefercite id="ref17">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Samuel Joesph Papers; TAM 556; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <controlaccess>
-            <persname source="naf">De Leon, Daniel, 1852-1914</persname>
-            <corpname source="naf">Exposition universelle internationale de 1900 (Paris, France).</corpname>
-            <persname source="local">Joseph, Samuel, 1858-1913</persname>
-            <corpname source="naf">Socialist Labor Party.</corpname>
-            <subject source="local">German American socialists.</subject>
-            <subject source="lcsh">Socialists |z United States.</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref4" level="file">
-                <did>
-                    <unittitle>Biographical Information</unittitle>
-                    <container id="cid19923009" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid19923009" type="Folder">1</container>
-                    <container id="cid19923002" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid19923002" type="Folder"></container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref6" level="file">
-                <did>
-                    <unittitle>Bread from Ancient Egypt (ms., 1 p.)</unittitle>
-                    <container id="cid19923003" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid19923003" type="Folder">2</container>
-                    <unitdate>Nov 1897</unitdate>
-                </did>
-            </c>
-            <c id="ref7" level="file">
-                <did>
-                    <unittitle>
-                        <emph render="italic">Connecticut Labor Herald</emph>: Envelope with Clippings Sent to Samual Joseph in Handsboro, Mississippi [fragile]</unittitle>
-                    <container id="cid19923004" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid19923004" type="Folder">3</container>
-                    <unitdate>Feb 8, 1895</unitdate>
-                </did>
-            </c>
-            <c id="ref8" level="file">
-                <did>
-                    <unittitle>De Leon, Daniel: Letter to Samuel Joseph</unittitle>
-                    <container id="cid19923005" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid19923005" type="Folder">4</container>
-                    <unitdate>Jun 30, 1898</unitdate>
-                </did>
-            </c>
-            <c id="ref9" level="file">
-                <did>
-                    <unittitle>The Discovery of Neptune [
-                        <emph render="italic">Kollmorgen Vorwarts</emph>; ms., pp. 1-4, 6]</unittitle>
-                    <container id="cid19923006" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid19923006" type="Folder">5</container>
-                    <unitdate>ca. 1896</unitdate>
-                </did>
-            </c>
-            <c id="ref10" level="file">
-                <did>
-                    <unittitle>Milliken, Jno. B. [Connecticut Building and Loan Association]: Letter to Samuel Joseph re the latter's Studies of the Work of Karl Marx</unittitle>
-                    <container id="cid19923007" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid19923007" type="Folder">6</container>
-                    <unitdate>Apr 18, 1895</unitdate>
-                </did>
-            </c>
-            <c id="ref11" level="file">
-                <did>
-                    <unittitle>Unitled ms. of the Paris Exhibition of 1900 and the Socialist Movement in Europe [chapter length]</unittitle>
-                    <container id="cid19923008" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid19923008" type="Folder">7</container>
-                    <unitdate>ca. 1900</unitdate>
-                </did>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_556/">tam_556</eadid><filedesc><titlestmt><titleproper>Guide to the Samuel Joseph Papers <num>TAM 556</num></titleproper><author>Collection processed by Peter Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-06-19T20:36:45</date></creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Samuel Joseph Papers</unittitle>
+    <unitid>TAM 556</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate>1895-1900, undated</unitdate>
+    <abstract id="aspace_3daab16385e13b3cdc79b1441943efa1">Samuel Joseph (1858-1913) was a German American immigrant and apparently a member of the Socialist Labor Party. The collection contains several letters to Joseph, including one from Daniel De Leon, several unpublished manuscripts, including an untitled ms. about the Paris Exhibition of 1900 and the socialist movement in Europe, clippings, and biographical information.</abstract>
+    <langmaterial id="aspace_4339d5226b46e387432641e771c49cc4">Materials are in English</langmaterial>
+    <container altrender="Manuscript box - Legal - Half" id="aspace_6027c13a2a632bec07094b2bb70849b4" label="Mixed Materials" type="Box">1</container>
+  </did>
+  <accessrestrict id="aspace_e9963eb3c8a13beb8e141df514443239">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <acqinfo id="aspace_bfb720be1f5d753c8bf172a9cb3e0502">
+    <head>Immediate Source of Acquisition</head>
+<p>Materials found in collection; provenance is unknown. The accession number associated with this collection is 2010.080.</p>  </acqinfo>
+  <bioghist id="aspace_888ab65ecf278608039da75cb3186dfb">
+    <head>Historical/Biographical Note</head>
+<p>Samuel Joseph (1858-1913) was a German American immigrant and apparently a member of the Socialist Labor Party.</p>  </bioghist>
+  <prefercite id="aspace_a8a4b61f09acb7564b43f115956039e7">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Samuel Joesph Papers; TAM 556; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <scopecontent id="aspace_20415ad0341e8830457c453d10e0d243">
+    <head>Scope and Contents</head>
+<p>The collection contains several letters to Joseph, including one from Daniel De Leon, several unpublished manuscripts, including "The Discovery of Neptune, and an untitled ms. about the Paris Exhibition of 1900 and the socialist movement in Europe (principally in France and Germany), clippings, and biographical information.</p>  </scopecontent>
+  <userestrict id="aspace_733290b61f1e9561e28589d71046c4fc">
+    <head>Conditions Governing Use</head>
+<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1895-1900, are expected to enter the public domain in 2020.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Socialists -- United States.</subject>
+    <subject source="local">German American socialists.</subject>
+    <persname source="local">Joseph, Samuel, 1858-1913</persname>
+    <persname source="naf">De Leon, Daniel, 1852-1914</persname>
+    <corpname source="naf">Socialist Labor Party</corpname>
+    <corpname source="naf">Exposition universelle internationale de 1900 (Paris, France)</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref4" level="file"><did><unittitle>Biographical Information</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e31c6815a23e2979bc6b79939a0753f5" label="Mixed Materials" type="Box">1</container><container parent="aspace_e31c6815a23e2979bc6b79939a0753f5" type="Folder">1</container><container altrender="Manuscript box - Legal - Half" id="aspace_5419a43e89680bfe243e699e5646db87" label="Mixed Materials" type="Box">1</container><container parent="aspace_5419a43e89680bfe243e699e5646db87" type="Folder">data_value_missing_fc4c3b1cff38370718da537709171ca8</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Bread from Ancient Egypt (ms., 1 p.)</unittitle><unitdate>Nov 1897</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f38b2b5e7ee7f33c72274697c483cfc5" label="Mixed Materials" type="Box">1</container><container parent="aspace_f38b2b5e7ee7f33c72274697c483cfc5" type="Folder">2</container></did></c><c id="aspace_ref7" level="file"><did><unittitle><emph render="italic">Connecticut Labor Herald</emph>: Envelope with Clippings Sent to Samual Joseph in Handsboro, Mississippi [fragile]</unittitle><unitdate>Feb 8, 1895</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_94ca0b31823dd71f48f1699629cd57f8" label="Mixed Materials" type="Box">1</container><container parent="aspace_94ca0b31823dd71f48f1699629cd57f8" type="Folder">3</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>De Leon, Daniel: Letter to Samuel Joseph</unittitle><unitdate>Jun 30, 1898</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_aa3d4f82d079c3bd6872fcf098efb81e" label="Mixed Materials" type="Box">1</container><container parent="aspace_aa3d4f82d079c3bd6872fcf098efb81e" type="Folder">4</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>The Discovery of Neptune [<emph render="italic">Kollmorgen Vorwarts</emph>; ms., pp. 1-4, 6]</unittitle><unitdate>ca. 1896</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_870e436b37cc411a3cf49e3809454fc3" label="Mixed Materials" type="Box">1</container><container parent="aspace_870e436b37cc411a3cf49e3809454fc3" type="Folder">5</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Milliken, Jno. B. [Connecticut Building and Loan Association]: Letter to Samuel Joseph re the latter's Studies of the Work of Karl Marx</unittitle><unitdate>Apr 18, 1895</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b671f99d1948f44bbd2bf85c0d78c44d" label="Mixed Materials" type="Box">1</container><container parent="aspace_b671f99d1948f44bbd2bf85c0d78c44d" type="Folder">6</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Unitled ms. of the Paris Exhibition of 1900 and the Socialist Movement in Europe [chapter length]</unittitle><unitdate>ca. 1900</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1d35a43ed35ac09510f9b888a72c9ac8" label="Mixed Materials" type="Box">1</container><container parent="aspace_1d35a43ed35ac09510f9b888a72c9ac8" type="Folder">7</container></did></c></dsc>
+</archdesc>
 </ead>
