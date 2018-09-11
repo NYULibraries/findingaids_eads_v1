@@ -5,9 +5,9 @@ jobs:
       - image: appropriate/curl
     steps:
       - run:
-          name: Curl findingaids
+          name: Call job to reindex changed EADs on each push to GitHub
           command: |
-            curl -u ${CIRCLE_API_USER_TOKEN}: \
+            curl -u ${FINDINGAIDS_CIRCLE_API_USER_TOKEN}: \
               -d build_parameters[CIRCLE_JOB]=reindex_changed \
               https://circleci.com/api/v1.1/project/github/NYULibraries/findingaids/tree/feature/move_crons_to_circle
 
