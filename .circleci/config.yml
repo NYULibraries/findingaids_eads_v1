@@ -1,0 +1,22 @@
+version: 2
+jobs:
+  deploy:
+    docker:
+      - image: appropriate/curl
+    steps:
+      - run:
+          name: Curl findingaids
+          command: |
+            curl -u ${CIRCLE_API_USER_TOKEN}: \
+              -d build_parameters[CIRCLE_JOB]=reindex_changed \
+              https://circleci.com/api/v1.1/project/github/NYULibraries/findingaids/tree/feature/move_crons_to_circle
+
+workflows:
+  version: 2
+  deploy-from-findingaids-repos:
+    jobs:
+      - deploy:
+          filters:
+            branches:
+              only:
+                - master
