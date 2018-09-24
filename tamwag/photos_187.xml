@@ -1,125 +1,58 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_187">photos_187</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Roger Keeran Photographs
-                    <num>PHOTOS.187</num>
-                </titleproper>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>March 2013</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-09-25T17:11-0400</date>
-            </creation>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>2014</date>
-                <item>Edited by Mary Corcoran for compliance with DACS and Tamiment Required Elements for Archival Description. Edited by Nicole Greenhouse to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Roger Keeran Photographs</unittitle>
-            <unitid>PHOTOS.187</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>in 3 folders.</extent>
-            </physdesc>
-            <unitdate normal="1983/1983">1983</unitdate>
-            <langmaterial id="ref8" label="Language of Materials Note">Materials are in English</langmaterial>
-            <abstract id="ref15" label="Abstract">The Roger Keeran Photographs document a meeting and a picnic held by District Council 65 of the United Automobile Workers (UAW). The dates and locations of both events are unknown.</abstract>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Keeran, Roger</persname>
-            </origination>
-        </did>
-        <bioghist id="ref4">
-            <head>Historical/Biographical Note</head>
-            <p>Scholar Roger Keeran publicly identifies as a member of the Communist Party, and as of 2013, Keeran is the Labor and Policy Studies Coordinator at Empire State College in New York. Keeran has published widely on subjects related to labor, communism, and the Left.</p>
-            <p>District Council 65 began its affiliation with the UAW in 1979. In 1994, District Council 65 dissolved as a result of bankruptcy.</p>
-        </bioghist>
-        <prefercite id="ref5">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Roger Keeran Photographs; PHOTOS 187; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <accessrestrict id="ref6">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref7">
-            <head>Use Restrictions</head>
-            <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2103. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
-        </userestrict>
-        <processinfo id="ref12">
-            <head>Processing Information Note</head>
-            <p>The Roger Keeran Photographs were rehoused in a shared box in March 2013.</p>
-        </processinfo>
-        <acqinfo id="ref11">
-            <head>Immediate Source of Acquisition</head>
-            <p>Provenance is unknown. The accession numbers associated with this collection are 1950.039 and NPA.2001.002.</p>
-        </acqinfo>
-        <arrangement id="ref10">
-            <head>Arrangement</head>
-            <p>Materials have been arranged by an archivist within 3 folders.</p>
-        </arrangement>
-        <relatedmaterial id="ref13">
-            <head>Related Archival Materials Note</head>
-            <p>United Automobile Workers of America, District 65 Oral History Collection (OH 019) 
-                <lb/> United Automobile Workers of America, District 65 Photographs - Part I: Negatives (PHOTOS 023) 
-                <lb/> United Automobile Workers of America, District 65 Photographs - Part II: Photographic Prints (PHOTOS 023) 
-                <lb/> United Automobile Workers of America, District 65 Printed Ephemera Collection (PE 016) 
-                <lb/> United Automobile Workers of America, District 65 Records (WAG 006) 
-                <lb/></p>
-        </relatedmaterial>
-        <scopecontent id="ref14">
-            <head>Scope and Content Note</head>
-            <p>The Roger Keeran Photographs document a meeting and a picnic held by District Council 65 of the United Automobile Workers of America (UAW).</p>
-        </scopecontent>
-        <controlaccess>
-            <subject source="lcsh">Automobile industry workers |x Labor unions |z United States.</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref1" level="file">
-                <did>
-                    <unittitle>United Auto Workers Meeting</unittitle>
-                    <container id="cid22250001" type="Box" label="Photographs">A002</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref3" level="file">
-                <did>
-                    <unittitle>United Auto Workers Meeting (negatives)</unittitle>
-                    <container id="cid22250003" type="Box" label="Photographs">A002</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-            <c id="ref2" level="file">
-                <did>
-                    <unittitle>United Auto Workers Picnic</unittitle>
-                    <container id="cid22250002" type="Box" label="Photographs">A002</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_187">photos_187</eadid><filedesc><titlestmt><titleproper>Guide to the Roger Keeran Photographs <num>PHOTOS.187</num></titleproper></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-09-24T20:11:14</date></creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Roger Keeran Photographs</unittitle>
+    <origination label="creator">
+      <persname rules="dacs" source="local">Keeran, Roger</persname>
+    </origination>
+    <unitid>PHOTOS.187</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 3 folders.</extent>
+    </physdesc>
+    <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+    <langmaterial id="aspace_40270ae98cc6c4f4d32ef2f34c4b2700">Materials are in English</langmaterial>
+    <abstract id="aspace_d5fa983e1c6c5b71cbbdcc24fff629cb">The Roger Keeran Photographs document a meeting and a picnic held by District Council 65 of the United Automobile Workers (UAW).  The dates and locations of both events are unknown.</abstract>
+  </did>
+  <bioghist id="aspace_ac0db60a84391ba60826090fe1cd4a15">
+    <head>Historical/Biographical Note</head>
+<p>Scholar Roger Keeran publicly identifies as a member of the Communist Party, and as of 2013, Keeran is the Labor and Policy Studies Coordinator at Empire State College in New York.  Keeran has published widely on subjects related to labor, communism, and the Left.  </p><p>District Council 65 began its affiliation with the UAW in 1979.  In 1994, District Council 65 dissolved as a result of bankruptcy.</p>  </bioghist>
+  <prefercite id="aspace_774a5aaeca87f755bf3eb9cee5508bbf">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Roger Keeran Photographs; PHOTOS 187; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <accessrestrict id="aspace_9e295fb23c3c43e36a4ab167b1c874c7">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_abe20f5649b898c285fe8a1a735b80dd">
+    <head>Conditions Governing Use</head>
+<p>The Tamiment Library and Robert F. Wagner Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1983, are expected to enter the public domain in 2104.</p>  </userestrict>
+  <processinfo id="aspace_1cacd32bf2c166cba016bf02614faecc">
+    <head>Processing Information Note</head>
+<p>The Roger Keeran Photographs were rehoused in a shared box in March 2013.</p>  </processinfo>
+  <acqinfo id="aspace_bde9f4e17a3c4baf8d022e88a6dc86d4">
+    <head>Immediate Source of Acquisition</head>
+<p>The provenance of this collection is unknown. The accession numbers associated with this collection are 1950.039 and NPA.2001.002.</p>  </acqinfo>
+  <arrangement id="aspace_62b22c3af55686897184d14e4a4b55a1">
+    <head>Arrangement</head>
+<p>Materials have been arranged by an archivist within 3 folders.</p>  </arrangement>
+  <relatedmaterial id="aspace_a1bbf2602c2207510efa4abc5648a36a">
+    <head>Related Archival Materials Note</head>
+<p>United Automobile Workers of America, District 65 Oral History Collection (OH 019) <lb/>
+United Automobile Workers of America, District 65 Photographs - Part I: Negatives (PHOTOS 023) <lb/>
+United Automobile Workers of America, District 65 Photographs - Part II: Photographic Prints (PHOTOS 023) <lb/>
+United Automobile Workers of America, District 65 Printed Ephemera Collection (PE 016) <lb/>
+United Automobile Workers of America, District 65 Records (WAG 006) <lb/></p>  </relatedmaterial>
+  <scopecontent id="aspace_4d29c3a5df9710d5209b323cc58d1a60">
+    <head>Scope and Content Note</head>
+<p>The Roger Keeran Photographs document a meeting and a picnic held by District Council 65 of the United Automobile Workers of America (UAW).</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Automobile industry workers |x Labor unions |z United States.</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ref1" level="file"><did><unittitle>United Auto Workers Meeting</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - lengthwise" id="aspace_e01837729aad538d5ed98047e3933228" label="Photographs [31142062722890]" type="Box">A002</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>United Auto Workers Meeting (negatives)</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - lengthwise" id="aspace_77630612c07c5bcf7ec2a27ca70bf6a8" label="Photographs [31142062722890]" type="Box">A002</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>United Auto Workers Picnic</unittitle><unitdate>undated</unitdate><container altrender="Manuscript box - Legal - lengthwise" id="aspace_114550f45312679ae88ae155bda44344" label="Photographs [31142062722890]" type="Box">A002</container></did></c></dsc>
+</archdesc>
 </ead>
