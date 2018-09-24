@@ -1,108 +1,59 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_194">photos_194</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Conrad Firestein Photographs
-                    <num>PHOTOS.194</num>
-                </titleproper>
-                <author>Finding aid prepared by Edited by Mary Corcoran for compliance with DACS and Tamiment Required Elements for Archival Description</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>February 2013</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-10-02T17:45-0400</date>
-            </creation>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>October 2014</date>
-                <item>Edited by Nicole Greenhouse to reflect updated administrative information</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Conrad Firestein Photographs</unittitle>
-            <unitid>PHOTOS.194</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>in 1 folder.</extent>
-            </physdesc>
-            <unitdate normal="1982/1982">circa 1982</unitdate>
-            <abstract id="ref4" label="Abstract">The Conrad Firestein Photographs contain one photographic print of the late photographer John Albok, shot circa 1982.</abstract>
-            <langmaterial id="ref10" label="Language of Materials Note">Materials are in English</langmaterial>
-            <origination label="creator">
-                <persname source="ingest">Firestein, Conrad.</persname>
-            </origination>
-        </did>
-        <bioghist id="ref7">
-            <head>Historical/Biographical Note</head>
-            <p>Conrad Firestein is an Amsterdam-based photographer whose portfolio documents fashion, beauty, lifestyles, and interiors from the late-20th century through the present. The subject of Firestein’s collection, the late John Albok, was a celebrated tailor and photographer best known for his images of New York shot during the Great Depression.</p>
-        </bioghist>
-        <processinfo id="ref13">
-            <head>Processing Information Note</head>
-            <p>The Conrad Firestein Photographs were rehoused in February 2013.</p>
-        </processinfo>
-        <arrangement id="ref5">
-            <head>Arrangement Note</head>
-            <p>The Conrad Firestein Photographs were arranged by an archivist within a single folder.</p>
-        </arrangement>
-        <prefercite id="ref11">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Conrad Firestein Photographs; PHOTOS 194; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <acqinfo id="ref9">
-            <head>Immediate Source of Acquisition Note</head>
-            <p>Conrad Firestein sent a gift of one photograph of John Albok accession on January 7, 2005. The accession numbers associated with this gift are 2005.042 and NPA.2005.008.</p>
-        </acqinfo>
-        <accessrestrict id="ref8">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <userestrict id="ref3">
-            <head>Conditions Governing Use</head>
-            <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Conrad Firestein are held by Conrad Firestein. Permission to publish or reproduce materials to which he holds copyright must be secured from the copyright holder. Please contact the Tamiment Library for assistance with contacting Conrad Firestein.</p>
-        </userestrict>
-        <relatedmaterial id="ref14">
-            <head>Related Archival Materials</head>
-            <p>John Albok Photographs, Part I: Negatives (PHOTOS 063) 
-                <lb/> John Albok Photographs, Part II: Photographic Prints (PHOTOS 063)</p>
-        </relatedmaterial>
-        <scopecontent id="ref1">
-            <head>Scope and Content Note</head>
-            <p>The Conrad Firestein Photographs contain an 8"x10" black and white fiber-based portrait of the late tailor and photographer John Albok.</p>
-        </scopecontent>
-        <controlaccess>
-            <persname source="naf">Albok, John, 1894-1982</persname>
-            <persname source="ingest">Firestein, Conrad.</persname>
-        </controlaccess>
-        <dsc>
-            <c id="ref2" level="file">
-                <did>
-                    <unittitle>Albok, John</unittitle>
-                    <container id="cid22240002" type="Box" label="Photographs">A002</container>
-                    <unitdate normal="1982/1982">circa 1982</unitdate>
-                </did>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_194">photos_194</eadid><filedesc><titlestmt><titleproper>Guide to the Conrad Firestein Photographs <num>PHOTOS.194</num></titleproper><author>Collection processed by Edited by Mary Corcoran for compliance with DACS and Tamiment Required Elements for Archival Description</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>10th Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2630</addressline><addressline>tamiment.wagner@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-09-24T19:44:50</date></creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Conrad Firestein Photographs</unittitle>
+    <origination label="creator">
+      <persname rules="dacs" source="local">Firestein, Conrad</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="dacs" source="local">Firestein, Conrad</persname>
+    </origination>
+    <unitid>PHOTOS.194</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in 1 folder.</extent>
+    </physdesc>
+    <unitdate normal="1982/1982" type="inclusive">circa 1982</unitdate>
+    <abstract id="aspace_4b799b811b5feec8cdf009fcb849b4d8">The Conrad Firestein Photographs contain one photographic print of the late photographer John Albok, shot circa 1982.</abstract>
+    <langmaterial id="aspace_ccdfe793c13c5bec47fb09cdfbc9a3a8">Materials are in English</langmaterial>
+  </did>
+  <bioghist id="aspace_0a272a2e6bcacafae8d5bba871be1aca">
+    <head>Historical/Biographical Note</head>
+<p>Conrad Firestein is an Amsterdam-based photographer whose portfolio documents fashion, beauty, lifestyles, and interiors from the late-20th century through the present.  The subject of Firestein's collection, the late John Albok, was a celebrated tailor and photographer best known for his images of New York shot during the Great Depression.</p>  </bioghist>
+  <processinfo id="aspace_54e352d9652556ee2d95b835a0fc7d61">
+    <head>Processing Information Note</head>
+<p>The Conrad Firestein Photographs were rehoused in February 2013.</p>  </processinfo>
+  <arrangement id="aspace_51e1a4696492934cd6b974fc1beccee5">
+    <head>Arrangement Note</head>
+<p>The Conrad Firestein Photographs were arranged by an archivist within a single folder.</p>  </arrangement>
+  <prefercite id="aspace_93c7f40e24e854d0c5e262e8f0aad5f4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Conrad Firestein Photographs; PHOTOS 194; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <acqinfo id="aspace_9b9a3a39ff0ee7d12a59161c05e03b4e">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated by Conrad Firestein sent, 2005. The accession numbers associated with this gift are 2005.042 and NPA.2005.008.</p>  </acqinfo>
+  <accessrestrict id="aspace_b2e08e4bdafa99aa93c29b84aa23a88b">
+    <head>Conditions Governing Access</head>
+<p>Materials are open without restrictions.</p>  </accessrestrict>
+  <userestrict id="aspace_9b5d677096fa580d88827e96c937b0fb">
+    <head>Conditions Governing Use</head>
+<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
+  <relatedmaterial id="aspace_745d49953a0745c34385395763afc567">
+    <head>Related Archival Materials</head>
+<p>John Albok Photographs, Part I: Negatives (PHOTOS 063) <lb/>
+John Albok Photographs, Part II: Photographic Prints (PHOTOS 063)</p>  </relatedmaterial>
+  <scopecontent id="aspace_e427c402db743905685da56cb55e2dc8">
+    <head>Scope and Content Note</head>
+<p>The Conrad Firestein Photographs contain an 8"x10" black and white fiber-based portrait of the late tailor and photographer John Albok.</p>  </scopecontent>
+  <controlaccess>
+    <persname role="dnr" rules="dacs" source="local">Firestein, Conrad</persname>
+    <persname source="naf">Albok, John, 1894-1982</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref2" level="file"><did><unittitle>Albok, John</unittitle><unitdate normal="1982/1982" type="inclusive">circa 1982</unitdate><container altrender="Manuscript box - Legal - lengthwise" id="aspace_b430323ff21f4304efa9b666931368d5" label="Photographs [31142062722890]" type="Box">A002</container></did></c></dsc>
+</archdesc>
 </ead>
