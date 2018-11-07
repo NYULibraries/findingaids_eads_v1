@@ -1,128 +1,82 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_152_brooklyn_railroad_subway</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Brooklyn commuter railroad and subway collection
-                    <num>ARC.152</num>
-                </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>December 13, 2010</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T10:30-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Brooklyn railroad and subway collection</unittitle>
-            <unitid>ARC.152</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid548001" type="Box" label="Text">ARC.152 1 of 1</container>
-            <physdesc>
-                <extent>0.4 Linear feet</extent>
-                <extent>in one manuscript box</extent>
-            </physdesc>
-            <unitdate normal="1853/1958" type="inclusive">1853-1958</unitdate>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Central and Jamaica Railroad Company.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn, East New York and Rockaway Railroad Company (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn-Manhattan Transit Company.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Grand St., Flatbush and Prospect Park Railroad Company (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="naf">Interborough Rapid Transit Company.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Long Island Railroad Company.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">New York (State). Metropolitan Transit Authority.</corpname>
-            </origination>
-        </did>
-        <prefercite id="ref2">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Brooklyn Commuter Railroad and Subway collection, ARC.152, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref3">
-            <head>Historical note</head>
-            <p>Commuter railroad service in Brooklyn dates to 1834 and the founding of the Long Island Railroad (LIRR) during that year. Originally conceived as a means to connect Brooklyn to Boston, Massachusetts more directly, the LIRR played a significant role in the development and economic growth of Long Island's suburban communities, particularly after the railroad was directly linked to Manhattan in the 1880s. As of 2010, the LIRR is the largest and busiest commuter railroad in the United States, with tracks spanning from Penn Station in Manhattan to the far eastern reaches of Long Island, and a daily ridership of over 200,000 commuters.</p>
-            <p>The Interborough Rapid Transit Company (IRT) began construction of the first subway line in New York City in 1900. In 1909, construction began on Brooklyn's first subway line, the 4th Avenue subway. To encourage the rapid growth of subway construction, in 1913 the City of New York divided the disbursement of contracts between two companies: the IRT and the Brooklyn Rapid Transit Company (BRT), which was later renamed the Brooklyn-Manhattan Transit Corporation (BMT). Under the "dual contract" system, the IRT was awarded rights to expand the existing Manhattan, Brooklyn, and Bronx lines, while the BMT was awarded contracts for the construction of new lines in Manhattan, Brooklyn, and Queens. In the 1920s, the city-owned Independent Subway System (IND) was established to further expand the capacity of the city's subway system, as well as to compete with the privately-owned IRT and BMT. The IND's first completed line, the Eighth Avenue subway, opened in 1932.</p>
-            <p>In 1940, the IRT and BMT were acquired by the city and all three lines were consolidated with the IND into the New York City Board of Transportation. In 1953, the New York City Transit Authority (NYCTA) was established as a public benefit corporation to operate the subway system, and in 1968 the NYCTA was placed under the control of the Metropolitan Transit Authority, which continues to oversee and operate New York City's subway system as of 2010.</p>
-            <list numeration="arabic" type="ordered">
-                <head>Sources:</head>
-                <item>"History of Public Transportation in New York City," New York Transit Museum, accessed December 9, 2010, http://www.transitmuseumeducation.org/trc/background</item>
-            </list>
-        </bioghist>
-        <processinfo id="ref4">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>The source and date of acquisition for this collection are unknown.</p>
-        </acqinfo>
-        <accessrestrict id="ref6">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <scopecontent id="ref7">
-            <head>Scope and Contents</head>
-            <p>The Brooklyn Commuter Railroad and Subway collection measures 0.4 linear feet and spans the years 1853 to 1958. It is assembled of documents produced by many of the companies and organizations responsible for the development of Brooklyn and New York City's transportation infrastructure from the late-19th century to the mid-20th century. The bulk of the collection consists of bound volumes of 
-                <emph render="italic">BMT Monthly</emph>, a newsletter for employees of the BMT. These volumes span the dates 1917 to 1933. Also included in the collection are annual reports of the Brooklyn-Manhattan Transit Corproation (BMT), the Long Island Railroad (LIRR), the Brooklyn Rapid Transit Company (BRT), the Board of Commissioners of Electrical Subways of the City of New York, and the Interborough Rapid Transit Company (IRT); employee handbooks published by the Board of Transportation of the City of New York; the by-laws and charter of the Brooklyn, East New York and Rockaway Railroad Company; the by-laws of the Grand St., Prospect Park and Flatbush Railroad Company; and the by-laws and charter of the Brooklyn Central and Jamaica Railroad Company.</p>
-        </scopecontent>
-        <controlaccess>
-            <corpname rules="dacs" source="local">Brooklyn Central and Jamaica Railroad Company.</corpname>
-            <corpname rules="dacs" source="local">Brooklyn, East New York and Rockaway Railroad Company (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn-Manhattan Transit Company.</corpname>
-            <corpname rules="dacs" source="local">Grand St., Flatbush and Prospect Park Railroad Company (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="naf">Interborough Rapid Transit Company.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Long Island Railroad Company.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">New York (State). Metropolitan Transit Authority.</corpname>
-            <genreform source="aat">Annual reports</genreform>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Bylaws (administrative records)</genreform>
-            <genreform source="aat">Charters</genreform>
-            <genreform source="aat">Employees' manuals</genreform>
-            <subject source="lcsh">Local transit |z New York (State) |z New York</subject>
-            <subject source="lcsh">Railroad companies |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Railroad companies |z New York (State) |z New York</subject>
-            <subject source="lcsh">Subways |z New York (State) |z New York</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_152_brooklyn_railroad_subway/">arc_152_brooklyn_railroad_subway</eadid><filedesc><titlestmt><titleproper>Brooklyn commuter railroad and subway collection <num>ARC.152</num></titleproper><author>Collection processed by Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-11-07T19:35:53</date></creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng"/>
+    </langmaterial>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn railroad and subway collection</unittitle>
+    <origination label="creator">
+      <corpname rules="aacr" source="naf">Brooklyn-Manhattan Transit Company</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname rules="dacs" source="local">Brooklyn, East New York and Rockaway Railroad Company (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname rules="aacr" source="naf">Long Island Railroad Company</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname rules="dacs" source="local">Grand St., Flatbush and Prospect Park Railroad Company (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname rules="dacs" source="local">Brooklyn Central and Jamaica Railroad Company</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname rules="dacs" source="naf">Interborough Rapid Transit Company</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname rules="aacr" source="naf">New York (State). Metropolitan Transportation Authority</corpname>
+    </origination>
+    <unitid>ARC.152</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.4 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box</extent>
+    </physdesc>
+    <unitdate normal="1853/1958" type="inclusive">1853-1958</unitdate>
+    <abstract id="aspace_fdc0f2ef0528a1cbe908ca0c5b08bcbc">The Brooklyn Commuter Railroad and Subway collection measures 0.4 linear feet and spans the years 1853 to 1958. It is assembled of documents produced by many of the companies and organizations responsible for the development of Brooklyn and New York City's transportation infrastructure from the late-19th century to the mid-20th century. </abstract>
+    <container id="aspace_01798bef71e529466d8a86e21b32b32a" label="Text" type="Box">ARC.152 1 of 1</container>
+  </did>
+  <prefercite id="aspace_1582dd53e1eb87a517b95a180ed1ed55">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn Commuter Railroad and Subway collection, ARC.152, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_60241a22784b0cdd4d766a73ac1e13dc">
+    <head>Historical note</head>
+<p>Commuter railroad service in Brooklyn dates  to 1834 and the founding of the Long Island Railroad (LIRR) during that year. Originally conceived as a means to connect Brooklyn to Boston, Massachusetts more directly, the LIRR played a significant role in the development and economic growth of Long Island's suburban communities, particularly after the railroad was directly linked to Manhattan in the 1880s. As of 2010, the LIRR is the largest and busiest commuter railroad in the United States, with tracks spanning from Penn Station in Manhattan to the far eastern reaches of Long Island, and a daily ridership of over 200,000 commuters.</p><p>The Interborough Rapid Transit Company (IRT) began construction of the first subway line in New York City in 1900. In 1909, construction began on Brooklyn's first subway line, the 4th Avenue subway. To encourage the rapid growth of subway construction, in 1913 the City of New York divided the disbursement of contracts between two companies: the IRT and the Brooklyn Rapid Transit Company (BRT), which was later renamed the Brooklyn-Manhattan Transit Corporation (BMT). Under the "dual contract" system, the IRT was awarded rights to expand the existing Manhattan, Brooklyn, and Bronx lines, while the BMT was awarded contracts for the construction of new lines in Manhattan, Brooklyn, and Queens. In the 1920s, the city-owned Independent Subway System (IND) was established to further expand the capacity of the city's subway system, as well as to compete with the privately-owned IRT and BMT. The IND's first completed line, the Eighth Avenue subway, opened in 1932. </p><p>In 1940, the IRT and BMT were acquired by the city and all three lines were consolidated with the IND into the New York City Board of Transportation. In 1953, the New York City Transit Authority (NYCTA) was established as a public benefit corporation to operate the subway system, and in 1968 the NYCTA was placed under the control of the Metropolitan Transit Authority, which continues to oversee and operate New York City's subway system as of 2010.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>"History of Public Transportation in New York City," New York Transit Museum, accessed December 9, 2010, http://www.transitmuseumeducation.org/trc/background</item>
+    </list>
+  </bioghist>
+  <processinfo id="aspace_674a43883103eeea42b0b509a7031aea">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p><p>Material found in repository added to collection by Lena Evers-Hillstrom in October 2018. </p>  </processinfo>
+  <acqinfo id="aspace_2738e6a6f0db0e08357b9a10daeee4eb">
+    <head>Immediate Source of Acquisition</head>
+<p>The source and date of acquisition for this collection are unknown.</p>  </acqinfo>
+  <accessrestrict id="aspace_9846a8e992493d87e64c908945482105">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_f823c3c4eea5104c5216b0ae5b915aba">
+    <head>Scope and Contents</head>
+<p>The Brooklyn Commuter Railroad and Subway collection measures 0.4 linear feet and spans the years 1853 to 1958. It is assembled of documents produced by many of the companies and organizations responsible for the development of Brooklyn and New York City's transportation infrastructure from the late-19th century to the mid-20th century. The bulk of the collection consists of bound volumes of <emph render="italic">BMT Monthly</emph>, a newsletter for employees of the BMT. These volumes span the dates 1917 to 1933. Also included in the collection are annual reports of the Brooklyn-Manhattan Transit Corproation (BMT), the Long Island Railroad (LIRR), the Brooklyn Rapid Transit Company (BRT), the Board of Commissioners of Electrical Subways of the City of New York, and the Interborough Rapid Transit Company (IRT); employee handbooks published by the Board of Transportation of the City of New York; the by-laws and charter of the Brooklyn, East New York and Rockaway Railroad Company; the by-laws of the Grand St., Prospect Park and Flatbush Railroad Company; and the by-laws and charter of the Brooklyn Central and Jamaica Railroad Company. The collection also includes two Brooklyn elevated railroad company bonds.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Railroad companies |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Local transit |z New York (State) |z New York</subject>
+    <subject source="lcsh">Railroad companies |z New York (State) |z New York</subject>
+    <genreform source="aat">Annual reports</genreform>
+    <subject source="lcsh">Subways |z New York (State) |z New York</subject>
+    <genreform source="aat">Bylaws (administrative records)</genreform>
+    <genreform source="aat">Employees' manuals</genreform>
+    <genreform source="aat">Charters</genreform>
+    <corpname rules="aacr" source="naf">Brooklyn-Manhattan Transit Company</corpname>
+    <corpname rules="dacs" source="local">Grand St., Flatbush and Prospect Park Railroad Company (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Brooklyn, East New York and Rockaway Railroad Company (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="aacr" source="naf">Long Island Railroad Company</corpname>
+    <corpname rules="dacs" source="local">Brooklyn Central and Jamaica Railroad Company</corpname>
+    <corpname rules="dacs" source="naf">Interborough Rapid Transit Company</corpname>
+    <corpname rules="aacr" source="naf">New York (State). Metropolitan Transportation Authority</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
