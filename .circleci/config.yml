@@ -1,0 +1,38 @@
+docker-defaults: &docker-defaults
+  docker:
+    - image: quay.io/nyulibraries/circleci_docker:18.06.1-dc-1.23.2-0
+  working_directory: ~/app
+
+auth_quay: &auth_quay
+  run:
+    name: Authenticate Quay 
+    command: |
+      docker login -u "$QUAY_USERNAME" --password "$QUAY_PASSWORD" quay.io
+
+hermes_deploy: &hermes_deploy
+  run:
+    name: Deploy via Hermes
+    command: |
+      export TAG=${CIRCLE_BRANCH//\//_}-${CIRCLE_SHA1}
+      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-index -tag=$TAG
+      docker run -e HERMES_HOST -e HERMES_SECRET -e HERMES_WAIT_TIMEOUT=6m quay.io/nyulibraries/hermesclient:master jobStatus -job=specialcollections-git-trigger-index
+
+version: 2
+jobs:
+  deploy-prod:
+    <<: *docker-defaults
+    steps:
+      - setup_remote_docker
+      - <<: *auth_quay
+      - run:
+          name: Export Hermes Prod env vars
+          command: |
+            echo 'export HERMES_HOST=https://hermes.library.nyu.edu' >> $BASH_ENV
+            echo 'export HERMES_SECRET=$HERMES_SECRET_PROD' >> $BASH_ENV
+      - <<: *hermes_deploy
+
+workflows:
+  version: 2
+  deploy:
+    jobs:
+      - deploy-prod
