@@ -13,8 +13,7 @@ hermes_deploy: &hermes_deploy
   run:
     name: Deploy via Hermes
     command: |
-      export TAG=${CIRCLE_BRANCH//\//_}-${CIRCLE_SHA1}
-      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-index -tag=$TAG
+      docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-index -tag=master
       docker run -e HERMES_HOST -e HERMES_SECRET -e HERMES_WAIT_TIMEOUT=6m quay.io/nyulibraries/hermesclient:master jobStatus -job=specialcollections-git-trigger-index
 
 version: 2
