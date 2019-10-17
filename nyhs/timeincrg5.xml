@@ -20,7 +20,7 @@
 			</publicationstmt>
 		</filedesc>
 		<profiledesc>
-			<creation>This finding aid was produced using ArchivesSpace <date>2019-04-16T16:26:54</date>
+			<creation>This finding aid was produced using ArchivesSpace <date>2019-10-17T16:02:42</date>
 			</creation>
 			<langusage>Description is in <language>English</language>
 			</langusage>
@@ -36,18 +36,31 @@
 				<corpname>New-York Historical Society</corpname>
 			</repository>
 			<unittitle>Time Inc. Corporate Administration Records</unittitle>
-			<origination audience="internal" label="creator">
-				<corpname source="ingest">Time, inc.</corpname>
+			<origination label="creator">
+				<corpname rules="rda" source="naf">Time, inc.</corpname>
 			</origination>
 			<unitid>MS 3009-RG 5</unitid>
 			<physdesc altrender="whole">
-				<extent altrender="materialtype spaceoccupied">20 Linear Feet</extent>
-				<extent altrender="carrier">(19 record cartons, 2 flat boxes)</extent>
+				<extent altrender="materialtype spaceoccupied">20 Linear feet</extent>
+				<extent altrender="carrier">in 19 record cartons and 2 flat boxes</extent>
 			</physdesc>
 			<unitdate normal="1853/1997" type="inclusive">1853-1997</unitdate>
 			<abstract id="aspace_1ee9ff7202b80e6e0c8e49470b20d250">The General Files from the Corporate Administration Records include corporate-level records where the exact office of origination isn't known, or the files are from several people or offices at the corporate executive level, but were grouped together by Time Inc. at some point. Records include stock certificates, five-year plans, notary seals, patents, printing agreements, and organizational records from affiliates and subsidiaries.</abstract>
 		</did>
-
+		<arrangement id="aspace_1960390f6daac8ef751966d6776197dc">
+			<head>Arrangement Note</head>
+			<p>The General Files are organized into nine series:</p>
+			<p>Series I.A. General: Stock</p>
+			<p>	
+				Series I.B. General: Contract, Corporate, and Corporate Secretary Legal Files</p>
+			<p>Series I.C. General: Dead Companies</p>
+			<p>Series I.D. General: Five-Year Plans</p>
+			<p>Series I.E. General: Notary Seals</p>
+			<p>Series I.F. General: Patents</p>
+			<p>Series I.G. General: Printing Agreements</p>
+			<p>Series I.H. General: Subsidiary Corporate Books</p>
+			<p>Series I.I. General: Time Warner Corporate Structure Books</p>
+		</arrangement>
 		<bioghist id="aspace_1d4a76c9b2dff97b334e4ec9c55ed197">
 			<head>Historical Note</head>
 			<p>The Corporate Administrative division of Time Inc. encompasses the positions of chairman of the Board of Directors, chairman of the executive committee, secretary, treasurer, chief executive officer, president, chief financial officer, executive vice president, group vice president, and vice president. Some of these positions are frequently held at the same time by the same person. Group vice presidents are usually the head of a division of Time Inc. such as the Books Group or Video Group, and the records for that position will be with that record group. The editor-in-chief is listed as part of the corporate group management, but their files are in the record group for corporate editorial.</p>
@@ -151,11 +164,6 @@
 				</chronitem>
 			</chronlist>
 		</bioghist>
-				<arrangement id="aspace_1960390f6daac8ef751966d6776197dc">
-			<head>Arrangement Note</head>
-			<p>The General Files are organized into nine series:</p><p>Series I.A. General: Stock</p><p>	
-Series I.B. General: Contract, Corporate, and Corporate Secretary Legal Files</p><p>Series I.C. General: Dead Companies</p><p>Series I.D. General: Five-Year Plans</p><p>Series I.E. General: Notary Seals</p><p>Series I.F. General: Patents</p><p>Series I.G. General: Printing Agreements</p><p>Series I.H. General: Subsidiary Corporate Books</p><p>Series I.I. General: Time Warner Corporate Structure Books</p>
-		</arrangement>
 		<accessrestrict id="aspace_c4ec6b49f503ca1bc46b34bad1ae62e8">
 			<head>Access Restrictions</head>
 			<p>Open to qualified researchers with the exception of restricted materials. Restricted materials may include privileged attorney correspondence and contracts and agreements. Materials created within the past 35 years also may be subject to restriction on a case-by-case basis. Materials are stored offsite and advance notice is required for use. Unreformatted audiovisual and digital material in the collection is not accessible.</p>
@@ -168,7 +176,6 @@ Series I.B. General: Contract, Corporate, and Corporate Secretary Legal Files</p
 			<head>Processing Information Note</head>
 			<p>General Files were processed by Holly Deakyne and Samantha Brown from 2016 to 2018. Brown processed Stock, and Deakyne processed Contract, Corporate, and Corporate Secretary Legal Files; Dead Companies; Five-Year Plans; Notary Seals; Patents; Printing Agreements; Subsidiary Corporate Books; and Time Warner Corporate Structure Books. The original folders were retained when present although some documents were transferred to archival containers in instances of overcrowding or transferred from hanging files. Order was imposed on all series except Dead Companies and Notary Seals. Deakyne created the inventory and other descriptive notes for this series.</p>
 		</processinfo>
-		
 		
 		<relatedmaterial id="aspace_ca27ac9c382ce194861751aed9b55820">
 			<head>Related Archival Materials Note</head>
@@ -200,1273 +207,1305 @@ Series I.B. General: Contract, Corporate, and Corporate Secretary Legal Files</p
 			<subject source="lcsh">Corporations -- History</subject>
 			<genreform source="aat">Corporation records</genreform>
 			<genreform source="aat">Certificates of incorporation</genreform>
-			<subject source="lcsh">Publishers and publishing -- New York (State) -- New York  </subject>
-			<subject source="lcsh">Time, inc -- History</subject>
+			<subject source="lcsh">Publishers and publishing -- New York (State)  -- New York. </subject>
+			<corpname rules="rda" source="naf">Time, inc. -- Archives</corpname>
+			<corpname rules="rda" source="naf">Time, inc. -- History</corpname>
 		</controlaccess>
 		<dsc>
-			<c01 id="aspace_ref11_7fl" level="series">
+			<c id="aspace_ref11_7fl" level="series">
 				<did>
 					<unittitle>Series I.A. General: Stock</unittitle>
 					<unitid audience="internal" identifier="222777" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222777</unitid>
 					<physdesc altrender="whole">
-						<extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
-						<extent altrender="carrier">(4 record cartons, 2 flat boxes)</extent>
+						<extent altrender="materialtype spaceoccupied">5 Linear feet</extent>
+						<extent altrender="carrier">in 4 record cartons and 2 flat boxes</extent>
 					</physdesc>
 					<unitdate type="inclusive">1929-1934, 1964</unitdate>
 				</did>
 				<scopecontent id="aspace_b283111246b560dd417b84f9be72b0a7">
-					<head>Scope and Contents Note</head><p>Stock includes canceled Time Inc. stock certificates, stock split ledgers listing the stockholder, account number, and shares owned; and stock books from which certificates were written.</p>
+					<head>Scope and Contents Note</head>
+					<p>Stock includes canceled Time Inc. stock certificates, stock split ledgers listing the stockholder, account number, and shares owned; and stock books from which certificates were written.</p>
 				</scopecontent>
 				<arrangement id="aspace_421c6b8c7626ee139b5620960024a48d">
-					<head>Arrangement Note</head><p>Organized alphabetically by document format.</p>
+					<head>Arrangement Note</head>
+					<p>Organized alphabetically by document format.</p>
 				</arrangement>
-				<c02 id="aspace_ref1113_xna" level="file">
+				<c id="aspace_ref1113_xna" level="file">
 					<did>
 						<unittitle>Stock Certificates: 1929-1933</unittitle>
 						<unitid audience="internal" identifier="227829" type="Archivists Toolkit Database::RESOURCE_COMPONENT">227829</unitid>
 						<unitdate>1929-1933</unitdate>
-						<container id="aspace_c4e106bad06b39b97db15282308da526" label="Mixed Materials [10170000010857]" type="Offsite-Box">2047</container>
+						<container id="aspace_3ec15e61ebb9269b11175c5b9ba3678f" label="Mixed Materials [10170000010857]" type="Offsite-Box">2047</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref13_i42" level="file">
+				</c>
+				<c id="aspace_ref13_i42" level="file">
 					<did>
 						<unittitle>Stock Certificates: 1931 June - 1933 June</unittitle>
 						<unitid audience="internal" identifier="222780" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222780</unitid>
 						<unitdate>1931-1933</unitdate>
-						<container id="aspace_dd57e3cac0ca639d8f8edcd1a8d4c369" label="Mixed Materials" type="Offsite-Box">772</container>
+						<container id="aspace_1a1a40c3936ef1a1f737c226752313d8" label="Mixed Materials" type="Offsite-Box">772</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref14_9wl" level="file">
+				</c>
+				<c id="aspace_ref14_9wl" level="file">
 					<did>
 						<unittitle>Stock Certificates: 1933 June - 1933 September</unittitle>
 						<unitid audience="internal" identifier="222779" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222779</unitid>
 						<unitdate>1933</unitdate>
-						<container id="aspace_1a6d186cd7fcee11cd79a71c1f5434ee" label="Mixed Materials" type="Offsite-Box">773</container>
+						<container id="aspace_3a8dcb27c43f32c3465ad44af274a090" label="Mixed Materials" type="Offsite-Box">773</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref15_u74" level="file">
+				</c>
+				<c id="aspace_ref15_u74" level="file">
 					<did>
 						<unittitle>Stock Certificates: 1933 September - 1934 June and Undated</unittitle>
 						<unitid audience="internal" identifier="222778" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222778</unitid>
 						<unitdate>1933-1934</unitdate>
-						<container id="aspace_0e0f0c4b220c4acdb67ec41b54d29c8f" label="Mixed Materials" type="Offsite-Box">774</container>
+						<container id="aspace_8c1edfe885e1f28a243b624efcfb34b6" label="Mixed Materials" type="Offsite-Box">774</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref174_gmx" level="file">
+				</c>
+				<c id="aspace_ref174_gmx" level="file">
 					<did>
 						<unittitle>Stock Split Ledgers</unittitle>
 						<unitid audience="internal" identifier="222797" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222797</unitid>
 						<unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-						<container id="aspace_8ad62814bc00929234ace3c6b4a4ed8a" label="Mixed Materials" type="Offsite-Box">1789</container>
+						<container id="aspace_c49f5e39d51034773caf7bf8de805d59" label="Mixed Materials" type="Offsite-Box">1789</container>
 					</did>
-				</c02>
-				<c02 id="aspace_fc8ccfb5587b482baefbe2498d4dca41" level="file">
+				</c>
+				<c id="aspace_fc8ccfb5587b482baefbe2498d4dca41" level="file">
 					<did>
 						<unittitle>Stock Books: Time Inc.</unittitle>
 						<unitdate type="inclusive">1929-1933</unitdate>
-						<container id="aspace_2671e40501f43be9f42fa88066a1ab49" label="Mixed Materials [10170000016820]" type="Offsite-Box">2832</container>
+						<container id="aspace_e51b8f0d0e9391f2b83505bee77b6ecf" label="Mixed Materials [10170000016820]" type="Offsite-Box">2832</container>
 					</did>
-				</c02>
-				<c02 id="aspace_003cbf278253fe4c1d880a3ad16955c5" level="file">
+				</c>
+				<c id="aspace_003cbf278253fe4c1d880a3ad16955c5" level="file">
 					<did>
 						<unittitle>Stock Books: March of the Years</unittitle>
 						<unitdate type="inclusive">1933</unitdate>
-						<container id="aspace_ba1ef52051306a557ca0ae3a4cde515a" label="Mixed Materials [10170000016820]" type="Offsite-Box">2832</container>
+						<container id="aspace_0d17aee8c6deb29c6c894d56672e0a9e" label="Mixed Materials [10170000016820]" type="Offsite-Box">2832</container>
 					</did>
-				</c02>
-				<c02 id="aspace_93d7672d1fe8b7d4218e560f47dd6ac1" level="file">
+				</c>
+				<c id="aspace_93d7672d1fe8b7d4218e560f47dd6ac1" level="file">
 					<did>
 						<unittitle>Stock Books: March of Time</unittitle>
 						<unitdate type="inclusive">1934-1935</unitdate>
-						<container id="aspace_0475a9fe66660346d9d6841ecff93fb6" label="Mixed Materials [10170000016820]" type="Offsite-Box">2832</container>
+						<container id="aspace_16b31d8f3516d08e225df4e7cd720b9e" label="Mixed Materials [10170000016820]" type="Offsite-Box">2832</container>
 					</did>
-				</c02>
-			</c01>
-			<c01 id="aspace_ref18_een" level="series">
+				</c>
+			</c>
+			<c id="aspace_ref18_een" level="series">
 				<did>
 					<unittitle>Series I.B. General: Contract, Corporate, and Corporate Secretary Legal Files</unittitle>
 					<unitid audience="internal" identifier="222743" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222743</unitid>
 					<physdesc altrender="whole">
-						<extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
-						<extent altrender="carrier">(5 record cartons)</extent>
+						<extent altrender="materialtype spaceoccupied">5 Linear feet</extent>
+						<extent altrender="carrier">in 5 record cartons</extent>
 					</physdesc>
-					<unitdate>1853, 1875, 1888, 1898-1901, 1922-1965</unitdate>
+					<unitdate type="inclusive">1853, 1875, 1888, 1898-1901, 1922-1965</unitdate>
 				</did>
 				<scopecontent id="aspace_3a399b4856663b2cb0dc1bb230210504">
-					<head>Scope and Contents Note</head><p>Contract, Corporate, and Corporate Secretary Legal Files are similar to the subseries Dead Companies, but were not included on the lists found with the transfer of Dead Companies to the Time Inc. Archives. These are a mix of files from defunct companies and old business arrangements made by Time Inc. and include acquisition and sale agreements, articles of incorporation and dissolution, meeting minutes, correspondence, publishing contracts, and title searches. The files come from Arnold Carlson as Controller (or Comptroller), John "Jack" Harvey as Comptroller, Peter Sheppe as Director of Administrative Services (Comptroller department), and Dean Chamberlain (business manager Time-Life International and then Corporate Circulation.) There are notes showing that some records are from the "Contract file"; files sent to Ronnie Biehl for the "Corp file"; and files from the "Corp Sec [Corporate Secretary] Legal file cabinet." Additional and more complete publishing agreements are in the subseries Printing Agreements.</p>
+					<head>Scope and Contents Note</head>
+					<p>Contract, Corporate, and Corporate Secretary Legal Files are similar to the subseries Dead Companies, but were not included on the lists found with the transfer of Dead Companies to the Time Inc. Archives. These are a mix of files from defunct companies and old business arrangements made by Time Inc. and include acquisition and sale agreements, articles of incorporation and dissolution, meeting minutes, correspondence, publishing contracts, and title searches. The files come from Arnold Carlson as Controller (or Comptroller), John "Jack" Harvey as Comptroller, Peter Sheppe as Director of Administrative Services (Comptroller department), and Dean Chamberlain (business manager Time-Life International and then Corporate Circulation.) There are notes showing that some records are from the "Contract file"; files sent to Ronnie Biehl for the "Corp file"; and files from the "Corp Sec [Corporate Secretary] Legal file cabinet." Additional and more complete publishing agreements are in the subseries Printing Agreements.</p>
 				</scopecontent>
 				<arrangement id="aspace_eb1817514af4602f09ff3855382cd67b">
-					<head>Arrangement Note</head><p>Organized alphabetically.</p>
+					<head>Arrangement Note</head>
+					<p>Organized alphabetically.</p>
 				</arrangement>
-				<c02 id="aspace_ref20_8fb" level="file">
+				<c id="aspace_ref20_8fb" level="file">
 					<did>
 						<unittitle>Albuquerque Broadcasting [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222776" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222776</unitid>
 						<unitdate>1952-1957</unitdate>
-						<container id="aspace_78510ca1798a4c88da15ad9466f1905a" label="Mixed Materials" type="Offsite-Box">612</container>
-						<container parent="aspace_78510ca1798a4c88da15ad9466f1905a" type="Folder">1-7</container>
+						<container id="aspace_1579798e86017e3febc1bd222448da7b" label="Mixed Materials" type="Offsite-Box">612</container>
+						<container parent="aspace_1579798e86017e3febc1bd222448da7b" type="Folder">1-7</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref21_1qr" level="file">
+				</c>
+				<c id="aspace_ref21_1qr" level="file">
 					<did>
 						<unittitle>Aladdin and LTF [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222775" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222775</unitid>
 						<unitdate>approximately 1957-1960</unitdate>
-						<container id="aspace_aa8ed4b83471ee6fb9a091cdfb42e9e3" label="Mixed Materials" type="Offsite-Box">612</container>
-						<container parent="aspace_aa8ed4b83471ee6fb9a091cdfb42e9e3" type="Folder">8-11</container>
+						<container id="aspace_f88ec711ed54f7f87afa72e64f1cb9c9" label="Mixed Materials" type="Offsite-Box">612</container>
+						<container parent="aspace_f88ec711ed54f7f87afa72e64f1cb9c9" type="Folder">8-11</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref22_cic" level="file">
+				</c>
+				<c id="aspace_ref22_cic" level="file">
 					<did>
 						<unittitle>Architectural Forum [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222774" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222774</unitid>
 						<unitdate>1941-1965</unitdate>
-						<container id="aspace_cbca986d11d23a02633f5eb04ca014d5" label="Mixed Materials" type="Offsite-Box">612-613</container>
+						<container id="aspace_99d7763804e4a9627aae5b9a04dfd897" label="Mixed Materials" type="Offsite-Box">612-613</container>
 					</did>
 					<scopecontent id="aspace_1bfa76dcdf18f8544c110e20a5a1c7d3">
-						<head>Scope and Contents Note</head><p>Includes records regarding Wilson H. Lee Company.</p>
+						<head>Scope and Contents Note</head>
+						<p>Includes records regarding Wilson H. Lee Company.</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref24_i4z" level="file">
+				</c>
+				<c id="aspace_ref24_i4z" level="file">
 					<did>
 						<unittitle>Barges-N. L. Wallace and C. L. Stillman [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222773" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222773</unitid>
 						<unitdate>1950-1963</unitdate>
-						<container id="aspace_64ce8ec198cfdc72a14532fdefdd6821" label="Mixed Materials" type="Offsite-Box">613</container>
-						<container parent="aspace_64ce8ec198cfdc72a14532fdefdd6821" type="Folder">4-6</container>
+						<container id="aspace_b0eb488cdb34c08ed143a63dbb2aa51a" label="Mixed Materials" type="Offsite-Box">613</container>
+						<container parent="aspace_b0eb488cdb34c08ed143a63dbb2aa51a" type="Folder">4-6</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref25_ooc" level="file">
+				</c>
+				<c id="aspace_ref25_ooc" level="file">
 					<did>
 						<unittitle>Blue Network Company [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222772" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222772</unitid>
 						<unitdate>1943-1948</unitdate>
-						<container id="aspace_992f471d97b9aef20a2bb37ff9f75744" label="Mixed Materials" type="Offsite-Box">613</container>
-						<container parent="aspace_992f471d97b9aef20a2bb37ff9f75744" type="Folder">7</container>
+						<container id="aspace_67e8bc3b5c734d600309102d7d4ce100" label="Mixed Materials" type="Offsite-Box">613</container>
+						<container parent="aspace_67e8bc3b5c734d600309102d7d4ce100" type="Folder">7</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref26_imj" level="file">
+				</c>
+				<c id="aspace_ref26_imj" level="file">
 					<did>
 						<unittitle>Chicago title searches</unittitle>
 						<unitid audience="internal" identifier="222771" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222771</unitid>
 						<unitdate>1853, 1875, 1888, 1898-1901</unitdate>
-						<container id="aspace_9e04b4092c38670b755dca7f04a0cbab" label="Mixed Materials" type="Offsite-Box">613</container>
-						<container parent="aspace_9e04b4092c38670b755dca7f04a0cbab" type="Folder">8-9</container>
+						<container id="aspace_1fe3b48d374d5f55a472ed18c51bd21c" label="Mixed Materials" type="Offsite-Box">613</container>
+						<container parent="aspace_1fe3b48d374d5f55a472ed18c51bd21c" type="Folder">8-9</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref27_vfc" level="file">
+				</c>
+				<c id="aspace_ref27_vfc" level="file">
 					<did>
 						<unittitle>Compania Editora, T. L. I. [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222770" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222770</unitid>
 						<unitdate>1951-1965</unitdate>
-						<container id="aspace_1981d724890784681f006ae5ce0d015d" label="Mixed Materials" type="Offsite-Box">613</container>
-						<container parent="aspace_1981d724890784681f006ae5ce0d015d" type="Folder">10-14</container>
+						<container id="aspace_6b89f8fd7d39708be2812778a970e26f" label="Mixed Materials" type="Offsite-Box">613</container>
+						<container parent="aspace_6b89f8fd7d39708be2812778a970e26f" type="Folder">10-14</container>
 					</did>
 					<scopecontent id="aspace_bcff0bbd984f9ff6b98bab669aed6831">
-						<head>Scope and Contents Note</head><p>Regarding a Time Life International publishing agreement in Cuba.</p>
+						<head>Scope and Contents Note</head>
+						<p>Regarding a Time Life International publishing agreement in Cuba.</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref29_u7e" level="file">
+				</c>
+				<c id="aspace_ref29_u7e" level="file">
 					<did>
 						<unittitle>Consolidated Television &amp; Radio Broadcasters, Inc. [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222769" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222769</unitid>
 						<unitdate>1956-1957</unitdate>
-						<container id="aspace_85bc6658a0bca145d9e91428d35764bf" label="Mixed Materials" type="Offsite-Box">613-614</container>
+						<container id="aspace_5ba00e7727d16a08bdf1a15cd2637a93" label="Mixed Materials" type="Offsite-Box">613-614</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref30_ggm" level="file">
+				</c>
+				<c id="aspace_ref30_ggm" level="file">
 					<did>
 						<unittitle>Cuneo Press [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222768" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222768</unitid>
 						<unitdate>1929-1939</unitdate>
-						<container id="aspace_fd224af66564a081f8b33004133eb094" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_fd224af66564a081f8b33004133eb094" type="Folder">3-5</container>
+						<container id="aspace_cc1aa82481d18588b15f2f10ca6d8b55" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_cc1aa82481d18588b15f2f10ca6d8b55" type="Folder">3-5</container>
 					</did>
 					<scopecontent id="aspace_14efbbba40e11475961751c6f99138a4">
-						<head>Scope and Contents Note</head><p>Includes records regarding publishing <title render="italic">Architectural Forum</title> and <title render="italic">Fortune</title>.</p>
+						<head>Scope and Contents Note</head>
+						<p>Includes records regarding publishing <title render="italic">Architectural Forum</title> and <title render="italic">Fortune</title>.</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref32_rm9" level="file">
+				</c>
+				<c id="aspace_ref32_rm9" level="file">
 					<did>
 						<unittitle>De Luxe Laboratories [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222767" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222767</unitid>
 						<unitdate>1946</unitdate>
-						<container id="aspace_3c88dcfcc1e7b222cc045f9dad41d1c2" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_3c88dcfcc1e7b222cc045f9dad41d1c2" type="Folder">6</container>
+						<container id="aspace_0ab615694a35baf8f4253b605a62d7e6" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_0ab615694a35baf8f4253b605a62d7e6" type="Folder">6</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref33_dei" level="file">
+				</c>
+				<c id="aspace_ref33_dei" level="file">
 					<did>
 						<unittitle>F-Miscellaneous [George A. Fuller Company] [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222766" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222766</unitid>
 						<unitdate>1956-1958</unitdate>
-						<container id="aspace_eb10ae7727701cd44a5972cf8b18f435" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_eb10ae7727701cd44a5972cf8b18f435" type="Folder">7</container>
+						<container id="aspace_c0a0999370c7546c4279db10b053d635" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_c0a0999370c7546c4279db10b053d635" type="Folder">7</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref34_17a" level="file">
+				</c>
+				<c id="aspace_ref34_17a" level="file">
 					<did>
 						<unittitle>Fulfillment Corporation of America [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222765" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222765</unitid>
 						<unitdate>1948-1956</unitdate>
-						<container id="aspace_d17c91e0930fd7d315ead2490293d378" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_d17c91e0930fd7d315ead2490293d378" type="Folder">8</container>
+						<container id="aspace_1266b202a16a8c12bb438eda813a34f1" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_1266b202a16a8c12bb438eda813a34f1" type="Folder">8</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref35_q7r" level="file">
+				</c>
+				<c id="aspace_ref35_q7r" level="file">
 					<did>
 						<unittitle>Hay, John I. Co. [John I. Hay Company] [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222764" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222764</unitid>
 						<unitdate>1941-1952</unitdate>
-						<container id="aspace_fa151c80d9f88c11d5da3951415d8b17" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_fa151c80d9f88c11d5da3951415d8b17" type="Folder">9</container>
+						<container id="aspace_79d75dcbc1ba0581a72ce92a4a322ed7" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_79d75dcbc1ba0581a72ce92a4a322ed7" type="Folder">9</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref36_xo2" level="file">
+				</c>
+				<c id="aspace_ref36_xo2" level="file">
 					<did>
 						<unittitle>Hennepin Paper Co. [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222763" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222763</unitid>
 						<unitdate>1945-1948</unitdate>
-						<container id="aspace_2b4eacdce6042b68a796dc28957781f5" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_2b4eacdce6042b68a796dc28957781f5" type="Folder">10-11</container>
+						<container id="aspace_f7a5326b975d57d03cff725bf48743ce" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_f7a5326b975d57d03cff725bf48743ce" type="Folder">10-11</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref37_vd7" level="file">
+				</c>
+				<c id="aspace_ref37_vd7" level="file">
 					<did>
 						<unittitle>Hillcrest Oil Company [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222762" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222762</unitid>
 						<unitdate>1957-1962</unitdate>
-						<container id="aspace_000114e4312ddfab57ca7142963897cc" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_000114e4312ddfab57ca7142963897cc" type="Folder">12-13</container>
+						<container id="aspace_c34772a9c752754a24cb873b481ee590" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_c34772a9c752754a24cb873b481ee590" type="Folder">12-13</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref38_sp6" level="file">
+				</c>
+				<c id="aspace_ref38_sp6" level="file">
 					<did>
 						<unittitle>Lebanon Television Station (La Compagnie Libanaise de Television) [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222761" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222761</unitid>
 						<unitdate>1961-1963</unitdate>
-						<container id="aspace_716d38c8d338aa42fa7087305acd030e" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_716d38c8d338aa42fa7087305acd030e" type="Folder">14</container>
+						<container id="aspace_18cc5b6ea15bd9bb7ab90de5d6319d22" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_18cc5b6ea15bd9bb7ab90de5d6319d22" type="Folder">14</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref39_7bg" level="file">
+				</c>
+				<c id="aspace_ref39_7bg" level="file">
 					<did>
 						<unittitle>Life's Picture History of World War II [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222760" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222760</unitid>
 						<unitdate>1950-1951</unitdate>
-						<container id="aspace_427b15f43b2469550f41b4041153f228" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_427b15f43b2469550f41b4041153f228" type="Folder">15</container>
+						<container id="aspace_f4fbe199929c89e9dc6590dbf4c0186a" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_f4fbe199929c89e9dc6590dbf4c0186a" type="Folder">15</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref40_sq6" level="file">
+				</c>
+				<c id="aspace_ref40_sq6" level="file">
 					<did>
 						<unittitle>Old Life - Purchase [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222759" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222759</unitid>
 						<unitdate>1936-1941</unitdate>
-						<container id="aspace_6de7ec25384a80d97acd6bf8a4308654" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_6de7ec25384a80d97acd6bf8a4308654" type="Folder">16</container>
+						<container id="aspace_b316fe8b8bb1ad74210eae8ba2e5a868" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_b316fe8b8bb1ad74210eae8ba2e5a868" type="Folder">16</container>
 					</did>
 					<scopecontent id="aspace_b56def517a158257c85780ad2a975410">
-						<head>Scope and Contents Note</head><p>Contains purchase agreements of the <title render="italic">Life</title> humor magazine in order to obtain the rights to use the title "Life."</p>
+						<head>Scope and Contents Note</head>
+						<p>Contains purchase agreements of the <title render="italic">Life</title> humor magazine in order to obtain the rights to use the title "Life."</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref42_c8g" level="file">
+				</c>
+				<c id="aspace_ref42_c8g" level="file">
 					<did>
 						<unittitle>Literary Digest: Purchase [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222758" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222758</unitid>
 						<unitdate>1922-1938</unitdate>
-						<container id="aspace_7f2777feff3a48dd75cb8b3e5ec277e8" label="Mixed Materials" type="Offsite-Box">614</container>
-						<container parent="aspace_7f2777feff3a48dd75cb8b3e5ec277e8" type="Folder">17</container>
+						<container id="aspace_7a5acfb0cf52379e1be551166dfd5d2c" label="Mixed Materials" type="Offsite-Box">614</container>
+						<container parent="aspace_7a5acfb0cf52379e1be551166dfd5d2c" type="Folder">17</container>
 					</did>
 					<scopecontent id="aspace_06bb10e764291416a081e0696d68a932">
-						<head>Scope and Contents Note</head><p>Includes trademark transfers.</p>
+						<head>Scope and Contents Note</head>
+						<p>Includes trademark transfers.</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref44_4r8" level="file">
+				</c>
+				<c id="aspace_ref44_4r8" level="file">
 					<did>
 						<unittitle>Lubin, Eisner</unittitle>
 						<unitid audience="internal" identifier="222757" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222757</unitid>
 						<unitdate>1954-1955</unitdate>
-						<container id="aspace_3f7ce257a2740185b085ca6f08e8a6c8" label="Mixed Materials" type="Offsite-Box">614-615</container>
+						<container id="aspace_51d36b3dae80da95f1a428ae07253959" label="Mixed Materials" type="Offsite-Box">614-615</container>
 					</did>
 					<scopecontent id="aspace_8453481bcf9f4165e75104704c21b6b8">
-						<head>Scope and Contents Note</head><p>Include records relating to Michigan Square Building and Printing Developments, Inc.</p>
+						<head>Scope and Contents Note</head>
+						<p>Include records relating to Michigan Square Building and Printing Developments, Inc.</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref46_jgw" level="file">
+				</c>
+				<c id="aspace_ref46_jgw" level="file">
 					<did>
 						<unittitle>L Miscellaneous [Joe Louis Enterprises, Inc.] [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222756" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222756</unitid>
 						<unitdate>1948</unitdate>
-						<container id="aspace_027c17b383ed40a466e837d6cffe2702" label="Mixed Materials" type="Offsite-Box">615</container>
-						<container parent="aspace_027c17b383ed40a466e837d6cffe2702" type="Folder">2</container>
+						<container id="aspace_bf0d6043e3b68a484ac33f9a1eb98c5d" label="Mixed Materials" type="Offsite-Box">615</container>
+						<container parent="aspace_bf0d6043e3b68a484ac33f9a1eb98c5d" type="Folder">2</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref47_k4t" level="file">
+				</c>
+				<c id="aspace_ref47_k4t" level="file">
 					<did>
 						<unittitle>Maine Seaboard Paper Company [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222755" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222755</unitid>
 						<unitdate>1937-1952</unitdate>
-						<container id="aspace_d94ebc1439feb6206d137043901e6188" label="Mixed Materials" type="Offsite-Box">615</container>
-						<container parent="aspace_d94ebc1439feb6206d137043901e6188" type="Folder">3-13</container>
+						<container id="aspace_6f43a9059b4f6da575ee469132c16a9b" label="Mixed Materials" type="Offsite-Box">615</container>
+						<container parent="aspace_6f43a9059b4f6da575ee469132c16a9b" type="Folder">3-13</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref48_i1l" level="file">
+				</c>
+				<c id="aspace_ref48_i1l" level="file">
 					<did>
 						<unittitle>Michigan Square Building [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222754" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222754</unitid>
 						<unitdate>1941-1953</unitdate>
-						<container id="aspace_b7c2524d9ef7e40f6a3b344043b1439c" label="Mixed Materials" type="Offsite-Box">615</container>
-						<container parent="aspace_b7c2524d9ef7e40f6a3b344043b1439c" type="Folder">14-15</container>
+						<container id="aspace_1494280a7deb1431192d8e43c31f767d" label="Mixed Materials" type="Offsite-Box">615</container>
+						<container parent="aspace_1494280a7deb1431192d8e43c31f767d" type="Folder">14-15</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref49_cjs" level="file">
+				</c>
+				<c id="aspace_ref49_cjs" level="file">
 					<did>
 						<unittitle>N-Miscellaneous [National Broadcasting Company, Inc.] [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222753" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222753</unitid>
 						<unitdate>1954</unitdate>
-						<container id="aspace_fed419ab911250f27f40fb2802806ebb" label="Mixed Materials" type="Offsite-Box">615</container>
-						<container parent="aspace_fed419ab911250f27f40fb2802806ebb" type="Folder">16</container>
+						<container id="aspace_861d39204c8d36a51ece4620d8aeb77b" label="Mixed Materials" type="Offsite-Box">615</container>
+						<container parent="aspace_861d39204c8d36a51ece4620d8aeb77b" type="Folder">16</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref50_w8j" level="file">
+				</c>
+				<c id="aspace_ref50_w8j" level="file">
 					<did>
 						<unittitle>Pan American Capital Corporation [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222752" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222752</unitid>
 						<unitdate>1956-1961</unitdate>
-						<container id="aspace_351ab456366135a3f4c90d9ee6ea6d7e" label="Mixed Materials" type="Offsite-Box">615</container>
-						<container parent="aspace_351ab456366135a3f4c90d9ee6ea6d7e" type="Folder">17</container>
+						<container id="aspace_5b97bae4ce7c0d17e7692dae3f1727f9" label="Mixed Materials" type="Offsite-Box">615</container>
+						<container parent="aspace_5b97bae4ce7c0d17e7692dae3f1727f9" type="Folder">17</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref51_62a" level="file">
+				</c>
+				<c id="aspace_ref51_62a" level="file">
 					<did>
 						<unittitle>Publishers Printing Company [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222751" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222751</unitid>
 						<unitdate>1945-1948</unitdate>
-						<container id="aspace_05cc4815629eb53c0796b4c8f8518ea8" label="Mixed Materials" type="Offsite-Box">615</container>
-						<container parent="aspace_05cc4815629eb53c0796b4c8f8518ea8" type="Folder">18</container>
+						<container id="aspace_6230221bed45bc040f06dfb986f05696" label="Mixed Materials" type="Offsite-Box">615</container>
+						<container parent="aspace_6230221bed45bc040f06dfb986f05696" type="Folder">18</container>
 					</did>
 					<scopecontent id="aspace_a0fc0079bb1f7b0ce0bb287142ae4354">
-						<head>Scope and Contents Note</head><p>Regarding the publishing of <title render="italic">Architectural Forum</title>.</p>
+						<head>Scope and Contents Note</head>
+						<p>Regarding the publishing of <title render="italic">Architectural Forum</title>.</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref53_8ne" level="file">
+				</c>
+				<c id="aspace_ref53_8ne" level="file">
 					<did>
 						<unittitle>Publishers Printing-Rogers Kellogg Corporation [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222750" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222750</unitid>
 						<unitdate>1930-1943</unitdate>
-						<container id="aspace_709da72d4e0206d041622cca0fc38ad0" label="Mixed Materials" type="Offsite-Box">615</container>
-						<container parent="aspace_709da72d4e0206d041622cca0fc38ad0" type="Folder">19</container>
+						<container id="aspace_2865648879a151011b47b8700359e190" label="Mixed Materials" type="Offsite-Box">615</container>
+						<container parent="aspace_2865648879a151011b47b8700359e190" type="Folder">19</container>
 					</did>
 					<scopecontent id="aspace_b262ad6e9164555917c9c2cb7536f37c">
-						<head>Scope and Contents Note</head><p>Regarding the publishing of <title render="italic">Architectural Forum</title>, and includes agreements with The Reader's Digest.</p>
+						<head>Scope and Contents Note</head>
+						<p>Regarding the publishing of <title render="italic">Architectural Forum</title>, and includes agreements with The Reader's Digest.</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref55_339" level="file">
+				</c>
+				<c id="aspace_ref55_339" level="file">
 					<did>
 						<unittitle>Readers Digest [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222749" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222749</unitid>
 						<unitdate>1941-1950</unitdate>
-						<container id="aspace_ae0145743360fb5ba1ca54c1b60734bc" label="Mixed Materials" type="Offsite-Box">615</container>
-						<container parent="aspace_ae0145743360fb5ba1ca54c1b60734bc" type="Folder">20</container>
+						<container id="aspace_498f16e167529476544ea7213defb621" label="Mixed Materials" type="Offsite-Box">615</container>
+						<container parent="aspace_498f16e167529476544ea7213defb621" type="Folder">20</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref56_lks" level="file">
+				</c>
+				<c id="aspace_ref56_lks" level="file">
 					<did>
 						<unittitle>Rogers &amp; Manson Corporation [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222748" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222748</unitid>
 						<unitdate>1932-1959</unitdate>
-						<container id="aspace_d7b7fc6a5095c67591c31906b2101a74" label="Mixed Materials" type="Offsite-Box">615-616</container>
+						<container id="aspace_172c7749f3154a70c5d0d65aacebe3ae" label="Mixed Materials" type="Offsite-Box">615-616</container>
 					</did>
 					<scopecontent id="aspace_383c7f87425aabe37523062b41fb0d64">
-						<head>Scope and Contents Note</head><p>Includes <title render="italic">Architectural Forum</title> 1932 Certificate of Incorporation.</p>
+						<head>Scope and Contents Note</head>
+						<p>Includes <title render="italic">Architectural Forum</title> 1932 Certificate of Incorporation.</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref58_lh9" level="file">
+				</c>
+				<c id="aspace_ref58_lh9" level="file">
 					<did>
 						<unittitle>Time-Fortune Corporation [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222747" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222747</unitid>
 						<unitdate>1932-1936</unitdate>
-						<container id="aspace_d362c0219adcc8e9e72afee27f56871d" label="Mixed Materials" type="Offsite-Box">616</container>
-						<container parent="aspace_d362c0219adcc8e9e72afee27f56871d" type="Folder">2</container>
+						<container id="aspace_3ddb74b05bc6413160948cf9cda1e4af" label="Mixed Materials" type="Offsite-Box">616</container>
+						<container parent="aspace_3ddb74b05bc6413160948cf9cda1e4af" type="Folder">2</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref59_sa2" level="file">
+				</c>
+				<c id="aspace_ref59_sa2" level="file">
 					<did>
 						<unittitle>Truman memoirs [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222746" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222746</unitid>
 						<unitdate>1953-1960</unitdate>
-						<container id="aspace_528bc7d8912391662778857b9bca633f" label="Mixed Materials" type="Offsite-Box">616</container>
-						<container parent="aspace_528bc7d8912391662778857b9bca633f" type="Folder">3-4</container>
+						<container id="aspace_b3824507306e38eea2d0ca0fcbecc477" label="Mixed Materials" type="Offsite-Box">616</container>
+						<container parent="aspace_b3824507306e38eea2d0ca0fcbecc477" type="Folder">3-4</container>
 					</did>
 					<scopecontent id="aspace_692040685ef0c961e344119206cbab9c">
-						<head>Scope and Contents Note</head><p>Records and agreements regarding purchasing the publishing rights to Harry S. Truman's memoirs.</p>
+						<head>Scope and Contents Note</head>
+						<p>Records and agreements regarding purchasing the publishing rights to Harry S. Truman's memoirs.</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref61_uki" level="file">
+				</c>
+				<c id="aspace_ref61_uki" level="file">
 					<did>
 						<unittitle>Whitney, Courtney (General) [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222745" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222745</unitid>
 						<unitdate>1954-1963</unitdate>
-						<container id="aspace_2fc75b52a8e59e5530b51db40eb569ec" label="Mixed Materials" type="Offsite-Box">616</container>
-						<container parent="aspace_2fc75b52a8e59e5530b51db40eb569ec" type="Folder">5</container>
+						<container id="aspace_3014207ef974d3c03f4e2699993d8164" label="Mixed Materials" type="Offsite-Box">616</container>
+						<container parent="aspace_3014207ef974d3c03f4e2699993d8164" type="Folder">5</container>
 					</did>
 					<scopecontent id="aspace_d5909d6a30cd3504602745d5472f6cdc">
-						<head>Scope and Contents Note</head><p>Records and agreements regarding purchasing the publishing rights to his work about Douglas MacArthur.</p>
+						<head>Scope and Contents Note</head>
+						<p>Records and agreements regarding purchasing the publishing rights to his work about Douglas MacArthur.</p>
 					</scopecontent>
-				</c02>
-				<c02 id="aspace_ref63_dun" level="file">
+				</c>
+				<c id="aspace_ref63_dun" level="file">
 					<did>
 						<unittitle>Windsor, Duke of [RESTRICTED]</unittitle>
 						<unitid audience="internal" identifier="222744" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222744</unitid>
 						<unitdate>1947-1951</unitdate>
-						<container id="aspace_ad66c84b23a6ca0b035bf488e3429768" label="Mixed Materials" type="Offsite-Box">616</container>
-						<container parent="aspace_ad66c84b23a6ca0b035bf488e3429768" type="Folder">6</container>
+						<container id="aspace_cfa9613066bacd6c6bee9b867fde0118" label="Mixed Materials" type="Offsite-Box">616</container>
+						<container parent="aspace_cfa9613066bacd6c6bee9b867fde0118" type="Folder">6</container>
 					</did>
 					<scopecontent id="aspace_30dd1b482e9fd7bb292cdc9a68deee9d">
-						<head>Scope and Contents Note</head><p>Includes copyright registrations from several countries for articles written by the Duke of Windsor.</p>
+						<head>Scope and Contents Note</head>
+						<p>Includes copyright registrations from several countries for articles written by the Duke of Windsor.</p>
 					</scopecontent>
-				</c02>
-			</c01>
-			<c01 id="aspace_ref67_lx9" level="series">
+				</c>
+			</c>
+			<c id="aspace_ref67_lx9" level="series">
 				<did>
 					<unittitle>Series I.C. General: Dead Companies [RESTRICTED]</unittitle>
 					<unitid audience="internal" identifier="222679" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222679</unitid>
 					<physdesc altrender="whole">
-						<extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
-						<extent altrender="carrier">(3 record cartons)</extent>
+						<extent altrender="materialtype spaceoccupied">3 Linear feet</extent>
+						<extent altrender="carrier">in 3 record cartons</extent>
 					</physdesc>
-					<unitdate>1946, 1950, 1957-1979</unitdate>
+					<unitdate type="inclusive">1946, 1950, 1957-1979</unitdate>
 				</did>
 				<scopecontent id="aspace_5a918e55a693206ab87e9ddfe4aa6953">
-					<head>Scope and Contents Note</head><p>Dead Companies contains a group of materials accompanied by a transfer list naming the companies included. Records include acquisition and sale agreements, operation agreements, certificates of incorporation and dissolution, articles of merger, correspondence, and other corporate documents. The files come from Charles Bear as Secretary, Barry Zorthian as Vice President, John "Jack" Harvey as Comptroller, and Peter Sheppe as Director of Administrative Services (Comptroller department). There is cross-over of company names with the subseries Subsidiary Corporate Books.</p>
+					<head>Scope and Contents Note</head>
+					<p>Dead Companies contains a group of materials accompanied by a transfer list naming the companies included. Records include acquisition and sale agreements, operation agreements, certificates of incorporation and dissolution, articles of merger, correspondence, and other corporate documents. The files come from Charles Bear as Secretary, Barry Zorthian as Vice President, John "Jack" Harvey as Comptroller, and Peter Sheppe as Director of Administrative Services (Comptroller department). There is cross-over of company names with the subseries Subsidiary Corporate Books.</p>
 				</scopecontent>
 				<arrangement id="aspace_6054485ec80bdab4f7fa4b694fe926d7">
-					<head>Arrangement Note</head><p>Organized alphabetically with lists of the companies at the front.</p>
+					<head>Arrangement Note</head>
+					<p>Organized alphabetically with lists of the companies at the front.</p>
 				</arrangement>
-				<c02 id="aspace_ref69_ogw" level="file">
+				<c id="aspace_ref69_ogw" level="file">
 					<did>
 						<unittitle>Lists</unittitle>
 						<unitid audience="internal" identifier="222742" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222742</unitid>
 						<unitdate>undated</unitdate>
-						<container id="aspace_9160d3b8234bc18065a6cf5c10a3ccdc" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_9160d3b8234bc18065a6cf5c10a3ccdc" type="Folder">1</container>
+						<container id="aspace_5ce4cc3044b7a75b58116a1a4de3078b" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_5ce4cc3044b7a75b58116a1a4de3078b" type="Folder">1</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref70_922" level="file">
+				</c>
+				<c id="aspace_ref70_922" level="file">
 					<did>
 						<unittitle>Aladdin / LTF</unittitle>
 						<unitid audience="internal" identifier="222741" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222741</unitid>
 						<unitdate>1972</unitdate>
-						<container id="aspace_dc0863d96e6da7770d2e3d7b32a6be57" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_dc0863d96e6da7770d2e3d7b32a6be57" type="Folder">2</container>
+						<container id="aspace_1e200d887f3975e45bce7a9b7ff010f7" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_1e200d887f3975e45bce7a9b7ff010f7" type="Folder">2</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref71_2to" level="file">
+				</c>
+				<c id="aspace_ref71_2to" level="file">
 					<did>
 						<unittitle>American Health Corporation</unittitle>
 						<unitid audience="internal" identifier="222740" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222740</unitid>
 						<unitdate>1973-1979</unitdate>
-						<container id="aspace_fe2b87d21ce55bd719619eed41f7f62c" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_fe2b87d21ce55bd719619eed41f7f62c" type="Folder">3</container>
+						<container id="aspace_253c89fbd4f78c3ac6eb60b87d460515" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_253c89fbd4f78c3ac6eb60b87d460515" type="Folder">3</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref72_2uz" level="file">
+				</c>
+				<c id="aspace_ref72_2uz" level="file">
 					<did>
 						<unittitle>Andre Deutsch Limited</unittitle>
 						<unitid audience="internal" identifier="222739" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222739</unitid>
 						<unitdate>1969-1972</unitdate>
-						<container id="aspace_98f4f9a2c622940e694613b51776bd99" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_98f4f9a2c622940e694613b51776bd99" type="Folder">4</container>
+						<container id="aspace_32d3d6ed42c184d85316d27cb359c944" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_32d3d6ed42c184d85316d27cb359c944" type="Folder">4</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref73_5qi" level="file">
+				</c>
+				<c id="aspace_ref73_5qi" level="file">
 					<did>
 						<unittitle>Atari, Inc.</unittitle>
 						<unitid audience="internal" identifier="222738" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222738</unitid>
 						<unitdate>1975-1976</unitdate>
-						<container id="aspace_8c103bdba30453dd0c6e218bc9d80561" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_8c103bdba30453dd0c6e218bc9d80561" type="Folder">5</container>
+						<container id="aspace_5603e1f648ac91fbcacd5445c33270a5" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_5603e1f648ac91fbcacd5445c33270a5" type="Folder">5</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref74_cj1" level="file">
+				</c>
+				<c id="aspace_ref74_cj1" level="file">
 					<did>
 						<unittitle>British Telemeter Home Viewing, Limited</unittitle>
 						<unitid audience="internal" identifier="222737" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222737</unitid>
 						<unitdate>1971-1972</unitdate>
-						<container id="aspace_f46022a0d7914de41cad2f247fe6ccb4" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_f46022a0d7914de41cad2f247fe6ccb4" type="Folder">6</container>
+						<container id="aspace_c7b4e2f1ea61ad24aa635e339a4c3673" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_c7b4e2f1ea61ad24aa635e339a4c3673" type="Folder">6</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref75_5ng" level="file">
+				</c>
+				<c id="aspace_ref75_5ng" level="file">
 					<did>
 						<unittitle>Cesar Civita</unittitle>
 						<unitid audience="internal" identifier="222736" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222736</unitid>
 						<unitdate>1966</unitdate>
-						<container id="aspace_269cd7a62314d0b9d32ebaf98d26c366" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_269cd7a62314d0b9d32ebaf98d26c366" type="Folder">7</container>
+						<container id="aspace_d5ed84c78103d1f6441a5bd687326ae2" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_d5ed84c78103d1f6441a5bd687326ae2" type="Folder">7</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref76_5ku" level="file">
+				</c>
+				<c id="aspace_ref76_5ku" level="file">
 					<did>
 						<unittitle>Circle City Cable Corporation</unittitle>
 						<unitid audience="internal" identifier="222735" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222735</unitid>
 						<unitdate>1966-1973</unitdate>
-						<container id="aspace_3366121e1af45e4621f3584c0069f6dd" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_3366121e1af45e4621f3584c0069f6dd" type="Folder">8</container>
+						<container id="aspace_ccb4f2f0c351d97e8c4a92b269a97952" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_ccb4f2f0c351d97e8c4a92b269a97952" type="Folder">8</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref77_7fp" level="file">
+				</c>
+				<c id="aspace_ref77_7fp" level="file">
 					<did>
 						<unittitle>Computer Television Inc.</unittitle>
 						<unitid audience="internal" identifier="222734" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222734</unitid>
 						<unitdate>1972-1975</unitdate>
-						<container id="aspace_5c336b882d91e75578e03a407b69397f" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_5c336b882d91e75578e03a407b69397f" type="Folder">9</container>
+						<container id="aspace_d408f6dec51cce19834fe7f98967a7a9" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_d408f6dec51cce19834fe7f98967a7a9" type="Folder">9</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref78_hww" level="file">
+				</c>
+				<c id="aspace_ref78_hww" level="file">
 					<did>
 						<unittitle>C T Land &amp; Building Corp.</unittitle>
 						<unitid audience="internal" identifier="222733" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222733</unitid>
 						<unitdate>1962</unitdate>
-						<container id="aspace_e99bacc2dd99eee2801062e5eef86953" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_e99bacc2dd99eee2801062e5eef86953" type="Folder">10</container>
+						<container id="aspace_1b4b22e646589e1aa0a6c81af0c07331" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_1b4b22e646589e1aa0a6c81af0c07331" type="Folder">10</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref79_gtm" level="file">
+				</c>
+				<c id="aspace_ref79_gtm" level="file">
 					<did>
 						<unittitle>East Texas Cable Television Services, Inc.</unittitle>
 						<unitid audience="internal" identifier="222732" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222732</unitid>
 						<unitdate>1967-1972</unitdate>
-						<container id="aspace_b2e3bbc47cda06c51d66b3af8c41bdec" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_b2e3bbc47cda06c51d66b3af8c41bdec" type="Folder">11</container>
+						<container id="aspace_2135b9473e175d74846f85257555913e" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_2135b9473e175d74846f85257555913e" type="Folder">11</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref80_0xo" level="file">
+				</c>
+				<c id="aspace_ref80_0xo" level="file">
 					<did>
 						<unittitle>Family Publications Service, Inc.</unittitle>
 						<unitid audience="internal" identifier="222731" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222731</unitid>
 						<unitdate>1958, 1968-1974</unitdate>
-						<container id="aspace_c1861683498b13052777130903c485f3" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_c1861683498b13052777130903c485f3" type="Folder">12-13</container>
+						<container id="aspace_13a8872ed556cb1c95562dc8e9c87db2" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_13a8872ed556cb1c95562dc8e9c87db2" type="Folder">12-13</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref81_xdz" level="file">
+				</c>
+				<c id="aspace_ref81_xdz" level="file">
 					<did>
 						<unittitle>Haverhill's, Inc.</unittitle>
 						<unitid audience="internal" identifier="222730" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222730</unitid>
 						<unitdate>1971</unitdate>
-						<container id="aspace_5c2933329dd6a7df145be361fd866489" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_5c2933329dd6a7df145be361fd866489" type="Folder">14</container>
+						<container id="aspace_f1d1624795d2bb26bd277560d0154fc9" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_f1d1624795d2bb26bd277560d0154fc9" type="Folder">14</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref82_drb" level="file">
+				</c>
+				<c id="aspace_ref82_drb" level="file">
 					<did>
 						<unittitle>Heidelberg, S.A.</unittitle>
 						<unitid audience="internal" identifier="222729" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222729</unitid>
 						<unitdate>1970</unitdate>
-						<container id="aspace_a37cbe93b34cc325b5f006bf593dc3da" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_a37cbe93b34cc325b5f006bf593dc3da" type="Folder">15</container>
+						<container id="aspace_1c18ec68a7fe4af67d54a66de2c43d40" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_1c18ec68a7fe4af67d54a66de2c43d40" type="Folder">15</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref83_j6u" level="file">
+				</c>
+				<c id="aspace_ref83_j6u" level="file">
 					<did>
 						<unittitle>Itek Corporation</unittitle>
 						<unitid audience="internal" identifier="222728" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222728</unitid>
 						<unitdate>1965</unitdate>
-						<container id="aspace_42ccc19843241f8b89acaed85289ab35" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_42ccc19843241f8b89acaed85289ab35" type="Folder">16</container>
+						<container id="aspace_d77d0b3eeaf86557ebf84c469dccfac4" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_d77d0b3eeaf86557ebf84c469dccfac4" type="Folder">16</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref84_vc3" level="file">
+				</c>
+				<c id="aspace_ref84_vc3" level="file">
 					<did>
 						<unittitle>Jasper Timber Company</unittitle>
 						<unitid audience="internal" identifier="222727" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222727</unitid>
 						<unitdate>1960-1962, 1973</unitdate>
-						<container id="aspace_f86378af16d758e836c8aeb7a9e5d947" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_f86378af16d758e836c8aeb7a9e5d947" type="Folder">17-18</container>
+						<container id="aspace_ca0e11d885cc6c007cc3917795c2d76c" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_ca0e11d885cc6c007cc3917795c2d76c" type="Folder">17-18</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref85_dzj" level="file">
+				</c>
+				<c id="aspace_ref85_dzj" level="file">
 					<did>
 						<unittitle>J. W. Clement Company</unittitle>
 						<unitid audience="internal" identifier="222726" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222726</unitid>
 						<unitdate>1962</unitdate>
-						<container id="aspace_60cd769ec9f62d052cf469b01080b8e4" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_60cd769ec9f62d052cf469b01080b8e4" type="Folder">19</container>
+						<container id="aspace_98a9950cc8b8a92f0365172b763996e5" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_98a9950cc8b8a92f0365172b763996e5" type="Folder">19</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref86_14h" level="file">
+				</c>
+				<c id="aspace_ref86_14h" level="file">
 					<did>
 						<unittitle>KOAK-CATV, Inc.</unittitle>
 						<unitid audience="internal" identifier="222725" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222725</unitid>
 						<unitdate>1967-1968</unitdate>
-						<container id="aspace_08753c3c59d75fee40897ff41e2dfa05" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_08753c3c59d75fee40897ff41e2dfa05" type="Folder">20-22</container>
+						<container id="aspace_38a065e158758919611156b32abd149e" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_38a065e158758919611156b32abd149e" type="Folder">20-22</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref87_5qu" level="file">
+				</c>
+				<c id="aspace_ref87_5qu" level="file">
 					<did>
 						<unittitle>Kelly Broadcasting, Inc.</unittitle>
 						<unitid audience="internal" identifier="222724" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222724</unitid>
 						<unitdate>1971</unitdate>
-						<container id="aspace_b189ebbfa407740a3d00f011b287aea1" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_b189ebbfa407740a3d00f011b287aea1" type="Folder">23</container>
+						<container id="aspace_3682feb632a4068105b352015b89b1df" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_3682feb632a4068105b352015b89b1df" type="Folder">23</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref88_8sl" level="file">
+				</c>
+				<c id="aspace_ref88_8sl" level="file">
 					<did>
 						<unittitle>KERO-TV / Transcontinent Television Corporation</unittitle>
 						<unitid audience="internal" identifier="222723" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222723</unitid>
 						<unitdate>1963</unitdate>
-						<container id="aspace_379d01cd6652d147b4ce80131de7abad" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_379d01cd6652d147b4ce80131de7abad" type="Folder">24</container>
+						<container id="aspace_74c7a2ed67037d34d90e7aa7d5544564" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_74c7a2ed67037d34d90e7aa7d5544564" type="Folder">24</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref89_1o3" level="file">
+				</c>
+				<c id="aspace_ref89_1o3" level="file">
 					<did>
 						<unittitle>KFSD-FM / Lotus Communications Corp.</unittitle>
 						<unitid audience="internal" identifier="222722" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222722</unitid>
 						<unitdate>1973</unitdate>
-						<container id="aspace_932738cf57bb7bb68258d91fcd864d56" label="Mixed Materials" type="Offsite-Box">606</container>
-						<container parent="aspace_932738cf57bb7bb68258d91fcd864d56" type="Folder">25</container>
+						<container id="aspace_d6b3ef5dc5c97c66688aba02e432e7e9" label="Mixed Materials" type="Offsite-Box">606</container>
+						<container parent="aspace_d6b3ef5dc5c97c66688aba02e432e7e9" type="Folder">25</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref90_i98" level="file">
+				</c>
+				<c id="aspace_ref90_i98" level="file">
 					<did>
 						<unittitle>KLZ-AM and FM / Group One Broadcasting, Co.</unittitle>
 						<unitid audience="internal" identifier="222721" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222721</unitid>
 						<unitdate>1971-1972</unitdate>
-						<container id="aspace_998eb9208251b5ad44d6e01ae210005c" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_998eb9208251b5ad44d6e01ae210005c" type="Folder">1</container>
+						<container id="aspace_f321bb93000b4a2315178ec172441362" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_f321bb93000b4a2315178ec172441362" type="Folder">1</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref91_1me" level="file">
+				</c>
+				<c id="aspace_ref91_1me" level="file">
 					<did>
 						<unittitle>KOGO Broadcasting Corporation</unittitle>
 						<unitid audience="internal" identifier="222720" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222720</unitid>
 						<unitdate>1961</unitdate>
-						<container id="aspace_ba5759bb19c4d3094207189b012cc969" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_ba5759bb19c4d3094207189b012cc969" type="Folder">2</container>
+						<container id="aspace_f0cee246d38bc47c2dfbb2a3233d2191" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_f0cee246d38bc47c2dfbb2a3233d2191" type="Folder">2</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref92_35y" level="file">
+				</c>
+				<c id="aspace_ref92_35y" level="file">
 					<did>
 						<unittitle>KOGO-AM</unittitle>
 						<unitid audience="internal" identifier="222719" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222719</unitid>
 						<unitdate>1971</unitdate>
-						<container id="aspace_a28cb6dedd67cabfa296e82e20502d1b" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_a28cb6dedd67cabfa296e82e20502d1b" type="Folder">3</container>
+						<container id="aspace_15d586454fb260ade0d522448f6e8bf2" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_15d586454fb260ade0d522448f6e8bf2" type="Folder">3</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref93_swd" level="file">
+				</c>
+				<c id="aspace_ref93_swd" level="file">
 					<did>
 						<unittitle>Kokomo CATV, Inc.</unittitle>
 						<unitid audience="internal" identifier="222718" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222718</unitid>
 						<unitdate>1965-1970</unitdate>
-						<container id="aspace_a308fac8284e5ced4ee8e5b5ad77e1a7" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_a308fac8284e5ced4ee8e5b5ad77e1a7" type="Folder">4-5</container>
+						<container id="aspace_7a6d13ddd1c4ad5ab15f9ce560f4d0fe" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_7a6d13ddd1c4ad5ab15f9ce560f4d0fe" type="Folder">4-5</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref94_p9s" level="file">
+				</c>
+				<c id="aspace_ref94_p9s" level="file">
 					<did>
 						<unittitle>Lake Erie Cable Corporation</unittitle>
 						<unitid audience="internal" identifier="222717" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222717</unitid>
 						<unitdate>1971-1972</unitdate>
-						<container id="aspace_ebd6848fe253b77053b9610f42596943" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_ebd6848fe253b77053b9610f42596943" type="Folder">6</container>
+						<container id="aspace_4a1794c6395f2e5cc156f2a3cefaf4ac" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_4a1794c6395f2e5cc156f2a3cefaf4ac" type="Folder">6</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref95_d3y" level="file">
+				</c>
+				<c id="aspace_ref95_d3y" level="file">
 					<did>
 						<unittitle>McGraw-Hill</unittitle>
 						<unitid audience="internal" identifier="222716" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222716</unitid>
 						<unitdate>1970-1972</unitdate>
-						<container id="aspace_4c5905138201c05512465c3802d375ca" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_4c5905138201c05512465c3802d375ca" type="Folder">7-10</container>
+						<container id="aspace_be3c56d54ec9c17b3f56053bcfddaccf" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_be3c56d54ec9c17b3f56053bcfddaccf" type="Folder">7-10</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref96_z4k" level="file">
+				</c>
+				<c id="aspace_ref96_z4k" level="file">
 					<did>
 						<unittitle>Mid County Television Corporation</unittitle>
 						<unitid audience="internal" identifier="222715" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222715</unitid>
 						<unitdate>1966</unitdate>
-						<container id="aspace_3923713d3faf582d4b4119aae8616002" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_3923713d3faf582d4b4119aae8616002" type="Folder">11</container>
+						<container id="aspace_e98875dc5fb0ca63c0d3d6c24cb47b31" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_e98875dc5fb0ca63c0d3d6c24cb47b31" type="Folder">11</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref97_sio" level="file">
+				</c>
+				<c id="aspace_ref97_sio" level="file">
 					<did>
 						<unittitle>Milwaukee Cablevision, Inc.</unittitle>
 						<unitid audience="internal" identifier="222714" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222714</unitid>
 						<unitdate>1971-1976</unitdate>
-						<container id="aspace_fd5864e09221cbe14fc5078bfb512261" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_fd5864e09221cbe14fc5078bfb512261" type="Folder">12</container>
+						<container id="aspace_0e50431b570c1403b3e3e5617223d91c" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_0e50431b570c1403b3e3e5617223d91c" type="Folder">12</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref98_aan" level="file">
+				</c>
+				<c id="aspace_ref98_aan" level="file">
 					<did>
 						<unittitle>Milwaukee Community TV, Inc.</unittitle>
 						<unitid audience="internal" identifier="222713" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222713</unitid>
 						<unitdate>1965, 1971</unitdate>
-						<container id="aspace_1c24efe1bdeddb79c37ade1ec86b7482" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_1c24efe1bdeddb79c37ade1ec86b7482" type="Folder">13</container>
+						<container id="aspace_d43fa7620bd1380ebad368ff6bb54602" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_d43fa7620bd1380ebad368ff6bb54602" type="Folder">13</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref99_34j" level="file">
+				</c>
+				<c id="aspace_ref99_34j" level="file">
 					<did>
 						<unittitle>Newcastle Broadcasting and TV Corporation</unittitle>
 						<unitid audience="internal" identifier="222712" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222712</unitid>
 						<unitdate>1970</unitdate>
-						<container id="aspace_48af04fb4e62003bd7534bd29b80513c" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_48af04fb4e62003bd7534bd29b80513c" type="Folder">14</container>
+						<container id="aspace_39f3b67d20a4e954f2d80a2f56a965e9" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_39f3b67d20a4e954f2d80a2f56a965e9" type="Folder">14</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref100_663" level="file">
+				</c>
+				<c id="aspace_ref100_663" level="file">
 					<did>
 						<unittitle>Newton Timber Company</unittitle>
 						<unitid audience="internal" identifier="222711" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222711</unitid>
 						<unitdate>1973</unitdate>
-						<container id="aspace_a5062688b79327d8f562c18e0f1a88d7" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_a5062688b79327d8f562c18e0f1a88d7" type="Folder">15</container>
+						<container id="aspace_130b64dc65d68692a9423ddbe520fe12" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_130b64dc65d68692a9423ddbe520fe12" type="Folder">15</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref101_d5b" level="file">
+				</c>
+				<c id="aspace_ref101_d5b" level="file">
 					<did>
 						<unittitle>Nutmeg State Communications Company</unittitle>
 						<unitid audience="internal" identifier="222710" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222710</unitid>
 						<unitdate>1975</unitdate>
-						<container id="aspace_bbedffd89702515f6c0c45b9f723309c" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_bbedffd89702515f6c0c45b9f723309c" type="Folder">16</container>
+						<container id="aspace_b47afe589c615bac06549605e3023a3c" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_b47afe589c615bac06549605e3023a3c" type="Folder">16</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref102_rtw" level="file">
+				</c>
+				<c id="aspace_ref102_rtw" level="file">
 					<did>
 						<unittitle>Prindevincor Limited</unittitle>
 						<unitid audience="internal" identifier="222709" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222709</unitid>
 						<unitdate>1975-1977</unitdate>
-						<container id="aspace_360d39ee187c6c47c46cd5b3087f38c3" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_360d39ee187c6c47c46cd5b3087f38c3" type="Folder">17</container>
+						<container id="aspace_acb9e234f97ff59938460137240f8ae2" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_acb9e234f97ff59938460137240f8ae2" type="Folder">17</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref103_z4r" level="file">
+				</c>
+				<c id="aspace_ref103_z4r" level="file">
 					<did>
 						<unittitle>Printing Developments, Inc.</unittitle>
 						<unitid audience="internal" identifier="222708" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222708</unitid>
 						<unitdate>1950</unitdate>
-						<container id="aspace_339b41f8b19eec76201bbe793e8cc3d5" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_339b41f8b19eec76201bbe793e8cc3d5" type="Folder">18</container>
+						<container id="aspace_8efe36a0c0a848c08344aabe1cb6bd7f" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_8efe36a0c0a848c08344aabe1cb6bd7f" type="Folder">18</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref104_r1w" level="file">
+				</c>
+				<c id="aspace_ref104_r1w" level="file">
 					<did>
 						<unittitle>Printing Developments International (France) S.A.</unittitle>
 						<unitid audience="internal" identifier="222707" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222707</unitid>
 						<unitdate>1963, 1977</unitdate>
-						<container id="aspace_eb03a65e1608050e7e053103ab5fc071" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_eb03a65e1608050e7e053103ab5fc071" type="Folder">19</container>
+						<container id="aspace_a883c676190163bb152d8708a7651d02" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_a883c676190163bb152d8708a7651d02" type="Folder">19</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref105_7x7" level="file">
+				</c>
+				<c id="aspace_ref105_7x7" level="file">
 					<did>
 						<unittitle>Printing Developments International (Panama) S.A.</unittitle>
 						<unitid audience="internal" identifier="222706" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222706</unitid>
 						<unitdate>1957, 1972</unitdate>
-						<container id="aspace_10394b60dc8cd59c5ea099c7447df960" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_10394b60dc8cd59c5ea099c7447df960" type="Folder">20</container>
+						<container id="aspace_74ff711542aa1b04c0767327fa784ab3" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_74ff711542aa1b04c0767327fa784ab3" type="Folder">20</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref106_eax" level="file">
+				</c>
+				<c id="aspace_ref106_eax" level="file">
 					<did>
 						<unittitle>Producciones Argentinas de Television S.A.C.I (Proartel)</unittitle>
 						<unitid audience="internal" identifier="222705" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222705</unitid>
 						<unitdate>1963-1973</unitdate>
-						<container id="aspace_79471b298a710151238f77701ea546b0" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_79471b298a710151238f77701ea546b0" type="Folder">21</container>
+						<container id="aspace_201175f9571470e96a1bec4811a8ad5e" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_201175f9571470e96a1bec4811a8ad5e" type="Folder">21</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref107_urv" level="file">
+				</c>
+				<c id="aspace_ref107_urv" level="file">
 					<did>
 						<unittitle>Proarkl</unittitle>
 						<unitid audience="internal" identifier="222704" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222704</unitid>
 						<unitdate>1973</unitdate>
-						<container id="aspace_518e817bae1ae5b3d605a9b8f2f32811" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_518e817bae1ae5b3d605a9b8f2f32811" type="Folder">22</container>
+						<container id="aspace_d8962665119515bb6db95d3996230826" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_d8962665119515bb6db95d3996230826" type="Folder">22</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref108_g6s" level="file">
+				</c>
+				<c id="aspace_ref108_g6s" level="file">
 					<did>
 						<unittitle>The Quality School Plan Inc.</unittitle>
 						<unitid audience="internal" identifier="222703" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222703</unitid>
 						<unitdate>1964, 1971</unitdate>
-						<container id="aspace_1e05f2464636a009c5ec0cf769992d13" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_1e05f2464636a009c5ec0cf769992d13" type="Folder">23-24</container>
+						<container id="aspace_b1425d5fed77ff53b16eda72bd8fe9f6" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_b1425d5fed77ff53b16eda72bd8fe9f6" type="Folder">23-24</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref109_5nx" level="file">
+				</c>
+				<c id="aspace_ref109_5nx" level="file">
 					<did>
 						<unittitle>Rayburn Land Company</unittitle>
 						<unitid audience="internal" identifier="222702" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222702</unitid>
 						<unitdate>1966</unitdate>
-						<container id="aspace_f2faad43f1d4f27af1391813d08857e0" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_f2faad43f1d4f27af1391813d08857e0" type="Folder">25</container>
+						<container id="aspace_34e06470b809e77beaa8643be5ec0b76" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_34e06470b809e77beaa8643be5ec0b76" type="Folder">25</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref110_vpu" level="file">
+				</c>
+				<c id="aspace_ref110_vpu" level="file">
 					<did>
 						<unittitle>Research Products, Inc.</unittitle>
 						<unitid audience="internal" identifier="222701" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222701</unitid>
 						<unitdate>1976</unitdate>
-						<container id="aspace_438a05e145443994a6342714c4591630" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_438a05e145443994a6342714c4591630" type="Folder">26</container>
+						<container id="aspace_cb888ef2d44ab1538198c948eb7ec476" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_cb888ef2d44ab1538198c948eb7ec476" type="Folder">26</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref111_shq" level="file">
+				</c>
+				<c id="aspace_ref111_shq" level="file">
 					<did>
 						<unittitle>San Augustine Timber Co.</unittitle>
 						<unitid audience="internal" identifier="222700" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222700</unitid>
 						<unitdate>1962-1973</unitdate>
-						<container id="aspace_4ecc0a75402ed01dea020e3b981535f0" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_4ecc0a75402ed01dea020e3b981535f0" type="Folder">27</container>
+						<container id="aspace_bdd2bd82dcadf3db3a4e8ac121e899ec" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_bdd2bd82dcadf3db3a4e8ac121e899ec" type="Folder">27</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref112_i0v" level="file">
+				</c>
+				<c id="aspace_ref112_i0v" level="file">
 					<did>
 						<unittitle>Silver Burdett Company</unittitle>
 						<unitid audience="internal" identifier="222699" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222699</unitid>
 						<unitdate>1965</unitdate>
-						<container id="aspace_113217f505512e1f7592db98ca475903" label="Mixed Materials" type="Offsite-Box">607</container>
-						<container parent="aspace_113217f505512e1f7592db98ca475903" type="Folder">28</container>
+						<container id="aspace_3ab68aac330b1457794bb2fb369512ad" label="Mixed Materials" type="Offsite-Box">607</container>
+						<container parent="aspace_3ab68aac330b1457794bb2fb369512ad" type="Folder">28</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref113_5cm" level="file">
+				</c>
+				<c id="aspace_ref113_5cm" level="file">
 					<did>
 						<unittitle>St. Louis Cablevision Co.</unittitle>
 						<unitid audience="internal" identifier="222698" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222698</unitid>
 						<unitdate>1994</unitdate>
-						<container id="aspace_271f61a2947d9463baa44611b5b8ab08" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_271f61a2947d9463baa44611b5b8ab08" type="Folder">1</container>
+						<container id="aspace_a3c535176e71b82707008568f79bb552" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_a3c535176e71b82707008568f79bb552" type="Folder">1</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref114_8so" level="file">
+				</c>
+				<c id="aspace_ref114_8so" level="file">
 					<did>
 						<unittitle>T C Press Corporation</unittitle>
 						<unitid audience="internal" identifier="222697" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222697</unitid>
 						<unitdate>1965, 1972</unitdate>
-						<container id="aspace_5649dbc05fdfb887fb585f25c366d0ec" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_5649dbc05fdfb887fb585f25c366d0ec" type="Folder">2</container>
+						<container id="aspace_08895b584276f641c6ac3e6a400a6652" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_08895b584276f641c6ac3e6a400a6652" type="Folder">2</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref115_2q7" level="file">
+				</c>
+				<c id="aspace_ref115_2q7" level="file">
 					<did>
 						<unittitle>T C Machinery Corporation</unittitle>
 						<unitid audience="internal" identifier="222696" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222696</unitid>
 						<unitdate>1961-1963, 1973</unitdate>
-						<container id="aspace_191fe87b1f2d632cf78f99c5c920f16c" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_191fe87b1f2d632cf78f99c5c920f16c" type="Folder">3</container>
+						<container id="aspace_9244748ec737c0b12bb616e9c6abd816" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_9244748ec737c0b12bb616e9c6abd816" type="Folder">3</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref116_l7f" level="file">
+				</c>
+				<c id="aspace_ref116_l7f" level="file">
 					<did>
 						<unittitle>Teijin Ltd.</unittitle>
 						<unitid audience="internal" identifier="222695" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222695</unitid>
 						<unitdate>1973</unitdate>
-						<container id="aspace_fa0b2dc8d7f77a174d63eac16bde4f0e" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_fa0b2dc8d7f77a174d63eac16bde4f0e" type="Folder">4</container>
+						<container id="aspace_11968b084c937174c0c92d31a3e37c3f" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_11968b084c937174c0c92d31a3e37c3f" type="Folder">4</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref117_l2f" level="file">
+				</c>
+				<c id="aspace_ref117_l2f" level="file">
 					<did>
 						<unittitle>Tilon Incorporated</unittitle>
 						<unitid audience="internal" identifier="222694" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222694</unitid>
 						<unitdate>1967, 1973</unitdate>
-						<container id="aspace_c9cb6e637cbabe96a16422d920aaa4e0" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_c9cb6e637cbabe96a16422d920aaa4e0" type="Folder">5</container>
+						<container id="aspace_f987ec17435574d4ea083d47fabd4b35" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_f987ec17435574d4ea083d47fabd4b35" type="Folder">5</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref118_cp7" level="file">
+				</c>
+				<c id="aspace_ref118_cp7" level="file">
 					<did>
 						<unittitle>Time Incorporated Societe Immobiliere</unittitle>
 						<unitid audience="internal" identifier="222693" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222693</unitid>
 						<unitdate>1961</unitdate>
-						<container id="aspace_6ff98aa8666617f5ad4bef4043bba47c" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_6ff98aa8666617f5ad4bef4043bba47c" type="Folder">6</container>
+						<container id="aspace_2185b14b7c419819970d199b2d1bc53a" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_2185b14b7c419819970d199b2d1bc53a" type="Folder">6</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref119_7tw" level="file">
+				</c>
+				<c id="aspace_ref119_7tw" level="file">
 					<did>
 						<unittitle>Time-Life Broadcast, Inc.</unittitle>
 						<unitid audience="internal" identifier="222692" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222692</unitid>
 						<unitdate>1964, 1974</unitdate>
-						<container id="aspace_394f5c3a33a8aae2c53614005a9f0966" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_394f5c3a33a8aae2c53614005a9f0966" type="Folder">7</container>
+						<container id="aspace_3984c4186ebae7b54138fe4106740c4a" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_3984c4186ebae7b54138fe4106740c4a" type="Folder">7</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref120_yad" level="file">
+				</c>
+				<c id="aspace_ref120_yad" level="file">
 					<did>
 						<unittitle>Time-Life Cable TV of Michigan, Inc.</unittitle>
 						<unitid audience="internal" identifier="222691" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222691</unitid>
 						<unitdate>1971-1974</unitdate>
-						<container id="aspace_c3d629c5f2af0438ea79c66b4df20dfe" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_c3d629c5f2af0438ea79c66b4df20dfe" type="Folder">8</container>
+						<container id="aspace_0754b94da6a0bab7ae99bb1658e00f2e" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_0754b94da6a0bab7ae99bb1658e00f2e" type="Folder">8</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref121_s4z" level="file">
+				</c>
+				<c id="aspace_ref121_s4z" level="file">
 					<did>
 						<unittitle>Time-Life/Columbia Cable TV, Inc.</unittitle>
 						<unitid audience="internal" identifier="222690" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222690</unitid>
 						<unitdate>1975</unitdate>
-						<container id="aspace_4f7a4307b76d2c1bdbffbfcf8a3c9595" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_4f7a4307b76d2c1bdbffbfcf8a3c9595" type="Folder">9</container>
+						<container id="aspace_bfd61f81cbacb841f4ade53342e51500" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_bfd61f81cbacb841f4ade53342e51500" type="Folder">9</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref122_u40" level="file">
+				</c>
+				<c id="aspace_ref122_u40" level="file">
 					<did>
 						<unittitle>Time-Life International Inc.</unittitle>
 						<unitid audience="internal" identifier="222689" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222689</unitid>
 						<unitdate>1946, 1972</unitdate>
-						<container id="aspace_fc947e179145fb9ac4f1a4381893a715" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_fc947e179145fb9ac4f1a4381893a715" type="Folder">10</container>
+						<container id="aspace_e58edea176cf08bf31299de83e193c69" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_e58edea176cf08bf31299de83e193c69" type="Folder">10</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref123_ehn" level="file">
+				</c>
+				<c id="aspace_ref123_ehn" level="file">
 					<did>
 						<unittitle>Time-Life Newspapers, Inc.</unittitle>
 						<unitid audience="internal" identifier="222688" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222688</unitid>
 						<unitdate>1971</unitdate>
-						<container id="aspace_24f8d56c11ec94d70af2736f998239ef" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_24f8d56c11ec94d70af2736f998239ef" type="Folder">11</container>
+						<container id="aspace_a8f3c7c0713da802b9d4bd69f179c87f" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_a8f3c7c0713da802b9d4bd69f179c87f" type="Folder">11</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref124_a6g" level="file">
+				</c>
+				<c id="aspace_ref124_a6g" level="file">
 					<did>
 						<unittitle>Time Tele-Marketing, Inc.</unittitle>
 						<unitid audience="internal" identifier="222687" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222687</unitid>
 						<unitdate>1973-1976</unitdate>
-						<container id="aspace_90113c4a1adf13c130a3c10fccd3fc2a" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_90113c4a1adf13c130a3c10fccd3fc2a" type="Folder">12</container>
+						<container id="aspace_9b0870ea4bc0a2c2ac3771a1a2766cdf" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_9b0870ea4bc0a2c2ac3771a1a2766cdf" type="Folder">12</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref125_36o" level="file">
+				</c>
+				<c id="aspace_ref125_36o" level="file">
 					<did>
 						<unittitle>Time-Texas, Inc.</unittitle>
 						<unitid audience="internal" identifier="222686" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222686</unitid>
 						<unitdate>1973</unitdate>
-						<container id="aspace_8cc671b655ac23df567c06b35f0316ab" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_8cc671b655ac23df567c06b35f0316ab" type="Folder">13</container>
+						<container id="aspace_315798c95fabf8d27007b578c1a29c93" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_315798c95fabf8d27007b578c1a29c93" type="Folder">13</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref126_0my" level="file">
+				</c>
+				<c id="aspace_ref126_0my" level="file">
 					<did>
 						<unittitle>TLB Peru Inc.</unittitle>
 						<unitid audience="internal" identifier="222685" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222685</unitid>
 						<unitdate>1963</unitdate>
-						<container id="aspace_2348e98369078c391ef5d91e085b1f5e" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_2348e98369078c391ef5d91e085b1f5e" type="Folder">14</container>
+						<container id="aspace_bd2d523be8b82c37cd2740b0aaf36b84" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_bd2d523be8b82c37cd2740b0aaf36b84" type="Folder">14</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref127_1e7" level="file">
+				</c>
+				<c id="aspace_ref127_1e7" level="file">
 					<did>
 						<unittitle>TV-Globo / Time-Life Brasil, Inc.</unittitle>
 						<unitid audience="internal" identifier="222684" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222684</unitid>
 						<unitdate>1962-1972</unitdate>
-						<container id="aspace_23362e13047a5cad41748d7b284c9bad" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_23362e13047a5cad41748d7b284c9bad" type="Folder">15-17</container>
+						<container id="aspace_b476f8cfe3aa9dc383ebde55902bc2c2" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_b476f8cfe3aa9dc383ebde55902bc2c2" type="Folder">15-17</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref128_q3h" level="file">
+				</c>
+				<c id="aspace_ref128_q3h" level="file">
 					<did>
 						<unittitle>WFBM</unittitle>
 						<unitid audience="internal" identifier="222683" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222683</unitid>
 						<unitdate>1971-1972</unitdate>
-						<container id="aspace_91205bb06997c5c93fb62d7431dde3c2" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_91205bb06997c5c93fb62d7431dde3c2" type="Folder">18</container>
+						<container id="aspace_5d5ae4610c01992e52fc6b730e39c297" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_5d5ae4610c01992e52fc6b730e39c297" type="Folder">18</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref129_zev" level="file">
+				</c>
+				<c id="aspace_ref129_zev" level="file">
 					<did>
 						<unittitle>Windrose - Dumont - Time</unittitle>
 						<unitid audience="internal" identifier="222682" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222682</unitid>
 						<unitdate>1961-1966</unitdate>
-						<container id="aspace_b147473b62240117cea40b2bfda7c5c6" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_b147473b62240117cea40b2bfda7c5c6" type="Folder">19</container>
+						<container id="aspace_e060f6adb1ca795a9b7e2ba2b7053173" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_e060f6adb1ca795a9b7e2ba2b7053173" type="Folder">19</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref130_acw" level="file">
+				</c>
+				<c id="aspace_ref130_acw" level="file">
 					<did>
 						<unittitle>Wisconsin Community TV, Inc.</unittitle>
 						<unitid audience="internal" identifier="222681" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222681</unitid>
 						<unitdate>1971</unitdate>
-						<container id="aspace_38811bf9e484a1cec4855ce05e89310b" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_38811bf9e484a1cec4855ce05e89310b" type="Folder">20</container>
+						<container id="aspace_e66cc225c9a2dfc843f094a15ef256e9" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_e66cc225c9a2dfc843f094a15ef256e9" type="Folder">20</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref131_ek4" level="file">
+				</c>
+				<c id="aspace_ref131_ek4" level="file">
 					<did>
 						<unittitle>WOOD Broadcasting Inc.</unittitle>
 						<unitid audience="internal" identifier="222680" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222680</unitid>
 						<unitdate>1971</unitdate>
-						<container id="aspace_4a49ba87cd1a5c278466ad64665743bc" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_4a49ba87cd1a5c278466ad64665743bc" type="Folder">21</container>
+						<container id="aspace_2bdb49f93e82de1788f2b1ec9b599853" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_2bdb49f93e82de1788f2b1ec9b599853" type="Folder">21</container>
 					</did>
-				</c02>
-			</c01>
-			<c01 id="aspace_ref134_8t0" level="series">
+				</c>
+			</c>
+			<c id="aspace_ref134_8t0" level="series">
 				<did>
 					<unittitle>Series I.D. General: Five-Year Plans</unittitle>
 					<unitid audience="internal" identifier="222678" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222678</unitid>
 					<physdesc altrender="whole">
-						<extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-						<extent altrender="carrier">(1 record carton)</extent>
+						<extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+						<extent altrender="carrier">in 1 record carton</extent>
 					</physdesc>
-					<unitdate>1971</unitdate>
-					<container id="aspace_c24dc4f32a3a7c1fdced4992ae869c9e" label="Mixed Materials" type="Offsite-Box">864</container>
-					<container parent="aspace_c24dc4f32a3a7c1fdced4992ae869c9e" type="Folder">1-11</container>
+					<unitdate type="inclusive">1971</unitdate>
+					<container id="aspace_56899470a68589150f8518d921eaf8c7" label="Mixed Materials" type="Offsite-Box">864</container>
+					<container parent="aspace_56899470a68589150f8518d921eaf8c7" type="Folder">1-11</container>
 				</did>
 				<arrangement id="aspace_746082a46b8ea34fc950ef22413936db">
-					<head>Arrangement Note</head><p>Organized alphabetically with the overview plan at the front.</p>
+					<head>Arrangement Note</head>
+					<p>Organized alphabetically with the overview plan at the front.</p>
 				</arrangement>
 				<scopecontent id="aspace_69dd12e817db39cc66ee5a6f3b6f15ac">
-					<head>Scope and Contents Note</head><p>Contains Five-Year Plans sent to a small group of corporate officers. Includes an overview and outlines of the strategic plans and plans for Books and Arts Associates, <title render="italic">Fortune</title>, Printing Developments Division, Real Estate Division, Selling Areas Marketing Plan (SAMI), <title render="italic">Sports Illustrated</title>, <title render="italic">Time</title>, Time-Life Films, Time-Life Records (music albums), and Time-life Video. Two copies originally belonged to Louis Banks, who was either <title render="italic">Fortune</title>'s managing editor or the overall editorial director in 1971. It is not clear who ultimately collected and retained these plans.</p>
+					<head>Scope and Contents Note</head>
+					<p>Contains Five-Year Plans sent to a small group of corporate officers. Includes an overview and outlines of the strategic plans and plans for Books and Arts Associates, <title render="italic">Fortune</title>, Printing Developments Division, Real Estate Division, Selling Areas Marketing Plan (SAMI), <title render="italic">Sports Illustrated</title>, <title render="italic">Time</title>, Time-Life Films, Time-Life Records (music albums), and Time-life Video. Two copies originally belonged to Louis Banks, who was either <title render="italic">Fortune</title>'s managing editor or the overall editorial director in 1971. It is not clear who ultimately collected and retained these plans.</p>
 				</scopecontent>
-			</c01>
-			<c01 id="aspace_ref138_jmz" level="series">
+			</c>
+			<c id="aspace_ref138_jmz" level="series">
 				<did>
 					<unittitle>Series I.E. General: Notary Seals</unittitle>
 					<unitid audience="internal" identifier="222677" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222677</unitid>
 					<physdesc altrender="whole">
-						<extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-						<extent altrender="carrier">(1 record carton)</extent>
+						<extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+						<extent altrender="carrier">in 1 record carton</extent>
 					</physdesc>
-					<unitdate>undated</unitdate>
-					<container id="aspace_d3130e6f20d4c57cf4f9a1f8352910c0" label="Mixed Materials" type="Offsite-Box">619</container>
+					<unitdate type="inclusive">undated</unitdate>
+					<container id="aspace_984e966bd8129dc7df6a63ce42916b01" label="Mixed Materials" type="Offsite-Box">619</container>
 				</did>
 				<scopecontent id="aspace_bb1076bebeaf0316ecbdb59864288e84">
-					<head>Scope and Contents Note</head><p>Notary Seals are a collection of seals from defunct Time Inc. affiliates and subsidiaries. The seals were used for embossing. There is cross-over of names with Dead Companies.</p>
+					<head>Scope and Contents Note</head>
+					<p>Notary Seals are a collection of seals from defunct Time Inc. affiliates and subsidiaries. The seals were used for embossing. There is cross-over of names with Dead Companies.</p>
 				</scopecontent>
 				<arrangement id="aspace_0e1842dc6fb3f39cda2d45b7b9817123">
-					<head>Arrangement Note</head><p>In original order.</p>
+					<head>Arrangement Note</head>
+					<p>In original order.</p>
 				</arrangement>
-			</c01>
-			<c01 id="aspace_ref142_au4" level="series">
+			</c>
+			<c id="aspace_ref142_au4" level="series">
 				<did>
 					<unittitle>Series I.F. General: Patents</unittitle>
 					<unitid audience="internal" identifier="222676" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222676</unitid>
 					<physdesc altrender="whole">
-						<extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-						<extent altrender="carrier">(1 record carton)</extent>
+						<extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+						<extent altrender="carrier">in 1 record carton</extent>
 					</physdesc>
-					<unitdate>1935-1964</unitdate>
-					<container id="aspace_b8c5fd4110c2f31f9ba04bc0923a1570" label="Mixed Materials" type="Offsite-Box">620</container>
+					<unitdate type="inclusive">1935-1964</unitdate>
+					<container id="aspace_75aa93f9281c2a95f4d9049b66279df1" label="Mixed Materials" type="Offsite-Box">620</container>
 				</did>
 				<arrangement id="aspace_4130ba06d64b4cea7d4dc76e2592be2d">
-					<head>Arrangement Note</head><p>In original arrangement of individual alphabetical files followed by general files.</p>
+					<head>Arrangement Note</head>
+					<p>In original arrangement of individual alphabetical files followed by general files.</p>
 				</arrangement>
 				<scopecontent id="aspace_5b87c7d0011742cc81a0b2904ecbc561">
-					<head>Scope and Contents Note</head><p>Patents contains records of patents owned by Time Inc. and include patent applications and transfer of patent ownership. These patents were found housed together. Inventions covered include the mailing envelope, ink composition, casein techniques, paper coating, printing machine components and mechanisms, and chrome plating.</p>
+					<head>Scope and Contents Note</head>
+					<p>Patents contains records of patents owned by Time Inc. and include patent applications and transfer of patent ownership. These patents were found housed together. Inventions covered include the mailing envelope, ink composition, casein techniques, paper coating, printing machine components and mechanisms, and chrome plating.</p>
 				</scopecontent>
-			</c01>
-			<c01 id="aspace_ref146_r2w" level="series">
+			</c>
+			<c id="aspace_ref146_r2w" level="series">
 				<did>
 					<unittitle>Series I.G. General: Printing Agreements</unittitle>
 					<unitid audience="internal" identifier="222675" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222675</unitid>
 					<physdesc altrender="whole">
-						<extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-						<extent altrender="carrier">(1 record carton)</extent>
+						<extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+						<extent altrender="carrier">in 1 record carton</extent>
 					</physdesc>
-					<unitdate>1939-1948</unitdate>
-					<container id="aspace_e688f241ff947890ade42fa2d80a9a99" label="Mixed Materials" type="Offsite-Box">617</container>
+					<unitdate type="inclusive">1939-1948</unitdate>
+					<container id="aspace_840c7bbbd93fe3983ef5c48858e37214" label="Mixed Materials" type="Offsite-Box">617</container>
 				</did>
 				<arrangement id="aspace_6fb306cf4a0a0812df8d97476a0ee1d4">
-					<head>Arrangement Note</head><p>Organized chronologically.</p>
+					<head>Arrangement Note</head>
+					<p>Organized chronologically.</p>
 				</arrangement>
 				<scopecontent id="aspace_957f218206dbe02ac1c2c8ad04b471f9">
-					<head>Scope and Contents Note</head><p>Printing Agreements contains bound agreements that detail the work to be done, the term, plant facilities, and equipment to be used. These agreements were found housed together. The majority of agreements relate to printing <title render="italic">Life</title> with one <title render="italic">Fortune</title> printing agreement from 1948. The printers are The Cuneo Press or R. R. Donnelley &amp; Sons Company. Some covers are stamped with "Contract file." Similar, but not as complete, agreements are in the subseries Contract, Corporate, and Corporate Secretary Legal Files.</p>
+					<head>Scope and Contents Note</head>
+					<p>Printing Agreements contains bound agreements that detail the work to be done, the term, plant facilities, and equipment to be used. These agreements were found housed together. The majority of agreements relate to printing <title render="italic">Life</title> with one <title render="italic">Fortune</title> printing agreement from 1948. The printers are The Cuneo Press or R. R. Donnelley &amp; Sons Company. Some covers are stamped with "Contract file." Similar, but not as complete, agreements are in the subseries Contract, Corporate, and Corporate Secretary Legal Files.</p>
 				</scopecontent>
-			</c01>
-			<c01 id="aspace_ref150_tsp" level="series">
+			</c>
+			<c id="aspace_ref150_tsp" level="series">
 				<did>
 					<unittitle>Series I.H. General: Subsidiary Corporate Books</unittitle>
 					<unitid audience="internal" identifier="222658" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222658</unitid>
 					<physdesc altrender="whole">
-						<extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
-						<extent altrender="carrier">(6 record cartons)</extent>
+						<extent altrender="materialtype spaceoccupied">6 Linear feet</extent>
+						<extent altrender="carrier">in 6 record cartons</extent>
 					</physdesc>
-					<unitdate>1949-1974</unitdate>
+					<unitdate type="inclusive">1949-1974</unitdate>
 				</did>
 				<scopecontent id="aspace_be30ae011a01f05c4b0d293b6de05b76">
-					<head>Scope and Contents Note</head><p>Subsidiary Corporate Books include bound volumes of business records of companies that were acquired by Time Inc. such as printers, paper mills, and radio or television stations. These volumes were housed together. Records include articles of incorporation, by-laws, and meeting minutes. There is cross-over of names with the subseries Dead Companies.</p>
+					<head>Scope and Contents Note</head>
+					<p>Subsidiary Corporate Books include bound volumes of business records of companies that were acquired by Time Inc. such as printers, paper mills, and radio or television stations. These volumes were housed together. Records include articles of incorporation, by-laws, and meeting minutes. There is cross-over of names with the subseries Dead Companies.</p>
 				</scopecontent>
 				<arrangement id="aspace_21c5619bcd724054f102435c37a7a6dd">
-					<head>Arrangement Note</head><p>Organized alphabetically.</p>
+					<head>Arrangement Note</head>
+					<p>Organized alphabetically.</p>
 				</arrangement>
-				<c02 id="aspace_ref152_zio" level="file">
+				<c id="aspace_ref152_zio" level="file">
 					<did>
 						<unittitle>Alva Studios, Inc.</unittitle>
 						<unitid audience="internal" identifier="222674" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222674</unitid>
 						<unitdate>1949-1961</unitdate>
-						<container id="aspace_33779c5d6bb58bb38628c49c1532f774" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_33779c5d6bb58bb38628c49c1532f774" type="Folder">22-23</container>
+						<container id="aspace_a5dd4f8dbd5ceb565dd286965d46c49f" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_a5dd4f8dbd5ceb565dd286965d46c49f" type="Folder">22-23</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref153_fck" level="file">
+				</c>
+				<c id="aspace_ref153_fck" level="file">
 					<did>
 						<unittitle>Cascade Television Cable Company</unittitle>
 						<unitid audience="internal" identifier="222673" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222673</unitid>
 						<unitdate>1965-1971</unitdate>
-						<container id="aspace_653824f2401941ec5440c68c4d3b443d" label="Mixed Materials" type="Offsite-Box">608</container>
-						<container parent="aspace_653824f2401941ec5440c68c4d3b443d" type="Folder">24</container>
+						<container id="aspace_99251fdb881c4d12a2d423af07d38604" label="Mixed Materials" type="Offsite-Box">608</container>
+						<container parent="aspace_99251fdb881c4d12a2d423af07d38604" type="Folder">24</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref154_0m5" level="file">
+				</c>
+				<c id="aspace_ref154_0m5" level="file">
 					<did>
 						<unittitle>East Texas Pulp and Paper Company</unittitle>
 						<unitid audience="internal" identifier="222672" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222672</unitid>
 						<unitdate>1953-1971</unitdate>
-						<container id="aspace_0a990a5c3f261b22914a34ed0605e851" label="Mixed Materials" type="Offsite-Box">609</container>
-						<container parent="aspace_0a990a5c3f261b22914a34ed0605e851" type="Folder">1-4</container>
+						<container id="aspace_a9ab25cdb6dc86cb07c364464c72292b" label="Mixed Materials" type="Offsite-Box">609</container>
+						<container parent="aspace_a9ab25cdb6dc86cb07c364464c72292b" type="Folder">1-4</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref155_zy6" level="file">
+				</c>
+				<c id="aspace_ref155_zy6" level="file">
 					<did>
 						<unittitle>Family Publications Service, Inc.</unittitle>
 						<unitid audience="internal" identifier="222671" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222671</unitid>
 						<unitdate>1963-1971</unitdate>
-						<container id="aspace_d29e064ef8b230a95926b297caff86d1" label="Mixed Materials" type="Offsite-Box">609</container>
-						<container parent="aspace_d29e064ef8b230a95926b297caff86d1" type="Folder">5-8</container>
+						<container id="aspace_de2f278a96c5b62afd6d608dde55565a" label="Mixed Materials" type="Offsite-Box">609</container>
+						<container parent="aspace_de2f278a96c5b62afd6d608dde55565a" type="Folder">5-8</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref156_jti" level="file">
+				</c>
+				<c id="aspace_ref156_jti" level="file">
 					<did>
 						<unittitle>Huntington Cable Television, Inc.</unittitle>
 						<unitid audience="internal" identifier="222670" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222670</unitid>
 						<unitdate>1966-1972</unitdate>
-						<container id="aspace_bfbaa5a557de0a9a2cc981c8fb7785b2" label="Mixed Materials" type="Offsite-Box">609</container>
-						<container parent="aspace_bfbaa5a557de0a9a2cc981c8fb7785b2" type="Folder">9</container>
+						<container id="aspace_874d6bb8dcd363db32e408624a16f680" label="Mixed Materials" type="Offsite-Box">609</container>
+						<container parent="aspace_874d6bb8dcd363db32e408624a16f680" type="Folder">9</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref157_98q" level="file">
+				</c>
+				<c id="aspace_ref157_98q" level="file">
 					<did>
 						<unittitle>Jasper Timber Company</unittitle>
 						<unitid audience="internal" identifier="222669" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222669</unitid>
 						<unitdate>1960-1973</unitdate>
-						<container id="aspace_a625691abb3a76d6d59b4de8da1cc2c1" label="Mixed Materials" type="Offsite-Box">610</container>
-						<container parent="aspace_a625691abb3a76d6d59b4de8da1cc2c1" type="Folder">1</container>
+						<container id="aspace_ecdd1b423699309bc64254511c7395f7" label="Mixed Materials" type="Offsite-Box">610</container>
+						<container parent="aspace_ecdd1b423699309bc64254511c7395f7" type="Folder">1</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref158_bhr" level="file">
+				</c>
+				<c id="aspace_ref158_bhr" level="file">
 					<did>
 						<unittitle>Lake Erie Cable Corporation</unittitle>
 						<unitid audience="internal" identifier="222668" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222668</unitid>
 						<unitdate>1966-1971</unitdate>
-						<container id="aspace_4a63bb56166df381fa0d596507ba7637" label="Mixed Materials" type="Offsite-Box">610</container>
-						<container parent="aspace_4a63bb56166df381fa0d596507ba7637" type="Folder">2</container>
+						<container id="aspace_d788ee9d1c59d2d09b6d97fa2d36f4a2" label="Mixed Materials" type="Offsite-Box">610</container>
+						<container parent="aspace_d788ee9d1c59d2d09b6d97fa2d36f4a2" type="Folder">2</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref159_1ml" level="file">
+				</c>
+				<c id="aspace_ref159_1ml" level="file">
 					<did>
 						<unittitle>Mador Communications Corp.</unittitle>
 						<unitid audience="internal" identifier="222667" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222667</unitid>
 						<unitdate>1958-1971</unitdate>
-						<container id="aspace_c4a4eab7b92dba4370a60eab29294c44" label="Mixed Materials" type="Offsite-Box">610</container>
-						<container parent="aspace_c4a4eab7b92dba4370a60eab29294c44" type="Folder">3</container>
+						<container id="aspace_d83f051f75986e2009ed38d05e2ece5e" label="Mixed Materials" type="Offsite-Box">610</container>
+						<container parent="aspace_d83f051f75986e2009ed38d05e2ece5e" type="Folder">3</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref160_3h9" level="file">
+				</c>
+				<c id="aspace_ref160_3h9" level="file">
 					<did>
 						<unittitle>Rayburn Country Improvement Association</unittitle>
 						<unitid audience="internal" identifier="222666" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222666</unitid>
 						<unitdate>1965-1970</unitdate>
-						<container id="aspace_c723ff9f0c9959c06aee52ceae3c536c" label="Mixed Materials" type="Offsite-Box">610</container>
-						<container parent="aspace_c723ff9f0c9959c06aee52ceae3c536c" type="Folder">4</container>
+						<container id="aspace_14f4cd45bae01065f5db537e6d9d1df4" label="Mixed Materials" type="Offsite-Box">610</container>
+						<container parent="aspace_14f4cd45bae01065f5db537e6d9d1df4" type="Folder">4</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref161_lzq" level="file">
+				</c>
+				<c id="aspace_ref161_lzq" level="file">
 					<did>
 						<unittitle>Rayburn Land Company / Rayburn Lodge and Marina Company / Rayburn Village Water Company</unittitle>
 						<unitid audience="internal" identifier="222665" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222665</unitid>
 						<unitdate>1965</unitdate>
-						<container id="aspace_0440994e8def9de67905d31c1d9a4bd8" label="Mixed Materials" type="Offsite-Box">610</container>
-						<container parent="aspace_0440994e8def9de67905d31c1d9a4bd8" type="Folder">5</container>
+						<container id="aspace_505a13fb93b78b8dab15cb56ab6823f5" label="Mixed Materials" type="Offsite-Box">610</container>
+						<container parent="aspace_505a13fb93b78b8dab15cb56ab6823f5" type="Folder">5</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref162_x6v" level="file">
+				</c>
+				<c id="aspace_ref162_x6v" level="file">
 					<did>
 						<unittitle>St. Francisville Paper Company</unittitle>
 						<unitid audience="internal" identifier="222664" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222664</unitid>
 						<unitdate>1957-1959</unitdate>
-						<container id="aspace_f64882bc6128463cdcfb20a777e8d054" label="Mixed Materials" type="Offsite-Box">610-611</container>
+						<container id="aspace_359009f42a2ce4a8f3224414f4cd35d2" label="Mixed Materials" type="Offsite-Box">610-611</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref163_fuq" level="file">
+				</c>
+				<c id="aspace_ref163_fuq" level="file">
 					<did>
 						<unittitle>St. Louis Cabletelevision</unittitle>
 						<unitid audience="internal" identifier="222663" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222663</unitid>
 						<unitdate>1967-1971</unitdate>
-						<container id="aspace_2ada695df1d527fef34d3ba539d81348" label="Mixed Materials" type="Offsite-Box">611</container>
-						<container parent="aspace_2ada695df1d527fef34d3ba539d81348" type="Folder">2</container>
+						<container id="aspace_326de51deb7fcb0025e05e58f9af9142" label="Mixed Materials" type="Offsite-Box">611</container>
+						<container parent="aspace_326de51deb7fcb0025e05e58f9af9142" type="Folder">2</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref164_kcg" level="file">
+				</c>
+				<c id="aspace_ref164_kcg" level="file">
 					<did>
 						<unittitle>The Southwestern Cable Company</unittitle>
 						<unitid audience="internal" identifier="222662" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222662</unitid>
 						<unitdate>1964-1972</unitdate>
-						<container id="aspace_ce9404f1650c03cef2e9daa4e462ac35" label="Mixed Materials" type="Offsite-Box">611</container>
-						<container parent="aspace_ce9404f1650c03cef2e9daa4e462ac35" type="Folder">3</container>
+						<container id="aspace_3d4df5bb7a40643f90308b0f6f914b26" label="Mixed Materials" type="Offsite-Box">611</container>
+						<container parent="aspace_3d4df5bb7a40643f90308b0f6f914b26" type="Folder">3</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref165_0ug" level="file">
+				</c>
+				<c id="aspace_ref165_0ug" level="file">
 					<did>
 						<unittitle>Tilon Incorporated</unittitle>
 						<unitid audience="internal" identifier="222661" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222661</unitid>
 						<unitdate>1967-1973</unitdate>
-						<container id="aspace_5aded9b19ed5189fd004071fc5458650" label="Mixed Materials" type="Offsite-Box">611</container>
-						<container parent="aspace_5aded9b19ed5189fd004071fc5458650" type="Folder">4</container>
+						<container id="aspace_1c81fe7a359a26ccd8154c5a84c95756" label="Mixed Materials" type="Offsite-Box">611</container>
+						<container parent="aspace_1c81fe7a359a26ccd8154c5a84c95756" type="Folder">4</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref166_jln" level="file">
+				</c>
+				<c id="aspace_ref166_jln" level="file">
 					<did>
 						<unittitle>Time-Life/Columbia Cable TV Inc.</unittitle>
 						<unitid audience="internal" identifier="222660" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222660</unitid>
 						<unitdate>1970-1974</unitdate>
-						<container id="aspace_c8d17fc4173ca6b8ae5adc8eef1545e4" label="Mixed Materials" type="Offsite-Box">611</container>
-						<container parent="aspace_c8d17fc4173ca6b8ae5adc8eef1545e4" type="Folder">5</container>
+						<container id="aspace_514532bba82ffe505759632f2a5ce187" label="Mixed Materials" type="Offsite-Box">611</container>
+						<container parent="aspace_514532bba82ffe505759632f2a5ce187" type="Folder">5</container>
 					</did>
-				</c02>
-				<c02 id="aspace_ref167_u5g" level="file">
+				</c>
+				<c id="aspace_ref167_u5g" level="file">
 					<did>
 						<unittitle>Twin State Broadcasting, Inc.</unittitle>
 						<unitid audience="internal" identifier="222659" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222659</unitid>
 						<unitdate>1959</unitdate>
-						<container id="aspace_43f2ccd10b4eb70d00e3af4144521bc6" label="Mixed Materials" type="Offsite-Box">611</container>
-						<container parent="aspace_43f2ccd10b4eb70d00e3af4144521bc6" type="Folder">6</container>
+						<container id="aspace_5bbe054d56ae9173b6119de74e2e3777" label="Mixed Materials" type="Offsite-Box">611</container>
+						<container parent="aspace_5bbe054d56ae9173b6119de74e2e3777" type="Folder">6</container>
 					</did>
-				</c02>
-			</c01>
-			<c01 id="aspace_ref170_gqt" level="series">
+				</c>
+			</c>
+			<c id="aspace_ref170_gqt" level="series">
 				<did>
 					<unittitle>Series I.I. General: Time Warner Corporate Structure Books</unittitle>
 					<unitid audience="internal" identifier="222657" type="Archivists Toolkit Database::RESOURCE_COMPONENT">222657</unitid>
 					<physdesc altrender="whole">
-						<extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-						<extent altrender="carrier">(1 record carton)</extent>
+						<extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+						<extent altrender="carrier">in 1 record carton</extent>
 					</physdesc>
-					<unitdate>1994-1997</unitdate>
-					<container id="aspace_2cb4d7f435923825fecfb5c55a9c01cb" label="Mixed Materials" type="Box">864</container>
-					<container parent="aspace_2cb4d7f435923825fecfb5c55a9c01cb" type="Folder">12-15</container>
+					<unitdate type="inclusive">1994-1997</unitdate>
+					<container id="aspace_142423d7c1badadc7e360bd3a0cc3685" label="Mixed Materials" type="Box">864</container>
+					<container parent="aspace_142423d7c1badadc7e360bd3a0cc3685" type="Folder">12-15</container>
 				</did>
 				<arrangement id="aspace_0c10da3a3d223d4a5de2e799977dbf8f">
-					<head>Arrangement Note</head><p>Organized chronologically.</p>
+					<head>Arrangement Note</head>
+					<p>Organized chronologically.</p>
 				</arrangement>
 				<scopecontent id="aspace_6194a8da6a58059565b86aa8c19948a4">
-					<head>Scope and Contents Note</head><p>Time Warner Corporate Structure Books contain information assembled by the Corporate Tax Department. Information includes lists of mergers, new subsidiaries, investments, and sales; lists of Time Warner and affiliated entities; lists of division names and trade names; and corporate structure trees of each entity, division, or subsidiary. Changes made since the last book are listed at the front.</p>
+					<head>Scope and Contents Note</head>
+					<p>Time Warner Corporate Structure Books contain information assembled by the Corporate Tax Department. Information includes lists of mergers, new subsidiaries, investments, and sales; lists of Time Warner and affiliated entities; lists of division names and trade names; and corporate structure trees of each entity, division, or subsidiary. Changes made since the last book are listed at the front.</p>
 				</scopecontent>
-			</c01>
-			
-			
-			
+			</c>
+
+
+
+
 		</dsc>
 	</archdesc>
 </ead>
