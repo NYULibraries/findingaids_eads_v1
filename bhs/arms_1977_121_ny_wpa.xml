@@ -1,107 +1,111 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_121_ny_wpa</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the New York City WPA historical survey on American Indians of Brooklyn
-                    <num>1977.121</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>May 31, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-09T16:02-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>New York City WPA historical survey of American Indians of Brooklyn</unittitle>
-            <unitid>1977.121</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid812001" type="Box" label="Text">A0036</container>
-            <physdesc>
-                <extent>0.3 Linear feet</extent>
-                <extent>in two folders.</extent>
-            </physdesc>
-            <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
-            <origination label="creator">
-                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf" role="Compiler (com)">MacLeod, William Christie</persname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">United States. Works Projects Administration (New York, N.Y.).</corpname>
-            </origination>
-        </did>
-        <bioghist id="ref7">
-            <head>Historical Note</head>
-            <p>Archaeological evidence testifies that American Indians have been living in the region now comprising the five boroughs of New York City for at least 11,500 years. After European contact in the 16th and 17th centuries, Indians living along the Atlantic seaboard between the Delaware and Hudson valleys became generally known as Delawares, though the Indians referred to themselves as 
-                <emph render="italic">Lenape</emph> (people). Indians of the region are believed to have spoken a variant of Delaware dialect known as Munsee. Documented Munsee communities who lived in the area that would eventually become known as Brooklyn included the Marechkawick (sandy place) near present-day Borough Hall, Nayack (point of land), Wichquawanck (sandy bank) at present-day Fort Hamilton, Techkonis (translation unknown) in present-day Gravesend, and Canarsie (grassy place) in present-day Flatlands.</p>
-            <list numeration="arabic" type="ordered">
-                <head>Sources:</head>
-                <item>Grumet, Robert S. "American Indians," in 
-                    <emph render="italic">The Encyclopedia of New York City</emph>, ed. Kenneth T. Jackson (New Haven, Conn.: Yale University Press; New York: New York Historical Society, c1995), 25-28.</item>
-            </list>
-        </bioghist>
-        <processinfo id="ref6">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); New York City WPA historical survey on American Indians of Brooklyn, 1977.121, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <scopecontent id="ref2">
-            <head>Scope and Contents note</head>
-            <p>This collection includes several drafts of a typescript on the history of the American Indian communities who for centuries resided in the region that would eventually become known as Brooklyn, N.Y. after European settlement in the early 17th century. The typescript was compiled by William Christie MacLeod in 1939 and 1940 and was based on research conducted as part of the New York City WPA Historical Records Survey. Additional materials compiled in the research process, such as notes, memos, clippings, transcriptions of documents, and maps, are also included.</p>
-        </scopecontent>
-        <acqinfo id="ref3">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Deposited by the New York City WPA, 1941.</p>
-        </acqinfo>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <bioghist id="ref8">
-            <head>Biographical Note</head>
-            <p>Dr. William Christie MacLeod was a supervisor on the New York City Work Projects Administration (WPA) Historical Records Survey, one of the many cultural projects initiated as part of the WPA's federal relief programs from 1935 to 1943.</p>
-        </bioghist>
-        <controlaccess>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <subject source="lcsh">Indians of North America |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Maps</genreform>
-            <genreform source="aat">Memorandums</genreform>
-            <genreform source="aat">Research notes</genreform>
-            <genreform source="aat">typescripts</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_121_ny_wpa/">arms_1977_121_ny_wpa</eadid><filedesc><titlestmt><titleproper>Guide to the New York City WPA historical survey of Indigenous People of Brooklyn <num>1977.121</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2020-03-05T22:02:33</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>February 19, 2020</date><item>Updated by Mary Mann to describe at folder level</item></change></revisiondesc></eadheader><archdesc level="file">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>New York City WPA historical survey of Indigenous People of Brooklyn</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">United States. Works Projects Administration (New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname role="com" rules="aacr" source="naf">MacLeod, William Christie</persname>
+    </origination>
+    <unitid>1977.121</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
+      <extent altrender="carrier">in 12 folders.</extent>
+    </physdesc>
+    <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
+    <unitdate normal="1600/1940" type="bulk">1600-1940</unitdate>
+    <abstract id="aspace_8d86001606d3a9021a6026d5d17c206d">This collection includes drafted sections of "The Indians of Brooklyn in the Days of the Dutch," edited by William Christie MacLeod, which have been organized by subject. It also includes research notes, annotated maps, notes on the orthography of Native American words and names, and typescript copies of 17th century deeds and proclamations. Please note: A bound copy of "The Indians of Brooklyn in the Days of the Dutch" is available in our regular non-circulating library collection; see our library catalog for more information.</abstract>
+    <container id="aspace_ca9e140686522c94d141771897aa9d5a" label="Text" type="Box">A0036</container>
+  </did>
+  <bioghist id="aspace_ef4794ef6cba2973a223b60a9f93bcb7">
+    <head>Biographical / Historical</head>
+<p>The New York City Work Projects Administration (WPA) Historical Records Survey was one of the many cultural projects initiated as part of the WPA's federal relief programs from 1935 to 1943. This collection represents the efforts of the Historical Records Survey to collect, transcribe and explain records pertaining to the Native American communities of 17th century Brooklyn. </p><p>Archaeological evidence testifies that Native Americans have been living in the region now comprising the five boroughs of New York City for at least 11,500 years. Native Americans living along the Atlantic seaboard between the Delaware and Hudson valleys refer to themselves as Lenape (people), though the Europeans arriving in the 16th and 17th century called them Delawares. Native Americans of the region are believed to have spoken a variant of Lenape/Delaware dialect known as Munsee. Documented Munsee communities who lived in the area that would eventually become known as Brooklyn included the Marechkawick (sandy place) near present-day Borough Hall, Nayack (point of land), Wichquawanck (sandy bank) at present-day Fort Hamilton, Techkonis (translation unknown) in present-day Gravesend, and Canarsie (grassy place) in present-day Flatlands.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Grumet, Robert S. "American Indians," in <emph render="italic">The Encyclopedia of New York City</emph>, ed. Kenneth T. Jackson (New Haven, Conn.: Yale University Press; New York: New York Historical Society, c1995), 25-28.</item>
+    </list>
+  </bioghist>
+  <prefercite id="aspace_7bd5536bc92166f6e2a010da6324b8e4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); New York City WPA historical survey on American Indians of Brooklyn, 1977.121, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <scopecontent id="aspace_3cc3db61ab99d13c8f5a888665bc8a41">
+    <head>Scope and Contents</head>
+<p>This collection includes drafted sections of "The Indians of Brooklyn in the Days of the Dutch," edited by William Christie MacLeod, as well as research notes, annotated maps, notes on the orthography of Native American words and names, and typescript copies of 17th century deeds and proclamations.</p>  </scopecontent>
+  <acqinfo id="aspace_9ded7dff2a6e39b99b4b7d99bb23dfb6">
+    <head>Immediate Source of Acquisition</head>
+<p>Deposited by the New York City WPA, 1941.</p>  </acqinfo>
+  <accessrestrict id="aspace_1dbb788c7002e42cc0be5b74752e8331">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <arrangement id="aspace_e9b09f34a539aa423517b5c9e7cedd83">
+    <head>Arrangement</head>
+<p>The materials in this collection have been processed to the folder level. Materials are separated by type and subject.</p>  </arrangement>
+  <processinfo id="aspace_a5e44e27012c208f4cc4b4460d131161">
+    <head>Processing Information</head>
+<p>Materials were rehoused, and folder level description was added in 2020. The collection was renamed from the New York City WPA historical survey of American Indians of Brooklyn to New York City WPA historical survey of Indeigenous Peoples of Brooklyn to reflect current terminology.</p>  </processinfo>
+  <userestrict id="aspace_80ea035995b4db567051cff465dc4bea">
+    <head>Conditions Governing Use</head>
+<p>Copyright status of materials in this collection is unknown, copyright may rest with WPA or original artists. Please consult library staff for more information.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Typescripts</genreform>
+    <genreform source="aat">Memorandums</genreform>
+    <genreform source="aat">Maps</genreform>
+    <genreform source="aat">Research notes</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Indians of North America |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Canarsie (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
+    <geogname source="lcsh">New Utrecht (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Newtown Creek (Kings County-New York County, N.Y.)</geogname>
+    <geogname source="lcsh">Nyack (N.Y.)</geogname>
+    <geogname source="lcsh">Far Rockaway (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Nassau County (N.Y.)</geogname>
+    <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Gravesend (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <geogname source="local">Marechkawick</geogname>
+    <geogname source="local">Kaskatensakin</geogname>
+    <geogname source="local">Pagganck</geogname>
+    <geogname source="local">Keskateuw</geogname>
+    <geogname source="local">Wickquawanck</geogname>
+    <geogname source="local">Techkonis</geogname>
+    <geogname source="local">Boswijk</geogname>
+    <geogname source="local">Makeepaca</geogname>
+    <geogname source="local">Keskachane</geogname>
+    <geogname source="local">Esopus</geogname>
+    <geogname source="local">Mechawanienck</geogname>
+    <geogname source="local">Matsepe</geogname>
+    <geogname source="local">Bergen Island</geogname>
+    <geogname source="local">Governors Island</geogname>
+    <function source="local">Orthography</function>
+    <geogname source="local">Manatus map</geogname>
+    <geogname source="local">Kieft's War, 1643-1645</geogname>
+    <persname rules="dacs" source="local">Penhawis</persname>
+    <persname source="local">Stuyvesant, Peter</persname>
+    <persname rules="dacs" source="local">Cacapoteyno</persname>
+    <famname rules="dacs" source="local">Couwenhoven family</famname>
+    <persname rules="dacs" source="local">Hudde, Andries</persname>
+    <persname source="local">Van Salee, Anthony Jansen (Janszoon), 1607 – 1667</persname>
+    <persname rules="dacs" source="local">London, Ambrose</persname>
+    <persname rules="dacs" source="local">Mechowodt</persname>
+    <persname rules="dacs" source="local">Kieft, Willem</persname>
+    <persname rules="dacs" source="local">Mattano</persname>
+    <persname rules="dacs" source="local">Meijterma</persname>
+    <persname rules="dacs" source="local">Pennekeck</persname>
+    <persname rules="dacs" source="local">Seysey</persname>
+    <persname rules="dacs" source="local">Tienhoven, Cornelis Van</persname>
+    <persname rules="aacr" source="naf">Danckaerts, Jasper</persname>
+    <persname rules="aacr" source="naf">Sluyter, Peter</persname>
+    <corpname rules="dacs" source="local">West India Company</corpname>
+    <corpname rules="dacs" source="local">Mohawk</corpname>
+    <corpname rules="dacs" source="local">Nayack</corpname>
+    <corpname rules="dacs" source="local">Massapeague</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_463a4231e3cf9b146429c65baa142539" level="file"><did><unittitle>Preface, introduction, bibliography, subject headings and deed list</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_88d373296f1c56d75f6d607d53527ea2" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_400756c1bdcaddc7e28ab3679ca8b737" level="file"><did><unittitle>Transcribed maps</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_18d062d20f311b566bd0ef913ad6614f" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_a934b47cab5e0d80a08c23ff5fb2b00f" level="file"><did><unittitle>Orthography of names</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_16ef9f9f44b8160cc5695bb5b63a52df" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_7f06886b7d924e1798f1a7a6894c9194" level="file"><did><unittitle>Dutch timeline, physical descriptions, native physiognomy and bibliographic sketches</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_40c8945a47a229f5cd1604fe00aeb342" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_b05675a364a48a90034c70ecbabdceb5" level="file"><did><unittitle>Notes and WPA communication</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_464a0377fe1eec7a725b57d04baca6f4" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_e99867485d3549f56d80f90b2368dab6" level="file"><did><unittitle>Transcripts and Notes on deeds, proclamations and court records</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_058960e0b82c22561e3152f482a3d9f9" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_03e1caf0eeb9663959bda56b4e04e0ec" level="file"><did><unittitle>Land prices, calendars and 'Indian Marks'
+</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_71238579e36a418cd690bd682ebbcc85" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_a7d9578acd48ad304136826603ddb6fd" level="file"><did><unittitle>Drafts – Villages: Marechkawick, Wickquawonck and Techkonis</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_fdc7c9a2163994fac2241e184b0a666f" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_896749cbf552c40fb3ce625e53e4fe2e" level="file"><did><unittitle>Drafts – Penhawis</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_0b44ef73e1dff75fd52f2ede1d6f57b2" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_dc31c86a27e1d0d81bfd23c4c519de03" level="file"><did><unittitle>Drafts – Manatus map</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_31697ce1068a32f790909f995c80957e" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_3456c9c70bc5fc19cf2fd88241a19c44" level="file"><did><unittitle>Drafts – Bushwick, Flatlands, Queens, Gowanus and Coney Island</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_c978a39e1968bebcbbe5791fa12c0a15" label="Mixed materials" type="Box">A0036</container></did></c><c id="aspace_7ec51daf42854fb0c0913113288f9b56" level="file"><did><unittitle>Drafts – Misc.
+</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_3be797325ee8ba2258d0392ef9884deb" label="Mixed materials" type="Box">A0036</container></did></c></dsc>
+</archdesc>
 </ead>
