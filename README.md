@@ -22,6 +22,10 @@ There is also a [automated job](http://jenkins.library.nyu.edu:8080/view/Finding
 
 This EAD repository is not included as a submodule in the finding aids project because I don't want the Jenkins trigger for that task to rebuild every time this repos is updated. Since the data is in a Solr index, keeping these repositories completely separate is a fine solution. However, when polling changes with git I want to have the full rails app environment handy to use the built-in solr_ead index updater.
 
+## Known problematic commit range
+
+The commits within range [5a67a80](https://github.com/NYULibraries/findingaids_eads/commit/5a67a801e81563e1d88768357bd520bcddecee40) to [bfb2f0e](https://github.com/NYULibraries/findingaids_eads/commit/bfb2f0e848d66b464bfcb418da86519a20b167c0) (inclusive) are known to corrupt the state of the repo on case-insensitive filesystems.  Note that Macos and Windows filesystems default to case-insensitive.  For full details on this issue, see Jira ticket [DLFA-155: Duplicate finding aids and filename collision in findingaids_eads Github repo](https://jira.nyu.edu/jira/browse/DLFA-155).
+
 ## Reporting Issues
 
 The special collections content owners can [create issues here](https://github.com/NYULibraries/findingaids_eads/issues) if they are relevant to data errors in the EADs.
