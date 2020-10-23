@@ -1,91 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1973_090_samuel_john_atlee</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Samuel John Atlee journal on the Battle of Long Island
-                    <num>1973.090</num>
-                </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>April 5, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-08T13:31-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Samuel John Atlee journal on the Battle of Long Island</unittitle>
-            <unitid>1973.090</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid708002" type="Box" label="Text">A0001</container>
-            <physdesc>
-                <extent>0.08 Linear feet</extent>
-                <extent>in one folder</extent>
-            </physdesc>
-            <unitdate normal="1776/1776">1776</unitdate>
-            <origination label="creator">
-                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Atlee, Samuel John, 1739-1786</persname>
-            </origination>
-        </did>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Samuel John Atlee journal on the Battle of Long Island, 1973.090, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <accessrestrict id="ref3">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>Samuel John Atlee's journal on the Battle of Long Island consists of a single bound volume containing one full handwritten journal entry by Atlee and a handwritten excerpt from the same entry, both dated August 27, 1776. The journal provides Atlee's first-hand account of his defense of the Old Stone House in Brooklyn during the Battle of Long Island, as well as his capture by the British Army on the same day. Both the full journal entry and the excerpt are recorded in different handwriting and on different paper, and it is not clear whether either one was recorded by Atlee himself.</p>
-        </scopecontent>
-        <bioghist id="ref2">
-            <head>Biographical note</head>
-            <p>Samuel John Atlee (1739-1786) was born in Trenton, New Jersey and spent most of his childhood in Lancaster, Pennsylvania. Atlee's military career began during the French and Indian War when he was placed in command of a company of the provincial service from Lancaster County, Pennsylvania. On March 21, 1776 Atlee was promoted to the rank of Colonel of the Pennsylvania Musketry Battalion of the Continental Army, which was dispatched to defend New York City during the Battle of Long Island. Colonel Atlee's battalion led the original defense of the Old Stone House in Brooklyn and was captured by the British Army on August 27, 1776. Colonel Atlee was held as a prisoner of war until he was released in a prisoner exchange on October 1, 1778.</p>
-            <p>Following his incarceration, the Pennsylvania Assembly named Atlee as a delegate to the Continental Congress. He held this position until 1782, when he returned to Lancaster County and was elected to the Pennsylvania Assembly. Atlee served as an Assembly member until his death in 1786.</p>
-        </bioghist>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Date and source of acquisition unknown. The journal was formally accessioned in 1973.</p>
-        </acqinfo>
-        <controlaccess>
-            <corpname source="local">Old Stone House (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">United States. Continental Army.</corpname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Journals (accounts)</genreform>
-            <subject source="lcsh">Long Island, Battle of, New York, N.Y., 1776</subject>
-            <subject source="lcsh">Prisoners of war |z United States |x History |y Revolution, 1775-1783</subject>
-            <geogname source="lcsh">United States |x History |y Revolution, 1775-1783</geogname>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_090_samuel_john_atlee/">arms_1973_090_samuel_john_atlee</eadid><filedesc><titlestmt><titleproper>Guide to the Samuel John Atlee journal on the Battle of Long Island <num>1973.090</num></titleproper><author>Collection processed by Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2020-10-23T20:11:48</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Samuel John Atlee journal on the Battle of Long Island</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Atlee, Samuel John</persname>
+    </origination>
+    <unitid>1973.090</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one folder</extent>
+    </physdesc>
+    <unitdate normal="1776/1776" type="inclusive">1776</unitdate>
+    <abstract id="aspace_036682304e908a451e43f81de91d7777">Samuel John Atlee's journal on the Battle of Long Island consists of a single bound volume containing one full handwritten journal entry by Atlee and a handwritten excerpt from the same entry, both dated August 27, 1776.</abstract>
+    <container id="aspace_3099875b067db5cb2b803f64e52a09cd" label="Text" type="Box">A0001</container>
+  </did>
+  <prefercite id="aspace_d157568459aa51a54c4acf36744e9c52">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Samuel John Atlee journal on the Battle of Long Island, 1973.090, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <accessrestrict id="aspace_c92ddbe5d46e05ba378fcb99f5184bc4">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_e2bb8678dde1e242d2fa9970de0d9663">
+    <head>Scope and Contents</head>
+<p>Samuel John Atlee's journal on the Battle of Long Island consists of a single bound volume containing one full handwritten journal entry by Atlee and a handwritten excerpt from the same entry, both dated August 27, 1776. The journal provides Atlee's first-hand account of his defense of the Old Stone House in Brooklyn during the Battle of Long Island, as well as his capture by the British Army on the same day. Both the full journal entry and the excerpt are recorded in different handwriting and on different paper, and it is not clear whether either one was recorded by Atlee himself.</p>  </scopecontent>
+  <bioghist id="aspace_23076c222863b8a299cb85834e13b458">
+    <head>Biographical note</head>
+<p>Samuel John Atlee (1739-1786) was born in Trenton, New Jersey and spent most of his childhood in Lancaster, Pennsylvania. Atlee's military career began during the French and Indian War when he was placed in command of a company of the provincial service from Lancaster County, Pennsylvania. On March 21, 1776 Atlee was promoted to the rank of Colonel of the Pennsylvania Musketry Battalion of the Continental Army, which was dispatched to defend New York City during the Battle of Long Island. Colonel Atlee's battalion participated in the original defense of the Old Stone House in Brooklyn and was captured by the British Army on August 27, 1776. Colonel Atlee was held as a prisoner of war until he was released in a prisoner exchange on October 1, 1778. </p><p>Following his incarceration, the Pennsylvania Assembly named Atlee as a delegate to the Continental Congress. He held this position until 1782, when he returned to Lancaster County and was elected to the Pennsylvania Assembly. Atlee served as an Assembly member until his death in 1786.</p>  </bioghist>
+  <acqinfo id="aspace_cfbd2425d17c28ec30c7714d896ae6b7">
+    <head>Immediate Source of Acquisition</head>
+<p>Date and source of acquisition unknown. The journal was formally accessioned in 1973.</p>  </acqinfo>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Prisoners of war |z United States |x History |y Revolution, 1775-1783</subject>
+    <genreform source="aat">Journals (accounts)</genreform>
+    <subject source="lcsh">Long Island, Battle of, New York, N.Y., 1776</subject>
+    <geogname source="lcsh">United States |x History |y Revolution, 1775-1783</geogname>
+    <corpname source="local">Old Stone House (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="aacr" source="naf">United States. Continental Army</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
