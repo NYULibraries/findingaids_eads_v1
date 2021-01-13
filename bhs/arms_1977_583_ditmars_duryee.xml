@@ -1,93 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_583_ditmars_duryee</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the John Ditmars and Jacob Duryee slave bill of sale
-                    <num>1977.583</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>July 22, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-17T10:30-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>John Ditmars and Jacob Duryee slave bill of sale</unittitle>
-            <unitid>1977.583</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid927001" type="Box" label="Text">A0072</container>
-            <physdesc>
-                <extent>0.01 Linear feet</extent>
-                <extent>in one folder.</extent>
-            </physdesc>
-            <unitdate normal="1825/1825">1825</unitdate>
-            <origination label="creator">
-                <persname source="local">Ditmars, John</persname>
-            </origination>
-            <origination label="creator">
-                <persname source="local">Duryee, Jacob</persname>
-            </origination>
-        </did>
-        <accessrestrict id="ref5">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <acqinfo id="ref4">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Source and date of acquisition unknown. Formally accessioned in 1977.</p>
-        </acqinfo>
-        <prefercite id="ref3">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); John Ditmars and Jacob Duryee slave bill of sale, 1977.583, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref2">
-            <head>Biographical Note</head>
-            <p>John Ditmars was commander of the Third Regiment of the New York State Militia from 1811 to 1814.</p>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents</head>
-            <p>Bill of sale between John Ditmars of the town of Flatlands, Kings County, and Jacob Duryee of the town of Flatbush, transferring ownership of a female African American slave named Sine (b. 1817) to Duryee. The bill is dated June 16, 1825.</p>
-        </scopecontent>
-        <controlaccess>
-            <persname source="local">Ditmars, John</persname>
-            <persname source="local">Duryee, Jacob</persname>
-            <genreform source="aat">Bills of sale</genreform>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
-            <subject source="lcsh">Slavery |z New York (State) |z Kings County</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_583_ditmars_duryee/">arms_1977_583_ditmars_duryee</eadid><filedesc><titlestmt><titleproper>Guide to the John Ditmars and Jacob Duryee enslaved woman bill of sale <num>1977.583</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2021-01-13T15:30:20</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>December 2020</date><item>Revised by Amy Lau, Archivist, to remediate oppressive language from title, finding aid title, preferred citation, abstract, and scope and contents note.</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>John Ditmars and Jacob Duryee enslaved woman bill of sale</unittitle>
+    <origination label="Creator">
+      <persname source="local">Ditmars, John</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Duryee, Jacob</persname>
+    </origination>
+    <unitid>1977.583</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate normal="1825/1825" type="inclusive">1825</unitdate>
+    <abstract id="aspace_7a274669cf72b1cdb35d1a8418fee2e0">Bill of sale for Sine (b. 1817), an enslaved African American woman, from John Ditmars of the town of Flatlands, Kings County, to Jacob Duryee of the town of Flatbush.  The bill is dated June 16, 1825. John Ditmars was commander of the Third Regiment of the New York State Militia from 1811 to 1814.</abstract>
+    <container id="aspace_f3f41908ec95ffc7732a26dde0bbea7b" label="Text" type="Box">A0072</container>
+  </did>
+  <accessrestrict id="aspace_1023c51b5d732311152308f870c71235">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_da6848f3874b8580d47671063a368e4f">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <prefercite id="aspace_291410f1c5cb02d4703275b130cea1f6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); John Ditmars and Jacob Duryee enslaved woman bill of sale, 1977.583, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_72f55119e1677457dddd5699e002cf68">
+    <head>Biographical Note</head>
+<p>John Ditmars was commander of the Third Regiment of the New York State Militia from 1811 to 1814.</p>  </bioghist>
+  <scopecontent id="aspace_c0b97ca6e107dea84bbc3fd78ae46996">
+    <head>Scope and Contents</head>
+<p>Bill of sale for transfer of Sine (b. 1817), an enslaved African American woman, from John Ditmars of the town of Flatlands, Kings County, to Jacob Duryee of the town of Flatbush.  The bill is dated June 16, 1825.</p>  </scopecontent>
+  <processinfo id="aspace_3e1bb67f2a9471a0ff9780f50a9376a1">
+    <head>Processing Information</head>
+<p>Oppressive descriptive language was remediated from the title, finding aid title, preferred citation, abstract, and scope and contents notes in this finding aid as part of an anti-racist descriptive language audit performed in December 2020. The title of the related accession, EAD ID and location were not remediated.</p>  </processinfo>
+  <controlaccess>
+    <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Slavery |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Bills of sale</genreform>
+    <persname source="local">Ditmars, John</persname>
+    <persname source="local">Duryee, Jacob</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
