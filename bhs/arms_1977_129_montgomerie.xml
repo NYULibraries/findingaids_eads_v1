@@ -1,89 +1,46 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_129_montgomerie</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the John Montgomerie broadside
-                    <num>1977.129</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>May 31, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-09T16:07-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>John Montgomerie broadside</unittitle>
-            <unitid>1977.129</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid812004" type="Box" label="Text">A0037</container>
-            <physdesc>
-                <extent>0.01 Linear feet</extent>
-                <extent>in one folder.</extent>
-            </physdesc>
-            <unitdate>circa 1730</unitdate>
-            <origination label="creator">
-                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Montgomerie, John, d. 1731</persname>
-            </origination>
-        </did>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <prefercite id="ref6">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); John Montgomerie broadside, 1977.129, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Source and date of acquisition unknown. Formally accessioned in 1977.</p>
-        </acqinfo>
-        <scopecontent id="ref2">
-            <head>Scope and Contents</head>
-            <p>One broadside, dated circa 1730, issued by John Montgomerie, governor of the Provinces of New York and New Jersey. The broadside announces the death of Richard Shaw, his wife, and three slaves as a result of a fire in Shaw's home in the Suffolk County town of East Hampton, and solicits assistance for Shaw's surviving family from the citizens of New York.</p>
-        </scopecontent>
-        <bioghist id="ref4">
-            <head>Biographical Note</head>
-            <p>John Montgomerie (d. 1731) was governor of the English Provinces of New York and New Jersey from 1728 to 1731.</p>
-        </bioghist>
-        <controlaccess>
-            <subject source="lcsh">African Americans |z New York (State) |z East Hampton</subject>
-            <genreform source="aat">Broadsides (notices)</genreform>
-            <subject source="lcsh">Charity</subject>
-            <geogname source="lcsh">East Hampton (N.Y.)</geogname>
-            <subject source="lcsh">Fires |x Casualties |z New York (State) |z East Hampton</subject>
-            <geogname source="lcsh">New York (Colony)</geogname>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_129_montgomerie/">arms_1977_129_montgomerie</eadid><filedesc><titlestmt><titleproper>Guide to the John Montgomerie broadside <num>1977.129</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2021-01-19T17:07:01</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>December 2020</date><item>Revised by Amy Lau, Archivist, to remediate oppressive language from abstract and scope and contents notes.</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>John Montgomerie broadside</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Montgomerie, John</persname>
+    </origination>
+    <unitid>1977.129</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate normal="1720/1740" type="inclusive">circa 1730</unitdate>
+    <abstract id="aspace_8832e4f93d0a6e31e82e9cd314466d75">One broadside, dated circa 1730, issued by John Montgomerie (d. 1731), governor of the Provinces of New York and New Jersey.  The broadside announces the death of Richard Shaw, his wife, and three enslaved people as a result of a fire in Shaw's home in the Suffolk County town of East Hampton, and solicits assistance for Shaw's surviving family from the citizens of New York.</abstract>
+    <container id="aspace_b4c8be4191ec99f585f07795dc0a13f3" label="Text" type="Box">A0037</container>
+  </did>
+  <accessrestrict id="aspace_f4b3601e75e4743e08dda1fbd5a2f77a">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_406cbf57594f97b05767ec6fe8ba91c1">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); John Montgomerie broadside, 1977.129, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <acqinfo id="aspace_4a794a5f144d9385ddf809818d3407a1">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <scopecontent id="aspace_accb377d04172c192ad54e42df51bd10">
+    <head>Scope and Contents</head>
+<p>One broadside, dated circa 1730, issued by John Montgomerie, governor of the Provinces of New York and New Jersey.  The broadside announces the death of Richard Shaw, his wife, and three enslaved people as a result of a fire in Shaw's home in the Suffolk County town of East Hampton, and solicits assistance for Shaw's surviving family from the citizens of New York.</p>  </scopecontent>
+  <bioghist id="aspace_b79026bebf557376cf566aff1847c849">
+    <head>Biographical Note</head>
+<p>John Montgomerie (d. 1731) was governor of the English Provinces of New York and New Jersey from 1728 to 1731.</p>  </bioghist>
+  <processinfo id="aspace_5da52cc4c500a4abf09c45dea06008b9">
+    <head>Processing Information</head>
+<p>Oppressive descriptive language was remediated from the abstract and scope and contents notes in this finding aid as part of an anti-racist descriptive language audit performed in December 2020.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Broadsides (notices)</genreform>
+    <subject source="lcsh">Fires |x Casualties |z New York (State) |z East Hampton</subject>
+    <geogname source="lcsh">East Hampton (N.Y.)</geogname>
+    <subject source="lcsh">Charity</subject>
+    <subject source="lcsh">African Americans |z New York (State) |z East Hampton</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>

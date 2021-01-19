@@ -1,109 +1,67 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1974_137_cortelyou</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Isaac Cortelyou family notebook
-                    <num>1974.137</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>August 15, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-09T10:36-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Isaac Cortelyou family notebook</unittitle>
-            <unitid>1974.137</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="dut"/>
-            </langmaterial>
-            <container id="cid982001" type="Oversize" label="Text">Box 1974.137 1 of 1</container>
-            <physdesc>
-                <extent>1.1 Linear feet</extent>
-                <extent>in one oversize box.</extent>
-            </physdesc>
-            <unitdate normal="1698/1824" type="inclusive">1698-1824</unitdate>
-            <langmaterial id="ref2" label="Language of Materials">Materials in Dutch and English.</langmaterial>
-            <origination label="creator">
-                <famname source="local">Cortelyou family</famname>
-            </origination>
-            <origination label="creator">
-                <persname source="local">Cortelyou, Isaac, 1736-1811</persname>
-            </origination>
-        </did>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>One oversize volume containing land surveying exercises and calculations, birth records for the family of Isaac and Altie Cortelyou, and a record of slave births for the period 1796 to 1811. Also included are various records relating to the town of New Utrecht, including a census list from 1698, a list of property holders for the year 1706, and drafts of land deeds. Information in the volume spans the period 1698 to 1824. The volume is mostly written in Dutch.</p>
-        </scopecontent>
-        <prefercite id="ref3">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Isaac Cortelyou family notebook, 1974.137, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <relatedmaterial id="ref4">
-            <head>Related Materials</head>
-            <p>Related archival collections at the Brooklyn Historical Society:</p>
-            <list numeration="arabic" type="ordered">
-                <item>ARC.025, Jacques Cortelyou papers, 1706-1898</item>
-                <item>ARC.026, Timothy Townsend Cortelyou papers, 1810-1826</item>
-            </list>
-        </relatedmaterial>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Source and date of acquisition unknown. Formally accessioned in 1974.</p>
-        </acqinfo>
-        <bioghist id="ref6">
-            <head>Biographical Note</head>
-            <p>Isaac Cortelyou (1736-1811), the son of Jacques (1707-1765) and Marretje Cortelyou, was a member of the prominent Cortelyou family of Brooklyn, one of the early Dutch families to settle in the region. In 1766, he married Altie Rapalje, and they lived for a time on the family farm in the town of New Utrecht that Isaac had inherited from his father. Isaac was fence-viewer of New Utrecht in 1772, an overseer of the poor in 1774, and a deacon at the New Utrecht Dutch Reformed Church. In the late 1780s, Isaac and Altie moved with their three daughters and five sons to a house on present-day Bay 11th Street in the Brooklyn neighborhood of Bensonhurst. A wealthy man, Isaac Cortelyou was the owner of 11 slaves. He willed his farm on Bay 11th Street to his son Johannes Cortelyou (1777-1855), but upon Johannes's suffering a mental breakdown, family relative Timothy Townsend Cortelyou was appointed custodian of the property and sold it to Jacob Bennett in 1831.</p>
-            <list numeration="arabic" type="ordered">
-                <head>Sources:</head>
-                <item>Lutz, Nancy E. "Isaac Cortelyou House." Accessed August 15, 2011. http://www.bklyn-genealogy-info.com/Town/dutch/isaaccortelyou.html</item>
-            </list>
-        </bioghist>
-        <controlaccess>
-            <famname source="local">Cortelyou family</famname>
-            <persname source="local">Cortelyou, Altie Rapalje</persname>
-            <persname source="local">Cortelyou, Isaac, 1736-1811</persname>
-            <genreform source="aat">Birth records</genreform>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Census records</genreform>
-            <subject source="lcsh">Deeds |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Genealogy </subject>
-            <genreform source="lcgft">Land titles |z New York (State) |z Kings County</genreform>
-            <geogname source="lcsh">New Utrecht (New York, N.Y.)</geogname>
-            <subject source="lcsh">Slavery |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Surveying |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Volumes (documents by form)</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_137_cortelyou/">arms_1974_137_cortelyou</eadid><filedesc><titlestmt><titleproper>Guide to the Isaac Cortelyou family notebook <num>1974.137</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2021-01-19T17:04:09</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>December 2020</date><item>Revised by Amy Lau, Archivist, to remediate oppressive language from abstract, biographical/historical, and scope and contents notes.</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Isaac Cortelyou family notebook</unittitle>
+    <origination label="Creator">
+      <persname source="local">Cortelyou, Isaac</persname>
+    </origination>
+    <origination label="Creator">
+      <famname source="local">Cortelyou family</famname>
+    </origination>
+    <unitid>1974.137</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.1 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize box.</extent>
+    </physdesc>
+    <unitdate normal="1698/1824" type="inclusive">1698-1824</unitdate>
+    <abstract id="aspace_ab67a55e51bf34684ee976d936a6afe2">One oversize volume containing land surveying exercises and calculations, birth records for the family of Isaac (1736-1811) and Altie Cortelyou, and a record of enslaved people's births for the period 1796 to 1811.  The volume is mostly written in Dutch.</abstract>
+    <container altrender="Medium Flat Box 20" id="aspace_5ab655179530db829b303e8bc8b0c5c0" label="Text" type="Oversize">Box 1974.137 1 of 1</container>
+  </did>
+  <scopecontent id="aspace_adca4cb53f04356de6d89cc7bc753650">
+    <head>Scope and Contents</head>
+<p>One oversize volume containing land surveying exercises and calculations, birth records for the family of Isaac and Altie Cortelyou, and a record of enslaved people's births for the period 1796 to 1811.  Also included are various records relating to the town of New Utrecht, including a census list from 1698, a list of property holders for the year 1706, and drafts of land deeds.  Information in the volume spans the period 1698 to 1824.  The volume is mostly written in Dutch.</p>  </scopecontent>
+  <prefercite id="aspace_432f002b3655a9beb61a0511cff0c71c">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Isaac Cortelyou family notebook, 1974.137, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <relatedmaterial id="aspace_12f46f4c7eb3dabe6691f7a45d7e4f9e">
+    <head>Related Materials</head>
+<p>Related archival collections at the Brooklyn Historical Society:</p>    <list numeration="arabic" type="ordered">
+      <head>Missing Title</head>
+      <item>ARC.025, Jacques Cortelyou papers, 1706-1898</item>
+      <item>ARC.026, Timothy Townsend Cortelyou papers, 1810-1826</item>
+    </list>
+  </relatedmaterial>
+  <acqinfo id="aspace_bbbb216de3d91f8587880e24ab2e800f">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1974.</p>  </acqinfo>
+  <bioghist id="aspace_25f56343c9d721b356b8ef0995992cc8">
+    <head>Biographical Note</head>
+<p>Isaac Cortelyou (1736-1811), the son of Jacques (1707-1765) and Marretje Cortelyou, was a member of the prominent Cortelyou family of Brooklyn, one of the early Dutch families to settle in the region.  In 1766, he married Altie Rapalje, and they lived for a time on the family farm in the town of New Utrecht that Isaac had inherited from his father.  Isaac was fence-viewer of New Utrecht in 1772, an overseer of the poor in 1774, and a deacon at the New Utrecht Dutch Reformed Church.  In the late 1780s, Isaac and Altie moved with their three daughters and five sons to a house on present-day Bay 11th Street in the Brooklyn neighborhood of Bensonhurst.  A wealthy man, Isaac Cortelyou owned 11 enslaved people.  He willed his farm on Bay 11th Street to his son Johannes Cortelyou (1777-1855), but upon Johannes's suffering a mental breakdown, family relative Timothy Townsend Cortelyou was appointed custodian of the property and sold it to Jacob Bennett in 1831.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Lutz, Nancy E. "Isaac Cortelyou House." Accessed August 15, 2011. http://www.bklyn-genealogy-info.com/Town/dutch/isaaccortelyou.html</item>
+    </list>
+  </bioghist>
+  <processinfo id="aspace_0504ea81c1884c67dc3dd5d00c32445b">
+    <head>Processing Information</head>
+<p>Oppressive descriptive language was remediated from the abstract, biographical/historical, and scope and contents notes in this finding aid as part of an anti-racist descriptive language audit performed in December 2020.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Surveying |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Census records</genreform>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Birth records</genreform>
+    <genreform source="aat">Volumes (documents by form)</genreform>
+    <subject source="lcsh">Genealogy</subject>
+    <subject source="lcsh">Slavery |z New York (State) |z Kings County</subject>
+    <genreform source="local">Land titles |z New York (State) |z Kings County</genreform>
+    <subject source="lcsh">Deeds |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">New Utrecht (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <famname source="local">Cortelyou family</famname>
+    <persname source="local">Cortelyou, Altie Rapalje</persname>
+    <persname source="local">Cortelyou, Isaac</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
