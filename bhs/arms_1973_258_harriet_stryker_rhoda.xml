@@ -1,101 +1,56 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1973_258_harriet_stryker_rhoda</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Harriet Stryker-Rodda typescript of Peter Wyckoff recollections
-                    <num>1973.258</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>April 21, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-08T14:57-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Harriet Stryker-Rodda typescript of Peter Wyckoff recollections</unittitle>
-            <unitid>1973.258</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid737001" type="Box" label="Text">A0011</container>
-            <physdesc>
-                <extent>0.02 Linear feet</extent>
-                <extent>in one folder.</extent>
-            </physdesc>
-            <unitdate normal="1828/1958" type="inclusive">1828-1958</unitdate>
-            <origination label="creator">
-                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf" role="Compiler (com)">Stryker-Rodda, Harriet</persname>
-            </origination>
-        </did>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>Indexed typescript of recollections of Peter Wyckoff of the Brooklyn town of Bushwick, copied in 1958 by Harriet Stryker-Rodda from family papers in the possession of Sally Streeter Lester, Wyckoff's granddaughter. Wyckoff's recollections cover the period 1828 to 1910 and pertain to the old family house at 1325 Flushing Avenue; his grandfather, Peter Wyckoff; the Newtown and Brooklyn Turnpike; Flushing Avenue; and family possessions. References to African American slaves are also included.</p>
-        </scopecontent>
-        <bioghist id="ref3">
-            <head>Biographical Note</head>
-            <p>Harriet Stryker-Rodda was a genealogist and historian who conducted extensive research on the colonial families of New York State.</p>
-            <p>Peter Wyckoff (1828-1910) was of the fourth generation of the Dutch Wyckoff family in Brooklyn. He was a farmer and resident of the town of Bushwick, and was also well-known as a financier and philanthropist.</p>
-        </bioghist>
-        <acqinfo id="ref2">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Harriet Stryker-Rodda, 1958.</p>
-        </acqinfo>
-        <accessrestrict id="ref4">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <prefercite id="ref5">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Harriet Stryker-Rodda typescript of Peter Wyckoff recollections, 1973.258, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <relatedmaterial id="ref6">
-            <head>Related Materials</head>
-            <p>The Brooklyn Historical Society holds an additional archival collection related to the Wyckoff family. Interested researchers are encouraged to view 
-                <emph render="bold">1978.002, Willilam F. Wyckoff papers, 1695-1942</emph>.</p>
-        </relatedmaterial>
-        <controlaccess>
-            <famname source="naf">Wyckoff family</famname>
-            <persname source="local">Wyckoff, Peter, 1828-1910</persname>
-            <subject source="lcsh">African Americans |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
-            <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Family papers</genreform>
-            <subject source="lcsh">Farmers |z New York (State) |z Kings County</subject>
-            <geogname source="local">Flushing Avenue (New York, N.Y.)</geogname>
-            <geogname source="local">Newtown and Brooklyn Turnpike (New York, N.Y.)</geogname>
-            <subject source="lcsh">Slavery |z New York (State) |z Kings County</subject>
-            <genreform source="aat">typescripts</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_258_harriet_stryker_rhoda/">arms_1973_258_harriet_stryker_rhoda</eadid><filedesc><titlestmt><titleproper>Guide to the Harriet Stryker-Rodda typescript of Peter Wyckoff recollections <num>1973.258</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2021-01-19T16:55:41</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>December 2020</date><item>Revised by Amy Lau, Archivist, to remediate oppressive language from abstract and scope and contents notes.</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Harriet Stryker-Rodda typescript of Peter Wyckoff recollections</unittitle>
+    <origination label="Creator">
+      <persname role="com" rules="aacr" source="naf">Stryker-Rodda, Harriet</persname>
+    </origination>
+    <unitid>1973.258</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate normal="1828/1958" type="inclusive">1828-1958</unitdate>
+    <abstract id="aspace_cbf7d1c7e9fd4c7e4397da29401b38ff">Indexed typescript of recollections of Peter Wyckoff of the Brooklyn town of Bushwick, copied in 1958 by Harriet Stryker-Rodda from family papers in the possession of Sally Streeter Lester, Wyckoff's granddaughter.  Wyckoff's recollections cover the period 1828 to 1910 and pertain to the old family house at 1325 Flushing Avenue; his grandfather, Peter Wyckoff; the Newtown and Brooklyn Turnpike; Flushing Avenue; and family possessions. Enslaved African Americans are also referenced in recollections.</abstract>
+    <container id="aspace_63cdbc8fcc06d6e749208dad32e31806" label="Text" type="Box">A0011</container>
+  </did>
+  <scopecontent id="aspace_0e8bc6b9a7e9e44326324e6a87549548">
+    <head>Scope and Contents</head>
+<p>Indexed typescript of recollections of Peter Wyckoff of the Brooklyn town of Bushwick, copied in 1958 by Harriet Stryker-Rodda from family papers in the possession of Sally Streeter Lester, Wyckoff's granddaughter.  Wyckoff's recollections cover the period 1828 to 1910 and pertain to the old family house at 1325 Flushing Avenue; his grandfather, Peter Wyckoff; the Newtown and Brooklyn Turnpike; Flushing Avenue; and family possessions. Enslaved African Americans are also referenced in recollections.</p>  </scopecontent>
+  <bioghist id="aspace_6b99cab1b8231b49d1157b4efcf5ec8e">
+    <head>Biographical Note</head>
+<p>Harriet Stryker-Rodda was a genealogist and historian who conducted extensive research on the colonial families of New York State.</p><p>Peter Wyckoff (1828-1910) was of the fourth generation of the Dutch Wyckoff family in Brooklyn.  He was a farmer and resident of the town of Bushwick, and was also well-known as a financier and philanthropist.</p>  </bioghist>
+  <acqinfo id="aspace_40bf6798786577f786d87053c6c9a36d">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Harriet Stryker-Rodda, 1958.</p>  </acqinfo>
+  <accessrestrict id="aspace_997ec69b3dea34b94cc6fb4b3debb63c">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_4004d66285d5eff6c1f0675796bef373">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Harriet Stryker-Rodda typescript of Peter Wyckoff recollections, 1973.258, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <relatedmaterial id="aspace_ed2051438e238686476e56be794148b9">
+    <head>Related Materials</head>
+<p>The Brooklyn Historical Society holds an additional archival collection related to the Wyckoff family.  Interested researchers are encouraged to view <emph render="bold">1978.002, Willilam F. Wyckoff papers, 1695-1942</emph>.</p>  </relatedmaterial>
+  <processinfo id="aspace_c41e0e10ee2d05d33a339e40678ed4ad">
+    <head>Processing Information</head>
+<p>Oppressive descriptive language was remediated from the abstract and scope and contents notes in this finding aid as part of an anti-racist descriptive language audit performed in December 2020.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">African Americans -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Slavery |z New York (State) |z Kings County</subject>
+    <geogname source="local">Newtown and Brooklyn Turnpike (New York, N.Y.)</geogname>
+    <subject source="lcsh">Farmers |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Typescripts</genreform>
+    <geogname source="local">Flushing Avenue (Brooklyn, New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Family papers</genreform>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
+    <famname source="naf">Wyckoff family</famname>
+    <persname source="local">Wyckoff, Peter</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
