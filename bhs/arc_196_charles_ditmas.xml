@@ -1,267 +1,96 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_196_charles_ditmas.html">arc_196_charles_ditmas</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Charles A. Ditmas collection
-                    <num>ARC.196</num>
-                </titleproper>
-                <author>Finding aid prepared by Robyn R. Hjermstad</author>
-                <sponsor>Developed with grant funds from the U.S. Department of Education Underground Railroad Educational and Cultural (URR) Program.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>April 2011</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-05-01T16:07-0400</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Charles A. Ditmas collection</unittitle>
-            <unitid>ARC.196</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.42 Linear feet</extent>
-                <extent>in 1 manuscript box</extent>
-            </physdesc>
-            <unitdate normal="1908/1945" type="bulk">Bulk, 1908-1945</unitdate>
-            <unitdate normal="1687/1945" type="inclusive">1687 to circa 1935</unitdate>
-            <abstract id="ref24" label="Abstract">The Charles A. Ditmas collection contains manuscripts, correspondence, programs, images, and ephemera pertaining to Charles A. Ditmas's work at the Kings County Historical Society as a historian and genealogist. While the collection spans from 1687-1935, the bulk of the collection is dated between the late 19th and early 20th centuries. In addition to manuscript materials, this collection also contains a souvenir album entitled 
-                <emph render="italic">Brooklyn's Garden Views of Picturesque Flatbush</emph>, photographs, and a transcription of a 1664 deed for Barrian Island between the Native Americans and John Tilton Senil and Sammuell Spicer of Gravesend. The majority of the research, notes, images, and manuscripts in this collection pertain to historic homesteads and families in Kings County (N.Y.).</abstract>
-            <langmaterial id="ref27" label="Language of Materials">Materials in English. Materials in Dutch are accompanied by translations.</langmaterial>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Ditmas, Charles A., 1887-1938</persname>
-            </origination>
-        </did>
-        <separatedmaterial id="ref37">
-            <head>Separated Materials note</head>
-            <p>About 5 photo negatives and 7 postcards from the collection were separated and transferred to the image collection in 1996.</p>
-        </separatedmaterial>
-        <acqinfo id="ref1">
-            <head>Immediate Source of Acquisition note</head>
-            <p>The Brooklyn's Garden album was a gift to the Long Island Historical Society (now the Brooklyn Historical Society) from Charles A. Ditmas. Many of the notes on illustrated lectures were a gift from G.A. Baker and Co. The source of the rest of the collection is unclear, but much of it was found at the Society in 1963. It is believed that this portion of the collection came with material donated by the Kings County Historical Society.</p>
-        </acqinfo>
-        <accessrestrict id="ref25">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <userestrict id="ref26">
-            <head>Conditions Governing Use note</head>
-            <p>Materials in this collection are in the public domain.</p>
-        </userestrict>
-        <prefercite id="ref28">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Charles A. Ditmas collection, ARC.196, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <arrangement id="ref29">
-            <head>Arrangement note</head>
-            <p>This collection was originally composed of numerous independent accessions, which have been combined to form the present collection. The materials have not been separated from their respective original accession, rather, they are arranged alphabetically according to association: album collection, Barrian Island Indian deed, Kings County Historical Society, and manuscripts.</p>
-        </arrangement>
-        <bioghist id="ref32">
-            <head>Biographical/Historical note</head>
-            <p>Charles Andrew Ditmas (1887-1938) was a descendant of the Lott family of Brooklyn, whose common ancestor was Pieter Lot, who emigrated from the Netherlands in 1652 and settled in Flatlands, Kings County. Charles Ditmas was the son of Andrew Ditmas, the son of Bergen Lott (1819-1873) and Charles Burr Ditmas (1813-1852). Ditmas was a serious historian and genealogist, and was the founder and president of the Kings County Historical Society, which served as the central historical society for Kings County from 1911 until sometime in the early to mid-twentieth century; at that time many of the Kings County Historical Society's collections were transferred to the Long Island Historical Society (now the Brooklyn Historical Society). Ditmas also served as Assistant Librarian of the New York Genealogical and Biographical Society, and was editor of the society's publication, the "New York Genealogical and Biographical Record" during the early 1900s.</p>
-            <p>Ditmas published numerous genealogies and histories of families and important places in Brooklyn, especially Flatlands. Among his many publications are: 
-                <emph render="italic">Auto trip Through Historic Brooklyn: Many Points of Revolutionary Interest may be Visited in Afternoon Journey: Monuments and Tablets tell of Battle of Long Island</emph> (1926), 
-                <emph render="italic">Historic Homesteads of Kings County, Brooklyn, N.Y.</emph> (1909), 
-                <emph render="italic">The life and service of Major-General William Alexander also called the Earl of Stirling</emph> (1920), 
-                <emph render="italic">The Small Beginnings of Literature in Kings County</emph> (1922), 
-                <emph render="italic">History of Amersfort Place (Flatlands, Kings County, N.Y.)</emph> (1963, with Harriet Stryker-Rodda), and 
-                <emph render="italic">Genealogical Memoranda, Mainly from Church and Family Records: The Antonides Genealogy </emph>(1919, with Teunis G. Bergen). In addition to his devoted career as a historian and genealogist, Charles A. Ditmas was deeply involved in social, academic, and political endeavors in the Brooklyn, New York, and surrounding area communities.</p>
-        </bioghist>
-        <scopecontent id="ref31">
-            <head>Scope and Contents</head>
-            <p>This collection contains two primary sets of materials: documents pertaining to the Kings County Historical Society, and manuscripts written by Charles A. Ditmas, spanning the years from 1687-1935. Also within this collection is a souvenir album entitled 
-                <emph render="italic">Brooklyn's Garden Views of Picturesque Flatbush</emph> (1908), containing tinted/colored prints prepared by Ditmas. The album, printed by Albertype Co., Brooklyn, contains images of various places of interest in Flatbush, such as the Dutch Reformed Church, the Boat House at Prospect Park, and various residences and avenues. In addition to the vast majority of historic and genealogical material types is a 1909 transcript of a 1664 Barrian Island deed between Native Americans and John Tilton Senil and Sammeull Spicer of Gravesend and its 1681 assignment. Barrian Island is an island in Jamaica Bay off the western tip of the Rockaway Peninsula. Its name was eventually changed to Barren Island, and again to Floyd Bennett Field, which is now a historic airfield and recreational area that is part of the Jamaica Bay Unit of Gateway National Recreation Area.</p>
-            <p>The photographs in this collection document the blizzard of 1888 in Brooklyn, the Suydam-Ditmas and John H. Ditmas Houses, an interior image exhibiting some of Ditmas's achievements in his home on Amersfort Place, and an image of a display case at the Kings County Historical Society.</p>
-            <p>Material relating to the Kings County Historical Society includes correspondence and notes pertaining to Ditmas's genealogical and historical research, and the preservation of historic Dutch farmhouses in Brooklyn. Among the correspondence is a thank you letter from Theodore Roosevelt (1911) to Ditmas for a catalog; and a Dutch letter from 1678 (with translation), the contents of which pertains generally to family well-being, but also makes reference to the ruined churches in France, perhaps referring to the revocation of the Edict of Nantes (1685), which attempted to force the Huguenots (members of the Protestant reformed church) to convert to Catholicism, which resulted in mass numbers of Protestants leaving France to seek religious asylum in other countries. There is also a good deal of ephemera pertaining to Charles Ditmas's professional relationships through the Kings County Historical Society, such as 18th century commemorative medals (coins), hand-drawn logos for the Kings County Historical Society, an 1888 published report entitled "New York in the Blizzard: March 12, 1888," a subway dual contract celebratory dinner program, and a Grover Cleveland inauguration ball souvenir. Additionally, numerous programs (1883-1913) demonstrate Ditmas's deep social and professional involvement with many elite groups in the New York area.</p>
-            <p>Ditmas's manuscripts include four versions of 
-                <emph render="italic">Illustrated Lectures on Old Houses and Families of Kings County</emph> (published version: presented by G.A. Baker and Co. December 1938), "Church and State in Flatlands, 1783-1843," and a lecture containing descriptions of lantern slides created by Adrian V. Martense (1852-1898), an amateur photographer whose subjects of interest included Flatbush and the Blizzard of 1888 (see related archival material).</p>
-            <p>"Lectures on Old Houses and Families of Kings County" contains descriptive genealogies of the families that lived in various historic homesteads in Kings County, including Bergen, Martense, Lott, Ditmars, Suydam-Ditmas, Cortelyou, Vanderveer, Story, Van Brunt-Robarts, Van Pelt, Voorhees, Stillwell, Lefferts, and Van Nuyse. Some versions of this manuscript include hand-colored prints of the houses, and detailed descriptions of the land and physical property. A portion of this manuscript is available online at http://www.bklyn-genealogy-info.com/Town/Homesteads/index.html. The Ditmars Homestead section of this manuscript describes the home and inhabitants' relevance during the Revolution, telling a detailed story about "young Ditmars" putting out a fire in a barn, and being almost smothered to death with his mother by British "ruffians" who tried to steal his gold coin collection. He and his mother were rescued by their slaves, Cominey and Cuff. This manuscript also describes the history of Bergen's Island in relation to the Native Americans, who called it "Wimbaccoe," where they manufactured their shells for wampum.</p>
-        </scopecontent>
-        <otherfindaid id="ref50">
-            <head>Other Finding Aids note</head>
-            <p>The images in the album 
-                <emph render="italic">Brooklyn's Garden: Views of Picturesque Flatbush</emph> have been digitized and can be viewed in the BHS library's image database, under Object ID V1986.20.</p>
-        </otherfindaid>
-        <relatedmaterial id="ref30">
-            <head>Related Archival Materials note</head>
-            <p>Brooklyn Historical Society holds two lantern slide collections related to this collection:</p>
-            <p>The Adrian Vanderveer Martense collection (call number ARC.191), Series 1, contains lantern slides and photographs taken by Martense documenting Brooklyn during the last quarter of the 19th century, in particular Flatbush, Brooklyn and the Blizzard of 1888. Martense's work is referred to by Ditmas in this collection.</p>
-            <p>The Charles Ditmas lantern slide collection (call number V1974.018) includes slides attributed to Charles Ditmas, some of which may have been used in connection with Ditmas's presentations, the notes for which are found in this collection.</p>
-        </relatedmaterial>
-        <processinfo id="ref36">
-            <head>Processing Information note</head>
-            <p>This collection was processed by Robyn Hjermstad in April 2011.</p>
-            <p>The collection combines 8 accessions: 1973.091, 1973.092, 1973.101, 1973.239, 1977.091, 1977,142, 1977.223, and V1986.020.</p>
-        </processinfo>
-        <controlaccess>
-            <famname source="local">Cortelyou family</famname>
-            <famname source="local">Ditmars family</famname>
-            <persname rules="dacs" source="local">Ditmas, Charles A., 1887-1938</persname>
-            <corpname rules="dacs" source="local">Kings County Historical Society.</corpname>
-            <famname source="naf">Lefferts family</famname>
-            <famname source="naf">Lott family</famname>
-            <famname source="local">Martense family</famname>
-            <persname rules="dacs" source="local">Martense, Adrian V.,  (Adrian Vanderveer), 1852-1898</persname>
-            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Roosevelt, Theodore, 1858-1919 -- Correspondence</persname>
-            <famname rules="dacs" source="local">Stillwell family</famname>
-            <persname source="local">Story, William H., d. 1907</persname>
-            <famname source="naf">Van Brunt family</famname>
-            <famname rules="dacs" source="local">Van Nuyse family</famname>
-            <famname rules="dacs" source="local">Van Pelt family</famname>
-            <famname source="local">Vanderveer family</famname>
-            <famname rules="dacs" source="local">Voorhees family</famname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Correspondence</genreform>
-            <subject source="lcsh">Deeds |z New York (State) |z New York</subject>
-            <genreform source="aat">Ephemera</genreform>
-            <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Flatbush (New York, N.Y.) |x History</geogname>
-            <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
-            <genreform source="aat">Genealogies</genreform>
-            <subject source="lcsh">Historic buildings |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Historic districts |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Historic preservation |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">History |x Societies, etc.</subject>
-            <subject source="lcsh">Indians of North America |z New York (State)</subject>
-            <genreform source="aat">Manuscripts (document genre)</genreform>
-            <genreform source="aat">Photograph albums</genreform>
-            <genreform source="aat">Photographic prints</genreform>
-            <genreform source="aat">Printed ephemera</genreform>
-            <genreform source="aat">Programs (documents)</genreform>
-            <genreform source="aat">Research notes</genreform>
-            <genreform source="aat">Souvenirs</genreform>
-        </controlaccess>
-        <dsc>
-            <c id="ref12" level="file">
-                <did>
-                    <unittitle>Album Collection, 
-                        <emph render="italic">Brooklyn's Garden: Views of Picturesque Flatbush</emph></unittitle>
-                    <unitid>V1986.020</unitid>
-                    <container id="cid711004" type="Box" label="Text">1</container>
-                    <container parent="cid711004" type="Folder">1</container>
-                    <unitdate normal="1908/1908">1908</unitdate>
-                </did>
-            </c>
-            <c id="ref13" level="file">
-                <did>
-                    <unittitle>Barrian Island Indian deed (typescript transcription of documents dated 1664, 1681)</unittitle>
-                    <container id="cid711005" type="Box" label="Text">1</container>
-                    <container parent="cid711005" type="Folder">2</container>
-                    <unitdate normal="1909/1909">1909</unitdate>
-                </did>
-            </c>
-            <c id="ref14" level="file">
-                <did>
-                    <unittitle>Kings County Historical Society, correspondence</unittitle>
-                    <container id="cid711006" type="Box" label="Text">1</container>
-                    <container parent="cid711006" type="Folder">3</container>
-                    <unitdate normal="1911/1935" type="inclusive">1911-1935</unitdate>
-                </did>
-            </c>
-            <c id="ref15" level="file">
-                <did>
-                    <unittitle>Kings County Historical Society, Dutch letter</unittitle>
-                    <container id="cid711007" type="Box" label="Text">1</container>
-                    <container parent="cid711007" type="Folder">4</container>
-                    <unitdate normal="1687/1910" type="inclusive">1687-circa 1910</unitdate>
-                </did>
-            </c>
-            <c id="ref16" level="file">
-                <did>
-                    <unittitle>Kings County Historical Society, miscellaneous material</unittitle>
-                    <container id="cid711008" type="Box" label="Text">1</container>
-                    <container parent="cid711008" type="Folder">5</container>
-                    <unitdate normal="1869/1925" type="inclusive">1869-1925</unitdate>
-                </did>
-            </c>
-            <c id="ref17" level="file">
-                <did>
-                    <unittitle>Kings County Historical Society, notes</unittitle>
-                    <container id="cid711009" type="Box" label="Text">1</container>
-                    <container parent="cid711009" type="Folder">6</container>
-                    <unitdate normal="1910/1935" type="inclusive">circa 1910-1935</unitdate>
-                </did>
-            </c>
-            <c id="ref18" level="file">
-                <did>
-                    <unittitle>Kings County Historical Society, programs</unittitle>
-                    <container id="cid711010" type="Box" label="Text">1</container>
-                    <container parent="cid711010" type="Folder">7</container>
-                    <unitdate normal="1883/1913" type="inclusive">1883-1913</unitdate>
-                </did>
-            </c>
-            <c id="ref19" level="file">
-                <did>
-                    <unittitle>Kings County Historical Society, Theodore Roosevelt letter</unittitle>
-                    <container id="cid711011" type="Box" label="Text">1</container>
-                    <container parent="cid711011" type="Folder">8</container>
-                    <unitdate normal="1911/1911">1911</unitdate>
-                </did>
-            </c>
-            <c id="ref21" level="file">
-                <did>
-                    <unittitle>Manuscripts, "Church and State in Flatlands, 1783-1843"</unittitle>
-                    <container id="cid711013" type="Box" label="Text">1</container>
-                    <container parent="cid711013" type="Folder">9</container>
-                    <unitdate normal="1915/1915">1915</unitdate>
-                </did>
-            </c>
-            <c id="ref22" level="file">
-                <did>
-                    <unittitle>Manuscripts, 
-                        <emph render="italic">Illustrated Lectures on Historic Homesteads</emph></unittitle>
-                    <container id="cid711014" type="Box" label="Text">1</container>
-                    <container parent="cid711014" type="Folder">10</container>
-                    <unitdate normal="1909/1909">circa 1909</unitdate>
-                </did>
-            </c>
-            <c id="ref23" level="file">
-                <did>
-                    <unittitle>Manuscripts, lectures and notes on historic homesteads and families in Kings County (4 folders)</unittitle>
-                    <container id="cid711015" type="Box" label="Text">1</container>
-                    <container parent="cid711015" type="Folder">11-14</container>
-                    <unitdate normal="1935/1938" type="inclusive">circa 1935-1938</unitdate>
-                </did>
-            </c>
-            <c id="ref34" level="file">
-                <did>
-                    <unittitle>Manuscripts, outline of lantern slide presentation</unittitle>
-                    <container id="cid748001" type="Box" label="Text">1</container>
-                    <container parent="cid748001" type="Folder">15</container>
-                    <unitdate normal="1910/1935" type="inclusive">circa 1910-1935</unitdate>
-                </did>
-            </c>
-            <c id="ref35" level="file">
-                <did>
-                    <unittitle>Photographs</unittitle>
-                    <container id="cid748002" type="Box" label="Graphic materials">1</container>
-                    <container parent="cid748002" type="Folder">16</container>
-                    <unitdate normal="1888/1912" type="inclusive">1888-1912</unitdate>
-                </did>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_196_charles_ditmas/">arc_196_charles_ditmas</eadid><filedesc><titlestmt><titleproper>Guide to the Charles A. Ditmas collection <num>ARC.196</num></titleproper><author>Collection processed by Robyn R. Hjermstad</author><sponsor>Developed with grant funds from the U.S. Department of Education Underground Railroad Educational and Cultural (URR) Program.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2021-01-21T15:37:47</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>January 2021</date><item>Revised by Amy Lau, Archivist, to remediate oppressive language from scope and contents note.</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Charles A. Ditmas collection</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Ditmas, Charles A.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Ditmas, Charles A.</persname>
+    </origination>
+    <unitid>ARC.196</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.42 Linear Feet</extent>
+      <extent altrender="carrier">in 1 manuscript box</extent>
+    </physdesc>
+    <unitdate normal="1687/1945" type="inclusive">1687 to circa 1935</unitdate>
+    <unitdate normal="1908/1945" type="bulk">1908-1945</unitdate>
+    <abstract id="aspace_d50ada2991a6da64ce09e6d074aeb1ac">The Charles A. Ditmas collection contains manuscripts, correspondence, programs, images, and ephemera pertaining to Charles A. Ditmas's work at the Kings County Historical Society as a historian and genealogist.  While the collection spans from 1687-1935, the bulk of the collection is dated between the late 19th and early 20th centuries.  In addition to manuscript materials, this collection also contains a souvenir album entitled <emph render="italic">Brooklyn's Garden Views of Picturesque Flatbush</emph>, photographs, and a transcription of a 1664 deed for Barrian Island between the Native Americans and John Tilton Senil and Sammuell Spicer of Gravesend.  The majority of the research, notes, images, and manuscripts in this collection pertain to historic homesteads and families in Kings County (N.Y.).</abstract>
+  </did>
+  <separatedmaterial id="aspace_73316761ca86fe3248564838b82f78b4">
+    <head>Separated Materials</head>
+<p>About 5 photo negatives and 7 postcards from the collection were separated and transferred to the image collection in 1996.</p>  </separatedmaterial>
+  <acqinfo id="aspace_dcfba8de38ea9482c490434df0766ce6">
+    <head>Immediate Source of Acquisition</head>
+<p>The Brooklyn's Garden album was a gift to the Long Island Historical Society (now the Brooklyn Historical Society) from Charles A. Ditmas. Many of the notes on illustrated lectures were a gift from G.A. Baker and Co. The source of the rest of the collection is unclear, but much of it was found at the Society in 1963. It is believed that this portion of the collection came with material donated by the Kings County Historical Society.</p>  </acqinfo>
+  <accessrestrict id="aspace_d29a9b67bb8f6b026d76c31cd40fa00f">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_bc49a909aaff94df86c585da7243509c">
+    <head>Conditions Governing Use</head>
+<p>Materials in this collection are in the public domain.</p>  </userestrict>
+  <prefercite id="aspace_8c244f2fd9f30984f9f5271e4ba0e0e9">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Charles A. Ditmas collection, ARC.196, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <arrangement id="aspace_78da3cfb271a266bf1dfdfaca9ee196a">
+    <head>Arrangement</head>
+<p>This collection was originally composed of numerous independent accessions, which have been combined to form the present collection.  The materials have not been separated from their respective original accession, rather, they are arranged alphabetically according to association: album collection, Barrian Island Indian deed, Kings County Historical Society, and manuscripts.</p>  </arrangement>
+  <bioghist id="aspace_13200e6395368cdebd3b61d4d3da1c47">
+    <head>Biographical / Historical</head>
+<p>Charles Andrew Ditmas (1887-1938) was a descendant of the Lott family of Brooklyn, whose common ancestor was Pieter Lot, who emigrated from the Netherlands in 1652 and settled in Flatlands, Kings County.  Charles Ditmas was the son of Andrew Ditmas, the son of Bergen Lott (1819-1873) and Charles Burr Ditmas (1813-1852).  Ditmas was a serious historian and genealogist, and was the founder and president of the Kings County Historical Society, which served as the central historical society for Kings County from 1911 until sometime in the early to mid-twentieth century; at that time many of the Kings County Historical Society's collections were transferred to the Long Island Historical Society (now the Brooklyn Historical Society).  Ditmas also served as Assistant Librarian of the New York Genealogical and Biographical Society, and was editor of the society's publication, the "New York Genealogical and Biographical Record" during the early 1900s. </p><p>Ditmas published numerous genealogies and histories of families and important places in Brooklyn, especially Flatlands.  Among his many publications are: <emph render="italic">Auto trip Through Historic Brooklyn: Many Points of Revolutionary Interest may be Visited in Afternoon Journey: Monuments and Tablets tell of Battle of Long Island</emph> (1926), <emph render="italic">Historic Homesteads of Kings County, Brooklyn, N.Y.</emph> (1909), <emph render="italic">The life and service of Major-General William Alexander also called the Earl of Stirling</emph> (1920), <emph render="italic">The Small Beginnings of Literature in Kings County</emph> (1922), <emph render="italic">History of Amersfort Place (Flatlands, Kings County, N.Y.)</emph> (1963, with Harriet Stryker-Rodda), and <emph render="italic">Genealogical Memoranda, Mainly from Church and Family Records: The Antonides Genealogy </emph>(1919, with Teunis G. Bergen).  In addition to his devoted career as a historian and genealogist, Charles A. Ditmas was deeply involved in social, academic, and political endeavors in the Brooklyn, New York, and surrounding area communities. </p>  </bioghist>
+  <scopecontent id="aspace_44945f1bba3a9fc4a3e58f9a5e04e3a9">
+    <head>Scope and Contents</head>
+<p>This collection contains two primary sets of materials: documents pertaining to the Kings County Historical Society, and manuscripts written by Charles A. Ditmas, spanning the years from 1687-1935.  Also within this collection is a souvenir album entitled <emph render="italic">Brooklyn's Garden Views of Picturesque Flatbush</emph> (1908), containing tinted/colored prints prepared by Ditmas.  The album, printed by Albertype Co., Brooklyn, contains images of various places of interest in Flatbush, such as the Dutch Reformed Church, the Boat House at Prospect Park, and various residences and avenues.  In addition to the vast majority of historic and genealogical material types is a 1909 transcript of a 1664 Barrian Island deed between Native Americans and John Tilton Senil and Sammeull Spicer of Gravesend and its 1681 assignment.  Barrian Island is an island in Jamaica Bay off the western tip of the Rockaway Peninsula.  Its name was eventually changed to Barren Island, and again to Floyd Bennett Field, which is now a historic airfield and recreational area that is part of the Jamaica Bay Unit of Gateway National Recreation Area.  </p><p>The photographs in this collection document the blizzard of 1888 in Brooklyn, the Suydam-Ditmas and John H. Ditmas Houses, an interior image exhibiting some of Ditmas's achievements in his home on Amersfort Place, and an image of a display case at the Kings County Historical Society.</p><p>Material relating to the Kings County Historical Society includes correspondence and notes pertaining to Ditmas's genealogical and historical research, and the preservation of historic Dutch farmhouses in Brooklyn.  Among the correspondence is a thank you letter from Theodore Roosevelt (1911) to Ditmas for a catalog; and a Dutch letter from 1678 (with translation), the contents of which pertains generally to family well-being, but also makes reference to the ruined churches in France, perhaps referring to the revocation of the Edict of Nantes (1685), which attempted to force the Huguenots (members of the Protestant reformed church) to convert to Catholicism, which resulted in mass numbers of Protestants leaving France to seek religious asylum in other countries.  There is also a good deal of ephemera pertaining to Charles Ditmas's professional relationships through the Kings County Historical Society, such as 18th century commemorative medals (coins), hand-drawn logos for the Kings County Historical Society, an 1888 published report entitled "New York in the Blizzard: March 12, 1888," a subway dual contract celebratory dinner program, and a Grover Cleveland inauguration ball souvenir.  Additionally, numerous programs (1883-1913) demonstrate Ditmas's deep social and professional involvement with many elite groups in the New York area.</p><p>Ditmas's manuscripts include four versions of <emph render="italic">Illustrated Lectures on Old Houses and Families of Kings County</emph> (published version: presented by G.A. Baker and Co. December 1938), "Church and State in Flatlands, 1783-1843," and a lecture containing descriptions of lantern slides created by Adrian V. Martense (1852-1898), an amateur photographer whose subjects of interest included Flatbush and the Blizzard of 1888 (see related archival material).   </p><p>"Lectures on Old Houses and Families of Kings County" contains descriptive genealogies of the families that lived in various historic homesteads in Kings County, including Bergen, Martense, Lott, Ditmars, Suydam-Ditmas, Cortelyou, Vanderveer, Story, Van Brunt-Robarts, Van Pelt, Voorhees, Stillwell, Lefferts, and Van Nuyse.  Some versions of this manuscript include hand-colored prints of the houses, and detailed descriptions of the land and physical property.  A portion of this manuscript is available online at http://www.bklyn-genealogy-info.com/Town/Homesteads/index.html.  The Ditmars Homestead section of this manuscript describes the home and inhabitants' relevance during the Revolution, telling a detailed story about "young Ditmars" putting out a fire in a barn, and being almost smothered to death with his mother by British "ruffians" who tried to steal his gold coin collection. Cominy and Cuff, two persons enslaved by young Ditmars and his mother, rescued them. This manuscript also describes the history of Bergen's Island in relation to the Native Americans, who called it "Wimbaccoe," where they manufactured their shells for wampum. </p>  </scopecontent>
+  <otherfindaid id="aspace_ccbc06ba22d35ad7eb23ba5da9143d01">
+    <head>Other Finding Aids</head>
+<p>The images in the album <emph render="italic">Brooklyn's Garden: Views of Picturesque Flatbush</emph> have been digitized and can be viewed in the BHS library's image database, under Object ID V1986.20.</p>  </otherfindaid>
+  <relatedmaterial id="aspace_f6a6e7235492aa768fc9357f422895b4">
+    <head>Related Materials</head>
+<p>Brooklyn Historical Society holds two lantern slide collections related to this collection:</p><p>The Adrian Vanderveer Martense collection (call number ARC.191), Series 1, contains lantern slides and photographs taken by Martense documenting Brooklyn during the last quarter of the 19th century, in particular Flatbush, Brooklyn and the Blizzard of 1888. Martense's work is referred to by Ditmas in this collection.</p><p>The Charles Ditmas lantern slide collection (call number V1974.018) includes slides attributed to Charles Ditmas, some of which may have been used in connection with Ditmas's presentations, the notes for which are found in this collection.</p>  </relatedmaterial>
+  <processinfo id="aspace_e0f9b011c47c2e160a3bbd20bc1e4ee3">
+    <head>Processing Information</head>
+<p>This collection was processed by Robyn Hjermstad in April 2011.</p><p>The collection combines 8 accessions: 1973.091, 1973.092, 1973.101, 1973.239, 1977.091, 1977,142, 1977.223, and V1986.020.</p><p>Oppressive descriptive language was remediated from the scope and contents note in this finding aid as part of an anti-racist descriptive language audit performed in January 2021.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Souvenirs</genreform>
+    <genreform source="aat">Photograph albums</genreform>
+    <genreform source="aat">Photographic prints</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">History |x Societies, etc.</subject>
+    <genreform source="aat">Ephemera</genreform>
+    <genreform source="aat">Printed ephemera</genreform>
+    <genreform source="aat">Manuscripts (document genre)</genreform>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <subject source="lcsh">Historic districts |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Flatbush (New York, N.Y.) |x History</geogname>
+    <subject source="lcsh">Historic buildings |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
+    <genreform source="aat">Genealogies</genreform>
+    <subject source="lcsh">Indians of North America |z New York (State)</subject>
+    <genreform source="aat">Research notes</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <subject source="lcsh">Deeds |z New York (State) |z New York</subject>
+    <genreform source="aat">Correspondence</genreform>
+    <subject source="lcsh">Historic preservation |z New York (State) |z Kings County</subject>
+    <famname rules="dacs" source="local">Van Pelt family</famname>
+    <famname source="local">Ditmars family</famname>
+    <persname rules="dacs" source="local">Ditmas, Charles A.</persname>
+    <famname rules="dacs" source="local">Van Nuyse family</famname>
+    <famname rules="dacs" source="library of congress name authority file">Stillwell family</famname>
+    <famname rules="dacs" source="local">Voorhees family</famname>
+    <famname source="naf">Van Brunt family</famname>
+    <persname source="local">Story, William H.</persname>
+    <corpname rules="dacs" source="local">Kings County Historical Society</corpname>
+    <famname source="naf">Lefferts family</famname>
+    <famname source="local">Martense family</famname>
+    <famname source="local">Vanderveer family</famname>
+    <famname source="naf">Lott family</famname>
+    <famname source="local">Cortelyou family</famname>
+    <persname rules="aacr" source="naf">Roosevelt, Theodore -- Correspondence</persname>
+    <persname rules="dacs" source="local">Martense, Adrian V. (Adrian Vanderveer)</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref12_lk0" level="file"><did><unittitle>Album Collection, <emph render="italic">Brooklyn's Garden: Views of Picturesque Flatbush</emph></unittitle><unitid>V1986.020</unitid><unitid audience="internal" identifier="4536" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4536</unitid><unitdate normal="1908/1908" type="inclusive">1908</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_710c8dc178a60d6a6fadfe2c8c945592" label="Text" type="Box">1</container><container parent="aspace_710c8dc178a60d6a6fadfe2c8c945592" type="Folder">1</container></did></c><c id="aspace_ref13_gz1" level="file"><did><unittitle>Barrian Island Indian deed (typescript transcription of documents dated 1664, 1681)</unittitle><unitid audience="internal" identifier="4537" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4537</unitid><unitdate normal="1909/1909" type="inclusive">1909</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c0a0e405ad4c79ec0233b8f7a25335a8" label="Text" type="Box">1</container><container parent="aspace_c0a0e405ad4c79ec0233b8f7a25335a8" type="Folder">2</container></did></c><c id="aspace_ref14_i0x" level="file"><did><unittitle>Kings County Historical Society, correspondence</unittitle><unitid audience="internal" identifier="4538" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4538</unitid><unitdate normal="1911/1935" type="inclusive">1911-1935</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_219477884e55973c43a156960aa0eee6" label="Text" type="Box">1</container><container parent="aspace_219477884e55973c43a156960aa0eee6" type="Folder">3</container></did></c><c id="aspace_ref15_jb5" level="file"><did><unittitle>Kings County Historical Society, Dutch letter</unittitle><unitid audience="internal" identifier="4539" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4539</unitid><unitdate normal="1687/1910" type="inclusive">1687-circa 1910</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_244d56fa1d5b6037d9688ea5ae041037" label="Text" type="Box">1</container><container parent="aspace_244d56fa1d5b6037d9688ea5ae041037" type="Folder">4</container></did></c><c id="aspace_ref16_1br" level="file"><did><unittitle>Kings County Historical Society, miscellaneous material</unittitle><unitid audience="internal" identifier="4540" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4540</unitid><unitdate normal="1869/1925" type="inclusive">1869-1925</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_6e365d45eb3fedb7017d892b3e82ad9c" label="Text" type="Box">1</container><container parent="aspace_6e365d45eb3fedb7017d892b3e82ad9c" type="Folder">5</container></did></c><c id="aspace_ref17_szk" level="file"><did><unittitle>Kings County Historical Society, notes</unittitle><unitid audience="internal" identifier="4541" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4541</unitid><unitdate normal="1910/1935" type="inclusive">circa 1910-1935</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_b741f555096e5ffb152a764225d7eecd" label="Text" type="Box">1</container><container parent="aspace_b741f555096e5ffb152a764225d7eecd" type="Folder">6</container></did></c><c id="aspace_ref18_fm3" level="file"><did><unittitle>Kings County Historical Society, programs</unittitle><unitid audience="internal" identifier="4542" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4542</unitid><unitdate normal="1883/1913" type="inclusive">1883-1913</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_f20ef30d1f9542440d2d92568c520458" label="Text" type="Box">1</container><container parent="aspace_f20ef30d1f9542440d2d92568c520458" type="Folder">7</container></did></c><c id="aspace_ref19_nch" level="file"><did><unittitle>Kings County Historical Society, Theodore Roosevelt letter</unittitle><unitid audience="internal" identifier="4543" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4543</unitid><unitdate normal="1911/1911" type="inclusive">1911</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_174a1311489d5fabb9172d2948abaefb" label="Text" type="Box">1</container><container parent="aspace_174a1311489d5fabb9172d2948abaefb" type="Folder">8</container></did></c><c id="aspace_ref21_e4q" level="file"><did><unittitle>Manuscripts, "Church and State in Flatlands, 1783-1843"</unittitle><unitid audience="internal" identifier="4545" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4545</unitid><unitdate normal="1915/1915" type="inclusive">1915</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_f09962934adb22d366fe9bbecf38ff9b" label="Text" type="Box">1</container><container parent="aspace_f09962934adb22d366fe9bbecf38ff9b" type="Folder">9</container></did></c><c id="aspace_ref22_0sm" level="file"><did><unittitle>Manuscripts, <emph render="italic">Illustrated Lectures on Historic Homesteads</emph></unittitle><unitid audience="internal" identifier="4546" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4546</unitid><unitdate normal="1909/1909" type="inclusive">circa 1909</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c62c5ae2bfa95874d31b938f88891624" label="Text" type="Box">1</container><container parent="aspace_c62c5ae2bfa95874d31b938f88891624" type="Folder">10</container></did></c><c id="aspace_ref23_vta" level="file"><did><unittitle>Manuscripts, lectures and notes on historic homesteads and families in Kings County (4 folders)</unittitle><unitid audience="internal" identifier="4547" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4547</unitid><unitdate normal="1935/1938" type="inclusive">circa 1935-1938</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_a8bc735e83a3440a01d88b9aced2dd1b" label="Text" type="Box">1</container><container parent="aspace_a8bc735e83a3440a01d88b9aced2dd1b" type="Folder">11-14</container></did></c><c id="aspace_ref34_vk0" level="file"><did><unittitle>Manuscripts, outline of lantern slide presentation</unittitle><unitid audience="internal" identifier="4581" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4581</unitid><unitdate normal="1910/1935" type="inclusive">circa 1910-1935</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_728cd3cbae210303ba8501dadb8da714" label="Text" type="Box">1</container><container parent="aspace_728cd3cbae210303ba8501dadb8da714" type="Folder">15</container></did></c><c id="aspace_ref35_jxr" level="file"><did><unittitle>Photographs</unittitle><unitid audience="internal" identifier="4582" type="Archivists Toolkit Database::RESOURCE_COMPONENT">4582</unitid><unitdate normal="1888/1912" type="inclusive">1888-1912</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_e9e883f40389814fb3c155cb9a055b88" label="Graphic Materials" type="Box">1</container><container parent="aspace_e9e883f40389814fb3c155cb9a055b88" type="Folder">16</container></did></c></dsc>
+</archdesc>
 </ead>
