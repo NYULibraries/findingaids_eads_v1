@@ -14,7 +14,6 @@ hermes_deploy: &hermes_deploy
     name: Deploy via Hermes
     command: |
       docker run -e HERMES_HOST -e HERMES_SECRET quay.io/nyulibraries/hermesclient:master createJob -job=specialcollections-git-trigger-index
-      docker run -e HERMES_HOST -e HERMES_SECRET -e HERMES_WAIT_TIMEOUT=6m quay.io/nyulibraries/hermesclient:master jobStatus -job=specialcollections-git-trigger-index
 
 version: 2
 jobs:
