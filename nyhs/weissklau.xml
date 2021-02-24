@@ -1,1799 +1,208 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">weissklau</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Records of The Weiss &amp; Klau Co.
-                    <lb/>
-                    <date>1892-1988</date>
-                    <date> (Bulk 1922-1968)</date>
-                    <lb/>
-                    <num></num>
-                    <num>MS 687</num>
-                </titleproper>
-                <author>Finding aid prepared by Gabrielle Sanchez</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derivedfrom weissklau.xml</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>@ 2011 New-York Historical Society</publisher>
-                <address>
-                    <addressline>New-York Historical Society</addressline>
-                    <addressline>170 Central Park West</addressline>
-                    <addressline>New York, NY 10024</addressline>
-                    <addressline>Phone: (212) 873-3400</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-04T16:13-0400</date>
-            </creation>
-            <langusage>Description is in 
-                <language>English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Weiss &amp; Klau Co. Records</unittitle>
-            <unitid>MS 687</unitid>
-            <repository>
-                <corpname>@ 2011 New-York Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>6.5 Linear feet</extent>
-                <extent>(16 Boxes)</extent>
-            </physdesc>
-            <unitdate>1890-1988 (Bulk 1922-1968)</unitdate>
-            <physloc audience="internal" id="ref2" label="Location note">Manuscript cage</physloc>
-            <abstract id="ref3" label="Abstract">Corporate, financial, legal, personnel, and real estate records of The Weiss &amp; Klau Co., a distributor of oilcloth, plastic-coated fabrics, window shades, and related products. The collection also includes the records of a subsidiary, Standard Coated Products, Inc., a manufacturer of these products. Photographs and memorabilia of company social functions are also present, as is some personal correspondence.</abstract>
-        </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>Donation, 2003.</p>
-        </custodhist>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open to qualified researchers.</p>
-            <p>Certain materials in Series I and IV are restricted for 75 years. See the Scope and Content Notes for details.</p>
-            <p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)</p>
-        </accessrestrict>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to 
-                <lb/>
-                <lb/>Library Director
-                <lb/>
-                <address>
-                    <addressline>The New-York Historical Society
-                        <lb/></addressline>
-                    <addressline>Two West 77th Street
-                        <lb/></addressline>
-                    <addressline>New York, NY 10024
-                        <lb/>
-                        <lb/></addressline>
-                </address></p>
-        </userestrict>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>This collection should be cited as The Records of The Weiss &amp; Klau, Co., MS 687, The New-York Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref8">
-            <head>Historical Note</head>
-            <chronlist>
-                <chronitem>
-                    <date>1887</date>
-                    <event>Ignatz Weiss, Nathan Klau and Samuel Klau found the firm Weiss &amp; Klau Brothers, for the purpose of selling and distributing table oil cloth and window shades.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1892</date>
-                    <event>Weiss &amp; Klau Brothers moves to 203 Canal Street.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1895</date>
-                    <event>Samuel Klau dies.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1896</date>
-                    <event>Company changes its name to Weiss &amp; Klau.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1897</date>
-                    <event>Company expands to 205, 207, 209, and 211 Canal Street.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1898</date>
-                    <event>Company changes name to The Weiss &amp; Klau Co. and is incorporated in New York State.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1911</date>
-                    <event>The Weiss &amp; Klau Co. moves to 462-468 Broadway. David Klau, son of Nathan Klau, joins company as office boy.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1922</date>
-                    <event>The Weiss &amp; Klau Co. purchases Napaul Corporation.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1937</date>
-                    <event>The Weiss &amp; Klau Co. buys bonds of Standard Textile Products, Inc., their main supplier of oil cloth and other products, in order to allow the purchase of Standard Textile by Interchemical Corporation. Fiftieth anniversary of founding of Weiss &amp; Klau; Golden Jubilee celebrated.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1938</date>
-                    <event>Nathan Klau dies; David Klau becomes president of company.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1946</date>
-                    <event>Quarter-Century Club created. The club consisted of employees who had worked for Weiss &amp; Klau for twenty-five years or more.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1953</date>
-                    <event>The Weiss &amp; Klau Co. purchases Standard Coated Products, Inc., (formerly Standard Textile Products, Inc.) manufacturer of textiles and Weiss &amp; Klau's chief supplier.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1961</date>
-                    <event>David Klau dies. Ira Oppenheimer (grandson of Nathan Klau and nephew of David Klau) becomes President.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1962</date>
-                    <event>Seventy-fifth anniversary of founding of company; Diamond Jubilee celebrated.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1966</date>
-                    <event>On January 27, part of the fifth floor of building at 462 Broadway collapses. Several employees are injured. In February, the plastic stock window shade business is sold to Breneman, Inc. In March, the plastic film and tile business is sold to Clopay Corporation.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1968</date>
-                    <event>Standard Coated Products, Inc. is sold to American Cyanamid. The Weiss &amp; Klau Co. changes name to K Liquidating Company and ceases operation.</event>
-                </chronitem>
-            </chronlist>
-        </bioghist>
-        <scopecontent id="ref11">
-            <head>Scope and Content Note</head>
-            <p>The records of The Weiss &amp; Klau Co. consist primarily of corporate, financial, legal, personnel, and real estate records. The company, along with its subsidiaries, including Standard Coated Products, Inc., Airex Venetian Blind Co., and 462 Broadway Corporation, was engaged in the manufacture, sale, and distribution, of oilcloth, window shades, plastic coated fabrics and tiles, venetian blinds and related products. Many of the records deal with the dissolution and sale of the company following the partial collapse of the Weiss &amp; Klau offices at 462 Broadway in 1966. The collection also contains materials related to various social functions held by the company. There are numerous photographs of annual dinners and company outings. In addition, there is material relating the The Quarter-Century Club, an employee social organization which held annual meetings until 1988.</p>
-            <p>The collection supports research in New York City business administrative history from the late nineteenth through the mid-twentieth century. In addition, materials relating to employee relations and social functions provide insight into organizational culture and the environment of the work place in this time period.</p>
-        </scopecontent>
-        <arrangement id="ref12">
-            <head>Arrangement</head>
-            <p>The collection is organized into the following eight series:</p>
-            <list type="ordered">
-                <item>Series I. Corporate Documents, 1896-1968, n.d.</item>
-                <item>Series II. Financial Documents, 1902-1969</item>
-                <item>Series III. Real Estate Documents, 1912-1981</item>
-                <item>Series IV. Personnel Documents, 1936-1981</item>
-                <item>Series V. Standard Coated Products, Inc., 1922-1971, n.d.</item>
-                <item>Series VI. Sale and Liquidation, 1890-1973</item>
-                <item>Series VII. Social Functions, 1915-1988, n.d.</item>
-                <item>Series VIII. Scrapbooks, Photographs, and Ephemera, 1896-1966, n.d.</item>
-            </list>
-            <p>The materials are arranged chronologically within each series, unless otherwise noted.</p>
-        </arrangement>
-        <separatedmaterial id="ref219">
-            <head>Separated Material</head>
-            <p>A metal plaque commemorating the seventy-fifth anniversary of The Weiss &amp; Klau Co. is owned by The New-York Historical Society Museum.</p>
-        </separatedmaterial>
-        <controlaccess>
-            <persname source="ingest">462 Broadway Corporation</persname>
-            <persname source="ingest">Airex Venetian Blind Co.</persname>
-            <persname source="ingest">American Cyanamid Corporation</persname>
-            <persname source="ingest">Breneman, Inc.</persname>
-            <persname source="ingest">Clopay Corporation</persname>
-            <persname source="ingest">DeSoto Chemical Coatings</persname>
-            <persname source="ingest">Guaranty Trust Company of New York</persname>
-            <persname source="ingest">Hanover Bank (New York, N.Y.)</persname>
-            <persname source="ingest">Interchemical Corporation</persname>
-            <persname source="ingest">Klau Family</persname>
-            <persname source="ingest">Klau, David, d. 1961</persname>
-            <persname source="ingest">Klau, Nathan, d. 1938</persname>
-            <persname source="ingest">Napaul Corporation</persname>
-            <persname source="ingest">New York Trust Company</persname>
-            <persname source="ingest">Oppenheimer, Ira L., d. 2004</persname>
-            <persname source="ingest">Ru-Son Products, Inc.</persname>
-            <persname source="ingest">Standard Textile Products Company</persname>
-            <persname source="ingest">The Weiss &amp; Klau Co.</persname>
-            <persname source="ingest">Weiss &amp; Klau Brothers</persname>
-            <genreform source="aat">Account books</genreform>
-            <genreform source="aat">Certificates</genreform>
-            <genreform source="aat">Clippings</genreform>
-            <subject source="lcsh">Coated Fabrics Industry</subject>
-            <subject source="lcsh">Collapse of Buildings</subject>
-            <subject source="lcsh">Consolidation and merger of corporations</subject>
-            <genreform source="aat">Contracts</genreform>
-            <genreform source="aat">Correspondence</genreform>
-            <genreform source="aat">Deeds</genreform>
-            <genreform source="aat">Ephemera</genreform>
-            <genreform source="aat">Financial records</genreform>
-            <subject source="lcsh">Industrial Relations</subject>
-            <genreform source="aat">Leases</genreform>
-            <genreform source="aat">Ledgers</genreform>
-            <genreform source="aat">Legal documents</genreform>
-            <subject source="lcsh">Liquidation</subject>
-            <genreform source="aat">Minutes</genreform>
-            <genreform source="aat">Newsletters</genreform>
-            <genreform source="aat">Notes</genreform>
-            <subject source="lcsh">Oilcloth Industry</subject>
-            <subject source="lcsh">Organizational Behavior</subject>
-            <genreform source="aat">Pamphlets</genreform>
-            <subject source="lcsh">Pension Trusts</subject>
-            <genreform source="aat">Photographs</genreform>
-            <genreform source="aat">Plans (drawings)</genreform>
-            <subject source="lcsh">Sales Management</subject>
-            <genreform source="aat">Scrapbooks</genreform>
-            <genreform source="aat">Souvenir Programs</genreform>
-            <genreform source="aat">Stock certificates</genreform>
-            <genreform source="aat">Wills</genreform>
-            <subject source="lcsh">Work Environment</subject>
-        </controlaccess>
-        <dsc>
-            <c id="ref16" level="series">
-                <did>
-                    <unittitle>Series I: Corporate Documents, 1896-1968</unittitle>
-                </did>
-                <scopecontent id="ref36">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains materials related to The Weiss &amp; Klau Co.'s status as a corporation, including board minutes, resolutions, stock certificate books, and other materials. Also included are the general correspondence of the company, materials related to trademarks, and records retention schedules.</p>
-                    <p>Materials related to the distribution of Weiss &amp; Klau stock in Box 2, Folder 3 are restricted until 2043, 75 years from the date of their creation.</p>
-                </scopecontent>
-                <c id="ref17" level="otherlevel">
-                    <did>
-                        <unittitle>Corporate Documents and Agreements</unittitle>
-                        <container id="cid511661" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid511661" type="Folder">1</container>
-                        <unitdate>1896-1908</unitdate>
-                    </did>
-                </c>
-                <c id="ref18" level="otherlevel">
-                    <did>
-                        <unittitle>Board Minutes</unittitle>
-                        <container id="cid511660" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid511660" type="Folder">2</container>
-                        <unitdate>1898-1910</unitdate>
-                    </did>
-                </c>
-                <c id="ref19" level="otherlevel">
-                    <did>
-                        <unittitle>Board Minutes</unittitle>
-                        <container id="cid511659" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid511659" type="Folder">3</container>
-                        <unitdate>1966-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref20" level="otherlevel">
-                    <did>
-                        <unittitle>Board Minutes</unittitle>
-                        <container id="cid511658" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid511658" type="Folder">4</container>
-                        <unitdate>1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref21" level="otherlevel">
-                    <did>
-                        <unittitle>Corporate Resolution</unittitle>
-                        <container id="cid511657" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid511657" type="Folder">5</container>
-                        <unitdate>1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref22" level="otherlevel">
-                    <did>
-                        <unittitle>Correspondence</unittitle>
-                        <container id="cid511656" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid511656" type="Folder">6</container>
-                        <unitdate>1898-1947</unitdate>
-                    </did>
-                </c>
-                <c id="ref23" level="otherlevel">
-                    <did>
-                        <unittitle>Corporate and Financial Summaries--All Companies</unittitle>
-                        <container id="cid511655" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid511655" type="Folder">7</container>
-                        <unitdate>1923-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref24" level="otherlevel">
-                    <did>
-                        <unittitle>Stock Certificate Book</unittitle>
-                        <container id="cid511654" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid511654" type="Folder">8</container>
-                        <unitdate>1947-1959</unitdate>
-                    </did>
-                </c>
-                <c id="ref25" level="otherlevel">
-                    <did>
-                        <unittitle>Stock Certificate Book</unittitle>
-                        <container id="cid511653" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid511653" type="Folder">9</container>
-                        <unitdate>1959-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref26" level="otherlevel">
-                    <did>
-                        <unittitle>Bond Registers</unittitle>
-                        <container id="cid511652" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511652" type="Folder">1</container>
-                        <unitdate>1963</unitdate>
-                    </did>
-                </c>
-                <c id="ref27" level="otherlevel">
-                    <did>
-                        <unittitle>Stock Valuation</unittitle>
-                        <container id="cid511651" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511651" type="Folder">2</container>
-                        <unitdate>1962</unitdate>
-                    </did>
-                </c>
-                <c id="ref28" level="otherlevel">
-                    <did>
-                        <unittitle>Distribution of W &amp; K Stock (RESTRICTED)</unittitle>
-                        <container id="cid511650" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511650" type="Folder">3</container>
-                        <unitdate>1962-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref29" level="otherlevel">
-                    <did>
-                        <unittitle>Redemption of W &amp; K Stock</unittitle>
-                        <container id="cid511649" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511649" type="Folder">4</container>
-                        <unitdate>1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref30" level="otherlevel">
-                    <did>
-                        <unittitle>SANITAS Trademark</unittitle>
-                        <container id="cid511648" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511648" type="Folder">5</container>
-                        <unitdate>1965-1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref31" level="otherlevel">
-                    <did>
-                        <unittitle>Certificates of Incorporation and Merger--Napaul Corporation</unittitle>
-                        <container id="cid511647" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511647" type="Folder">6</container>
-                    </did>
-                </c>
-                <c id="ref32" level="otherlevel">
-                    <did>
-                        <unittitle>Napaul Corporation--By-Laws, Certificate of Merger</unittitle>
-                        <container id="cid511646" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511646" type="Folder">7</container>
-                        <unitdate>1962-1963</unitdate>
-                    </did>
-                </c>
-                <c id="ref33" level="otherlevel">
-                    <did>
-                        <unittitle>Summons</unittitle>
-                        <container id="cid511645" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511645" type="Folder">8</container>
-                        <unitdate>1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref34" level="otherlevel">
-                    <did>
-                        <unittitle>Records Retention Schedule</unittitle>
-                        <container id="cid511644" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511644" type="Folder">9</container>
-                        <unitdate>1962-1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref35" level="otherlevel">
-                    <did>
-                        <unittitle>List of Document Locations</unittitle>
-                        <container id="cid511643" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511643" type="Folder">10</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref37" level="otherlevel">
-                <did>
-                    <unittitle>Series II: Financial Documents, 1902-1969</unittitle>
-                </did>
-                <scopecontent id="ref68">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains financial documents, including inventory records, balance sheets, account books, investment reports, sales figures, and tax returns of The Weiss &amp; Klau Co., its related companies, and its principal investors.</p>
-                </scopecontent>
-                <c id="ref38" level="otherlevel">
-                    <did>
-                        <unittitle>Inventory Record</unittitle>
-                        <container id="cid511642" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511642" type="Folder">11</container>
-                        <unitdate>1903-1914</unitdate>
-                    </did>
-                </c>
-                <c id="ref39" level="otherlevel">
-                    <did>
-                        <unittitle>Inventory</unittitle>
-                        <container id="cid511641" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511641" type="Folder">12</container>
-                        <unitdate>1925</unitdate>
-                    </did>
-                </c>
-                <c id="ref40" level="otherlevel">
-                    <did>
-                        <unittitle>Check and Receipt</unittitle>
-                        <container id="cid511640" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511640" type="Folder">13</container>
-                        <unitdate>1902-1919</unitdate>
-                    </did>
-                </c>
-                <c id="ref41" level="otherlevel">
-                    <did>
-                        <unittitle>Balance Sheet</unittitle>
-                        <container id="cid511639" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511639" type="Folder">14</container>
-                        <unitdate>1922</unitdate>
-                    </did>
-                </c>
-                <c id="ref42" level="otherlevel">
-                    <did>
-                        <unittitle>Balance Sheet</unittitle>
-                        <container id="cid511638" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511638" type="Folder">15</container>
-                        <unitdate>1955-1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref43" level="otherlevel">
-                    <did>
-                        <unittitle>Consolidation of Balance Sheets and Income Accounts</unittitle>
-                        <container id="cid511637" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511637" type="Folder">16</container>
-                        <unitdate>1955-1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref44" level="otherlevel">
-                    <did>
-                        <unittitle>Account Book</unittitle>
-                        <container id="cid511636" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid511636" type="Folder">17</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref45" level="otherlevel">
-                    <did>
-                        <unittitle>Account Book</unittitle>
-                        <container id="cid511635" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511635" type="Folder">1</container>
-                        <unitdate>1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref46" level="otherlevel">
-                    <did>
-                        <unittitle>Account Book</unittitle>
-                        <container id="cid511634" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511634" type="Folder">2</container>
-                        <unitdate>1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref47" level="otherlevel">
-                    <did>
-                        <unittitle>Profit and Loss Accounts</unittitle>
-                        <container id="cid511633" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511633" type="Folder">3</container>
-                        <unitdate>1956-1969</unitdate>
-                    </did>
-                </c>
-                <c id="ref48" level="otherlevel">
-                    <did>
-                        <unittitle>Report on Financial Statements</unittitle>
-                        <container id="cid511632" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511632" type="Folder">4</container>
-                        <unitdate>1965-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref49" level="otherlevel">
-                    <did>
-                        <unittitle>Projections</unittitle>
-                        <container id="cid511631" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511631" type="Folder">5</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref50" level="otherlevel">
-                    <did>
-                        <unittitle>Projected Statements of Income</unittitle>
-                        <container id="cid511630" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511630" type="Folder">6</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref51" level="otherlevel">
-                    <did>
-                        <unittitle>Financial Records</unittitle>
-                        <container id="cid511629" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511629" type="Folder">7</container>
-                        <unitdate>1936-1954</unitdate>
-                    </did>
-                </c>
-                <c id="ref52" level="otherlevel">
-                    <did>
-                        <unittitle>Financial Records</unittitle>
-                        <container id="cid511628" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511628" type="Folder">8</container>
-                        <unitdate>1956-1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref53" level="otherlevel">
-                    <did>
-                        <unittitle>Financial Records</unittitle>
-                        <container id="cid511627" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511627" type="Folder">9</container>
-                        <unitdate>1958-1964</unitdate>
-                    </did>
-                </c>
-                <c id="ref54" level="otherlevel">
-                    <did>
-                        <unittitle>Financial Records</unittitle>
-                        <container id="cid511626" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511626" type="Folder">10</container>
-                        <unitdate>1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref55" level="otherlevel">
-                    <did>
-                        <unittitle>Financial Records</unittitle>
-                        <container id="cid511625" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511625" type="Folder">11</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref56" level="otherlevel">
-                    <did>
-                        <unittitle>Financial Records</unittitle>
-                        <container id="cid511624" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid511624" type="Folder">12</container>
-                        <unitdate>1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref57" level="otherlevel">
-                    <did>
-                        <unittitle>Consolidated Net Assets of All Companies</unittitle>
-                        <container id="cid511623" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511623" type="Folder">1</container>
-                        <unitdate>1948-1963</unitdate>
-                    </did>
-                </c>
-                <c id="ref58" level="otherlevel">
-                    <did>
-                        <unittitle>Assets of Companies and Persons</unittitle>
-                        <container id="cid511622" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511622" type="Folder">2</container>
-                        <unitdate>1955-1960</unitdate>
-                    </did>
-                </c>
-                <c id="ref59" level="otherlevel">
-                    <did>
-                        <unittitle>Schedule of Investments</unittitle>
-                        <container id="cid511621" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511621" type="Folder">3</container>
-                        <unitdate>1922-1923</unitdate>
-                    </did>
-                </c>
-                <c id="ref60" level="otherlevel">
-                    <did>
-                        <unittitle>Investments</unittitle>
-                        <container id="cid511620" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511620" type="Folder">4</container>
-                        <unitdate>1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref61" level="otherlevel">
-                    <did>
-                        <unittitle>FAB Department Records</unittitle>
-                        <container id="cid511619" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511619" type="Folder">5</container>
-                        <unitdate>1951-1963</unitdate>
-                    </did>
-                </c>
-                <c id="ref62" level="otherlevel">
-                    <did>
-                        <unittitle>Sales Binder</unittitle>
-                        <container id="cid511618" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511618" type="Folder">6</container>
-                        <unitdate>1964-1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref63" level="otherlevel">
-                    <did>
-                        <unittitle>Salesmanship Manual</unittitle>
-                        <container id="cid511617" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511617" type="Folder">7</container>
-                        <unitdate>1946</unitdate>
-                    </did>
-                </c>
-                <c id="ref64" level="otherlevel">
-                    <did>
-                        <unittitle>Capital Stock Tax Return</unittitle>
-                        <container id="cid511616" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511616" type="Folder">8</container>
-                        <unitdate>1942-1945</unitdate>
-                    </did>
-                </c>
-                <c id="ref65" level="otherlevel">
-                    <did>
-                        <unittitle>Tax Estimates</unittitle>
-                        <container id="cid511615" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511615" type="Folder">9</container>
-                        <unitdate>1964-1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref66" level="otherlevel">
-                    <did>
-                        <unittitle>Tax Materials</unittitle>
-                        <container id="cid511614" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511614" type="Folder">10</container>
-                        <unitdate>1966-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref67" level="otherlevel">
-                    <did>
-                        <unittitle>Audits</unittitle>
-                        <container id="cid511613" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511613" type="Folder">11</container>
-                        <unitdate>1964-1966</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref69" level="series">
-                <did>
-                    <unittitle>Series III: Real Estate Documents, 1912-1981</unittitle>
-                </did>
-                <scopecontent id="ref87">
-                    <head>Scope and Contents note</head>
-                    <p>The Weiss &amp; Klau Co. moved into its home at 462-468 Broadway in 1911. This series contains legal and real estate documents relating to the purchase (and sale) of the building, lease agreements, repairs and construction work. This series also contains information relating to the partial collapse of the building in 1966. There are clippings from several New York City papers; correspondence with employees, attorneys, and actuaries; building violations; and materials relating to insurance and liability claims.</p>
-                </scopecontent>
-                <c id="ref70" level="otherlevel">
-                    <did>
-                        <unittitle>Real Estate Documents</unittitle>
-                        <container id="cid511612" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511612" type="Folder">12</container>
-                        <unitdate>1912-1922</unitdate>
-                    </did>
-                </c>
-                <c id="ref71" level="otherlevel">
-                    <did>
-                        <unittitle>Real Estate Documents</unittitle>
-                        <container id="cid511611" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511611" type="Folder">13</container>
-                        <unitdate>1939-1942</unitdate>
-                    </did>
-                </c>
-                <c id="ref72" level="otherlevel">
-                    <did>
-                        <unittitle>Real Estate Documents</unittitle>
-                        <container id="cid511610" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511610" type="Folder">14</container>
-                        <unitdate>1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref73" level="otherlevel">
-                    <did>
-                        <unittitle>Real Estate Documents</unittitle>
-                        <container id="cid511609" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511609" type="Folder">15</container>
-                        <unitdate>1945-1946</unitdate>
-                    </did>
-                </c>
-                <c id="ref74" level="otherlevel">
-                    <did>
-                        <unittitle>Real Estate Documents</unittitle>
-                        <container id="cid511608" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid511608" type="Folder">16</container>
-                        <unitdate>1947-1948</unitdate>
-                    </did>
-                </c>
-                <c id="ref75" level="otherlevel">
-                    <did>
-                        <unittitle>Real Estate Documents</unittitle>
-                        <container id="cid511607" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511607" type="Folder">1</container>
-                        <unitdate>1949-1958</unitdate>
-                    </did>
-                </c>
-                <c id="ref76" level="otherlevel">
-                    <did>
-                        <unittitle>Real Estate Documents</unittitle>
-                        <container id="cid511606" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511606" type="Folder">2</container>
-                        <unitdate>1960-1970</unitdate>
-                    </did>
-                </c>
-                <c id="ref77" level="otherlevel">
-                    <did>
-                        <unittitle>Annual Vault Charge</unittitle>
-                        <container id="cid511605" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511605" type="Folder">3</container>
-                        <unitdate>1962-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref78" level="otherlevel">
-                    <did>
-                        <unittitle>Notes, Drawings Re: Building Collapse</unittitle>
-                        <container id="cid511604" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511604" type="Folder">4</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref79" level="otherlevel">
-                    <did>
-                        <unittitle>Sale of Building--Correspondence, Notes, Clippings</unittitle>
-                        <container id="cid511603" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511603" type="Folder">5</container>
-                        <unitdate>1966, 1981</unitdate>
-                    </did>
-                </c>
-                <c id="ref80" level="otherlevel">
-                    <did>
-                        <unittitle>Building Violations</unittitle>
-                        <container id="cid511602" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511602" type="Folder">6</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref81" level="otherlevel">
-                    <did>
-                        <unittitle>Lists of Injured Employees</unittitle>
-                        <container id="cid511601" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511601" type="Folder">7</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref82" level="otherlevel">
-                    <did>
-                        <unittitle>Insurance Claims, Correspondence, Notes</unittitle>
-                        <container id="cid511600" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511600" type="Folder">8</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref83" level="otherlevel">
-                    <did>
-                        <unittitle>Lawsuit--Legal Documents, Correspondence, Notes</unittitle>
-                        <container id="cid511599" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511599" type="Folder">9</container>
-                        <unitdate>1966-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref84" level="otherlevel">
-                    <did>
-                        <unittitle>Newspaper Clippings--Building Collapse</unittitle>
-                        <container id="cid511598" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511598" type="Folder">10</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref85" level="otherlevel">
-                    <did>
-                        <unittitle>Newspaper Clippings--Sale of Business</unittitle>
-                        <container id="cid511597" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511597" type="Folder">11</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref86" level="otherlevel">
-                    <did>
-                        <unittitle>Registration of Insured Boiler</unittitle>
-                        <container id="cid511596" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511596" type="Folder">12</container>
-                        <unitdate>1968</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref88" level="series">
-                <did>
-                    <unittitle>Series IV: Personnel Documents, 1936-1981</unittitle>
-                </did>
-                <scopecontent id="ref116">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains the personnel records of Weiss &amp; Klau employees, as well as extensive materials relating to the pension plan created for employees following the building collapse in 1966.</p>
-                    <p>The personnel records contained in Box 5, Folders 13 and 14, are restricted until 2042, 75 years from the last date of their creation.</p>
-                </scopecontent>
-                <c id="ref89" level="otherlevel">
-                    <did>
-                        <unittitle>Personnel Records (RESTRICTED)</unittitle>
-                        <container id="cid511595" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511595" type="Folder">13</container>
-                        <unitdate>1939-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref90" level="otherlevel">
-                    <did>
-                        <unittitle>Personnel Records (RESTRICTED)</unittitle>
-                        <container id="cid511594" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid511594" type="Folder">14</container>
-                        <unitdate>1939-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref91" level="otherlevel">
-                    <did>
-                        <unittitle>Permit to Pay Employees by Check</unittitle>
-                        <container id="cid511593" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511593" type="Folder">1</container>
-                        <unitdate>1936, 1963</unitdate>
-                    </did>
-                </c>
-                <c id="ref92" level="otherlevel">
-                    <did>
-                        <unittitle>Attendance Record</unittitle>
-                        <container id="cid511592" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511592" type="Folder">2</container>
-                        <unitdate>1936</unitdate>
-                    </did>
-                </c>
-                <c id="ref93" level="otherlevel">
-                    <did>
-                        <unittitle>Calculation of Bonuses</unittitle>
-                        <container id="cid511591" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511591" type="Folder">3</container>
-                        <unitdate>1946</unitdate>
-                    </did>
-                </c>
-                <c id="ref94" level="otherlevel">
-                    <did>
-                        <unittitle>Proposed Compensation Plan</unittitle>
-                        <container id="cid511590" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511590" type="Folder">4</container>
-                        <unitdate>1948</unitdate>
-                    </did>
-                </c>
-                <c id="ref95" level="otherlevel">
-                    <did>
-                        <unittitle>Executive Compensation</unittitle>
-                        <container id="cid511589" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511589" type="Folder">5</container>
-                        <unitdate>1955-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref96" level="otherlevel">
-                    <did>
-                        <unittitle>Profit-Sharing Plan</unittitle>
-                        <container id="cid511588" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511588" type="Folder">6</container>
-                        <unitdate>1958-1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref97" level="otherlevel">
-                    <did>
-                        <unittitle>Harry A. Propp--Correspondence, Notes</unittitle>
-                        <container id="cid511587" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511587" type="Folder">7</container>
-                        <unitdate>1944-1966, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref98" level="otherlevel">
-                    <did>
-                        <unittitle>Watchmen--Schedules, Notes</unittitle>
-                        <container id="cid511586" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511586" type="Folder">8</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref99" level="otherlevel">
-                    <did>
-                        <unittitle>Sales and Executive Payroll</unittitle>
-                        <container id="cid511585" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511585" type="Folder">9</container>
-                        <unitdate>1967-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref100" level="otherlevel">
-                    <did>
-                        <unittitle>Employment of Ira L. Oppenheimer</unittitle>
-                        <container id="cid511584" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511584" type="Folder">10</container>
-                        <unitdate>1962</unitdate>
-                    </did>
-                </c>
-                <c id="ref101" level="otherlevel">
-                    <did>
-                        <unittitle>Termination of Ira L. Oppenheimer</unittitle>
-                        <container id="cid511583" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511583" type="Folder">11</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref102" level="otherlevel">
-                    <did>
-                        <unittitle>Terminations--Letters and Notes</unittitle>
-                        <container id="cid511582" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511582" type="Folder">12</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref103" level="otherlevel">
-                    <did>
-                        <unittitle>Pension and Emplopyee Benefits Plans</unittitle>
-                        <container id="cid511581" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511581" type="Folder">13</container>
-                        <unitdate>1962-1963</unitdate>
-                    </did>
-                </c>
-                <c id="ref104" level="otherlevel">
-                    <did>
-                        <unittitle>Pension Plan--Deferred Compensation Agreements</unittitle>
-                        <container id="cid511580" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511580" type="Folder">14</container>
-                        <unitdate>1962-1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref105" level="otherlevel">
-                    <did>
-                        <unittitle>Pension Plan--Notes, Statistical Data</unittitle>
-                        <container id="cid511579" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511579" type="Folder">15</container>
-                        <unitdate>1963-1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref106" level="otherlevel">
-                    <did>
-                        <unittitle>Group Pension Contract</unittitle>
-                        <container id="cid511578" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511578" type="Folder">16</container>
-                        <unitdate>1966-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref107" level="otherlevel">
-                    <did>
-                        <unittitle>Pension Plan--Request for Determination</unittitle>
-                        <container id="cid511577" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid511577" type="Folder">17</container>
-                        <unitdate>1967-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref108" level="otherlevel">
-                    <did>
-                        <unittitle>Request for Determination</unittitle>
-                        <container id="cid511576" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511576" type="Folder">1</container>
-                        <unitdate>1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref109" level="otherlevel">
-                    <did>
-                        <unittitle>Pension Plan--Notes</unittitle>
-                        <container id="cid511575" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511575" type="Folder">2</container>
-                        <unitdate>1966-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref110" level="otherlevel">
-                    <did>
-                        <unittitle>Pension Plan--Correspondence with Employees</unittitle>
-                        <container id="cid511574" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511574" type="Folder">3</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref111" level="otherlevel">
-                    <did>
-                        <unittitle>Pension Plan--Correspondence with Attorneys and Actuaries</unittitle>
-                        <container id="cid511573" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511573" type="Folder">4</container>
-                        <unitdate>1966-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref112" level="otherlevel">
-                    <did>
-                        <unittitle>Pension Plan--Correspondence with Attorneys and Actuaries</unittitle>
-                        <container id="cid511572" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511572" type="Folder">5</container>
-                        <unitdate>1968-1972</unitdate>
-                    </did>
-                </c>
-                <c id="ref113" level="otherlevel">
-                    <did>
-                        <unittitle>Informal Pension Plan</unittitle>
-                        <container id="cid511571" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511571" type="Folder">6</container>
-                        <unitdate>1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref114" level="otherlevel">
-                    <did>
-                        <unittitle>Pension Plan--Correspondence re: Disputed Claim</unittitle>
-                        <container id="cid511570" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511570" type="Folder">7</container>
-                        <unitdate>1970</unitdate>
-                    </did>
-                </c>
-                <c id="ref115" level="otherlevel">
-                    <did>
-                        <unittitle>Pension Plan--Periodic Payment File Listing</unittitle>
-                        <container id="cid511569" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511569" type="Folder">8</container>
-                        <unitdate>1981</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref117" level="series">
-                <did>
-                    <unittitle>Series V: Standard Coated Products, 1922-1971, n.d.</unittitle>
-                </did>
-                <scopecontent id="ref141">
-                    <head>Scope and Contents note</head>
-                    <p>Standard Coated Products, Inc. (known until 1937 as Standard Textile Products, Inc.) was Weiss &amp; Klau's largest supplier of oilcloth and other textile products. Standard Coated was purchased by Weiss &amp; Klau from Interchemical Corporation in 1953. This series contains correspondence, financial records, marketing reports, legal documents, clippings, and other materials relating to Standard Coated dating from both before and after its acquisition by Weiss &amp; Klau.</p>
-                </scopecontent>
-                <c id="ref118" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Textile Products--Corporate Documents, Correspondence</unittitle>
-                        <container id="cid511568" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511568" type="Folder">9</container>
-                        <unitdate>1922-1934</unitdate>
-                    </did>
-                </c>
-                <c id="ref119" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Textile Products--Clippings</unittitle>
-                        <container id="cid511567" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511567" type="Folder">10</container>
-                        <unitdate>1925-1937</unitdate>
-                    </did>
-                </c>
-                <c id="ref120" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Textile (Coated) Products--Corporate Documents, Correspondence</unittitle>
-                        <container id="cid511566" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511566" type="Folder">11</container>
-                        <unitdate>1935-1937</unitdate>
-                    </did>
-                </c>
-                <c id="ref121" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Coated Products--Corporate Documents, Correspondence</unittitle>
-                        <container id="cid511565" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid511565" type="Folder">12</container>
-                        <unitdate>1938-1944</unitdate>
-                    </did>
-                </c>
-                <c id="ref122" level="otherlevel">
-                    <did>
-                        <unittitle>Agreement with Interchemical Corp.</unittitle>
-                        <container id="cid511564" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511564" type="Folder">1</container>
-                        <unitdate>1953</unitdate>
-                    </did>
-                </c>
-                <c id="ref123" level="otherlevel">
-                    <did>
-                        <unittitle>Agreement with Interchemical Corp.</unittitle>
-                        <container id="cid511563" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511563" type="Folder">2</container>
-                        <unitdate>1953</unitdate>
-                    </did>
-                </c>
-                <c id="ref124" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Coated Products--Corporate and Financial Documents, Correspondence</unittitle>
-                        <container id="cid511562" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511562" type="Folder">3</container>
-                        <unitdate>1953-1954</unitdate>
-                    </did>
-                </c>
-                <c id="ref125" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Coated Products--Corporate and Financial Documents, Correspondence</unittitle>
-                        <container id="cid511561" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511561" type="Folder">4</container>
-                        <unitdate>1955, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref126" level="otherlevel">
-                    <did>
-                        <unittitle>Loan Documents by Standard Coated Products and Weiss &amp; Klau with New York Trust Company</unittitle>
-                        <container id="cid511560" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511560" type="Folder">5</container>
-                        <unitdate>1955</unitdate>
-                    </did>
-                </c>
-                <c id="ref127" level="otherlevel">
-                    <did>
-                        <unittitle>Loan Documents by Standard Coated Products and Weiss &amp; Klau with New York Trust Company</unittitle>
-                        <container id="cid511559" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511559" type="Folder">6</container>
-                        <unitdate>1955</unitdate>
-                    </did>
-                </c>
-                <c id="ref128" level="otherlevel">
-                    <did>
-                        <unittitle>Loan Documents by Standard Coated Products and Weiss &amp; Klau with Guaranty Trust Company</unittitle>
-                        <container id="cid511558" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511558" type="Folder">7</container>
-                        <unitdate>1955</unitdate>
-                    </did>
-                </c>
-                <c id="ref129" level="otherlevel">
-                    <did>
-                        <unittitle>Loan Documents by Standard Coated Products and Weiss &amp; Klau with Guaranty Trust Company and New York Trust Company</unittitle>
-                        <container id="cid511557" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511557" type="Folder">8</container>
-                        <unitdate>1955</unitdate>
-                    </did>
-                </c>
-                <c id="ref130" level="otherlevel">
-                    <did>
-                        <unittitle>Loan Documents by Standard Coated Products and Weiss &amp; Klau with Hanover Bank and Renewal with Guaranty Trust Company</unittitle>
-                        <container id="cid511556" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511556" type="Folder">9</container>
-                        <unitdate>1956</unitdate>
-                    </did>
-                </c>
-                <c id="ref131" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Coated Products--Corporate and Financial Documents, Notes</unittitle>
-                        <container id="cid511555" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511555" type="Folder">10</container>
-                        <unitdate>1956-1971, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref132" level="otherlevel">
-                    <did>
-                        <unittitle>Appraisal of Standard Coated Products</unittitle>
-                        <container id="cid511554" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511554" type="Folder">11</container>
-                        <unitdate>1958</unitdate>
-                    </did>
-                </c>
-                <c id="ref133" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Coated Products--Financial Statements</unittitle>
-                        <container id="cid511553" type="Box" label="Mixed Materials">8</container>
-                        <container parent="cid511553" type="Folder">12</container>
-                        <unitdate>1954-1964</unitdate>
-                    </did>
-                </c>
-                <c id="ref134" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Coated Products--Financial Records</unittitle>
-                        <container id="cid511552" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511552" type="Folder">1</container>
-                        <unitdate>1958-1960</unitdate>
-                    </did>
-                </c>
-                <c id="ref135" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Coated Products--Financial Records</unittitle>
-                        <container id="cid511551" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511551" type="Folder">2</container>
-                        <unitdate>1961-1963</unitdate>
-                    </did>
-                </c>
-                <c id="ref136" level="otherlevel">
-                    <did>
-                        <unittitle>Standard Coated Products--Financial Records</unittitle>
-                        <container id="cid511550" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511550" type="Folder">3</container>
-                        <unitdate>1964-1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref137" level="otherlevel">
-                    <did>
-                        <unittitle>Interchemical Review</unittitle>
-                        <container id="cid511549" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511549" type="Folder">4</container>
-                        <unitdate>1949</unitdate>
-                    </did>
-                </c>
-                <c id="ref138" level="otherlevel">
-                    <did>
-                        <unittitle>Market Outlook for Oilcloth</unittitle>
-                        <container id="cid511548" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511548" type="Folder">5</container>
-                        <unitdate>1949</unitdate>
-                    </did>
-                </c>
-                <c id="ref139" level="otherlevel">
-                    <did>
-                        <unittitle>Outlook for Coated Products Division, Interchemical Corp.</unittitle>
-                        <container id="cid511547" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511547" type="Folder">6</container>
-                        <unitdate>1952</unitdate>
-                    </did>
-                </c>
-                <c id="ref140" level="otherlevel">
-                    <did>
-                        <unittitle>Studies--Combination of Standard Coated Products and Weiss &amp; Klau</unittitle>
-                        <container id="cid511546" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511546" type="Folder">7</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref142" level="series">
-                <did>
-                    <unittitle>Series VI: Sale and Liquidation, 1890-1973</unittitle>
-                </did>
-                <scopecontent id="ref169">
-                    <head>Scope and Contents note</head>
-                    <p>Following the collapse of 462 Broadway, portions of The Weiss &amp; Klau Co. were sold to different companies. This series contains correspondence, notes, legal, and financial documents relating to the purchase of the plastic stock window shade business by Breneman, Inc. in February 1966, the plastic film and tile business by Clopay Corporation in March 1966, and the manufacturing business of Standard Coated Products, Inc. by American Cyanamid Corporation in 1968. It also contains materials relating to the final liquidation of stock and assets of The Weiss &amp; Klau Co. In addition, correspondence, notes, and other materials relating to unsuccessful bids to purchase Weiss &amp; Klau, both before and after the building collapse are found here. In particular, there is a considerable amount of information relating to a possible merger with DeSoto Chemical Coatings. Finally, this series contains Dun &amp; Bradstreet Reports on Weiss &amp; Klau and their competitors.</p>
-                </scopecontent>
-                <c id="ref143" level="otherlevel">
-                    <did>
-                        <unittitle>Dun &amp; Bradstreet Reports</unittitle>
-                        <container id="cid511545" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511545" type="Folder">8</container>
-                        <unitdate>1890-1948</unitdate>
-                    </did>
-                </c>
-                <c id="ref144" level="otherlevel">
-                    <did>
-                        <unittitle>Offers to Purchase Business--Correspondence</unittitle>
-                        <container id="cid511544" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511544" type="Folder">9</container>
-                        <unitdate>1956-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref145" level="otherlevel">
-                    <did>
-                        <unittitle>Offers to Purchase Business--Notes, Annual Reports</unittitle>
-                        <container id="cid511543" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511543" type="Folder">10</container>
-                        <unitdate>1963-1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref146" level="otherlevel">
-                    <did>
-                        <unittitle>Proposed Purchase of Ru-Son Products</unittitle>
-                        <container id="cid511542" type="Box" label="Mixed Materials">9</container>
-                        <container parent="cid511542" type="Folder">11</container>
-                        <unitdate>1963</unitdate>
-                    </did>
-                </c>
-                <c id="ref147" level="otherlevel">
-                    <did>
-                        <unittitle>Corporate Research Materials--DeSoto Chemical Coatings</unittitle>
-                        <container id="cid511541" type="Box" label="Mixed Materials">10</container>
-                        <container parent="cid511541" type="Folder">1</container>
-                        <unitdate>1957-1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref148" level="otherlevel">
-                    <did>
-                        <unittitle>Correspondence, Notes--DeSoto Chemical Coatings</unittitle>
-                        <container id="cid511540" type="Box" label="Mixed Materials">10</container>
-                        <container parent="cid511540" type="Folder">2</container>
-                        <unitdate>1957-1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref149" level="otherlevel">
-                    <did>
-                        <unittitle>Breneman, Inc.</unittitle>
-                        <container id="cid511539" type="Box" label="Mixed Materials">10</container>
-                        <container parent="cid511539" type="Folder">3</container>
-                        <unitdate>1966-1973</unitdate>
-                    </did>
-                </c>
-                <c id="ref150" level="otherlevel">
-                    <did>
-                        <unittitle>Breneman, Clopay, Newell</unittitle>
-                        <container id="cid511538" type="Box" label="Mixed Materials">10</container>
-                        <container parent="cid511538" type="Folder">4</container>
-                        <unitdate>1966-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref151" level="otherlevel">
-                    <did>
-                        <unittitle>Clopay Corporation</unittitle>
-                        <container id="cid511537" type="Box" label="Mixed Materials">10</container>
-                        <container parent="cid511537" type="Folder">5</container>
-                        <unitdate>1956-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref152" level="otherlevel">
-                    <did>
-                        <unittitle>Sale of Assets to Clopay Corporation</unittitle>
-                        <container id="cid511536" type="Box" label="Mixed Materials">10</container>
-                        <container parent="cid511536" type="Folder">6</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref153" level="otherlevel">
-                    <did>
-                        <unittitle>Sale of Industrial Fabrics Division</unittitle>
-                        <container id="cid511535" type="Box" label="Mixed Materials">10</container>
-                        <container parent="cid511535" type="Folder">7</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref154" level="otherlevel">
-                    <did>
-                        <unittitle>Sale of Industrial Fabrics Division</unittitle>
-                        <container id="cid511534" type="Box" label="Mixed Materials">10</container>
-                        <container parent="cid511534" type="Folder">8</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref155" level="otherlevel">
-                    <did>
-                        <unittitle>Sale of Industrial Fabrics Division</unittitle>
-                        <container id="cid511533" type="Box" label="Mixed Materials">10</container>
-                        <container parent="cid511533" type="Folder">9</container>
-                        <unitdate>1966-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref156" level="otherlevel">
-                    <did>
-                        <unittitle>Ameican Cyanamid--Annual Reports, Advertising</unittitle>
-                        <container id="cid511532" type="Box" label="Mixed Materials">10</container>
-                        <container parent="cid511532" type="Folder">10</container>
-                        <unitdate>1964-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref157" level="otherlevel">
-                    <did>
-                        <unittitle>American Cyanamid--Correspondence, Notes</unittitle>
-                        <container id="cid511531" type="Box" label="Mixed Materials">11</container>
-                        <container parent="cid511531" type="Folder">1</container>
-                        <unitdate>1965-1971</unitdate>
-                    </did>
-                </c>
-                <c id="ref158" level="otherlevel">
-                    <did>
-                        <unittitle>Sale of Assets to American Cyanamid Company</unittitle>
-                        <container id="cid511530" type="Box" label="Mixed Materials">11</container>
-                        <container parent="cid511530" type="Folder">2</container>
-                        <unitdate>1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref159" level="otherlevel">
-                    <did>
-                        <unittitle>Sale to American Cyanamid--Marked Copies of Agreement</unittitle>
-                        <container id="cid511529" type="Box" label="Mixed Materials">11</container>
-                        <container parent="cid511529" type="Folder">3</container>
-                        <unitdate>1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref160" level="otherlevel">
-                    <did>
-                        <unittitle>462 Broadway Corp.--Board Minutes, Resolution</unittitle>
-                        <container id="cid511528" type="Box" label="Mixed Materials">11</container>
-                        <container parent="cid511528" type="Folder">4</container>
-                        <unitdate>1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref161" level="otherlevel">
-                    <did>
-                        <unittitle>Liquidation of 462 Broadway Corp.</unittitle>
-                        <container id="cid511527" type="Box" label="Mixed Materials">11</container>
-                        <container parent="cid511527" type="Folder">5</container>
-                        <unitdate>1965-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref162" level="otherlevel">
-                    <did>
-                        <unittitle>Liquidation</unittitle>
-                        <container id="cid511526" type="Box" label="Mixed Materials">11</container>
-                        <container parent="cid511526" type="Folder">6</container>
-                        <unitdate>1967-1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref163" level="otherlevel">
-                    <did>
-                        <unittitle>Corporate Dissolution</unittitle>
-                        <container id="cid511525" type="Box" label="Mixed Materials">11</container>
-                        <container parent="cid511525" type="Folder">7</container>
-                        <unitdate>1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref164" level="otherlevel">
-                    <did>
-                        <unittitle>Liquidation</unittitle>
-                        <container id="cid511524" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511524" type="Folder">1</container>
-                        <unitdate>1968</unitdate>
-                    </did>
-                </c>
-                <c id="ref165" level="otherlevel">
-                    <did>
-                        <unittitle>Liquidation</unittitle>
-                        <container id="cid511523" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511523" type="Folder">2</container>
-                        <unitdate>1969</unitdate>
-                    </did>
-                </c>
-                <c id="ref166" level="otherlevel">
-                    <did>
-                        <unittitle>Liquidation</unittitle>
-                        <container id="cid511522" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511522" type="Folder">3</container>
-                        <unitdate>1970-1972</unitdate>
-                    </did>
-                </c>
-                <c id="ref167" level="otherlevel">
-                    <did>
-                        <unittitle>Notes re: Liquidation</unittitle>
-                        <container id="cid511521" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511521" type="Folder">4</container>
-                        <unitdate>1966-1967</unitdate>
-                    </did>
-                </c>
-                <c id="ref168" level="otherlevel">
-                    <did>
-                        <unittitle>Outline of Will of David Klau</unittitle>
-                        <container id="cid511520" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511520" type="Folder">5</container>
-                        <unitdate>1957</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref170" level="series">
-                <did>
-                    <unittitle>Series VII: Social Functions and Activities, 1915-1988</unittitle>
-                </did>
-                <scopecontent id="ref184">
-                    <head>Scope and Contents note</head>
-                    <p>The Weiss &amp; Klau Co. regularly hosted parties and other events for its employees. This series contains programs from dinners, as well as materials relating to large parties held in honor of the fiftieth and seventy-fifth anniversaries of the company. In addition, there are company newsletters, many of which contain personal information about employees, such as wedding, birth, and death announcements, work-related news, jokes, and cartoons. This series also contains materials relating to two employee social organizations, The Quarter-Century Club and The Old Bunch. Finally, this series contains the personal correspondence of Ira L. Oppenheimer, its last president, with employees, friends, and associates.</p>
-                </scopecontent>
-                <c id="ref171" level="otherlevel">
-                    <did>
-                        <unittitle>Dance Programs</unittitle>
-                        <container id="cid511519" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511519" type="Folder">6</container>
-                        <unitdate>1915-1939</unitdate>
-                    </did>
-                </c>
-                <c id="ref172" level="otherlevel">
-                    <did>
-                        <unittitle>Fiftieth Anniversary--Speeches, Correspondence</unittitle>
-                        <container id="cid511518" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511518" type="Folder">7</container>
-                        <unitdate>1936-1937</unitdate>
-                    </did>
-                </c>
-                <c id="ref173" level="otherlevel">
-                    <did>
-                        <unittitle>Fiftieth Anniversary--Mailing List, Broadside</unittitle>
-                        <container id="cid511517" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511517" type="Folder">8</container>
-                        <unitdate>1936</unitdate>
-                    </did>
-                </c>
-                <c id="ref174" level="otherlevel">
-                    <did>
-                        <unittitle>Seventy-Fifth Anniversary--Budget, Invoices, Notes</unittitle>
-                        <container id="cid511516" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511516" type="Folder">9</container>
-                        <unitdate>1962</unitdate>
-                    </did>
-                </c>
-                <c id="ref175" level="otherlevel">
-                    <did>
-                        <unittitle>Employee Newsletter</unittitle>
-                        <container id="cid511515" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511515" type="Folder">10</container>
-                        <unitdate>1928-1970</unitdate>
-                    </did>
-                </c>
-                <c id="ref176" level="otherlevel">
-                    <did>
-                        <unittitle>Quarter-Century Club--Membership Lists</unittitle>
-                        <container id="cid511514" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511514" type="Folder">11</container>
-                        <unitdate>1955-1982</unitdate>
-                    </did>
-                </c>
-                <c id="ref177" level="otherlevel">
-                    <did>
-                        <unittitle>Quarter-Century Club--Announcements</unittitle>
-                        <container id="cid511513" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511513" type="Folder">12</container>
-                        <unitdate>1968-1971, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref178" level="otherlevel">
-                    <did>
-                        <unittitle>Quarter-Century Club--Correspondence, Notes</unittitle>
-                        <container id="cid511512" type="Box" label="Mixed Materials">12</container>
-                        <container parent="cid511512" type="Folder">13</container>
-                        <unitdate>1968-1982</unitdate>
-                    </did>
-                </c>
-                <c id="ref179" level="otherlevel">
-                    <did>
-                        <unittitle>Quarter-Century Club--Correspondence, Notes</unittitle>
-                        <container id="cid511511" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511511" type="Folder">1</container>
-                        <unitdate>1983-1988</unitdate>
-                    </did>
-                </c>
-                <c id="ref180" level="otherlevel">
-                    <did>
-                        <unittitle>The Old Bunch</unittitle>
-                        <container id="cid511510" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511510" type="Folder">2</container>
-                        <unitdate>1968-1971</unitdate>
-                    </did>
-                </c>
-                <c id="ref181" level="otherlevel">
-                    <did>
-                        <unittitle>Speeches</unittitle>
-                        <container id="cid511509" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511509" type="Folder">3</container>
-                        <unitdate>1958-1961, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref182" level="otherlevel">
-                    <did>
-                        <unittitle>Clipping</unittitle>
-                        <container id="cid511508" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511508" type="Folder">4</container>
-                        <unitdate>1961</unitdate>
-                    </did>
-                </c>
-                <c id="ref183" level="otherlevel">
-                    <did>
-                        <unittitle>Correspondence of Ira L. Oppenheimer</unittitle>
-                        <container id="cid511507" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511507" type="Folder">5</container>
-                        <unitdate>1961-1971</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref185" level="series">
-                <did>
-                    <unittitle>Series VII: Scrapbooks, Photographs, and Ephemera, 1896-1966, n.d.</unittitle>
-                </did>
-                <scopecontent id="ref218">
-                    <head>Scope and Contents note</head>
-                    <p>This series consists primarily of two scrapbooks containing photographs, newsletters, newspaper clippings, certificates, advertisements, correspondence, cartoons, and other materials pertaining to The Weiss &amp; Klau Co., its employees, its related businesses, and the Klau family. Some of these materials appear elsewhere in the collection. Many of the materials date from the early twentieth century. There are a number of group photographs taken at company dinners. Individuals have been identified in several of these photographs. One scrapbook containing oversized materials has been disbound, and the contents have been arranged in folders. The other scrapbook remains in its original condition. In addition, this series contains business-related ephemera, such as announcements and business cards, additional photographs, and a wooden printing block used by the firm of Weiss &amp; Klau Brothers.</p>
-                </scopecontent>
-                <c id="ref186" level="otherlevel">
-                    <did>
-                        <unittitle>Announcements</unittitle>
-                        <container id="cid511506" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511506" type="Folder">6</container>
-                        <unitdate>1896, 1966</unitdate>
-                    </did>
-                </c>
-                <c id="ref187" level="otherlevel">
-                    <did>
-                        <unittitle>Business Cards</unittitle>
-                        <container id="cid511505" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511505" type="Folder">7</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref188" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511504" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511504" type="Folder">8</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref189" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511503" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511503" type="Folder">9</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref190" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511502" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511502" type="Folder">10</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref191" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511501" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511501" type="Folder">11</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref192" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511500" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511500" type="Folder">12</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref193" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511499" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511499" type="Folder">13</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref194" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511498" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511498" type="Folder">14</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref195" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511497" type="Box" label="Mixed Materials">13</container>
-                        <container parent="cid511497" type="Folder">15</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref196" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511496" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511496" type="Folder">1</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref197" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511495" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511495" type="Folder">2</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref198" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511494" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511494" type="Folder">3</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref199" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511493" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511493" type="Folder">4</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref200" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511492" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511492" type="Folder">5</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref201" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511491" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511491" type="Folder">6</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref202" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511490" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511490" type="Folder">7</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref203" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511489" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511489" type="Folder">8</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref204" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511488" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511488" type="Folder">9</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref205" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511487" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511487" type="Folder">10</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref206" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511486" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511486" type="Folder">11</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref207" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511485" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511485" type="Folder">12</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref208" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511484" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511484" type="Folder">13</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref209" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511483" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511483" type="Folder">14</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref210" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511482" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511482" type="Folder">15</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref211" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511481" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511481" type="Folder">16</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref212" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511480" type="Box" label="Mixed Materials">14</container>
-                        <container parent="cid511480" type="Folder">17</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref213" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook</unittitle>
-                        <container id="cid511479" type="Box" label="Mixed Materials">15</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref214" level="otherlevel">
-                    <did>
-                        <unittitle>Photographs (Copies)</unittitle>
-                        <container id="cid511478" type="Box" label="Mixed Materials">16</container>
-                        <container parent="cid511478" type="Folder">1</container>
-                        <unitdate>1924-1926</unitdate>
-                    </did>
-                </c>
-                <c id="ref215" level="otherlevel">
-                    <did>
-                        <unittitle>Photographs, Slides</unittitle>
-                        <container id="cid511477" type="Box" label="Mixed Materials">16</container>
-                        <container parent="cid511477" type="Folder">2</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref216" level="otherlevel">
-                    <did>
-                        <unittitle>Photographs</unittitle>
-                        <container id="cid511476" type="Box" label="Mixed Materials">16</container>
-                        <unitdate>1924-1926</unitdate>
-                    </did>
-                </c>
-                <c id="ref217" level="otherlevel">
-                    <did>
-                        <unittitle>Wooden Printing Block</unittitle>
-                        <container id="cid511475" type="Box" label="Mixed Materials">16</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">weissklau</eadid><filedesc><titlestmt><titleproper>Guide to the Records of The Weiss &amp; Klau Co.<lb/><date>1892-1988</date><date> (Bulk 1922-1968)</date><lb/><num></num> <num>MS 687</num></titleproper><author>Collection processed by Gabrielle Sanchez</author></titlestmt><editionstmt><p>This version was derivedfrom weissklau.xml</p></editionstmt><publicationstmt><publisher>New-York Historical Society</publisher><address><addressline>New-York Historical Society</addressline><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>(212) 873-3400</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2021-02-24T15:49:39</date></creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Weiss &amp; Klau Co. Records</unittitle>
+    <unitid>MS 687</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6.5 Linear feet</extent>
+      <extent altrender="carrier">(16 Boxes)</extent>
+    </physdesc>
+    <unitdate normal="0/0" type="inclusive">1890-1988 (Bulk 1922-1968)</unitdate>
+    <abstract id="aspace_caab83f862bb24f5c626b6a8e3e7c720">Corporate, financial, legal, personnel, and real estate records of The Weiss &amp; Klau Co., a distributor of oilcloth, plastic-coated fabrics, window shades, and related products. The collection also includes the records of a subsidiary, Standard Coated Products, Inc., a manufacturer of these products. Photographs and memorabilia of company social functions are also present, as is some personal correspondence.</abstract>
+  </did>
+  <custodhist id="aspace_b3708b48fc39f5baa6f9ebb9eed4a6f4">
+    <head>Provenance</head>
+<p>Donation, 2003.</p>  </custodhist>
+  <accessrestrict id="aspace_97c9251b6b7382a93110a481f84243f4">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p><p>Certain materials in Series I and IV are restricted for 75 years. See the Scope and Content Notes for details.</p><p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)</p><p>Materials are stored offsite and advance notice is required for use. Please contact manuscripts@nyhistory.org prior to your research visit to coordinate access. Keep in mind that it will take between two (2) and five (5) business days for collections to arrive, and you should plan your research accordingly.</p>  </accessrestrict>
+  <userestrict id="aspace_769d5d94e6c2bf06628143c241a7f9a6">
+    <head>Use Restrictions</head>
+<p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to <lb/><lb/>Library Director<lb/><address><addressline>The New-York Historical Society<lb/></addressline><addressline>Two West 77th Street<lb/></addressline><addressline>New York, NY 10024<lb/><lb/></addressline></address></p>  </userestrict>
+  <prefercite id="aspace_fde755d72a27af3260bfc0428d9e964d">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as The Records of The Weiss &amp; Klau, Co., MS 687, The New-York Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_8d6a8a72ea9b00f7d901b4a5de4a9ccc">
+    <head>Historical Note</head>
+    <chronlist>
+      <head>Missing Title</head>
+      <chronitem>
+        <date>1887</date>
+        <eventgrp>
+          <event>Ignatz Weiss, Nathan Klau and Samuel Klau found the firm Weiss &amp; Klau Brothers, for the purpose of selling and distributing table oil cloth and window shades.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1892</date>
+        <eventgrp>
+          <event>Weiss &amp; Klau Brothers moves to 203 Canal Street.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1895</date>
+        <eventgrp>
+          <event>Samuel Klau dies.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1896</date>
+        <eventgrp>
+          <event>Company changes its name to Weiss &amp; Klau.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1897</date>
+        <eventgrp>
+          <event>Company expands to 205, 207, 209, and 211 Canal Street.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1898</date>
+        <eventgrp>
+          <event>Company changes name to The Weiss &amp; Klau Co. and is incorporated in New York State.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1911</date>
+        <eventgrp>
+          <event>The Weiss &amp; Klau Co. moves to 462-468 Broadway. David Klau, son of Nathan Klau, joins company as office boy.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1922</date>
+        <eventgrp>
+          <event>The Weiss &amp; Klau Co. purchases Napaul Corporation.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1937</date>
+        <eventgrp>
+          <event>The Weiss &amp; Klau Co. buys bonds of Standard Textile Products, Inc., their main supplier of oil cloth and other products, in order to allow the purchase of Standard Textile by Interchemical Corporation. Fiftieth anniversary of founding of Weiss &amp; Klau; Golden Jubilee celebrated.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1938</date>
+        <eventgrp>
+          <event>Nathan Klau dies; David Klau becomes president of company.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1946</date>
+        <eventgrp>
+          <event>Quarter-Century Club created. The club consisted of employees who had worked for Weiss &amp; Klau for twenty-five years or more.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1953</date>
+        <eventgrp>
+          <event>The Weiss &amp; Klau Co. purchases Standard Coated Products, Inc., (formerly Standard Textile Products, Inc.) manufacturer of textiles and Weiss &amp; Klau's chief supplier.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1961</date>
+        <eventgrp>
+          <event>David Klau dies. Ira Oppenheimer (grandson of Nathan Klau and nephew of David Klau) becomes President.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1962</date>
+        <eventgrp>
+          <event>Seventy-fifth anniversary of founding of company; Diamond Jubilee celebrated.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1966</date>
+        <eventgrp>
+          <event>On January 27, part of the fifth floor of building at 462 Broadway collapses. Several employees are injured. In February, the plastic stock window shade business is sold to Breneman, Inc. In March, the plastic film and tile business is sold to Clopay Corporation.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1968</date>
+        <eventgrp>
+          <event>Standard Coated Products, Inc. is sold to American Cyanamid. The Weiss &amp; Klau Co. changes name to K Liquidating Company and ceases operation.</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+
+
+  </bioghist>
+  <scopecontent id="aspace_98a6b0f044558ef852011c177d8c7c05">
+    <head>Scope and Content Note</head>
+<p>The records of The Weiss &amp; Klau Co. consist primarily of corporate, financial, legal, personnel, and real estate records. The company, along with its subsidiaries, including Standard Coated Products, Inc., Airex Venetian Blind Co., and 462 Broadway Corporation, was engaged in the manufacture, sale, and distribution, of oilcloth, window shades, plastic coated fabrics and tiles, venetian blinds and related products. Many of the records deal with the dissolution and sale of the company following the partial collapse of the Weiss &amp; Klau offices at 462 Broadway in 1966. The collection also contains materials related to various social functions held by the company. There are numerous photographs of annual dinners and company outings. In addition, there is material relating the The Quarter-Century Club, an employee social organization which held annual meetings until 1988.</p><p>The collection supports research in New York City business administrative history from the late nineteenth through the mid-twentieth century. In addition, materials relating to employee relations and social functions provide insight into organizational culture and the environment of the work place in this time period.</p>  </scopecontent>
+  <arrangement id="aspace_8d90ad2ebb90d974c704df0dd4187aee">
+    <head>Arrangement</head>
+<p>The collection is organized into the following eight series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I. Corporate Documents, 1896-1968, n.d.</item>
+      <item>Series II. Financial Documents, 1902-1969</item>
+      <item>Series III. Real Estate Documents, 1912-1981</item>
+      <item>Series IV. Personnel Documents, 1936-1981</item>
+      <item>Series V. Standard Coated Products, Inc., 1922-1971, n.d.</item>
+      <item>Series VI. Sale and Liquidation, 1890-1973</item>
+      <item>Series VII. Social Functions, 1915-1988, n.d.</item>
+      <item>Series VIII. Scrapbooks, Photographs, and Ephemera, 1896-1966, n.d.</item>
+    </list>
+<p>The materials are arranged chronologically within each series, unless otherwise noted.</p>  </arrangement>
+  <separatedmaterial id="aspace_1a0dd32a8e125e991425f1efb49c921e">
+    <head>Separated Material</head>
+<p>A metal plaque commemorating the seventy-fifth anniversary of The Weiss &amp; Klau Co. is owned by The New-York Historical Society Museum.</p>  </separatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Ledgers (account books).</genreform>
+    <genreform source="aat">Legal documents.</genreform>
+    <genreform source="aat">Minutes (administrative records)</genreform>
+    <genreform source="aat">Newsletters.</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Notes (documents).</genreform>
+    <genreform source="aat">Pamphlets.</genreform>
+    <genreform source="aat">Contracts.</genreform>
+    <genreform source="aat">Deeds.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <genreform source="aat">Certificates.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Wills.</genreform>
+    <genreform source="aat">Stock certificates.</genreform>
+    <genreform source="aat">Souvenir programs</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Building plans.</genreform>
+    <genreform source="aat">Account books.</genreform>
+    <subject source="lcsh">Work environment</subject>
+    <subject source="lcsh">Sales management</subject>
+    <subject source="lcsh">Pension trusts.</subject>
+    <subject source="lcsh">Organizational behavior.</subject>
+    <subject source="lcsh">Oilcloth industry</subject>
+    <subject source="lcsh">Liquidation</subject>
+    <subject source="lcsh">Industrial relations</subject>
+    <subject source="lcsh">Consolidation and merger of corporations</subject>
+    <subject source="lcsh">Collapse of Buildings</subject>
+    <subject source="lcsh">Coated Fabrics industry.</subject>
+    <genreform source="aat">Ephemera.</genreform>
+    <genreform source="aat">Financial records.</genreform>
+    <genreform source="aat">Leases</genreform>
+    <corpname rules="rda" source="local">Airex Venetian Blind Co.</corpname>
+    <corpname rules="rda" source="naf">American Cyanamid Company</corpname>
+    <corpname rules="rda" source="local">Breneman, Inc.</corpname>
+    <corpname rules="rda" source="local">Clopay Corporation</corpname>
+    <corpname rules="rda" source="local">DeSoto Chemical Coatings</corpname>
+    <corpname source="naf">Guaranty Trust Company of New York</corpname>
+    <corpname source="naf">Hanover Bank (New York, N.Y.)</corpname>
+    <corpname rules="rda" source="naf">Interchemical Corporation</corpname>
+    <persname rules="rda" source="local">Klau (Family)</persname>
+    <persname rules="rda" source="local">Klau, David, -1961</persname>
+    <persname rules="rda" source="local">Klau, Nathan, -1938</persname>
+    <corpname rules="rda" source="local">Napaul Corporation</corpname>
+    <corpname source="naf">New York Trust Company</corpname>
+    <persname rules="rda" source="local">Oppenheimer, Ira L., -2004</persname>
+    <corpname rules="rda" source="local">Ru-Son Products, Inc.</corpname>
+    <corpname source="naf">Standard Textile Products Company</corpname>
+    <corpname rules="rda" source="local">The Weiss &amp; Klau Co.</corpname>
+    <corpname rules="rda" source="local">Weiss &amp; Klau Brothers</corpname>
+    <corpname rules="rda" source="local">462 Broadway Corporation (New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref16_fkn" level="series"><did><unittitle>Series I: Corporate Documents, 1896-1968</unittitle></did><scopecontent id="aspace_c65f412a45e4a0160ea515d054cb9b9d"><head>Scope and Contents note</head><p>This series contains materials related to The Weiss &amp; Klau Co.'s status as a corporation, including board minutes, resolutions, stock certificate books, and other materials. Also included are the general correspondence of the company, materials related to trademarks, and records retention schedules. </p><p>Materials related to the distribution of Weiss &amp; Klau stock in Box 2, Folder 3 are restricted until 2043, 75 years from the date of their creation.</p></scopecontent><c id="aspace_ref17_40x" level="otherlevel" otherlevel="unspecified"><did><unittitle>Corporate Documents and Agreements</unittitle><unitdate>1896-1908</unitdate><container id="aspace_2684e54d8dfd8b746d66a7631caf8f3c" label="Mixed Materials [10170000022696]" type="Offsite-Box">1</container><container parent="aspace_2684e54d8dfd8b746d66a7631caf8f3c" type="Folder">1</container></did></c><c id="aspace_ref18_iea" level="otherlevel" otherlevel="unspecified"><did><unittitle>Board Minutes</unittitle><unitdate>1898-1910</unitdate><container id="aspace_a13d6d370d840db098a804add58e1d37" label="Mixed Materials [10170000022696]" type="Offsite-Box">1</container><container parent="aspace_a13d6d370d840db098a804add58e1d37" type="Folder">2</container></did></c><c id="aspace_ref19_j2e" level="otherlevel" otherlevel="unspecified"><did><unittitle>Board Minutes</unittitle><unitdate>1966-1967</unitdate><container id="aspace_240f3c9071010aca7ac08d22f921de2a" label="Mixed Materials [10170000022696]" type="Offsite-Box">1</container><container parent="aspace_240f3c9071010aca7ac08d22f921de2a" type="Folder">3</container></did></c><c id="aspace_ref20_skl" level="otherlevel" otherlevel="unspecified"><did><unittitle>Board Minutes</unittitle><unitdate>1968</unitdate><container id="aspace_0b10139c209ef8684a71d41ffbfcd384" label="Mixed Materials [10170000022696]" type="Offsite-Box">1</container><container parent="aspace_0b10139c209ef8684a71d41ffbfcd384" type="Folder">4</container></did></c><c id="aspace_ref21_72v" level="otherlevel" otherlevel="unspecified"><did><unittitle>Corporate Resolution</unittitle><unitdate>1943</unitdate><container id="aspace_272cff924365c9f8110533f7881cafad" label="Mixed Materials [10170000022696]" type="Offsite-Box">1</container><container parent="aspace_272cff924365c9f8110533f7881cafad" type="Folder">5</container></did></c><c id="aspace_ref22_g8b" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate>1898-1947</unitdate><container id="aspace_9b289440472e6f758917405d91409c11" label="Mixed Materials [10170000022696]" type="Offsite-Box">1</container><container parent="aspace_9b289440472e6f758917405d91409c11" type="Folder">6</container></did></c><c id="aspace_ref23_x01" level="otherlevel" otherlevel="unspecified"><did><unittitle>Corporate and Financial Summaries--All Companies</unittitle><unitdate>1923-1968</unitdate><container id="aspace_f4d3a243f809c3fc30e2f7cf33db95c7" label="Mixed Materials [10170000022696]" type="Offsite-Box">1</container><container parent="aspace_f4d3a243f809c3fc30e2f7cf33db95c7" type="Folder">7</container></did></c><c id="aspace_ref24_1gx" level="otherlevel" otherlevel="unspecified"><did><unittitle>Stock Certificate Book</unittitle><unitdate>1947-1959</unitdate><container id="aspace_561dd05dc89da75051e5ca50f09f02ce" label="Mixed Materials [10170000022696]" type="Offsite-Box">1</container><container parent="aspace_561dd05dc89da75051e5ca50f09f02ce" type="Folder">8</container></did></c><c id="aspace_ref25_lpn" level="otherlevel" otherlevel="unspecified"><did><unittitle>Stock Certificate Book</unittitle><unitdate>1959-1968</unitdate><container id="aspace_0328cfd8aede2edde894976a38e9e702" label="Mixed Materials [10170000022696]" type="Offsite-Box">1</container><container parent="aspace_0328cfd8aede2edde894976a38e9e702" type="Folder">9</container></did></c><c id="aspace_ref26_p5g" level="otherlevel" otherlevel="unspecified"><did><unittitle>Bond Registers</unittitle><unitdate>1963</unitdate><container id="aspace_47ae837af1c095120b75e4c900d52170" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_47ae837af1c095120b75e4c900d52170" type="Folder">1</container></did></c><c id="aspace_ref27_xk3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Stock Valuation</unittitle><unitdate>1962</unitdate><container id="aspace_b12729c82b231ea2736ff229515aaa23" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_b12729c82b231ea2736ff229515aaa23" type="Folder">2</container></did></c><c id="aspace_ref28_k9n" level="otherlevel" otherlevel="unspecified"><did><unittitle>Distribution of W &amp; K Stock (RESTRICTED)</unittitle><unitdate>1962-1968</unitdate><container id="aspace_7b27d44887418e79aefaed1cf0069a49" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_7b27d44887418e79aefaed1cf0069a49" type="Folder">3</container></did></c><c id="aspace_ref29_c07" level="otherlevel" otherlevel="unspecified"><did><unittitle>Redemption of W &amp; K Stock</unittitle><unitdate>1965</unitdate><container id="aspace_7f2cfe5ef8e35bc2260ce50a5bcda9a7" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_7f2cfe5ef8e35bc2260ce50a5bcda9a7" type="Folder">4</container></did></c><c id="aspace_ref30_ckp" level="otherlevel" otherlevel="unspecified"><did><unittitle>SANITAS Trademark</unittitle><unitdate>1965-1966</unitdate><container id="aspace_e814278fd42ba87181c40981197d7d35" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_e814278fd42ba87181c40981197d7d35" type="Folder">5</container></did></c><c id="aspace_ref31_ha0" level="otherlevel" otherlevel="unspecified"><did><unittitle>Certificates of Incorporation and Merger--Napaul Corporation</unittitle><container id="aspace_f9947ac1c566ccce2a1872404b7403af" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_f9947ac1c566ccce2a1872404b7403af" type="Folder">6</container></did></c><c id="aspace_ref32_yly" level="otherlevel" otherlevel="unspecified"><did><unittitle>Napaul Corporation--By-Laws, Certificate of Merger</unittitle><unitdate>1962-1963</unitdate><container id="aspace_d45ddee661e1c962e7c59189da072db4" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_d45ddee661e1c962e7c59189da072db4" type="Folder">7</container></did></c><c id="aspace_ref33_6z6" level="otherlevel" otherlevel="unspecified"><did><unittitle>Summons</unittitle><unitdate>1968</unitdate><container id="aspace_bb876f12986d1bd8aa278598e9921852" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_bb876f12986d1bd8aa278598e9921852" type="Folder">8</container></did></c><c id="aspace_ref34_qts" level="otherlevel" otherlevel="unspecified"><did><unittitle>Records Retention Schedule</unittitle><unitdate>1962-1966</unitdate><container id="aspace_2dce4ba5d03661ef1d18fe04842306a9" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_2dce4ba5d03661ef1d18fe04842306a9" type="Folder">9</container></did></c><c id="aspace_ref35_a68" level="otherlevel" otherlevel="unspecified"><did><unittitle>List of Document Locations</unittitle><unitdate>n.d.</unitdate><container id="aspace_67f12faf7fed3e0a0cc5d98715414f19" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_67f12faf7fed3e0a0cc5d98715414f19" type="Folder">10</container></did></c></c><c id="aspace_ref37_kyh" level="otherlevel" otherlevel="unspecified"><did><unittitle>Series II: Financial Documents, 1902-1969</unittitle></did><scopecontent id="aspace_399f94daa321bf9017eba3a115ab9f47"><head>Scope and Contents note</head><p>This series contains financial documents, including inventory records, balance sheets, account books, investment reports, sales figures, and tax returns of The Weiss &amp; Klau Co., its related companies, and its principal investors.</p></scopecontent><c id="aspace_ref38_oj9" level="otherlevel" otherlevel="unspecified"><did><unittitle>Inventory Record</unittitle><unitdate>1903-1914</unitdate><container id="aspace_c071a5a1b419864a1d8aadf70c71eb46" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_c071a5a1b419864a1d8aadf70c71eb46" type="Folder">11</container></did></c><c id="aspace_ref39_t6d" level="otherlevel" otherlevel="unspecified"><did><unittitle>Inventory</unittitle><unitdate>1925</unitdate><container id="aspace_7fdf3d849beebb5da71469f4cb04eaa2" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_7fdf3d849beebb5da71469f4cb04eaa2" type="Folder">12</container></did></c><c id="aspace_ref40_8vc" level="otherlevel" otherlevel="unspecified"><did><unittitle>Check and Receipt</unittitle><unitdate>1902-1919</unitdate><container id="aspace_ce2e0ca6cbcd042594fb9d94ce200a7c" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_ce2e0ca6cbcd042594fb9d94ce200a7c" type="Folder">13</container></did></c><c id="aspace_ref41_6fx" level="otherlevel" otherlevel="unspecified"><did><unittitle>Balance Sheet</unittitle><unitdate>1922</unitdate><container id="aspace_f8e4a46513e1c4f2d9ddd4b7e36ef7bf" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_f8e4a46513e1c4f2d9ddd4b7e36ef7bf" type="Folder">14</container></did></c><c id="aspace_ref42_wv9" level="otherlevel" otherlevel="unspecified"><did><unittitle>Balance Sheet</unittitle><unitdate>1955-1965</unitdate><container id="aspace_14d1831649a4b5160a73a07b9dd975b3" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_14d1831649a4b5160a73a07b9dd975b3" type="Folder">15</container></did></c><c id="aspace_ref43_q7p" level="otherlevel" otherlevel="unspecified"><did><unittitle>Consolidation of Balance Sheets and Income Accounts</unittitle><unitdate>1955-1965</unitdate><container id="aspace_e5171a786edf7d8a0510d8f2518b3da8" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_e5171a786edf7d8a0510d8f2518b3da8" type="Folder">16</container></did></c><c id="aspace_ref44_ueb" level="otherlevel" otherlevel="unspecified"><did><unittitle>Account Book</unittitle><unitdate>1966</unitdate><container id="aspace_d7293afab2e222ed21aa1bd4b15ea3e0" label="Mixed Materials [10170000022697]" type="Offsite-Box">2</container><container parent="aspace_d7293afab2e222ed21aa1bd4b15ea3e0" type="Folder">17</container></did></c><c id="aspace_ref45_ynr" level="otherlevel" otherlevel="unspecified"><did><unittitle>Account Book</unittitle><unitdate>1967</unitdate><container id="aspace_10c40116b8ad8a6814bcc241c778667a" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_10c40116b8ad8a6814bcc241c778667a" type="Folder">1</container></did></c><c id="aspace_ref46_o5k" level="otherlevel" otherlevel="unspecified"><did><unittitle>Account Book</unittitle><unitdate>1968</unitdate><container id="aspace_eae0c84407507a24c3d6fc4e9fe03aa1" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_eae0c84407507a24c3d6fc4e9fe03aa1" type="Folder">2</container></did></c><c id="aspace_ref47_0a3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Profit and Loss Accounts</unittitle><unitdate>1956-1969</unitdate><container id="aspace_84d0d42bc616aff187538769a050f27c" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_84d0d42bc616aff187538769a050f27c" type="Folder">3</container></did></c><c id="aspace_ref48_11w" level="otherlevel" otherlevel="unspecified"><did><unittitle>Report on Financial Statements</unittitle><unitdate>1965-1968</unitdate><container id="aspace_a9b435055c18d920d40604e5224fe850" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_a9b435055c18d920d40604e5224fe850" type="Folder">4</container></did></c><c id="aspace_ref49_sm8" level="otherlevel" otherlevel="unspecified"><did><unittitle>Projections</unittitle><unitdate>1966</unitdate><container id="aspace_27afd909eb8dbfa08fe1d416b00c6ab4" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_27afd909eb8dbfa08fe1d416b00c6ab4" type="Folder">5</container></did></c><c id="aspace_ref50_abo" level="otherlevel" otherlevel="unspecified"><did><unittitle>Projected Statements of Income</unittitle><unitdate>1966</unitdate><container id="aspace_1bb97484d5576145c353482cc28e43e5" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_1bb97484d5576145c353482cc28e43e5" type="Folder">6</container></did></c><c id="aspace_ref51_rg4" level="otherlevel" otherlevel="unspecified"><did><unittitle>Financial Records</unittitle><unitdate>1936-1954</unitdate><container id="aspace_c9fac001c4966aaa18f5e9c0fb01ccaa" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_c9fac001c4966aaa18f5e9c0fb01ccaa" type="Folder">7</container></did></c><c id="aspace_ref52_luq" level="otherlevel" otherlevel="unspecified"><did><unittitle>Financial Records</unittitle><unitdate>1956-1965</unitdate><container id="aspace_72e28532b230a9729d18edb326d9a2ca" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_72e28532b230a9729d18edb326d9a2ca" type="Folder">8</container></did></c><c id="aspace_ref53_8hk" level="otherlevel" otherlevel="unspecified"><did><unittitle>Financial Records</unittitle><unitdate>1958-1964</unitdate><container id="aspace_e05270e49ca76f1c36b7c900802fadfc" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_e05270e49ca76f1c36b7c900802fadfc" type="Folder">9</container></did></c><c id="aspace_ref54_427" level="otherlevel" otherlevel="unspecified"><did><unittitle>Financial Records</unittitle><unitdate>1965</unitdate><container id="aspace_bbb65256111dbc9ba7a8f6794c6bcac5" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_bbb65256111dbc9ba7a8f6794c6bcac5" type="Folder">10</container></did></c><c id="aspace_ref55_ebo" level="otherlevel" otherlevel="unspecified"><did><unittitle>Financial Records</unittitle><unitdate>1966</unitdate><container id="aspace_16a92aa95d9ad3a64c66ee2cca389a74" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_16a92aa95d9ad3a64c66ee2cca389a74" type="Folder">11</container></did></c><c id="aspace_ref56_nkr" level="otherlevel" otherlevel="unspecified"><did><unittitle>Financial Records</unittitle><unitdate>1967</unitdate><container id="aspace_d486edd64311a9a3ede2693c28a2c692" label="Mixed Materials [10170000022698]" type="Offsite-Box">3</container><container parent="aspace_d486edd64311a9a3ede2693c28a2c692" type="Folder">12</container></did></c><c id="aspace_ref57_4q9" level="otherlevel" otherlevel="unspecified"><did><unittitle>Consolidated Net Assets of All Companies</unittitle><unitdate>1948-1963</unitdate><container id="aspace_93403b7eb64e42c99583e6262ef2ce36" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_93403b7eb64e42c99583e6262ef2ce36" type="Folder">1</container></did></c><c id="aspace_ref58_tm1" level="otherlevel" otherlevel="unspecified"><did><unittitle>Assets of Companies and Persons</unittitle><unitdate>1955-1960</unitdate><container id="aspace_9eee07101fb604a903be3b40003c3250" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_9eee07101fb604a903be3b40003c3250" type="Folder">2</container></did></c><c id="aspace_ref59_iwp" level="otherlevel" otherlevel="unspecified"><did><unittitle>Schedule of Investments</unittitle><unitdate>1922-1923</unitdate><container id="aspace_2c7ff857de19b65a12c63942900768b4" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_2c7ff857de19b65a12c63942900768b4" type="Folder">3</container></did></c><c id="aspace_ref60_kun" level="otherlevel" otherlevel="unspecified"><did><unittitle>Investments</unittitle><unitdate>1967</unitdate><container id="aspace_748159c680eca184068fbba43186378c" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_748159c680eca184068fbba43186378c" type="Folder">4</container></did></c><c id="aspace_ref61_ryh" level="otherlevel" otherlevel="unspecified"><did><unittitle>FAB Department Records</unittitle><unitdate>1951-1963</unitdate><container id="aspace_d79114c6991774068b59a240b62944c3" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_d79114c6991774068b59a240b62944c3" type="Folder">5</container></did></c><c id="aspace_ref62_it5" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sales Binder</unittitle><unitdate>1964-1966</unitdate><container id="aspace_8497110b34b9879afaad0b4dd66a7af6" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_8497110b34b9879afaad0b4dd66a7af6" type="Folder">6</container></did></c><c id="aspace_ref63_3my" level="otherlevel" otherlevel="unspecified"><did><unittitle>Salesmanship Manual</unittitle><unitdate>1946</unitdate><container id="aspace_431cfc29118ca5a546ee247c91d03e8d" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_431cfc29118ca5a546ee247c91d03e8d" type="Folder">7</container></did></c><c id="aspace_ref64_bog" level="otherlevel" otherlevel="unspecified"><did><unittitle>Capital Stock Tax Return</unittitle><unitdate>1942-1945</unitdate><container id="aspace_b80fed87399d9220b25fd66158a7e682" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_b80fed87399d9220b25fd66158a7e682" type="Folder">8</container></did></c><c id="aspace_ref65_3w3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Tax Estimates</unittitle><unitdate>1964-1965</unitdate><container id="aspace_b901d162267fa4c9e990403c74f81aba" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_b901d162267fa4c9e990403c74f81aba" type="Folder">9</container></did></c><c id="aspace_ref66_6pg" level="otherlevel" otherlevel="unspecified"><did><unittitle>Tax Materials</unittitle><unitdate>1966-1967</unitdate><container id="aspace_e975570b9677726057e48705bc2a1933" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_e975570b9677726057e48705bc2a1933" type="Folder">10</container></did></c><c id="aspace_ref67_s1w" level="otherlevel" otherlevel="unspecified"><did><unittitle>Audits</unittitle><unitdate>1964-1966</unitdate><container id="aspace_d1c2e6d83d4c701b986dd142e55e57f0" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_d1c2e6d83d4c701b986dd142e55e57f0" type="Folder">11</container></did></c></c><c id="aspace_ref69_x3b" level="series"><did><unittitle>Series III: Real Estate Documents, 1912-1981</unittitle></did><scopecontent id="aspace_e25debe80a512bd2859b78d21a7c1d1d"><head>Scope and Contents note</head><p>The Weiss &amp; Klau Co. moved into its home at 462-468 Broadway in 1911. This series contains legal and real estate documents relating to the purchase (and sale) of the building, lease agreements, repairs and construction work. This series also contains information relating to the partial collapse of the building in 1966. There are clippings from several New York City papers; correspondence with employees, attorneys, and actuaries; building violations; and materials relating to insurance and liability claims.</p></scopecontent><c id="aspace_ref70_yub" level="otherlevel" otherlevel="unspecified"><did><unittitle>Real Estate Documents</unittitle><unitdate>1912-1922</unitdate><container id="aspace_e36cd05f719884432b5980ba26904164" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_e36cd05f719884432b5980ba26904164" type="Folder">12</container></did></c><c id="aspace_ref71_so4" level="otherlevel" otherlevel="unspecified"><did><unittitle>Real Estate Documents</unittitle><unitdate>1939-1942</unitdate><container id="aspace_7e69aecc378a4b786b00570a25acaa53" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_7e69aecc378a4b786b00570a25acaa53" type="Folder">13</container></did></c><c id="aspace_ref72_f5r" level="otherlevel" otherlevel="unspecified"><did><unittitle>Real Estate Documents</unittitle><unitdate>1943</unitdate><container id="aspace_159e032ee491edaf783eee5d534cb88e" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_159e032ee491edaf783eee5d534cb88e" type="Folder">14</container></did></c><c id="aspace_ref73_a4l" level="otherlevel" otherlevel="unspecified"><did><unittitle>Real Estate Documents</unittitle><unitdate>1945-1946</unitdate><container id="aspace_0ee98a5fd9edc8e3ac027eca4bc15291" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_0ee98a5fd9edc8e3ac027eca4bc15291" type="Folder">15</container></did></c><c id="aspace_ref74_isc" level="otherlevel" otherlevel="unspecified"><did><unittitle>Real Estate Documents</unittitle><unitdate>1947-1948</unitdate><container id="aspace_2b0d4b1fb923ecfc74ff2d7f409ddca8" label="Mixed Materials [10170000022699]" type="Offsite-Box">4</container><container parent="aspace_2b0d4b1fb923ecfc74ff2d7f409ddca8" type="Folder">16</container></did></c><c id="aspace_ref75_33k" level="otherlevel" otherlevel="unspecified"><did><unittitle>Real Estate Documents</unittitle><unitdate>1949-1958</unitdate><container id="aspace_97788d57d7a802d627a2a9cca70ab9a6" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_97788d57d7a802d627a2a9cca70ab9a6" type="Folder">1</container></did></c><c id="aspace_ref76_vqd" level="otherlevel" otherlevel="unspecified"><did><unittitle>Real Estate Documents</unittitle><unitdate>1960-1970</unitdate><container id="aspace_29face4d1b78228a95eb7e4adbabec57" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_29face4d1b78228a95eb7e4adbabec57" type="Folder">2</container></did></c><c id="aspace_ref77_kp4" level="otherlevel" otherlevel="unspecified"><did><unittitle>Annual Vault Charge</unittitle><unitdate>1962-1967</unitdate><container id="aspace_ef6cb78a7c3441daa4ef175ebc5cbede" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_ef6cb78a7c3441daa4ef175ebc5cbede" type="Folder">3</container></did></c><c id="aspace_ref78_6ko" level="otherlevel" otherlevel="unspecified"><did><unittitle>Notes, Drawings Re: Building Collapse</unittitle><unitdate>1966</unitdate><container id="aspace_5f0f101391bc1512f62e50dce175f57e" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_5f0f101391bc1512f62e50dce175f57e" type="Folder">4</container></did></c><c id="aspace_ref79_q7d" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sale of Building--Correspondence, Notes, Clippings</unittitle><unitdate>1966, 1981</unitdate><container id="aspace_c23382732bd5c963b8a1315e2b8350a4" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_c23382732bd5c963b8a1315e2b8350a4" type="Folder">5</container></did></c><c id="aspace_ref80_gcp" level="otherlevel" otherlevel="unspecified"><did><unittitle>Building Violations</unittitle><unitdate>1966</unitdate><container id="aspace_080f492f682fb17153eee1b424a8c159" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_080f492f682fb17153eee1b424a8c159" type="Folder">6</container></did></c><c id="aspace_ref81_1k1" level="otherlevel" otherlevel="unspecified"><did><unittitle>Lists of Injured Employees</unittitle><unitdate>1966</unitdate><container id="aspace_fb1d380c7597cdb7e7d75238250ac07c" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_fb1d380c7597cdb7e7d75238250ac07c" type="Folder">7</container></did></c><c id="aspace_ref82_tt3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Insurance Claims, Correspondence, Notes</unittitle><unitdate>1966</unitdate><container id="aspace_528ff6b3a50aa93a8bfc57dbb3560db0" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_528ff6b3a50aa93a8bfc57dbb3560db0" type="Folder">8</container></did></c><c id="aspace_ref83_fpw" level="otherlevel" otherlevel="unspecified"><did><unittitle>Lawsuit--Legal Documents, Correspondence, Notes</unittitle><unitdate>1966-1967</unitdate><container id="aspace_09a9eb861f3521094ba8c928bd39ffa0" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_09a9eb861f3521094ba8c928bd39ffa0" type="Folder">9</container></did></c><c id="aspace_ref84_t12" level="otherlevel" otherlevel="unspecified"><did><unittitle>Newspaper Clippings--Building Collapse</unittitle><unitdate>1966</unitdate><container id="aspace_5d9b857f4227695448d9061222d259eb" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_5d9b857f4227695448d9061222d259eb" type="Folder">10</container></did></c><c id="aspace_ref85_h17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Newspaper Clippings--Sale of Business</unittitle><unitdate>1966</unitdate><container id="aspace_3f7c1a2f0600ba08c698bab29832f8f1" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_3f7c1a2f0600ba08c698bab29832f8f1" type="Folder">11</container></did></c><c id="aspace_ref86_mkp" level="otherlevel" otherlevel="unspecified"><did><unittitle>Registration of Insured Boiler</unittitle><unitdate>1968</unitdate><container id="aspace_f6605d5a6fd174650ffa3d9b30b945a6" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_f6605d5a6fd174650ffa3d9b30b945a6" type="Folder">12</container></did></c></c><c id="aspace_ref88_u3c" level="series"><did><unittitle>Series IV: Personnel Documents, 1936-1981</unittitle></did><scopecontent id="aspace_9b6f3c21081c377e0489d15d2c906c94"><head>Scope and Contents note</head><p>This series contains the personnel records of Weiss &amp; Klau employees, as well as extensive materials relating to the pension plan created for employees following the building collapse in 1966.</p><p>The personnel records contained in Box 5, Folders 13 and 14, are restricted until 2042, 75 years from the last date of their creation.</p></scopecontent><c id="aspace_ref89_88y" level="otherlevel" otherlevel="unspecified"><did><unittitle>Personnel Records (RESTRICTED)</unittitle><unitdate>1939-1967</unitdate><container id="aspace_31926a9cce0657b81d313245d8845db8" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_31926a9cce0657b81d313245d8845db8" type="Folder">13</container></did></c><c id="aspace_ref90_hv6" level="otherlevel" otherlevel="unspecified"><did><unittitle>Personnel Records (RESTRICTED)</unittitle><unitdate>1939-1967</unitdate><container id="aspace_a37e4d210250c8dd8b93fe221af0e6fc" label="Mixed Materials [10170000022700]" type="Offsite-Box">5</container><container parent="aspace_a37e4d210250c8dd8b93fe221af0e6fc" type="Folder">14</container></did></c><c id="aspace_ref91_ulq" level="otherlevel" otherlevel="unspecified"><did><unittitle>Permit to Pay Employees by Check</unittitle><unitdate>1936, 1963</unitdate><container id="aspace_7dfa06f8fde44f19752d21271410857b" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_7dfa06f8fde44f19752d21271410857b" type="Folder">1</container></did></c><c id="aspace_ref92_elk" level="otherlevel" otherlevel="unspecified"><did><unittitle>Attendance Record</unittitle><unitdate>1936</unitdate><container id="aspace_227e0fb349f01ca436a3691ea7ec9b01" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_227e0fb349f01ca436a3691ea7ec9b01" type="Folder">2</container></did></c><c id="aspace_ref93_em2" level="otherlevel" otherlevel="unspecified"><did><unittitle>Calculation of Bonuses</unittitle><unitdate>1946</unitdate><container id="aspace_a56f8b56f566ec9a70f4cfa71f7ef35a" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_a56f8b56f566ec9a70f4cfa71f7ef35a" type="Folder">3</container></did></c><c id="aspace_ref94_gqq" level="otherlevel" otherlevel="unspecified"><did><unittitle>Proposed Compensation Plan</unittitle><unitdate>1948</unitdate><container id="aspace_c3e2b1b5c26fa5d746c020cd376a1217" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_c3e2b1b5c26fa5d746c020cd376a1217" type="Folder">4</container></did></c><c id="aspace_ref95_c07" level="otherlevel" otherlevel="unspecified"><did><unittitle>Executive Compensation</unittitle><unitdate>1955-1968</unitdate><container id="aspace_0a28965776461a1d1732526976c7652c" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_0a28965776461a1d1732526976c7652c" type="Folder">5</container></did></c><c id="aspace_ref96_ne5" level="otherlevel" otherlevel="unspecified"><did><unittitle>Profit-Sharing Plan</unittitle><unitdate>1958-1965</unitdate><container id="aspace_32113bfdda7fbbea8c4b5e8f560f46d1" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_32113bfdda7fbbea8c4b5e8f560f46d1" type="Folder">6</container></did></c><c id="aspace_ref97_ucg" level="otherlevel" otherlevel="unspecified"><did><unittitle>Harry A. Propp--Correspondence, Notes</unittitle><unitdate>1944-1966, n.d.</unitdate><container id="aspace_2788be65033299090329c69feb6618ca" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_2788be65033299090329c69feb6618ca" type="Folder">7</container></did></c><c id="aspace_ref98_ckl" level="otherlevel" otherlevel="unspecified"><did><unittitle>Watchmen--Schedules, Notes</unittitle><unitdate>1966</unitdate><container id="aspace_fffe765cded780668ec96864239dd6b0" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_fffe765cded780668ec96864239dd6b0" type="Folder">8</container></did></c><c id="aspace_ref99_bz8" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sales and Executive Payroll</unittitle><unitdate>1967-1968</unitdate><container id="aspace_8626a71454e465c694fdd50dbaae7b49" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_8626a71454e465c694fdd50dbaae7b49" type="Folder">9</container></did></c><c id="aspace_ref100_vpy" level="otherlevel" otherlevel="unspecified"><did><unittitle>Employment of Ira L. Oppenheimer</unittitle><unitdate>1962</unitdate><container id="aspace_a718afeaa8937f6611e743e21585ea71" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_a718afeaa8937f6611e743e21585ea71" type="Folder">10</container></did></c><c id="aspace_ref101_1e8" level="otherlevel" otherlevel="unspecified"><did><unittitle>Termination of Ira L. Oppenheimer</unittitle><unitdate>1966</unitdate><container id="aspace_9dcfd52b1f63732ef010b4e6a4356982" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_9dcfd52b1f63732ef010b4e6a4356982" type="Folder">11</container></did></c><c id="aspace_ref102_qq8" level="otherlevel" otherlevel="unspecified"><did><unittitle>Terminations--Letters and Notes</unittitle><unitdate>1966</unitdate><container id="aspace_37d7cc92a0698cf1ed3e2b8d24297058" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_37d7cc92a0698cf1ed3e2b8d24297058" type="Folder">12</container></did></c><c id="aspace_ref103_dkx" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pension and Emplopyee Benefits Plans</unittitle><unitdate>1962-1963</unitdate><container id="aspace_7b7b26f8615eef0708707b4d52fa9b3e" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_7b7b26f8615eef0708707b4d52fa9b3e" type="Folder">13</container></did></c><c id="aspace_ref104_fpx" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pension Plan--Deferred Compensation Agreements</unittitle><unitdate>1962-1966</unitdate><container id="aspace_36ec84ab50160dfbda1d1ddee4606254" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_36ec84ab50160dfbda1d1ddee4606254" type="Folder">14</container></did></c><c id="aspace_ref105_gi0" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pension Plan--Notes, Statistical Data</unittitle><unitdate>1963-1966</unitdate><container id="aspace_ba4897e63bc1b5ceca93a3a0559b94ab" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_ba4897e63bc1b5ceca93a3a0559b94ab" type="Folder">15</container></did></c><c id="aspace_ref106_vjm" level="otherlevel" otherlevel="unspecified"><did><unittitle>Group Pension Contract</unittitle><unitdate>1966-1967</unitdate><container id="aspace_cfe9d13bae51d39c384d36eacf84852d" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_cfe9d13bae51d39c384d36eacf84852d" type="Folder">16</container></did></c><c id="aspace_ref107_6se" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pension Plan--Request for Determination</unittitle><unitdate>1967-1968</unitdate><container id="aspace_bae83392a90916e428cbb910cf6c3845" label="Mixed Materials [10170000022701]" type="Offsite-Box">6</container><container parent="aspace_bae83392a90916e428cbb910cf6c3845" type="Folder">17</container></did></c><c id="aspace_ref108_ujy" level="otherlevel" otherlevel="unspecified"><did><unittitle>Request for Determination</unittitle><unitdate>1968</unitdate><container id="aspace_497905bd1d21fe09116c8e4125f765ee" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_497905bd1d21fe09116c8e4125f765ee" type="Folder">1</container></did></c><c id="aspace_ref109_ami" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pension Plan--Notes</unittitle><unitdate>1966-1968</unitdate><container id="aspace_ac83d5f7e1f858a1846d1c4d1fbd6bee" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_ac83d5f7e1f858a1846d1c4d1fbd6bee" type="Folder">2</container></did></c><c id="aspace_ref110_6x1" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pension Plan--Correspondence with Employees</unittitle><unitdate>1966</unitdate><container id="aspace_dc769d2c1d6826b7026d8f993da3f34a" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_dc769d2c1d6826b7026d8f993da3f34a" type="Folder">3</container></did></c><c id="aspace_ref111_jbv" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pension Plan--Correspondence with Attorneys and Actuaries</unittitle><unitdate>1966-1967</unitdate><container id="aspace_9a918a7f9ddbf3a15a9cf74f3b88ed64" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_9a918a7f9ddbf3a15a9cf74f3b88ed64" type="Folder">4</container></did></c><c id="aspace_ref112_hr7" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pension Plan--Correspondence with Attorneys and Actuaries</unittitle><unitdate>1968-1972</unitdate><container id="aspace_637ee7fead5db00e8d557ad02ea990cb" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_637ee7fead5db00e8d557ad02ea990cb" type="Folder">5</container></did></c><c id="aspace_ref113_g5p" level="otherlevel" otherlevel="unspecified"><did><unittitle>Informal Pension Plan</unittitle><unitdate>1968</unitdate><container id="aspace_fa42406f8950342fa52526fdac8f1a8e" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_fa42406f8950342fa52526fdac8f1a8e" type="Folder">6</container></did></c><c id="aspace_ref114_279" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pension Plan--Correspondence re: Disputed Claim</unittitle><unitdate>1970</unitdate><container id="aspace_3603ae7de0799788d2108904f7a30bd1" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_3603ae7de0799788d2108904f7a30bd1" type="Folder">7</container></did></c><c id="aspace_ref115_enl" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pension Plan--Periodic Payment File Listing</unittitle><unitdate>1981</unitdate><container id="aspace_b8a2db173ec743aa5060af47ca9f2edb" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_b8a2db173ec743aa5060af47ca9f2edb" type="Folder">8</container></did></c></c><c id="aspace_ref117_7xn" level="series"><did><unittitle>Series V: Standard Coated Products, 1922-1971, n.d.</unittitle></did><scopecontent id="aspace_69bd894adda38f0ce1eb71134ff8aa13"><head>Scope and Contents note</head><p>Standard Coated Products, Inc. (known until 1937 as Standard Textile Products, Inc.) was Weiss &amp; Klau's largest supplier of oilcloth and other textile products. Standard Coated was purchased by Weiss &amp; Klau from Interchemical Corporation in 1953. This series contains correspondence, financial records, marketing reports, legal documents, clippings, and other materials relating to Standard Coated dating from both before and after its acquisition by Weiss &amp; Klau.</p></scopecontent><c id="aspace_ref118_0u5" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Textile Products--Corporate Documents, Correspondence</unittitle><unitdate>1922-1934</unitdate><container id="aspace_5d2ccf300a69f04b63873c2696822931" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_5d2ccf300a69f04b63873c2696822931" type="Folder">9</container></did></c><c id="aspace_ref119_9vn" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Textile Products--Clippings</unittitle><unitdate>1925-1937</unitdate><container id="aspace_aaa4c5b273f6f3d9d56f160e61fde7c0" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_aaa4c5b273f6f3d9d56f160e61fde7c0" type="Folder">10</container></did></c><c id="aspace_ref120_d4v" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Textile (Coated) Products--Corporate Documents, Correspondence</unittitle><unitdate>1935-1937</unitdate><container id="aspace_d1eac08b0d2bf64de6de758f1e036e80" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_d1eac08b0d2bf64de6de758f1e036e80" type="Folder">11</container></did></c><c id="aspace_ref121_lbw" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Coated Products--Corporate Documents, Correspondence</unittitle><unitdate>1938-1944</unitdate><container id="aspace_efdafed4ef42380e881994531fc1922d" label="Mixed Materials [10170000022702]" type="Offsite-Box">7</container><container parent="aspace_efdafed4ef42380e881994531fc1922d" type="Folder">12</container></did></c><c id="aspace_ref122_em4" level="otherlevel" otherlevel="unspecified"><did><unittitle>Agreement with Interchemical Corp.</unittitle><unitdate>1953</unitdate><container id="aspace_9265a5969a07fab67dfe57e4aa2b8013" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_9265a5969a07fab67dfe57e4aa2b8013" type="Folder">1</container></did></c><c id="aspace_ref123_348" level="otherlevel" otherlevel="unspecified"><did><unittitle>Agreement with Interchemical Corp.</unittitle><unitdate>1953</unitdate><container id="aspace_ef814a3e226004760b57552d1df7a177" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_ef814a3e226004760b57552d1df7a177" type="Folder">2</container></did></c><c id="aspace_ref124_o9s" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Coated Products--Corporate and Financial Documents, Correspondence</unittitle><unitdate>1953-1954</unitdate><container id="aspace_59158542387aef65f22a0972aa7e7a39" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_59158542387aef65f22a0972aa7e7a39" type="Folder">3</container></did></c><c id="aspace_ref125_qlo" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Coated Products--Corporate and Financial Documents, Correspondence</unittitle><unitdate>1955, n.d.</unitdate><container id="aspace_fab1288ba47c70a8687718ae67e67b6a" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_fab1288ba47c70a8687718ae67e67b6a" type="Folder">4</container></did></c><c id="aspace_ref126_jun" level="otherlevel" otherlevel="unspecified"><did><unittitle>Loan Documents by Standard Coated Products and Weiss &amp; Klau with New York Trust Company</unittitle><unitdate>1955</unitdate><container id="aspace_956f92198b7124b5214a6481d8feda33" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_956f92198b7124b5214a6481d8feda33" type="Folder">5</container></did></c><c id="aspace_ref127_y0p" level="otherlevel" otherlevel="unspecified"><did><unittitle>Loan Documents by Standard Coated Products and Weiss &amp; Klau with New York Trust Company</unittitle><unitdate>1955</unitdate><container id="aspace_8c1f885fd247199bc943666d0a85d3e7" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_8c1f885fd247199bc943666d0a85d3e7" type="Folder">6</container></did></c><c id="aspace_ref128_b56" level="otherlevel" otherlevel="unspecified"><did><unittitle>Loan Documents by Standard Coated Products and Weiss &amp; Klau with Guaranty Trust Company</unittitle><unitdate>1955</unitdate><container id="aspace_6491d29714c221b8a3a1dfcf195a11ee" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_6491d29714c221b8a3a1dfcf195a11ee" type="Folder">7</container></did></c><c id="aspace_ref129_z8p" level="otherlevel" otherlevel="unspecified"><did><unittitle>Loan Documents by Standard Coated Products and Weiss &amp; Klau with Guaranty Trust Company and New York Trust Company</unittitle><unitdate>1955</unitdate><container id="aspace_0278f85f406fddb66135500a01cdee9b" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_0278f85f406fddb66135500a01cdee9b" type="Folder">8</container></did></c><c id="aspace_ref130_jxs" level="otherlevel" otherlevel="unspecified"><did><unittitle>Loan Documents by Standard Coated Products and Weiss &amp; Klau with Hanover Bank and Renewal with Guaranty Trust Company</unittitle><unitdate>1956</unitdate><container id="aspace_8dfbca9824ea8fadef62a6d734818198" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_8dfbca9824ea8fadef62a6d734818198" type="Folder">9</container></did></c><c id="aspace_ref131_s2q" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Coated Products--Corporate and Financial Documents, Notes</unittitle><unitdate>1956-1971, n.d.</unitdate><container id="aspace_32f3dfc10aa2ee2ea2f604ff5c382982" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_32f3dfc10aa2ee2ea2f604ff5c382982" type="Folder">10</container></did></c><c id="aspace_ref132_0el" level="otherlevel" otherlevel="unspecified"><did><unittitle>Appraisal of Standard Coated Products</unittitle><unitdate>1958</unitdate><container id="aspace_cdf07e62556995083f3896679ae7038c" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_cdf07e62556995083f3896679ae7038c" type="Folder">11</container></did></c><c id="aspace_ref133_hwo" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Coated Products--Financial Statements</unittitle><unitdate>1954-1964</unitdate><container id="aspace_ff1c6c002e9ef88171ea22892ab181c5" label="Mixed Materials [10170000022703]" type="Offsite-Box">8</container><container parent="aspace_ff1c6c002e9ef88171ea22892ab181c5" type="Folder">12</container></did></c><c id="aspace_ref134_x1e" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Coated Products--Financial Records</unittitle><unitdate>1958-1960</unitdate><container id="aspace_9221c9b8e4305e9a8a816820c08e7f01" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_9221c9b8e4305e9a8a816820c08e7f01" type="Folder">1</container></did></c><c id="aspace_ref135_cmq" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Coated Products--Financial Records</unittitle><unitdate>1961-1963</unitdate><container id="aspace_212f9b08a3acdc912a45603f85ff4fc9" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_212f9b08a3acdc912a45603f85ff4fc9" type="Folder">2</container></did></c><c id="aspace_ref136_pk2" level="otherlevel" otherlevel="unspecified"><did><unittitle>Standard Coated Products--Financial Records</unittitle><unitdate>1964-1965</unitdate><container id="aspace_10e0df4dc98b45fa546011dccc09b79c" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_10e0df4dc98b45fa546011dccc09b79c" type="Folder">3</container></did></c><c id="aspace_ref137_oq4" level="otherlevel" otherlevel="unspecified"><did><unittitle>Interchemical Review</unittitle><unitdate>1949</unitdate><container id="aspace_983c24a5dd30580f5208f664eda23a7b" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_983c24a5dd30580f5208f664eda23a7b" type="Folder">4</container></did></c><c id="aspace_ref138_3nm" level="otherlevel" otherlevel="unspecified"><did><unittitle>Market Outlook for Oilcloth</unittitle><unitdate>1949</unitdate><container id="aspace_6b93fa224d4ba476407a78054399cba3" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_6b93fa224d4ba476407a78054399cba3" type="Folder">5</container></did></c><c id="aspace_ref139_le2" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outlook for Coated Products Division, Interchemical Corp.</unittitle><unitdate>1952</unitdate><container id="aspace_998a401f930708e77008891a013f67a4" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_998a401f930708e77008891a013f67a4" type="Folder">6</container></did></c><c id="aspace_ref140_f70" level="otherlevel" otherlevel="unspecified"><did><unittitle>Studies--Combination of Standard Coated Products and Weiss &amp; Klau</unittitle><unitdate>1966</unitdate><container id="aspace_b98f2ff5739abb7069c12b795e08dbc6" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_b98f2ff5739abb7069c12b795e08dbc6" type="Folder">7</container></did></c></c><c id="aspace_ref142_imb" level="series"><did><unittitle>Series VI: Sale and Liquidation, 1890-1973</unittitle></did><scopecontent id="aspace_a08a1d42fa26bf72f5eaba61f4db65a8"><head>Scope and Contents note</head><p>Following the collapse of 462 Broadway, portions of The Weiss &amp; Klau Co. were sold to different companies. This series contains correspondence, notes, legal, and financial documents relating to the purchase of the plastic stock window shade business by Breneman, Inc. in February 1966, the plastic film and tile business by Clopay Corporation in March 1966, and the manufacturing business of Standard Coated Products, Inc. by American Cyanamid Corporation in 1968. It also contains materials relating to the final liquidation of stock and assets of The Weiss &amp; Klau Co. In addition, correspondence, notes, and other materials relating to unsuccessful bids to purchase Weiss &amp; Klau, both before and after the building collapse are found here. In particular, there is a considerable amount of information relating to a possible merger with DeSoto Chemical Coatings. Finally, this series contains Dun &amp; Bradstreet Reports on Weiss &amp; Klau and their competitors.</p></scopecontent><c id="aspace_ref143_32y" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dun &amp; Bradstreet Reports</unittitle><unitdate>1890-1948</unitdate><container id="aspace_ba4ece9b1ab72b122aaa0b6f7b5bd1ce" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_ba4ece9b1ab72b122aaa0b6f7b5bd1ce" type="Folder">8</container></did></c><c id="aspace_ref144_703" level="otherlevel" otherlevel="unspecified"><did><unittitle>Offers to Purchase Business--Correspondence</unittitle><unitdate>1956-1967</unitdate><container id="aspace_3abd9c1e958f95e79f309c2fe1c7040c" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_3abd9c1e958f95e79f309c2fe1c7040c" type="Folder">9</container></did></c><c id="aspace_ref145_kdd" level="otherlevel" otherlevel="unspecified"><did><unittitle>Offers to Purchase Business--Notes, Annual Reports</unittitle><unitdate>1963-1965</unitdate><container id="aspace_0f4d9a187ff2850aca98be6a35aad553" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_0f4d9a187ff2850aca98be6a35aad553" type="Folder">10</container></did></c><c id="aspace_ref146_yam" level="otherlevel" otherlevel="unspecified"><did><unittitle>Proposed Purchase of Ru-Son Products</unittitle><unitdate>1963</unitdate><container id="aspace_b8ce363cc34d42da435cfcc9450226e0" label="Mixed Materials [10170000022704]" type="Offsite-Box">9</container><container parent="aspace_b8ce363cc34d42da435cfcc9450226e0" type="Folder">11</container></did></c><c id="aspace_ref147_iny" level="otherlevel" otherlevel="unspecified"><did><unittitle>Corporate Research Materials--DeSoto Chemical Coatings</unittitle><unitdate>1957-1966</unitdate><container id="aspace_daf044bf6549713c7a40e9335ed1601c" label="Mixed Materials [10170000022705]" type="Offsite-Box">10</container><container parent="aspace_daf044bf6549713c7a40e9335ed1601c" type="Folder">1</container></did></c><c id="aspace_ref148_8er" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, Notes--DeSoto Chemical Coatings</unittitle><unitdate>1957-1966</unitdate><container id="aspace_de2ceb6de74ed014936348ad86ef290a" label="Mixed Materials [10170000022705]" type="Offsite-Box">10</container><container parent="aspace_de2ceb6de74ed014936348ad86ef290a" type="Folder">2</container></did></c><c id="aspace_ref149_b6s" level="otherlevel" otherlevel="unspecified"><did><unittitle>Breneman, Inc.</unittitle><unitdate>1966-1973</unitdate><container id="aspace_9ac11f5981380a98ba783dd3ff284d99" label="Mixed Materials [10170000022705]" type="Offsite-Box">10</container><container parent="aspace_9ac11f5981380a98ba783dd3ff284d99" type="Folder">3</container></did></c><c id="aspace_ref150_az8" level="otherlevel" otherlevel="unspecified"><did><unittitle>Breneman, Clopay, Newell</unittitle><unitdate>1966-1967</unitdate><container id="aspace_1feb23558c6233075b8aa9f268ac23a2" label="Mixed Materials [10170000022705]" type="Offsite-Box">10</container><container parent="aspace_1feb23558c6233075b8aa9f268ac23a2" type="Folder">4</container></did></c><c id="aspace_ref151_jua" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clopay Corporation</unittitle><unitdate>1956-1968</unitdate><container id="aspace_2cad2d8871c33e67679db6e103812e73" label="Mixed Materials [10170000022705]" type="Offsite-Box">10</container><container parent="aspace_2cad2d8871c33e67679db6e103812e73" type="Folder">5</container></did></c><c id="aspace_ref152_n07" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sale of Assets to Clopay Corporation</unittitle><unitdate>1966</unitdate><container id="aspace_9e3bf4261d2347d2da00fd83c528d8b9" label="Mixed Materials [10170000022705]" type="Offsite-Box">10</container><container parent="aspace_9e3bf4261d2347d2da00fd83c528d8b9" type="Folder">6</container></did></c><c id="aspace_ref153_aqn" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sale of Industrial Fabrics Division</unittitle><unitdate>1966</unitdate><container id="aspace_042121a88e6008bd51fdbf5a7d0c9779" label="Mixed Materials [10170000022705]" type="Offsite-Box">10</container><container parent="aspace_042121a88e6008bd51fdbf5a7d0c9779" type="Folder">7</container></did></c><c id="aspace_ref154_owg" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sale of Industrial Fabrics Division</unittitle><unitdate>1966</unitdate><container id="aspace_5a1ca4f3f85eef3a7d29039344c0c0c7" label="Mixed Materials [10170000022705]" type="Offsite-Box">10</container><container parent="aspace_5a1ca4f3f85eef3a7d29039344c0c0c7" type="Folder">8</container></did></c><c id="aspace_ref155_d4v" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sale of Industrial Fabrics Division</unittitle><unitdate>1966-1967</unitdate><container id="aspace_41a296ae15f8206b127ec4cb1b57979c" label="Mixed Materials [10170000022705]" type="Offsite-Box">10</container><container parent="aspace_41a296ae15f8206b127ec4cb1b57979c" type="Folder">9</container></did></c><c id="aspace_ref156_ysq" level="otherlevel" otherlevel="unspecified"><did><unittitle>Ameican Cyanamid--Annual Reports, Advertising</unittitle><unitdate>1964-1968</unitdate><container id="aspace_d6d660801524b00d529d8b42927e0aef" label="Mixed Materials [10170000022705]" type="Offsite-Box">10</container><container parent="aspace_d6d660801524b00d529d8b42927e0aef" type="Folder">10</container></did></c><c id="aspace_ref157_gyg" level="otherlevel" otherlevel="unspecified"><did><unittitle>American Cyanamid--Correspondence, Notes</unittitle><unitdate>1965-1971</unitdate><container id="aspace_02669ba6c94b5f8ecf2de3a4578f4bd6" label="Mixed Materials [10170000022706]" type="Offsite-Box">11</container><container parent="aspace_02669ba6c94b5f8ecf2de3a4578f4bd6" type="Folder">1</container></did></c><c id="aspace_ref158_nma" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sale of Assets to American Cyanamid Company</unittitle><unitdate>1968</unitdate><container id="aspace_7a3276b1d4fa347d6fde4bc4a9413add" label="Mixed Materials [10170000022706]" type="Offsite-Box">11</container><container parent="aspace_7a3276b1d4fa347d6fde4bc4a9413add" type="Folder">2</container></did></c><c id="aspace_ref159_7pb" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sale to American Cyanamid--Marked Copies of Agreement</unittitle><unitdate>1968</unitdate><container id="aspace_0ea05514f6c27cb298e9db239490c0a0" label="Mixed Materials [10170000022706]" type="Offsite-Box">11</container><container parent="aspace_0ea05514f6c27cb298e9db239490c0a0" type="Folder">3</container></did></c><c id="aspace_ref160_ili" level="otherlevel" otherlevel="unspecified"><did><unittitle>462 Broadway Corp.--Board Minutes, Resolution</unittitle><unitdate>1966</unitdate><container id="aspace_61a82d4e5fe43dc398275c06d925cc6b" label="Mixed Materials [10170000022706]" type="Offsite-Box">11</container><container parent="aspace_61a82d4e5fe43dc398275c06d925cc6b" type="Folder">4</container></did></c><c id="aspace_ref161_xsm" level="otherlevel" otherlevel="unspecified"><did><unittitle>Liquidation of 462 Broadway Corp.</unittitle><unitdate>1965-1967</unitdate><container id="aspace_e50db3830fbd44dae2943ddada94343d" label="Mixed Materials [10170000022706]" type="Offsite-Box">11</container><container parent="aspace_e50db3830fbd44dae2943ddada94343d" type="Folder">5</container></did></c><c id="aspace_ref162_jcb" level="otherlevel" otherlevel="unspecified"><did><unittitle>Liquidation</unittitle><unitdate>1967-1968</unitdate><container id="aspace_d2fc959001a8ff87bca7f1f5b1596ac8" label="Mixed Materials [10170000022706]" type="Offsite-Box">11</container><container parent="aspace_d2fc959001a8ff87bca7f1f5b1596ac8" type="Folder">6</container></did></c><c id="aspace_ref163_sfc" level="otherlevel" otherlevel="unspecified"><did><unittitle>Corporate Dissolution</unittitle><unitdate>1968</unitdate><container id="aspace_8d7ce2f1711a6253423f4e75378bae1b" label="Mixed Materials [10170000022706]" type="Offsite-Box">11</container><container parent="aspace_8d7ce2f1711a6253423f4e75378bae1b" type="Folder">7</container></did></c><c id="aspace_ref164_j1s" level="otherlevel" otherlevel="unspecified"><did><unittitle>Liquidation</unittitle><unitdate>1968</unitdate><container id="aspace_03b1e75c1b281e586914b631d2810617" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_03b1e75c1b281e586914b631d2810617" type="Folder">1</container></did></c><c id="aspace_ref165_b5i" level="otherlevel" otherlevel="unspecified"><did><unittitle>Liquidation</unittitle><unitdate>1969</unitdate><container id="aspace_c078ec7578c3e8de35cb57d14fbd20ab" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_c078ec7578c3e8de35cb57d14fbd20ab" type="Folder">2</container></did></c><c id="aspace_ref166_cwn" level="otherlevel" otherlevel="unspecified"><did><unittitle>Liquidation</unittitle><unitdate>1970-1972</unitdate><container id="aspace_07dab40d6d669b3a8251d29b3157c014" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_07dab40d6d669b3a8251d29b3157c014" type="Folder">3</container></did></c><c id="aspace_ref167_7mv" level="otherlevel" otherlevel="unspecified"><did><unittitle>Notes re: Liquidation</unittitle><unitdate>1966-1967</unitdate><container id="aspace_591826c1b3444879f7b9a4074e3e72b9" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_591826c1b3444879f7b9a4074e3e72b9" type="Folder">4</container></did></c><c id="aspace_ref168_6s7" level="otherlevel" otherlevel="unspecified"><did><unittitle>Outline of Will of David Klau</unittitle><unitdate>1957</unitdate><container id="aspace_08674f38e6c36340c163e41c55814ec8" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_08674f38e6c36340c163e41c55814ec8" type="Folder">5</container></did></c></c><c id="aspace_ref170_z87" level="series"><did><unittitle>Series VII: Social Functions and Activities, 1915-1988</unittitle></did><scopecontent id="aspace_cd4ce2f7d8abb2de3ad32dd49574b061"><head>Scope and Contents note</head><p>The Weiss &amp; Klau Co. regularly hosted parties and other events for its employees. This series contains programs from dinners, as well as materials relating to large parties held in honor of the fiftieth and seventy-fifth anniversaries of the company. In addition, there are company newsletters, many of which contain personal information about employees, such as wedding, birth, and death announcements, work-related news, jokes, and cartoons. This series also contains materials relating to two employee social organizations, The Quarter-Century Club and The Old Bunch. Finally, this series contains the personal correspondence of Ira L. Oppenheimer, its last president, with employees, friends, and associates.</p></scopecontent><c id="aspace_ref171_c6g" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dance Programs</unittitle><unitdate>1915-1939</unitdate><container id="aspace_01ac02eefafb4429c060b10882bebb24" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_01ac02eefafb4429c060b10882bebb24" type="Folder">6</container></did></c><c id="aspace_ref172_or0" level="otherlevel" otherlevel="unspecified"><did><unittitle>Fiftieth Anniversary--Speeches, Correspondence</unittitle><unitdate>1936-1937</unitdate><container id="aspace_7e63f5640c59b4214a7f681fa1af3f0d" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_7e63f5640c59b4214a7f681fa1af3f0d" type="Folder">7</container></did></c><c id="aspace_ref173_v6q" level="otherlevel" otherlevel="unspecified"><did><unittitle>Fiftieth Anniversary--Mailing List, Broadside</unittitle><unitdate>1936</unitdate><container id="aspace_b94ffbcda2e81235a87cf5693db3cd89" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_b94ffbcda2e81235a87cf5693db3cd89" type="Folder">8</container></did></c><c id="aspace_ref174_xow" level="otherlevel" otherlevel="unspecified"><did><unittitle>Seventy-Fifth Anniversary--Budget, Invoices, Notes</unittitle><unitdate>1962</unitdate><container id="aspace_f10cfac97ef8f087ce77a7122ab003b2" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_f10cfac97ef8f087ce77a7122ab003b2" type="Folder">9</container></did></c><c id="aspace_ref175_tt0" level="otherlevel" otherlevel="unspecified"><did><unittitle>Employee Newsletter</unittitle><unitdate>1928-1970</unitdate><container id="aspace_5b4f5363d6bcce3bdd07df50adda55e7" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_5b4f5363d6bcce3bdd07df50adda55e7" type="Folder">10</container></did></c><c id="aspace_ref176_9mr" level="otherlevel" otherlevel="unspecified"><did><unittitle>Quarter-Century Club--Membership Lists</unittitle><unitdate>1955-1982</unitdate><container id="aspace_d00d3e5e9eb2ab386db0370176a78691" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_d00d3e5e9eb2ab386db0370176a78691" type="Folder">11</container></did></c><c id="aspace_ref177_tsj" level="otherlevel" otherlevel="unspecified"><did><unittitle>Quarter-Century Club--Announcements</unittitle><unitdate>1968-1971, n.d.</unitdate><container id="aspace_e4cf72f783cc1fdabc3d7c271d21c877" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_e4cf72f783cc1fdabc3d7c271d21c877" type="Folder">12</container></did></c><c id="aspace_ref178_lgd" level="otherlevel" otherlevel="unspecified"><did><unittitle>Quarter-Century Club--Correspondence, Notes</unittitle><unitdate>1968-1982</unitdate><container id="aspace_56ce39a30105b5a18ee91024344297d3" label="Mixed Materials [10170000022707]" type="Offsite-Box">12</container><container parent="aspace_56ce39a30105b5a18ee91024344297d3" type="Folder">13</container></did></c><c id="aspace_ref179_kgy" level="otherlevel" otherlevel="unspecified"><did><unittitle>Quarter-Century Club--Correspondence, Notes</unittitle><unitdate>1983-1988</unitdate><container id="aspace_416e8267034aa2477c043a0695a6f0e7" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_416e8267034aa2477c043a0695a6f0e7" type="Folder">1</container></did></c><c id="aspace_ref180_57c" level="otherlevel" otherlevel="unspecified"><did><unittitle>The Old Bunch</unittitle><unitdate>1968-1971</unitdate><container id="aspace_092a2b2596381a3082c11094f95bbc96" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_092a2b2596381a3082c11094f95bbc96" type="Folder">2</container></did></c><c id="aspace_ref181_cxj" level="otherlevel" otherlevel="unspecified"><did><unittitle>Speeches</unittitle><unitdate>1958-1961, n.d.</unitdate><container id="aspace_c5ea17cb1ea310c72d659d9c27f7ad5e" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_c5ea17cb1ea310c72d659d9c27f7ad5e" type="Folder">3</container></did></c><c id="aspace_ref182_ofy" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clipping</unittitle><unitdate>1961</unitdate><container id="aspace_5f76d1418a943233d7b54dac2082fbb6" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_5f76d1418a943233d7b54dac2082fbb6" type="Folder">4</container></did></c><c id="aspace_ref183_sov" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence of Ira L. Oppenheimer</unittitle><unitdate>1961-1971</unitdate><container id="aspace_3fef5e23bb52898d21c9b887eddb6181" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_3fef5e23bb52898d21c9b887eddb6181" type="Folder">5</container></did></c></c><c id="aspace_ref185_byj" level="series"><did><unittitle>Series VII: Scrapbooks, Photographs, and Ephemera, 1896-1966, n.d.</unittitle></did><scopecontent id="aspace_220455f3fc569c1b0f597570e27b9461"><head>Scope and Contents note</head><p>This series consists primarily of two scrapbooks containing photographs, newsletters, newspaper clippings, certificates, advertisements, correspondence, cartoons, and other materials pertaining to The Weiss &amp; Klau Co., its employees, its related businesses, and the Klau family. Some of these materials appear elsewhere in the collection. Many of the materials date from the early twentieth century. There are a number of group photographs taken at company dinners. Individuals have been identified in several of these photographs. One scrapbook containing oversized materials has been disbound, and the contents have been arranged in folders. The other scrapbook remains in its original condition. In addition, this series contains business-related ephemera, such as announcements and business cards, additional photographs, and a wooden printing block used by the firm of Weiss &amp; Klau Brothers.</p></scopecontent><c id="aspace_ref186_580" level="otherlevel" otherlevel="unspecified"><did><unittitle>Announcements</unittitle><unitdate>1896, 1966</unitdate><container id="aspace_e8a27900634e2ec5b50be39a357948b2" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_e8a27900634e2ec5b50be39a357948b2" type="Folder">6</container></did></c><c id="aspace_ref187_n8s" level="otherlevel" otherlevel="unspecified"><did><unittitle>Business Cards</unittitle><unitdate>n.d.</unitdate><container id="aspace_74f65c10d0c83f8d36e5ce75e377c63d" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_74f65c10d0c83f8d36e5ce75e377c63d" type="Folder">7</container></did></c><c id="aspace_ref188_7kk" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_fd8db2c8ebe5a0d058e7c13041089a5e" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_fd8db2c8ebe5a0d058e7c13041089a5e" type="Folder">8</container></did></c><c id="aspace_ref189_n0q" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_7ea7f7f597e1b2e9ad537cc31da9e689" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_7ea7f7f597e1b2e9ad537cc31da9e689" type="Folder">9</container></did></c><c id="aspace_ref190_dvy" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_68bc0d6c2b391d6e6475549ce3765463" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_68bc0d6c2b391d6e6475549ce3765463" type="Folder">10</container></did></c><c id="aspace_ref191_jj5" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_bb40ab90b37b0148b4e75972a8b2ad25" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_bb40ab90b37b0148b4e75972a8b2ad25" type="Folder">11</container></did></c><c id="aspace_ref192_fxs" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_cdfae49f237c3c230528412d39273938" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_cdfae49f237c3c230528412d39273938" type="Folder">12</container></did></c><c id="aspace_ref193_iro" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_daafcbb0d149dbf2699a54b407d54e77" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_daafcbb0d149dbf2699a54b407d54e77" type="Folder">13</container></did></c><c id="aspace_ref194_0jm" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_3a82b89bf6a46cebd177d5323390fdcf" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_3a82b89bf6a46cebd177d5323390fdcf" type="Folder">14</container></did></c><c id="aspace_ref195_pei" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_89720bd6883c4f2aee84bf485fe258b6" label="Mixed Materials [10170000022708]" type="Offsite-Box">13</container><container parent="aspace_89720bd6883c4f2aee84bf485fe258b6" type="Folder">15</container></did></c><c id="aspace_ref196_zk3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_258a28b44aae294d2572c0c3f456a7b1" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_258a28b44aae294d2572c0c3f456a7b1" type="Folder">1</container></did></c><c id="aspace_ref197_49w" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_cf2ac546128d00b2fce05003c6d7dffd" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_cf2ac546128d00b2fce05003c6d7dffd" type="Folder">2</container></did></c><c id="aspace_ref198_udi" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_36f94c3360f65b7670b34c94661131f3" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_36f94c3360f65b7670b34c94661131f3" type="Folder">3</container></did></c><c id="aspace_ref199_pj3" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_7f6d3669dbc2efca3bc1a5f40e38199b" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_7f6d3669dbc2efca3bc1a5f40e38199b" type="Folder">4</container></did></c><c id="aspace_ref200_c16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_a77fc964a7289404ff02303e16235b1a" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_a77fc964a7289404ff02303e16235b1a" type="Folder">5</container></did></c><c id="aspace_ref201_w73" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_d75da516923c2df796b0a7519b44d329" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_d75da516923c2df796b0a7519b44d329" type="Folder">6</container></did></c><c id="aspace_ref202_1qf" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_d4b115e2a54b66b594aa9d039cbaa530" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_d4b115e2a54b66b594aa9d039cbaa530" type="Folder">7</container></did></c><c id="aspace_ref203_mmg" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_6a73f302f8762636e7452f5f0cf1426d" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_6a73f302f8762636e7452f5f0cf1426d" type="Folder">8</container></did></c><c id="aspace_ref204_eja" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_b9841cd3256413e46d82b862c3d40d15" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_b9841cd3256413e46d82b862c3d40d15" type="Folder">9</container></did></c><c id="aspace_ref205_jp7" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_1f16087c2cb8aa4b865adbde48788f0c" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_1f16087c2cb8aa4b865adbde48788f0c" type="Folder">10</container></did></c><c id="aspace_ref206_efp" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_e3e988d40a6e147c0f518d1eaced2441" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_e3e988d40a6e147c0f518d1eaced2441" type="Folder">11</container></did></c><c id="aspace_ref207_4t0" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_a5e1817cf48c1327aedafccb2472a33a" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_a5e1817cf48c1327aedafccb2472a33a" type="Folder">12</container></did></c><c id="aspace_ref208_sj0" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_25580279c74e861d77a4a60da7b798f4" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_25580279c74e861d77a4a60da7b798f4" type="Folder">13</container></did></c><c id="aspace_ref209_psy" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_2f3700e1f0e610d32409e33bd9771802" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_2f3700e1f0e610d32409e33bd9771802" type="Folder">14</container></did></c><c id="aspace_ref210_ygr" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_8796965e5088f9e863163b3304e2b2ee" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_8796965e5088f9e863163b3304e2b2ee" type="Folder">15</container></did></c><c id="aspace_ref211_nrc" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_3c6f4c4031e2fa882981209f1feba96a" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_3c6f4c4031e2fa882981209f1feba96a" type="Folder">16</container></did></c><c id="aspace_ref212_otf" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_35527efd96d039eea22d8f5a25f3c03e" label="Mixed Materials [10170000022955]" type="Offsite-Box">14</container><container parent="aspace_35527efd96d039eea22d8f5a25f3c03e" type="Folder">17</container></did></c><c id="aspace_ref213_x27" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbook</unittitle><unitdate>n.d.</unitdate><container id="aspace_365e1d01ec4090f6af6dfb2306adb78b" label="Mixed Materials [10170000022957]" type="Offsite-Box">15</container></did></c><c id="aspace_ref214_tja" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs (Copies)</unittitle><unitdate>1924-1926</unitdate><container id="aspace_27f1752895d2d3886dd55c0573ef9ab0" label="Mixed Materials [10170000022709]" type="Offsite-Box">16</container><container parent="aspace_27f1752895d2d3886dd55c0573ef9ab0" type="Folder">1</container></did></c><c id="aspace_ref215_pam" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs, Slides</unittitle><unitdate>n.d.</unitdate><container id="aspace_2641fb2f36c45539c06ed40056687307" label="Mixed Materials [10170000022709]" type="Offsite-Box">16</container><container parent="aspace_2641fb2f36c45539c06ed40056687307" type="Folder">2</container></did></c><c id="aspace_ref216_lbd" level="otherlevel" otherlevel="unspecified"><did><unittitle>Photographs</unittitle><unitdate>1924-1926</unitdate><container id="aspace_7f2788aea3f4a6ecabda483674e07659" label="Mixed Materials [10170000022709]" type="Offsite-Box">16</container></did></c><c id="aspace_ref217_wx1" level="otherlevel" otherlevel="unspecified"><did><unittitle>Wooden Printing Block</unittitle><unitdate>n.d.</unitdate><container id="aspace_0607a8f80b62bdf0819bdbee25b36a85" label="Mixed Materials [10170000022709]" type="Offsite-Box">16</container></did></c></c></dsc>
+</archdesc>
 </ead>
