@@ -46,5 +46,5 @@ workflows:
   version: 2
   deploy:
     jobs:
-      # - deploy-prod
-      - deploy-dev
+      - deploy-prod
+      # - deploy-dev
