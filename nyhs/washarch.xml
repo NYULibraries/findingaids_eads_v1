@@ -1,889 +1,252 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">washarch</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Records of the Washington Arch
-                    <lb/>
-                    <date calendar="gregorian" era="ce">1872-1925</date> (Bulk 
-                    <date calendar="gregorian" normal="1889/1895" era="ce" type="bulk">1889-1895)</date>
-                    <lb/>
-                    <num></num>
-                    <num>MS 443.30</num>
-                </titleproper>
-                <author>Finding aid prepared by Liz Arena</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derived from WashArch01mb.xml</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>@ 2011 New-York Historical Society</publisher>
-                <address>
-                    <addressline>New-York Historical Society</addressline>
-                    <addressline>170 Central Park West</addressline>
-                    <addressline>New York, NY 10024</addressline>
-                    <addressline>Phone: (212) 873-3400</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-04T15:33-0400</date>
-            </creation>
-            <langusage>Description is in 
-                <language>English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Washington Arch Records</unittitle>
-            <unitid>MS 443.30</unitid>
-            <repository>
-                <corpname>@ 2011 New-York Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>3.0 Linear feet</extent>
-                <extent>(7 boxes)</extent>
-            </physdesc>
-            <unitdate>1872-1925 (Bulk 1872-1925)</unitdate>
-            <physloc audience="internal" id="ref2" label="Location note">Manuscript cage</physloc>
-            <abstract id="ref3" label="Abstract">The collection contains material relating to William Rhinelander Stewart's time on the Washington Memorial Arch Committee which raised funds to erect the Arch in Washington Square Park.</abstract>
-            <origination label="creator">
-                <persname source="ingest">William Rhinelander Stewart</persname>
-            </origination>
-        </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>Donation of William R. Stewart, 1923-1925.</p>
-        </custodhist>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open to qualified researchers.</p>
-            <p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.) See guidelines in Reading Room for details.</p>
-        </accessrestrict>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to 
-                <lb/>
-                <lb/>Library Director 
-                <lb/>
-                <address>
-                    <addressline>The New-York Historical Society
-                        <lb/> </addressline>
-                    <addressline>170 Central Park West
-                        <lb/> </addressline>
-                    <addressline>New York, NY 10024
-                        <lb/>
-                        <lb/> </addressline>
-                </address></p>
-        </userestrict>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>This collection should be cited as New York City -- Washington Arch, MS 443.30, the New-York Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref8">
-            <head>Historical Note</head>
-            <chronlist>
-                <chronitem>
-                    <date>Jan.- March 1889</date>
-                    <event>William Rhinelander Stewart conceived the idea to build a temporary Triumphal Arch in Washington Square Park to celebrate the one hundredth anniversary of the inauguration of George Washington as the first President of the United States. Stewart becomes treasurer of the Washington Arch Fund, architect Stanford White designs the Arch free of charge, and Joseph Cabus builds the Arch.</event>
-                </chronitem>
-                <chronitem>
-                    <date>
-April 1889</date>
-                    <event>Funded on donations from local residents, a temporary wooden Arch is erected in time for the celebratory parade for the centennial of Washington's inauguration.</event>
-                </chronitem>
-                <chronitem>
-                    <date>May 1889</date>
-                    <event>The Committee for the Erection of the Washington Memorial Arch was organized to create a permanent replacement arch. It appoints Henry G. Marquand as Chairman, Louis Fitzgerald as Vice-Chairman, Richard Watson Gilder as Secretary, and William R. Stewart as Treasurer and selects Stanford White as the designer of the new arch.</event>
-                </chronitem>
-                <chronitem>
-                    <date>Sept. 1889</date>
-                    <event>Donations to the Washington Arch Fund reach $50,000 of the $100,000 estimated to complete the Arch's construction.</event>
-                </chronitem>
-                <chronitem>
-                    <date>April  1890</date>
-                    <event>David H. King, Jr., the builder of the Pedestal of the Statue of Liberty, is awarded the contract to build the Arch. He agrees to build the Arch for cost and waive his usual ten percent commission.</event>
-                </chronitem>
-                <chronitem>
-                    <date>May  1890</date>
-                    <event>Work upon the foundation is completed, and the laying of the corner-stone ceremony takes place.</event>
-                </chronitem>
-                <chronitem>
-                    <date>Dec.  1890</date>
-                    <event>The first block of marble is laid and construction continues throughout the winter.</event>
-                </chronitem>
-                <chronitem>
-                    <date>Feb.  1891 </date>
-                    <event>Although the Arch Fund reaches $90,000, it is decided that more money is needed due to the change in plans to build a larger Arch with more complex ornamentation.</event>
-                </chronitem>
-                <chronitem>
-                    <date>April  1892 </date>
-                    <event>The construction of the Arch comes to a close and donations to the Washington Arch Fund reach $121,907.50.</event>
-                </chronitem>
-                <chronitem>
-                    <date>May  1895 </date>
-                    <event>The Washington Arch is formally dedicated and placed under the jurisdiction of city authorities.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1916</date>
-                    <event>With money raised from the Washington Arch Statuary Fund, Hermon A. MacNeil completes his sculpture portraying Washington in his military uniform on the East Pedestal of the Arch.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1918 </date>
-                    <event>A. Stirling Calder's sculpture on the West Pedestal featuring Washington in his civilian clothing, also financed by the Statuary Fund, is completed.</event>
-                </chronitem>
-            </chronlist>
-        </bioghist>
-        <bioghist id="ref10">
-            <head>Biographical Note</head>
-            <chronlist>
-                <chronitem>
-                    <date>1852</date>
-                    <event>William Rhinelander Stewart born on December 3rd to Lispenard and Mary Rogers (Rhinelander) Stewart.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1873</date>
-                    <event>Stewart graduates from Columbia University Law School. He later gives up practicing law and devotes his professional career to philanthropy and the management of estates.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1880</date>
-                    <event>He is chosen as Superintendent of the Mission Sunday School of Grace Chapel.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1882</date>
-                    <event>Stewart appointed as commissioner for the first judicial district on the state board of charities. He continues to serve on this organization for forty-seven years.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1889</date>
-                    <event>Stewart develops the idea of constructing the Washington Arch in Washington Square and serves as treasurer of the committee.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1895</date>
-                    <event>Stewart formally presents Mayor William Strong with the key to the Arch, signifying the formal transfer of the Arch to city authorities.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1898</date>
-                    <event>He is elected president of the National Conference of Charities and Corrections.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1900</date>
-                    <event>Stewart organizes the New York State Conference of Charities and Corrections</event>
-                </chronitem>
-                <chronitem>
-                    <date>1908-1929</date>
-                    <event>He is president of the Rhinelander Real Estate Company.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1910</date>
-                    <event>Stewart founds the New York City Conference of Charities and Corrections.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1911</date>
-                    <event>He publishes his book 
-                        <title ns2:type="simple" render="italic">The Philanthropic Work of Josephine Shaw Lowell</title>, New York: Grace House, 1906.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1924</date>
-                    <event>He publishes 
-                        <title ns2:type="simple" render="italic">Grace Church and Old New York</title>, New York: E. P. Dutton &amp; company, 1924.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1929</date>
-                    <event>Stewart dies on September 4th in New York City.</event>
-                </chronitem>
-            </chronlist>
-        </bioghist>
-        <scopecontent id="ref12">
-            <head>Scope and Content Note</head>
-            <p>This collection is comprised of materials relating to William Rhinelander Stewart's work on the Washington Memorial Arch Committee. Because Stewart was the Treasurer of the Washington Arch Fund and the Washington Arch Statuary Fund, much of the material documents fundraising and financial activities. The collection consists of administrative information, correspondence with subscribers and committee members, fundraising records, material relating to ceremonies involving the Arch, prints and photographs of the Arch, drafts and publications, and newspaper clippings. A short biography and some personal correspondence, programs, invitations, and estate information of William Rhinelander Stewart is also included.</p>
-            <p>The collection mainly documents the administrative activities, such as fundraising and the contracting of architects and sculptors, involved in the building of the Washington Arch. Items of interest include letters from Theodore Roosevelt and Grover Cleveland (originals transferred to the appropriate Miscellaneous Manuscripts collection, copies remain in their place) and photographs and programs from the dedication ceremony for the Washington Arch.</p>
-        </scopecontent>
-        <arrangement id="ref13">
-            <head>Arrangement</head>
-            <p>Most of the collection is arranged by type of material. The incoming correspondence is arranged alphabetically according to the sender's last name, and the outgoing correspondence is located in letterpress books that are in chronological order.</p>
-            <p>The papers are arranged into the following series:</p>
-            <list type="ordered">
-                <item>Series I: Administrative Records</item>
-                <item>Series II: Correspondence</item>
-                <item>Series III: Fundraising Records</item>
-                <item>Series IV: Centennial Celebration and Dedication Ceremonies</item>
-                <item>Series V: Depictions of Washington Arch</item>
-                <item>Series VI: Drafts and Publications</item>
-                <item>Series VII: Newspapers</item>
-                <item>Series VIII: Personal Materials of William Rhinelander Stewart</item>
-            </list>
-        </arrangement>
-        <relatedmaterial id="ref101">
-            <head>Related Material at The New-York Historical Society</head>
-            <p>One folder relating to William Rhinelander Stewart can be found housed under the call phrase Misc. Mss. Stewart, William R.</p>
-        </relatedmaterial>
-        <separatedmaterial id="ref102">
-            <head>Separated Material</head>
-            <p>The tracing paper plans of the Arch dedication ceremony and seating arrangements have been separated to oversize. Letters in the collection to William R. Stewart from Theodore Roosevelt and Grover Cleveland have been replaced with photocopies and originals moved to Miscellaneous Manuscripts, Roosevelt, Theodore and Miscellaneous Manuscripts, Cleveland, Grover respectively.</p>
-        </separatedmaterial>
-        <controlaccess>
-            <corpname source="ingest">Committee on Erection of the Memorial Arch at Washington Square</corpname>
-            <persname source="ingest">Fitzgerald, Louis</persname>
-            <persname source="ingest">Gilder, Richard Watson, 1844-1909</persname>
-            <persname source="ingest">Marquand, Henry Gurdon, 1819-1902</persname>
-            <corpname source="ingest">McKim, Mead &amp; White</corpname>
-            <persname source="ingest">Washington, George, 1732-1799--Anniversaries, etc.</persname>
-            <persname source="ingest">Washington, George, 1732-1799--Monuments</persname>
-            <persname source="ingest">White, Stanford, 1853-1906</persname>
-            <genreform source="aat">Account books</genreform>
-            <genreform source="aat">Agreements</genreform>
-            <subject source="lcsh">Arches--New York (State)--New York</subject>
-            <genreform source="aat">Clippings</genreform>
-            <genreform source="aat">Contracts</genreform>
-            <genreform source="aat">Correspondence</genreform>
-            <subject source="lcsh">Decoration and ornament, Architectural--New York (State)--New York</subject>
-            <genreform source="aat">Estate inventories</genreform>
-            <subject source="lcsh">Fund raising</subject>
-            <genreform source="aat">Gelatin silver prints</genreform>
-            <genreform source="aat">Invitations</genreform>
-            <genreform source="aat">Invoices</genreform>
-            <genreform source="aat">Letterpress copybooks</genreform>
-            <genreform source="aat">Minutes</genreform>
-            <subject source="lcsh">Monuments--New York (State)--New York</subject>
-            <subject source="lcsh">Outdoor sculpture--New York (State)--New York</subject>
-            <genreform source="aat">Photographic prints</genreform>
-            <genreform source="aat">Prints</genreform>
-            <genreform source="aat">Programs</genreform>
-            <genreform source="aat">Receipts</genreform>
-            <genreform source="aat">Reports</genreform>
-            <genreform source="aat">Subscription lists</genreform>
-            <subject source="lcsh">The history of the Washington Arch in Washington Square, New York</subject>
-            <geogname source="lcsh">Washington Square (New York, N.Y.)</geogname>
-        </controlaccess>
-        <dsc>
-            <c id="ref16" level="series">
-                <did>
-                    <unittitle>Series I: Administrative Records, 1883-1918</unittitle>
-                </did>
-                <scopecontent id="ref22">
-                    <head>Scope and Contents note</head>
-                    <p>This series consists of a variety of materials related to the administrative duties of the Washington Memorial Arch Committee. Materials include agreements and contracts between McKim, Mead &amp; White and builders and sculptors, form letters sent to potential subscribers requesting donations, minutes, proposals, petitions, and reports.</p>
-                </scopecontent>
-                <c id="ref17" level="otherlevel">
-                    <did>
-                        <unittitle>Agreements and Contracts</unittitle>
-                        <container id="cid514779" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514779" type="Folder">1</container>
-                        <unitdate normal="1889/1918" type="inclusive">1889, 1913-1918</unitdate>
-                    </did>
-                </c>
-                <c id="ref18" level="otherlevel">
-                    <did>
-                        <unittitle>Form Letters</unittitle>
-                        <container id="cid514778" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514778" type="Folder">2</container>
-                        <unitdate normal="1883/1917" type="inclusive">1883-1891, 1917</unitdate>
-                    </did>
-                </c>
-                <c id="ref19" level="otherlevel">
-                    <did>
-                        <unittitle>Minutes, Proposals, and Resolutions</unittitle>
-                        <container id="cid514777" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514777" type="Folder">3</container>
-                        <unitdate normal="1889/1916" type="inclusive">1889, 1895-1896, 1912-1916</unitdate>
-                    </did>
-                </c>
-                <c id="ref20" level="otherlevel">
-                    <did>
-                        <unittitle>Petitions for Parade In Washington Square and to erect a Triumphal Arch</unittitle>
-                        <container id="cid514776" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514776" type="Folder">4</container>
-                        <unitdate normal="1889/1889">1889</unitdate>
-                    </did>
-                </c>
-                <c id="ref21" level="otherlevel">
-                    <did>
-                        <unittitle>Reports</unittitle>
-                        <container id="cid514775" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514775" type="Folder">5</container>
-                        <unitdate normal="1915/1918" type="inclusive">[1915], 1918</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref23" level="series">
-                <did>
-                    <unittitle>Series II: Correspondence, 1887-1925</unittitle>
-                </did>
-                <scopecontent id="ref48">
-                    <head>Scope and Contents note</head>
-                    <p>This series includes the correspondence of William R. Stewart and other associates relating to matters concerning the committee, Arch, and subscriptions. The incoming correspondence to Stewart has been arranged alphabetically by the sender's last name. In general, the incoming correspondence to Stewart pertains to subscriptions collected and paid, input on the manuscript for the publication The History of the Washington Arch, and decisions made with the Department of Public Parks. One folder of correspondence from Richard Gilder, the Secretary of the committee, mainly deals with administrative matters such as meetings, resolutions, subscriptions paid, inquiries, costs of supplies, and contracts with particular builders and craftsmen. Stewart's professional involvement with Stanford White is well documented in their correspondence. The three folders of correspondence from Stanford White detail aspects of the construction including differences with the Department of Public Parks, estimates of costs, measurements, models of the eagles, the scaffolding, and the cleaning of the piers.</p>
-                    <p>The outgoing correspondence from Stewart is bound in four letterpress books that are organized chronologically. Indices in the front of the books list correspondents alphabetically along with the page numbers of their letters. The correspondence solicits and thanks participants for subscriptions to the Memorial Arch Fund and details the business of the committee. Other correspondence in the collection includes letters to Thomas Keating from Richard Gilder as well as incoming correspondence to Richard Gilder, Henry G. Marquand, and Stanford White.</p>
-                </scopecontent>
-                <c id="ref24" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from A-B</unittitle>
-                        <container id="cid514774" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514774" type="Folder">6</container>
-                        <unitdate normal="1889/1925" type="inclusive">1889-1925</unitdate>
-                    </did>
-                </c>
-                <c id="ref25" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from C-D</unittitle>
-                        <container id="cid514773" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514773" type="Folder">7</container>
-                        <unitdate normal="1889/1901" type="inclusive">1889-1901</unitdate>
-                    </did>
-                </c>
-                <c id="ref26" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from E-F</unittitle>
-                        <container id="cid514772" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514772" type="Folder">8</container>
-                        <unitdate normal="1887/1895" type="inclusive">1887-1895</unitdate>
-                    </did>
-                </c>
-                <c id="ref27" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from G</unittitle>
-                        <container id="cid514771" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514771" type="Folder">9</container>
-                        <unitdate normal="1889/1895" type="inclusive">1889-1895</unitdate>
-                    </did>
-                </c>
-                <c id="ref28" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from Richard W. Gilder</unittitle>
-                        <container id="cid514770" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514770" type="Folder">10</container>
-                        <unitdate normal="1889/1897" type="inclusive">1889-1897</unitdate>
-                    </did>
-                </c>
-                <c id="ref29" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from H-L</unittitle>
-                        <container id="cid514769" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514769" type="Folder">11</container>
-                        <unitdate normal="1889/1918" type="inclusive">1889-1918</unitdate>
-                    </did>
-                </c>
-                <c id="ref30" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from M</unittitle>
-                        <container id="cid514768" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514768" type="Folder">12</container>
-                        <unitdate normal="1889/1901" type="inclusive">1889-1901</unitdate>
-                    </did>
-                </c>
-                <c id="ref31" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from N-R</unittitle>
-                        <container id="cid514767" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514767" type="Folder">13</container>
-                        <unitdate normal="1889/1908" type="inclusive">1889-1908</unitdate>
-                    </did>
-                </c>
-                <c id="ref32" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from S</unittitle>
-                        <container id="cid514766" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid514766" type="Folder">14</container>
-                        <unitdate normal="1889/1913" type="inclusive">1889-1913</unitdate>
-                    </did>
-                </c>
-                <c id="ref33" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from T-Z</unittitle>
-                        <container id="cid514765" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid514765" type="Folder">1</container>
-                        <unitdate normal="1889/1895" type="inclusive">1889-1895</unitdate>
-                    </did>
-                </c>
-                <c id="ref34" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from Stanford White</unittitle>
-                        <container id="cid514764" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid514764" type="Folder">2</container>
-                        <unitdate normal="1889/1891" type="inclusive">1889-1891</unitdate>
-                    </did>
-                </c>
-                <c id="ref35" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from Stanford White</unittitle>
-                        <container id="cid514763" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid514763" type="Folder">3</container>
-                        <unitdate normal="1892/1893" type="inclusive">1892-1893</unitdate>
-                    </did>
-                </c>
-                <c id="ref36" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to William R. Stewart, from Stanford White</unittitle>
-                        <container id="cid514762" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid514762" type="Folder">4</container>
-                        <unitdate normal="1894/1897" type="inclusive">1894-1897</unitdate>
-                    </did>
-                </c>
-                <c id="ref37" level="otherlevel">
-                    <did>
-                        <unittitle>Outgoing from William R. Stewart, Letterpress Book #1</unittitle>
-                        <container id="cid514761" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid514761" type="Folder">5</container>
-                        <unitdate>1889 May-1891 May</unitdate>
-                    </did>
-                </c>
-                <c id="ref38" level="otherlevel">
-                    <did>
-                        <unittitle>Outgoing from William R. Stewart, Letterpress Book #2</unittitle>
-                        <container id="cid514760" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid514760" type="Folder">6</container>
-                        <unitdate>1891 May 12-1892 Mar. 17</unitdate>
-                    </did>
-                </c>
-                <c id="ref39" level="otherlevel">
-                    <did>
-                        <unittitle>Outgoing from William R. Stewart, Letterpress Book #3</unittitle>
-                        <container id="cid514759" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid514759" type="Folder">1</container>
-                        <unitdate>1892 Mar. 18--1895 Apr. 25</unitdate>
-                    </did>
-                </c>
-                <c id="ref40" level="otherlevel">
-                    <did>
-                        <unittitle>Outgoing from William R. Stewart, Letterpress Book #4</unittitle>
-                        <container id="cid514758" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid514758" type="Folder">2</container>
-                        <unitdate>1895 Apr. 25--1897 Oct. 6</unitdate>
-                    </did>
-                </c>
-                <c id="ref41" level="otherlevel">
-                    <did>
-                        <unittitle>Outgoing from William R. Stewart,</unittitle>
-                        <container id="cid514757" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid514757" type="Folder">3</container>
-                        <unitdate normal="1889/1892" type="inclusive">1889, 1892</unitdate>
-                    </did>
-                </c>
-                <c id="ref42" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to Thomas F. Keating from Richard W. Gilder</unittitle>
-                        <container id="cid514756" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid514756" type="Folder">4</container>
-                        <unitdate normal="1890/1890">1890</unitdate>
-                    </did>
-                </c>
-                <c id="ref43" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to Richard W. Gilder from Various Correspondents</unittitle>
-                        <container id="cid514755" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid514755" type="Folder">5</container>
-                        <unitdate normal="1889/1891" type="inclusive">1889-1891</unitdate>
-                    </did>
-                </c>
-                <c id="ref44" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to Henry G. Marquand from Various Correspondents</unittitle>
-                        <container id="cid514754" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid514754" type="Folder">6</container>
-                        <unitdate normal="1889/1895" type="inclusive">1889, 1895</unitdate>
-                    </did>
-                </c>
-                <c id="ref45" level="otherlevel">
-                    <did>
-                        <unittitle>Incoming to Stanford White from Various Correspondents</unittitle>
-                        <container id="cid514753" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid514753" type="Folder">7</container>
-                        <unitdate normal="1892/1892">1892</unitdate>
-                    </did>
-                </c>
-                <c id="ref46" level="otherlevel">
-                    <did>
-                        <unittitle>Letters to and from Various Correspondents</unittitle>
-                        <container id="cid514752" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid514752" type="Folder">8</container>
-                        <unitdate normal="1891/1895" type="inclusive">1891-1895</unitdate>
-                    </did>
-                </c>
-                <c id="ref47" level="otherlevel">
-                    <did>
-                        <unittitle>Blank Stationery</unittitle>
-                        <container id="cid514751" type="Box" label="Mixed Materials">3</container>
-                        <container parent="cid514751" type="Folder">9</container>
-                        <unitdate normal="1890/1917" type="inclusive">[1890], 1917</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref49" level="series">
-                <did>
-                    <unittitle>Series III: Fundraising Records, 1889-1918</unittitle>
-                </did>
-                <scopecontent id="ref72">
-                    <head>Scope and Contents note</head>
-                    <p>Financial materials relating to the fundraising activities for the building of the Arch and, later, the statues of George Washington comprise this subseries.</p>
-                </scopecontent>
-                <c id="ref50" level="otherlevel">
-                    <did>
-                        <unittitle>Subseries I: The Washington Arch Fund, 1889-1897</unittitle>
-                    </did>
-                    <scopecontent id="ref65">
-                        <head>Scope and Contents note</head>
-                        <p>This subseries contains materials that document the fundraising activities to build a permanent Arch in Washington Square Park. It includes account books and several lists of contributors along with the amount each donated. It also includes bills, invoices, receipts, statements, and programs documenting the various benefits held to raise money for the Arch.</p>
-                    </scopecontent>
-                    <c id="ref51" level="otherlevel">
-                        <did>
-                            <unittitle>Account Books</unittitle>
-                            <container id="cid514750" type="Box" label="Mixed Materials">3</container>
-                            <container parent="cid514750" type="Folder">10</container>
-                            <unitdate normal="1889/1895" type="inclusive">1889-1895</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref52" level="otherlevel">
-                        <did>
-                            <unittitle>Subscriptions</unittitle>
-                            <container id="cid514749" type="Box" label="Mixed Materials">3</container>
-                            <container parent="cid514749" type="Folder">11</container>
-                            <unitdate normal="1889/1889">1889 (1 of 2)</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref53" level="otherlevel">
-                        <did>
-                            <unittitle>Subscriptions</unittitle>
-                            <container id="cid514748" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514748" type="Folder">1</container>
-                            <unitdate normal="1889/1889">1889 (2 of 2)</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref54" level="otherlevel">
-                        <did>
-                            <unittitle>Subscription Book</unittitle>
-                            <container id="cid514747" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514747" type="Folder">2</container>
-                            <unitdate normal="1889/1890" type="inclusive">1889-1890 (1 of 2)</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref55" level="otherlevel">
-                        <did>
-                            <unittitle>Subscription Book</unittitle>
-                            <container id="cid514746" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514746" type="Folder">3</container>
-                            <unitdate normal="1889/1890" type="inclusive">1889-1890 (2 of 2)</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref56" level="otherlevel">
-                        <did>
-                            <unittitle>Lists of Subscriptions Received</unittitle>
-                            <container id="cid514745" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514745" type="Folder">4</container>
-                            <unitdate normal="1889/1890" type="inclusive">1889-1890</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref57" level="otherlevel">
-                        <did>
-                            <unittitle>Booklets of Subscriptions of $100</unittitle>
-                            <container id="cid514744" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514744" type="Folder">5</container>
-                            <unitdate normal="1891/1892" type="inclusive">1891-1892</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref58" level="otherlevel">
-                        <did>
-                            <unittitle>Bills, Invoices, Receipts, Statements</unittitle>
-                            <container id="cid514743" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514743" type="Folder">6</container>
-                            <unitdate normal="1889/1891" type="inclusive">1889-1891</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref59" level="otherlevel">
-                        <did>
-                            <unittitle>Bills, Invoices, Receipts, Statements, "Washington Arch Vouchers, September 18th 1890 to July 8th 1895"</unittitle>
-                            <container id="cid514742" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514742" type="Folder">7</container>
-                            <unitdate normal="1890/1897" type="inclusive">1890-1895, 1897</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref60" level="otherlevel">
-                        <did>
-                            <unittitle>Programs from Benefits for the Washington Arch Fund</unittitle>
-                            <container id="cid514741" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514741" type="Folder">8</container>
-                            <unitdate normal="1891/1891">1891</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref61" level="otherlevel">
-                        <did>
-                            <unittitle>Advertisements for Subscriptions</unittitle>
-                            <container id="cid514740" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514740" type="Folder">9</container>
-                            <unitdate normal="1891/1891">1891</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref62" level="otherlevel">
-                        <did>
-                            <unittitle>Blank Subscription Cards</unittitle>
-                            <container id="cid514739" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514739" type="Folder">10</container>
-                            <unitdate normal="1889/1892" type="inclusive">1889, 1892</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref63" level="otherlevel">
-                        <did>
-                            <unittitle>Cancelled Checks</unittitle>
-                            <container id="cid514738" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514738" type="Folder">11</container>
-                            <unitdate normal="1889/1895" type="inclusive">1889-1895</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref64" level="otherlevel">
-                        <did>
-                            <unittitle>Ribbon from a member of the Washington Memorial Arch Committee</unittitle>
-                            <container id="cid514737" type="Box" label="Mixed Materials">4</container>
-                            <container parent="cid514737" type="Folder">12</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref66" level="otherlevel">
-                    <did>
-                        <unittitle>Subseries II: Washington Arch Statuary Fund, 1901-1918</unittitle>
-                    </did>
-                    <scopecontent id="ref71">
-                        <head>Scope and Contents note</head>
-                        <p>This subseries contains material relating to the fundraising efforts to build two statues of George Washington on the east and west sides of the completed Arch. It includes account books, subscription lists, bills, invoices, receipts, and statements.</p>
-                    </scopecontent>
-                    <c id="ref67" level="otherlevel">
-                        <did>
-                            <unittitle>Account Books</unittitle>
-                            <container id="cid514736" type="Box" label="Mixed Materials">5</container>
-                            <container parent="cid514736" type="Folder">1</container>
-                            <unitdate normal="1901/1912" type="inclusive">1901-1912</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref68" level="otherlevel">
-                        <did>
-                            <unittitle>Subscriptions</unittitle>
-                            <container id="cid514735" type="Box" label="Mixed Materials">5</container>
-                            <container parent="cid514735" type="Folder">2</container>
-                            <unitdate normal="1902/1918" type="inclusive">1902-1918</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref69" level="otherlevel">
-                        <did>
-                            <unittitle>Booklets of Subscriptions to the $32,000 Statuary Fund</unittitle>
-                            <container id="cid514734" type="Box" label="Mixed Materials">5</container>
-                            <container parent="cid514734" type="Folder">3</container>
-                            <unitdate normal="1902/1918" type="inclusive">[1902-1918]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref70" level="otherlevel">
-                        <did>
-                            <unittitle>Bills, Invoices, Receipts, Statements, "Vouchers of the Washington Arch Statuary Fund"</unittitle>
-                            <container id="cid514733" type="Box" label="Mixed Materials">5</container>
-                            <container parent="cid514733" type="Folder">4</container>
-                            <unitdate normal="1903/1918" type="inclusive">1903, 1913-1918</unitdate>
-                        </did>
-                    </c>
-                </c>
-            </c>
-            <c id="ref73" level="series">
-                <did>
-                    <unittitle>Series IV: Centennial Celebration and Ceremonies, 1889-1895</unittitle>
-                </did>
-                <scopecontent id="ref78">
-                    <head>Scope and Contents note</head>
-                    <p>This series includes plans, memorabilia and photographs from ceremonies involving the Washington Arch. The memorabilia consists of programs and invitations, and the ceremonies include the Centennial Celebration parade, the Laying of the Cornerstone ceremony, and the Dedication ceremony. The photographs of the dedication ceremony and parade are albumens, larger than cabinet size. The plans of the Arch dedication ceremony are oversize.</p>
-                </scopecontent>
-                <c id="ref74" level="otherlevel">
-                    <did>
-                        <unittitle>Invitations and Programs from the Centennial Celebration of the Inauguration of George Washington</unittitle>
-                        <container id="cid514732" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid514732" type="Folder">5</container>
-                        <unitdate normal="1889/1889">1889</unitdate>
-                    </did>
-                </c>
-                <c id="ref75" level="otherlevel">
-                    <did>
-                        <unittitle>Programs from Laying of the Corner Stone and Dedication Ceremony for the Washington Arch</unittitle>
-                        <container id="cid514731" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid514731" type="Folder">6</container>
-                        <unitdate normal="1890/1895" type="inclusive">1890, 1891, 1895</unitdate>
-                    </did>
-                </c>
-                <c id="ref76" level="otherlevel">
-                    <did>
-                        <unittitle>Photographs of the Dedication Ceremony</unittitle>
-                        <container id="cid514730" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid514730" type="Folder">7</container>
-                        <unitdate normal="1895/1895">1895</unitdate>
-                    </did>
-                </c>
-                <c id="ref77" level="otherlevel">
-                    <did>
-                        <unittitle>Tracing paper plans of Arch Dedication Ceremony</unittitle>
-                        <container id="cid514729" type="Box" label="Mixed Materials">OS</container>
-                        <container parent="cid514729" type="Folder"></container>
-                    </did>
-                </c>
-            </c>
-            <c id="ref79" level="series">
-                <did>
-                    <unittitle>Series V: Depictions of the Washington Arch, 1890-1918</unittitle>
-                </did>
-                <scopecontent id="ref82">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains photographs and prints that portray the Arch and its sculptures of George Washington. The prints of Arch depict the temporary Arch as well as the completed, permanent Arch. The photographs of the sculptures include close-ups as well as far away shots that show their placement on the east and west ends of the Arch. The photographs were produced by the silver gelatin process and printed on mat paper.</p>
-                </scopecontent>
-                <c id="ref80" level="otherlevel">
-                    <did>
-                        <unittitle>Prints of the Arch</unittitle>
-                        <container id="cid514728" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid514728" type="Folder">8</container>
-                        <unitdate>[1890-1899]</unitdate>
-                    </did>
-                </c>
-                <c id="ref81" level="otherlevel">
-                    <did>
-                        <unittitle>Photographs of Sculptures on the Arch</unittitle>
-                        <container id="cid514727" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid514727" type="Folder">9</container>
-                        <unitdate normal="1913/1918" type="inclusive">[1913-1918]</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref83" level="series">
-                <did>
-                    <unittitle>Series VI: Drafts and Publications, 1893-1896</unittitle>
-                </did>
-                <scopecontent id="ref87">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains the draft and published version of 
-                        <title render="italic" type="simple">The History of the Washington Arch</title>, a narrative text that tells the story of the Arch's beginnings, its main organizers, and the dedication ceremonies that followed. It also contains a 1892 
-                        <title render="italic" type="simple">Guide to New York City</title>that includes a drawing and description of the Arch.</p>
-                </scopecontent>
-                <c id="ref84" level="otherlevel">
-                    <did>
-                        <unittitle>Draft, 
-                            <title ns2:type="simple" render="italic">The History of the Washington Arch</title></unittitle>
-                        <container id="cid514726" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid514726" type="Folder">10</container>
-                        <unitdate normal="1893/1893">1893</unitdate>
-                    </did>
-                </c>
-                <c id="ref85" level="otherlevel">
-                    <did>
-                        <unittitle>Publication, 
-                            <title ns2:type="simple" render="italic">The History of the Washington Arch</title></unittitle>
-                        <container id="cid514725" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid514725" type="Folder">11</container>
-                        <unitdate normal="1896/1896">1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref86" level="otherlevel">
-                    <did>
-                        <unittitle>
-                            <title ns2:type="simple" render="italic">Guide to New York City</title>, featuring the Washington Arch</unittitle>
-                        <container id="cid514724" type="Box" label="Mixed Materials">5</container>
-                        <container parent="cid514724" type="Folder">12</container>
-                        <unitdate normal="1892/1892">1892</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref88" level="series">
-                <did>
-                    <unittitle>Series VII: Newspapers, 1890-1920</unittitle>
-                </did>
-                <scopecontent id="ref91">
-                    <head>Scope and Contents note</head>
-                    <p>This series consists of a variety of articles documenting the Washington Arch, its dedication, and sculptures. Included in this series are clippings from 
-                        <title render="italic" type="simple">The New York Times</title>, 
-                        <title render="italic" type="simple">Harper's Weekly</title>, 
-                        <title render="italic" type="simple">The Star</title>, 
-                        <title render="italic" type="simple">New York Herald</title>, 
-                        <title render="italic" type="simple">The Tribune</title>, 
-                        <title render="italic" type="simple">The Press</title>, and 
-                        <title render="italic" type="simple">The World</title>. In addition, three copies of 
-                        <title render="italic" type="simple">The Chimney-Seat</title>, an illustrated paper that donated the proceeds from its first two issues to the Washington Memorial Arch Fund, are included.</p>
-                </scopecontent>
-                <c id="ref89" level="otherlevel">
-                    <did>
-                        <unittitle>Newspapers, 
-                            <title ns2:type="simple" render="italic">The Chimney-Seat</title></unittitle>
-                        <container id="cid514723" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid514723" type="Folder">1</container>
-                        <unitdate normal="1889/1890" type="inclusive">1889-1890</unitdate>
-                    </did>
-                </c>
-                <c id="ref90" level="otherlevel">
-                    <did>
-                        <unittitle>Newspaper Clippings Regarding the Arch</unittitle>
-                        <container id="cid514722" type="Box" label="Mixed Materials">7</container>
-                        <container parent="cid514722" type="Folder"></container>
-                        <unitdate normal="1890/1920" type="inclusive">[1890-1920]</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref92" level="series">
-                <did>
-                    <unittitle>Series VIII: Personal Materials of William Rhinelander Stewart, 1872-1929</unittitle>
-                </did>
-                <scopecontent id="ref100">
-                    <head>Scope and Contents note</head>
-                    <p>This series includes materials relating to the personal life of William R. Stewart. Such materials include agreements from his career as an estates manager, bulletins and programs from Grace Church and the Western New York Institution for Deaf Mutes, inventories of estates, and invitations to art openings, weddings, and dances.</p>
-                </scopecontent>
-                <c id="ref93" level="otherlevel">
-                    <did>
-                        <unittitle>Biography, William R. Stewart</unittitle>
-                        <container id="cid514721" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid514721" type="Folder">2</container>
-                        <unitdate normal="1890/1899" type="inclusive">[1890-1899]</unitdate>
-                    </did>
-                </c>
-                <c id="ref94" level="otherlevel">
-                    <did>
-                        <unittitle>Correspondence, Non-Washington Memorial Arch Committee</unittitle>
-                        <container id="cid514720" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid514720" type="Folder">3</container>
-                        <unitdate normal="1888/1889" type="inclusive">1888-1889</unitdate>
-                    </did>
-                </c>
-                <c id="ref95" level="otherlevel">
-                    <did>
-                        <unittitle>Invitations</unittitle>
-                        <container id="cid514719" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid514719" type="Folder">4</container>
-                        <unitdate normal="1872/1925" type="inclusive">1872-1889, 1925</unitdate>
-                    </did>
-                </c>
-                <c id="ref96" level="otherlevel">
-                    <did>
-                        <unittitle>Bulletins and Programs</unittitle>
-                        <container id="cid514718" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid514718" type="Folder">5</container>
-                        <unitdate normal="1888/1913" type="inclusive">1888-1895, 1913</unitdate>
-                    </did>
-                </c>
-                <c id="ref97" level="otherlevel">
-                    <did>
-                        <unittitle>Inventories of Estates of George P. Rogers, Mary R. Stewart, and William R. Stewart</unittitle>
-                        <container id="cid514717" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid514717" type="Folder">6</container>
-                        <unitdate>1888-1889, undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref98" level="otherlevel">
-                    <did>
-                        <unittitle>Unidentified Inventories of Estates</unittitle>
-                        <container id="cid514716" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid514716" type="Folder">7</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref99" level="otherlevel">
-                    <did>
-                        <unittitle>Agreement between Serena Rhinelander and St. James Mission</unittitle>
-                        <container id="cid514715" type="Box" label="Mixed Materials">6</container>
-                        <container parent="cid514715" type="Folder">8</container>
-                        <unitdate normal="1895/1895">1895</unitdate>
-                    </did>
-                </c>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">washarch</eadid><filedesc><titlestmt><titleproper>Guide to the Washington Arch Records<lb/><date calendar="gregorian" era="ce">1872-1925</date> (Bulk <date calendar="gregorian" normal="1889/1895" era="ce" type="bulk">1889-1895)</date><lb/><num></num> <num>MS 443.30</num></titleproper><author>Collection processed by Liz Arena</author></titlestmt><editionstmt><p>This version was derived from WashArch01mb.xml</p></editionstmt><publicationstmt><publisher>New-York Historical Society</publisher><address><addressline>New-York Historical Society</addressline><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>(212) 873-3400</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2021-06-28T16:36:18</date></creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial id="aspace_d236eadcd7dd1ae8e8e79fc05118c661">The documents in the collection are in English.</langmaterial>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Washington Arch records</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Stewart, William Rhinelander</persname>
+    </origination>
+    <unitid>MS 443.30</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 Linear feet</extent>
+      <extent altrender="carrier">in 7 boxes + 1 oversize folder.</extent>
+    </physdesc>
+    <unitdate type="inclusive">1872-1925 (Bulk 1872-1925)</unitdate>
+    <abstract id="aspace_11f0043d8d248732e6fdc4b9286e211e">The collection contains material relating to William Rhinelander Stewart's time on the Washington Memorial Arch Committee which raised funds to erect the Arch in Washington Square Park.</abstract>
+  </did>
+  <acqinfo id="aspace_1e1e036e8f1589dda2207bedbfe58c58">
+    <head>Immediate Source of Acquisition</head>
+<p>Donation of William R. Stewart, 1923-1925.</p>  </acqinfo>
+  <accessrestrict id="aspace_fe822e6a64564b8167c9339b3a4c0b20">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers.</p>  </accessrestrict>
+  <userestrict id="aspace_effbfa065b6fcfdad740366e9f9d632b">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.</p><p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref ns2:actuate="onRequest" ns2:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <prefercite id="aspace_e4c7a1d828109b2eead5d3748c0d937a">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as New York City -- Washington Arch, MS 443.30, New-York Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_5070fb98ea29b0dee19c4f7cb4faa622">
+    <head>Historical Note</head>
+    <chronlist>
+      <head>Historical Note</head>
+      <chronitem>
+        <date>Jan.- March 1889</date>
+        <eventgrp>
+          <event>William Rhinelander Stewart conceived the idea to build a temporary Triumphal Arch in Washington Square Park to celebrate the one hundredth anniversary of the inauguration of George Washington as the first President of the United States. Stewart becomes treasurer of the Washington Arch Fund, architect Stanford White designs the Arch free of charge, and Joseph Cabus builds the Arch.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>April 1889</date>
+        <eventgrp>
+          <event>Funded on donations from local residents, a temporary wooden Arch is erected in time for the celebratory parade for the centennial of Washington's inauguration.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>May 1889</date>
+        <eventgrp>
+          <event>The Committee for the Erection of the Washington Memorial Arch was organized to create a permanent replacement arch. It appoints Henry G. Marquand as Chairman, Louis Fitzgerald as Vice-Chairman, Richard Watson Gilder as Secretary, and William R. Stewart as Treasurer and selects Stanford White as the designer of the new arch.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>Sept. 1889</date>
+        <eventgrp>
+          <event>Donations to the Washington Arch Fund reach $50,000 of the $100,000 estimated to complete the Arch's construction.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>April  1890</date>
+        <eventgrp>
+          <event>David H. King, Jr., the builder of the Pedestal of the Statue of Liberty, is awarded the contract to build the Arch. He agrees to build the Arch for cost and waive his usual ten percent commission.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>May  1890</date>
+        <eventgrp>
+          <event>Work upon the foundation is completed, and the laying of the corner-stone ceremony takes place.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>Dec.  1890</date>
+        <eventgrp>
+          <event>The first block of marble is laid and construction continues throughout the winter.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>Feb.  1891 </date>
+        <eventgrp>
+          <event>Although the Arch Fund reaches $90,000, it is decided that more money is needed due to the change in plans to build a larger Arch with more complex ornamentation.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>April  1892 </date>
+        <eventgrp>
+          <event>The construction of the Arch comes to a close and donations to the Washington Arch Fund reach $121,907.50.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>May  1895 </date>
+        <eventgrp>
+          <event>The Washington Arch is formally dedicated and placed under the jurisdiction of city authorities.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1916</date>
+        <eventgrp>
+          <event>With money raised from the Washington Arch Statuary Fund, Hermon A. MacNeil completes his sculpture portraying Washington in his military uniform on the East Pedestal of the Arch.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1918 </date>
+        <eventgrp>
+          <event>A. Stirling Calder's sculpture on the West Pedestal featuring Washington in his civilian clothing, also financed by the Statuary Fund, is completed.</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+  </bioghist>
+  <bioghist id="aspace_e03464824e058bcba8004ea2b1102b56">
+    <head>Biographical Note</head>
+    <chronlist>
+      <head>Biographical Note</head>
+      <chronitem>
+        <date>1852</date>
+        <eventgrp>
+          <event>William Rhinelander Stewart born on December 3rd to Lispenard and Mary Rogers (Rhinelander) Stewart.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1873</date>
+        <eventgrp>
+          <event>Stewart graduates from Columbia University Law School. He later gives up practicing law and devotes his professional career to philanthropy and the management of estates.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1880</date>
+        <eventgrp>
+          <event>He is chosen as Superintendent of the Mission Sunday School of Grace Chapel.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1882</date>
+        <eventgrp>
+          <event>Stewart appointed as commissioner for the first judicial district on the state board of charities. He continues to serve on this organization for forty-seven years.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1889</date>
+        <eventgrp>
+          <event>Stewart develops the idea of constructing the Washington Arch in Washington Square and serves as treasurer of the committee.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1895</date>
+        <eventgrp>
+          <event>Stewart formally presents Mayor William Strong with the key to the Arch, signifying the formal transfer of the Arch to city authorities.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1898</date>
+        <eventgrp>
+          <event>He is elected president of the National Conference of Charities and Corrections.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1900</date>
+        <eventgrp>
+          <event>Stewart organizes the New York State Conference of Charities and Corrections</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1908-1929</date>
+        <eventgrp>
+          <event>He is president of the Rhinelander Real Estate Company.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1910</date>
+        <eventgrp>
+          <event>Stewart founds the New York City Conference of Charities and Corrections.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1911</date>
+        <eventgrp>
+          <event>He publishes his book <title render="italic">The Philanthropic Work of Josephine Shaw Lowell</title>, New York: Grace House, 1906.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1924</date>
+        <eventgrp>
+          <event>He publishes <title render="italic">Grace Church and Old New York</title>, New York: E. P. Dutton &amp; company, 1924.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1929</date>
+        <eventgrp>
+          <event>Stewart dies on September 4th in New York City.</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+  </bioghist>
+  <scopecontent id="aspace_e1d48962768892634d89f6b279357c96">
+    <head>Scope and Content Note</head>
+<p>This collection is comprised of materials relating to William Rhinelander Stewart's work on the Washington Memorial Arch Committee. Because Stewart was the Treasurer of the Washington Arch Fund and the Washington Arch Statuary Fund, much of the material documents fundraising and financial activities. The collection consists of administrative information, correspondence with subscribers and committee members, fundraising records, material relating to ceremonies involving the Arch, prints and photographs of the Arch, drafts and publications, and newspaper clippings. A short biography and some personal correspondence, programs, invitations, and estate information of William Rhinelander Stewart is also included. </p><p>The collection mainly documents the administrative activities, such as fundraising and the contracting of architects and sculptors, involved in the building of the Washington Arch. Items of interest include letters from Theodore Roosevelt and Grover Cleveland (originals transferred to the appropriate Miscellaneous Manuscripts collection, copies remain in their place) and photographs and programs from the dedication ceremony for the Washington Arch.</p>  </scopecontent>
+  <arrangement id="aspace_ed41fda7dd063aae4f9a6f15c901c0db">
+    <head>Arrangement</head>
+<p>Most of the collection is arranged by type of material. The incoming correspondence is arranged alphabetically according to the sender's last name, and the outgoing correspondence is located in letterpress books that are in chronological order.</p><p>The papers are arranged into the following series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I: Administrative Records</item>
+      <item>Series II: Correspondence</item>
+      <item>Series III: Fundraising Records</item>
+      <item>Series IV: Centennial Celebration and Dedication Ceremonies</item>
+      <item>Series V: Depictions of Washington Arch</item>
+      <item>Series VI: Drafts and Publications</item>
+      <item>Series VII: Newspapers</item>
+      <item>Series VIII: Personal Materials of William Rhinelander Stewart</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_8de3d6a802982a1bf02009cd2fea6d20">
+    <head>Related Material at The New-York Historical Society</head>
+<p>One folder relating to William Rhinelander Stewart can be found housed under the call phrase Misc. Mss. Stewart, William R.</p>  </relatedmaterial>
+  <separatedmaterial id="aspace_23f1b37f42fdf7a5ba9b5bcefe826e6f">
+    <head>Separated Material</head>
+<p>The tracing paper plans of the Arch dedication ceremony and seating arrangements have been separated to oversize. Letters in the collection to William R. Stewart from Theodore Roosevelt and Grover Cleveland have been replaced with photocopies and originals moved to Miscellaneous Manuscripts, Roosevelt, Theodore and Miscellaneous Manuscripts, Cleveland, Grover respectively.</p>  </separatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Account books.</genreform>
+    <genreform source="aat">Agreements</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Contracts.</genreform>
+    <genreform source="aat">Estate inventories.</genreform>
+    <genreform source="aat">Gelatin silver prints.</genreform>
+    <genreform source="aat">Invitations.</genreform>
+    <genreform source="aat">Invoices.</genreform>
+    <genreform source="aat">Letterpress copybooks.</genreform>
+    <genreform source="aat">Letters (correspondence)</genreform>
+    <genreform source="aat">Minutes (administrative records)</genreform>
+    <genreform source="aat">Photographic prints.</genreform>
+    <genreform source="aat">Prints (visual works).</genreform>
+    <genreform source="aat">Programs (documents).</genreform>
+    <genreform source="aat">Receipts (financial records).</genreform>
+    <genreform source="aat">Reports.</genreform>
+    <genreform source="aat">Subscription lists</genreform>
+    <title source="lcsh">History of the Washington Arch in Washington Square, New York</title>
+    <subject source="lcsh">Arches -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Decoration and ornament, Architectural -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Fund raising</subject>
+    <subject source="lcsh">Monuments -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Outdoor sculpture -- New York (State)  -- New York. </subject>
+    <geogname source="lcsh">Washington Square (New York, N.Y.)</geogname>
+    <persname rules="rda" source="local">Fitzgerald, Louis</persname>
+    <persname rules="rda" source="naf">Gilder, Richard Watson, 1844-1909</persname>
+    <persname rules="rda" source="naf">Marquand, Henry Gurdon, 1819-1902</persname>
+    <persname rules="rda" source="naf">Washington, George, 1732-1799 -- Anniversaries, etc.</persname>
+    <persname rules="rda" source="naf">Washington, George, 1732-1799 -- Monuments</persname>
+    <persname source="naf">White, Stanford, 1853-1906</persname>
+    <corpname source="naf">Committee on Erection of the Washington Arch at Washington Square (New York, N.Y.)</corpname>
+    <corpname source="naf">McKim, Mead &amp; White</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_ref16_o3z" level="series"><did><unittitle>Series I: Administrative Records, 1883-1918</unittitle></did><scopecontent id="aspace_918bcf6de8394e26f02ca14471c0c1d6"><head>Scope and Contents note</head><p>This series consists of a variety of materials related to the administrative duties of the Washington Memorial Arch Committee. Materials include agreements and contracts between McKim, Mead &amp; White and builders and sculptors, form letters sent to potential subscribers requesting donations, minutes, proposals, petitions, and reports.</p></scopecontent><c id="aspace_ref17_7r3" level="file"><did><unittitle>Agreements and Contracts</unittitle><unitdate normal="1889/1918" type="inclusive">1889, 1913-1918</unitdate><container id="aspace_cb47513022fe0650d96e58ff620acaac" label="Mixed Materials" type="Box">1</container><container parent="aspace_cb47513022fe0650d96e58ff620acaac" type="Folder">1</container></did></c><c id="aspace_ref18_h9r" level="file"><did><unittitle>Form Letters</unittitle><unitdate normal="1883/1917" type="inclusive">1883-1891, 1917</unitdate><container id="aspace_9edfe0f1744d87f392d95141ed645895" label="Mixed Materials" type="Box">1</container><container parent="aspace_9edfe0f1744d87f392d95141ed645895" type="Folder">2</container></did></c><c id="aspace_ref19_vbh" level="file"><did><unittitle>Minutes, Proposals, and Resolutions</unittitle><unitdate normal="1889/1916" type="inclusive">1889, 1895-1896, 1912-1916</unitdate><container id="aspace_13968b7c9482de8cdcdac5b2dd4c8796" label="Mixed Materials" type="Box">1</container><container parent="aspace_13968b7c9482de8cdcdac5b2dd4c8796" type="Folder">3</container></did></c><c id="aspace_ref20_zje" level="file"><did><unittitle>Petitions for Parade In Washington Square and to erect a Triumphal Arch</unittitle><unitdate normal="1889/1889" type="inclusive">1889</unitdate><container id="aspace_565fdb45e6739a126dc3e86f318db10d" label="Mixed Materials" type="Box">1</container><container parent="aspace_565fdb45e6739a126dc3e86f318db10d" type="Folder">4</container></did></c><c id="aspace_ref21_g3y" level="file"><did><unittitle>Reports</unittitle><unitdate normal="1915/1918" type="inclusive">[1915], 1918</unitdate><container id="aspace_8b6fe21a895659ef7bd2038b7a3044af" label="Mixed Materials" type="Box">1</container><container parent="aspace_8b6fe21a895659ef7bd2038b7a3044af" type="Folder">5</container></did></c></c><c id="aspace_ref23_d1o" level="series"><did><unittitle>Series II: Correspondence, 1887-1925</unittitle></did><scopecontent id="aspace_958a425961f9e52a4c967d50c0b99367"><head>Scope and Contents note</head><p>This series includes the correspondence of William R. Stewart and other associates relating to matters concerning the committee, Arch, and subscriptions. The incoming correspondence to Stewart has been arranged alphabetically by the sender's last name. In general, the incoming correspondence to Stewart pertains to subscriptions collected and paid, input on the manuscript for the publication The History of the Washington Arch, and decisions made with the Department of Public Parks. One folder of correspondence from Richard Gilder, the Secretary of the committee, mainly deals with administrative matters such as meetings, resolutions, subscriptions paid, inquiries, costs of supplies, and contracts with particular builders and craftsmen. Stewart's professional involvement with Stanford White is well documented in their correspondence. The three folders of correspondence from Stanford White detail aspects of the construction including differences with the Department of Public Parks, estimates of costs, measurements, models of the eagles, the scaffolding, and the cleaning of the piers. </p><p>The outgoing correspondence from Stewart is bound in four letterpress books that are organized chronologically. Indices in the front of the books list correspondents alphabetically along with the page numbers of their letters. The correspondence solicits and thanks participants for subscriptions to the Memorial Arch Fund and details the business of the committee. Other correspondence in the collection includes letters to Thomas Keating from Richard Gilder as well as incoming correspondence to Richard Gilder, Henry G. Marquand, and Stanford White. </p></scopecontent><c id="aspace_ref24_n0b" level="file"><did><unittitle>Incoming to William R. Stewart, from A-B</unittitle><unitdate normal="1889/1925" type="inclusive">1889-1925</unitdate><container id="aspace_0ab1c6a76ad1a9af6d9a93a95efcec5a" label="Mixed Materials" type="Box">1</container><container parent="aspace_0ab1c6a76ad1a9af6d9a93a95efcec5a" type="Folder">6</container></did></c><c id="aspace_ref25_z6n" level="file"><did><unittitle>Incoming to William R. Stewart, from C-D</unittitle><unitdate normal="1889/1901" type="inclusive">1889-1901</unitdate><container id="aspace_892303837d0dce3a015c677d89136be1" label="Mixed Materials" type="Box">1</container><container parent="aspace_892303837d0dce3a015c677d89136be1" type="Folder">7</container></did></c><c id="aspace_ref26_xhn" level="file"><did><unittitle>Incoming to William R. Stewart, from E-F</unittitle><unitdate normal="1887/1895" type="inclusive">1887-1895</unitdate><container id="aspace_09309f19a16aa64027064b5b3acea3a1" label="Mixed Materials" type="Box">1</container><container parent="aspace_09309f19a16aa64027064b5b3acea3a1" type="Folder">8</container></did></c><c id="aspace_ref27_rxr" level="file"><did><unittitle>Incoming to William R. Stewart, from G</unittitle><unitdate normal="1889/1895" type="inclusive">1889-1895</unitdate><container id="aspace_733d8899cda83a9d71370dd290bd196d" label="Mixed Materials" type="Box">1</container><container parent="aspace_733d8899cda83a9d71370dd290bd196d" type="Folder">9</container></did></c><c id="aspace_ref28_kno" level="file"><did><unittitle>Incoming to William R. Stewart, from Richard W. Gilder</unittitle><unitdate normal="1889/1897" type="inclusive">1889-1897</unitdate><container id="aspace_7687ccb1bcc7e0a87fe3d9940b386d28" label="Mixed Materials" type="Box">1</container><container parent="aspace_7687ccb1bcc7e0a87fe3d9940b386d28" type="Folder">10</container></did></c><c id="aspace_ref29_jmf" level="file"><did><unittitle>Incoming to William R. Stewart, from H-L</unittitle><unitdate normal="1889/1918" type="inclusive">1889-1918</unitdate><container id="aspace_034c5b99096ced0b32150deb209d0ef6" label="Mixed Materials" type="Box">1</container><container parent="aspace_034c5b99096ced0b32150deb209d0ef6" type="Folder">11</container></did></c><c id="aspace_ref30_zyh" level="file"><did><unittitle>Incoming to William R. Stewart, from M</unittitle><unitdate normal="1889/1901" type="inclusive">1889-1901</unitdate><container id="aspace_c6720d8890a108ae36a06d540c0cd75c" label="Mixed Materials" type="Box">1</container><container parent="aspace_c6720d8890a108ae36a06d540c0cd75c" type="Folder">12</container></did></c><c id="aspace_ref31_2gq" level="file"><did><unittitle>Incoming to William R. Stewart, from N-R</unittitle><unitdate normal="1889/1908" type="inclusive">1889-1908</unitdate><container id="aspace_5db129fecab0d2bc07f94ad03362289a" label="Mixed Materials" type="Box">1</container><container parent="aspace_5db129fecab0d2bc07f94ad03362289a" type="Folder">13</container></did></c><c id="aspace_ref32_sr6" level="file"><did><unittitle>Incoming to William R. Stewart, from S</unittitle><unitdate normal="1889/1913" type="inclusive">1889-1913</unitdate><container id="aspace_25c125bdddec45421ede84a49582e97a" label="Mixed Materials" type="Box">1</container><container parent="aspace_25c125bdddec45421ede84a49582e97a" type="Folder">14</container></did></c><c id="aspace_ref33_n50" level="file"><did><unittitle>Incoming to William R. Stewart, from T-Z</unittitle><unitdate normal="1889/1895" type="inclusive">1889-1895</unitdate><container id="aspace_00887f5fb06b474cf3dac8f1c85e9075" label="Mixed Materials" type="Box">2</container><container parent="aspace_00887f5fb06b474cf3dac8f1c85e9075" type="Folder">1</container></did></c><c id="aspace_ref34_utz" level="file"><did><unittitle>Incoming to William R. Stewart, from Stanford White</unittitle><unitdate normal="1889/1891" type="inclusive">1889-1891</unitdate><container id="aspace_956dfe0dd2b266678429ae8e7ccec1bc" label="Mixed Materials" type="Box">2</container><container parent="aspace_956dfe0dd2b266678429ae8e7ccec1bc" type="Folder">2</container></did></c><c id="aspace_ref35_emn" level="file"><did><unittitle>Incoming to William R. Stewart, from Stanford White</unittitle><unitdate normal="1892/1893" type="inclusive">1892-1893</unitdate><container id="aspace_0e3d82d135929a6813287b971bc9c803" label="Mixed Materials" type="Box">2</container><container parent="aspace_0e3d82d135929a6813287b971bc9c803" type="Folder">3</container></did></c><c id="aspace_ref36_6go" level="file"><did><unittitle>Incoming to William R. Stewart, from Stanford White</unittitle><unitdate normal="1894/1897" type="inclusive">1894-1897</unitdate><container id="aspace_bab440903bc6ee8e8f6e0dc831b3162f" label="Mixed Materials" type="Box">2</container><container parent="aspace_bab440903bc6ee8e8f6e0dc831b3162f" type="Folder">4</container></did></c><c id="aspace_ref37_zg2" level="file"><did><unittitle>Outgoing from William R. Stewart, Letterpress Book #1</unittitle><unitdate>1889 May-1891 May</unitdate><container id="aspace_13df61e3df9bfa0c453bfdec7e766b6c" label="Mixed Materials" type="Box">2</container><container parent="aspace_13df61e3df9bfa0c453bfdec7e766b6c" type="Folder">5</container></did></c><c id="aspace_ref38_obl" level="file"><did><unittitle>Outgoing from William R. Stewart, Letterpress Book #2</unittitle><unitdate>1891 May 12-1892 Mar. 17</unitdate><container id="aspace_7e7d3713af09b627a4877a05e41afee7" label="Mixed Materials" type="Box">2</container><container parent="aspace_7e7d3713af09b627a4877a05e41afee7" type="Folder">6</container></did></c><c id="aspace_ref39_pnq" level="file"><did><unittitle>Outgoing from William R. Stewart, Letterpress Book #3</unittitle><unitdate>1892 Mar. 18--1895 Apr. 25</unitdate><container id="aspace_0161b6c7302c8429b7f875e6cc9cb027" label="Mixed Materials" type="Box">3</container><container parent="aspace_0161b6c7302c8429b7f875e6cc9cb027" type="Folder">1</container></did></c><c id="aspace_ref40_iyg" level="file"><did><unittitle>Outgoing from William R. Stewart, Letterpress Book #4</unittitle><unitdate>1895 Apr. 25--1897 Oct. 6</unitdate><container id="aspace_86c1c38d4deb6dd3cfcd20a0dd642cf1" label="Mixed Materials" type="Box">3</container><container parent="aspace_86c1c38d4deb6dd3cfcd20a0dd642cf1" type="Folder">2</container></did></c><c id="aspace_ref41_nwd" level="file"><did><unittitle>Outgoing from William R. Stewart,</unittitle><unitdate normal="1889/1892" type="inclusive">1889, 1892</unitdate><container id="aspace_d8cc575db32e0975253d90873c0cd896" label="Mixed Materials" type="Box">3</container><container parent="aspace_d8cc575db32e0975253d90873c0cd896" type="Folder">3</container></did></c><c id="aspace_ref42_0n3" level="file"><did><unittitle>Incoming to Thomas F. Keating from Richard W. Gilder</unittitle><unitdate normal="1890/1890" type="inclusive">1890</unitdate><container id="aspace_a18a703ba9f5b8629430b6baa97ca29c" label="Mixed Materials" type="Box">3</container><container parent="aspace_a18a703ba9f5b8629430b6baa97ca29c" type="Folder">4</container></did></c><c id="aspace_ref43_5zr" level="file"><did><unittitle>Incoming to Richard W. Gilder from Various Correspondents</unittitle><unitdate normal="1889/1891" type="inclusive">1889-1891</unitdate><container id="aspace_f5cf3513bff538f739f7e893363acc0d" label="Mixed Materials" type="Box">3</container><container parent="aspace_f5cf3513bff538f739f7e893363acc0d" type="Folder">5</container></did></c><c id="aspace_ref44_2nj" level="file"><did><unittitle>Incoming to Henry G. Marquand from Various Correspondents</unittitle><unitdate normal="1889/1895" type="inclusive">1889, 1895</unitdate><container id="aspace_e934663ba3010d82070b42fa73cd9718" label="Mixed Materials" type="Box">3</container><container parent="aspace_e934663ba3010d82070b42fa73cd9718" type="Folder">6</container></did></c><c id="aspace_ref45_79v" level="file"><did><unittitle>Incoming to Stanford White from Various Correspondents</unittitle><unitdate normal="1892/1892" type="inclusive">1892</unitdate><container id="aspace_b6f86b9263325a800e1419f05e48ca79" label="Mixed Materials" type="Box">3</container><container parent="aspace_b6f86b9263325a800e1419f05e48ca79" type="Folder">7</container></did></c><c id="aspace_ref46_9yq" level="file"><did><unittitle>Letters to and from Various Correspondents</unittitle><unitdate normal="1891/1895" type="inclusive">1891-1895</unitdate><container id="aspace_638875f8370593cd720ecc9adcfaefdb" label="Mixed Materials" type="Box">3</container><container parent="aspace_638875f8370593cd720ecc9adcfaefdb" type="Folder">8</container></did></c><c id="aspace_ref47_arm" level="file"><did><unittitle>Blank Stationery</unittitle><unitdate normal="1890/1917" type="inclusive">[1890], 1917</unitdate><container id="aspace_321dd0b4f1e944d1ddda516d44d4376d" label="Mixed Materials" type="Box">3</container><container parent="aspace_321dd0b4f1e944d1ddda516d44d4376d" type="Folder">9</container></did></c></c><c id="aspace_ref49_217" level="series"><did><unittitle>Series III: Fundraising Records, 1889-1918</unittitle></did><scopecontent id="aspace_c968e7b8008101284c100f65fbe8b2ac"><head>Scope and Contents note</head><p>Financial materials relating to the fundraising activities for the building of the Arch and, later, the statues of George Washington comprise this subseries.</p></scopecontent><c id="aspace_ref50_zbi" level="subseries"><did><unittitle>Subseries I: The Washington Arch Fund, 1889-1897</unittitle></did><scopecontent id="aspace_201bf93980ae996f2e0d580ddc30d766"><head>Scope and Contents note</head><p>This subseries contains materials that document the fundraising activities to build a permanent Arch in Washington Square Park. It includes account books and several lists of contributors along with the amount each donated. It also includes bills, invoices, receipts, statements, and programs documenting the various benefits held to raise money for the Arch.</p></scopecontent><c id="aspace_ref51_zkb" level="file"><did><unittitle>Account Books</unittitle><unitdate normal="1889/1895" type="inclusive">1889-1895</unitdate><container id="aspace_582d8762be9d2958b15f2ced9e63b1b8" label="Mixed Materials" type="Box">3</container><container parent="aspace_582d8762be9d2958b15f2ced9e63b1b8" type="Folder">10</container></did></c><c id="aspace_ref52_jud" level="file"><did><unittitle>Subscriptions</unittitle><unitdate normal="1889/1889" type="inclusive">1889 (1 of 2)</unitdate><container id="aspace_dc297c634f2bde8f9d03eb29f2028b49" label="Mixed Materials" type="Box">3</container><container parent="aspace_dc297c634f2bde8f9d03eb29f2028b49" type="Folder">11</container></did></c><c id="aspace_ref53_ggo" level="file"><did><unittitle>Subscriptions</unittitle><unitdate normal="1889/1889" type="inclusive">1889 (2 of 2)</unitdate><container id="aspace_11e2ba244c63c579e463ee1219da6aea" label="Mixed Materials" type="Box">4</container><container parent="aspace_11e2ba244c63c579e463ee1219da6aea" type="Folder">1</container></did></c><c id="aspace_ref54_hgu" level="file"><did><unittitle>Subscription Book</unittitle><unitdate normal="1889/1890" type="inclusive">1889-1890 (1 of 2)</unitdate><container id="aspace_992813b8876432f1ad4cd1b437dd9120" label="Mixed Materials" type="Box">4</container><container parent="aspace_992813b8876432f1ad4cd1b437dd9120" type="Folder">2</container></did></c><c id="aspace_ref55_ix1" level="file"><did><unittitle>Subscription Book</unittitle><unitdate normal="1889/1890" type="inclusive">1889-1890 (2 of 2)</unitdate><container id="aspace_cb0f3ebd8e92ba7d1e127b44f15b1a0e" label="Mixed Materials" type="Box">4</container><container parent="aspace_cb0f3ebd8e92ba7d1e127b44f15b1a0e" type="Folder">3</container></did></c><c id="aspace_ref56_esq" level="file"><did><unittitle>Lists of Subscriptions Received</unittitle><unitdate normal="1889/1890" type="inclusive">1889-1890</unitdate><container id="aspace_ee4d88480fabf3b76a3970ac0491bba0" label="Mixed Materials" type="Box">4</container><container parent="aspace_ee4d88480fabf3b76a3970ac0491bba0" type="Folder">4</container></did></c><c id="aspace_ref57_2cw" level="file"><did><unittitle>Booklets of Subscriptions of $100</unittitle><unitdate normal="1891/1892" type="inclusive">1891-1892</unitdate><container id="aspace_5348cad254d98fa097b4a1cc48a88c01" label="Mixed Materials" type="Box">4</container><container parent="aspace_5348cad254d98fa097b4a1cc48a88c01" type="Folder">5</container></did></c><c id="aspace_ref58_gc6" level="file"><did><unittitle>Bills, Invoices, Receipts, Statements</unittitle><unitdate normal="1889/1891" type="inclusive">1889-1891</unitdate><container id="aspace_609ed376a92e14a413f2c00a01112500" label="Mixed Materials" type="Box">4</container><container parent="aspace_609ed376a92e14a413f2c00a01112500" type="Folder">6</container></did></c><c id="aspace_ref59_7zn" level="file"><did><unittitle>Bills, Invoices, Receipts, Statements, "Washington Arch Vouchers, September 18th 1890 to July 8th 1895"</unittitle><unitdate normal="1890/1897" type="inclusive">1890-1895, 1897</unitdate><container id="aspace_a3efce13205b286d3c563a6a7d8d2f0b" label="Mixed Materials" type="Box">4</container><container parent="aspace_a3efce13205b286d3c563a6a7d8d2f0b" type="Folder">7</container></did></c><c id="aspace_ref60_8c7" level="file"><did><unittitle>Programs from Benefits for the Washington Arch Fund</unittitle><unitdate normal="1891/1891" type="inclusive">1891</unitdate><container id="aspace_67b964b8aaf3d4604124128d9a439644" label="Mixed Materials" type="Box">4</container><container parent="aspace_67b964b8aaf3d4604124128d9a439644" type="Folder">8</container></did></c><c id="aspace_ref61_hip" level="file"><did><unittitle>Advertisements for Subscriptions</unittitle><unitdate normal="1891/1891" type="inclusive">1891</unitdate><container id="aspace_886f724d38781ff4bb6aa4035b3a401a" label="Mixed Materials" type="Box">4</container><container parent="aspace_886f724d38781ff4bb6aa4035b3a401a" type="Folder">9</container></did></c><c id="aspace_ref62_h10" level="file"><did><unittitle>Blank Subscription Cards</unittitle><unitdate normal="1889/1892" type="inclusive">1889, 1892</unitdate><container id="aspace_e2d40a5537fb4751e2d82e29c11a7009" label="Mixed Materials" type="Box">4</container><container parent="aspace_e2d40a5537fb4751e2d82e29c11a7009" type="Folder">10</container></did></c><c id="aspace_ref63_rl2" level="file"><did><unittitle>Cancelled Checks</unittitle><unitdate normal="1889/1895" type="inclusive">1889-1895</unitdate><container id="aspace_b70989c6f81e7a0ad04d0e3da35ca3db" label="Mixed Materials" type="Box">4</container><container parent="aspace_b70989c6f81e7a0ad04d0e3da35ca3db" type="Folder">11</container></did></c><c id="aspace_ref64_ymv" level="file"><did><unittitle>Ribbon from a member of the Washington Memorial Arch Committee</unittitle><unitdate>undated</unitdate><container id="aspace_58755d886add2f1d62794fb91c540734" label="Mixed Materials" type="Box">4</container><container parent="aspace_58755d886add2f1d62794fb91c540734" type="Folder">12</container></did></c></c><c id="aspace_ref66_jd1" level="subseries"><did><unittitle>Subseries II: Washington Arch Statuary Fund, 1901-1918</unittitle></did><scopecontent id="aspace_77db6909be8c32bbf9613510452d3c46"><head>Scope and Contents note</head><p>This subseries contains material relating to the fundraising efforts to build two statues of George Washington on the east and west sides of the completed Arch. It includes account books, subscription lists, bills, invoices, receipts, and statements.</p></scopecontent><c id="aspace_ref67_9zf" level="file"><did><unittitle>Account Books</unittitle><unitdate normal="1901/1912" type="inclusive">1901-1912</unitdate><container id="aspace_77e0d9e8cc4990c22c16e75c95ce3231" label="Mixed Materials" type="Box">5</container><container parent="aspace_77e0d9e8cc4990c22c16e75c95ce3231" type="Folder">1</container></did></c><c id="aspace_ref68_wqa" level="file"><did><unittitle>Subscriptions</unittitle><unitdate normal="1902/1918" type="inclusive">1902-1918</unitdate><container id="aspace_1bbb1442eeee9a7f8299080614d1111b" label="Mixed Materials" type="Box">5</container><container parent="aspace_1bbb1442eeee9a7f8299080614d1111b" type="Folder">2</container></did></c><c id="aspace_ref69_nni" level="file"><did><unittitle>Booklets of Subscriptions to the $32,000 Statuary Fund</unittitle><unitdate normal="1902/1918" type="inclusive">[1902-1918]</unitdate><container id="aspace_8beca28b50246e4ed5f9a3bf2ba793c7" label="Mixed Materials" type="Box">5</container><container parent="aspace_8beca28b50246e4ed5f9a3bf2ba793c7" type="Folder">3</container></did></c><c id="aspace_ref70_qog" level="file"><did><unittitle>Bills, Invoices, Receipts, Statements, "Vouchers of the Washington Arch Statuary Fund"</unittitle><unitdate normal="1903/1918" type="inclusive">1903, 1913-1918</unitdate><container id="aspace_a4ab04dcb6b2735e7d6613622e50bf85" label="Mixed Materials" type="Box">5</container><container parent="aspace_a4ab04dcb6b2735e7d6613622e50bf85" type="Folder">4</container></did></c></c></c><c id="aspace_ref73_v8o" level="series"><did><unittitle>Series IV: Centennial Celebration and Ceremonies, 1889-1895</unittitle></did><scopecontent id="aspace_2040d95564d39e7950bc2855023ce2a1"><head>Scope and Contents note</head><p>This series includes plans, memorabilia and photographs from ceremonies involving the Washington Arch. The memorabilia consists of programs and invitations, and the ceremonies include the Centennial Celebration parade, the Laying of the Cornerstone ceremony, and the Dedication ceremony. The photographs of the dedication ceremony and parade are albumens, larger than cabinet size. The plans of the Arch dedication ceremony are oversize.</p></scopecontent><c id="aspace_ref74_yc3" level="file"><did><unittitle>Invitations and Programs from the Centennial Celebration of the Inauguration of George Washington</unittitle><unitdate normal="1889/1889" type="inclusive">1889</unitdate><container id="aspace_7a440ee4e1471c745d658e0f219f1694" label="Mixed Materials" type="Box">5</container><container parent="aspace_7a440ee4e1471c745d658e0f219f1694" type="Folder">5</container></did></c><c id="aspace_ref75_kok" level="file"><did><unittitle>Programs from Laying of the Corner Stone and Dedication Ceremony for the Washington Arch</unittitle><unitdate normal="1890/1895" type="inclusive">1890, 1891, 1895</unitdate><container id="aspace_50470cd029b7a46e878b2d6a236eeb21" label="Mixed Materials" type="Box">5</container><container parent="aspace_50470cd029b7a46e878b2d6a236eeb21" type="Folder">6</container></did></c><c id="aspace_ref76_wbh" level="file"><did><unittitle>Photographs of the Dedication Ceremony</unittitle><unitdate normal="1895/1895" type="inclusive">1895</unitdate><container id="aspace_f953ec3f7f23c823d0ac0977399bec5d" label="Mixed Materials" type="Box">5</container><container parent="aspace_f953ec3f7f23c823d0ac0977399bec5d" type="Folder">7</container></did></c><c id="aspace_ref77_ad0" level="file"><did><unittitle>Reviewing Stands for Dedication Ceremonies of Washington Memorial Arch (tracing paper plan)</unittitle><unitdate>undated</unitdate><container id="aspace_29671d0de92651b9efdccddd094ff29b" label="Mixed Materials" type="Box">OS-Medium</container></did></c></c><c id="aspace_ref79_qhn" level="series"><did><unittitle>Series V: Depictions of the Washington Arch, 1890-1918</unittitle></did><scopecontent id="aspace_19fd626b5dd8628189caa0d12b952c11"><head>Scope and Contents note</head><p>This series contains photographs and prints that portray the Arch and its sculptures of George Washington. The prints of Arch depict the temporary Arch as well as the completed, permanent Arch. The photographs of the sculptures include close-ups as well as far away shots that show their placement on the east and west ends of the Arch. The photographs were produced by the silver gelatin process and printed on mat paper.</p></scopecontent><c id="aspace_ref80_63b" level="file"><did><unittitle>Prints of the Arch</unittitle><unitdate>[1890-1899]</unitdate><container id="aspace_46da3cd2de9895cf15fb8589fdcdfb89" label="Mixed Materials" type="Box">5</container><container parent="aspace_46da3cd2de9895cf15fb8589fdcdfb89" type="Folder">8</container></did></c><c id="aspace_ref81_fcn" level="file"><did><unittitle>Photographs of Sculptures on the Arch</unittitle><unitdate normal="1913/1918" type="inclusive">[1913-1918]</unitdate><container id="aspace_9baa13dd28aa83c12457c21a2629025f" label="Mixed Materials" type="Box">5</container><container parent="aspace_9baa13dd28aa83c12457c21a2629025f" type="Folder">9</container></did></c></c><c id="aspace_ref83_zoe" level="series"><did><unittitle>Series VI: Drafts and Publications, 1893-1896</unittitle></did><scopecontent id="aspace_28f7d94df3409e961f413506a7f588b1"><head>Scope and Contents note</head><p>This series contains the draft and published version of <title type="simple" render="italic">The History of the Washington Arch</title>, a narrative text that tells the story of the Arch's beginnings, its main organizers, and the dedication ceremonies that followed. It also contains a 1892 <title type="simple" render="italic">Guide to New York City</title>that includes a drawing and description of the Arch.</p></scopecontent><c id="aspace_ref84_63n" level="file"><did><unittitle>Draft, <title render="italic">The History of the Washington Arch</title></unittitle><unitdate normal="1893/1893" type="inclusive">1893</unitdate><container id="aspace_2b3417a457701214c320be56ad2c167d" label="Mixed Materials" type="Box">5</container><container parent="aspace_2b3417a457701214c320be56ad2c167d" type="Folder">10</container></did></c><c id="aspace_ref85_f5o" level="file"><did><unittitle>Publication, <title render="italic">The History of the Washington Arch</title></unittitle><unitdate normal="1896/1896" type="inclusive">1896</unitdate><container id="aspace_c98b63359d2a2a30532acfb29b7496c7" label="Mixed Materials" type="Box">5</container><container parent="aspace_c98b63359d2a2a30532acfb29b7496c7" type="Folder">11</container></did></c><c id="aspace_ref86_5nk" level="file"><did><unittitle><title render="italic">Guide to New York City</title>, featuring the Washington Arch</unittitle><unitdate normal="1892/1892" type="inclusive">1892</unitdate><container id="aspace_a5bd809382c19bf486e2e8da5d16a518" label="Mixed Materials" type="Box">5</container><container parent="aspace_a5bd809382c19bf486e2e8da5d16a518" type="Folder">12</container></did></c></c><c id="aspace_ref88_ta9" level="series"><did><unittitle>Series VII: Newspapers, 1890-1920</unittitle></did><scopecontent id="aspace_037a399f73ed4928cd6935a56d806cc0"><head>Scope and Contents note</head><p>This series consists of a variety of articles documenting the Washington Arch, its dedication, and sculptures. Included in this series are clippings from <title type="simple" render="italic">The New York Times</title>, <title type="simple" render="italic">Harper's Weekly</title>, <title type="simple" render="italic">The Star</title>, <title type="simple" render="italic">New York Herald</title>, <title type="simple" render="italic">The Tribune</title>, <title type="simple" render="italic">The Press</title>, and <title type="simple" render="italic">The World</title>. In addition, three copies of <title type="simple" render="italic">The Chimney-Seat</title>, an illustrated paper that donated the proceeds from its first two issues to the Washington Memorial Arch Fund, are included.</p></scopecontent><c id="aspace_ref89_9r3" level="file"><did><unittitle>Newspapers, <title render="italic">The Chimney-Seat</title></unittitle><unitdate normal="1889/1890" type="inclusive">1889-1890</unitdate><container id="aspace_9646fe72de2b14232c734f479e3b45bf" label="Mixed Materials" type="Box">6</container><container parent="aspace_9646fe72de2b14232c734f479e3b45bf" type="Folder">1</container></did></c><c id="aspace_ref90_vql" level="file"><did><unittitle>Newspaper Clippings Regarding the Arch</unittitle><unitdate normal="1890/1920" type="inclusive">[1890-1920]</unitdate><container id="aspace_cf32f44b312d909cd7ba01e495a79f4e" label="Mixed Materials" type="Box">7</container></did></c></c><c id="aspace_ref92_d29" level="series"><did><unittitle>Series VIII: Personal Materials of William Rhinelander Stewart, 1872-1929</unittitle></did><scopecontent id="aspace_c7678270dc0c9bea6660213eb37ec9e8"><head>Scope and Contents note</head><p>This series includes materials relating to the personal life of William R. Stewart. Such materials include agreements from his career as an estates manager, bulletins and programs from Grace Church and the Western New York Institution for Deaf Mutes, inventories of estates, and invitations to art openings, weddings, and dances.</p></scopecontent><c id="aspace_ref93_yt6" level="file"><did><unittitle>Biography, William R. Stewart</unittitle><unitdate normal="1890/1899" type="inclusive">[1890-1899]</unitdate><container id="aspace_59fbd223ea6541e33ad49877620529c3" label="Mixed Materials" type="Box">6</container><container parent="aspace_59fbd223ea6541e33ad49877620529c3" type="Folder">2</container></did></c><c id="aspace_ref94_vkp" level="file"><did><unittitle>Correspondence, Non-Washington Memorial Arch Committee</unittitle><unitdate normal="1888/1889" type="inclusive">1888-1889</unitdate><container id="aspace_23f13402d3a63ea307a66074acca7ec4" label="Mixed Materials" type="Box">6</container><container parent="aspace_23f13402d3a63ea307a66074acca7ec4" type="Folder">3</container></did></c><c id="aspace_ref95_9mg" level="file"><did><unittitle>Invitations</unittitle><unitdate normal="1872/1925" type="inclusive">1872-1889, 1925</unitdate><container id="aspace_a86be94b17308253500b903480c6d903" label="Mixed Materials" type="Box">6</container><container parent="aspace_a86be94b17308253500b903480c6d903" type="Folder">4</container></did></c><c id="aspace_ref96_t81" level="file"><did><unittitle>Bulletins and Programs</unittitle><unitdate normal="1888/1913" type="inclusive">1888-1895, 1913</unitdate><container id="aspace_77dd2cd0c540d1ab03cfb61213e4f478" label="Mixed Materials" type="Box">6</container><container parent="aspace_77dd2cd0c540d1ab03cfb61213e4f478" type="Folder">5</container></did></c><c id="aspace_ref97_4bg" level="file"><did><unittitle>Inventories of Estates of George P. Rogers, Mary R. Stewart, and William R. Stewart</unittitle><unitdate>1888-1889, undated</unitdate><container id="aspace_85c59348ce4a0a5c8f97059773e3c944" label="Mixed Materials" type="Box">6</container><container parent="aspace_85c59348ce4a0a5c8f97059773e3c944" type="Folder">6</container></did></c><c id="aspace_ref98_vb5" level="file"><did><unittitle>Unidentified Inventories of Estates</unittitle><unitdate>undated</unitdate><container id="aspace_5b66fa4fe1a13f40f99228a6b4bf044b" label="Mixed Materials" type="Box">6</container><container parent="aspace_5b66fa4fe1a13f40f99228a6b4bf044b" type="Folder">7</container></did></c><c id="aspace_ref99_f43" level="file"><did><unittitle>Agreement between Serena Rhinelander and St. James Mission</unittitle><unitdate normal="1895/1895" type="inclusive">1895</unitdate><container id="aspace_5ee5355901d7b9bac043015c02ab0519" label="Mixed Materials" type="Box">6</container><container parent="aspace_5ee5355901d7b9bac043015c02ab0519" type="Folder">8</container></did></c></c></dsc>
+</archdesc>
 </ead>
