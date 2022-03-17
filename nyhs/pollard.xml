@@ -1,363 +1,67 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">pollard</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Calvin Pollard Architectural Drawing Collection
-                    <lb/>
-                    <date>1834-1852, undated</date>
-                    <lb/>
-                    <num></num>
-                    <num>PR 51</num>
-                </titleproper>
-                <author>Finding aid prepared by Sandra Markham</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derived from pollard.xml</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>© 2011 New-York Historical Society</publisher>
-                <address>
-                    <addressline>New-York Historical Society</addressline>
-                    <addressline>170 Central Park West</addressline>
-                    <addressline>New York, NY 10024</addressline>
-                    <addressline>Phone: (212) 873-3400</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-01-04T16:37-0500</date>
-            </creation>
-            <langusage>Description is in 
-                <language>English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Calvin Pollard Architectural Drawing Collection</unittitle>
-            <unitid>PR 51</unitid>
-            <repository>
-                <corpname>© 2011 New-York Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.25 Linear feet</extent>
-                <extent>(ca. 84 sheets of drawings, 2 albums)</extent>
-            </physdesc>
-            <unitdate normal="1834/1852" type="inclusive">1834-1852, undated</unitdate>
-            <physloc audience="internal" id="ref2" label="Location note">Department of Prints, Photographs, and Architectural Collections</physloc>
-            <abstract id="ref3" label="Abstract">The collection consists of architectural and engineering drawings, chiefly elevations and floor plans in ink, graphite, and color wash. Despite the fact that few clients or specific locales are identified and only about 10 drawings are signed or dated, the rarity of original designs from this time period makes the Society's drawings valuable.</abstract>
-        </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>Gifts of E. H. Sauer, 1913, and Samuel V. Hoffman, 1912 and 1917.</p>
-        </custodhist>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open to qualified researchers.</p>
-            <p>Photocopying undertaken by staff only. Limited to thirty exposures of stable, unbound material per day. See guidelines in Print Room for details.</p>
-        </accessrestrict>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>Permission to reproduce any Print Room holdings through publication must be obtained from: 
-                <lb/>
-                <address>
-                    <addressline>Rights and Reproductions</addressline>
-                    <addressline>The New-York Historical Society
-                        <lb/>Two West 77th Street
-                        <lb/>New York, NY 10024</addressline>
-                    <addressline>Phone: (212) 873-3400 ext. 282</addressline>
-                    <addressline>Fax: (212) 579-8794</addressline>
-                </address></p>
-            <p>The copyright law of the United States governs the making of photocopies and protects unpublished materials as well as published materials. Unpublished materials created before January 1, 1978 cannot be quoted in publication without permission of the copyright holder.</p>
-        </userestrict>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>This collection should be cited as Calvin Pollard Architectural Drawing Collection, PR 051, Department of Prints, Photographs, and Architectural Collections, The New-York Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref8">
-            <head>Biographical Note</head>
-            <p>Calvin Pollard was born on June 14, 1797, in New Braintree, Massachusetts. He moved with his family to Cazenovia, in central New York State, in 1803, and then to New York City in 1818. Pollard first appears in the city directories in 1826 as a builder. He then is listed consistently from 1830 until his death in 1850, changing occupational listings from "builder" to "architect" in 1840.</p>
-            <p>
-                <list>
-                    <head>Pollard's New York City Directory Listings</head>
-                    <item>1826 - builder - 23 Thompson Street</item>
-                    <item>1830-1833 - builder - 23 Thompson Street</item>
-                    <item>1833-1838 - builder - 28 Thompson Street</item>
-                    <item>1838-1839 - builder - 4 Wall Street, house 97 Nineteenth Street</item>
-                    <item>1839-1840 - builder - 4 Wall Street, house 214 Nineteenth Street</item>
-                    <item>1840-1841 - architect - 6 Broad Street, house 214 Nineteenth Street</item>
-                    <item>1841-1845 - architect - 6 Broad Street, house 214 West Nineteenth Street</item>
-                    <item>1845-1847 - architect - 4 Broad Street, house 214 West Nineteenth Street</item>
-                    <item>1847-1848 - architect - 14 Pine Street, house 214 West Nineteenth Street</item>
-                    <item>1848-1850 - architect - 5 Broad Street, house 214 West Nineteenth Street</item>
-                </list></p>
-        </bioghist>
-        <scopecontent id="ref9">
-            <head>Scope and Content Note</head>
-            <p>The Calvin Pollard Architectural Drawing Collection contains more than 120 drawings for buildings spanning the period from 1834 to 1849. Drawings are chiefly elevations and floor plans in ink, graphite, and color wash. Many of Pollard's designs are in the Greek Revival style.</p>
-            <p>Despite the fact that few clients or specific locales are identified and only about ten drawings are signed or dated, the rarity of original designs from this time period makes Pollard's drawings valuable. For example, plans for some fifteen residential projects provide data for studying the development of the typical New York townhouse.</p>
-            <p>All drawings are filed by number and reflect a general grouping by building type: residences, commercial properties, churches, theatres, and miscellaneous buildings. The latter group includes an 1834 plan for the base of a proposed Washington Monument in New York and a lunatic asylum. Projects also include a business establishment and a residence for a Mr. Hamlin; a commercial building in Manhattan and a residence in Ossining, New York, for a Dr. Brandreth; the Fort Washington Hotel; and Christ Church on Anthony (now Worth) Street.</p>
-            <p>The collection also contains two discrete albums, one containing nine pages of drawings titled "Plans and Elevations of the New National Theatre C. Pollard 1840." It holds contract drawings for the reconstruction the theatre following the great 1835 New York fire.</p>
-            <p>The second album holds nine engineering drawings that date from 1841-1852, with five additional drawings are laid in; all are technical drawings of railroad bridges, carriage parts, tunnels, and canal locks for transportation lines in Pennsylvania. Formerly assumed to be the work of Calvin Pollard, they are now thought to be the work of his son Don Alonzo Pollard (1837-1908), a civil engineer who was active in the construction of the Delaware, Lackawanna and Western Railroad.</p>
-            <p>Most of the architectural drawings are described in George S. Koyl, editor, 
-                <title render="italic">American Architectural Drawings. . . to 1917</title> (Philadelphia: American Institute of Architects Philadelphia Chapter, 1969.)</p>
-        </scopecontent>
-        <arrangement id="ref10">
-            <head>Arrangement</head>
-            <p>All drawings are filed by an N-YHS assigned number and reflect a general grouping by building type.</p>
-        </arrangement>
-        <relatedmaterial id="ref42">
-            <head>Related Material at the Department of Prints, Photographs, and Architectural Collections</head>
-            <p>A lithographic print of Pollard's full design for the Washington Monument can be found in the Print Room's Portrait File (PR 052) under Washington, George: Monuments and Memorials. Pollard's pocket diaries for 1841 and 1842, as well as a contract for remodeling Castle Garden, are held in the Manuscript Department of the New-York Historical Society Library. A watercolor rendering by Pollard of the Henry Remsen residence is in the Department of Paintings, Sculpture, and Decorative Arts of the Society's Museum.</p>
-        </relatedmaterial>
-        <controlaccess>
-            <corpname source="ingest">New National Theatre (New York, N.Y.)</corpname>
-            <persname source="ingest">Pollard, Don Alonzo, 1837-1908</persname>
-            <genreform source="aat">Albums</genreform>
-            <genreform source="aat">Architectural drawings</genreform>
-            <subject source="lcsh">Architecture, American -- 19th century -- Designs and plans</subject>
-            <subject source="lcsh">Architecture, Domestic -- United States</subject>
-            <subject source="lcsh">Asylums</subject>
-            <subject source="lcsh">Commercial buildings -- United States -- Designs and plans</subject>
-            <genreform source="aat">Contract drawings</genreform>
-            <subject source="lcsh">Dwellings -- New York (State)</subject>
-            <genreform source="aat">Elevations (drawings)</genreform>
-            <genreform source="aat">Floor plans</genreform>
-            <subject source="lcsh">Greek revival (Architecture) -- New York (State) -- New York</subject>
-            <subject source="lcsh">Locks (Hydraulic engineering)</subject>
-            <subject source="lcsh">Public buildings -- United States -- Designs and plans</subject>
-            <subject source="lcsh">Railroad bridges -- New York (State)</subject>
-            <genreform source="aat">Technical drawings</genreform>
-            <subject source="lcsh">Tunnels -- New York (State)</subject>
-            <genreform source="aat">Watercolors</genreform>
-        </controlaccess>
-        <dsc>
-            <c id="ref11" level="series">
-                <did>
-                    <unittitle></unittitle>
-                </did>
-                <scopecontent id="ref41">
-                    <head>Scope and Contents note</head>
-                    <p>Drawings are arranged in five groups: Residences, Commercial Properties, Churches, Theatres, and Miscellaneous Buildings. Consult the database printouts in the Society's Print Room for specific drawing titles.</p>
-                </scopecontent>
-                <c id="ref12" level="subseries">
-                    <did>
-                        <unittitle>Residences</unittitle>
-                    </did>
-                    <odd id="ref13">
-                        <head>General note</head>
-                        <p>See also Folder 23, drawing 45.</p>
-                    </odd>
-                    <c id="ref14" level="item">
-                        <did>
-                            <unittitle>Unidentified row houses, drawing numbers 1-4</unittitle>
-                            <container id="cid514416" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514416" type="Folder">1</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref15" level="item">
-                        <did>
-                            <unittitle>Unidentified row houses, drawing numbers 5-8</unittitle>
-                            <container id="cid514415" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514415" type="Folder">2</container>
-                            <unitdate>1834, undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref16" level="item">
-                        <did>
-                            <unittitle>Unidentified row house, 28th Street, Manhattan, drawing number 9</unittitle>
-                            <container id="cid514414" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514414" type="Folder">3</container>
-                            <unitdate>1845</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref17" level="item">
-                        <did>
-                            <unittitle>Unidentified row house, drawing number 10</unittitle>
-                            <container id="cid514413" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514413" type="Folder">4</container>
-                            <unitdate>1847</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref18" level="item">
-                        <did>
-                            <unittitle>Unidentified detached houses, drawing numbers 11-13</unittitle>
-                            <container id="cid514412" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514412" type="Folder">5</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref19" level="item">
-                        <did>
-                            <unittitle>Brandreth residence, Ossining, New York, drawing number 14</unittitle>
-                            <container id="cid514411" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514411" type="Folder">6</container>
-                            <unitdate>[1841]</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref20" level="item">
-                        <did>
-                            <unittitle>Detached houses, including Moffat residence, 335 Broadway, drawing numbers 15-17</unittitle>
-                            <container id="cid514410" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514410" type="Folder">7</container>
-                            <unitdate>1844, undated</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref21" level="subseries">
-                    <did>
-                        <unittitle>Commercial Properties</unittitle>
-                    </did>
-                    <c id="ref22" level="item">
-                        <did>
-                            <unittitle>Buildings, New York City, including Brandreth building at 241 Broadway, drawing numbers 18-22</unittitle>
-                            <container id="cid514409" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514409" type="Folder">8</container>
-                            <unitdate>1838-1849, undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref23" level="item">
-                        <did>
-                            <unittitle>Hamlin stores and residence, Eighth Avenue, Fourth Street, and Jane Street, drawing numbers 23-24</unittitle>
-                            <container id="cid514408" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514408" type="Folder">9</container>
-                            <unitdate>1847</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref24" level="item">
-                        <did>
-                            <unittitle>Hotel, Wall Street, drawing number 25</unittitle>
-                            <container id="cid514407" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514407" type="Folder">10</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref25" level="subseries">
-                    <did>
-                        <unittitle>Churches</unittitle>
-                    </did>
-                    <c id="ref26" level="item">
-                        <did>
-                            <unittitle>Christ Church, Anthony (now Worth) Street, drawing number 26</unittitle>
-                            <container id="cid514406" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514406" type="Folder">11</container>
-                            <unitdate>1847</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref27" level="item">
-                        <did>
-                            <unittitle>Unidentified church, drawing number 27</unittitle>
-                            <container id="cid514405" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514405" type="Folder">12</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref28" level="item">
-                        <did>
-                            <unittitle>Unidentified church, Manhattan, drawing number 28</unittitle>
-                            <container id="cid514404" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514404" type="Folder">13</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref29" level="item">
-                        <did>
-                            <unittitle>Unidentified church, drawing number 29</unittitle>
-                            <container id="cid514403" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514403" type="Folder">14</container>
-                            <unitdate>1849</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref30" level="item">
-                        <did>
-                            <unittitle>Unidentified church, drawing number 30</unittitle>
-                            <container id="cid514402" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514402" type="Folder">15</container>
-                            <unitdate>1843</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref31" level="subseries">
-                    <did>
-                        <unittitle>Theatres</unittitle>
-                    </did>
-                    <c id="ref32" level="item">
-                        <did>
-                            <unittitle>Unidentified, Broadway and Mercer Street, drawing numbers 31-32</unittitle>
-                            <container id="cid514401" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514401" type="Folder">16-17</container>
-                            <unitdate>1847, undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref33" level="item">
-                        <did>
-                            <unittitle>Unidentified, drawing number 33</unittitle>
-                            <container id="cid514400" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514400" type="Folder">18</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref34" level="item">
-                        <did>
-                            <unittitle>New National Theatre, Church Street [album], drawing number 34</unittitle>
-                            <container id="cid514399" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514399" type="Folder">19</container>
-                            <unitdate>1840</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref35" level="item">
-                        <did>
-                            <unittitle>Theaters and/or commercial buildings, unidentified, drawing numbers 35-39</unittitle>
-                            <container id="cid514398" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514398" type="Folder">20</container>
-                            <unitdate>1847, undated</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref36" level="subseries">
-                    <did>
-                        <unittitle>Miscellaneous buildings</unittitle>
-                    </did>
-                    <c id="ref37" level="item">
-                        <did>
-                            <unittitle>Buildings, unidentified, including one on Mercer Street, drawing numbers 40-41</unittitle>
-                            <container id="cid514397" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514397" type="Folder">21</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref38" level="item">
-                        <did>
-                            <unittitle>Lunatic Asylum, Fort Washington Hotel and an unidentified building on Duane Street, drawing numbers 42-43</unittitle>
-                            <container id="cid514396" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514396" type="Folder">22</container>
-                            <unitdate>undated</unitdate>
-                        </did>
-                    </c>
-                    <c id="ref39" level="item">
-                        <did>
-                            <unittitle>Plan for Washington Monument, and unidentified residence, drawing numbers 44-45</unittitle>
-                            <container id="cid514395" type="Box" label="Mixed Materials"></container>
-                            <container parent="cid514395" type="Folder">23</container>
-                            <unitdate>1834, undated</unitdate>
-                        </did>
-                    </c>
-                </c>
-                <c id="ref40" level="item">
-                    <did>
-                        <unittitle>Engineering drawings [album of drawings by Don Alonzo Pollard], drawing numbers E1-E9</unittitle>
-                        <container id="cid514394" type="Box" label="Mixed Materials"></container>
-                        <container parent="cid514394" type="Folder">24</container>
-                        <unitdate>1841-1852, undated</unitdate>
-                    </did>
-                </c>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi">pollard</eadid><filedesc><titlestmt><titleproper>Guide to the Calvin Pollard Architectural Drawings<lb/><date>1834-1852, undated</date><lb/><num></num> <num>PR 51</num></titleproper><author>Collection processed by Sandra Markham</author></titlestmt><editionstmt><p>This version was derived from pollard.xml</p></editionstmt><publicationstmt><publisher>New-York Historical Society</publisher><address><addressline>New-York Historical Society</addressline><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>(212) 873-3400</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2022-03-17T17:04:56</date></creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial id="aspace_2d1b0483068133d6134bc7ae08ec3246">The documents in the collection are in English.</langmaterial>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Calvin Pollard architectural drawings</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Pollard, Calvin, 1797-1850 (architect)</persname>
+    </origination>
+    <unitid>PR 51</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      <extent altrender="carrier">(approximately 84 sheets of drawings, 2 albums)</extent>
+    </physdesc>
+    <unitdate normal="1834/1852" type="inclusive">1834-1852, undated</unitdate>
+    <abstract id="aspace_2a6e0ae04cd61fe0e7ae99ce0fe44a06">The collection consists of architectural and engineering drawings, chiefly elevations and floor plans in ink, graphite, and color wash. Despite the fact that few clients or specific locales are identified and only about 10 drawings are signed or dated, the rarity of original designs from this time period makes the Society's drawings valuable.</abstract>
+    <physloc id="aspace_69912f252bee0b16601554ff5a42e994">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+  </did>
+  <acqinfo id="aspace_73eda8c58055bba65c95b37ee5392572">
+    <head>Immediate Source of Acquisition</head>
+<p>Gifts of E. H. Sauer, 1913, and Samuel V. Hoffman, 1912 and 1917.</p>  </acqinfo>
+  <accessrestrict id="aspace_1a7c9bf1187bd3841b6b46d846bde3ea">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_be3da0b8085c121d357d0c50005a7001">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.</p><p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref ns2:actuate="onRequest" ns2:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <prefercite id="aspace_f2069baadde703eef03955b715163269">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as Calvin Pollard Architectural Drawings, PR 051, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_cc1e4d6038d3f0b097687407d39a82cb">
+    <head>Biographical Note</head>
+<p>Calvin Pollard was born on June 14, 1797, in New Braintree, Massachusetts. He moved with his family to Cazenovia, in central New York State, in 1803, and then to New York City in 1818. Pollard first appears in the city directories in 1826 as a builder. He then is listed consistently from 1830 until his death in 1850, changing occupational listings from "builder" to "architect" in 1840. </p><p><list><head>Pollard's New York City Directory Listings</head><item>1826 - builder - 23 Thompson Street</item><item>1830-1833 - builder - 23 Thompson Street</item><item>1833-1838 - builder - 28 Thompson Street</item><item>1838-1839 - builder - 4 Wall Street, house 97 Nineteenth Street</item><item>1839-1840 - builder - 4 Wall Street, house 214 Nineteenth Street</item><item>1840-1841 - architect - 6 Broad Street, house 214 Nineteenth Street</item><item>1841-1845 - architect - 6 Broad Street, house 214 West Nineteenth Street</item><item>1845-1847 - architect - 4 Broad Street, house 214 West Nineteenth Street</item><item>1847-1848 - architect - 14 Pine Street, house 214 West Nineteenth Street</item><item>1848-1850 - architect - 5 Broad Street, house 214 West Nineteenth Street</item></list></p>  </bioghist>
+  <scopecontent id="aspace_093f961b91897186ef7432e9f72a6263">
+    <head>Scope and Content Note</head>
+<p>The Calvin Pollard Architectural Drawing Collection contains more than 120 drawings for buildings spanning the period from 1834 to 1849. Drawings are chiefly elevations and floor plans in ink, graphite, and color wash. Many of Pollard's designs are in the Greek Revival style.</p><p>Despite the fact that few clients or specific locales are identified and only about ten drawings are signed or dated, the rarity of original designs from this time period makes Pollard's drawings valuable. For example, plans for some fifteen residential projects provide data for studying the development of the typical New York townhouse.</p><p>All drawings are filed by number and reflect a general grouping by building type: residences, commercial properties, churches, theatres, and miscellaneous buildings. The latter group includes an 1834 plan for the base of a proposed Washington Monument in New York and a lunatic asylum. Projects also include a business establishment and a residence for a Mr. Hamlin; a commercial building in Manhattan and a residence in Ossining, New York, for a Dr. Brandreth; the Fort Washington Hotel; and Christ Church on Anthony (now Worth) Street.</p><p>The collection also contains two discrete albums, one containing nine pages of drawings titled "Plans and Elevations of the New National Theatre C. Pollard 1840." It holds contract drawings for the reconstruction the theatre following the great 1835 New York fire. </p><p>The second album holds nine engineering drawings that date from 1841-1852, with five additional drawings are laid in; all are technical drawings of railroad bridges, carriage parts, tunnels, and canal locks for transportation lines in Pennsylvania. Formerly assumed to be the work of Calvin Pollard, they are now thought to be the work of his son Don Alonzo Pollard (1837-1908), a civil engineer who was active in the construction of the Delaware, Lackawanna and Western Railroad.</p><p>Most of the architectural drawings are described in George S. Koyl, editor, <title render="italic">American Architectural Drawings. . . to 1917</title> (Philadelphia: American Institute of Architects Philadelphia Chapter, 1969.)</p>  </scopecontent>
+  <arrangement id="aspace_0f1990045d5af900298ff70c6e78b9b5">
+    <head>Arrangement</head>
+<p>Drawings are arranged in five series by building type: Residences, Commercial Properties, Churches, Theatres, and Miscellaneous Buildings. Each drawing is further filed by an N-YHS assigned number; consult the database output available from reference@nyhistory.org for specific drawing titles.</p>  </arrangement>
+  <relatedmaterial id="aspace_3ba6f3141369e5e167d01fc8b5059e04">
+    <head>Related Material at the Department of Prints, Photographs, and Architectural Collections</head>
+<p>A lithographic print of Pollard's full design for the Washington Monument can be found in the Print Room's Portrait File (PR 052) under Washington, George: Monuments and Memorials. Pollard's pocket diaries for 1841 and 1842, as well as a contract for remodeling Castle Garden, are held in the Manuscript Department of the New-York Historical Society Library. A watercolor rendering by Pollard of the Henry Remsen residence is in the Department of Paintings, Sculpture, and Decorative Arts of the Society's Museum.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Architecture, American -- 19th century -- Designs and plans.</subject>
+    <subject source="lcsh">Architecture, Domestic -- United States.</subject>
+    <subject source="lcsh">Asylums</subject>
+    <subject source="lcsh">Commercial buildings -- United States -- Designs and plans.</subject>
+    <subject source="lcsh">Dwellings -- New York (State).</subject>
+    <subject source="lcsh">Floor plans.</subject>
+    <subject source="lcsh">Greek revival (Architecture) -- New York (State)  -- New York. </subject>
+    <subject source="lcsh">Locks (Hydraulic engineering)</subject>
+    <subject source="lcsh">Public buildings -- United States -- Design and plans.</subject>
+    <subject source="lcsh">Railroad bridges -- New York (State).</subject>
+    <subject source="lcsh">Tunnels -- New York (State).</subject>
+    <genreform source="aat">Albums (books)</genreform>
+    <genreform source="aat">Architectural drawings (visual works)</genreform>
+    <genreform source="aat">Contract drawings</genreform>
+    <genreform source="aat">Elevations (orthographic projections).</genreform>
+    <genreform source="aat">Technical drawings.</genreform>
+    <genreform source="aat">Watercolors (paintings)</genreform>
+    <corpname rules="rda" source="local">New National Theatre (New York, N.Y.)</corpname>
+    <persname rules="rda" source="local">Pollard, Don Alonzo, 1837-1908</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref12_ken" level="series"><did><unittitle>Residences</unittitle></did><odd id="aspace_ad5108717a2bf61270cc8efd1ed75792"><head>General note</head><p>See also Folder 23, drawing 45.</p></odd><c id="aspace_ref14_43v" level="file"><did><unittitle>Unidentified row houses, drawing numbers 1-4</unittitle><unitdate>undated</unitdate><container id="aspace_fdc0fefac70b4b886b975422991aa990" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_fdc0fefac70b4b886b975422991aa990" type="Folder">1</container></did></c><c id="aspace_ref15_5go" level="file"><did><unittitle>Unidentified row houses, drawing numbers 5-8</unittitle><unitdate type="inclusive">1834, undated</unitdate><container id="aspace_30706d4f5cb1ab5a0139b1e0f10ca4dc" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_30706d4f5cb1ab5a0139b1e0f10ca4dc" type="Folder">2</container></did></c><c id="aspace_ref16_ab0" level="file"><did><unittitle>Unidentified row house, 28th Street, Manhattan, drawing number 9</unittitle><unitdate type="inclusive">1845</unitdate><container id="aspace_b0fe81a00c1310f872049c4c17005b32" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_b0fe81a00c1310f872049c4c17005b32" type="Folder">3</container></did></c><c id="aspace_ref17_sps" level="file"><did><unittitle>Unidentified row house, drawing number 10</unittitle><unitdate type="inclusive">1847</unitdate><container id="aspace_ceba1271ff5664d7d1b7d16f1e05a253" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_ceba1271ff5664d7d1b7d16f1e05a253" type="Folder">4</container></did></c><c id="aspace_ref18_usq" level="file"><did><unittitle>Unidentified detached houses, drawing numbers 11-13</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_ba69f4b97ba824501b0786dd5498258d" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_ba69f4b97ba824501b0786dd5498258d" type="Folder">5</container></did></c><c id="aspace_ref19_ck0" level="file"><did><unittitle>Brandreth residence, Ossining, New York, drawing number 14</unittitle><unitdate type="inclusive">[1841]</unitdate><container id="aspace_0c1225a914546624a8b64bdc95561f42" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_0c1225a914546624a8b64bdc95561f42" type="Folder">6</container></did></c><c id="aspace_ref20_r2l" level="file"><did><unittitle>Detached houses, including Moffat residence, 335 Broadway, drawing numbers 15-17</unittitle><unitdate type="inclusive">1844, undated</unitdate><container id="aspace_e4b0b0b1e3d4ab9b85ad49babba8ff5e" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_e4b0b0b1e3d4ab9b85ad49babba8ff5e" type="Folder">7</container></did></c></c><c id="aspace_ref21_pvq" level="series"><did><unittitle>Commercial Properties</unittitle></did><c id="aspace_ref22_roh" level="file"><did><unittitle>Buildings, New York City, including Brandreth building at 241 Broadway, drawing numbers 18-22</unittitle><unitdate type="inclusive">1838-1849, undated</unitdate><container id="aspace_c92156afc8aec7033fa5b3283d68bb9e" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_c92156afc8aec7033fa5b3283d68bb9e" type="Folder">8</container></did></c><c id="aspace_ref23_fjl" level="file"><did><unittitle>Hamlin stores and residence, Eighth Avenue, Fourth Street, and Jane Street, drawing numbers 23-24</unittitle><unitdate type="inclusive">1847</unitdate><container id="aspace_648d22236ea44575e79443baa089468a" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_648d22236ea44575e79443baa089468a" type="Folder">9</container></did></c><c id="aspace_ref24_now" level="file"><did><unittitle>Hotel, Wall Street, drawing number 25</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_9808fa73c2d95d8d499f8658c0baa1de" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_9808fa73c2d95d8d499f8658c0baa1de" type="Folder">10</container></did></c></c><c id="aspace_ref25_pgr" level="series"><did><unittitle>Churches</unittitle></did><c id="aspace_ref26_jgq" level="file"><did><unittitle>Christ Church, Anthony (now Worth) Street, drawing number 26</unittitle><unitdate type="inclusive">1847</unitdate><container id="aspace_47dd17e401d0661efefc80c9d996bced" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_47dd17e401d0661efefc80c9d996bced" type="Folder">11</container></did></c><c id="aspace_ref27_uxu" level="file"><did><unittitle>Unidentified church, drawing number 27</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_c377b0270ac6159e1b8291efaeb7d6eb" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_c377b0270ac6159e1b8291efaeb7d6eb" type="Folder">12</container></did></c><c id="aspace_ref28_qor" level="file"><did><unittitle>Unidentified church, Manhattan, drawing number 28</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_4444a647755ac8df745a479ac3990312" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_4444a647755ac8df745a479ac3990312" type="Folder">13</container></did></c><c id="aspace_ref29_tu9" level="file"><did><unittitle>Unidentified church, drawing number 29</unittitle><unitdate type="inclusive">1849</unitdate><container id="aspace_2c0607ebab3cd9c7c97a05b286e7e895" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_2c0607ebab3cd9c7c97a05b286e7e895" type="Folder">14</container></did></c><c id="aspace_ref30_qot" level="file"><did><unittitle>Unidentified church, drawing number 30</unittitle><unitdate type="inclusive">1843</unitdate><container id="aspace_b885d8425b3bb617fe0140cfc51d8b11" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_b885d8425b3bb617fe0140cfc51d8b11" type="Folder">15</container></did></c></c><c id="aspace_ref31_uvj" level="series"><did><unittitle>Theatres</unittitle></did><c id="aspace_ref32_jwm" level="file"><did><unittitle>Unidentified, Broadway and Mercer Street, drawing numbers 31-32</unittitle><unitdate type="inclusive">1847, undated</unitdate><container id="aspace_26702108ce6aa331e5f8f56c6dbbe9bd" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_26702108ce6aa331e5f8f56c6dbbe9bd" type="Folder">16-17</container></did></c><c id="aspace_ref33_g4n" level="file"><did><unittitle>Unidentified, drawing number 33</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_0ea5ab59e3c9f53021a215e936bc226f" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_0ea5ab59e3c9f53021a215e936bc226f" type="Folder">18</container></did></c><c id="aspace_ref34_ry3" level="file"><did><unittitle>New National Theatre, Church Street [album], drawing number 34</unittitle><unitdate type="inclusive">1840</unitdate><container id="aspace_6f678c0473399da0779a985424c24e21" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_6f678c0473399da0779a985424c24e21" type="Folder">19</container></did></c><c id="aspace_ref35_qmt" level="file"><did><unittitle>Theaters and/or commercial buildings, unidentified, drawing numbers 35-39</unittitle><unitdate type="inclusive">1847, undated</unitdate><container id="aspace_d031c8d71d8a52a1c66be0e2caedda8e" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_d031c8d71d8a52a1c66be0e2caedda8e" type="Folder">20</container></did></c></c><c id="aspace_ref36_ly4" level="series"><did><unittitle>Miscellaneous buildings</unittitle></did><c id="aspace_ref37_2o1" level="file"><did><unittitle>Buildings, unidentified, including one on Mercer Street, drawing numbers 40-41</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_4e446f7221998d214e52559aab2cf652" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_4e446f7221998d214e52559aab2cf652" type="Folder">21</container></did></c><c id="aspace_ref38_cg5" level="file"><did><unittitle>Lunatic Asylum, Fort Washington Hotel and an unidentified building on Duane Street, drawing numbers 42-43</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_6e2102dc21b0ea41696b4aff211cf156" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_6e2102dc21b0ea41696b4aff211cf156" type="Folder">22</container></did></c><c id="aspace_ref39_p0k" level="file"><did><unittitle>Plan for Washington Monument, and unidentified residence, drawing numbers 44-45</unittitle><unitdate type="inclusive">1834, undated</unitdate><container id="aspace_7c09de0c8cd4bf78c0950757732fac92" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_7c09de0c8cd4bf78c0950757732fac92" type="Folder">23</container></did></c></c><c id="aspace_1cc7974531c98df17513584a84a6654c" level="series"><did><unittitle>Don Alonzo Pollard Drawings</unittitle></did><c id="aspace_ref40_cik" level="file"><did><unittitle>Engineering drawings [album of drawings by Don Alonzo Pollard], drawing numbers E1-E9</unittitle><unitdate type="inclusive">1841-1852, undated</unitdate><container id="aspace_c1876315b7ad50cd0c9969aed14620a0" label="Mixed Materials" type="Drawer">1</container><container parent="aspace_c1876315b7ad50cd0c9969aed14620a0" type="Folder">24</container></did></c></c></dsc>
+</archdesc>
 </ead>
