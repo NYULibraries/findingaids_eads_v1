@@ -1,1058 +1,158 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">white_s</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Papers of Stanford White
-                    <lb/>
-                    <date>1873-1928</date>
-                    <lb/>
-                    <num></num>
-                    <num>MS 693</num>
-                </titleproper>
-                <author>Finding aid prepared by Josué Luis Hurtado and Gabrielle Sanchez</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derivedfrom white.xml</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>© 2011 New-York Historical Society</publisher>
-                <address>
-                    <addressline>New-York Historical Society</addressline>
-                    <addressline>170 Central Park West</addressline>
-                    <addressline>New York, NY 10024</addressline>
-                    <addressline>Phone: (212) 873-3400</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-12-12T10:41-0500</date>
-            </creation>
-            <langusage>Description is in 
-                <language>English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Stanford White Papers</unittitle>
-            <unitid>MS 693</unitid>
-            <repository>
-                <corpname>© 2011 New-York Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>2.0 Linear feet</extent>
-                <extent>(4 boxes)</extent>
-            </physdesc>
-            <unitdate>1873-1928</unitdate>
-            <physloc audience="internal" id="ref2" label="Location note">Manuscript cage</physloc>
-            <abstract id="ref3" label="Abstract">The Stanford White Papers consist of personal correspondence, account information, photographs, newspaper clippings, and printed materials that document the life of the architect Stanford White (1853-1906) of the influential firm of McKim, Mead &amp; White.</abstract>
-        </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-            <p>A Gift of Mrs. Lawrence Grant White, 1970.</p>
-        </custodhist>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open to qualified researchers.</p>
-            <p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.)</p>
-        </accessrestrict>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to 
-                <lb/>
-                <lb/>Library Director
-                <lb/>
-                <address>
-                    <addressline>The New-York Historical Society
-                        <lb/></addressline>
-                    <addressline>170 Central Park West
-                        <lb/></addressline>
-                    <addressline>New York, NY 10024
-                        <lb/>
-                        <lb/></addressline>
-                </address></p>
-        </userestrict>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>This collection should be cited as The Stanford White Papers, MS 693, The New-York Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref8">
-            <head>Biographical Note</head>
-            <chronlist>
-                <chronitem>
-                    <date>1853</date>
-                    <event>Stanford White is born in New York City to Richard Grant White and Alexina Black Mease on November 9</event>
-                </chronitem>
-                <chronitem>
-                    <date>1870</date>
-                    <event>Obtains a position with architect Henry Hobson Richardson in New York</event>
-                </chronitem>
-                <chronitem>
-                    <date>1879</date>
-                    <event>Accepts a position as partner with McKim and Mead in New York City to form the architectural design firm of McKim, Mead &amp; White</event>
-                </chronitem>
-                <chronitem>
-                    <date>1880</date>
-                    <event>Collaborates with sculptor Augustus Saint-Gaudens to design the Admiral David Farragut memorial</event>
-                </chronitem>
-                <chronitem>
-                    <date>1884</date>
-                    <event>Marries Bessie Smith of Long Island</event>
-                </chronitem>
-                <chronitem>
-                    <date>1885</date>
-                    <event>Designs the Charles Tiffany House</event>
-                </chronitem>
-                <chronitem>
-                    <date>1886</date>
-                    <event>Collaborates with Saint-Gaudens on the Standing Lincoln Memorial Sculpture in Chicago</event>
-                </chronitem>
-                <chronitem>
-                    <date>1891</date>
-                    <event>Helps design Madison Square Garden</event>
-                </chronitem>
-                <chronitem>
-                    <date>1893</date>
-                    <event>Designs the New York Herald building</event>
-                </chronitem>
-                <chronitem>
-                    <date>1895</date>
-                    <event>Designs the Washington Square Park Arch</event>
-                </chronitem>
-                <chronitem>
-                    <date>1906</date>
-                    <event>Stanford White is shot and killed by Harry K. Thaw, a jealous husband of a former lover of White's, while watching a musical on the roof of Madison Square Garden</event>
-                </chronitem>
-            </chronlist>
-        </bioghist>
-        <scopecontent id="ref11">
-            <head>Scope and Content Note</head>
-            <p>Correspondence, accounts, photographs, newspaper clippings and printed material, c.1873-1920, including copies of Stanford White's letters while in France, 1878; many letters from Charles Caryl Coleman, Thomas Wilmer Dewing, John La Farge, Augustus Saint-Gaudens, Janet Scudder, and Abbott Handerson Thayer; letters to his mother, Alexina Mease White, and to his wife, Bessie Smith White; accounts, 1900-1905, relating to White's importation of plants, furnishings, statuary, paintings, marble columns, etc., mostly from France and Italy; typescript, 1913, of Charles Follen McKim, a memoir, by Alfred Hoyt Granger; a list of subscribers, 1920, to the Stanford White Memorial; and printed material, including biographical material of White, examples of his architectural work, annotated auction catalogues, and monographs of the firm of McKim, Mead &amp; White.</p>
-        </scopecontent>
-        <arrangement id="ref12">
-            <head>Arrangement</head>
-            <p>This collection is organized into 2 series:</p>
-            <list type="ordered">
-                <item>Series I. Correspondence and Documents, 1836-1948</item>
-                <item>Series II. Printed Materials and Clippings, 1888-1955</item>
-            </list>
-            <p>Most of the material is arranged chronologically within series. See the series descriptions for specific details.</p>
-            <p>Microfilm: Material in boxes 1 and 2 is on microfilm.</p>
-        </arrangement>
-        <relatedmaterial id="ref127">
-            <head>Related Material at The New-York Historical Society</head>
-            <p>Further materials relating to Stanford White, his work, and his family can be found within 
-                <title render="italic" type="simple">Stanford White: Letters to his family</title>, the Dedication of the Prison Ship Martyrs Monument Records, the Washington Arch Committee Statuary Fund Correspondence, and the book, 
-                <title render="italic" type="simple">Sketches and designs by Stanford White</title> by Lawrence Grant White, all at the New-York Historical Society.</p>
-        </relatedmaterial>
-        <controlaccess>
-            <persname source="ingest">Brush, George de Forest, 1855-1941.</persname>
-            <persname source="ingest">Choate, Joseph Hodges, 1832-1917.</persname>
-            <persname source="ingest">Coleman, Charles Caryl, 1840-1928.</persname>
-            <persname source="ingest">Cortissoz, Royal,1869-1948. Cox, Kenyon, 1856-1919.</persname>
-            <persname source="ingest">Curran, Charles Courtney, 1861-1942.</persname>
-            <persname source="ingest">Dana, Charles Anderson, 1819-1897.</persname>
-            <persname source="ingest">Dana, Paul, 1852-1930.</persname>
-            <persname source="ingest">Davis, Richard Harding, 1864-1916.</persname>
-            <persname source="ingest">Dewing, Thomas Wilmer, 1851-1938.</persname>
-            <persname source="ingest">Gilbert, Cass, 1859-1934.</persname>
-            <persname source="ingest">Johnson, Eastman, (Jonathan Eastman), 1824-1906.</persname>
-            <persname source="ingest">La Farge, John, 1835-1910.</persname>
-            <persname source="ingest">McKim, Charles Follen, 1847-1909.</persname>
-            <persname source="ingest">Millet, Francis Davis, 1846-1912.</persname>
-            <persname source="ingest">Platt, Charles A. (Charles Adams), 1861-1933.</persname>
-            <persname source="ingest">Remington, Frederic, 1861-1909.</persname>
-            <persname source="ingest">Saint-Gaudens, Augustus, 1848-1907.</persname>
-            <persname source="ingest">Scudder, Janet, 1873-1940.</persname>
-            <persname source="ingest">Simmons, Edward, 1852-1931.</persname>
-            <persname source="ingest">Story, Waldo.</persname>
-            <persname source="ingest">Thayer, Abbott Handerson, 1849-1921.</persname>
-            <persname source="ingest">Weir, Juliam Alden, 1852-1919.</persname>
-            <persname source="ingest">Wells, Joseph Morrill, d.1890.</persname>
-            <persname source="ingest">White, Alexina Black Mease.</persname>
-            <persname source="ingest">White, Bessie Springs Smith.</persname>
-            <persname source="ingest">White, Lawrence Grant.</persname>
-            <persname source="ingest">White, Richard Grant, 1821-1885.</persname>
-            <geogname source="lcsh">Architecture - United States</geogname>
-            <subject source="lcsh">Art, American</subject>
-            <genreform source="aat">Books</genreform>
-            <genreform source="aat">Certificates</genreform>
-            <genreform source="aat">Clippings</genreform>
-            <genreform source="aat">Correspondence</genreform>
-            <geogname source="lcsh">Europe - Description and Travel</geogname>
-            <genreform source="aat">Invoices</genreform>
-            <genreform source="aat">Negatives</genreform>
-            <genreform source="aat">Photographs</genreform>
-            <genreform source="aat">Receipts</genreform>
-        </controlaccess>
-        <dsc>
-            <c id="ref16" level="series">
-                <did>
-                    <unittitle>Series 1: Correspondence and Documents, 1873-1928</unittitle>
-                </did>
-                <scopecontent id="ref111">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains correspondence, photographs, newspaper clippings, receipts, invoices, and other documents, c.1873-1928, including copies of White's letters while in France, as well as letter from Charles Caryl Coleman, Thomas Wilmer Dewing, John La Farge, Augustus Saint-Gaudens, Janet Scudder, and Abbott Handerson Thayer and letters to his family. There are also business accounts relating to White's importation of plants, furnishings, statuary, paintings, marble columns, and other purchases from Europe.</p>
-                </scopecontent>
-                <c id="ref17" level="otherlevel">
-                    <did>
-                        <unittitle>D. Appleton and Co.</unittitle>
-                        <container id="cid507972" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507972" type="Folder">1</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref18" level="otherlevel">
-                    <did>
-                        <unittitle>Armstrong, D. Maitland</unittitle>
-                        <container id="cid507971" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507971" type="Folder">2</container>
-                        <unitdate>1883-1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref19" level="otherlevel">
-                    <did>
-                        <unittitle>Attenbury</unittitle>
-                        <container id="cid507970" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507970" type="Folder">3</container>
-                        <unitdate>1887-1892</unitdate>
-                    </did>
-                </c>
-                <c id="ref20" level="otherlevel">
-                    <did>
-                        <unittitle>Babb, George Fletcher</unittitle>
-                        <container id="cid507969" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507969" type="Folder">4</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref21" level="otherlevel">
-                    <did>
-                        <unittitle>Bailey, James Anthony</unittitle>
-                        <container id="cid507968" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507968" type="Folder">5</container>
-                        <unitdate>1891</unitdate>
-                    </did>
-                </c>
-                <c id="ref22" level="otherlevel">
-                    <did>
-                        <unittitle>Bancroft, J.C.</unittitle>
-                        <container id="cid507967" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507967" type="Folder">6</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref23" level="otherlevel">
-                    <did>
-                        <unittitle>Barrows, Frances</unittitle>
-                        <container id="cid507966" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507966" type="Folder">7</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref24" level="otherlevel">
-                    <did>
-                        <unittitle>Bickford, Herbert J.</unittitle>
-                        <container id="cid507965" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507965" type="Folder">8</container>
-                        <unitdate>1905</unitdate>
-                    </did>
-                </c>
-                <c id="ref25" level="otherlevel">
-                    <did>
-                        <unittitle>Blashfield, Edwin Howland</unittitle>
-                        <container id="cid507964" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507964" type="Folder">9</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref26" level="otherlevel">
-                    <did>
-                        <unittitle>Bliss, Alexander</unittitle>
-                        <container id="cid507963" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507963" type="Folder">10</container>
-                        <unitdate>1892</unitdate>
-                    </did>
-                </c>
-                <c id="ref27" level="otherlevel">
-                    <did>
-                        <unittitle>Brush, George De Forest</unittitle>
-                        <container id="cid507962" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507962" type="Folder">11</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref28" level="otherlevel">
-                    <did>
-                        <unittitle>Bunker, Eleanor</unittitle>
-                        <container id="cid507961" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507961" type="Folder">12</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref29" level="otherlevel">
-                    <did>
-                        <unittitle>Burnham, Daniel Hudson</unittitle>
-                        <container id="cid507960" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507960" type="Folder">13</container>
-                        <unitdate>1893-1895, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref30" level="otherlevel">
-                    <did>
-                        <unittitle>C</unittitle>
-                        <container id="cid507959" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507959" type="Folder">14</container>
-                        <unitdate>1892, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref31" level="otherlevel">
-                    <did>
-                        <unittitle>Cabus, Frank E.</unittitle>
-                        <container id="cid507958" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507958" type="Folder">15</container>
-                        <unitdate>1893</unitdate>
-                    </did>
-                </c>
-                <c id="ref32" level="otherlevel">
-                    <did>
-                        <unittitle>Calder, Stirling</unittitle>
-                        <container id="cid507957" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507957" type="Folder">16</container>
-                        <unitdate>1902</unitdate>
-                    </did>
-                </c>
-                <c id="ref33" level="otherlevel">
-                    <did>
-                        <unittitle>Century Association</unittitle>
-                        <container id="cid507956" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507956" type="Folder">17</container>
-                        <unitdate>1886</unitdate>
-                    </did>
-                </c>
-                <c id="ref34" level="otherlevel">
-                    <did>
-                        <unittitle>Chanler Family</unittitle>
-                        <container id="cid507955" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507955" type="Folder">18</container>
-                        <unitdate>1892-1893, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref35" level="otherlevel">
-                    <did>
-                        <unittitle>Chase, William Merrit</unittitle>
-                        <container id="cid507954" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507954" type="Folder">19</container>
-                        <unitdate>1886, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref36" level="otherlevel">
-                    <did>
-                        <unittitle>Chichester, Charles F.</unittitle>
-                        <container id="cid507953" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507953" type="Folder">20</container>
-                        <unitdate>1889-1893</unitdate>
-                    </did>
-                </c>
-                <c id="ref37" level="otherlevel">
-                    <did>
-                        <unittitle>Choate, Joseph Hodges</unittitle>
-                        <container id="cid507952" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507952" type="Folder">21</container>
-                        <unitdate>1886-1894</unitdate>
-                    </did>
-                </c>
-                <c id="ref38" level="otherlevel">
-                    <did>
-                        <unittitle>Clesson, Caleb</unittitle>
-                        <container id="cid507951" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507951" type="Folder">22</container>
-                        <unitdate>1890</unitdate>
-                    </did>
-                </c>
-                <c id="ref39" level="otherlevel">
-                    <did>
-                        <unittitle>Coleman, Charles Caryl</unittitle>
-                        <container id="cid507950" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507950" type="Folder">23</container>
-                        <unitdate>1889-1900, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref40" level="otherlevel">
-                    <did>
-                        <unittitle>Thomas Cook &amp; Son</unittitle>
-                        <container id="cid507949" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507949" type="Folder">24</container>
-                        <unitdate>1890</unitdate>
-                    </did>
-                </c>
-                <c id="ref41" level="otherlevel">
-                    <did>
-                        <unittitle>Cortissoz, Royal</unittitle>
-                        <container id="cid507948" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507948" type="Folder">25</container>
-                        <unitdate>1890</unitdate>
-                    </did>
-                </c>
-                <c id="ref42" level="otherlevel">
-                    <did>
-                        <unittitle>Cox, Kenyon</unittitle>
-                        <container id="cid507947" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507947" type="Folder">26</container>
-                        <unitdate>1887-1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref43" level="otherlevel">
-                    <did>
-                        <unittitle>Curran, Charles Courtney</unittitle>
-                        <container id="cid507946" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507946" type="Folder">27</container>
-                        <unitdate>1893-1901</unitdate>
-                    </did>
-                </c>
-                <c id="ref44" level="otherlevel">
-                    <did>
-                        <unittitle>Dana, Charles Anderson</unittitle>
-                        <container id="cid507945" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507945" type="Folder">28</container>
-                        <unitdate>1890-1892</unitdate>
-                    </did>
-                </c>
-                <c id="ref45" level="otherlevel">
-                    <did>
-                        <unittitle>Dana, Paul</unittitle>
-                        <container id="cid507944" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507944" type="Folder">29</container>
-                        <unitdate>1894-1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref46" level="otherlevel">
-                    <did>
-                        <unittitle>David, Richard Harding</unittitle>
-                        <container id="cid507943" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507943" type="Folder">30</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref47" level="otherlevel">
-                    <did>
-                        <unittitle>Dewing, Thomas Wilmer</unittitle>
-                        <container id="cid507942" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507942" type="Folder">31</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref48" level="otherlevel">
-                    <did>
-                        <unittitle>Drake, Alexander Wilson</unittitle>
-                        <container id="cid507941" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507941" type="Folder">32</container>
-                        <unitdate>1892</unitdate>
-                    </did>
-                </c>
-                <c id="ref49" level="otherlevel">
-                    <did>
-                        <unittitle>Emmet, Ellen</unittitle>
-                        <container id="cid507940" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507940" type="Folder">33</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref50" level="otherlevel">
-                    <did>
-                        <unittitle>Eugene Field Monument Fund</unittitle>
-                        <container id="cid507939" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507939" type="Folder">34</container>
-                        <unitdate>1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref51" level="otherlevel">
-                    <did>
-                        <unittitle>Finn, James</unittitle>
-                        <container id="cid507938" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507938" type="Folder">35</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref52" level="otherlevel">
-                    <did>
-                        <unittitle>Flanagan, John</unittitle>
-                        <container id="cid507937" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507937" type="Folder">36</container>
-                        <unitdate>1902</unitdate>
-                    </did>
-                </c>
-                <c id="ref53" level="otherlevel">
-                    <did>
-                        <unittitle>Freer, Charles Lang</unittitle>
-                        <container id="cid507936" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507936" type="Folder">37</container>
-                        <unitdate>1900</unitdate>
-                    </did>
-                </c>
-                <c id="ref54" level="otherlevel">
-                    <did>
-                        <unittitle>French, Charles Chester</unittitle>
-                        <container id="cid507935" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507935" type="Folder">38</container>
-                        <unitdate>1902</unitdate>
-                    </did>
-                </c>
-                <c id="ref55" level="otherlevel">
-                    <did>
-                        <unittitle>Frohman, Daniel</unittitle>
-                        <container id="cid507934" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507934" type="Folder">39</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref56" level="otherlevel">
-                    <did>
-                        <unittitle>Gilbert, Cass</unittitle>
-                        <container id="cid507933" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507933" type="Folder">40</container>
-                        <unitdate>1887-1922</unitdate>
-                    </did>
-                </c>
-                <c id="ref57" level="otherlevel">
-                    <did>
-                        <unittitle>Gilder, Richard Watson</unittitle>
-                        <container id="cid507932" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507932" type="Folder">41</container>
-                        <unitdate>1886-1890</unitdate>
-                    </did>
-                </c>
-                <c id="ref58" level="otherlevel">
-                    <did>
-                        <unittitle>George E. Green &amp; Son</unittitle>
-                        <container id="cid507931" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507931" type="Folder">42</container>
-                        <unitdate>1888</unitdate>
-                    </did>
-                </c>
-                <c id="ref59" level="otherlevel">
-                    <did>
-                        <unittitle>Harrison, Alexander</unittitle>
-                        <container id="cid507930" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507930" type="Folder">43</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref60" level="otherlevel">
-                    <did>
-                        <unittitle>Hastings, Thomas</unittitle>
-                        <container id="cid507929" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507929" type="Folder">44</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref61" level="otherlevel">
-                    <did>
-                        <unittitle>Houghton, Mifflin &amp; Co.</unittitle>
-                        <container id="cid507928" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507928" type="Folder">45</container>
-                        <unitdate>1886</unitdate>
-                    </did>
-                </c>
-                <c id="ref62" level="otherlevel">
-                    <did>
-                        <unittitle>Hunt, Richard Morris</unittitle>
-                        <container id="cid507927" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507927" type="Folder">46</container>
-                        <unitdate>1889</unitdate>
-                    </did>
-                </c>
-                <c id="ref63" level="otherlevel">
-                    <did>
-                        <unittitle>Irving, Henry</unittitle>
-                        <container id="cid507926" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507926" type="Folder">47</container>
-                        <unitdate>1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref64" level="otherlevel">
-                    <did>
-                        <unittitle>Johnson, Eastman</unittitle>
-                        <container id="cid507925" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507925" type="Folder">48</container>
-                        <unitdate>1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref65" level="otherlevel">
-                    <did>
-                        <unittitle>Jones, Mary Cadwalder</unittitle>
-                        <container id="cid507924" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507924" type="Folder">49</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref66" level="otherlevel">
-                    <did>
-                        <unittitle>Kennedy, Elija Robinson</unittitle>
-                        <container id="cid507923" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507923" type="Folder">50</container>
-                        <unitdate>1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref67" level="otherlevel">
-                    <did>
-                        <unittitle>LaFarge, John</unittitle>
-                        <container id="cid507922" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507922" type="Folder">51</container>
-                        <unitdate>1887-1901, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref68" level="otherlevel">
-                    <did>
-                        <unittitle>Lawrence, Mary</unittitle>
-                        <container id="cid507921" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507921" type="Folder">52</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref69" level="otherlevel">
-                    <did>
-                        <unittitle>Loeser, Charles</unittitle>
-                        <container id="cid507920" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507920" type="Folder">53</container>
-                        <unitdate>1905</unitdate>
-                    </did>
-                </c>
-                <c id="ref70" level="otherlevel">
-                    <did>
-                        <unittitle>Lord, James Brown</unittitle>
-                        <container id="cid507919" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507919" type="Folder">54</container>
-                        <unitdate>1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref71" level="otherlevel">
-                    <did>
-                        <unittitle>Lorillard, Caroline</unittitle>
-                        <container id="cid507918" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507918" type="Folder">55</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref72" level="otherlevel">
-                    <did>
-                        <unittitle>Low, Will Hicok</unittitle>
-                        <container id="cid507917" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507917" type="Folder">56</container>
-                        <unitdate>1890</unitdate>
-                    </did>
-                </c>
-                <c id="ref73" level="otherlevel">
-                    <did>
-                        <unittitle>MacMonnies, Frederick</unittitle>
-                        <container id="cid507916" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507916" type="Folder">57</container>
-                        <unitdate>1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref74" level="otherlevel">
-                    <did>
-                        <unittitle>Manchester, Consuelo Duchess of</unittitle>
-                        <container id="cid507915" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507915" type="Folder">58</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref75" level="otherlevel">
-                    <did>
-                        <unittitle>Martin, H.D.</unittitle>
-                        <container id="cid507914" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507914" type="Folder">59</container>
-                        <unitdate>1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref76" level="otherlevel">
-                    <did>
-                        <unittitle>Maynard, George Willoghby</unittitle>
-                        <container id="cid507913" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507913" type="Folder">60</container>
-                        <unitdate>1889</unitdate>
-                    </did>
-                </c>
-                <c id="ref77" level="otherlevel">
-                    <did>
-                        <unittitle>Mead, William Rutherford</unittitle>
-                        <container id="cid507912" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507912" type="Folder">61</container>
-                        <unitdate>1922</unitdate>
-                    </did>
-                </c>
-                <c id="ref78" level="otherlevel">
-                    <did>
-                        <unittitle>Millet, Francis Davis</unittitle>
-                        <container id="cid507911" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507911" type="Folder">62</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref79" level="otherlevel">
-                    <did>
-                        <unittitle>Myer, G.L.</unittitle>
-                        <container id="cid507910" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507910" type="Folder">63</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref80" level="otherlevel">
-                    <did>
-                        <unittitle>O'Connor, Andrew</unittitle>
-                        <container id="cid507909" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507909" type="Folder">64</container>
-                        <unitdate>1904</unitdate>
-                    </did>
-                </c>
-                <c id="ref81" level="otherlevel">
-                    <did>
-                        <unittitle>Oelrichs, Hermann</unittitle>
-                        <container id="cid507908" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507908" type="Folder">65</container>
-                        <unitdate>1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref82" level="otherlevel">
-                    <did>
-                        <unittitle>Olmsted, Frederick Law</unittitle>
-                        <container id="cid507907" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507907" type="Folder">66</container>
-                        <unitdate>1885</unitdate>
-                    </did>
-                </c>
-                <c id="ref83" level="otherlevel">
-                    <did>
-                        <unittitle>Osborne, Louise N.</unittitle>
-                        <container id="cid507906" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507906" type="Folder">67</container>
-                        <unitdate>1901</unitdate>
-                    </did>
-                </c>
-                <c id="ref84" level="otherlevel">
-                    <did>
-                        <unittitle>Platt, Charles Adams</unittitle>
-                        <container id="cid507905" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507905" type="Folder">68</container>
-                        <unitdate>1890-1898, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref85" level="otherlevel">
-                    <did>
-                        <unittitle>The Players</unittitle>
-                        <container id="cid507904" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507904" type="Folder">69</container>
-                        <unitdate>1888-1889</unitdate>
-                    </did>
-                </c>
-                <c id="ref86" level="otherlevel">
-                    <did>
-                        <unittitle>Poor, Henry William</unittitle>
-                        <container id="cid507903" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507903" type="Folder">70</container>
-                        <unitdate>1896-1901</unitdate>
-                    </did>
-                </c>
-                <c id="ref87" level="otherlevel">
-                    <did>
-                        <unittitle>Remington, Frederic</unittitle>
-                        <container id="cid507902" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507902" type="Folder">71</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref88" level="otherlevel">
-                    <did>
-                        <unittitle>Richardson, Henry Hobson</unittitle>
-                        <container id="cid507901" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507901" type="Folder">72</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref89" level="otherlevel">
-                    <did>
-                        <unittitle>Ristigouche Salmon Club</unittitle>
-                        <container id="cid507900" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid507900" type="Folder">73</container>
-                        <unitdate>1887</unitdate>
-                    </did>
-                </c>
-                <c id="ref90" level="otherlevel">
-                    <did>
-                        <unittitle>Saint-Gaudens, Augustus</unittitle>
-                        <container id="cid507899" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507899" type="Folder">1</container>
-                        <unitdate>1879-1928, .n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref91" level="otherlevel">
-                    <did>
-                        <unittitle>Sargent, John Singer</unittitle>
-                        <container id="cid507898" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507898" type="Folder">2</container>
-                        <unitdate>1898, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref92" level="otherlevel">
-                    <did>
-                        <unittitle>Scudder, Janet</unittitle>
-                        <container id="cid507897" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507897" type="Folder">3</container>
-                        <unitdate>1896-1906, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref93" level="otherlevel">
-                    <did>
-                        <unittitle>Sedgwick, S.M.</unittitle>
-                        <container id="cid507896" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507896" type="Folder">4</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref94" level="otherlevel">
-                    <did>
-                        <unittitle>Sewell, Robert T.</unittitle>
-                        <container id="cid507895" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507895" type="Folder">5</container>
-                        <unitdate>1894</unitdate>
-                    </did>
-                </c>
-                <c id="ref95" level="otherlevel">
-                    <did>
-                        <unittitle>Shin, Everett</unittitle>
-                        <container id="cid507894" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507894" type="Folder">6</container>
-                        <unitdate>903</unitdate>
-                    </did>
-                </c>
-                <c id="ref96" level="otherlevel">
-                    <did>
-                        <unittitle>Stewart, D.</unittitle>
-                        <container id="cid507893" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507893" type="Folder">7</container>
-                        <unitdate>1885-1901</unitdate>
-                    </did>
-                </c>
-                <c id="ref97" level="otherlevel">
-                    <did>
-                        <unittitle>Story, Waldo</unittitle>
-                        <container id="cid507892" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507892" type="Folder">8</container>
-                        <unitdate>1905</unitdate>
-                    </did>
-                </c>
-                <c id="ref98" level="otherlevel">
-                    <did>
-                        <unittitle>Thayer, Abbot Anderson</unittitle>
-                        <container id="cid507891" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507891" type="Folder">9</container>
-                        <unitdate>1889-1922, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref99" level="otherlevel">
-                    <did>
-                        <unittitle>Tiffany &amp; Company</unittitle>
-                        <container id="cid507890" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507890" type="Folder">10</container>
-                        <unitdate>1896</unitdate>
-                    </did>
-                </c>
-                <c id="ref100" level="otherlevel">
-                    <did>
-                        <unittitle>Weir, Julian Alden</unittitle>
-                        <container id="cid507889" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507889" type="Folder">11</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref101" level="otherlevel">
-                    <did>
-                        <unittitle>Twachtman, John Henry</unittitle>
-                        <container id="cid507888" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507888" type="Folder">12</container>
-                        <unitdate>1890</unitdate>
-                    </did>
-                </c>
-                <c id="ref102" level="otherlevel">
-                    <did>
-                        <unittitle>Vanderbilt</unittitle>
-                        <container id="cid507887" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507887" type="Folder">13</container>
-                        <unitdate>1896, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref103" level="otherlevel">
-                    <did>
-                        <unittitle>Wells, Joseph Morrill</unittitle>
-                        <container id="cid507886" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507886" type="Folder">14</container>
-                        <unitdate>1880-1881</unitdate>
-                    </did>
-                </c>
-                <c id="ref104" level="otherlevel">
-                    <did>
-                        <unittitle>Whitney</unittitle>
-                        <container id="cid507885" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507885" type="Folder">15</container>
-                        <unitdate>1896, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref105" level="otherlevel">
-                    <did>
-                        <unittitle>White, Bessie</unittitle>
-                        <container id="cid507884" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507884" type="Folder">16</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref106" level="otherlevel">
-                    <did>
-                        <unittitle>White, Stanford</unittitle>
-                        <container id="cid507883" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507883" type="Folder">17</container>
-                        <unitdate>1873-1897</unitdate>
-                    </did>
-                </c>
-                <c id="ref107" level="otherlevel">
-                    <did>
-                        <unittitle>White, Stanford</unittitle>
-                        <container id="cid507882" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507882" type="Folder">18</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref108" level="otherlevel">
-                    <did>
-                        <unittitle>White, Stanford, misc. documents</unittitle>
-                        <container id="cid507881" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507881" type="Folder">19</container>
-                        <unitdate>1883-1920, n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref109" level="otherlevel">
-                    <did>
-                        <unittitle>White, Stanford receipts and invoices</unittitle>
-                        <container id="cid507880" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507880" type="Folder">20</container>
-                        <unitdate>1900-1901</unitdate>
-                    </did>
-                </c>
-                <c id="ref110" level="otherlevel">
-                    <did>
-                        <unittitle>White, Stanford Accounts</unittitle>
-                        <container id="cid507879" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid507879" type="Folder">21</container>
-                        <unitdate>1905</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref112" level="series">
-                <did>
-                    <unittitle>Series 2: Printed Materials and Clippings, 1906-1920</unittitle>
-                </did>
-                <scopecontent id="ref126">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains printed materials relating to the life and work of Stanford White including several scrapbooks containing material about White and his associates, a typescript of Charles Follen McKim. A Memoir, by Alfred Hoyt Granger, as well as annotated auction catalogues, and a monographs about the architectural firm of McKim, Mead &amp; White.</p>
-                </scopecontent>
-                <c id="ref113" level="otherlevel">
-                    <did>
-                        <unittitle>The Brickbuilder: An Architectural Monthly Vol. XV, Number 12</unittitle>
-                        <container id="cid507878" type="Box" label="Mixed Materials">3</container>
-                        <unitdate>1906</unitdate>
-                    </did>
-                </c>
-                <c id="ref114" level="otherlevel">
-                    <did>
-                        <unittitle>Illustrated Auction Catalogue of the Stanford White Estate</unittitle>
-                        <container id="cid507877" type="Box" label="Mixed Materials">3</container>
-                        <unitdate>1907</unitdate>
-                    </did>
-                </c>
-                <c id="ref115" level="otherlevel">
-                    <did>
-                        <unittitle>Illustrated Auction Catalogue of the Stanford White Estate</unittitle>
-                        <container id="cid507876" type="Box" label="Mixed Materials">3</container>
-                        <unitdate>1907</unitdate>
-                    </did>
-                </c>
-                <c id="ref116" level="otherlevel">
-                    <did>
-                        <unittitle>Illustrated Auction Catalogue of the Henry W. Poor Estate</unittitle>
-                        <container id="cid507875" type="Box" label="Mixed Materials">3</container>
-                        <unitdate>1909</unitdate>
-                    </did>
-                </c>
-                <c id="ref117" level="otherlevel">
-                    <did>
-                        <unittitle>American Architectural Review Vol. CXXI, Number 2394</unittitle>
-                        <container id="cid507874" type="Box" label="Mixed Materials">3</container>
-                        <unitdate>1922</unitdate>
-                    </did>
-                </c>
-                <c id="ref118" level="otherlevel">
-                    <did>
-                        <unittitle>C. H. Reilly, McKim, Mead &amp; White (London: Ernest Ben, Ltd., 1924)</unittitle>
-                        <container id="cid507873" type="Box" label="Mixed Materials">3</container>
-                        <unitdate>1924</unitdate>
-                    </did>
-                </c>
-                <c id="ref119" level="otherlevel">
-                    <did>
-                        <unittitle>Washington Arch, Its Conception, Construction, Dedication: Official Programme and Souvenir and Madison Square Garden Company Prospectus</unittitle>
-                        <container id="cid507872" type="Box" label="Mixed Materials">4</container>
-                        <unitdate>ca1887/1895</unitdate>
-                    </did>
-                </c>
-                <c id="ref120" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook relating to Augustus Saint Gaudens</unittitle>
-                        <container id="cid507871" type="Box" label="Mixed Materials">4</container>
-                        <unitdate>1912</unitdate>
-                    </did>
-                </c>
-                <c id="ref121" level="otherlevel">
-                    <did>
-                        <unittitle>Scrapbook of reviews of Charles C. Baldwin's biography, Stanford White</unittitle>
-                        <container id="cid507870" type="Box" label="Mixed Materials">4</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref122" level="otherlevel">
-                    <did>
-                        <unittitle>"Some Leaders in our Architectural Renaissance" -- short illustrated essay by Royal Cortissoze</unittitle>
-                        <container id="cid507869" type="Box" label="Mixed Materials">4</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref123" level="otherlevel">
-                    <did>
-                        <unittitle>Typescript of Charles Follen McKim. A Memoir. by Alfred Hoyt Granger</unittitle>
-                        <container id="cid507868" type="Box" label="Mixed Materials">4</container>
-                        <unitdate>n.d.</unitdate>
-                    </did>
-                </c>
-                <c id="ref124" level="otherlevel">
-                    <did>
-                        <unittitle>Newspaper Clippings</unittitle>
-                        <container id="cid507867" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid507867" type="Folder">1</container>
-                        <unitdate>ca1906-1920</unitdate>
-                    </did>
-                </c>
-                <c id="ref125" level="otherlevel">
-                    <did>
-                        <unittitle>Newspaper Clippings</unittitle>
-                        <container id="cid507866" type="Box" label="Mixed Materials">4</container>
-                        <container parent="cid507866" type="Folder">2</container>
-                        <unitdate>ca1906-1920</unitdate>
-                    </did>
-                </c>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://dlib.nyu.edu/findingaids/html/nyhs/white_s/">white_s</eadid><filedesc><titlestmt><titleproper>Guide to the Papers of Stanford White<lb/><date>1873-1928</date><lb/> <num>MS 693</num></titleproper><author>Collection processed by Josué Luis Hurtado and Gabrielle Sanchez</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><address><addressline>New-York Historical Society</addressline><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>(212) 873-3400</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2022-05-21T17:43:01</date></creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial id="aspace_6bb9f3ae2173658b608b3c461ed9fa03">The documents in the collection are in English.</langmaterial>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Stanford White papers</unittitle>
+    <origination label="Creator">
+      <persname source="naf">White, Stanford, 1853-1906</persname>
+    </origination>
+    <unitid>MS 693</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear feet</extent>
+      <extent altrender="carrier">(4 boxes)</extent>
+    </physdesc>
+    <unitdate type="inclusive">1873-1928</unitdate>
+    <abstract id="aspace_f895c9d2fde6b573d7e97c425160a870">The Stanford White Papers consist of personal correspondence, account information, photographs, newspaper clippings, and printed materials that document the life of the architect Stanford White (1853-1906) of the influential firm of McKim, Mead &amp; White.</abstract>
+  </did>
+  <acqinfo id="aspace_d9e4d0756cc66b11550cc0c2162ae0a0">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Mrs. Lawrence Grant White, 1970.</p>  </acqinfo>
+  <accessrestrict id="aspace_e549c988d6ee1a3d646977dd656439db">
+    <head>Access Restrictions</head>
+<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
+  <userestrict id="aspace_71cae6f886fa78f3846d46d76c772b42">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.</p><p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref ns2:actuate="onRequest" ns2:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <prefercite id="aspace_73cd4e753661d233f9d0b05a255e6be1">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as Stanford White Papers, MS 693, New-York Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_4460039b58ab2307216f517c9e8c8ece">
+    <head>Biographical Note</head>
+    <chronlist>
+      <head>Chronology</head>
+      <chronitem>
+        <date>1853</date>
+        <eventgrp>
+          <event>Stanford White is born in New York City to Richard Grant White and Alexina Black Mease on November 9</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1870</date>
+        <eventgrp>
+          <event>Obtains a position with architect Henry Hobson Richardson in New York</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1879</date>
+        <eventgrp>
+          <event>Accepts a position as partner with McKim and Mead in New York City to form the architectural design firm of McKim, Mead &amp; White</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1880</date>
+        <eventgrp>
+          <event>Collaborates with sculptor Augustus Saint-Gaudens to design the Admiral David Farragut memorial</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1884</date>
+        <eventgrp>
+          <event>Marries Bessie Smith of Long Island</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1885</date>
+        <eventgrp>
+          <event>Designs the Charles Tiffany House</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1886</date>
+        <eventgrp>
+          <event>Collaborates with Saint-Gaudens on the Standing Lincoln Memorial Sculpture in Chicago</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1891</date>
+        <eventgrp>
+          <event>Helps design Madison Square Garden</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1893</date>
+        <eventgrp>
+          <event>Designs the New York Herald building</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1895</date>
+        <eventgrp>
+          <event>Designs the Washington Square Park Arch</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1906</date>
+        <eventgrp>
+          <event>Stanford White is shot and killed by Harry K. Thaw, a jealous husband of a former lover of White's, while watching a musical on the roof of Madison Square Garden</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+  </bioghist>
+  <scopecontent id="aspace_6e7c42d2c56aee49229be33d159972eb">
+    <head>Scope and Content Note</head>
+<p>Correspondence, accounts, photographs, newspaper clippings and printed material, c.1873-1920, including copies of Stanford White's letters while in France, 1878; many letters from Charles Caryl Coleman, Thomas Wilmer Dewing, John La Farge, Augustus Saint-Gaudens, Janet Scudder, and Abbott Handerson Thayer; letters to his mother, Alexina Mease White, and to his wife, Bessie Smith White; accounts, 1900-1905, relating to White's importation of plants, furnishings, statuary, paintings, marble columns, etc., mostly from France and Italy; typescript, 1913, of Charles Follen McKim, a memoir, by Alfred Hoyt Granger; a list of subscribers, 1920, to the Stanford White Memorial; and printed material, including biographical material of White, examples of his architectural work, annotated auction catalogues, and monographs of the firm of McKim, Mead &amp; White.</p>  </scopecontent>
+  <arrangement id="aspace_3cf9095306e0ba537579b87a61d19e93">
+    <head>Arrangement</head>
+<p>This collection is organized into 2 series: </p><p>Series I. Correspondence and Documents, 1836-1948</p><p>Series II. Printed Materials and Clippings, 1888-1955</p><p>Most of the material is arranged chronologically within series. See the series descriptions for specific details. </p><p>Microfilm: Material in boxes 1 and 2 is on microfilm.</p>  </arrangement>
+  <relatedmaterial id="aspace_92b64f023cdadcbf3c7724870b963f43">
+    <head>Related Material at The New-York Historical Society</head>
+<p>Further materials relating to Stanford White, his work, and his family can be found within <title type="simple" render="italic">Stanford White: Letters to his family</title>, the Dedication of the Prison Ship Martyrs Monument Records, the Washington Arch Committee Statuary Fund Correspondence, and the book, <title type="simple" render="italic">Sketches and designs by Stanford White</title> by Lawrence Grant White, all at the New-York Historical Society.</p>  </relatedmaterial>
+  <processinfo id="aspace_5dbb67223965d1deaf5996d42df0a470">
+    <head>Processing Information</head>
+<p>Processed by Josué Luis Hurtado and Gabrielle Sanchez in 2012 or before.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Books</genreform>
+    <genreform source="aat">Certificates.</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Invoices.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">negatives (photographs)</genreform>
+    <genreform source="aat">Receipts (financial records)</genreform>
+    <geogname source="lcsh">Europe -- Description and travel -- 1919–1944</geogname>
+    <subject source="lcsh">Architecture -- United States.</subject>
+    <subject source="lcsh">Art, American.</subject>
+    <persname source="naf">Brush, George de Forest, 1855-1941</persname>
+    <persname rules="rda" source="naf">Choate, Joseph Hodges, 1832-1917</persname>
+    <persname source="naf">Coleman, Charles Caryl, 1840-1928</persname>
+    <persname rules="rda" source="naf">Cortissoz, Royal, 1869-1948</persname>
+    <persname source="naf">Cox, Kenyon, 1856-1919</persname>
+    <persname rules="rda" source="local">Curran, Charles Courtney, 1861-1942</persname>
+    <persname rules="rda" source="naf">Dana, Charles A. (Charles Anderson), 1819-1897</persname>
+    <persname rules="rda" source="local">Dana, Paul, 1852-1930.</persname>
+    <persname rules="rda" source="naf">Davis, Richard Harding, 1864-1916</persname>
+    <persname rules="rda" source="naf">Dewing, Thomas Wilmer, 1851-1938</persname>
+    <persname rules="rda" source="naf">Gilbert, Cass, 1859-1934</persname>
+    <persname source="naf">Johnson, Eastman, 1824-1906</persname>
+    <persname source="naf">La Farge, John, 1835-1910</persname>
+    <persname source="naf">McKim, Charles Follen, 1847-1909</persname>
+    <persname rules="rda" source="naf">Millet, Francis Davis, 1846-1912</persname>
+    <persname rules="rda" source="naf">Platt, Charles A. (Charles Adams), 1861-1933</persname>
+    <persname rules="rda" source="naf">Remington, Frederic, 1861-1909</persname>
+    <persname rules="rda" source="naf">Saint-Gaudens, Augustus, 1848-1907</persname>
+    <persname rules="rda" source="naf">Scudder, Janet, 1873-</persname>
+    <persname source="naf">Simmons, Edward, 1852-1931</persname>
+    <persname rules="rda" source="local">Story, Waldo</persname>
+    <persname rules="rda" source="naf">Thayer, Abbott Handerson, 1849-1921</persname>
+    <persname rules="rda" source="naf">Weir, Julian Alden, 1852-1919</persname>
+    <persname rules="rda" source="local">Wells, Joseph Morrill, -1890</persname>
+    <persname rules="rda" source="local">White, Alexina Black Mease</persname>
+    <persname rules="rda" source="local">White, Bessie Springs Smith</persname>
+    <persname rules="rda" source="naf">White, Lawrence Grant</persname>
+    <persname source="naf">White, Richard Grant, 1821-1885</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref16_haa" level="series"><did><unittitle>Series 1: Correspondence and Documents, 1873-1928</unittitle></did><scopecontent id="aspace_2c1057f7f60ea1617d0420a5e2157a1c"><head>Scope and Contents note</head><p>This series contains correspondence, photographs, newspaper clippings, receipts, invoices, and other documents, c.1873-1928, including copies of White's letters while in France, as well as letter from Charles Caryl Coleman, Thomas Wilmer Dewing, John La Farge, Augustus Saint-Gaudens, Janet Scudder, and Abbott Handerson Thayer and letters to his family. There are also business accounts relating to White's importation of plants, furnishings, statuary, paintings, marble columns, and other purchases from Europe.</p></scopecontent><c id="aspace_ref17_bdw" level="file"><did><unittitle>D. Appleton and Co.</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_3aa99ea98fe3d41ebffe41f5ce113ab8" label="Mixed Materials" type="Box">1</container><container parent="aspace_3aa99ea98fe3d41ebffe41f5ce113ab8" type="Folder">1</container></did></c><c id="aspace_ref18_8nr" level="file"><did><unittitle>Armstrong, D. Maitland</unittitle><unitdate type="inclusive">1883-1896</unitdate><container id="aspace_c7590cf6dd7a735d58c543e290657a0b" label="Mixed Materials" type="Box">1</container><container parent="aspace_c7590cf6dd7a735d58c543e290657a0b" type="Folder">2</container></did></c><c id="aspace_ref19_dv0" level="file"><did><unittitle>Attenbury</unittitle><unitdate type="inclusive">1887-1892</unitdate><container id="aspace_baff1639274f17972f9ca6afd42a0238" label="Mixed Materials" type="Box">1</container><container parent="aspace_baff1639274f17972f9ca6afd42a0238" type="Folder">3</container></did></c><c id="aspace_ref20_2ld" level="file"><did><unittitle>Babb, George Fletcher</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_ab3f56f41191c1ddbfa6523fa1c59ec0" label="Mixed Materials" type="Box">1</container><container parent="aspace_ab3f56f41191c1ddbfa6523fa1c59ec0" type="Folder">4</container></did></c><c id="aspace_ref21_wyx" level="file"><did><unittitle>Bailey, James Anthony</unittitle><unitdate type="inclusive">1891</unitdate><container id="aspace_1e1c44d56b01d12d35cc54e55cca85b5" label="Mixed Materials" type="Box">1</container><container parent="aspace_1e1c44d56b01d12d35cc54e55cca85b5" type="Folder">5</container></did></c><c id="aspace_ref22_83d" level="file"><did><unittitle>Bancroft, J.C.</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_e0968e540fb899a81b3bdab7863f1d5e" label="Mixed Materials" type="Box">1</container><container parent="aspace_e0968e540fb899a81b3bdab7863f1d5e" type="Folder">6</container></did></c><c id="aspace_ref23_vp5" level="file"><did><unittitle>Barrows, Frances</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_7bc2dff93be381ca8d3fe2dd7ca30924" label="Mixed Materials" type="Box">1</container><container parent="aspace_7bc2dff93be381ca8d3fe2dd7ca30924" type="Folder">7</container></did></c><c id="aspace_ref24_lto" level="file"><did><unittitle>Bickford, Herbert J.</unittitle><unitdate type="inclusive">1905</unitdate><container id="aspace_14740e0b84ee8fb3cd2ba37b86bab4a5" label="Mixed Materials" type="Box">1</container><container parent="aspace_14740e0b84ee8fb3cd2ba37b86bab4a5" type="Folder">8</container></did></c><c id="aspace_ref25_8cs" level="file"><did><unittitle>Blashfield, Edwin Howland</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_53920f1d892b5ec1f337482f11e18742" label="Mixed Materials" type="Box">1</container><container parent="aspace_53920f1d892b5ec1f337482f11e18742" type="Folder">9</container></did></c><c id="aspace_ref26_kk3" level="file"><did><unittitle>Bliss, Alexander</unittitle><unitdate type="inclusive">1892</unitdate><container id="aspace_ae9cd8fa604b9a26727555d5c5a10dee" label="Mixed Materials" type="Box">1</container><container parent="aspace_ae9cd8fa604b9a26727555d5c5a10dee" type="Folder">10</container></did></c><c id="aspace_ref27_d56" level="file"><did><unittitle>Brush, George De Forest</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_da8e35eac03d5f9e1e1afbe50fbf4eae" label="Mixed Materials" type="Box">1</container><container parent="aspace_da8e35eac03d5f9e1e1afbe50fbf4eae" type="Folder">11</container></did></c><c id="aspace_ref28_3fw" level="file"><did><unittitle>Bunker, Eleanor</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_507b623984d95bc3c7b7e741dcaec3e2" label="Mixed Materials" type="Box">1</container><container parent="aspace_507b623984d95bc3c7b7e741dcaec3e2" type="Folder">12</container></did></c><c id="aspace_ref29_s6g" level="file"><did><unittitle>Burnham, Daniel Hudson</unittitle><unitdate type="inclusive">1893-1895, undated</unitdate><container id="aspace_a753c5296bbb2c9e550fae290f19ed8d" label="Mixed Materials" type="Box">1</container><container parent="aspace_a753c5296bbb2c9e550fae290f19ed8d" type="Folder">13</container></did></c><c id="aspace_ref30_iv2" level="file"><did><unittitle>C</unittitle><unitdate type="inclusive">1892, undated</unitdate><container id="aspace_0305f4d89bda6a015494214a6119ead9" label="Mixed Materials" type="Box">1</container><container parent="aspace_0305f4d89bda6a015494214a6119ead9" type="Folder">14</container></did></c><c id="aspace_ref31_n58" level="file"><did><unittitle>Cabus, Frank E.</unittitle><unitdate type="inclusive">1893</unitdate><container id="aspace_1834682b0e82f5fa68e42e7830f9de8b" label="Mixed Materials" type="Box">1</container><container parent="aspace_1834682b0e82f5fa68e42e7830f9de8b" type="Folder">15</container></did></c><c id="aspace_ref32_gy9" level="file"><did><unittitle>Calder, Stirling</unittitle><unitdate type="inclusive">1902</unitdate><container id="aspace_ed724b97b4048b52ac7255a821da9913" label="Mixed Materials" type="Box">1</container><container parent="aspace_ed724b97b4048b52ac7255a821da9913" type="Folder">16</container></did></c><c id="aspace_ref33_t4d" level="file"><did><unittitle>Century Association</unittitle><unitdate type="inclusive">1886</unitdate><container id="aspace_154036f20afe55ca5aa60c40a1f76a26" label="Mixed Materials" type="Box">1</container><container parent="aspace_154036f20afe55ca5aa60c40a1f76a26" type="Folder">17</container></did></c><c id="aspace_ref34_n75" level="file"><did><unittitle>Chanler Family</unittitle><unitdate type="inclusive">1892-1893, undated</unitdate><container id="aspace_fb16f85abe3a9c68a70d99ee5c91570a" label="Mixed Materials" type="Box">1</container><container parent="aspace_fb16f85abe3a9c68a70d99ee5c91570a" type="Folder">18</container></did></c><c id="aspace_ref35_v0x" level="file"><did><unittitle>Chase, William Merrit</unittitle><unitdate type="inclusive">1886, undated</unitdate><container id="aspace_1c99cdefc90fff005df7c61fad5bdbc4" label="Mixed Materials" type="Box">1</container><container parent="aspace_1c99cdefc90fff005df7c61fad5bdbc4" type="Folder">19</container></did></c><c id="aspace_ref36_blk" level="file"><did><unittitle>Chichester, Charles F.</unittitle><unitdate type="inclusive">1889-1893</unitdate><container id="aspace_5372ee76a327d0f1a0a646ed41023fd9" label="Mixed Materials" type="Box">1</container><container parent="aspace_5372ee76a327d0f1a0a646ed41023fd9" type="Folder">20</container></did></c><c id="aspace_ref37_c5a" level="file"><did><unittitle>Choate, Joseph Hodges</unittitle><unitdate type="inclusive">1886-1894</unitdate><container id="aspace_366b9a0a029a3ba8015bd695ac965676" label="Mixed Materials" type="Box">1</container><container parent="aspace_366b9a0a029a3ba8015bd695ac965676" type="Folder">21</container></did></c><c id="aspace_ref38_sbb" level="file"><did><unittitle>Clesson, Caleb</unittitle><unitdate type="inclusive">1890</unitdate><container id="aspace_4851f84bcf2dd4d99bbb237ef493acb4" label="Mixed Materials" type="Box">1</container><container parent="aspace_4851f84bcf2dd4d99bbb237ef493acb4" type="Folder">22</container></did></c><c id="aspace_ref39_pbj" level="file"><did><unittitle>Coleman, Charles Caryl</unittitle><unitdate type="inclusive">1889-1900, undated</unitdate><container id="aspace_46380daefe9a7f5be6f022932d9541bb" label="Mixed Materials" type="Box">1</container><container parent="aspace_46380daefe9a7f5be6f022932d9541bb" type="Folder">23</container></did></c><c id="aspace_ref40_oza" level="file"><did><unittitle>Thomas Cook &amp; Son</unittitle><unitdate type="inclusive">1890</unitdate><container id="aspace_7fe73acbfc86770e669771b246707581" label="Mixed Materials" type="Box">1</container><container parent="aspace_7fe73acbfc86770e669771b246707581" type="Folder">24</container></did></c><c id="aspace_ref41_4m8" level="file"><did><unittitle>Cortissoz, Royal</unittitle><unitdate type="inclusive">1890</unitdate><container id="aspace_e74843ad089a40e78dda31c0931d9bd8" label="Mixed Materials" type="Box">1</container><container parent="aspace_e74843ad089a40e78dda31c0931d9bd8" type="Folder">25</container></did></c><c id="aspace_ref42_5y7" level="file"><did><unittitle>Cox, Kenyon</unittitle><unitdate type="inclusive">1887-1896</unitdate><container id="aspace_43b1485612993379b5641d628307f047" label="Mixed Materials" type="Box">1</container><container parent="aspace_43b1485612993379b5641d628307f047" type="Folder">26</container></did></c><c id="aspace_ref43_9vy" level="file"><did><unittitle>Curran, Charles Courtney</unittitle><unitdate type="inclusive">1893-1901</unitdate><container id="aspace_a81acdb868b436592d8e11dbe5b62d7e" label="Mixed Materials" type="Box">1</container><container parent="aspace_a81acdb868b436592d8e11dbe5b62d7e" type="Folder">27</container></did></c><c id="aspace_ref44_6o4" level="file"><did><unittitle>Dana, Charles Anderson</unittitle><unitdate type="inclusive">1890-1892</unitdate><container id="aspace_8821e3b9efec70d3e150b3a8eea2df71" label="Mixed Materials" type="Box">1</container><container parent="aspace_8821e3b9efec70d3e150b3a8eea2df71" type="Folder">28</container></did></c><c id="aspace_ref45_hjr" level="file"><did><unittitle>Dana, Paul</unittitle><unitdate type="inclusive">1894-1896</unitdate><container id="aspace_ff135af99c58328208fcfaa66fc4f5b6" label="Mixed Materials" type="Box">1</container><container parent="aspace_ff135af99c58328208fcfaa66fc4f5b6" type="Folder">29</container></did></c><c id="aspace_ref46_yzo" level="file"><did><unittitle>David, Richard Harding</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_8b0649027d7a549942b8796c3e648ce2" label="Mixed Materials" type="Box">1</container><container parent="aspace_8b0649027d7a549942b8796c3e648ce2" type="Folder">30</container></did></c><c id="aspace_ref47_kli" level="file"><did><unittitle>Dewing, Thomas Wilmer</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_db1d1e0623f898c3d00f7cbc3bdf9d12" label="Mixed Materials" type="Box">1</container><container parent="aspace_db1d1e0623f898c3d00f7cbc3bdf9d12" type="Folder">31</container></did></c><c id="aspace_ref48_76n" level="file"><did><unittitle>Drake, Alexander Wilson</unittitle><unitdate type="inclusive">1892</unitdate><container id="aspace_a94b1354ad1bf27a96f6cba9aac899aa" label="Mixed Materials" type="Box">1</container><container parent="aspace_a94b1354ad1bf27a96f6cba9aac899aa" type="Folder">32</container></did></c><c id="aspace_ref49_2tq" level="file"><did><unittitle>Emmet, Ellen</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_31ca33baf52da14cfbaad76b3e538c6f" label="Mixed Materials" type="Box">1</container><container parent="aspace_31ca33baf52da14cfbaad76b3e538c6f" type="Folder">33</container></did></c><c id="aspace_ref50_chs" level="file"><did><unittitle>Eugene Field Monument Fund</unittitle><unitdate type="inclusive">1896</unitdate><container id="aspace_c5522292671167dbbd805c6089e26313" label="Mixed Materials" type="Box">1</container><container parent="aspace_c5522292671167dbbd805c6089e26313" type="Folder">34</container></did></c><c id="aspace_ref51_l4k" level="file"><did><unittitle>Finn, James</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_b5547855f0ae243e358dfaa3e9aabfff" label="Mixed Materials" type="Box">1</container><container parent="aspace_b5547855f0ae243e358dfaa3e9aabfff" type="Folder">35</container></did></c><c id="aspace_ref52_5h8" level="file"><did><unittitle>Flanagan, John</unittitle><unitdate type="inclusive">1902</unitdate><container id="aspace_48a0475b14d829c8d767be3e44aeb327" label="Mixed Materials" type="Box">1</container><container parent="aspace_48a0475b14d829c8d767be3e44aeb327" type="Folder">36</container></did></c><c id="aspace_ref53_xkg" level="file"><did><unittitle>Freer, Charles Lang</unittitle><unitdate type="inclusive">1900</unitdate><container id="aspace_a7a7c2851bc18b989fe5a7934f497430" label="Mixed Materials" type="Box">1</container><container parent="aspace_a7a7c2851bc18b989fe5a7934f497430" type="Folder">37</container></did></c><c id="aspace_ref54_gvd" level="file"><did><unittitle>French, Charles Chester</unittitle><unitdate type="inclusive">1902</unitdate><container id="aspace_00b24173fc217428ee37e4706b4b9ee1" label="Mixed Materials" type="Box">1</container><container parent="aspace_00b24173fc217428ee37e4706b4b9ee1" type="Folder">38</container></did></c><c id="aspace_ref55_8ic" level="file"><did><unittitle>Frohman, Daniel</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_f3ab924eea22bec040e5303d01975cbc" label="Mixed Materials" type="Box">1</container><container parent="aspace_f3ab924eea22bec040e5303d01975cbc" type="Folder">39</container></did></c><c id="aspace_ref56_11f" level="file"><did><unittitle>Gilbert, Cass</unittitle><unitdate type="inclusive">1887-1922</unitdate><container id="aspace_b268a742880489dc8a4c00dc6795e47d" label="Mixed Materials" type="Box">1</container><container parent="aspace_b268a742880489dc8a4c00dc6795e47d" type="Folder">40</container></did></c><c id="aspace_ref57_2mh" level="file"><did><unittitle>Gilder, Richard Watson</unittitle><unitdate type="inclusive">1886-1890</unitdate><container id="aspace_16cf99769dbb0ba3d615cfbfe204a2fb" label="Mixed Materials" type="Box">1</container><container parent="aspace_16cf99769dbb0ba3d615cfbfe204a2fb" type="Folder">41</container></did></c><c id="aspace_ref58_vqo" level="file"><did><unittitle>George E. Green &amp; Son</unittitle><unitdate type="inclusive">1888</unitdate><container id="aspace_a792d2cd3515f0253b9e055380601d4f" label="Mixed Materials" type="Box">1</container><container parent="aspace_a792d2cd3515f0253b9e055380601d4f" type="Folder">42</container></did></c><c id="aspace_ref59_ty3" level="file"><did><unittitle>Harrison, Alexander</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_98415320740845932bb6501b1822b282" label="Mixed Materials" type="Box">1</container><container parent="aspace_98415320740845932bb6501b1822b282" type="Folder">43</container></did></c><c id="aspace_ref60_d2w" level="file"><did><unittitle>Hastings, Thomas</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_38a77207126ce7b48b4ab3c8d0b19d0d" label="Mixed Materials" type="Box">1</container><container parent="aspace_38a77207126ce7b48b4ab3c8d0b19d0d" type="Folder">44</container></did></c><c id="aspace_ref61_ic3" level="file"><did><unittitle>Houghton, Mifflin &amp; Co.</unittitle><unitdate type="inclusive">1886</unitdate><container id="aspace_9942a75b7327d3f1c0c40faa2f0e5a29" label="Mixed Materials" type="Box">1</container><container parent="aspace_9942a75b7327d3f1c0c40faa2f0e5a29" type="Folder">45</container></did></c><c id="aspace_ref62_ynv" level="file"><did><unittitle>Hunt, Richard Morris</unittitle><unitdate type="inclusive">1889</unitdate><container id="aspace_60c71367681986a25c43eb935a307606" label="Mixed Materials" type="Box">1</container><container parent="aspace_60c71367681986a25c43eb935a307606" type="Folder">46</container></did></c><c id="aspace_ref63_7bm" level="file"><did><unittitle>Irving, Henry</unittitle><unitdate type="inclusive">1896</unitdate><container id="aspace_55bda48f4f58a62504c339e6c956bce2" label="Mixed Materials" type="Box">1</container><container parent="aspace_55bda48f4f58a62504c339e6c956bce2" type="Folder">47</container></did></c><c id="aspace_ref64_i3y" level="file"><did><unittitle>Johnson, Eastman</unittitle><unitdate type="inclusive">1896</unitdate><container id="aspace_575cfb609ee087e1b2abdb6f60369e3d" label="Mixed Materials" type="Box">1</container><container parent="aspace_575cfb609ee087e1b2abdb6f60369e3d" type="Folder">48</container></did></c><c id="aspace_ref65_9s1" level="file"><did><unittitle>Jones, Mary Cadwalder</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_8fa4536bb5d130ec9e75611c2979c379" label="Mixed Materials" type="Box">1</container><container parent="aspace_8fa4536bb5d130ec9e75611c2979c379" type="Folder">49</container></did></c><c id="aspace_ref66_hf5" level="file"><did><unittitle>Kennedy, Elija Robinson</unittitle><unitdate type="inclusive">1896</unitdate><container id="aspace_57a0360f5fa895909c49c2683f8f3361" label="Mixed Materials" type="Box">1</container><container parent="aspace_57a0360f5fa895909c49c2683f8f3361" type="Folder">50</container></did></c><c id="aspace_ref67_8ze" level="file"><did><unittitle>LaFarge, John</unittitle><unitdate type="inclusive">1887-1901, undated</unitdate><container id="aspace_596561f4d37984e17ed0c3573f56be4d" label="Mixed Materials" type="Box">1</container><container parent="aspace_596561f4d37984e17ed0c3573f56be4d" type="Folder">51</container></did></c><c id="aspace_ref68_1kv" level="file"><did><unittitle>Lawrence, Mary</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_244a8cbefc201a170ba16ebde6149226" label="Mixed Materials" type="Box">1</container><container parent="aspace_244a8cbefc201a170ba16ebde6149226" type="Folder">52</container></did></c><c id="aspace_ref69_a9u" level="file"><did><unittitle>Loeser, Charles</unittitle><unitdate type="inclusive">1905</unitdate><container id="aspace_80411a6b7e06aaf4494b9ee32a82a35c" label="Mixed Materials" type="Box">1</container><container parent="aspace_80411a6b7e06aaf4494b9ee32a82a35c" type="Folder">53</container></did></c><c id="aspace_ref70_hx8" level="file"><did><unittitle>Lord, James Brown</unittitle><unitdate type="inclusive">1896</unitdate><container id="aspace_ab873d2dfdee212091e77528747610d5" label="Mixed Materials" type="Box">1</container><container parent="aspace_ab873d2dfdee212091e77528747610d5" type="Folder">54</container></did></c><c id="aspace_ref71_1uo" level="file"><did><unittitle>Lorillard, Caroline</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_cf0e9bb88965b25cb4d72110527f2d86" label="Mixed Materials" type="Box">1</container><container parent="aspace_cf0e9bb88965b25cb4d72110527f2d86" type="Folder">55</container></did></c><c id="aspace_ref72_pkg" level="file"><did><unittitle>Low, Will Hicok</unittitle><unitdate type="inclusive">1890</unitdate><container id="aspace_748ca5d3d1b4429afb8e71ccc8e68ed4" label="Mixed Materials" type="Box">1</container><container parent="aspace_748ca5d3d1b4429afb8e71ccc8e68ed4" type="Folder">56</container></did></c><c id="aspace_ref73_0k0" level="file"><did><unittitle>MacMonnies, Frederick</unittitle><unitdate type="inclusive">1896</unitdate><container id="aspace_5378cd3199412e9a4b2f61ee20f52be0" label="Mixed Materials" type="Box">1</container><container parent="aspace_5378cd3199412e9a4b2f61ee20f52be0" type="Folder">57</container></did></c><c id="aspace_ref74_xv3" level="file"><did><unittitle>Manchester, Consuelo Duchess of</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_8b69b8c1fc8c63a1addc573a668488ef" label="Mixed Materials" type="Box">1</container><container parent="aspace_8b69b8c1fc8c63a1addc573a668488ef" type="Folder">58</container></did></c><c id="aspace_ref75_7ud" level="file"><did><unittitle>Martin, H.D.</unittitle><unitdate type="inclusive">1896</unitdate><container id="aspace_c7c89d174a4f2b0103ba7cdec9ecddb0" label="Mixed Materials" type="Box">1</container><container parent="aspace_c7c89d174a4f2b0103ba7cdec9ecddb0" type="Folder">59</container></did></c><c id="aspace_ref76_f7w" level="file"><did><unittitle>Maynard, George Willoghby</unittitle><unitdate type="inclusive">1889</unitdate><container id="aspace_fa3609122df576af487f0b2abb48401a" label="Mixed Materials" type="Box">1</container><container parent="aspace_fa3609122df576af487f0b2abb48401a" type="Folder">60</container></did></c><c id="aspace_ref77_m01" level="file"><did><unittitle>Mead, William Rutherford</unittitle><unitdate type="inclusive">1922</unitdate><container id="aspace_a51288ce286551f992151ed129d62c84" label="Mixed Materials" type="Box">1</container><container parent="aspace_a51288ce286551f992151ed129d62c84" type="Folder">61</container></did></c><c id="aspace_ref78_xy9" level="file"><did><unittitle>Millet, Francis Davis</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_0799641385726ca5b232cc930c590886" label="Mixed Materials" type="Box">1</container><container parent="aspace_0799641385726ca5b232cc930c590886" type="Folder">62</container></did></c><c id="aspace_ref79_ok0" level="file"><did><unittitle>Myer, G.L.</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_49a632a60d3711290783bee920b0c8a8" label="Mixed Materials" type="Box">1</container><container parent="aspace_49a632a60d3711290783bee920b0c8a8" type="Folder">63</container></did></c><c id="aspace_ref80_uq0" level="file"><did><unittitle>O'Connor, Andrew</unittitle><unitdate type="inclusive">1904</unitdate><container id="aspace_91f10d13dd37f2afef1d70225aeedb41" label="Mixed Materials" type="Box">1</container><container parent="aspace_91f10d13dd37f2afef1d70225aeedb41" type="Folder">64</container></did></c><c id="aspace_ref81_ldv" level="file"><did><unittitle>Oelrichs, Hermann</unittitle><unitdate type="inclusive">1896</unitdate><container id="aspace_469e810864edf69e3cbb391857bac4c2" label="Mixed Materials" type="Box">1</container><container parent="aspace_469e810864edf69e3cbb391857bac4c2" type="Folder">65</container></did></c><c id="aspace_ref82_fxj" level="file"><did><unittitle>Olmsted, Frederick Law</unittitle><unitdate type="inclusive">1885</unitdate><container id="aspace_6dd137575f85f80cf798c1cf1864871c" label="Mixed Materials" type="Box">1</container><container parent="aspace_6dd137575f85f80cf798c1cf1864871c" type="Folder">66</container></did></c><c id="aspace_ref83_5wc" level="file"><did><unittitle>Osborne, Louise N.</unittitle><unitdate type="inclusive">1901</unitdate><container id="aspace_db154294ee62980e981ef2d15fa79daf" label="Mixed Materials" type="Box">1</container><container parent="aspace_db154294ee62980e981ef2d15fa79daf" type="Folder">67</container></did></c><c id="aspace_ref84_o56" level="file"><did><unittitle>Platt, Charles Adams</unittitle><unitdate type="inclusive">1890-1898, undated</unitdate><container id="aspace_e110cdb5cce13c1f1b4d4e8f1278f7b5" label="Mixed Materials" type="Box">1</container><container parent="aspace_e110cdb5cce13c1f1b4d4e8f1278f7b5" type="Folder">68</container></did></c><c id="aspace_ref85_exv" level="file"><did><unittitle>The Players</unittitle><unitdate type="inclusive">1888-1889</unitdate><container id="aspace_96165ded982eb4ddb3e0f48c3c9e8435" label="Mixed Materials" type="Box">1</container><container parent="aspace_96165ded982eb4ddb3e0f48c3c9e8435" type="Folder">69</container></did></c><c id="aspace_ref86_gma" level="file"><did><unittitle>Poor, Henry William</unittitle><unitdate type="inclusive">1896-1901</unitdate><container id="aspace_f7bd06ef5bd6416d3f893bf03bbd1f0e" label="Mixed Materials" type="Box">1</container><container parent="aspace_f7bd06ef5bd6416d3f893bf03bbd1f0e" type="Folder">70</container></did></c><c id="aspace_ref87_efh" level="file"><did><unittitle>Remington, Frederic</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_65706a4924fcc2f8bd2acd7d7d7aeacb" label="Mixed Materials" type="Box">1</container><container parent="aspace_65706a4924fcc2f8bd2acd7d7d7aeacb" type="Folder">71</container></did></c><c id="aspace_ref88_h7f" level="file"><did><unittitle>Richardson, Henry Hobson</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_8703b17db3eb10d01270459e3f0f7c7e" label="Mixed Materials" type="Box">1</container><container parent="aspace_8703b17db3eb10d01270459e3f0f7c7e" type="Folder">72</container></did></c><c id="aspace_ref89_f3f" level="file"><did><unittitle>Ristigouche Salmon Club</unittitle><unitdate type="inclusive">1887</unitdate><container id="aspace_313070aaebb967bdc5b01e9894479777" label="Mixed Materials" type="Box">1</container><container parent="aspace_313070aaebb967bdc5b01e9894479777" type="Folder">73</container></did></c><c id="aspace_ref90_uba" level="file"><did><unittitle>Saint-Gaudens, Augustus</unittitle><unitdate type="inclusive">1879-1928, undated</unitdate><container id="aspace_c2325ae281d5464ba232d1c60adb3bea" label="Mixed Materials" type="Box">2</container><container parent="aspace_c2325ae281d5464ba232d1c60adb3bea" type="Folder">1</container></did></c><c id="aspace_ref91_oqv" level="file"><did><unittitle>Sargent, John Singer</unittitle><unitdate type="inclusive">1898, undated</unitdate><container id="aspace_fd33c239cd03e426c898d5ffa36382ce" label="Mixed Materials" type="Box">2</container><container parent="aspace_fd33c239cd03e426c898d5ffa36382ce" type="Folder">2</container></did></c><c id="aspace_ref92_rsq" level="file"><did><unittitle>Scudder, Janet</unittitle><unitdate type="inclusive">1896-1906, undated</unitdate><container id="aspace_ddd110a76b65f3758449a277369127d9" label="Mixed Materials" type="Box">2</container><container parent="aspace_ddd110a76b65f3758449a277369127d9" type="Folder">3</container></did></c><c id="aspace_ref93_sde" level="file"><did><unittitle>Sedgwick, S.M.</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_b67f17ac86259530baa6585f228c981f" label="Mixed Materials" type="Box">2</container><container parent="aspace_b67f17ac86259530baa6585f228c981f" type="Folder">4</container></did></c><c id="aspace_ref94_1rc" level="file"><did><unittitle>Sewell, Robert T.</unittitle><unitdate type="inclusive">1894</unitdate><container id="aspace_b36441f62eabfa4bfe6a4d2de3f8eec7" label="Mixed Materials" type="Box">2</container><container parent="aspace_b36441f62eabfa4bfe6a4d2de3f8eec7" type="Folder">5</container></did></c><c id="aspace_ref95_zzq" level="file"><did><unittitle>Shin, Everett</unittitle><unitdate type="inclusive">1903</unitdate><container id="aspace_9f11e66119b1ba0e93e8b8904df74211" label="Mixed Materials" type="Box">2</container><container parent="aspace_9f11e66119b1ba0e93e8b8904df74211" type="Folder">6</container></did></c><c id="aspace_ref96_k00" level="file"><did><unittitle>Stewart, D.</unittitle><unitdate type="inclusive">1885-1901</unitdate><container id="aspace_db0ebd13984b50d44debbde781eebf68" label="Mixed Materials" type="Box">2</container><container parent="aspace_db0ebd13984b50d44debbde781eebf68" type="Folder">7</container></did></c><c id="aspace_ref97_6yu" level="file"><did><unittitle>Story, Waldo</unittitle><unitdate type="inclusive">1905</unitdate><container id="aspace_b47e2247f07255d39a201c53c1610bc8" label="Mixed Materials" type="Box">2</container><container parent="aspace_b47e2247f07255d39a201c53c1610bc8" type="Folder">8</container></did></c><c id="aspace_ref98_rl9" level="file"><did><unittitle>Thayer, Abbot Anderson</unittitle><unitdate type="inclusive">1889-1922, undated</unitdate><container id="aspace_0e59aa00f961ab19df02176695861fd8" label="Mixed Materials" type="Box">2</container><container parent="aspace_0e59aa00f961ab19df02176695861fd8" type="Folder">9</container></did></c><c id="aspace_ref99_z8h" level="file"><did><unittitle>Tiffany &amp; Company</unittitle><unitdate type="inclusive">1896</unitdate><container id="aspace_6670a1b32bb565060d5b9e741a264e33" label="Mixed Materials" type="Box">2</container><container parent="aspace_6670a1b32bb565060d5b9e741a264e33" type="Folder">10</container></did></c><c id="aspace_ref100_dwu" level="file"><did><unittitle>Weir, Julian Alden</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_9fdb1092e5b49ae4ddc99b4392ed097d" label="Mixed Materials" type="Box">2</container><container parent="aspace_9fdb1092e5b49ae4ddc99b4392ed097d" type="Folder">11</container></did></c><c id="aspace_ref101_rmh" level="file"><did><unittitle>Twachtman, John Henry</unittitle><unitdate type="inclusive">1890</unitdate><container id="aspace_3e8e35f7c76aceb3f23ea137c68bc381" label="Mixed Materials" type="Box">2</container><container parent="aspace_3e8e35f7c76aceb3f23ea137c68bc381" type="Folder">12</container></did></c><c id="aspace_ref102_lvw" level="file"><did><unittitle>Vanderbilt</unittitle><unitdate type="inclusive">1896, undated</unitdate><container id="aspace_d382740445ac0768bd4bcf78d748cc13" label="Mixed Materials" type="Box">2</container><container parent="aspace_d382740445ac0768bd4bcf78d748cc13" type="Folder">13</container></did></c><c id="aspace_ref103_s3x" level="file"><did><unittitle>Wells, Joseph Morrill</unittitle><unitdate type="inclusive">1880-1881</unitdate><container id="aspace_dde3b8c75c5d31cfb33cb3f739b044ee" label="Mixed Materials" type="Box">2</container><container parent="aspace_dde3b8c75c5d31cfb33cb3f739b044ee" type="Folder">14</container></did></c><c id="aspace_ref104_syb" level="file"><did><unittitle>Whitney</unittitle><unitdate type="inclusive">1896, undated</unitdate><container id="aspace_bb2786bcb44f144843ffa847d2205125" label="Mixed Materials" type="Box">2</container><container parent="aspace_bb2786bcb44f144843ffa847d2205125" type="Folder">15</container></did></c><c id="aspace_ref105_haw" level="file"><did><unittitle>White, Bessie</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_ead3dadaf22cfb9bdae86e2b1c6ac798" label="Mixed Materials" type="Box">2</container><container parent="aspace_ead3dadaf22cfb9bdae86e2b1c6ac798" type="Folder">16</container></did></c><c id="aspace_ref106_f41" level="file"><did><unittitle>White, Stanford</unittitle><unitdate type="inclusive">1873-1897</unitdate><container id="aspace_606adc3409f59dbbaffae46fad828f6b" label="Mixed Materials" type="Box">2</container><container parent="aspace_606adc3409f59dbbaffae46fad828f6b" type="Folder">17</container></did></c><c id="aspace_ref107_y2j" level="file"><did><unittitle>White, Stanford</unittitle><unitdate type="inclusive">undated</unitdate><container id="aspace_9e045018592fc3e2d01e43ab913d9116" label="Mixed Materials" type="Box">2</container><container parent="aspace_9e045018592fc3e2d01e43ab913d9116" type="Folder">18</container></did></c><c id="aspace_ref108_533" level="file"><did><unittitle>White, Stanford, misc. documents</unittitle><unitdate type="inclusive">1883-1920, undated</unitdate><container id="aspace_95f884edd8045f45d933a41090cf2d32" label="Mixed Materials" type="Box">2</container><container parent="aspace_95f884edd8045f45d933a41090cf2d32" type="Folder">19</container></did></c><c id="aspace_ref109_t48" level="file"><did><unittitle>White, Stanford receipts and invoices</unittitle><unitdate type="inclusive">1900-1901</unitdate><container id="aspace_2fa73b2b9312cc1a30f22d8fed0019b8" label="Mixed Materials" type="Box">2</container><container parent="aspace_2fa73b2b9312cc1a30f22d8fed0019b8" type="Folder">20</container></did></c><c id="aspace_ref110_3o5" level="file"><did><unittitle>White, Stanford accounts</unittitle><unitdate type="inclusive">1905</unitdate><container id="aspace_98a0ec976ab3bc0cf139b9dcf274b128" label="Mixed Materials" type="Box">2</container><container parent="aspace_98a0ec976ab3bc0cf139b9dcf274b128" type="Folder">21</container></did></c></c><c id="aspace_ref112_vjt" level="series"><did><unittitle>Series 2: Printed Materials and Clippings, 1906-1920</unittitle></did><scopecontent id="aspace_bf1f80dd4506774b13fee995372be7a5"><head>Scope and Contents note</head><p>This series contains printed materials relating to the life and work of Stanford White including several scrapbooks containing material about White and his associates, a typescript of Charles Follen McKim. A Memoir, by Alfred Hoyt Granger, as well as annotated auction catalogues, and a monographs about the architectural firm of McKim, Mead &amp; White.</p></scopecontent><c id="aspace_ref113_5sv" level="file"><did><unittitle>The Brickbuilder: An Architectural Monthly Vol. XV, Number 12</unittitle><unitdate>1906</unitdate><container id="aspace_8feb1dc8391b770f615505f7fb3533c3" label="Mixed Materials" type="Box">3</container></did></c><c id="aspace_ref114_pr7" level="file"><did><unittitle>Illustrated Auction Catalogue of the Stanford White Estate</unittitle><unitdate>1907</unitdate><container id="aspace_ba61aa7256e15682b7dacac8a4ebe003" label="Mixed Materials" type="Box">3</container></did></c><c id="aspace_ref115_jt0" level="file"><did><unittitle>Illustrated Auction Catalogue of the Stanford White Estate</unittitle><unitdate>1907</unitdate><container id="aspace_b47e80c0dcb51039e03d9372a8dac9d7" label="Mixed Materials" type="Box">3</container></did></c><c id="aspace_ref116_pdi" level="file"><did><unittitle>Illustrated Auction Catalogue of the Henry W. Poor Estate</unittitle><unitdate>1909</unitdate><container id="aspace_f9968a3233970ab7b8dac35f4c6881f6" label="Mixed Materials" type="Box">3</container></did></c><c id="aspace_ref117_gii" level="file"><did><unittitle>American Architectural Review Vol. CXXI, Number 2394</unittitle><unitdate>1922</unitdate><container id="aspace_fd739d72e7ec3a7e09612c2a3ad87db1" label="Mixed Materials" type="Box">3</container></did></c><c id="aspace_ref118_a88" level="file"><did><unittitle>C. H. Reilly, McKim, Mead &amp; White (London: Ernest Ben, Ltd., 1924)</unittitle><unitdate>1924</unitdate><container id="aspace_96676b0c35998c5654f5473ad1f0bbd6" label="Mixed Materials" type="Box">3</container></did></c><c id="aspace_ref119_u6d" level="file"><did><unittitle>Washington Arch, Its Conception, Construction, Dedication: Official Programme and Souvenir and Madison Square Garden Company Prospectus</unittitle><unitdate>circa 1887/1895</unitdate><container id="aspace_8277e1b8f7d16c5b4a307f6a45ba1b6d" label="Mixed Materials" type="Box">4</container></did></c><c id="aspace_ref120_1v5" level="file"><did><unittitle>Scrapbook relating to Augustus Saint Gaudens</unittitle><unitdate>1912</unitdate><container id="aspace_7a5956a00de5906576498d8ad5dffc7a" label="Mixed Materials" type="Box">4</container></did></c><c id="aspace_ref121_hfu" level="file"><did><unittitle>Scrapbook of reviews of Charles C. Baldwin's biography, Stanford White</unittitle><unitdate>undated</unitdate><container id="aspace_5f41a56f553010a56e4adbf4deb59b83" label="Mixed Materials" type="Box">4</container></did></c><c id="aspace_ref122_c60" level="file"><did><unittitle>"Some Leaders in our Architectural Renaissance" -- short illustrated essay by Royal Cortissoze</unittitle><unitdate>undated</unitdate><container id="aspace_bf72c59c4e44ed047c1fad821dd2e6be" label="Mixed Materials" type="Box">4</container></did></c><c id="aspace_ref123_mgs" level="file"><did><unittitle>Typescript of Charles Follen McKim. A Memoir. by Alfred Hoyt Granger</unittitle><unitdate>undated</unitdate><container id="aspace_c01eb6c1321d941af1e75df8a9c64254" label="Mixed Materials" type="Box">4</container></did></c><c id="aspace_ref124_iyo" level="file"><did><unittitle>Newspaper Clippings</unittitle><unitdate>circa 1906-1920</unitdate><container id="aspace_3a7fe02e9a53b824a395ea62cf60fb0f" label="Mixed Materials" type="Box">4</container><container parent="aspace_3a7fe02e9a53b824a395ea62cf60fb0f" type="Folder">1</container></did></c><c id="aspace_ref125_lh9" level="file"><did><unittitle>Newspaper Clippings</unittitle><unitdate>circa 1906-1920</unitdate><container id="aspace_760272c456275991679c991bdb1e216b" label="Mixed Materials" type="Box">4</container><container parent="aspace_760272c456275991679c991bdb1e216b" type="Folder">2</container></did></c></c></dsc>
+</archdesc>
 </ead>
