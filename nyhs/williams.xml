@@ -1,601 +1,133 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NHi">williams</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Papers of the Williams Family
-                    <lb/>
-                    <date>1739-1842 </date>
-                    <date>(Bulk 1747-1770)</date>
-                    <lb/>
-                    <num></num>
-                    <num>MS 698</num>
-                </titleproper>
-                <author>Finding aid prepared by Jan Hilley</author>
-            </titlestmt>
-            <editionstmt>
-                <p>This version was derived from Williams.xml</p>
-            </editionstmt>
-            <publicationstmt>
-                <publisher>@ 2011 New-York Historical Society</publisher>
-                <address>
-                    <addressline>New-York Historical Society</addressline>
-                    <addressline>170 Central Park West</addressline>
-                    <addressline>New York, NY 10024</addressline>
-                    <addressline>Phone: (212) 873-3400</addressline>
-                </address>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-04T16:22-0400</date>
-            </creation>
-            <langusage>Description is in 
-                <language>English</language>.</langusage>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Williams Family Papers</unittitle>
-            <unitid>MS 698</unitid>
-            <repository>
-                <corpname>@ 2011 New-York Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.75 Linear feet</extent>
-                <extent>(2 boxes)</extent>
-            </physdesc>
-            <unitdate>1739 - 1842 (Bulk 1747-1770)</unitdate>
-            <physloc audience="internal" id="ref2" label="Location note">Manuscript cage</physloc>
-            <abstract id="ref3" label="Abstract">A collection of correspondence, military records, legal documents, estate papers, receipts, accounts, invoices, inventories and personal items belonging to various members of the Williams family of Deerfield, Massachusetts, and other New England towns. Most of the collection involves Dr. Thomas Williams, his wife Esther, his brother Col. Ephraim Williams, his father-in-law Rev. William Williams, his son Solomon Williams, their relatives, friends and associates. Much of the correspondence and military material is dated 1755-1756 and relates to military expeditions in the Lake George, New York, area during the French and Indian Wars.</abstract>
-        </did>
-        <custodhist id="ref4">
-            <head>Provenance</head>
-        </custodhist>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open to qualified researchers.</p>
-            <p>Portions of the collection that have been microfilmed will be brought to the researcher in that format and can be made available by Interlibrary loan.</p>
-            <p>Photocopying undertaken by staff only. Limited to twenty exposures of stable, unbound material per day. (Researchers may not accrue unused copy amounts from previous days.) Researchers on site may print out unlimited copies from microfilm reader-printer machines at per-exposure rates. See guidelines in Reading room for details.</p>
-        </accessrestrict>
-        <userestrict id="ref6">
-            <head>Use Restrictions</head>
-            <p>Permission to quote from this collection in a publication must be requested and granted in writing. Send permission requests, citing the name of the collection from which you wish to quote, to 
-                <lb/>
-                <lb/>Library Director 
-                <lb/>
-                <address>
-                    <addressline>The New-York Historical Society
-                        <lb/></addressline>
-                    <addressline>170 Central Park West
-                        <lb/></addressline>
-                    <addressline>New York, NY 10024
-                        <lb/>
-                        <lb/></addressline>
-                </address></p>
-        </userestrict>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>This collection should be cited as the Williams Family Papers, MS 698, The New-York Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref8">
-            <head>Biographical Note</head>
-            <chronlist>
-                <chronitem>
-                    <date>1607</date>
-                    <event>Birth of 
-                        <title render="bold">Robert Williams</title> (1607-1693) who, with his wife Elizabeth Stalham (1597-1694) began this New England Williams line. The materials within the collection primarily involve the descendants of his sons 
-                        <title render="bold">Isaac</title> (1638-1707) and 
-                        <title render="bold">Samuel</title> (1632-1698) who married sisters Martha Parke (1641-1674) and Theoda Parke (1637-1718).</event>
-                </chronitem>
-                <chronitem>
-                    <date>1664</date>
-                    <event>Birth of 
-                        <title render="bold">John Williams</title>, son of Samuel Williams (1632-1698) and Theoda Parke (1637-1718). John Williams (1664-1729), one of the most well known members of the Williams family, was an ordained minister and an early settler of Deerfield, Massachusetts. He lost his first wife, Eunice Mather, and two of his children in the Indian raid known as the Deerfield Massacre (1704) and was held in captivity in Canada for two years before returning to Deerfield. He married Abigail Bissell and one of their daughters, 
-                        <title render="bold">Abigail</title> (1708-1787), married 
-                        <title render="bold">Col. Ebenezer Hinsdale</title> (1706-1763). Hinsdale estate papers are included in this collection.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1688</date>
-                    <event>Birth of William Williams, son of William Williams, Sr. (1664-1741) and Elizabeth Cotton (d. 1698). 
-                        <title render="bold">William Williams</title> (1688-1760) is the author of many of the letters within this collection. He was a minister and the father of six children (several others died in infancy). Some of his children are represented in the correspondence: Esther Williams (1726-1800) who married Dr. Thomas Williams (see below); William Williams (1713-1788); and Anna Williams, whose husband, 
-                        <title render="bold">Oliver Partridge</title>, is also represented in a number of letters. All of William's children are mentioned in his will, which is among the papers.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1706</date>
-                    <event>Birth of Ebenezer Hinsdale. 
-                        <title render="bold">Ebenezer Hinsdale</title> (1706-1763) was the son of Mehuman Hinsdale (1673-1736), said to be the first white child born in Deerfield. Mehuman's father, Samuel (1643-1675), was killed in the Indian raid known as the Bloody Brook Massacre (1675), and Mehuman was captured by Indians twice. Ebenezer was ordained as a missionary but had more success in military and business enterprises. He founded Hinsdale, New Hampshire, and build Fort Hinsdale. He served in the French and Indian Wars. His marriage to Abigail Williams, daughter of Rev. John Williams, formed the connection between the Hinsdales and the Williams family.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1713</date>
-                    <event>Birth of John Hinsdale. 
-                        <title render="bold">John Hinsdale</title> (1713-1746), son of Mehuman Hinsdale and brother of Col. Ebenezer Hinsdale, was another of the Hinsdales of Deerfield. The Hinsdale family was one of the wealthiest in Deerfield. Samuel Hinsdale (1641-1675), one of the first settlers and grandfather of John Hinsdale, owned 1/12 of the entire 8,000 acre grant originally set aside for settling the Pocumtuck territory (later becoming Deerfield, MA). Papers relating to John Hinsdale's estate are included in this collection.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1715</date>
-                    <event>Birth of Ephraim Williams, son of Ephraim Williams, Sr. (1691-1754) and Elizabeth Jackson (d. 1718). 
-                        <title render="bold">Ephraim Williams</title> (1715-1755) has a significant presence within this collection. Correspondence, his will and various other papers are included. Ephraim Williams was the founder of Williams College in Massachusetts; he lived in Stockbridge, Hatfield and Deerfield and had a notable career in the military. He was a commissioned officer as the continuing conflict between England and France erupted in King George's War (1745-1748) and the French and Indian War (1754-1763). He was captain of a company raised for the invasion of Canada in 1746, became major in 1753 and then colonel of the Hampshire troops. He was killed leading his regiment on the "Bloody Morning Scout," September 8, 1755, near Lake George.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1718</date>
-                    <event>Birth of Thomas Williams, son of Ephraim Williams, Sr. (1691-1754) and Elizabeth Jackson (d. 1718). Much of the correspondence and many of the other papers included in this collection involve 
-                        <title render="bold">Dr. Thomas Williams</title> (1718-1775) and his immediate family. A physician, Dr. Williams also participated in several military campaigns. In addition, he served in a number of local government positions. George Sheldon, in his 1895 book 
-                        <title render="italic">A History of Deerfield Massachusetts</title>, writes that Williams "came to Deerfield in 1789; became a prominent figure as a man of affairs, as well as in his profession; was surgeon in the abortive Canadian expedition 1746 and for the line of forts; he left Fort Mass. only two days before its capture in 1746; was surgeon in the regt. of his brother Ephraim, at the battle of Lake George, Sept. 8, 1755 and dressed the wounds of Baron Dieskau, the captured commander of the Fr. army; in the campaign of 1756 he was lieut.-col.; rep 2 yrs; selectman 2; town clerk 17; judge of probate and justice of the court of common pleas; and had an extensive professional practice." Dr. Williams married Anna Childs in 1740 and three children were born before her death in 1746. He then married 
-                        <title render="bold">Esther Williams</title>, the daughter of his cousin, 
-                        <title render="bold">Rev. William Williams</title> (1688-1760). They had eleven children, although three died in infancy.</event>
-                </chronitem>
-                <chronitem>
-                    <date>1764</date>
-                    <event>Birth of Solomon Williams, son of Dr. Thomas Williams (1718-1775) and Esther Williams (1726-1800). 
-                        <title render="bold">Solomon Williams</title> (1764-1836) is represented in this collection both in correspondence and in papers related to his position as town clerk and "Collector of the Direct Tax."</event>
-                </chronitem>
-            </chronlist>
-            <p>(Williams family trees are available in the repository.)</p>
-            <p>Additional sources of information include the following volumes, available in the library at the New-York Historical Society:</p>
-            <p>Andrews, Herbert Cornelius. 
-                <title render="italic">Hinsdale Genealogy: Descendants of Robert Hinsdale of Dedham, Medfield, Hadley and Deerfield</title>. Lombard, Ill: A.H. Andrews, 1906.</p>
-            <p>Sheldon, George. 
-                <title render="italic">A History of Deerfield, Massachusetts: The Times When and the People by Whom it was Settled, Unsettled and Resettled</title>. Deerfield, Mass., [Greenfield, Mass., Press of E.A. Hall &amp; Co.] 1895-96.</p>
-            <p>Williams, Edward Higginson. 
-                <title render="italic">Robert Williams of Roxbury, Mass., and His Descendants Four Generations</title>. Newport, R.I., 1891.</p>
-        </bioghist>
-        <scopecontent id="ref11">
-            <head>Scope and Content Note</head>
-            <p>The descendants of Robert Williams (1607-1693) and Elizabeth Stalham (1597-1674) were a prestigious group whose members were social, economic, political, military and intellectual leaders. A great number were physicians, clergymen, or lawyers and many held positions of civic responsibility. Several had distinguished military careers. The founding of Williamstown, Massachusetts, and establishment of Williams College are among their accomplishments. William Williams (1731-1811), great great grandson of Robert Williams, was among the signers of the Declaration of Independence.</p>
-            <p>Members of the Williams family were among the earliest settlers of Deerfield, Massachusetts. Much has been written about Deerfield's Indian raids - the Bloody Brook Massacre in 1675 and the Deerfield Massacre, 1704 -- including several narratives concerning the capture of Reverend John Williams and his immediate family. The Redeemed Captive Returning to Zion (1707) was written by Rev. Williams describing his experiences in captivity. The Unredeemed Captive: A Family Story from Early America, written by John Demos in 1994, tells the story of Eunice Williams, John Williams' daughter, who chose to remain with her Indian captors.</p>
-            <p>The bulk of this collection falls during the time of the wars between the British and the French. Much of the correspondence and many of the papers involve military activity, some during King George's War (1745-1748) but most during the French and Indian War (1754-1763), especially the campaigns at Lake George and Crown Point.</p>
-            <p>There are 143 letters within the collection, the majority either written or received by Dr. Thomas Williams (1718-1775). Other materials include military papers; wills and other estate papers; inventories; surveys; receipts, notes and bills; deeds and other legal documents; medical papers; poetry and miscellaneous personal items.</p>
-            <p>Condition of the various items is mixed. Some are sturdy and legible while others are very fragile, torn, missing pieces or difficult to read. The collection has been microfilmed.</p>
-        </scopecontent>
-        <arrangement id="ref12">
-            <head>Arrangement</head>
-            <list type="ordered">
-                <item>Series I. Correspondence (1747-1842, undated)</item>
-                <item>Series II. Military Documents (1748-1790, undated)</item>
-                <item>Series III. Receipts, Promissory Notes and Bills (1745-1797, undated)</item>
-                <item>Series IV. Wills and Estate Papers (1746-1806, undated)</item>
-                <item>Series V. Legal Material (1741-1810, undated)</item>
-                <item>Series VI. Survey and Plan (1739, 1761)</item>
-                <item>Series VII. Medical Inventories and Recipes (1748-1763, undated)</item>
-                <item>Series VIII. Poetry (undated)</item>
-                <item>Series IX. Personal Items and Notes (1693-1741, undated)</item>
-            </list>
-            <p>Most of the items in this collection were, at one time, assigned numbers (top left-hand corner of documents) and arranged within groups of numeric sequences. To facilitate access and utilization, however, a new arrangement has been imposed with series based on category of document. See Series Descriptions for arrangement of each.</p>
-            <p>This collection has been microfilmed. The arrangement of the film matches neither the old collection arrangement nor the new. Its sequence is outlined in the Microfilm Guide located at the end of the Container List.</p>
-            <p>The Williams Family Papers have been arranged into the following series:</p>
-        </arrangement>
-        <relatedmaterial id="ref66">
-            <head>Related Material at The New-York Historical Society</head>
-            <p>This collection, along with several of the items mentioned below, is available on microfilm (
-                <title render="italic">Williams, of Deerfield</title>). See Microfilm Guide at the end of this document for sequence of items, as it does not follow the same arrangement as the collection itself.</p>
-            <p>Further information on the Williams family can be found in the following titles available in the New-York Historical Society library's collections:</p>
-            <list type="ordered">
-                <item>Andrews, Herbert Cornelius. 
-                    <title render="italic">Hinsdale Genealogy: Descendants of Robert Hinsdale of Dedham, Medfield, Hadley and Deerfield</title>. Lombard, Ill: A.H. Andrews, 1906. (Call Number: CS71.H665 no. 5)</item>
-                <item>Sheldon, George. 
-                    <title render="italic">A History of Deerfield, Massachusetts: The Times When and the People by Whom it was Settled, Unsettled and Resettled</title>. Deerfield, Mass., [Greenfield, Mass., Press of E.A. Hall and Co.] 1895-96.(Call Number: F74.D4 S497)</item>
-                <item>Williams, Edward Higginson. 
-                    <title render="italic">Robert Williams of Roxbury, Mass., and His Descendants Four Generations</title>. Newport, R.I., 1891. (Call Number: CS71.W72 no. 9)</item>
-            </list>
-            <p>The Library's Broadsides collection contains at least one item transferred from the Williams Family Papers:</p>
-            <list type="ordered">
-                <item>Shirley's Orders for enlistment for the [Louisburg] expedition. Boston, 1755. (Call Number: S P1755-4)</item>
-            </list>
-            <p>Several bound volumes exist in the Manuscript Department:</p>
-            <list type="ordered">
-                <item>Account Book and Daybook, 1785-1836 - Call Phrase: BV Williams, Solomon</item>
-                <item>List of the Inhabitants of Deerfield, Massachusetts, with Amount of Tax Paid by Each, 1800-1801 - Call Phrase: BV Williams, Solomon</item>
-                <item>Account Books and Blotter, 1749-1797 - Call Phrase: BV Williams, Thomas</item>
-                <item>Sermons, 1708-1746 - Call Phrase: BV Williams, William</item>
-            </list>
-        </relatedmaterial>
-        <controlaccess>
-            <persname source="ingest">Dwight, Abigail</persname>
-            <persname source="ingest">Dwight, Joseph</persname>
-            <corpname source="ingest">Great Britain. Army--Colonial forces--Massachusetts</corpname>
-            <corpname source="ingest">Great Britain. Army--Colonial forces--New York (State)</corpname>
-            <famname source="ingest">Hinsdale family</famname>
-            <persname source="ingest">Hinsdale, John,--Estate</persname>
-            <persname source="ingest">Partridge, Oliver</persname>
-            <persname source="ingest">Pynchon, Charles</persname>
-            <persname source="ingest">Shattuck, Oliver, 1751-1797</persname>
-            <persname source="ingest">Williams, Ephraim, 1715-1755</persname>
-            <persname source="ingest">Williams, Esther, 1726-1800</persname>
-            <persname source="ingest">Williams, Thomas, 1718-1775</persname>
-            <persname source="ingest">Williams, William, 1665-1746</persname>
-            <persname source="ingest">Williams, William, 1713-1788</persname>
-            <persname source="ingest">Williams, Williams, 1688-1760</persname>
-            <genreform source="aat">Catechisms</genreform>
-            <occupation source="aat">Clergy</occupation>
-            <genreform source="aat">Correspondence</genreform>
-            <subject source="lcsh">Crown Point Expedition, 1755</subject>
-            <subject source="lcsh">Decedent's estates--Massachusetts</subject>
-            <geogname source="lcsh">Deerfield (Mass.)</geogname>
-            <genreform source="aat">Estate inventories</genreform>
-            <subject source="lcsh">George, Lake, Battle of, 1755</subject>
-            <geogname source="lcsh">Massachusetts--Social life and customs--To 1775</geogname>
-            <subject source="lcsh">Medicine--Practice--Massachusetts</subject>
-            <genreform source="aat">Military records</genreform>
-            <genreform source="aat">Muster rolls</genreform>
-            <geogname source="lcsh">New York (State)--History--French and Indian War, 1755-1763</geogname>
-            <occupation source="aat">Officers (military officers)</occupation>
-            <occupation source="aat">Physicians</occupation>
-            <genreform source="aat">Poems</genreform>
-            <genreform source="aat">Recipes</genreform>
-            <genreform source="aat">Returns (military reports)</genreform>
-            <geogname source="lcsh">United States--History--French and Indian War, 1755-1763</geogname>
-            <geogname source="lcsh">Williamstown (Mass.)</geogname>
-            <genreform source="aat">Wills</genreform>
-        </controlaccess>
-        <dsc>
-            <c id="ref15" level="series">
-                <did>
-                    <unittitle>Series I. Correspondence (1747-1842, undated)</unittitle>
-                </did>
-                <scopecontent id="ref24">
-                    <head>Scope and Contents note</head>
-                    <p>This series contains 143 letters, the majority either received or written by Dr. Thomas Williams (1718-1775). In many of the letters he is referred to as Col. Williams, as they were written during his service as a military surgeon. Box 1, Folders 1 through 3 contain letters written to Dr. Williams from a variety of family members, military associates, physicians and others. Box 1, Folder 4 contains a series of letters written to Dr. Williams and his wife, Esther, by her father Rev. William Williams (1688-1760) who was Thomas's father-in-law and his cousin. In Box 1, Folder 5 are letters written to Esther Williams. The first sixteen are from her husband, written mostly while he was serving in the military. Letters written to Col. Ephraim Williams are contained in Box 1, Folder 7. Dr. Thomas Williams' son, Solomon, is the recipient of letters in Box 1, Folder 8. The final folder in this series contains letters to and from other Williams family members and associates. It is difficult to ascertain the recipient of some of the items.</p>
-                    <p>Among the many letters of interest in this series are those that provide first-hand accounts of military activity during the French and Indian War. Two items in Box 1, Folder 8, written in March of 1842 by Dr. Stephen W. Williams (grandson of Dr. Thomas Williams), contain copies of a number of letters that fall into this category. In one, Dr. Williams tells his wife about the September 8, 1755, ambush (Early Morning Scout) and the death of his brother Ephraim, as well as the continuing battle at Lake George and capture of the French Baron Dieskau. Given his responsibilities as surgeon, he is able to describe the wounds sustained by many individual soldiers. Most of the other letters written in 1755 and 1756 also contain accounts of military action. A letter in Box 1, Folder 6, written by William Williams to Col. Ephraim Williams on September 2 (six days before Ephraim's death), includes a discussion of Ephraim's will along with comments about the state of the ongoing war.</p>
-                    <p>A letter in Box 1, Folder 8, written August 22, 1755, to Monsieur St. Luke Lacorn by John Hawks, asks for help in locating captives in Canada. Several of the items mention smallpox and smallpox inoculation (Box 1, Folder 3, January 1765, #95 and Box 1, Folder 5, December 1776, #104). There is a letter in Box 1, Folder 8 written on July 11, 1750 to "the Gentlemen assembled at Deerfield" regarding a complaint against Ebenezer Hinsdale who was accused of intemperance.</p>
-                    <p>Other letters focus on family, financial and personal affairs, health and illness issues, and local news. Many are filled with religious reflections, particularly those sent by Rev. William Williams.</p>
-                    <p>Within each folder, the letters are arranged chronologically. The condition of the items is mixed. Many are fragile, some torn or missing pieces. Legibility is good in most cases.</p>
-                </scopecontent>
-                <c id="ref16" level="otherlevel">
-                    <did>
-                        <unittitle>Letters Received by Dr. Thomas Williams (1 of 3)</unittitle>
-                        <container id="cid508059" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508059" type="Folder">1</container>
-                        <unitdate>1748-1754</unitdate>
-                    </did>
-                </c>
-                <c id="ref17" level="otherlevel">
-                    <did>
-                        <unittitle>Letters Received by Dr. Thomas Williams (2 of 3)</unittitle>
-                        <container id="cid508058" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508058" type="Folder">2</container>
-                        <unitdate>1755</unitdate>
-                    </did>
-                </c>
-                <c id="ref18" level="otherlevel">
-                    <did>
-                        <unittitle>Letters Received by Dr. Thomas Williams (3 of 3)</unittitle>
-                        <container id="cid508057" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508057" type="Folder">3</container>
-                        <unitdate>1756-1775</unitdate>
-                    </did>
-                </c>
-                <c id="ref19" level="otherlevel">
-                    <did>
-                        <unittitle>Letters Received by Dr. Thomas Williams and Esther Williams from Rev. William Williams</unittitle>
-                        <container id="cid508056" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508056" type="Folder">4</container>
-                        <unitdate>1748-1759</unitdate>
-                    </did>
-                </c>
-                <c id="ref20" level="otherlevel">
-                    <did>
-                        <unittitle>Letters Received by Esther Williams</unittitle>
-                        <container id="cid508055" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508055" type="Folder">5</container>
-                        <unitdate>1747-1795</unitdate>
-                    </did>
-                </c>
-                <c id="ref21" level="otherlevel">
-                    <did>
-                        <unittitle>Letters Received by Col. Ephraim Williams</unittitle>
-                        <container id="cid508054" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508054" type="Folder">6</container>
-                        <unitdate>1754-1755</unitdate>
-                    </did>
-                </c>
-                <c id="ref22" level="otherlevel">
-                    <did>
-                        <unittitle>Letters Received by Solomon Williams</unittitle>
-                        <container id="cid508053" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508053" type="Folder">7</container>
-                        <unitdate>1778-1821, undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref23" level="otherlevel">
-                    <did>
-                        <unittitle>Other Williams Family Letters</unittitle>
-                        <container id="cid508052" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508052" type="Folder">8</container>
-                        <unitdate>1747-1842, undated</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref25" level="series">
-                <did>
-                    <unittitle>Series II. Military Documents (1748-1790, undated)</unittitle>
-                </did>
-                <scopecontent id="ref30">
-                    <head>Scope and Contents note</head>
-                    <p>Because most members of the Williams family were active participants in the French and Indian War, military documents make up a significant portion of this collection. Box 1, Folder 9, for example, contains 57 enlistment papers from March and April of 1756, all slated for the Crown Point expedition. Mentioned among the leadership of the expedition are Thomas Williams, Elijah Williams, William Williams and Joseph Dwight. The enlistment papers are in good condition and have been arranged in alphabetic order by last name of enlistee.</p>
-                    <p>In Box 1, Folder 10 are more materials from the Crown Point action. They include items such as Thomas Williams' commission as Lt. Col. and Captain of "a Regiment of Foot" in the British army of Massachusetts Bay province, dated September 9, 1755. Also contained in the folder are troop rosters, muster rolls, pay receipts, calculation sheets, lists of accounts and a variety of notes. The items are arranged in chronological order. Many are not dated; they have been placed last in the folder.</p>
-                    <p>Military papers in Box 1, Folder 12 include such items as pay documents for the troops of Capt. Ephraim Williams (1749-1750); a list of sick and wounded (October 12, 1755); a list of "articles of plunder" (October 14, 1755); and a copy of Montcalm's Articles of Capitulation, allowing for the retreat of Monroe's troops and their dependents from Fort William Henry to Fort Edward (September 9, 1757). Items are arranged chronologically.</p>
-                </scopecontent>
-                <c id="ref26" level="otherlevel">
-                    <did>
-                        <unittitle>French and Indian War Papers - Enlistments and Returns</unittitle>
-                        <container id="cid508051" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508051" type="Folder">9</container>
-                        <unitdate>1756</unitdate>
-                    </did>
-                </c>
-                <c id="ref27" level="otherlevel">
-                    <did>
-                        <unittitle>French and Indian War Papers - Crown Point Expedition</unittitle>
-                        <container id="cid508050" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508050" type="Folder">10</container>
-                        <unitdate>1755-1756, undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref28" level="otherlevel">
-                    <did>
-                        <unittitle>Captain Oliver Shattucks Company Payroll</unittitle>
-                        <container id="cid508049" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508049" type="Folder">11</container>
-                        <unitdate>1781-1782</unitdate>
-                    </did>
-                </c>
-                <c id="ref29" level="otherlevel">
-                    <did>
-                        <unittitle>Other Military Papers</unittitle>
-                        <container id="cid508048" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508048" type="Folder">12</container>
-                        <unitdate>1748-1790, undated</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref31" level="series">
-                <did>
-                    <unittitle>Series III. Receipts, Promissory Notes and Bills (1745-1797, undated)</unittitle>
-                </did>
-                <scopecontent id="ref34">
-                    <head>Scope and Contents note</head>
-                    <p>Series III is composed of two folders, each containing receipts, invoices, promissory notes, accounts and various brief notes. The items are arranged in chronological order; those not dated are placed at the end of the series.</p>
-                </scopecontent>
-                <c id="ref32" level="otherlevel">
-                    <did>
-                        <unittitle>Receipts, Notes and Bills (1 of 2)</unittitle>
-                        <container id="cid508047" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508047" type="Folder">13</container>
-                        <unitdate>1745-1760</unitdate>
-                    </did>
-                </c>
-                <c id="ref33" level="otherlevel">
-                    <did>
-                        <unittitle>Receipts, Notes and Bills (2 of 2)</unittitle>
-                        <container id="cid508046" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508046" type="Folder">14</container>
-                        <unitdate>1761-1797, undated</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref35" level="series">
-                <did>
-                    <unittitle>Series IV. Wills and Estate Papers (1746-1806, undated)</unittitle>
-                </did>
-                <scopecontent id="ref39">
-                    <head>Scope and Contents note</head>
-                    <p>Series IV is composed of wills and related estate papers. In Box 1, Folder 15 are an unsigned version and a copy of the will of Col. Ephraim Williams written on July 22, 1755, as he awaited major military action. He died less than two months later, on September 8. After bequests to members of his family, he left the remainder of his estate to support and maintain "a free school in the township west of Fort Massachusetts." This area later became Williamstown and the school, Williams College.</p>
-                    <p>Other wills, those of Thomas Williams and William Williams, are contained in Box 1, Folder 16, along with estate inventory lists, an official appointment by the probate judge to inventory Thomas Williams' estate, and a transfer of land out of Thomas Williams' estate by Esther Williams.</p>
-                    <p>Hinsdale family estate documents are found in Box 1, Folder 17. They primarily involve two sons of Mehuman Hinsdale (1673-1736) and his wife, Mary (1680-1763). The sons, John Hinsdale (1713-1746) and Ebenezer Hinsdale (1706-1763), both had significant estates and, since John's death preceded Ebenezer's, portions of John's estate became involved in the estate of Ebenezer. The Hinsdale and Williams families were joined through the marriage of Ebenezer to Abigail Williams, daughter of Rev. John Williams (1664-1729). Another family member whose estate is included in this series is Abigail Norton (1745-1806), daughter of John Hinsdale and a favorite niece of Abigail Williams Hinsdale.</p>
-                </scopecontent>
-                <c id="ref36" level="otherlevel">
-                    <did>
-                        <unittitle>Will of Col. Ephraim Williams</unittitle>
-                        <container id="cid508045" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508045" type="Folder">15</container>
-                        <unitdate>1755</unitdate>
-                    </did>
-                </c>
-                <c id="ref37" level="otherlevel">
-                    <did>
-                        <unittitle>Williams Family Wills and Estate Papers</unittitle>
-                        <container id="cid508044" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508044" type="Folder">16</container>
-                        <unitdate>1755-1789, undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref38" level="otherlevel">
-                    <did>
-                        <unittitle>Hinsdale Family Estate Papers</unittitle>
-                        <container id="cid508043" type="Box" label="Mixed Materials">1</container>
-                        <container parent="cid508043" type="Folder">17</container>
-                        <unitdate>1746-1806, undated</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref40" level="series">
-                <did>
-                    <unittitle>Series V. Legal Material (1741-1810, undated)</unittitle>
-                </did>
-                <scopecontent id="ref46">
-                    <head>Scope and Contents note</head>
-                    <p>Williams family members served in a number of civic positions. Dr. Thomas Williams, for example, held a number of offices including Justice of the Peace; William Williams, town clerk; and Solomon Williams, Collector of the Direct Tax. Series V contains a variety of legal items including court actions and governmental body papers.</p>
-                    <p>The official appointment of Thomas Williams to the position of Justice of the Peace may be found in Box 2, Folder 1. Among the items of interest in Box 2, Folder 2, is the testimony of William Symmes regarding the drunkenness of Col. Ebenezer Hinsdale (July, 1750). A series of court judgments settling the debts of one William Barnard, "absent and absconding debtor," who owed money to Esther Williams and John Williams, among others (1791) and a draft (1810) of a business partnership involving Henry Williams are also included. Most of the deeds contained in Box 2, Folder 3, were signed by Thomas Williams in his official capacity. Solomon Williams' tax collection instructions and reports may be found in Box 2, Folder 4. Solomon (1764-1836) was the son of Thomas.</p>
-                    <p>Box 2, Folder 5 contains several local government documents, one of which is a copy of a resolution passed by the Provisional Congress of Watertown on May 8, 1775, concerning disarmament of those who remain loyal to Britain and are considered "Enemies to the Rights of Mankind and the Interest of America."</p>
-                    <p>Materials in this series are arranged chronologically and most are in fair to good condition.</p>
-                </scopecontent>
-                <c id="ref41" level="otherlevel">
-                    <did>
-                        <unittitle>Thomas Williams - Justice of the Peace Appointment</unittitle>
-                        <container id="cid508042" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508042" type="Folder">1</container>
-                        <unitdate>1762</unitdate>
-                    </did>
-                </c>
-                <c id="ref42" level="otherlevel">
-                    <did>
-                        <unittitle>Agreements, Bonds, Judgments and Testimony</unittitle>
-                        <container id="cid508041" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508041" type="Folder">2</container>
-                        <unitdate>1741-1810, undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref43" level="otherlevel">
-                    <did>
-                        <unittitle>Deeds</unittitle>
-                        <container id="cid508040" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508040" type="Folder">3</container>
-                        <unitdate>1765-1778</unitdate>
-                    </did>
-                </c>
-                <c id="ref44" level="otherlevel">
-                    <did>
-                        <unittitle>Tax Collection Documents</unittitle>
-                        <container id="cid508039" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508039" type="Folder">4</container>
-                        <unitdate>1800-1801</unitdate>
-                    </did>
-                </c>
-                <c id="ref45" level="otherlevel">
-                    <did>
-                        <unittitle>Governmental Body Papers</unittitle>
-                        <container id="cid508038" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508038" type="Folder">5</container>
-                        <unitdate>1762-1775</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref47" level="series">
-                <did>
-                    <unittitle>Series VI. Survey and Plan (1739, 1761)</unittitle>
-                </did>
-                <scopecontent id="ref49">
-                    <head>Scope and Contents note</head>
-                    <p>A 1739 survey of a 250 acre plot of land near Deerfield, Massachusetts, and the 1761 plan of New Framington, Berkshire County, are included in this series.</p>
-                </scopecontent>
-                <c id="ref48" level="otherlevel">
-                    <did>
-                        <unittitle>Survey and Plan</unittitle>
-                        <container id="cid508037" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508037" type="Folder">6</container>
-                        <unitdate>1739, 1761</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref50" level="series">
-                <did>
-                    <unittitle>Series VII. Medical Inventories and Recipes (1748-1763, undated)</unittitle>
-                </did>
-                <scopecontent id="ref53">
-                    <head>Scope and Contents note</head>
-                    <p>Box 2, Folder 7 contains several medicinal recipes -- an 'approved medicine for the jaundice' containing earthworms, and a 'diet drink.' There are also a number of medical item inventories and invoices including an account of the medicines supplied to Brig. Gen. Dwight's Regiment in 1746. Most of the items belonged to Dr. Thomas Williams. The recipes in Box 2, Folder 8 are non-medicinal - 'a white fricuse of chickins' and 'To Dress Veal A la mode.'</p>
-                </scopecontent>
-                <c id="ref51" level="otherlevel">
-                    <did>
-                        <unittitle>Medical Inventories and Recipes</unittitle>
-                        <container id="cid508036" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508036" type="Folder">7</container>
-                        <unitdate>1748-1763, undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref52" level="otherlevel">
-                    <did>
-                        <unittitle>Recipes</unittitle>
-                        <container id="cid508035" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508035" type="Folder">8</container>
-                        <unitdate>Undated</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref54" level="series">
-                <did>
-                    <unittitle>Series VIII. Poetry (undated)</unittitle>
-                </did>
-                <scopecontent id="ref56">
-                    <head>Scope and Contents note</head>
-                    <p>The collection contains several items of poetry including an "Ode to Gen'l Wolfe" and an 'eloqium' on the bravery of the men at the Battle of Lake George with reference to the death of Ephraim Williams. These materials are not dated.</p>
-                </scopecontent>
-                <c id="ref55" level="otherlevel">
-                    <did>
-                        <unittitle>Poetry</unittitle>
-                        <container id="cid508034" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508034" type="Folder">9</container>
-                        <unitdate>Undated</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref57" level="series">
-                <did>
-                    <unittitle>Series IX. Personal Items and Notes (1693-1741, undated)</unittitle>
-                </did>
-                <scopecontent id="ref63">
-                    <head>Scope and Contents note</head>
-                    <p>Among the items in this series are Thomas Williams' 1741 Yale diploma (Box 2, Folder 1) and a notebook of religious questions, answers and arguments belonging to William Williams (Box 2, Folder 11). Several lists of children's birth dates are included in Box 2, Folder 12 - those of Ephraim Williams and Elizabeth Jackson, and Oliver Partridge and Anna Williams.</p>
-                </scopecontent>
-                <c id="ref58" level="otherlevel">
-                    <did>
-                        <unittitle>Thomas Williams - Yale Diploma</unittitle>
-                        <container id="cid508033" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508033" type="Folder">10</container>
-                        <unitdate>1741</unitdate>
-                    </did>
-                </c>
-                <c id="ref59" level="otherlevel">
-                    <did>
-                        <unittitle>William Williams - Notebook</unittitle>
-                        <container id="cid508032" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508032" type="Folder">11</container>
-                        <unitdate>1693</unitdate>
-                    </did>
-                </c>
-                <c id="ref60" level="otherlevel">
-                    <did>
-                        <unittitle>Birth Dates of Family Members</unittitle>
-                        <container id="cid508031" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508031" type="Folder">12</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref61" level="otherlevel">
-                    <did>
-                        <unittitle>Inventory of Books and Prices</unittitle>
-                        <container id="cid508030" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508030" type="Folder">13</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref62" level="otherlevel">
-                    <did>
-                        <unittitle>Weather Guide</unittitle>
-                        <container id="cid508029" type="Box" label="Mixed Materials">2</container>
-                        <container parent="cid508029" type="Folder">14</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref64" level="series">
-                <did>
-                    <unittitle>Microfilm Guide</unittitle>
-                </did>
-                <scopecontent id="ref65">
-                    <head>Scope and Contents note</head>
-                    <p>The following outlines the sequence of items from this collection as they appear on the microfilm Williams, of Deerfield:</p>
-                    <p>Letters (#1 - #114) - These letters can be found in Box 1, Folders 1-3 and 5-8.</p>
-                    <p>Note Regarding Items in Map and Print Room (ca. pre-1972).</p>
-                    <p>3/24/1801 Tax Collection Instructions to Solomon Williams - Located within the collection in Box 2, Folder 4.</p>
-                    <p>Miscellaneous Items Sequenced #1-#56 - A wide variety of items with no particular order. Materials from inventories to poetry to medical recipes. Also, estate and legal papers and personal items. The items may be found in various folders throughout the collection.</p>
-                    <p>Notes/Bills (random arrangement) - Located within the collection in Box 1, Folders 13 and 14.</p>
-                    <p>Papers Related to Hinsdale Estate - Located within the collection in Box 1, Folder 17.</p>
-                    <p>" Military Papers #1 - #57 (random arrangement) - Located within the collection in Box 1, Folder 9.</p>
-                    <p>Military Papers #1 - #29 (random arrangement) - Located within the collection in Box 1, Folder 10.</p>
-                    <p>Letters from William Williams (#1 - #18) - The majority, those written to Thomas and Esther Williams, are located in Box 1, Folder 4.</p>
-                    <p>Capt. Oliver Shattucks Company Payroll Located within the collection in Box 1, Folder 11.</p>
-                    <p>Notebook of William Williams - Located within the collection in Box 2, Folder 11.</p>
-                    <p>9/18/1801 Tax Collection Instructions to Solomon Williams - Located within the collection in Box 2, Folder 4.</p>
-                    <p>Letters from Thomas Williams to Esther Williams (#1- #18) - Located within the collection in Box 1, Folder 5.</p>
-                    <p>Blotter - Call Phrase: BV Williams, Thomas Dr.</p>
-                    <p>Solomon Williams - Personal Account Book - Call Phrase: BV Williams, Solomon.</p>
-                    <p>Solomon Williams - Inhabitants of Deerfield Mass - Call Phrase: BV Williams, Solomon.</p>
-                </scopecontent>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://dlib.nyu.edu/findingaids/html/nyhs/williams/">williams</eadid><filedesc><titlestmt><titleproper>Guide to the Williams Family Papers<lb/><date>1739-1842 </date><date>(Bulk 1747-1770)</date><lb/> <num>MS 698</num></titleproper><author>Collection processed by Jan Hilley</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><address><addressline>New-York Historical Society</addressline><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>(212) 873-3400</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2022-05-21T20:19:49</date></creation><langusage>Description is in <language>English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial id="aspace_ae9c380c62a9d1f70ac7461c3905a8c1">The documents in the collection are in English.</langmaterial>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>Williams Family papers</unittitle>
+    <unitid>MS 698</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate type="inclusive">1739-1842 (Bulk 1747-1770)</unitdate>
+    <physloc id="aspace_e64da27e71202c2b82f3b934c6ec4551">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+    <abstract id="aspace_21b01df9b831a27672fa250e05751e4e">A collection of correspondence, military records, legal documents, estate papers, receipts, accounts, invoices, inventories and personal items belonging to various members of the Williams family of Deerfield, Massachusetts, and other New England towns. Most of the collection involves Dr. Thomas Williams, his wife Esther, his brother Col. Ephraim Williams, his father-in-law Rev. William Williams, his son Solomon Williams, their relatives, friends and associates. Much of the correspondence and military material is dated 1755-1756 and relates to military expeditions in the Lake George, New York, area during the French and Indian Wars.</abstract>
+  </did>
+  <accessrestrict id="aspace_ec80291ef1f44a18f27c4344c513f808">
+    <head>Access Restrictions</head>
+<p>Materials in this collection are stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p><p>Portions of the collection that have been microfilmed will be brought to the researcher in that format and can be made available by Interlibrary loan.</p>  </accessrestrict>
+  <userestrict id="aspace_9b4468d4295e5cae2b5cc4110db98853">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.</p><p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref ns2:actuate="onRequest" ns2:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <prefercite id="aspace_f7cd44688917ad18aa49845747409197">
+    <head>Preferred Citation</head>
+<p>This collection should be cited as the Williams Family Papers, MS 698, The New-York Historical Society.</p>  </prefercite>
+  <bioghist id="aspace_7be7636b06e8a4a759d72f8407d23741">
+    <head>Biographical Note</head>
+    <chronlist>
+      <head>Chronology</head>
+      <chronitem>
+        <date>1607</date>
+        <eventgrp>
+          <event>Birth of <title render="bold">Robert Williams</title> (1607-1693) who, with his wife Elizabeth Stalham (1597-1694) began this New England Williams line. The materials within the collection primarily involve the descendants of his sons <title render="bold">Isaac</title> (1638-1707) and <title render="bold">Samuel</title> (1632-1698) who married sisters Martha Parke (1641-1674) and Theoda Parke (1637-1718).</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1664</date>
+        <eventgrp>
+          <event>Birth of <title render="bold">John Williams</title>, son of Samuel Williams (1632-1698) and Theoda Parke (1637-1718). John Williams (1664-1729), one of the most well known members of the Williams family, was an ordained minister and an early settler of Deerfield, Massachusetts. He lost his first wife, Eunice Mather, and two of his children in the Indian raid known as the Deerfield Massacre (1704) and was held in captivity in Canada for two years before returning to Deerfield. He married Abigail Bissell and one of their daughters, <title render="bold">Abigail</title> (1708-1787), married <title render="bold">Col. Ebenezer Hinsdale</title> (1706-1763). Hinsdale estate papers are included in this collection.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1688</date>
+        <eventgrp>
+          <event>Birth of William Williams, son of William Williams, Sr. (1664-1741) and Elizabeth Cotton (d. 1698). <title render="bold">William Williams</title> (1688-1760) is the author of many of the letters within this collection. He was a minister and the father of six children (several others died in infancy). Some of his children are represented in the correspondence: Esther Williams (1726-1800) who married Dr. Thomas Williams (see below); William Williams (1713-1788); and Anna Williams, whose husband, <title render="bold">Oliver Partridge</title>, is also represented in a number of letters. All of William's children are mentioned in his will, which is among the papers.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1706</date>
+        <eventgrp>
+          <event>Birth of Ebenezer Hinsdale. <title render="bold">Ebenezer Hinsdale</title> (1706-1763) was the son of Mehuman Hinsdale (1673-1736), said to be the first white child born in Deerfield. Mehuman's father, Samuel (1643-1675), was killed in the Indian raid known as the Bloody Brook Massacre (1675), and Mehuman was captured by Indians twice. Ebenezer was ordained as a missionary but had more success in military and business enterprises. He founded Hinsdale, New Hampshire, and build Fort Hinsdale. He served in the French and Indian Wars. His marriage to Abigail Williams, daughter of Rev. John Williams, formed the connection between the Hinsdales and the Williams family.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1713</date>
+        <eventgrp>
+          <event>Birth of John Hinsdale. <title render="bold">John Hinsdale</title> (1713-1746), son of Mehuman Hinsdale and brother of Col. Ebenezer Hinsdale, was another of the Hinsdales of Deerfield. The Hinsdale family was one of the wealthiest in Deerfield. Samuel Hinsdale (1641-1675), one of the first settlers and grandfather of John Hinsdale, owned 1/12 of the entire 8,000 acre grant originally set aside for settling the Pocumtuck territory (later becoming Deerfield, MA). Papers relating to John Hinsdale's estate are included in this collection.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1715</date>
+        <eventgrp>
+          <event>Birth of Ephraim Williams, son of Ephraim Williams, Sr. (1691-1754) and Elizabeth Jackson (d. 1718). <title render="bold">Ephraim Williams</title> (1715-1755) has a significant presence within this collection. Correspondence, his will and various other papers are included. Ephraim Williams was the founder of Williams College in Massachusetts; he lived in Stockbridge, Hatfield and Deerfield and had a notable career in the military. He was a commissioned officer as the continuing conflict between England and France erupted in King George's War (1745-1748) and the French and Indian War (1754-1763). He was captain of a company raised for the invasion of Canada in 1746, became major in 1753 and then colonel of the Hampshire troops. He was killed leading his regiment on the "Bloody Morning Scout," September 8, 1755, near Lake George.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1718</date>
+        <eventgrp>
+          <event>Birth of Thomas Williams, son of Ephraim Williams, Sr. (1691-1754) and Elizabeth Jackson (d. 1718). Much of the correspondence and many of the other papers included in this collection involve <title render="bold">Dr. Thomas Williams</title> (1718-1775) and his immediate family. A physician, Dr. Williams also participated in several military campaigns. In addition, he served in a number of local government positions. George Sheldon, in his 1895 book <title render="italic">A History of Deerfield Massachusetts</title>, writes that Williams "came to Deerfield in 1789; became a prominent figure as a man of affairs, as well as in his profession; was surgeon in the abortive Canadian expedition 1746 and for the line of forts; he left Fort Mass. only two days before its capture in 1746; was surgeon in the regt. of his brother Ephraim, at the battle of Lake George, Sept. 8, 1755 and dressed the wounds of Baron Dieskau, the captured commander of the Fr. army; in the campaign of 1756 he was lieut.-col.; rep 2 yrs; selectman 2; town clerk 17; judge of probate and justice of the court of common pleas; and had an extensive professional practice." Dr. Williams married Anna Childs in 1740 and three children were born before her death in 1746. He then married <title render="bold">Esther Williams</title>, the daughter of his cousin, <title render="bold">Rev. William Williams</title> (1688-1760). They had eleven children, although three died in infancy.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1764</date>
+        <eventgrp>
+          <event>Birth of Solomon Williams, son of Dr. Thomas Williams (1718-1775) and Esther Williams (1726-1800). <title render="bold">Solomon Williams</title> (1764-1836) is represented in this collection both in correspondence and in papers related to his position as town clerk and "Collector of the Direct Tax."</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+<p>(Williams family trees are available in the repository.)</p><p>Additional sources of information include the following volumes, available in the library at the New-York Historical Society:</p><p>Andrews, Herbert Cornelius. <title render="italic">Hinsdale Genealogy: Descendants of Robert Hinsdale of Dedham, Medfield, Hadley and Deerfield</title>. Lombard, Ill: A.H. Andrews, 1906.</p><p>Sheldon, George. <title render="italic">A History of Deerfield, Massachusetts: The Times When and the People by Whom it was Settled, Unsettled and Resettled</title>. Deerfield, Mass., [Greenfield, Mass., Press of E.A. Hall &amp; Co.] 1895-96.</p><p>Williams, Edward Higginson. <title render="italic">Robert Williams of Roxbury, Mass., and His Descendants Four Generations</title>. Newport, R.I., 1891.</p>  </bioghist>
+  <scopecontent id="aspace_1bcd95b02f33bd6d7efec807594f6db7">
+    <head>Scope and Content Note</head>
+<p>The descendants of Robert Williams (1607-1693) and Elizabeth Stalham (1597-1674) were a prestigious group whose members were social, economic, political, military and intellectual leaders. A great number were physicians, clergymen, or lawyers and many held positions of civic responsibility. Several had distinguished military careers. The founding of Williamstown, Massachusetts, and establishment of Williams College are among their accomplishments. William Williams (1731-1811), great great grandson of Robert Williams, was among the signers of the Declaration of Independence. </p><p>Members of the Williams family were among the earliest settlers of Deerfield, Massachusetts. Much has been written about Deerfield's Indian raids - the Bloody Brook Massacre in 1675 and the Deerfield Massacre, 1704 -- including several narratives concerning the capture of Reverend John Williams and his immediate family. The Redeemed Captive Returning to Zion (1707) was written by Rev. Williams describing his experiences in captivity. The Unredeemed Captive: A Family Story from Early America, written by John Demos in 1994, tells the story of Eunice Williams, John Williams' daughter, who chose to remain with her Indian captors.</p><p>The bulk of this collection falls during the time of the wars between the British and the French. Much of the correspondence and many of the papers involve military activity, some during King George's War (1745-1748) but most during the French and Indian War (1754-1763), especially the campaigns at Lake George and Crown Point. </p><p>There are 143 letters within the collection, the majority either written or received by Dr. Thomas Williams (1718-1775). Other materials include military papers; wills and other estate papers; inventories; surveys; receipts, notes and bills; deeds and other legal documents; medical papers; poetry and miscellaneous personal items.</p><p>Condition of the various items is mixed. Some are sturdy and legible while others are very fragile, torn, missing pieces or difficult to read. The collection has been microfilmed.</p>  </scopecontent>
+  <arrangement id="aspace_bc8f4fcca1da1822de198ca8c8d27277">
+    <head>Arrangement</head>
+<p>Most of the items in this collection were, at one time, assigned numbers (top left-hand corner of documents) and arranged within groups of numeric sequences. To facilitate access and utilization, however, a new arrangement has been imposed with series based on category of document. See Series Descriptions for arrangement of each.</p><p>This collection has been microfilmed. The arrangement of the film matches neither the old collection arrangement nor the new. Its sequence is outlined in the Microfilm Guide located at the end of the Container List.</p><p>The Williams Family Papers have been arranged into the following series:</p><p>Series I. Correspondence (1747-1842, undated)</p><p>Series II. Military Documents (1748-1790, undated)</p><p>Series III. Receipts, Promissory Notes and Bills (1745-1797, undated)</p><p>Series IV. Wills and Estate Papers (1746-1806, undated)</p><p>Series V. Legal Material (1741-1810, undated)</p><p>Series VI. Survey and Plan (1739, 1761)</p><p>Series VII. Medical Inventories and Recipes (1748-1763, undated)</p><p>Series VIII. Poetry (undated)</p><p>Series IX. Personal Items and Notes (1693-1741, undated)</p>  </arrangement>
+  <relatedmaterial id="aspace_274b1743390161e759e8de9bf1a62226">
+    <head>Related Material at The New-York Historical Society</head>
+<p>This collection, along with several of the items mentioned below, is available on microfilm (<title render="italic">Williams, of Deerfield</title>). See Microfilm Guide at the end of this document for sequence of items, as it does not follow the same arrangement as the collection itself.</p><p>Further information on the Williams family can be found in the following titles available in the New-York Historical Society library's collections:</p><p>Andrews, Herbert Cornelius. <title render="italic">Hinsdale Genealogy: Descendants of Robert Hinsdale of Dedham, Medfield, Hadley and Deerfield</title>. Lombard, Ill: A.H. Andrews, 1906. (Call Number: CS71.H665 no. 5)</p><p>Sheldon, George. <title render="italic">A History of Deerfield, Massachusetts: The Times When and the People by Whom it was Settled, Unsettled and Resettled</title>. Deerfield, Mass., [Greenfield, Mass., Press of E.A. Hall and Co.] 1895-96.(Call Number: F74.D4 S497)</p><p>Williams, Edward Higginson. <title render="italic">Robert Williams of Roxbury, Mass., and His Descendants Four Generations</title>. Newport, R.I., 1891. (Call Number: CS71.W72 no. 9)</p><p>
+The Library's Broadsides collection contains at least one item transferred from the Williams Family Papers:</p><p>Shirley's Orders for enlistment for the [Louisburg] expedition. Boston, 1755. (Call Number: S P1755-4)</p><p>Several bound volumes exist in the Manuscript Department:</p><p>Account Book and Daybook, 1785-1836 - Call Phrase: BV Williams, Solomon</p><p>List of the Inhabitants of Deerfield, Massachusetts, with Amount of Tax Paid by Each, 1800-1801 - Call Phrase: BV Williams, Solomon</p><p>Account Books and Blotter, 1749-1797 - Call Phrase: BV Williams, Thomas</p><p>Sermons, 1708-1746 - Call Phrase: BV Williams, William</p>  </relatedmaterial>
+  <processinfo id="aspace_7c904e5c1719cf7dda1ada13d516fe86">
+    <head>Processing Information</head>
+<p>Processed by Jan Hilley, before 2011.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Clergy.</subject>
+    <subject source="lcsh">Crown Point Expedition, 1755</subject>
+    <subject source="lcsh">Decedent's estates -- Massachusetts.</subject>
+    <subject source="lcsh">George, Lake, Battle of, 1755</subject>
+    <subject source="lcsh">Medicine -- Practice -- Massachusetts.</subject>
+    <subject source="lcsh">Officers (military officers)</subject>
+    <subject source="aat">Physicians.</subject>
+    <geogname source="lcsh">Deerfield (Mass.)</geogname>
+    <geogname source="lcsh">Massachusetts -- Social life and customs -- To 1775.</geogname>
+    <geogname source="lcsh">New York (State)  -- History -- French and Indian War, 1755-1763.</geogname>
+    <geogname source="lcsh">United States -- History -- French and Indian War, 1755-1763.</geogname>
+    <geogname source="lcsh">Williamstown (Mass.)</geogname>
+    <genreform source="aat">Catechisms</genreform>
+    <genreform source="aat">Correspondence.</genreform>
+    <genreform source="aat">Estate inventories.</genreform>
+    <genreform source="aat">Military records.</genreform>
+    <genreform source="aat">Muster rolls.</genreform>
+    <genreform source="aat">Poems</genreform>
+    <genreform source="aat">Recipes.</genreform>
+    <genreform source="aat">Returns (military reports).</genreform>
+    <genreform source="aat">Wills.</genreform>
+    <persname rules="rda" source="local">Dwight, Abigail</persname>
+    <persname rules="rda" source="local">Dwight, Joseph</persname>
+    <corpname rules="rda" source="naf">Great Britain. Army -- Colonial forces -- Massachusetts.</corpname>
+    <corpname rules="rda" source="naf">Great Britain. Army -- Colonial forces -- New York (State) </corpname>
+    <famname rules="rda" source="local">Hinsdale (Family)</famname>
+    <persname rules="rda" source="local">Hinsdale, John</persname>
+    <persname source="naf">Partridge, Oliver</persname>
+    <persname rules="rda" source="local">Pynchon, Charles</persname>
+    <persname rules="rda" source="local">Shattuck, Oliver, 1751-1797</persname>
+    <persname source="naf">Williams, Ephraim, 1715-1755</persname>
+    <persname rules="rda" source="local">Williams, Esther, 1726-1800</persname>
+    <persname source="naf">Williams, Thomas, 1718-1775</persname>
+    <persname rules="rda" source="local">Williams, William, 1665-1746</persname>
+    <persname rules="rda" source="local">Williams, William, 1713-1788</persname>
+    <persname rules="rda" source="local">Williams, Williams, 1688-1760</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref15_xi7" level="series"><did><unittitle>Series I. Correspondence</unittitle><unitdate type="inclusive">1747-1842, undated</unitdate></did><scopecontent id="aspace_e088ef768feb3cb964ad0d00040af1f5"><head>Scope and Contents note</head><p>This series contains 143 letters, the majority either received or written by Dr. Thomas Williams (1718-1775). In many of the letters he is referred to as Col. Williams, as they were written during his service as a military surgeon. Box 1, Folders 1 through 3 contain letters written to Dr. Williams from a variety of family members, military associates, physicians and others. Box 1, Folder 4 contains a series of letters written to Dr. Williams and his wife, Esther, by her father Rev. William Williams (1688-1760) who was Thomas's father-in-law and his cousin. In Box 1, Folder 5 are letters written to Esther Williams. The first sixteen are from her husband, written mostly while he was serving in the military. Letters written to Col. Ephraim Williams are contained in Box 1, Folder 7. Dr. Thomas Williams' son, Solomon, is the recipient of letters in Box 1, Folder 8. The final folder in this series contains letters to and from other Williams family members and associates. It is difficult to ascertain the recipient of some of the items.</p><p>Among the many letters of interest in this series are those that provide first-hand accounts of military activity during the French and Indian War. Two items in Box 1, Folder 8, written in March of 1842 by Dr. Stephen W. Williams (grandson of Dr. Thomas Williams), contain copies of a number of letters that fall into this category. In one, Dr. Williams tells his wife about the September 8, 1755, ambush (Early Morning Scout) and the death of his brother Ephraim, as well as the continuing battle at Lake George and capture of the French Baron Dieskau. Given his responsibilities as surgeon, he is able to describe the wounds sustained by many individual soldiers. Most of the other letters written in 1755 and 1756 also contain accounts of military action. A letter in Box 1, Folder 6, written by William Williams to Col. Ephraim Williams on September 2 (six days before Ephraim's death), includes a discussion of Ephraim's will along with comments about the state of the ongoing war.</p><p>A letter in Box 1, Folder 8, written August 22, 1755, to Monsieur St. Luke Lacorn by John Hawks, asks for help in locating captives in Canada. Several of the items mention smallpox and smallpox inoculation (Box 1, Folder 3, January 1765, #95 and Box 1, Folder 5, December 1776, #104). There is a letter in Box 1, Folder 8 written on July 11, 1750 to "the Gentlemen assembled at Deerfield" regarding a complaint against Ebenezer Hinsdale who was accused of intemperance. </p><p>Other letters focus on family, financial and personal affairs, health and illness issues, and local news. Many are filled with religious reflections, particularly those sent by Rev. William Williams.</p><p>Within each folder, the letters are arranged chronologically. The condition of the items is mixed. Many are fragile, some torn or missing pieces. Legibility is good in most cases.</p></scopecontent><c id="aspace_ref16_zui" level="file"><did><unittitle>Letters Received by Dr. Thomas Williams (1 of 3)</unittitle><unitdate>1748-1754</unitdate><container id="aspace_4e87eda224f2a7790efc8baaf33f768e" label="Mixed Materials" type="Box">1</container><container parent="aspace_4e87eda224f2a7790efc8baaf33f768e" type="Folder">1</container></did></c><c id="aspace_ref17_4zi" level="file"><did><unittitle>Letters Received by Dr. Thomas Williams (2 of 3)</unittitle><unitdate>1755</unitdate><container id="aspace_47bb449f92b1265904e6be693a99ef55" label="Mixed Materials" type="Box">1</container><container parent="aspace_47bb449f92b1265904e6be693a99ef55" type="Folder">2</container></did></c><c id="aspace_ref18_hcg" level="file"><did><unittitle>Letters Received by Dr. Thomas Williams (3 of 3)</unittitle><unitdate>1756-1775</unitdate><container id="aspace_95ffe530db1dcafb0fbabee9cd9c9f46" label="Mixed Materials" type="Box">1</container><container parent="aspace_95ffe530db1dcafb0fbabee9cd9c9f46" type="Folder">3</container></did></c><c id="aspace_ref19_akj" level="file"><did><unittitle>Letters Received by Dr. Thomas Williams and Esther Williams from Rev. William Williams</unittitle><unitdate>1748-1759</unitdate><container id="aspace_d4ae7684228240d991fdc052a5a6a259" label="Mixed Materials" type="Box">1</container><container parent="aspace_d4ae7684228240d991fdc052a5a6a259" type="Folder">4</container></did></c><c id="aspace_ref20_23t" level="file"><did><unittitle>Letters Received by Esther Williams</unittitle><unitdate>1747-1795</unitdate><container id="aspace_48faded9febcaf7e80e22de8fb60f628" label="Mixed Materials" type="Box">1</container><container parent="aspace_48faded9febcaf7e80e22de8fb60f628" type="Folder">5</container></did></c><c id="aspace_ref21_uzh" level="file"><did><unittitle>Letters Received by Col. Ephraim Williams</unittitle><unitdate>1754-1755</unitdate><container id="aspace_dcfb158225c2f6248498d34010c6796e" label="Mixed Materials" type="Box">1</container><container parent="aspace_dcfb158225c2f6248498d34010c6796e" type="Folder">6</container></did></c><c id="aspace_ref22_3lw" level="file"><did><unittitle>Letters Received by Solomon Williams</unittitle><unitdate>1778-1821, undated</unitdate><container id="aspace_a29ec524eb4698f24d792d1e937d19ee" label="Mixed Materials" type="Box">1</container><container parent="aspace_a29ec524eb4698f24d792d1e937d19ee" type="Folder">7</container></did></c><c id="aspace_ref23_mrp" level="file"><did><unittitle>Other Williams Family Letters</unittitle><unitdate>1747-1842, undated</unitdate><container id="aspace_73c1809ef43e92df35258f0cdc375920" label="Mixed Materials" type="Box">1</container><container parent="aspace_73c1809ef43e92df35258f0cdc375920" type="Folder">8</container></did></c></c><c id="aspace_ref25_81l" level="series"><did><unittitle>Series II. Military Documents</unittitle><unitdate type="inclusive">1748-1790, undated</unitdate></did><scopecontent id="aspace_a6fa9c70faaabb0eb826dedbb80e9b86"><head>Scope and Contents note</head><p>Because most members of the Williams family were active participants in the French and Indian War, military documents make up a significant portion of this collection. Box 1, Folder 9, for example, contains 57 enlistment papers from March and April of 1756, all slated for the Crown Point expedition. Mentioned among the leadership of the expedition are Thomas Williams, Elijah Williams, William Williams and Joseph Dwight. The enlistment papers are in good condition and have been arranged in alphabetic order by last name of enlistee.</p><p>In Box 1, Folder 10 are more materials from the Crown Point action. They include items such as Thomas Williams' commission as Lt. Col. and Captain of "a Regiment of Foot" in the British army of Massachusetts Bay province, dated September 9, 1755. Also contained in the folder are troop rosters, muster rolls, pay receipts, calculation sheets, lists of accounts and a variety of notes. The items are arranged in chronological order. Many are not dated; they have been placed last in the folder.</p><p>Military papers in Box 1, Folder 12 include such items as pay documents for the troops of Capt. Ephraim Williams (1749-1750); a list of sick and wounded (October 12, 1755); a list of "articles of plunder" (October 14, 1755); and a copy of Montcalm's Articles of Capitulation, allowing for the retreat of Monroe's troops and their dependents from Fort William Henry to Fort Edward (September 9, 1757). Items are arranged chronologically.</p></scopecontent><c id="aspace_ref26_m5w" level="file"><did><unittitle>French and Indian War Papers - Enlistments and Returns</unittitle><unitdate>1756</unitdate><container id="aspace_ef69270dfb64089bbe2fa9872f5b1172" label="Mixed Materials" type="Box">1</container><container parent="aspace_ef69270dfb64089bbe2fa9872f5b1172" type="Folder">9</container></did></c><c id="aspace_ref27_hou" level="file"><did><unittitle>French and Indian War Papers - Crown Point Expedition</unittitle><unitdate>1755-1756, undated</unitdate><container id="aspace_78ce62e6e1a2cfb473c36ba3fcb368a6" label="Mixed Materials" type="Box">1</container><container parent="aspace_78ce62e6e1a2cfb473c36ba3fcb368a6" type="Folder">10</container></did></c><c id="aspace_ref28_jsu" level="file"><did><unittitle>Captain Oliver Shattucks Company Payroll</unittitle><unitdate>1781-1782</unitdate><container id="aspace_33f14a3b979059bd3e0897fac2864d82" label="Mixed Materials" type="Box">1</container><container parent="aspace_33f14a3b979059bd3e0897fac2864d82" type="Folder">11</container></did></c><c id="aspace_ref29_ze7" level="file"><did><unittitle>Other Military Papers</unittitle><unitdate>1748-1790, undated</unitdate><container id="aspace_0eec60e984ea2dc76d4cb1597bb8c2c5" label="Mixed Materials" type="Box">1</container><container parent="aspace_0eec60e984ea2dc76d4cb1597bb8c2c5" type="Folder">12</container></did></c></c><c id="aspace_ref31_u9r" level="series"><did><unittitle>Series III. Receipts, Promissory Notes and Bills</unittitle><unitdate type="inclusive">1745-1797, undated</unitdate></did><scopecontent id="aspace_4a4a45fea6895f5af13a2edf5bc1173f"><head>Scope and Contents note</head><p>Series III is composed of two folders, each containing receipts, invoices, promissory notes, accounts and various brief notes. The items are arranged in chronological order; those not dated are placed at the end of the series.</p></scopecontent><c id="aspace_ref32_ya1" level="file"><did><unittitle>Receipts, Notes and Bills (1 of 2)</unittitle><unitdate>1745-1760</unitdate><container id="aspace_ac64c30d53a68959fac62830b6d4789e" label="Mixed Materials" type="Box">1</container><container parent="aspace_ac64c30d53a68959fac62830b6d4789e" type="Folder">13</container></did></c><c id="aspace_ref33_u8e" level="file"><did><unittitle>Receipts, Notes and Bills (2 of 2)</unittitle><unitdate>1761-1797, undated</unitdate><container id="aspace_b22ad643a48223541c69269b4c7eb3cc" label="Mixed Materials" type="Box">1</container><container parent="aspace_b22ad643a48223541c69269b4c7eb3cc" type="Folder">14</container></did></c></c><c id="aspace_ref35_smq" level="series"><did><unittitle>Series IV. Wills and Estate Papers</unittitle><unitdate type="inclusive">1746-1806, undated</unitdate></did><scopecontent id="aspace_b7eecf899997a683f7e350a62e3614ba"><head>Scope and Contents note</head><p>Series IV is composed of wills and related estate papers. In Box 1, Folder 15 are an unsigned version and a copy of the will of Col. Ephraim Williams written on July 22, 1755, as he awaited major military action. He died less than two months later, on September 8. After bequests to members of his family, he left the remainder of his estate to support and maintain "a free school in the township west of Fort Massachusetts." This area later became Williamstown and the school, Williams College.</p><p>Other wills, those of Thomas Williams and William Williams, are contained in Box 1, Folder 16, along with estate inventory lists, an official appointment by the probate judge to inventory Thomas Williams' estate, and a transfer of land out of Thomas Williams' estate by Esther Williams.</p><p>Hinsdale family estate documents are found in Box 1, Folder 17. They primarily involve two sons of Mehuman Hinsdale (1673-1736) and his wife, Mary (1680-1763). The sons, John Hinsdale (1713-1746) and Ebenezer Hinsdale (1706-1763), both had significant estates and, since John's death preceded Ebenezer's, portions of John's estate became involved in the estate of Ebenezer. The Hinsdale and Williams families were joined through the marriage of Ebenezer to Abigail Williams, daughter of Rev. John Williams (1664-1729). Another family member whose estate is included in this series is Abigail Norton (1745-1806), daughter of John Hinsdale and a favorite niece of Abigail Williams Hinsdale.</p></scopecontent><c id="aspace_ref36_xp6" level="file"><did><unittitle>Will of Col. Ephraim Williams</unittitle><unitdate>1755</unitdate><container id="aspace_352aa53213af5284c17d157f9b5d709b" label="Mixed Materials" type="Box">1</container><container parent="aspace_352aa53213af5284c17d157f9b5d709b" type="Folder">15</container></did></c><c id="aspace_ref37_mb7" level="file"><did><unittitle>Williams Family Wills and Estate Papers</unittitle><unitdate>1755-1789, undated</unitdate><container id="aspace_424facbe3ed4172e0e5c32128fbe4b16" label="Mixed Materials" type="Box">1</container><container parent="aspace_424facbe3ed4172e0e5c32128fbe4b16" type="Folder">16</container></did></c><c id="aspace_ref38_45c" level="file"><did><unittitle>Hinsdale Family Estate Papers</unittitle><unitdate>1746-1806, undated</unitdate><container id="aspace_5e45404bd88110903c9e185d6f2ed37d" label="Mixed Materials" type="Box">1</container><container parent="aspace_5e45404bd88110903c9e185d6f2ed37d" type="Folder">17</container></did></c></c><c id="aspace_ref40_7xk" level="series"><did><unittitle>Series V. Legal Material</unittitle><unitdate type="inclusive">1741-1810, undated</unitdate></did><scopecontent id="aspace_c1fce9e984f1562d664b08fd7baef7d8"><head>Scope and Contents note</head><p>Williams family members served in a number of civic positions. Dr. Thomas Williams, for example, held a number of offices including Justice of the Peace; William Williams, town clerk; and Solomon Williams, Collector of the Direct Tax. Series V contains a variety of legal items including court actions and governmental body papers.</p><p>The official appointment of Thomas Williams to the position of Justice of the Peace may be found in Box 2, Folder 1. Among the items of interest in Box 2, Folder 2, is the testimony of William Symmes regarding the drunkenness of Col. Ebenezer Hinsdale (July, 1750). A series of court judgments settling the debts of one William Barnard, "absent and absconding debtor," who owed money to Esther Williams and John Williams, among others (1791) and a draft (1810) of a business partnership involving Henry Williams are also included. Most of the deeds contained in Box 2, Folder 3, were signed by Thomas Williams in his official capacity. Solomon Williams' tax collection instructions and reports may be found in Box 2, Folder 4. Solomon (1764-1836) was the son of Thomas.</p><p>Box 2, Folder 5 contains several local government documents, one of which is a copy of a resolution passed by the Provisional Congress of Watertown on May 8, 1775, concerning disarmament of those who remain loyal to Britain and are considered "Enemies to the Rights of Mankind and the Interest of America."</p><p>Materials in this series are arranged chronologically and most are in fair to good condition.</p></scopecontent><c id="aspace_ref41_42u" level="file"><did><unittitle>Thomas Williams - Justice of the Peace Appointment</unittitle><unitdate>1762</unitdate><container id="aspace_e08841a9ae7bc77265950edd90aef413" label="Mixed Materials" type="Box">2</container><container parent="aspace_e08841a9ae7bc77265950edd90aef413" type="Folder">1</container></did></c><c id="aspace_ref42_qvz" level="file"><did><unittitle>Agreements, Bonds, Judgments and Testimony</unittitle><unitdate>1741-1810, undated</unitdate><container id="aspace_a9b98ef3ab358c7944bf614230417c50" label="Mixed Materials" type="Box">2</container><container parent="aspace_a9b98ef3ab358c7944bf614230417c50" type="Folder">2</container></did></c><c id="aspace_ref43_37h" level="file"><did><unittitle>Deeds</unittitle><unitdate>1765-1778</unitdate><container id="aspace_7758cdb4e68fb8c70633f9f1095911fd" label="Mixed Materials" type="Box">2</container><container parent="aspace_7758cdb4e68fb8c70633f9f1095911fd" type="Folder">3</container></did></c><c id="aspace_ref44_vjm" level="file"><did><unittitle>Tax Collection Documents</unittitle><unitdate>1800-1801</unitdate><container id="aspace_10f078cf0d30ec8d56185362af611d10" label="Mixed Materials" type="Box">2</container><container parent="aspace_10f078cf0d30ec8d56185362af611d10" type="Folder">4</container></did></c><c id="aspace_ref45_yer" level="file"><did><unittitle>Governmental Body Papers</unittitle><unitdate>1762-1775</unitdate><container id="aspace_90499c2cac062256ebeb1e7faac3cf25" label="Mixed Materials" type="Box">2</container><container parent="aspace_90499c2cac062256ebeb1e7faac3cf25" type="Folder">5</container></did></c></c><c id="aspace_ref47_j1f" level="series"><did><unittitle>Series VI. Survey and Plan</unittitle><unitdate type="inclusive">1739, 1761</unitdate></did><scopecontent id="aspace_ed89a00df8f0e9e1a47ae1ba2041ae55"><head>Scope and Contents note</head><p>A 1739 survey of a 250 acre plot of land near Deerfield, Massachusetts, and the 1761 plan of New Framington, Berkshire County, are included in this series.</p></scopecontent><c id="aspace_ref48_8k4" level="file"><did><unittitle>Survey and Plan</unittitle><unitdate>1739, 1761</unitdate><container id="aspace_0f01f6696a55703e5f257f9e59ac78b8" label="Mixed Materials" type="Box">2</container><container parent="aspace_0f01f6696a55703e5f257f9e59ac78b8" type="Folder">6</container></did></c></c><c id="aspace_ref50_uo2" level="series"><did><unittitle>Series VII. Medical Inventories and Recipes</unittitle><unitdate type="inclusive">1748-1763, undated</unitdate></did><scopecontent id="aspace_778f4ba9912f945e72813a92cc067cf3"><head>Scope and Contents note</head><p>Box 2, Folder 7 contains several medicinal recipes -- an 'approved medicine for the jaundice' containing earthworms, and a 'diet drink.' There are also a number of medical item inventories and invoices including an account of the medicines supplied to Brig. Gen. Dwight's Regiment in 1746. Most of the items belonged to Dr. Thomas Williams. The recipes in Box 2, Folder 8 are non-medicinal - 'a white fricuse of chickins' and 'To Dress Veal A la mode.'</p></scopecontent><c id="aspace_ref51_mpd" level="file"><did><unittitle>Medical Inventories and Recipes</unittitle><unitdate>1748-1763, undated</unitdate><container id="aspace_d6f29b5c07223eaed73dd5cdd140328c" label="Mixed Materials" type="Box">2</container><container parent="aspace_d6f29b5c07223eaed73dd5cdd140328c" type="Folder">7</container></did></c><c id="aspace_ref52_cg4" level="file"><did><unittitle>Recipes</unittitle><unitdate>Undated</unitdate><container id="aspace_ed23ec80e4b51daeaa7590aac38455fc" label="Mixed Materials" type="Box">2</container><container parent="aspace_ed23ec80e4b51daeaa7590aac38455fc" type="Folder">8</container></did></c></c><c id="aspace_ref54_6y5" level="series"><did><unittitle>Series VIII. Poetry</unittitle><unitdate type="inclusive">undated</unitdate></did><scopecontent id="aspace_f28a6839cd5aa420eb60b58391e56468"><head>Scope and Contents note</head><p>The collection contains several items of poetry including an "Ode to Gen'l Wolfe" and an 'eloqium' on the bravery of the men at the Battle of Lake George with reference to the death of Ephraim Williams. These materials are not dated.</p></scopecontent><c id="aspace_ref55_dvw" level="file"><did><unittitle>Poetry</unittitle><unitdate>Undated</unitdate><container id="aspace_cadcde46e2c47d795a0011a2b3a1f41c" label="Mixed Materials" type="Box">2</container><container parent="aspace_cadcde46e2c47d795a0011a2b3a1f41c" type="Folder">9</container></did></c></c><c id="aspace_ref57_g1o" level="series"><did><unittitle>Series IX. Personal Items and Notes</unittitle><unitdate type="inclusive">1693-1741, undated</unitdate></did><scopecontent id="aspace_642ec422e954c2efdee2ccff7e3567d8"><head>Scope and Contents note</head><p>Among the items in this series are Thomas Williams' 1741 Yale diploma (Box 2, Folder 1) and a notebook of religious questions, answers and arguments belonging to William Williams (Box 2, Folder 11). Several lists of children's birth dates are included in Box 2, Folder 12 - those of Ephraim Williams and Elizabeth Jackson, and Oliver Partridge and Anna Williams.</p></scopecontent><c id="aspace_ref58_2ky" level="file"><did><unittitle>Thomas Williams - Yale Diploma</unittitle><unitdate>1741</unitdate><container id="aspace_9307effb34eb6375da43d36f9670b13b" label="Mixed Materials" type="Box">2</container><container parent="aspace_9307effb34eb6375da43d36f9670b13b" type="Folder">10</container></did></c><c id="aspace_ref59_tic" level="file"><did><unittitle>William Williams - Notebook</unittitle><unitdate>1693</unitdate><container id="aspace_0449e1ba6d8b97d32df0b1e8fd3eb026" label="Mixed Materials" type="Box">2</container><container parent="aspace_0449e1ba6d8b97d32df0b1e8fd3eb026" type="Folder">11</container></did></c><c id="aspace_ref60_qp4" level="file"><did><unittitle>Birth Dates of Family Members</unittitle><unitdate>undated</unitdate><container id="aspace_25d81875f13442c360fd0c0ce44fdb7d" label="Mixed Materials" type="Box">2</container><container parent="aspace_25d81875f13442c360fd0c0ce44fdb7d" type="Folder">12</container></did></c><c id="aspace_ref61_915" level="file"><did><unittitle>Inventory of Books and Prices</unittitle><unitdate>undated</unitdate><container id="aspace_c88eb93d8523465cefc5f5ba0ea54701" label="Mixed Materials" type="Box">2</container><container parent="aspace_c88eb93d8523465cefc5f5ba0ea54701" type="Folder">13</container></did></c><c id="aspace_ref62_v9t" level="file"><did><unittitle>Weather Guide</unittitle><unitdate>undated</unitdate><container id="aspace_d15b89fc99bd2e6a1057cc939de379d6" label="Mixed Materials" type="Box">2</container><container parent="aspace_d15b89fc99bd2e6a1057cc939de379d6" type="Folder">14</container></did></c></c><c id="aspace_ref64_xdy" level="series"><did><unittitle>Microfilm Guide</unittitle></did><scopecontent id="aspace_a59e9ce47722cfe897f69825003bdf39"><head>Scope and Contents note</head><p>The following outlines the sequence of items from this collection as they appear on the microfilm Williams, of Deerfield:</p><p>Letters (#1 - #114) - These letters can be found in Box 1, Folders 1-3 and 5-8.</p><p>Note Regarding Items in Map and Print Room (ca. pre-1972).</p><p>3/24/1801 Tax Collection Instructions to Solomon Williams - Located within the collection in Box 2, Folder 4.</p><p>Miscellaneous Items Sequenced #1-#56 - A wide variety of items with no particular order. Materials from inventories to poetry to medical recipes. Also, estate and legal papers and personal items. The items may be found in various folders throughout the collection. </p><p>Notes/Bills (random arrangement) - Located within the collection in Box 1, Folders 13 and 14. </p><p>Papers Related to Hinsdale Estate - Located within the collection in Box 1, Folder 17.</p><p>" Military Papers #1 - #57 (random arrangement) - Located within the collection in Box 1, Folder 9. </p><p>Military Papers #1 - #29 (random arrangement) - Located within the collection in Box 1, Folder 10.</p><p>Letters from William Williams (#1 - #18) - The majority, those written to Thomas and Esther Williams, are located in Box 1, Folder 4. </p><p>Capt. Oliver Shattucks Company Payroll Located within the collection in Box 1, Folder 11.</p><p>Notebook of William Williams - Located within the collection in Box 2, Folder 11.</p><p>9/18/1801 Tax Collection Instructions to Solomon Williams - Located within the collection in Box 2, Folder 4.</p><p>Letters from Thomas Williams to Esther Williams (#1- #18) - Located within the collection in Box 1, Folder 5.</p><p>Blotter - Call Phrase: BV Williams, Thomas Dr.</p><p>Solomon Williams - Personal Account Book - Call Phrase: BV Williams, Solomon.</p><p>Solomon Williams - Inhabitants of Deerfield Mass - Call Phrase: BV Williams, Solomon.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>
