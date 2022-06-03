@@ -1,87 +1,42 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_2000_006_rodzevich</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Helen Rodzevich school ephemera collection
-                    <num>2000.006</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>November 11, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-22T11:01-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Helen Rodzevich school ephemera collection</unittitle>
-            <unitid>2000.006</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid1119009" type="Folder" label="Text">2000.006 1 of 1</container>
-            <physdesc>
-                <extent>0.01 Linear feet</extent>
-                <extent>in one folder.</extent>
-            </physdesc>
-            <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate>
-            <abstract id="ref2" label="Abstract">Junior high school and high school programs, certificates, graduation commencement exercises, and congratulatory cards belonging to Brooklyn resident Helen Rodzevich.</abstract>
-            <origination label="creator">
-                <persname source="local" role="Collector (col)">Rodzevich, Helen</persname>
-            </origination>
-        </did>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Clark S. Marlor, date unknown.</p>
-        </acqinfo>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Helen Rodzevich school ephemera collection, 2000.006, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <processinfo id="ref3">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <controlaccess>
-            <persname source="local">Rodzevich, Helen</persname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Cards (information artifacts)</genreform>
-            <genreform source="aat">Certificates</genreform>
-            <subject source="lcsh">Commencement ceremonies |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Programs (documents)</genreform>
-            <subject source="lcsh">Schools |z New York (State) |z Kings County</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2000_006_rodzevich/">arms_2000_006_rodzevich</eadid><filedesc><titlestmt><titleproper>Guide to the Helen Rodzevich school ephemera collection <num>2000.006</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2022-06-03T18:40:48</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>2022</date><item>Finding aid updated by Diana Bowers-Smith</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Helen Rodzevich school ephemera collection</unittitle>
+    <origination label="Creator">
+      <persname role="col" source="local">Rodzevich, Helen</persname>
+    </origination>
+    <unitid>2000.006</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1944/1947" type="inclusive">1944-1947</unitdate>
+    <abstract id="aspace_4d9399da1737ab2c057641ef414a6f7a">Junior high school and high school programs, certificates, graduation commencement exercises, and congratulatory cards belonging to Brooklyn resident Helen Rodzevich.</abstract>
+    <container altrender="Full Manuscript Box Legal" id="aspace_e19d3868898c2c5d6049626214a4d669" label="Mixed Materials" type="Box">A0143</container>
+  </did>
+  <acqinfo id="aspace_1fe047569f90e1a736cd02ac201a86e0">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Clark S. Marlor, 2000.</p>  </acqinfo>
+  <prefercite id="aspace_4267943e6a321935a9e59f78f73540ee">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Helen Rodzevich school ephemera collection, 2000.006, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <accessrestrict id="aspace_f81e69040dd807644ed27d50f7b03644">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_0ee2b10831f59bcb767add3adfee9963">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The borrower assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Commencement ceremonies |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Cards (information artifacts)</genreform>
+    <subject source="lcsh">Schools |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Certificates</genreform>
+    <persname source="local">Rodzevich, Helen</persname>
+  </controlaccess>
+  <dsc><c id="aspace_6d8cef5756d43577653622c5da5065d8" level="item"><did><unittitle>Graduation cards from Mother and Willy</unittitle><unitid>2000.6.2</unitid><container altrender="Full Manuscript Box Legal" id="aspace_a9803bbc37c8a8870ec384c25bb9f5a0" label="Mixed Materials" type="Box">A0143</container></did></c><c id="aspace_072aea6378557c5611974fae787806a9" level="series"><did><unittitle>Prospect Heights High School</unittitle></did><c id="aspace_5eb323fcc2a4781da8d3107b37280b7f" level="item"><did><unittitle>Class day booklet</unittitle><unitid>2000.6.3</unitid><unitdate datechar="creation" normal="1947-01-10/1947-01-10">1947 January 10</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_90971c334c965244df5f8a701bf1407e" label="Mixed Materials" type="Box">A0143</container></did></c><c id="aspace_7282e7057a95ca839b3871fa12c9b3bd" level="item"><did><unittitle>Fifty-Fourth Commencement Exercises booklet</unittitle><unitid>2000.6.1</unitid><unitdate datechar="creation" normal="1947-02-04/1947-02-04">1947 February 4</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_e994580f44c19f423f79c97a8785b38f" label="Mixed Materials" type="Box">A0143</container></did></c></c><c id="aspace_04ff5989b8cb6aaaba60b739b33e9bdd" level="series"><did><unittitle>John Ericsson Junior High School at P.S. 126</unittitle></did><c id="aspace_3636ab801f36308bda9cf6541bc69e3b" level="item"><did><unittitle>Graduating Exercises program and ticket</unittitle><unitid>2000.6.4, 2000.6.5</unitid><unitdate datechar="creation" normal="1944-01-19/1944-01-19">1944 January 19</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_3c53aee3d3d193688ed96a0b3880c961" label="Mixed Materials" type="Box">A0143</container></did></c><c id="aspace_55b1308274f6a7e416f07fa893b85f69" level="item"><did><unittitle>Diploma</unittitle><unitid>2000.6.6</unitid><unitdate datechar="creation" normal="1944-01-24/1944-01-24">1944 January 24</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_6023250e32a86092cf77ec44ca28ec93" label="Mixed Materials" type="Box">A0143</container></did></c></c></dsc>
+</archdesc>
 </ead>
