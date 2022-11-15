@@ -1,95 +1,68 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/http://dlib.nyu.edu/findingaids/html/bhs/http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_120_currency">arms_1974_120_currency</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the United States, Confederate States, and foreign currency collection
-                    <num>1974.120</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>May 11, 2011</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2016-06-08T15:19-0400</date>
-            </creation>
-            <langusage>Finding aid written in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>United States, Confederate States, and foreign currency collection</unittitle>
-            <unitid>1974.120</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid768003" type="Box" label="Text">A0024</container>
-            <physdesc>
-                <extent>0.1 linear feet</extent>
-                <extent>in ten folders.</extent>
-            </physdesc>
-            <unitdate normal="1775/1865" type="bulk">Bulk, 1775-1865</unitdate>
-            <unitdate normal="1690/1865" type="inclusive">1690-1865</unitdate>
-            <abstract id="ref2" label="Abstract">This collection contains bank notes, fractional currency, postage stamps, and treasury notes printed in the State of New York and various other American states during the period 1690 to 1865, with the bulk dating from 1775 to 1865. Also included are various forms of paper currency printed by the Confederate States of America during the Civil War, as well as currency printed by various foreign countries, such as Brazil, China, the Dominican Republic, and Japan. Two bound volumes containing historical sketches of paper money printed in the continental United States and the State of Pennsylvania are also included.</abstract>
-            <origination label="creator">
-                <persname source="local" role="Arranger (arr)">Huntington, Edna, 1895-1965</persname>
-            </origination>
-        </did>
-        <processinfo id="ref5">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); United States, Confederate States, and foreign currency collection, 1974.120, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <accessrestrict id="ref3">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <acqinfo id="ref7">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Fred T. Aldridge, 1891; Burt P. Greenman, date unknown; Charles Hallock, date unknown; J.S. Hicks, date unknown; John A. King, 1898; William Cary Langer, date unknown; Daniel Church McEwen, 1898; William Miles, date unknown; the North Carolina Historical Commission, date unknown; James L. Phelps, Jr., 1870; John P. Rolfe, date unknown; Reuben W. Ropes, date unknown; N.H.T. Squires, date unknown; B.C. Weekes, 1921; Julius Wilcox, 1890; and H.F. Wing, date unknown. Collection formally accessioned in 1974.</p>
-        </acqinfo>
-        <arrangement id="ref6">
-            <head>Arrangement note</head>
-            <p>Collection assembled in 1936 from various donations.</p>
-        </arrangement>
-        <controlaccess>
-            <subject source="lcsh">Money |z Brazil</subject>
-            <subject source="lcsh">Money |z China</subject>
-            <subject source="lcsh">Money |z Confederate States of America</subject>
-            <subject source="lcsh">Money |z Dominican Republic</subject>
-            <subject source="lcsh">Money |z Japan</subject>
-            <subject source="lcsh">Money |z New York (State)</subject>
-            <subject source="lcsh">Money |z Pennsylvania</subject>
-            <subject source="lcsh">Money |z United States</subject>
-            <subject source="lcsh">Money |z United States |x History |y 1783-1865</subject>
-            <subject source="lcsh">Money |z United States |x History |y Civil War, 1861-1865</subject>
-            <subject source="lcsh">Money |z United States |x History |y Colonial period, ca. 1600-1775</subject>
-            <subject source="lcsh">Money |z United States |x History |y Revolution, 1775-1783</subject>
-            <genreform source="aat">National bank notes</genreform>
-            <genreform source="aat">Paper money</genreform>
-            <genreform source="aat">Postage stamps</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/http://dlib.nyu.edu/findingaids/html/bhs/http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_120_currency/">arms_1974_120_currency</eadid><filedesc><titlestmt><titleproper>Guide to the United States, Confederate States, and foreign currency collection <num>1974.120</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2022-11-15T14:50:49</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>November 2022</date><item>Edited by Alice Griffin</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>United States, Confederate States, and foreign currency collection</unittitle>
+    <origination label="Creator">
+      <persname role="arr" source="local">Huntington, Edna</persname>
+    </origination>
+    <unitid>1974.120</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.54 Linear Feet</extent>
+      <extent altrender="carrier">in one manuscript box, one oversize box, and one flat file folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1690/1904" type="inclusive">1690-1904</unitdate>
+    <unitdate datechar="creation" normal="1775/1865" type="bulk">1775-1865</unitdate>
+    <abstract id="aspace_168ffad68e963f1989787e01888fb02b">This collection contains bank notes, fractional currency, postage stamps, and treasury notes, most of which were printed in the United States. Also included are various forms of paper currency printed by the Confederate States of America during the Civil War, as well as currency printed by various foreign countries, such as Brazil, China, Dominican Republic, and Japan. Two bound volumes containing historical sketches of paper money printed in the continental United States and the State of Pennsylvania are also included.</abstract>
+  </did>
+  <processinfo id="aspace_79eb9910036c7ba299afe6869ac9ba30">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level by Nicholas Pavlik in 2011. Processed to the folder level by Alice Griffin in 2022.</p>  </processinfo>
+  <prefercite id="aspace_52022dc95effc477941e77e55332eac8">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); United States, Confederate States, and foreign currency collection, 1974.120, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <accessrestrict id="aspace_70da52f4e81c446a8abb08648d74a83e">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_98e82f9feb56484672490846ec8adf34">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Fred T. Aldridge, 1891; Burt P. Greenman, date unknown; Charles Hallock, date unknown; J.S. Hicks, date unknown; John A. King, 1898; William Cary Langer, date unknown; Daniel Church McEwen, 1898; William Miles, date unknown; the North Carolina Historical Commission, date unknown; James L. Phelps, Jr., 1870; John P. Rolfe, date unknown; Reuben W. Ropes, date unknown; N.H.T. Squires, date unknown; B.C. Weekes, 1921; Julius Wilcox, 1890; and H.F. Wing, date unknown.  Collection formally accessioned in 1974.</p>  </acqinfo>
+  <arrangement id="aspace_9f507d38c1920ca9056c5c9ae48faeb2">
+    <head>Arrangement</head>
+<p>Collection assembled in 1936 from various donations. Materials are generally arranged by category.</p>  </arrangement>
+  <scopecontent id="aspace_9fbd85c651da8c9d1e87090adb479129">
+    <head>Scope and Contents</head>
+<p>This collection contains bank notes, fractional currency, postage stamps, and treasury notes printed in the State of New York and various other American states during the period 1690 to 1865, with the bulk dating from 1775 to 1865.  Also included are various forms of paper currency printed by the Confederate States of America during the Civil War, as well as currency printed by various foreign countries, such as Brazil, China, Dominican Republic, and Japan. Two bound volumes containing historical sketches of paper money printed in the continental United States and the State of Pennsylvania are also included.</p>  </scopecontent>
+  <userestrict id="aspace_93a176cea7c2a69469d610a23c9ef70d">
+    <head>Conditions Governing Use</head>
+<p>Material in this collection is in the public domain.</p>  </userestrict>
+  <odd id="aspace_0c3ec29c46e67ad198ec7075cd958c9a">
+    <head>Language of Materials</head>
+<p>Materials primarily in English, with some materials in Japanese, Spanish, and Chinese.</p>  </odd>
+  <controlaccess>
+    <genreform source="aat">National bank notes</genreform>
+    <genreform source="aat">Paper money</genreform>
+    <genreform source="aat">Postage stamps</genreform>
+    <subject source="lcsh">Money |z Dominican Republic</subject>
+    <subject source="lcsh">Money |z Japan</subject>
+    <subject source="lcsh">Money |z China</subject>
+    <subject source="lcsh">Money |z Brazil</subject>
+    <subject source="lcsh">Money |z Confederate States of America</subject>
+    <subject source="lcsh">Money |z United States</subject>
+    <subject source="lcsh">Money |z United States |x History |y Colonial period, ca. 1600-1775</subject>
+    <subject source="lcsh">Money |z United States |x History |y Revolution, 1775-1783</subject>
+    <subject source="lcsh">Money |z United States |x History |y Civil War, 1861-1865</subject>
+    <subject source="lcsh">Money |z Pennsylvania</subject>
+    <subject source="lcsh">Money |z New York (State)</subject>
+    <subject source="lcsh">Money |z United States |x History |y 1783-1865</subject>
+    <subject source="lcsh">Money -- Rhode Island</subject>
+    <subject source="lcsh">Money -- South Carolina</subject>
+    <subject source="lcsh">Money -- Georgia</subject>
+    <subject source="lcsh">Money -- Massachusetts</subject>
+    <subject source="lcsh">Money -- New Jersey</subject>
+    <subject source="lcsh">Money -- Connecticut</subject>
+  </controlaccess>
+  <dsc><c id="aspace_4453e8502c72884852280d55cc2269c6" level="file"><did><unittitle>[United States currency]</unittitle><unitdate datechar="creation" normal="1776/1789" type="inclusive">1776-1789</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2fa3344983b769399fc2aa5578f762f6" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_2fa3344983b769399fc2aa5578f762f6" type="Folder">1</container></did></c><c id="aspace_258de0ad6a657d61cbf528c37c63046c" level="file"><did><unittitle>[American British colonies currency]</unittitle><unitdate datechar="creation" normal="1759/1776" type="inclusive">1759-1776</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2b13909b29597c787ef24ed003693e77" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_2b13909b29597c787ef24ed003693e77" type="Folder">2</container></did></c><c id="aspace_5c4108064dbac97381bb815813882887" level="file"><did><unittitle>Continental currency</unittitle><unitdate datechar="creation" normal="1776/1779" type="inclusive">1776-1779</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2aa0d869940a830162a39e89c2b309d5" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_2aa0d869940a830162a39e89c2b309d5" type="Folder">3</container></did></c><c id="aspace_38301f5a6dbc862b212c0e1444065a69" level="file"><did><unittitle><emph>An historical sketch of the paper money issued by Pennsylvania</emph></unittitle><unitdate datechar="creation" normal="1862/1862">1862</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_492f10ce3711003f484d7a913d6585b6" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_492f10ce3711003f484d7a913d6585b6" type="Folder">4</container></did></c><c id="aspace_4579ff89eb320138ff7778837c1bbc04" level="file"><did><unittitle>Foreign currency</unittitle><unitdate datechar="creation" normal="1850/1870" type="inclusive">circa 1860</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_4c8246c946e24ba14752205c2904327a" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_4c8246c946e24ba14752205c2904327a" type="Folder">5</container></did></c><c id="aspace_73516a92d57f1a35702bc49de93eafa2" level="file"><did><unittitle>Bank notes</unittitle><unitdate datechar="creation" normal="1800/1864" type="inclusive">1800-1864</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ceba415868fa5b65268f41c77bc0ee0f" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_ceba415868fa5b65268f41c77bc0ee0f" type="Folder">6</container></did></c><c id="aspace_2bc4e30210649732f2eb3d6b0157c1ab" level="file"><did><unittitle>Fractional currency</unittitle><unitdate datechar="creation" normal="1862/1863" type="inclusive">1862-1863</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_e6adf998dec044eaba9b276a6c01914f" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_e6adf998dec044eaba9b276a6c01914f" type="Folder">7</container></did></c><c id="aspace_5f7fc5063ae16fb6bf2e5cba7964ccd3" level="file"><did><unittitle>Confederate currency</unittitle><unitdate datechar="creation" normal="1862/1865" type="inclusive">1862-1865</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7f6042eafc566a6ce62f199c1cdd63e2" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_7f6042eafc566a6ce62f199c1cdd63e2" type="Folder">8</container><container altrender="Large Flat Box 8" id="aspace_965bf7658e33f65355d310dabb8a2f01" label="Mixed Materials [34444050465012]" type="Oversize">OS-36</container></did></c><c id="aspace_c5b6da8b68ef10f7ba396d439eae6c03" level="file"><did><unittitle><emph>Historical sketch of continental paper money</emph> book</unittitle><unitdate datechar="creation" normal="1863/1863">1863</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_a66207b4b3f4aa3a0c71f8b7e4196eb2" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_a66207b4b3f4aa3a0c71f8b7e4196eb2" type="Folder">9</container></did></c><c id="aspace_e778cabe41e7e7a3eb15c558a3a56297" level="file"><did><unittitle>[News clipping regarding fractional currency]</unittitle><unitdate datechar="creation" normal="1904/1904">1904</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c4a293ab64f9cd6e2972c8ff15de1a5a" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_c4a293ab64f9cd6e2972c8ff15de1a5a" type="Folder">10</container></did></c><c id="aspace_1aab73abc3428f92c2f27f1ff6a4251e" level="file"><did><unittitle>[Certificates]</unittitle><unitdate datechar="creation" normal="1795/1866" type="inclusive">1795-1866</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_161d53d7af6875e5af3dc2a53f79828d" label="Mixed Materials [34444803051259]" type="Box">1</container><container parent="aspace_161d53d7af6875e5af3dc2a53f79828d" type="Folder">11</container></did></c></dsc>
+</archdesc>
 </ead>
