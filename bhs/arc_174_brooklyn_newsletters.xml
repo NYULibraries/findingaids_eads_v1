@@ -1,515 +1,196 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_174_brooklyn_newsletters</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Brooklyn newsletter collection
-                    <num>ARC.174</num>
-                </titleproper>
-                <author>Finding aid prepared by Weatherly Stephan</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>January 18, 2010</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T10:43-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Brooklyn newsletter collection</unittitle>
-            <unitid>ARC.174</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid597001" type="Box" label="Text">ARC.174 2 of 2</container>
-            <container id="cid597002" type="Box" label="Text">ARC.174 1 of 2</container>
-            <physdesc>
-                <extent>2.0 Linear feet</extent>
-                <extent>in two record cartons.</extent>
-            </physdesc>
-            <unitdate normal="1960/2000" type="bulk">Bulk, 1960-2000</unitdate>
-            <unitdate normal="1869/2004" type="inclusive">1869-2004</unitdate>
-            <abstract id="ref1" label="Abstract">The Brooklyn newsletter collection, dated 1869 to 2004 (bulk 1960 to 2000) and measuring 2.0 linear feet, contains periodicals published in Brooklyn, as well as publications from Brooklyn-based businesses and social groups.</abstract>
-            <langmaterial id="ref7" label="Language of Materials">Materials in English, with issues of the 
-                <emph render="italic">Brooklyn Berichten</emph> in German.</langmaterial>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Ascent Institute (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Bargemusic.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Better Brooklyn Committee.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Boro Park Historical Society.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn (New York, N.Y.). Office of Brooklyn Borough President.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Center for the Urban Environment.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Economic Development Corporation.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn In Touch Information Center (New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Library Council.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Sports Foundation (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Union Gas Company.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn Urban League (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Brownstone Billiards (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Canarsie Historical Society.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Central Brooklyn Model Cities.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Citizens for a Better New York.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Civic Union (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Community Board No. 9 (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Coney Island Hysterical Society (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Coney Island, U.S.A. (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Congregation Beth Elohim (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Dignity/Brooklyn (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Douglas MacArthur Republican Club (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">East Midwood Jewish Center (New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Eastern States Historical Clearing House.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Flatlands Chamber of Commerce (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Flatlands Historical Foundation (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Friends of Gateway (New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Fulton Ferry Landing Museum (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Fulton Mall Improvement Association.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Gateway National Recreation Area (Agency : U.S.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Gay Friends &amp; Neighbors, Ltd. Brooklyn.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Gowanus Arts Exchange.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Grace Choral Society of Brooklyn (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Gravesend Historical Society (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Green-Wood Historic Fund.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Greensward Foundation.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Home Title Insurance Company (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Italian Historical Society (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Los Angeles Dodgers (Baseball team). Alumni Association.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Lubavitch Youth Organization (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Machne Israel.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Montauk Theatre (Organization : Brooklyn (New York, N.Y.)).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Namm's (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Neighborhood Open Space Coalition (New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">New York (N.Y.). Parks and Recreation, Brooklyn.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Paragon Progressive Community Association.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Paragon Progressive Federal Credit Union.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Positive Focus.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Prospect Park Environmental Center (New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Samuel J. Tilden High School (Brooklyn, New York, N.Y.). Alumni Association.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Scandinavian East Coast Museum (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Securities Industry Automation Corporation.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Society for the Historical Preservation of the Fourteenth Brooklyn State Militia Infantry (New Jersey).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Telephone Pioneers of America. Long Island Empire Chapter.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Theatre Historical Society (U.S.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Thelma Hill Performing Arts Center.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Triborough Bridge and Tunnel Authority.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">United States. General Services Administration. U.S. Brooklyn Court Project.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">United States. Veterans Administration. Regional Office (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Young Women's Christian Association (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-        </did>
-        <accessrestrict id="ref2">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <acqinfo id="ref3">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Source and date of acquisition for items in the collection are unknown.</p>
-        </acqinfo>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Brooklyn newsletter collection, ARC.174, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <processinfo id="ref5">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <scopecontent id="ref6">
-            <head>Scope and Contents</head>
-            <p>The Brooklyn newsletter collection, dated 1869 to 2004 (bulk 1960 to 2000) and measuring 2.0 linear feet, contains periodicals published in Brooklyn, as well as publications from Brooklyn-based businesses and social groups.</p>
-            <p>The following publications are contained in the collection:</p>
-            <p>
-                <emph render="italic">About Town: Weekly Notes of Brooklyn</emph></p>
-            <p>Ascent Institute: 
-                <emph render="italic">Ascent</emph></p>
-            <p>
-                <emph render="italic">Astella Action News</emph></p>
-            <p>
-                <emph render="italic">The Attitude</emph></p>
-            <p>Bargemusic: 
-                <emph render="italic">Bargemusic Calendar</emph></p>
-            <p>Better Brooklyn Committee and the Brooklyn Hall of Fame: 
-                <emph render="italic">Brooklyn Review</emph></p>
-            <p>
-                <emph render="italic">Black News</emph></p>
-            <p>Boro Park Historical Society</p>
-            <p>
-                <emph render="italic">Brighton Beach Daily Music Programme</emph></p>
-            <p>
-                <emph render="italic">Brooklyn Berichten</emph></p>
-            <p>Brooklyn Borough Hall: 
-                <emph render="italic">Brooklyn Newsletter</emph></p>
-            <p>
-                <emph render="italic">The Brooklyn Bridge Bulletin</emph></p>
-            <p>
-                <emph render="italic">The Brooklyn Bums Newsletter</emph></p>
-            <p>Brooklyn Center for the Urban Environment and Prospect Park Environmental Center: 
-                <emph render="italic">CityGreen</emph></p>
-            <p>Brooklyn Economic Development Corporation: 
-                <emph render="italic">BEDC Update</emph></p>
-            <p>Brooklyn In Touch: 
-                <emph render="italic">Neighborhood News</emph></p>
-            <p>
-                <emph render="italic">The Brooklyn Journal</emph></p>
-            <p>Brooklyn Library Council: 
-                <emph render="italic">Bulletin of the Brooklyn Library Council</emph></p>
-            <p>
-                <emph render="italic">The Brooklyn Musical Monthly</emph></p>
-            <p>Brooklyn Regional Office, Veterans Administration: 
-                <emph render="italic">Personnel Bulletin</emph></p>
-            <p>Brooklyn Sports Foundation: 
-                <emph render="italic">Newsletter</emph></p>
-            <p>Brooklyn Union Gas: 
-                <emph render="italic">Gas Works: Strategies for Saving Energy and Money</emph>; 
-                <emph render="italic">Sendout</emph>; and 
-                <emph render="italic">Management News</emph>.</p>
-            <p>The Brooklyn Urban League: 
-                <emph render="italic">Herald</emph></p>
-            <p>Brownstone Billiards</p>
-            <p>Canarsie Historical Society</p>
-            <p>Central Brooklyn Model Cities: 
-                <emph render="italic">The Key Hole</emph></p>
-            <p>
-                <emph render="italic">The Chalcopyrites</emph></p>
-            <p>
-                <emph render="italic">The Chasidic Historical Review</emph></p>
-            <p>Citizens for a Better New York: 
-                <emph render="italic">Environmental Viewpoint</emph></p>
-            <p>Civic Union</p>
-            <p>Community Board #9: 
-                <emph render="italic">Community News and Information</emph></p>
-            <p>The Coney Island Hysterical Society: 
-                <emph render="italic">Inside Coney Island</emph></p>
-            <p>Coney Island, USA: 
-                <emph render="italic">The Coney Isl-O-Phile</emph></p>
-            <p>Congregation Beth Elohim: 
-                <emph render="italic">Newsletter</emph></p>
-            <p>Dignity/Brooklyn: 
-                <emph render="italic">The Bridge</emph></p>
-            <p>Dodgers Alumni Association: 
-                <emph render="italic">Alumni News</emph></p>
-            <p>Eastern States Historical Clearing House</p>
-            <p>East Midwood Jewish Center: 
-                <emph render="italic">Bulletin of the East Midwood Jewish Center</emph></p>
-            <p>Flatlands Historical Foundation and Flatlands Chamber of Commerce: 
-                <emph render="italic">News from Flatlands </emph></p>
-            <p>Fulton Ferry Landing Museum</p>
-            <p>Fulton Mall Improvement Association, Inc.: 
-                <emph render="italic">Fulton Mall News</emph></p>
-            <p>
-                <emph render="italic">Gaslight Gazette, The Park Slope Neighborhood Guide</emph></p>
-            <p>Gateway National Recreation Area</p>
-            <p>Gay Friends &amp; Neighbors, Brooklyn: 
-                <emph render="italic">G.F.N.</emph></p>
-            <p>
-                <emph render="italic">The Good News Paper</emph></p>
-            <p>Gowanus Arts Exchange</p>
-            <p>Grace Choral Society of Brooklyn</p>
-            <p>Gravesend Historical Society</p>
-            <p>Greensward Foundation, Inc.: 
-                <emph render="italic">A Little News</emph></p>
-            <p>Green-Wood Historic Fund: 
-                <emph render="italic">The Arch</emph></p>
-            <p>Thelma Hill Performing Arts Center</p>
-            <p>Home Title Insurance Company: 
-                <emph render="italic">Home Title Almanack</emph></p>
-            <p>Italian Historical Society: 
-                <emph render="italic">Italian American Review</emph></p>
-            <p>
-                <emph render="italic">The Jewish Community Guide</emph></p>
-            <p>
-                <emph render="italic">Long Island Life Illustrated </emph></p>
-            <p>Long Island Empire Chapter, Telephone Pioneers of America: 
-                <emph render="italic">The Long Island Pioneer</emph></p>
-            <p>Lubavitch Youth Organization: 
-                <emph render="italic">L'Chaim: The Weekly Publication for Every Jewish Person</emph></p>
-            <p>
-                <emph render="italic">Luhn's Rugby Bulletin</emph></p>
-            <p>Douglas MacArthur Republican Club: 
-                <emph render="italic">Republican Report</emph></p>
-            <p>Machne Israel: 
-                <emph render="italic">Tzivos HaShem Children’s Newsletter</emph></p>
-            <p>
-                <emph render="italic">Midwout Magazine</emph></p>
-            <p>Montauk Theatre</p>
-            <p>
-                <emph render="italic">The Monthly Evening Sky Map</emph></p>
-            <p>Namm's: 
-                <emph render="italic">The Namm-Ite</emph></p>
-            <p>Neighborhood Open Space Coalition/Friends of Gateway: 
-                <emph render="italic">Urban Outdoors Review </emph></p>
-            <p>
-                <emph render="italic">Nuggets</emph></p>
-            <p>
-                <emph render="italic">Panama Chronicle</emph></p>
-            <p>Paragon Progressive Community Association, Inc. and Paragon Progressive Federal Credit Union: 
-                <emph render="italic">The Paragon Progressive</emph></p>
-            <p>Parks and Recreation Department/Brooklyn: 
-                <emph render="italic">The Green Machine</emph> and 
-                <emph render="italic">Urban Park Rangers</emph>.</p>
-            <p>
-                <emph render="italic">Guy Pierrepont's Weekly Society Bulletin</emph></p>
-            <p>
-                <emph render="italic">Positive Focus, Inc.</emph></p>
-            <p>Prospect Park Environmental Center: 
-                <emph render="italic">CityGreen</emph></p>
-            <p>Scandinavian East Coast Museum: 
-                <emph render="italic">Nordic News</emph></p>
-            <p>Securities Industry Automation Corporation: 
-                <emph render="italic">SIAC News</emph></p>
-            <p>Samuel J. Tilden High School Alumni Association: 
-                <emph render="italic">Tilden Alumni News</emph></p>
-            <p>Society for the Historical Preservation of the Fourteenth Brooklyn State Militia Infantry: 
-                <emph render="italic">14th Brooklyn Society News</emph> and 
-                <emph render="italic">The Red Legged Devil</emph>.</p>
-            <p>Theatre Historical Society: 
-                <emph render="italic">Marquee</emph></p>
-            <p>Triborough Bridge and Tunnel Authority</p>
-            <p>U.S. Brooklyn Court Project</p>
-            <p>
-                <emph render="italic">WaterfrontWeek</emph></p>
-            <p>
-                <emph render="italic">Yours Truly</emph></p>
-            <p>YWCA of Brooklyn: 
-                <emph render="italic">News, Activities &amp; Class Schedules</emph> and 
-                <emph render="italic">YWCA Wire</emph>.</p>
-        </scopecontent>
-        <relatedmaterial id="ref8">
-            <head>Related Archival Materials note</head>
-            <p>The Brooklyn Historical Society also holds a photograph collection from Positive Focus; see 2007.041.</p>
-        </relatedmaterial>
-        <controlaccess>
-            <corpname rules="dacs" source="local">Ascent Institute (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Bargemusic.</corpname>
-            <corpname rules="dacs" source="local">Better Brooklyn Committee.</corpname>
-            <corpname rules="dacs" source="local">Boro Park Historical Society.</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Center for the Urban Environment.</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Economic Development Corporation.</corpname>
-            <corpname rules="dacs" source="local">Brooklyn In Touch Information Center (New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Library Council.</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Sports Foundation (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Union Gas Company.</corpname>
-            <corpname rules="dacs" source="local">Brooklyn Urban League (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Brownstone Billiards (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Canarsie Historical Society.</corpname>
-            <corpname rules="dacs" source="local">Central Brooklyn Model Cities.</corpname>
-            <corpname rules="dacs" source="local">Citizens for a Better New York.</corpname>
-            <corpname rules="dacs" source="local">Civic Union (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Community Board No. 9 (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Coney Island Hysterical Society (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Coney Island, U.S.A. (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Congregation Beth Elohim (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Dignity/Brooklyn (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Douglas MacArthur Republican Club (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">East Midwood Jewish Center (New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Eastern States Historical Clearing House.</corpname>
-            <corpname rules="dacs" source="local">Flatlands Chamber of Commerce (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Flatlands Historical Foundation (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Friends of Gateway (New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Fulton Ferry Landing Museum (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Fulton Mall Improvement Association.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Gateway National Recreation Area (Agency : U.S.).</corpname>
-            <corpname rules="dacs" source="local">Gay Friends &amp; Neighbors, Ltd. Brooklyn.</corpname>
-            <corpname rules="dacs" source="local">Gowanus Arts Exchange.</corpname>
-            <corpname rules="dacs" source="local">Grace Choral Society of Brooklyn (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Gravesend Historical Society (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Green-Wood Historic Fund.</corpname>
-            <corpname rules="dacs" source="local">Greensward Foundation.</corpname>
-            <corpname rules="dacs" source="local">Home Title Insurance Company (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Italian Historical Society (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Los Angeles Dodgers (Baseball team). Alumni Association.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Lubavitch Youth Organization (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Machne Israel.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Montauk Theatre (Organization : Brooklyn (New York, N.Y.)).</corpname>
-            <corpname rules="dacs" source="local">Namm's (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Neighborhood Open Space Coalition (New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">New York (N.Y.). Parks and Recreation, Brooklyn.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Paragon Progressive Community Association.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Paragon Progressive Federal Credit Union.</corpname>
-            <corpname rules="dacs" source="local">Positive Focus.</corpname>
-            <corpname rules="dacs" source="local">Prospect Park Environmental Center (New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Samuel J. Tilden High School (Brooklyn, New York, N.Y.). Alumni Association.</corpname>
-            <corpname rules="dacs" source="local">Scandinavian East Coast Museum (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Securities Industry Automation Corporation.</corpname>
-            <corpname rules="dacs" source="local">Society for the Historical Preservation of the Fourteenth Brooklyn State Militia Infantry (New Jersey).</corpname>
-            <corpname rules="dacs" source="local">Telephone Pioneers of America. Long Island Empire Chapter.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Theatre Historical Society (U.S.).</corpname>
-            <corpname rules="dacs" source="local">Thelma Hill Performing Arts Center.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Triborough Bridge and Tunnel Authority.</corpname>
-            <corpname rules="dacs" source="local">United States. General Services Administration. U.S. Brooklyn Court Project.</corpname>
-            <corpname rules="dacs" source="local">United States. Veterans Administration. Regional Office (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Young Women's Christian Association (Brooklyn, New York, N.Y.).</corpname>
-            <title source="local">About town: weekly notes of Brooklyn</title>
-            <title source="local">Astella action news</title>
-            <title source="local">Attitude (Brooklyn, New York, N.Y.)</title>
-            <title source="local">Black news (Brooklyn, New York, N.Y.)</title>
-            <title source="local">Brighton Beach daily music programme</title>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
-            <title source="local">Brooklyn berichten (Newsletter)</title>
-            <title source="local">Brooklyn Bridge bulletin</title>
-            <title source="local">Brooklyn bums newsletter</title>
-            <title source="local">Brooklyn journal</title>
-            <title source="local">Brooklyn musical monthly</title>
-            <subject source="lcsh">Business enterprises |z New York (State) |z Kings County</subject>
-            <title source="local">Chalcopyrites (Magazine)</title>
-            <title source="local">Chasidic historical review</title>
-            <title source="local">Gaslight gazette, the Park Slope neighborhood guide</title>
-            <title source="local">Good news paper (Newsletter)</title>
-            <title source="local">Guy Pierrepont's weekly society bulletin</title>
-            <title source="local">Jewish community guide, Brooklyn edition</title>
-            <title source="local">Long Island life illustrated</title>
-            <title source="local">Luhn's rugby bulletin</title>
-            <genreform source="aat">Magazines (periodicals)</genreform>
-            <title source="local">Marquee (Theatre Historical Society (U.S.))</title>
-            <title source="local">Midwout magazine</title>
-            <title source="local">Monthly evening sky map (Newsletter)</title>
-            <genreform source="aat">Newsletters</genreform>
-            <title source="local">Nuggets (Newsletter)</title>
-            <title source="local">Panama chronicle </title>
-            <subject source="lcsh">Parks |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Theaters |z New York (State) |z Kings County</subject>
-            <title source="local">WaterfrontWeek</title>
-            <title source="local">Yours truly (Magazine)</title>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_174_brooklyn_newsletters/">arc_174_brooklyn_newsletters</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn newsletter collection <num>ARC.174</num></titleproper><author>Collection processed by Weatherly Stephan</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2022-11-17T18:44:49</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>2022</date><item>Reprocessed by Diana Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn newsletter collection</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">East Midwood Jewish Center (New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Flatlands Historical Foundation (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Los Angeles Dodgers (Baseball team). Alumni Association</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Brooklyn Sports Foundation (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Brooklyn Economic Development Corporation</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Brooklyn In Touch Information Center (New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Brooklyn Center for the Urban Environment. Prospect Park Environmental Center (PPEC). Center for the Urban Environment</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Prospect Park Environmental Center (New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Better Brooklyn Committee</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Boro Park Historical Society</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Brooklyn Library Council</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Paragon Progressive Federal Credit Union</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Paragon Progressive Community Association</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Friends of Gateway (New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Neighborhood Open Space Coalition (New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Lubavitch Youth Organization (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Green-Wood Historic Fund</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Greensward Foundation</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Gateway National Recreation Area (Agency : U.S.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Securities Industry Automation Corporation</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Gravesend Historical Society (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Brooklyn Urban League (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Brooklyn Union Gas Company</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Gowanus Arts Exchange</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Gay Friends &amp; Neighbors, Ltd. Brooklyn</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Fulton Mall Improvement Association</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Flatlands Chamber of Commerce (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Young Women's Christian Association (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Ascent Institute (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Machne Israel</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Congregation Beth Elohim (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">New York (N.Y.). Parks and Recreation, Brooklyn</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Community Board No. 9 (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Brooklyn (New York, N.Y.). Office of Brooklyn Borough President</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Society for the Historical Preservation of the Fourteenth Brooklyn State Militia Infantry (New Jersey)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Home Title Insurance Company (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Italian Historical Society (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Citizens for a Better New York</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Coney Island Hysterical Society (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Central Brooklyn Model Cities</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Positive Focus, Inc. (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Scandinavian East Coast Museum (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Namm's (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Telephone Pioneers of America. Long Island Empire Chapter</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Douglas MacArthur Republican Club (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>ARC.174</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.3 Linear Feet</extent>
+      <extent altrender="carrier">in four document boxes and one flat box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1877/2010" type="inclusive">1877-2010</unitdate>
+    <unitdate datechar="creation" normal="1960/2000" type="bulk">1960-2000</unitdate>
+    <abstract id="aspace_37f0da6b4cdaa27ca808c35f541d6739">The Brooklyn newsletter collection, dated 1877 to 2010 (bulk 1960 to 2000) and measuring 3.3 linear feet, contains newsletters from Brooklyn-based businesses and organizations.</abstract>
+  </did>
+  <accessrestrict id="aspace_fb16008dc0360621f9a66a56ac512aa7">
+    <head>Conditions Governing Access</head>
+<p>Original issues from Volumes 1 and 2 of Guy Pierrepont's Weekly Society Bulletin are in very fragile condition and should not be used unless the provided preservation photocopies will not suffice for the researcher's purpose.</p><p>Otherwise this collection is open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_30b6eaf58ded4c180736602f37cc6e94">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for many items in the collection are unknown. Where the items' source(s) are known, that information is indicated at the file level. Many were evidently sent to the Brooklyn Historical Society or Brooklyn Public Library directly.</p>  </acqinfo>
+  <prefercite id="aspace_0fcbb6e3122eb378701326c7e04d8357">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn newsletter collection, ARC.174, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_2a563c207b32a8e351662482155df765">
+    <head>Processing Information</head>
+<p>Originally minimally processed to the collection level, this collection was reprocessed to the folder level in 2022. The archivist discovered that many of the materials in the collection could not strictly be called newsletters and removed them to more appropriate composite collections such as the Brooklyn ephemera collection (ARC.272) and Brooklyn Playbills and Programs (BCMS.0041). In addition, newsletters related to schools were removed to the Brooklyn schools collection (1985.054). Newsletters from the Brooklyn ephemera collection (BCMS.0007) were incorporated into this collection.</p>  </processinfo>
+  <scopecontent id="aspace_d4bf9f75fcb080f018e91dbd9f60872e">
+    <head>Scope and Contents</head>
+<p>The Brooklyn newsletter collection, dated 1877 to 2010 (bulk 1960 to 2000) and measuring 3.3 linear feet, contains newsletters from Brooklyn-based businesses and organizations. The newsletters vary in length and quality and touch on a variety of different subjects including Brooklyn neighborhoods, housing, economic issues, and community updates.</p>  </scopecontent>
+  <userestrict id="aspace_d9be8c8e888a08820f08c06210384044">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <relatedmaterial id="aspace_1299b1d67edc5725d40fe10c1470a506">
+    <head>Related Materials</head>
+<p>Brooklyn neighborhood associations and civic organizations publications (ARC.167)</p><p>Carlisle Indian: The Newsletter of the Carlisle Club (BCMS.0024)</p><p>Linewaiters' Gazette Collection (BCMS.0027)</p><p>Materials from the various organizations and businesses represented here can also be found in the Brooklyn ephemera collection (BCMS.0007) and the Brooklyn Historical Society ephemera collection (ARC.272).</p>  </relatedmaterial>
+  <phystech id="aspace_5311edd372e96d1c2c17e9a97e1263fa">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <controlaccess>
+    <title source="local">Guy Pierrepont's weekly society bulletin</title>
+    <title source="local">Attitude (Brooklyn, New York, N.Y.)</title>
+    <title source="local">Midwout magazine</title>
+    <title source="local">Luhn's rugby bulletin</title>
+    <title source="local">Jewish community guide, Brooklyn edition</title>
+    <title source="local">Good news paper (Newsletter)</title>
+    <title source="local">Nuggets (Newsletter)</title>
+    <genreform source="lcsh">Newsletters</genreform>
+    <title source="local">Brooklyn Bridge bulletin</title>
+    <title source="local">Brooklyn bums newsletter</title>
+    <title source="local">Astella action news</title>
+    <title source="local">Brooklyn berichten (Newsletter)</title>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Business enterprises |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Parks |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Theaters |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+  </controlaccess>
+  <dsc><c id="aspace_36aca72de13db5229a8ed66aa52caa8d" level="file"><did><unittitle>14th Brooklyn Society News</unittitle><unitdate datechar="creation" normal="1980/1982" type="inclusive">1980-1982</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_97ed3a805d451758650194dd426d956e" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_7a5f614d832cab9c6a56fa3b3eefc862"><head>Scope and Contents</head><p>Vols. 1-3. Published quarterly by the Society for the Historical Preservation of the Fourteenth Brooklyn State Militia Infantry (84th New York Infantry) Incorporated.</p></scopecontent><relatedmaterial id="aspace_af256c72cd314c77ec4d79b5eb85cb86"><head>Related Materials</head><p>See also The Red Legged Devil.</p></relatedmaterial></c><c id="aspace_6c43122546ebfada0c6600e851f606fe" level="file"><did><unittitle>The A &amp; S Spotlight</unittitle><unitdate datechar="creation" normal="1968/1968">1968 Fall</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_f29c5b2613c1043e8b01bf6d8f3dd526" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_a47d4c6b2fd031f3b0309bccb1e1948b"><head>Scope and Contents</head><p>Vol. 30 No. 3. Published by Abraham &amp; Straus.</p></scopecontent></c><c id="aspace_f0cf22da85af9dc0347091f75b1efaa5" level="file"><did><unittitle>A Little News</unittitle><unitdate datechar="creation" normal="1983/1987" type="inclusive">1983, 1986-1987</unitdate><container altrender="Aptecker Custom Box 2" id="aspace_fc2648ea96527fde47ee164f77c9c209" label="Mixed Materials" type="Box">5</container></did><scopecontent id="aspace_dd343a05bbd53cc000672e594d8b0489"><head>Scope and Contents</head><p>Published by Greensward Foundation, Inc., "the friends of Central Park, Prospect Park, Fort Greene Park, Branch Brook Park, Druid Hill Park and Cadwalader Park."</p></scopecontent></c><c id="aspace_96e4217c85c970e15634e08215532656" level="file"><did><unittitle>The Arch</unittitle><unitdate datechar="creation" normal="2004/2004">2004 Fall</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_cb3734b398bc11b586886a4e679e4a0c" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_9b8a2d34eaaa0d09f635d01e5f2211e1"><head>Scope and Contents</head><p>Vol. V No. 2. Published by the Green-Wood Historic Fund of Green-Wood Cemetery.</p></scopecontent></c><c id="aspace_eb8d0a4d7eae810f439171602009a254" level="file"><did><unittitle>Ascent</unittitle><unitdate datechar="creation" normal="1989/1989">1989 Summer</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2303ee620f1373c671c05d8224c0035e" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_935bb5bdecb23cd538a6dedc9d7a5934"><head>Scope and Contents</head><p>Number 15 (Vol. V No. 3). A quarterly publication of the Ascent Institute: Inner dimensions of Jewish life.</p></scopecontent></c><c id="aspace_3449236c1394c1c4dfc0e8923ac66de3" level="file"><did><unittitle>Astella Action News</unittitle><unitdate datechar="creation" normal="1986-03/2005-11" type="inclusive">1986, 2005</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ccbb60c34db27e7ad621f79ecf9b31fa" label="Mixed Materials" type="Box">1</container><container parent="aspace_ccbb60c34db27e7ad621f79ecf9b31fa" type="Folder">1986</container><container altrender="Aptecker Custom Box 2" id="aspace_4e22ab5a91627abe55cc45fe29df4450" label="Mixed Materials" type="Box">5</container><container parent="aspace_4e22ab5a91627abe55cc45fe29df4450" type="Folder">2005</container></did><scopecontent id="aspace_5fea229c1a550ce98a4335ad0c9c4e96"><head>Scope and Contents</head><p>Vol. 9 No. 1; Vol. 11 No. 4. Astella Development Corporation, Coney Island.</p></scopecontent></c><c id="aspace_c38e3e3447c60ac47f49839d866602c4" level="file"><did><unittitle>The Attitude</unittitle><unitdate datechar="creation" normal="1989-12-01/1989-12-01">1989 December 1</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_4e0af27d718037c559c27862d7a69ce2" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_a1abc3c2930e8e7884578d3fbd9b17cf"><head>Scope and Contents</head><p>Vol. 1 No. 1. Arts and culture magazine published by Malcolm Smart. Includes AIDS Watch column.</p></scopecontent></c><c id="aspace_bdf1ec95d5f161fdefe145b69499371e" level="file"><did><unittitle>The Avonian</unittitle><unitdate datechar="creation" normal="1877-12-07/1877-12-07">1877 December 7</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_fd696d1230d28131ee9a8b9d6e141308" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_a2fdc3cea47bf0a1a5235971e20d07a5"><head>Scope and Contents</head><p>Vol. I No. 3. Published by the Avonian Dramatic Association.</p></scopecontent></c><c id="aspace_f86b4b1f948e7c37c0eac555577991a5" level="file"><did><unittitle>Bang newsletter</unittitle><unitdate datechar="creation" normal="1998/1998">1998 Summer</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_5a9237c52b3f5a4dad11d5e0aecc8402" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_862a4db00026dfcfcc373b88911ba59e"><head>Scope and Contents</head><p>Published seasonally by the Brooklyn Alliance of Neighborhood Gardens (BANG).</p></scopecontent></c><c id="aspace_f6c57a7e2c444e4903fdafa3186214c3" level="file"><did><unittitle>BEDC Update</unittitle><unitdate datechar="creation" normal="1985/1992" type="inclusive">1985-1992</unitdate><container altrender="Aptecker Custom Box 2" id="aspace_f19b084d326cfb867fb05e739d7c1c1b" label="Mixed Materials" type="Box">5</container></did><scopecontent id="aspace_77dd9d0ff797109a9eb1a51d1e6bcb64"><head>Scope and Contents</head><p>Vols. V-X. Published by the Brooklyn Economic Development Corporation.</p></scopecontent></c><c id="aspace_f3ddefe3800a9316aa610a0b19075acb" level="file"><did><unittitle>The Bedford Stuyvesant Little League News</unittitle><unitdate datechar="creation" normal="1963/1963">1963</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_3ac80066a7a1d580311fdee55fed2953" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_be4d58398635297b2620eb011ccf612b"><head>Scope and Contents</head><p>Vol. IX Nos. 1 and 2. "Published as a Service to the Youth of the Community by the Breevort Savings Bank."</p></scopecontent></c><c id="aspace_816651360dc2955db056b36bbf1755e9" level="file"><did><unittitle>The Bridge</unittitle><unitdate datechar="creation" normal="1995/1999" type="inclusive">1995-1999</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2e422f9d51d7d813a32af24b2de7042a" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_b4e08d0d2a791b103b973e3335a08b34"><head>Scope and Contents</head><p>Dignity/Brooklyn, local chapter of Dignity/USA. "The newsletter of Brooklyn's caring community of lesbian and gay Roman Catholics and their friends." Includes some Dignity/USA newsletters also.</p></scopecontent></c><c id="aspace_291997711cbc6d7aa628a46219a8b4b4" level="file"><did><unittitle>Brooklyn Berichten</unittitle><unitdate datechar="creation" normal="1979/1990" type="inclusive">1979 April-May, 1990 August</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c29588759924df60f58923e38cc28fd6" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_e02aa9422991b188ae6372b676744fb8"><head>Scope and Contents</head><p>Piet E. Schreuders, Managing Editor.</p></scopecontent></c><c id="aspace_4b0b90211f27d206aff3400ba04e9256" level="file"><did><unittitle>Brooklyn Bridge Bulletin</unittitle><unitdate datechar="creation" normal="1979/1984" type="inclusive">1979-1984</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_b33b76c40a5f496df722cc78c77b7af7" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_53c053746ff202d2aeb49a3d72b797bf"><head>Scope and Contents</head><p>Published in Holland by Ed Schilders and Piet Schreuders.</p></scopecontent></c><c id="aspace_1e4a0ece6a37dd820e60eddcd06ca343" level="file"><did><unittitle>The Brooklyn Bugle</unittitle><unitdate datechar="creation" normal="1967-09/1967-09">1967 September</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_436ac8a8fa0f4f9d4c5ab6e40fd74abe" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_82bcd1f0bb9351251f348d2aa1120a29"><head>Scope and Contents</head><p>Vol. 25 No. 4. Published monthly by the Brooklyn chapter of the National Association of Accountants (NAA).</p></scopecontent></c><c id="aspace_14534f20a00dc6b55958f718762e928e" level="file"><did><unittitle>The Brooklyn Bums newsletter</unittitle><unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_bfb853d1f28dd72bb789dafd341c5afd" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_7e335a73c2875cef4d3fb9afe27f5b95"><head>Scope and Contents</head><p>Nos. 1-25. Published by Metro Sports Look, Inc., NJ.</p></scopecontent></c><c id="aspace_9225939a16544582f896fac90e751f3f" level="file"><did><unittitle>Brooklyn in Touch Neighborhood News</unittitle><unitdate datechar="creation" normal="1980/1985" type="inclusive">1980-1985</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ba4a74eab305032613a60e3cb7c3bfee" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_e0cdedb4f5e3c4ab78f755e45c3c5f01"><head>Scope and Contents</head><p>Vols. 1-5</p></scopecontent></c><c id="aspace_0d871c1cb91d360399155f775ff907d6" level="file"><did><unittitle>Brooklyn Junior League News</unittitle><unitdate datechar="creation" normal="1966-06/1966-06">1966 June</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_9e340caa09482474cb562ca5cf693a01" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_309732a9b48cbb57af0e036e8a9446b8"><head>Scope and Contents</head><p>Vol. XXVII No. 8. Published monthly by the Junior League of Brooklyn, Inc.</p></scopecontent></c><c id="aspace_6521a0fde1414f62f8000814ac50f57e" level="file"><did><unittitle>Brooklyn Newsletter</unittitle><unitdate datechar="creation" normal="1978/1997" type="inclusive">1978-1997</unitdate><container altrender="Aptecker Custom Box 2" id="aspace_7dda2a4f2404bcc3543189bb88ba26bb" label="Mixed Materials" type="Box">5</container></did><scopecontent id="aspace_fad5cdd7afa39460a35007576c5e7aee"><head>Scope and Contents</head><p>Borough President Howard Golden's Brooklyn newsletter.</p></scopecontent></c><c id="aspace_3c37d30b7ad7c9fd357bdcf87252dba1" level="file"><did><unittitle>Brooklyn Review</unittitle><unitdate datechar="creation" normal="1963/1969" type="inclusive">1963-1969</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_33cc0d489958cb10c153adbad100f698" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_58b4bc12a145dfe0f61a4dff2499ee16"><head>Scope and Contents</head><p>Published by the Better Brooklyn Committee.</p></scopecontent></c><c id="aspace_6d55a6c9499bb0713fed2934fe5362ba" level="file"><did><unittitle>Brooklyn Sports Foundation newsletter</unittitle><unitdate datechar="creation" normal="1990/1990">1990 Summer</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_e31c6c10b1364382875b61f9e4616cd4" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_63f3132aff6b045dd3641b04a4364aba"><head>Scope and Contents</head><p>Vol. 2 No. 1</p></scopecontent></c><c id="aspace_d16c0d0d1f6449d0a0fa9168fc27d9c1" level="file"><did><unittitle>Brooklyn Union's New York</unittitle><unitdate datechar="creation" normal="1985/1985">1985 Fall</unitdate><container altrender="Aptecker Custom Box 2" id="aspace_b0abc161b083350708a1ac61c9626efc" label="Mixed Materials" type="Box">5</container></did><scopecontent id="aspace_0b40d5e076d4627d0378c24597d58497"><head>Scope and Contents</head><p>A publication of the Brooklyn Union Gas Company.</p></scopecontent><relatedmaterial id="aspace_a606dbc0f352e7a1c7ad9e1bffd47832"><head>Related Materials</head><p>See also Gas Works, Sendout, and Starline.</p></relatedmaterial></c><c id="aspace_747902ca42f38f13ecbba8785973bd71" level="file"><did><unittitle>The Brooklyn Urban League Herald</unittitle><unitdate datechar="creation" normal="1975/1975">1975 Spring</unitdate><container altrender="Aptecker Custom Box 2" id="aspace_d6b5d2444372b2e251255b0fe4d6a78a" label="Mixed Materials" type="Box">5</container></did><scopecontent id="aspace_0ae24ce2060b91001572858214da526f"><head>Scope and Contents</head><p>Vol. 1 No. 1. Published quarterly by the Brooklyn branch of the New York Urban League.</p></scopecontent></c><c id="aspace_1f0dc7ecc114ef2aeeabfc13b51a9177" level="file"><did><unittitle>Bulletin of the Brooklyn Library Council</unittitle><unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ce6fc8a50b1bf70ac05f5a674a03307f" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_104c9c20cde5c91556b05c45fe2db608"><head>Scope and Contents</head><p>Vol. 8 Nos. 2-3 and Vol. IX No. 2</p></scopecontent></c><c id="aspace_54a50d74d96a420dbf25e1fafbbed3e6" level="file"><did><unittitle>CAMBA Courier</unittitle><unitdate datechar="creation" normal="2010/2010">2010 Winter</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2bd3305cdc5946f66f21a038f5113f66" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_63e7d2dc3fd9767d4ed66bb418f5e624"><head>Scope and Contents</head><p>Vol. 4 No. 1. Published by CAMBA (Church Avenue Merchant Block Association), based in Flatbush.</p></scopecontent></c><c id="aspace_d8dcdd725c28cdb2ec3173a03da7d99b" level="file"><did><unittitle>City Green</unittitle><unitdate datechar="creation" normal="1982/1998" type="inclusive">1982-1998</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_46d8c90d8b9a5c10ea3eb08069709002" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_3de05bb20937ca0d09bf538513d41121"><head>Scope and Contents</head><p>Published by the Prospect Park Environmental Center (est. 1978), which became the Brooklyn Center for the Urban Environment (BCUE) in 1990.</p></scopecontent><relatedmaterial id="aspace_2626f144a9824254d1db2c8b1e68259d"><head>Related Materials</head><p>Brooklyn Center for the Urban Environment collection (BCMS.0066)</p></relatedmaterial></c><c id="aspace_29f9d0ae3dee987ac33f2031dde6d540" level="file"><did><unittitle>Community News and Information</unittitle><unitdate datechar="creation" normal="1997-06/1997-06">1997 June</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_09d313c920d5273243871008c37c7e1a" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_c268186c19ecd8d182f7c65f1a3c78f2"><head>Scope and Contents</head><p>Published by Community Board #9.</p></scopecontent></c><c id="aspace_4ae861f495ac172e96dad0fda1a6bcf8" level="file"><did><unittitle>Coney Isl-O-Phile</unittitle><unitdate datechar="creation" normal="1992/1998" type="inclusive">1992-1998</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_3d01389d31693d2019b5e3e6c80067b8" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_ba6bc0a6ca22e5b5db28a13b66ab96b8"><head>Scope and Contents</head><p>Vol. 1 Nos. 1, 3, 7. Published by Coney Island, USA.</p></scopecontent></c><c id="aspace_4a4b42364559abe06e667fa76ddb61f4" level="file"><did><unittitle>Congregation Beth Elohim News Letter</unittitle><unitdate datechar="creation" normal="1992-10-27/1992-10-27">1992 October 27</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_6df63b0d102ea6962a62bd6038da5e32" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_dd00b0db8674dc1e199308bfb41b0533" level="file"><did><unittitle>Council Ring</unittitle><unitdate datechar="creation" normal="1937-06-26/1937-06-26">1937 June 26</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_a9586914acc60909d55bb2779b04bcc4" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_f8ee08b0c62e0610f13cc18a7658ed8e"><head>Scope and Contents</head><p>Vol. XI No. 25. "The Voice of Brooklyn Scouts" (Boy Scouts).</p></scopecontent></c><c id="aspace_92c436f1bf9afe8d4bd4ec5478b06a58" level="file"><did><unittitle>Did You Know That...</unittitle><unitdate certainty="approximate" datechar="creation" normal="2008/2009" type="inclusive">circa 2008-2009</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_935a317f7e22860db15585edc45bd106" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_f16f91001df0deb41f4e82636e7dc689"><head>Scope and Contents</head><p>Published by Terry Lawler, Prudential Douglas Elliman, Park Slope.</p></scopecontent><acqinfo id="aspace_76eb98439ab2309dc6c24b84176c0d41"><head>Immediate Source of Acquisition</head><p>Some issues were the gift of Clark Marlor and some were the gift of Terry Lawler.</p></acqinfo></c><c id="aspace_8d7f3c43391e7eab7a6ca7ff451f26bc" level="file"><did><unittitle>Dodgers Alumni News</unittitle><unitdate datechar="creation" normal="1989/1989">1989 May-June</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7a7a92fe847d668e2f8d21b8d4ceeda3" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_40d6f076ae2502898288ef708ba84292"><head>Scope and Contents</head><p>Vol. 6 No. 1. Published by and primarily focuses on the Los Angeles Dodgers but with some information about the Brooklyn Dodgers.</p></scopecontent></c><c id="aspace_2645f469bd854fba21642e57c22e9607" level="file"><did><unittitle>Downtown Brooklyn</unittitle><unitdate datechar="creation" normal="2007/2010" type="inclusive">2007-2010</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_627e5ca0b3f6a64be4549818be35b989" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_11aeec132b50dce722f8126a2d54b32c"><head>Scope and Contents</head><p>"A quarterly newsletter brought to you by the three Downtown Brooklyn Business Improvement Districts (BIDs) and the Downtown Brooklyn Partnership."</p></scopecontent></c><c id="aspace_4ef9ef92838ec183f2699a6de548f784" level="file"><did><unittitle>Eastern States Historical Clearing House</unittitle><unitdate datechar="creation" normal="1971/1975" type="inclusive">1971-1975</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7958dd3ddcb0a0f05775923136a59ee6" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_a92525d291218838dd2a136c23c5edc1"><head>Scope and Contents</head><p>Nos. 21, 23, 24, 28, 29. Published by the Brooklyn Center at Long Island University.</p></scopecontent><relatedmaterial id="aspace_a485da4efd77bf7c048e08e8bd8be142"><head>Related Materials</head><p>See also Long Island University News.</p></relatedmaterial></c><c id="aspace_a6f0b015e82dfe74dceb8778b0a04e69" level="file"><did><unittitle>East Midwood Jewish Center Bulletin</unittitle><unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_4efc119f7f505f31013113499fe51271" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_d086171ac90e0c7975eda302e13836d6"><head>Scope and Contents</head><p>Vols. XXIV-XXVI</p></scopecontent></c><c id="aspace_c6255255990181676eaecdf5fe9d5e1d" level="file"><did><unittitle>Environmental Viewpoint</unittitle><unitdate datechar="creation" normal="1972-11/1972-11">November 1972</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_a1c291cc4b7a9a913403ac5a14f1b314" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_af3f61df88e7ecd7b917430abdf64177"><head>Scope and Contents</head><p>Published by Citizens for a Better New York.</p></scopecontent></c><c id="aspace_2eb9b6935ab96b4031c2d11411b3f4e7" level="file"><did><unittitle>FAC News</unittitle><unitdate datechar="creation" normal="1986/1994" type="inclusive">1986-1994</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_d77264d6f32546c922f4564d59e59c97" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_6b16e317ff1769c60552ec0ddfe49e3f"><head>Scope and Contents</head><p>"A bilingual publication of the Fifth Avenue Committee." [Park Slope]</p></scopecontent><relatedmaterial id="aspace_19347eef0549a2be783cccf622440409"><head>Related Materials</head><p>See also The Fifth Avenue Press and InFACt.</p></relatedmaterial></c><c id="aspace_8598e6eefd944413fb06c5fe93f42de7" level="file"><did><unittitle>The Fifth Avenue Press</unittitle><unitdate datechar="creation" normal="1995/1998" type="inclusive">1995-1998</unitdate><container altrender="Aptecker Custom Box 2" id="aspace_f3a06558826d326dc23a9b614271e87d" label="Mixed Materials" type="Box">5</container></did><scopecontent id="aspace_6912c1af09f130326af6dcfc318bd3f4"><head>Scope and Contents</head><p>Published by the Fifth Avenue Committee (Park Slope).</p></scopecontent><relatedmaterial id="aspace_6488f0f999a0eb2cfabd90866740d0f0"><head>Related Materials</head><p>See also FAC News and InFACt.</p></relatedmaterial></c><c id="aspace_86668688f81cef799847b7ed08223763" level="file"><did><unittitle>The Flatbush Faithful</unittitle><unitdate datechar="creation" normal="1991/1997" type="inclusive">1991-1997</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_578230490401a02fa8a1645fab858f3d" label="Mixed Materials" type="Box">2</container><container parent="aspace_578230490401a02fa8a1645fab858f3d" type="Folder">1991-1995</container><container altrender="Full Manuscript Box Legal" id="aspace_7bfa00b449d8a22921b040a20e796ec6" label="Mixed Materials" type="Box">3</container><container parent="aspace_7bfa00b449d8a22921b040a20e796ec6" type="Folder">1995-1997</container></did><scopecontent id="aspace_6e137f459a08ceaeed5ecb9f55080099"><head>Scope and Contents</head><p>Vols. 1-7. Published and edited by Norman E. Kurland and seems to be related to the Brooklyn Dodgers Baseball Hall of Fame.</p></scopecontent></c><c id="aspace_c8edf2e49bb33c250771434f11b0deac" level="file"><did><unittitle>Fulton Mall News</unittitle><unitdate datechar="creation" normal="1979/1985" type="inclusive">1979-1985</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_b6e5989e1f80f191a6d7ec75b5c751ff" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_3bb73f16063d2fb2df3a5eab880cd584"><head>Scope and Contents</head><p>Vols. 3-9. Published by the Fulton Mall Improvement Association, Inc.</p></scopecontent></c><c id="aspace_69a1737d0f45333df541f29b73498921" level="file"><did><unittitle>Gas Works</unittitle><unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_0535cfab8602934aa5827a5ac2fd2325" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_4f7a82b644ef41d62809b5f903e726ce"><head>Scope and Contents</head><p>Issues 1 and 2. Published by Brooklyn Union Gas.</p></scopecontent><relatedmaterial id="aspace_20fb17b5160dfd5ea8ceba6cfcccb093"><head>Related Materials</head><p>See also Brooklyn Union's New York, Sendout, and Starline.</p></relatedmaterial></c><c id="aspace_563083cc924eed906e280222c718e349" level="file"><did><unittitle>Gateway</unittitle><unitdate datechar="creation" normal="1984/1984">1984 Spring/Summer</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_8fa95641a7b6f1b3396425a977df8343" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_4988c5cf9bed9fce37bd4feb76637bf6"><head>Scope and Contents</head><p>Published by United States Department of the Interior, National Park Service, Gateway National Recreation Area.</p></scopecontent><relatedmaterial id="aspace_0f0053cf6d96b2cb59fd57c7f26a59c0"><head>Related Materials</head><p>See also Urban Outdoors Review.</p></relatedmaterial></c><c id="aspace_87e3f160de7b5b00e0c90cc2beafd6e1" level="file"><did><unittitle>Gay Friends and Neighbors (G.F.N.)</unittitle><unitdate datechar="creation" normal="1988-06/1988-06">1988 June</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_6a030bfbdc3c6ff939c6fee78337b982" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_7dedec9a79f626419dcaac5d8071981e"><head>Scope and Contents</head><p>Vol. 6 No. 6. Published by G.F.N. Gay Friends and Neighbors Ltd.</p></scopecontent></c><c id="aspace_03db2fce7777677af3f157f3019375b3" level="file"><did><unittitle>The Good News Paper</unittitle><unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_6c35b63da1964efd56ad1a77806b9ac1" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_f5e9f358574534ed38d31982601a6ff5"><head>Scope and Contents</head><p>Vol. III Nos. 3 and 11. Published by Flare Corp., "the one stop print shop," Nostrand Avenue.</p></scopecontent></c><c id="aspace_64eded9868d967afbfb4fa0808e0e6c8" level="file"><did><unittitle>Gowanus Arts Exchange</unittitle><unitdate datechar="creation" normal="1997-09/1997-10" type="inclusive">1997 September/October</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_66fcc543049ff8dd7d824d555b188dfb" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_aacd7322dc0af8d848c3d357294e55be"><head>Scope and Contents</head><p>Vol. 3 No. 1. "The Gowanus Arts Exchange is the home of Brooklyn's Center for Lesbian and Gay Arts and Artists, and of the Brooklyn Dance Consortium."</p></scopecontent></c><c id="aspace_d7ee7c321a89bcba2fb7a9930841c702" level="file"><did><unittitle>Gravesend Historical Society newsletter</unittitle><unitdate datechar="creation" normal="1973/1977" type="inclusive">1973-1975, 1977</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_5f04133e7b76cf5b8a10b14365c4563a" label="Mixed Materials" type="Box">3</container></did></c><c id="aspace_860797bc962f732d3862b49a6f53058f" level="file"><did><unittitle>The Green Machine</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c694a7708b25314e25dcb7886e5a23e5" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_7baeb34f14b6d19be72b8aa5ec16ac44"><head>Scope and Contents</head><p>Vol. 1. Published by the Parks and Recreation Department/Brooklyn.</p></scopecontent></c><c id="aspace_bb1fa5795ef5f44a0057e05e1109e9c2" level="file"><did><unittitle>Guy Pierrepont's Weekly Society Bulletin</unittitle><unitdate datechar="creation" normal="1941/1964" type="inclusive">1941-1942, 1963-1964</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_97d8736f6c138352b50050532b295466" label="Mixed Materials" type="Box">3</container><container altrender="Aptecker Custom Box 2" id="aspace_48d715285f4309a63bf04210a4cb9044" label="Mixed Materials" type="Box">5</container><container parent="aspace_48d715285f4309a63bf04210a4cb9044" type="Folder">1941-1942 originals</container></did><processinfo id="aspace_aef3f6126ff5e9492c93d86ce0a40d03"><head>Processing Information</head><p>Vols. 1-2 (1941-1942); Vol. 3 (1963-1964). Volume 1 billed as a "supplement to the 1940 Brooklyn Heights Blue Book."</p></processinfo><accessrestrict id="aspace_af7b38b9d37cb1d8907879c7c8bff011"><head>Conditions Governing Access</head><p>Original issues from Volumes 1 and 2 are in very fragile condition and should not be used unless the provided preservation photocopies will not suffice for the researcher's purpose.</p></accessrestrict></c><c id="aspace_3f50bc8b9ee158b059bbc852a8fda62e" level="file"><did><unittitle>InFACt</unittitle><unitdate datechar="creation" normal="2002/2002">2002 Summer</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_036a95bef07d1f55435ecb64461dad35" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_a12749284bf2aad0b4ed3071e104bd45"><head>Scope and Contents</head><p>Published by the Fifth Avenue Committee (FAC).</p></scopecontent><relatedmaterial id="aspace_f6f3f0263386e5aa3dadb95c1285a89e"><head>Related Materials</head><p>See also FAC News and The Fifth Avenue Press.</p></relatedmaterial></c><c id="aspace_c6bcf954b8db462c8c03ee1a04c45027" level="file"><did><unittitle>Inside Coney Island</unittitle><unitdate datechar="creation" normal="1986/1986">1986 Spring</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_1e1d2a93a5cd9bfd7a3cdeda2aba71c7" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_baa4e76e497d40d2be0e6f55c8393a18"><head>Scope and Contents</head><p>Published by the Coney Island Hysterical Society.</p></scopecontent></c><c id="aspace_02b4ec1a700bc7e71ff2c4871e5b9d10" level="file"><did><unittitle>Italian American Review</unittitle><unitdate datechar="creation" normal="1965/1977" type="inclusive">1965-1977</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_4bd1d6f0dbd98d0708cf86b7af1b84c7" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_e88ea9185bc6732bef83ed1b54e45c38"><head>Scope and Contents</head><p>Published by the Italian Historical Society, Brooklyn.</p></scopecontent></c><c id="aspace_b7474cb42d3d9748f23c76ade295142b" level="file"><did><unittitle>Jubilee Times</unittitle><unitdate datechar="creation" normal="1994/1994">1994 September</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_6048d55c4b86cdc610896072affc808a" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_4f44ab0fcb5294e9be94c60085204d57"><head>Scope and Contents</head><p>Published by the St. Charles Jubilee Senior Center in Brooklyn Heights.</p></scopecontent></c><c id="aspace_0594e70a92256cd1016b93ddbfcf179e" level="file"><did><unittitle>The Key / The Key Hole</unittitle><unitdate datechar="creation" normal="1970/1975" type="inclusive">1970, 1975</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_bada75ad3b9d15ebbebaf429c570ea80" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_a8ab3d9ce2b85e060b4a08b3bd8b2c38"><head>Scope and Contents</head><p>Published by Central Brooklyn Model Cities.</p></scopecontent></c><c id="aspace_b73070d33d36040a5deccd3485c50af8" level="file"><did><unittitle>Kings County Grand Juror</unittitle><unitdate datechar="creation" normal="1960/1967" type="inclusive">1960-1967</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_b53ebb8f6f0bfc0fb419219c30c0cde0" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_b61332a323f61685bdd72e9e9bda2118"><head>Scope and Contents</head><p>Vols. VII-XI. Published by the Kings County Grand Jurors' Association.</p></scopecontent></c><c id="aspace_5eeaf6d194b8962a2f245239841dfc33" level="file"><did><unittitle>L'Chaim</unittitle><unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ae90a9d94afe14a1bbafa57623cd5339" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_454018a28ffe0f9a7e775da975c8887d"><head>Scope and Contents</head><p>Issues 41, 46, 50, 52-54, 56, 57. "The Weekly Publication for every Jewish Person." Published by Lubavitch Youth Organization.</p></scopecontent></c><c id="aspace_a9354eba79686f263693a972ba268afb" level="file"><did><unittitle>The Long Island Pioneer</unittitle><unitdate datechar="creation" normal="1962/1962">1962 Spring</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ee6151eb697563786c2336c30e182c9b" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_cc283507f6535b79187dcb3a663eaceb"><head>Scope and Contents</head><p>Published quarterly by the Long Island Empire Chapter, Telephone Pioneers of America, Brooklyn.</p></scopecontent></c><c id="aspace_575b37852b7b9bfd7d119ee1c59d577e" level="file"><did><unittitle>Long Island University News, Brooklyn Center, Zeckendorf Campus</unittitle><unitdate datechar="creation" normal="1961-06/1961-06">1961 June</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_9e73e6bcec65c16bebff241e7cd18112" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_eacfb0bb6fb0e1cb2d3fc2ac3112e90a"><head>Scope and Contents</head><p>Vol. 9 No. 5</p></scopecontent></c><c id="aspace_3bee85ea22b78790018ba9b83f8b634c" level="file"><did><unittitle>Luhn's Rugby Bulletin</unittitle><unitdate datechar="creation" normal="1912-04/1912-05" type="inclusive">1912 April-May</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_1fd9ac6d72378260fcd28efd6f600094" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_d2030604ce407a0013542a8e2bcf8068"><head>Scope and Contents</head><p>Vol. 1, No. 9. Published by G.J. Luhn, Rugby Investors Building Company.</p></scopecontent></c><c id="aspace_82a97ce9f1d519366ac88d2b8e815fd4" level="file"><did><unittitle>The Midwout Magazine</unittitle><unitdate datechar="creation" normal="1911/1917" type="inclusive">1911-1917</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_4b91d8df0c12e5e4571300fce92c0a2a" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_8d1e3e18dd740f1039a04b82b143c244"><head>Scope and Contents</head><p>Vols. 1-5. Published by Snyder of Flatbush.</p></scopecontent></c><c id="aspace_d043363ccb278b3b7fb9cb7558df52e4" level="file"><did><unittitle>The Namm-ite</unittitle><unitdate datechar="creation" normal="1949/1952" type="inclusive">1949-1952</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_b9bd5ca29fca1e63b9c6adba402fabfd" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_6b2414fb72cd11d50fbaf68bb43f7de8"><head>Scope and Contents</head><p>Nos. 2-26. Published for Namm's employees.</p></scopecontent><relatedmaterial id="aspace_56374470822d13a96e91ff1bb53575d0"><head>Related Materials</head><p>See also Nammson News.</p></relatedmaterial></c><c id="aspace_1388cb50382624f3a416b48f48b0ff15" level="file"><did><unittitle>Nammson News</unittitle><unitdate datechar="creation" normal="1920-06/1920-06">1920 June</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_81fe3d980d6e61c7df5838b7e9bbf348" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_bb0318dc6b0760cc33d750ca6014eb5c"><head>Scope and Contents</head><p>Published by and for the employees of A.I. Namm and Son, Brooklyn.</p></scopecontent><relatedmaterial id="aspace_6ab9cb20f2282d8c927f87b649cd4323"><head>Related Materials</head><p>See also The Namm-ite.</p></relatedmaterial></c><c id="aspace_06b081674b6025d766294642df7d8800" level="file"><did><unittitle>Neptune Service News</unittitle><unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2bb654e227a1b29b8e19e839921a31e9" label="Mixed Materials" type="Box">3</container></did><scopecontent id="aspace_b90ba2e6995196edd2dcf0d75ce78367"><head>Scope and Contents</head><p>Vols. 1-3. Published monthly by the Neptune Service League of Brighton Beach.</p></scopecontent><acqinfo id="aspace_659c961537beded1eae8b0f2ec119353"><head>Immediate Source of Acquisition</head><p>Gift of Charles K. Stein, 2019 (CBH accession number 2022.039).</p></acqinfo></c><c id="aspace_5dd27b75d07d853dbc3f59468c0d0dce" level="file"><did><unittitle>News Digest</unittitle><unitdate datechar="creation" normal="1964/1980" type="inclusive">1964, 1972-1973, 1980</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_f0786ed9a3d1497e8fbe15b919a8de9e" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_4840c8469e97269b021a6cdf90df6b6a"><head>Scope and Contents</head><p>Vols. 7-22. "Published monthly...for the information and guidance of the employees of the Brooklyn Post Office."</p></scopecontent></c><c id="aspace_dd9c56d9bd65367c5bb5fb85329b32fc" level="file"><did><unittitle>News from Flatlands</unittitle><unitdate datechar="creation" normal="1984/1984">1984</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_47ba834082f9cfe5b7e7a0a9ca634e2f" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_47a0d7aafd518b44af6e32f29e4d550b"><head>Scope and Contents</head><p>Published jointly by the Flatlands Chamber of Commerce and the Flatlands Historical Foundation.</p></scopecontent></c><c id="aspace_36ce360d23a52cf85c422c457850060a" level="file"><did><unittitle>New York City Housing Authority Management News Letter - Red Hook Houses</unittitle><unitdate datechar="creation" normal="1967-03/1967-04" type="inclusive">1967 March-April</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_f00d3090e739e75b1d1e2ba932e556a0" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_6be76d048d6b0afd79cd59b87c6963ec"><head>Scope and Contents</head><p>Vol. XVIV No. 2</p></scopecontent></c><c id="aspace_e54fcbb15358e17838368eb76f9e89ee" level="file"><did><unittitle>The New York Navy Yard Shipworker</unittitle><unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_769a418df9f4b623f513a5591df840a3" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_b31b0d9e2b678efd1dda1742e59d5941"><head>Scope and Contents</head><p>Vol. III No. 33 and Vol. IV No. 17. "Official publication of the New York Navy Yard, Brooklyn, New York [Brooklyn Navy Yard]. Distributed free to all Yard employees."</p></scopecontent><relatedmaterial id="aspace_8bd896a6006b0421e87808d77914168a"><head>Related Materials</head><p>A full run of this publication is available on microfilm. See Brooklyn publications on microfilm collection (BCMS.0028).</p></relatedmaterial></c><c id="aspace_74cae463ec38767e39f9b93465618970" level="file"><did><unittitle>Nordic News (Nordisk Tidende)</unittitle><unitdate datechar="creation" normal="2002/2010" type="inclusive">2002-2005, 2010</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7a9ad7d9f3dbf50ce4f5d8ac4f529796" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_e5f31e640657fabf48e9cd26f7a83366"><head>Scope and Contents</head><p>The quarterly newsletter of the Scandinavian East Coast Museum.</p></scopecontent><relatedmaterial id="aspace_267393d3a9b484862ddf99e081eda13f"><head>Related Materials</head><p>Another publication with the same title is available on microfilm. See the Brooklyn periodicals on microfilm collection (BCMS.0028).</p></relatedmaterial></c><c id="aspace_aab0489a0830c630d39649aebdb49a89" level="file"><did><unittitle>Nuggets</unittitle><unitdate datechar="creation" normal="1930/1949" type="inclusive">1930-1949</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ac9076cb50e1bd7708f180cf72e99a70" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_82d45ce76c0b3fb8d45a3ffd56925ae4"><head>Scope and Contents</head><p>Issues from Vols. 7-43. Published by George W. Pease and Son, Inc., funeral directors, Nostrand Avenue.</p></scopecontent></c><c id="aspace_aa93c07b91c240d2b839493560040d82" level="file"><did><unittitle>The Old Stone House Gazette</unittitle><unitdate datechar="creation" normal="2006/2006">2006 Winter/Spring</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_62f0619c3dd6f2db92d89650f6f4444b" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_316bf1effd1b5ce0fd0bdff8ef3b6098"><head>Scope and Contents</head><p>"A newsletter for members and friends of the Old Stone House."</p></scopecontent></c><c id="aspace_a6187d4757b1044e01d7bad0e04b23a3" level="file"><did><unittitle>The Paragon Progressive</unittitle><unitdate datechar="creation" normal="1966/1971" type="inclusive">1966-1971</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_654b4636387d6b11ead6915311f1eeed" label="Mixed Materials" type="Box">4</container><container parent="aspace_654b4636387d6b11ead6915311f1eeed" type="Folder">1966-1970</container><container altrender="Aptecker Custom Box 2" id="aspace_e2204e3e1aeb52ae85a495bffb8859b5" label="Mixed Materials" type="Box">5</container><container parent="aspace_e2204e3e1aeb52ae85a495bffb8859b5" type="Folder">1971</container></did><scopecontent id="aspace_2c58fd7aaf5ff4102d4c9f16e8e04615"><head>Scope and Contents</head><p>Vol. 1 Nos. 1-2, Vol. 2 No. 3. Published by the Paragon Progressive Federal Credit Union and Paragon Progressive Community Association, Inc.</p></scopecontent></c><c id="aspace_329d54c9ad016de30d5675b31f8bc0b5" level="file"><did><unittitle>Positive Focus</unittitle><unitdate datechar="creation" normal="2003/2003">2003</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_6e7c7c2efb847316148a4bd6fd15bc08" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_f3fd71aff54a0fba0b5b152f82023a35"><head>Scope and Contents</head><p>Nos. 15-17. Published by Positive Focus, Inc., a nonprofit center for emerging photoartists.</p></scopecontent><relatedmaterial id="aspace_887f9addf42d01c86706badb14084d60"><head>Related Materials</head><p>The collection Real Brooklyn, a day in our lives photographs (2007.041) documents a 2003 Positive Focus exhibition.</p></relatedmaterial></c><c id="aspace_df4f54277d29a10c2fad8105f5dcd520" level="file"><did><unittitle>The Red Legged Devil</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_ba3d2ad53e3f7b5ed606862053ae2ff0" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_c3aa742fa3f02c5cd00b2088c8ea2132"><head>Scope and Contents</head><p>Vol. 6 No. 2. The newsletter of the Society for the Historical Preservation of the Brooklyn State Militia Infantry.</p></scopecontent><relatedmaterial id="aspace_e7522f68bbc3efc73840dd8dbabe4b82"><head>Related Materials</head><p>See also 14th Brooklyn Society News.</p></relatedmaterial></c><c id="aspace_5ddad053d0d8f9e76860a58c16524f5b" level="file"><did><unittitle>Republican Report</unittitle><unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_bbff0fbeff8057cef19ff499810e6808" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_ed36f71ff30115465e59ffa5631c8a29"><head>Scope and Contents</head><p>Vols. 14-15. Published by the Douglas MacArthur Republican Club, Brooklyn.</p></scopecontent></c><c id="aspace_eebc364b93c4f030c811086997acaee5" level="file"><did><unittitle>Sendout</unittitle><unitdate datechar="creation" normal="1991/1998" type="inclusive">1991-1998</unitdate><container altrender="Aptecker Custom Box 2" id="aspace_a3a6f6a0294035cef31fe4cf98a4bee6" label="Mixed Materials" type="Box">5</container></did><scopecontent id="aspace_58e39a89a9a94eb71048450c71480485"><head>Scope and Contents</head><p>Employee publication at Brooklyn Union (formerly Brooklyn Union Gas).</p></scopecontent><relatedmaterial id="aspace_a3a2d29281e819901002a69ec65d8e5e"><head>Related Materials</head><p>See also Brooklyn Union's New York, Gas Works, Starline.</p></relatedmaterial></c><c id="aspace_9624bb8ad17e24bca472eb63dde41b53" level="file"><did><unittitle>SIAC News</unittitle><unitdate datechar="creation" normal="1998-07/1998-07">1998 July</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_78536cfb9ba4deafce0c7a58c2e054db" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_58a512799f96836cc916d828d5a38cae"><head>Scope and Contents</head><p>Vol. XVI No. 6. A publication for employees of Securities Industry Automation Corporation, MetroTech Center, Brooklyn.</p></scopecontent></c><c id="aspace_5efdb7f2db40e5badf73db9bdd608fa8" level="file"><did><unittitle>So This Is Flatbush</unittitle><unitdate datechar="creation" normal="1986/1986">1986 Summer</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_69733589951727063bd26f8c774caa48" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_735c37081371ea481c93678047b3b75a"><head>Scope and Contents</head><p>Vol. 9 No. 3. Published by the Flatbush Development Corporation.</p></scopecontent></c><c id="aspace_ad4eeeeb459d253d5a418bd6a44a91b0" level="file"><did><unittitle>The Spirit of Augustana</unittitle><unitdate datechar="creation" normal="1985/1985">1985 Fall</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_be830992ed087f298336ddce2f5c4899" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_01223ed55630743637d5c02e483a3d72"><head>Scope and Contents</head><p>Published by Augustana Lutheran Home, Bensonhurst.</p></scopecontent></c><c id="aspace_d07e4ea23fc597eb8a28c5cf411a5890" level="file"><did><unittitle>The Spirit of Flatbush</unittitle><unitdate datechar="creation" normal="1975/1992" type="inclusive">1975, 1992</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_dfe26b6ac4cb55fd454b672f93e1ad68" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_769ca5741f047fb207a4443ea2594547"><head>Scope and Contents</head><p>Vol. 2 No. 6 and Vol. 5 No. 4. Published quarterly by the Flatbush Historical Society and Town of Flatbush (Civic and) Cultural Association, Inc.</p></scopecontent></c><c id="aspace_585efed50e0a22b0c2496d550f7df619" level="file"><did><unittitle>The Staff</unittitle><unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_4add34bf2b64e66d7756b4cf1720d996" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_9c4e765ea7038a84bd7f9d83146315c0"><head>Scope and Contents</head><p>Vols. 1-2. "A paper to be published regularly by Brooklyn College Staff. It is a political paper, exressing the program of the Communist Party, with especial reference to the problems of teachers and students in Brooklyn College."</p><p>The first issue's masthead reads "Brooklyn College Staff" and Vol. 2 No. 3 reads "Student and Staff." All other issues in the collection are titled "The Staff."</p></scopecontent></c><c id="aspace_8763e15a9e8108b2da3246435587775c" level="file"><did><unittitle>Starline</unittitle><unitdate datechar="creation" normal="1991/1991">1991 Fall</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_7b612ca6acc9dcbf6fd9eaf3682f7b0f" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_b6217219baffca7069b1164de1c8830d"><head>Scope and Contents</head><p>Published by Brooklyn Union Gas.</p></scopecontent><relatedmaterial id="aspace_203fb97ac94846a7537289ec61c22015"><head>Related Materials</head><p>See also Brooklyn Union's New York, Sendout, and Gas Works.</p></relatedmaterial></c><c id="aspace_8dadd1b9d5eb9bcdb6b0ca8cabd95c01" level="file"><did><unittitle>The Third Rail</unittitle><unitdate datechar="creation" normal="1975-01/1975-03" type="inclusive">1975 January-March</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_74aa31da69cf5c12029b915442e86f3d" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_d14623c9b8de22396c33585c2abafea6"><head>Scope and Contents</head><p>Vol. 1 No. 3. This publication is not Brooklyn-specific but the bulk of this issue is devoted to reprinting a 1906 article from the official publication of the Brooklyn Rapid Transit Employees' Benefit Association.</p></scopecontent></c><c id="aspace_8ebe35dab1d646c3143079279db3a31a" level="file"><did><unittitle>Tzivos HaShem Children's Newsletter</unittitle><unitdate datechar="creation" normal="1989/1989">1989 Summer</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c7150177bae5005398953a503d4886fd" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_05fda34953414a0d41c21a99f48f2e77"><head>Scope and Contents</head><p>Vol. 8 No. 5. Published by Machne Israel, Inc. Tzvios HaShem.</p></scopecontent></c><c id="aspace_417595b6be9a672764d42d04947a539a" level="file"><did><unittitle>Urban Outdoors Review</unittitle><unitdate datechar="creation" normal="1997/1997">1997 Summer/Fall</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_d362a3af0cb11b1a3adb56a75d76f060" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_ff7eccf09500cf8a63b9ad6686226612"><head>Scope and Contents</head><p>Published by Neighborhood Open Space Coalition/Friends of Gateway.</p></scopecontent><relatedmaterial id="aspace_1372f9bbd7886652ef15474ddb8bba5f"><head>Related Materials</head><p>See also Gateway.</p></relatedmaterial></c><c id="aspace_9f7c2e6a9780d928aaa157f07737719d" level="file"><did><unittitle>Wash Ave</unittitle><unitdate datechar="creation" normal="2012/2012">2012 Spring</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_63a1ebdeff86622093294db4a2a0b812" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_91659dac693f35b2a3060da95424f410"><head>Scope and Contents</head><p>A publication of the Washington Avenue-Prospect Heights Association.</p></scopecontent></c><c id="aspace_9f52e885a5ef8e19f2962b6f9d29d9a9" level="file"><did><unittitle>Ye Long Islande Almanack</unittitle><unitdate datechar="creation" normal="1930/1931" type="inclusive">1930-1931</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_51a05866db97c35de837efe772e9a114" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_4f7d1d786e348c06216c042dae71a42f"><head>Scope and Contents</head><p>Vol. 1 Nos. 1-6. Published by the Home Title Insurance Company.</p></scopecontent></c><c id="aspace_f217132f39c99efef36c816874d1e579" level="file"><did><unittitle>Youth on the Rise</unittitle><unitdate datechar="creation">1993 January</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_d75debde7a474f9f9822e6b474391769" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_2e00402feb676c9f5db6536b368f9eb1"><head>Scope and Contents</head><p>"The Newspaper of Project Reach Youth"'s journalism program Project Express. "Written and developed by teens from Park Slope and Sunset Park."</p></scopecontent></c><c id="aspace_40bcf782a0de6171714265aabb81f7b7" level="file"><did><unittitle>YWCA News, Activities, and Class Schedules</unittitle><unitdate datechar="creation" normal="1994/1997" type="inclusive">1994-1995, 1997</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_71ada8b45d5a1c1089c6c84736ece01a" label="Mixed Materials" type="Box">4</container><container parent="aspace_71ada8b45d5a1c1089c6c84736ece01a" type="Folder">1994-1995</container><container altrender="Aptecker Custom Box 2" id="aspace_bc19461a57124ae1eb8f530e1829d573" label="Mixed Materials" type="Box">5</container><container parent="aspace_bc19461a57124ae1eb8f530e1829d573" type="Folder">1997</container></did><relatedmaterial id="aspace_c0fd270adfc110b54cd57db62bb35b47"><head>Related Materials</head><p>See also Brooklyn YWCA Wire.</p></relatedmaterial></c><c id="aspace_54d83742c8efae44fe202035106dc766" level="file"><did><unittitle>YWCA Wire</unittitle><unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="Aptecker Custom Box 2" id="aspace_517aa668d75029efbaa99cb8bd2534fa" label="Mixed Materials" type="Box">5</container></did><scopecontent id="aspace_ae70357668f4878986d0000cb0a7c2c5"><head>Scope and Contents</head><p>Vols. 3-4</p></scopecontent><relatedmaterial id="aspace_c38c62eca3e165ed78fd1582a37674aa"><head>Related Materials</head><p>See also YWCA News, Activities, and Class Schedules.</p></relatedmaterial></c></dsc>
+</archdesc>
 </ead>
