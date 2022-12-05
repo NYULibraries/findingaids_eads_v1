@@ -1,155 +1,112 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_247_brooklyn_scrapbooks.html">arc_247_brooklyn_scrapbooks</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Brooklyn scrapbooks collection
-                    <num>ARC.247</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>August 9, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-05-01T16:14-0400</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Brooklyn scrapbooks collection</unittitle>
-            <unitid>ARC.247</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid969010" type="Volume" label="Mixed materials">ARC.247 2 0f 10</container>
-            <container id="cid969011" type="Volume" label="Mixed materials">ARC.247 1 0f 10</container>
-            <container id="cid969008" type="Volume" label="Mixed materials">ARC.247 4 0f 10</container>
-            <container id="cid969009" type="Volume" label="Mixed materials">ARC.247 3 0f 10</container>
-            <container id="cid969003" type="Volume" label="Mixed materials">ARC.247 9 0f 10</container>
-            <container id="cid969007" type="Volume" label="Mixed materials">ARC.247 5 0f 10</container>
-            <container id="cid969006" type="Volume" label="Mixed materials">ARC.247 6 0f 10</container>
-            <container id="cid1002002" type="Carton" label="Mixed materials">ARC.247 2 of 2</container>
-            <container id="cid969005" type="Volume" label="Mixed materials">ARC.247 7 0f 10</container>
-            <container id="cid989003" type="Volume" label="Mixed materials">ARC.247 10 of 10</container>
-            <container id="cid1002001" type="Carton" label="Mixed materials">ARC.247 1 of 2</container>
-            <container id="cid969004" type="Volume" label="Mixed materials">ARC.247 8 0f 10</container>
-            <physdesc>
-                <extent>5.0 Linear feet</extent>
-                <extent>in two record cartons and ten oversize loose volumes.</extent>
-            </physdesc>
-            <unitdate normal="1830/1989" type="inclusive">circa 1840 to 1979</unitdate>
-            <abstract id="ref4" label="Abstract">The Brooklyn scrapbooks collection consists of nine oversize volumes containing ephemeral materials documenting several subjects in Brooklyn from the 1840s to the 1970s. Subjects include the Henry Ward Beecher adultery trial of 1875, the Brooklyn Theatre fire of 1876, the Coney Island Mardi Gras celebrations of 1913 and 1924, the 1935 proposition of the New York City and Long Island parkway system, World War I and World War II, the Prospect Park centennial in 1966, and several additional topics generally relating to history, business, politics, genealogy, real estate, and social and cultural life in Brooklyn, Long Island, and New York City. Compilers of the scrapbooks include Josephine C. Frost, Spencer Hoag, Helen Cory Mercier, and Herman Nickerson, though the origins of the majority of the scrapbooks are unknown. Materials in the scrapbooks include clippings and obituaries (many from the 
-                <emph render="italic">Brooklyn Daily Eagle</emph> newspaper), programs, pamphlets, menus, magazines, invitations and announcements, press releases, theater playbills, poems, postcards, illustrations, cartoons, and photographs. Also included is a scrapbook documenting a 1902 trip to Europe taken by Brooklyn resident Loomis Havemeyer (1886-1971) and his family.</abstract>
-            <origination label="creator">
-                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf" role="Compiler (com)">Frost, Josephine C.</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf" role="Compiler (com)">Havemeyer, Loomis, b. 1886</persname>
-            </origination>
-            <origination label="creator">
-                <persname source="local" role="Compiler (com)">Hoag, Spencer</persname>
-            </origination>
-            <origination label="creator">
-                <persname source="local" role="Compiler (com)">Mercier, Helen Cory</persname>
-            </origination>
-            <origination label="creator">
-                <persname source="local" role="Compiler (com)">Nickerson, Herman</persname>
-            </origination>
-        </did>
-        <accessrestrict id="ref5">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <acqinfo id="ref1">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Portions of the collection were the gift of Laura M. Brewster, Don Frica, Josephine C. Frost, George H. Gray, Spencer Hoag, Helen Cory Mercier, and William A. Robbins, dates unknown. Sources and dates of acquisition for remaining scrapbooks in the collection are unknown.</p>
-        </acqinfo>
-        <processinfo id="ref3">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-            <p>The collection combines the accessions 1977.128, 1978.081, 1978.129, 1985.067, and 1991.046.</p>
-        </processinfo>
-        <prefercite id="ref2">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Brooklyn scrapbooks collection, ARC.247, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <controlaccess>
-            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Beecher, Henry Ward, 1813-1887</persname>
-            <corpname source="local">Coney Island Carnival Company (Brooklyn, New York, N.Y.). Executive Committee.</corpname>
-            <persname source="local">Cory, Maude Wilson, 1879-1964</persname>
-            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Cutter, Bloodgood H.,  (Bloodgood Haviland), 1817-1906</persname>
-            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Frost, Josephine C.</persname>
-            <corpname rules="dacs" source="local">Kings County Historical Society.</corpname>
-            <corpname source="local">Prospect Park Centennial Committee.</corpname>
-            <persname source="local">Tredwell, Warren C.</persname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History</geogname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Politics and government</geogname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
-            <subject source="lcgft">Carnival |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Centennial celebrations, etc.</subject>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
-            <genreform source="aat">Correspondence</genreform>
-            <geogname source="lcsh">Europe |x Description and travel</geogname>
-            <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Fires |x Casualties |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Genealogy </subject>
-            <subject source="lcsh">History |x Societies, etc.</subject>
-            <genreform source="aat">Illustrations (layout features)</genreform>
-            <geogname source="lcsh">Long Island (N.Y.)</geogname>
-            <genreform source="aat">Magazines (periodicals)</genreform>
-            <genreform source="aat">Maps</genreform>
-            <genreform source="aat">Menus</genreform>
-            <geogname source="lcsh">New York (N.Y.)</geogname>
-            <genreform source="aat">Obituaries</genreform>
-            <genreform source="aat">Pamphlets</genreform>
-            <subject source="lcgft">Parkways |z New York (State) |z Long Island</subject>
-            <subject source="lcgft">Parkways |z New York (State) |z New York</subject>
-            <genreform source="aat">Photographs</genreform>
-            <genreform source="aat">Picture postcards</genreform>
-            <genreform source="aat">Playbills</genreform>
-            <genreform source="aat">Poems</genreform>
-            <genreform source="aat">Press releases</genreform>
-            <genreform source="aat">Printed ephemera</genreform>
-            <genreform source="aat">Programs (documents)</genreform>
-            <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
-            <subject source="lcsh">Real estate business |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Real property |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Scrapbooks</genreform>
-            <subject source="lcsh">Theater |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Theaters |x Fires and fire prevention |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Theaters |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Trials (Adultery) |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Voyages and travels</subject>
-            <subject source="lcsh">World War, 1914-1918</subject>
-            <subject source="lcsh">World War, 1939-1945</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_247_brooklyn_scrapbooks/">arc_247_brooklyn_scrapbooks</eadid><filedesc><titlestmt><titleproper>Guide to the Brooklyn scrapbooks collection <num>ARC.247</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2022-12-05T19:52:46</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>November 2022</date><item>Revised by Diana Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Brooklyn scrapbooks collection</unittitle>
+    <origination label="Creator">
+      <persname role="com" source="local">Mercier, Helen Cory</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="com" source="local">Nickerson, Herman</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="com" rules="aacr" source="naf">Frost, Josephine C.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="com" source="local">Hoag, Spencer</persname>
+    </origination>
+    <origination label="Creator">
+      <persname role="com" rules="aacr" source="naf">Havemeyer, Loomis</persname>
+    </origination>
+    <unitid>ARC.247</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">7.2 Linear Feet</extent>
+      <extent altrender="carrier">in two record cartons, six flat boxes and two volumes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1840/1979" type="inclusive">circa 1840 to 1979</unitdate>
+    <abstract id="aspace_9428612720f309ef26cb7f595cb579f0">The Brooklyn scrapbooks collection consists of 22 volumes containing ephemeral materials documenting several subjects in Brooklyn from the 1840s to the 1970s.</abstract>
+  </did>
+  <accessrestrict id="aspace_4311a0769f49b997a0af6c47e4dc0f55">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction. The collection may only be used in the library and is not available through interlibrary loan. Requests to view the collection must be made at least 48 hours in advance of visit.</p>  </accessrestrict>
+  <acqinfo id="aspace_2c61f555a6c2b6602e3b6e48f159b5df">
+    <head>Immediate Source of Acquisition</head>
+<p>Portions of the collection were the gift of Laura M. Brewster, Don Fina, Josephine C. Frost, Spencer Hoag, Helen Cory Mercier, and William A. Robbins, and Gabriel Harrison, dates unknown.  Sources and dates of acquisition for remaining scrapbooks in the collection are unknown.</p>  </acqinfo>
+  <altformavail id="aspace_e927987986887a026f7ae117577ca728">
+    <head>Existence and Location of Copies</head>
+<p>The Brooklyn Theatre Fire scrapbook by Augustus Toedteberg has been photocopied for access and is available in the library under the call number F129.B7 B768 1876p.</p>  </altformavail>
+  <arrangement id="aspace_0652ef1f598598c7149085287e73910d">
+    <head>Arrangement</head>
+<p>This is an artifical collection and there is no formal arrangement.</p>  </arrangement>
+  <phystech id="aspace_f9b5774d54d03279e232cc084d9125ad">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_93055331060af79065a60b0f09feb322">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Brooklyn scrapbooks collection, ARC.247, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_59f9e339e0b3f39960df8933cbbb5ef9">
+    <head>Processing Information</head>
+<p>This collection combines the accessions 1977.128, 1978.081, 1978.129, 1985.067, and 1991.046 along with additional found-in-collection material.</p>  </processinfo>
+  <relatedmaterial id="aspace_558dff398ea9dceaee9e972fe15d7015">
+    <head>Related Materials</head>
+<p>Brooklyn Theatre Fire Relief Association Records (1977.049)</p><p>Plymouth Church of the Pilgrims and Henry Ward Beecher collection (ARC.212)</p><p>Henry F. Minton scrapbook (1977.271)</p><p>Plymouth Church publications and ephemera (1986.019)</p><p>Brooklyn Republican Party scrapbook (1977.077)</p><p>Bloodgood H. Cutter autograph (1974.240)</p><p>Brooklyn Playbills and Programs Collection (BCMS.0041): Park Theatre</p><p>Frank Jenks theater program collection (1992.023)</p><p>May B. Woodward scrapbook (1977.292)</p><p>Brooklyn theater collection (1977.041)</p><p>Kings County Historical Society records (ARC.058)</p>  </relatedmaterial>
+  <scopecontent id="aspace_87ea2b4fea7969c3c42208430c5fb360">
+    <head>Scope and Contents</head>
+<p>Subjects include the Henry Ward Beecher adultery trial of 1875, the Brooklyn Theatre fire of 1876, the Coney Island Mardi Gras celebrations of 1913 and 1924, the 1935 proposition of the New York City and Long Island parkway system, World War I and World War II, the Prospect Park centennial in 1966, and several additional topics generally relating to history, business, politics, genealogy, and social and cultural life in Brooklyn, Long Island, and New York City.  Compilers of the scrapbooks include Josephine C. Frost, Spencer Hoag, Helen Cory Mercier, and Herman Nickerson, though the origins of many of the scrapbooks are unknown.  Materials in the scrapbooks include clippings and obituaries (many from the <emph render="italic">Brooklyn Daily Eagle</emph> newspaper), programs, pamphlets, menus, magazines, invitations and announcements, press releases, theater playbills, poems, postcards, illustrations, cartoons, and photographs.  Also included is a scrapbook documenting a 1902 trip to Europe taken by Brooklyn resident Loomis Havemeyer (1886-1971) and his family.</p>  </scopecontent>
+  <userestrict id="aspace_c08aef3fce7570f56bc6fa19f91f239e">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Pamphlets</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Picture postcards</genreform>
+    <genreform source="aat">Illustrations (layout features)</genreform>
+    <subject source="lcsh">Genealogy</subject>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Playbills</genreform>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Menus</genreform>
+    <genreform source="aat">Obituaries</genreform>
+    <genreform source="aat">Press releases</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Intellectual life</geogname>
+    <genreform source="aat">Scrapbooks</genreform>
+    <genreform source="aat">Maps</genreform>
+    <genreform source="aat">Poems</genreform>
+    <subject source="lcsh">History |x Societies, etc.</subject>
+    <subject source="lcsh">World War, 1914-1918</subject>
+    <subject source="lcsh">Centennial celebrations, etc.</subject>
+    <subject source="lcsh">World War, 1939-1945</subject>
+    <geogname source="lcsh">Prospect Park (New York, N.Y.)</geogname>
+    <subject source="lcsh">Real property |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Parkways |z New York (State) |z New York</subject>
+    <subject source="lcsh">Parkways |z New York (State) |z Long Island</subject>
+    <subject source="lcsh">Voyages and travels</subject>
+    <genreform source="aat">Printed ephemera</genreform>
+    <genreform source="aat">Magazines (periodicals)</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x History</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Politics and government</geogname>
+    <subject source="lcsh">Trials (Adultery) |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Carnival |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Fires |x Casualties |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+    <subject source="lcsh">Theaters |x Fires and fire prevention |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Europe |x Description and travel</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social life and customs</geogname>
+    <subject source="lcsh">Theaters |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Theater |z New York (State) |z Kings County</subject>
+    <corpname rules="dacs" source="local">Kings County Historical Society</corpname>
+    <corpname source="local">Prospect Park Centennial Committee</corpname>
+    <corpname source="local">Coney Island Carnival Company (Brooklyn, New York, N.Y.). Executive Committee</corpname>
+    <persname rules="aacr" source="naf">Frost, Josephine C.</persname>
+    <persname rules="aacr" source="naf">Cutter, Bloodgood H. (Bloodgood Haviland)</persname>
+    <persname source="local">Cory, Maude Wilson</persname>
+    <persname rules="aacr" source="naf">Beecher, Henry Ward</persname>
+  </controlaccess>
+  <dsc><c id="aspace_5697bec18619f189ffd4f1c3165dbfec" level="item"><did><unittitle>A Brief History of Maude Wilson Cory</unittitle><origination label="Creator"><persname source="local">Mercier, Helen Cory</persname></origination><container altrender="Record Carton" id="aspace_6149c988891b9c3ae3b9e0e97f5ad86c" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_c25012f0e7051157b9bc1b66a278f322"><head>Scope and Contents</head><p>Newspaper clippings related to Brooklynite Maude Wilson Cory (1879-1964), "who was prominent in business and politics."</p></scopecontent><controlaccess><persname source="local">Cory, Maude Wilson</persname></controlaccess></c><c id="aspace_36f6ed9235d54388e5c67f11309c81ce" level="item"><did><unittitle>Personal scrapbook of Josephine C. Frost</unittitle><origination label="Creator"><persname rules="aacr" source="naf">Frost, Josephine C.</persname></origination><container altrender="Record Carton" id="aspace_2c65d1d5892a7a01581f67032d558e99" label="Mixed Materials" type="Box">1</container></did><bioghist id="aspace_9f77f0849d8a49f649ba98b6dbb67baa"><head>Biographical Note</head><p>Josephine C. Frost was a genealogist who lived in Brooklyn.</p></bioghist><scopecontent id="aspace_1f191d7fa427ea771064eb34666d0950"><head>Scope and Contents</head><p>Correspondence, clippings and photographs related to Frost's life and family.</p></scopecontent></c><c id="aspace_d410a91cd4aac8a63730ddeee09de0fa" level="item"><did><unittitle>Scrapbook of poems from different sources</unittitle><origination label="Creator"><persname source="local">Nickerson, Herman</persname></origination><unitdate datechar="creation" normal="1870-07-06/1870-07-06">1870 July 6</unitdate><container altrender="Record Carton" id="aspace_eeba1205d8cd772289bd17fa721ac935" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_44732049a74e82ac12d185f316dadc52"><head>Scope and Contents</head><p>Collected by Herman Nickerson, Northport, Long Island and with commentary in shorthand.</p></scopecontent></c><c id="aspace_fa0f7f49eca7d26299d5d99b422926a1" level="file"><did><unittitle>Politics, vols. 3-5</unittitle><origination label="Creator"><persname source="local">Hoag, Spencer</persname></origination><unitdate datechar="creation" normal="1887/1887">circa 1887</unitdate><container altrender="Record Carton" id="aspace_7f0039a032bbd9a3541253b793c7f1c6" label="Mixed Materials" type="Box">1</container></did><scopecontent id="aspace_a06082b8c3995a68beb3d334af40890e"><head>Scope and Contents</head><p>Three volumes of politics clippings from Brooklyn newspapers. Volume 3 has an index at the front.</p></scopecontent></c><c id="aspace_cfe8d953f51f788d85524ac3a1586080" level="item"><did><unittitle>[Clippings]</unittitle><origination label="source"><persname source="local">Brewster, Laura M.</persname></origination><unitdate datechar="creation" normal="1850/1890" type="inclusive">circa 1850s-1880s</unitdate><container altrender="Record Carton" id="aspace_c6d3acd4643b44d31f188b36999cd497" label="Mixed Materials" type="Box">2</container></did><controlaccess><persname role="fmo" source="local">Brewster, Laura M.</persname></controlaccess></c><c id="aspace_0185d4d1572cac20f6083d2b5b00a374" level="item"><did><unittitle>Miscellaneous Historical Notes</unittitle><unitdate datechar="creation" normal="1929/1951" type="inclusive">1929-1951</unitdate><container altrender="Record Carton" id="aspace_b5a4fb714025e2368ba67b2a530b1d8e" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_4517f43dcdaa2670207d0a6bd1cfb4cb"><head>Scope and Contents</head><p>Clippings related to historic buildings in the Northeast region of the United States.</p></scopecontent></c><c id="aspace_7e3b811f7739090c3aca46dccc535ef3" level="item"><did><unittitle>Poems by Bloodgood Cutter</unittitle><unitdate datechar="creation" normal="1861/1895" type="inclusive">1861-1895</unitdate><container altrender="Record Carton" id="aspace_5fcad7abb6d14762d09ffca835541243" label="Mixed Materials" type="Box">2</container></did><controlaccess><persname rules="aacr" source="naf">Cutter, Bloodgood H. (Bloodgood Haviland)</persname></controlaccess></c><c id="aspace_f2fa17f5efe7baf9d8c95e580805a601" level="file"><did><unittitle>[Eagle clippings]</unittitle><origination label="Creator"><persname source="local">Fina, Donald P.</persname></origination><unitdate datechar="creation" normal="1907/1909" type="inclusive">1907-1909</unitdate><container altrender="Record Carton" id="aspace_117fb79b2883191b579054c553bfc4bb" label="Mixed Materials" type="Box">2</container></did><scopecontent id="aspace_34b5d2a457426ce91b5391938b878ee2"><head>Scope and Contents</head><p>Four volumes of clippings from the Brooklyn Daily Eagle. There are two volumes with clippings related to vital statistics (obituaries, marriage announcements etc.) and one each on real estate and transit.</p></scopecontent><acqinfo id="aspace_8693add0d12ca06a603a8bdd87886ee9"><head>Immediate Source of Acquisition</head><p>These scrapbooks appear to have been compiled by Donald P. Fina, although one label reads "Don Frica."</p></acqinfo></c><c id="aspace_5517bd0bde0012f002f59d3add503042" level="item"><did><unittitle>Clippings of portraits and cartoons of the Beecher-Tilden Trial</unittitle><origination label="Creator"><corpname source="local">Morris &amp; Pearsall</corpname></origination><unitdate datechar="creation" normal="1875/1875">1875</unitdate><container altrender="Large Flat Box 3" id="aspace_c7019e09d1593291958fa4107f51d394" label="Mixed Materials" type="Box">3</container></did></c><c id="aspace_c974dffb021e248b85a5778e331d3d22" level="item"><did><unittitle>Park Theatre Broadsides</unittitle><origination label="source"><persname source="local">Harrison, Gabriel</persname></origination><unitdate datechar="creation" normal="1863/1864" type="inclusive">1863-1864</unitdate><container altrender="Large Flat Box 3" id="aspace_b1bd5386a4a160595256f9da24857b91" label="Mixed Materials" type="Box">3</container></did><controlaccess><persname role="fmo" source="local">Harrison, Gabriel</persname></controlaccess></c><c id="aspace_258fe753f54ff08a1912745e2efce212" level="item"><did><unittitle>Parkway System - New York City and Long Island</unittitle><container altrender="Owens Custom Boxes_32" id="aspace_80f33cc8a1c38df1a0d759a41cdbfcb2" label="Mixed Materials" type="Box">4</container></did><scopecontent id="aspace_dab7d021555aace305ef1e5bdc719ce3"><head>Scope and Contents</head><p>Black and white photographs documenting the construction of various parkways around New York City and Long Island. Also includes one folded map at front.</p></scopecontent></c><c id="aspace_bfd4a203bce731a8fa0da5acc12064f2" level="item"><did><unittitle>Loomis Havemeyer vacation scrapbook</unittitle><unitdate datechar="creation" normal="1902/1902">1902</unitdate><container altrender="Medium Flat Box" id="aspace_ccceb1fba417a11556f562f383fe2fc6" label="Mixed Materials" type="Box">5</container></did><scopecontent id="aspace_f7299bcb050c3c29b41b375be07e346d"><head>Scope and Contents</head><p>Documents a 1902 trip to Europe taken by Brooklyn resident Loomis Havemeyer (1886-1971) and his family.</p></scopecontent></c><c id="aspace_f31c10a5da534e1c5d4b74be580d670b" level="item"><did><unittitle>Prospect Park Centennial scrapbook</unittitle><unitdate datechar="creation" normal="1966/1966">1966</unitdate><container altrender="Large Flat Box 2" id="aspace_0ab2f7b11027588b5b8c1f6751b69789" label="Mixed Materials" type="Box">6</container></did><scopecontent id="aspace_d7b5a9213c9203c4140af62dc437a341"><head>Scope and Contents</head><p>"To Robert E. Blum from Jack [Ray; coordinator] and [Miss] Jimi [Kadrey; assistant]." Contains correspondence, clippings, photographs and ephemera as well as a cloth banner.</p></scopecontent></c><c id="aspace_00a86fff444d99c58c61df4084010e33" level="item"><did><unittitle>[Preutz scrapbook]</unittitle><unitdate datechar="creation" normal="1930/1974" type="inclusive">1930-1974</unitdate><container id="aspace_5266b1c562b0202bd38079f931554569" label="Mixed Materials" type="Box">7</container></did><scopecontent id="aspace_95d057a5ebd985cf9a5346ce7d072990"><head>Scope and Contents</head><p>This scrapbook has multiple pieces of correspondence loose at front addressed to Alex E. Preutz. It contains clippings and ephemera related to New York City politics and sports as well as military and veteran news (primarily circa 1940s-1950s). Loose at the front is one issue of New York News magazine, October 13 1974.</p></scopecontent></c><c id="aspace_b4702bcd75c1008af5099833c47bfe94" level="item"><did><unittitle>Kings County Historical Society scrapbook</unittitle><unitdate datechar="creation" normal="1911/1920" type="inclusive">circa 1911-1920</unitdate><container id="aspace_44585935e1e62e07f803f0678523c16e" label="Mixed Materials" type="Box">7</container></did><scopecontent id="aspace_31a8f225830025982183fa9183ff7cac"><head>Scope and Contents</head><p>Ephemera and publications from the Kings County Historical Society.</p></scopecontent><controlaccess><corpname rules="dacs" source="local">Kings County Historical Society</corpname></controlaccess></c><c id="aspace_83309cfcfa79265c92d4bd715e86fb4e" level="item"><did><unittitle>Brooklyn Theatre Fire scrapbook compiled by Augustus Toedteberg</unittitle><origination label="Creator"><persname rules="aacr" source="naf">Toedteberg, Augustus</persname></origination><unitdate datechar="creation" normal="1876/1876">1876</unitdate><container id="aspace_d6730ea1ff9bef6cc1b15f8ef06fa74e" label="Mixed Materials" type="Box">8</container></did><phystech id="aspace_59f67c51936f585d472b97ac007f97a8"><head>Physical Characteristics and Technical Requirements</head><p>A photocopied version of this scrapbook is available in the library under the call number F129.B7 B768 1876p and should be used in place of this original if possible.</p></phystech></c><c id="aspace_779847e67a4fb0d262407d1db5abe887" level="item"><did><unittitle>[Coney Island] Mardi Gras "Frolics of 1924"</unittitle><unitdate datechar="creation" normal="1913/1924" type="inclusive">1913-1924</unitdate><container id="aspace_fda783beec461853ca77678ac70e2842" label="Mixed Materials" type="Box">9</container></did><scopecontent id="aspace_0c89bbeb68d013755c8115ceab6cc569"><head>Scope and Contents</head><p>Scrapbook of clippings related to Coney Island Mardi Gras, 1924. One photograph of Coney Island Mardi Gras Executive Committee, 1913. One letter from Coney Island Business Men's Club, undated.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>
