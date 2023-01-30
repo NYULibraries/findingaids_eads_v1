@@ -1,138 +1,84 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arc_042_hasbrook_navy_yard.html ">arc_042_hasbrook_navy_yard</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Louise Hasbrook Brooklyn Navy YMCA collection
-                    <num>ARC.042</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>July 8, 2010</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-12-01T10:11-0500</date>
-            </creation>
-            <langusage>English.</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Louise Hasbrook Brooklyn Navy YMCA collection</unittitle>
-            <unitid>ARC.042</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid322001" type="Oversize" label="Text">Box OS-20</container>
-            <container id="cid361005" type="Box" label="Mixed materials">A0130</container>
-            <physdesc>
-                <extent>0.19 Linear feet</extent>
-                <extent>in eight folders and one oversize box.</extent>
-            </physdesc>
-            <unitdate normal="1925/1986" type="inclusive">1925-1986</unitdate>
-            <abstract id="ref14" label="Abstract">The Brooklyn Navy YMCA, founded in 1899 and located at 167 Sands Street near the Brooklyn Navy Yard, was the first permanent branch of the Navy YMCA. It closed its doors in 1964, having served an estimated 47 million military personnel. Louise Hasbrook worked as a secretary at the Brooklyn Navy YMCA beginning in 1934. In 1959, she was promoted to the position of administrative assistant and secretary to the Executive. The Louise Hasbrook Brooklyn Navy YMCA collection spans the period 1925 to 1986 and contains various items compiled by Hasbrook during her time as a secretary and administrative assistant at the Brooklyn Navy YMCA. The materials document the activities of the Brooklyn Navy YMCA from 1925 until its closing in 1964; there is also a small number of items pertaining to Louise Hasbrook's subsequent employment outside the Brooklyn Navy YMCA and her personal interests. Items include reports, newspaper clippings, programs, newsletters, correspondence, photographs, certificates, and various ephemera.</abstract>
-            <origination label="creator">
-                <persname source="local" role="Compiler (com)">Hasbrook, Louise</persname>
-            </origination>
-        </did>
-        <acqinfo id="ref8">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Louise Hasbrook, 1988.</p>
-        </acqinfo>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Louise Hasbrook Brooklyn Navy YMCA collection, ARC.042, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref13">
-            <head>Biographical Note</head>
-            <p>Louise Hasbrook worked as a secretary at the Brooklyn Navy YMCA beginning in 1934. In 1959, she was promoted to the position of administrative assistant and secretary to the Executive, where she dealt with policy relating to personnel, payroll, business operations, and general administration.</p>
-        </bioghist>
-        <bioghist id="ref5">
-            <head>Historical Note</head>
-            <p>The Young Men's Christian Association (YMCA) was founded in London in 1844 by George Williams, a sales assistant in a draper's shop, as a way to help struggling young men find solace from the streets through Bible study and prayer. The first United States YMCA branch was established in Boston in 1851, and soon the organization underwent an explosive outgrowth in popularity, with branches being established in major cities across the country. New York City's branch was established in 1852, and Brooklyn's in 1853.</p>
-            <p>Gradually the YMCA transformed on a national scale into a seminal social institution offering dormitories, athletic facilities, and summer camps. Along with these new functions, the YMCA also took on a greater involvement in social issues and began advocating for social equality and performing relief work. In reflection of its progressive social stance, the YMCA also began welcoming women, children, and all ethnic groups into its community.</p>
-            <p>During the Civil War (1861-1865), the YMCA extended its activities to the U.S. Armed Forces, with YMCA members giving over one million Bibles to soldiers. In response to the Navy's request to continue offering services in peacetime, in 1899 the YMCA established its first permanent branch of the Navy YMCA in Brooklyn, located at 167 Sands Street near the Brooklyn Navy Yard. Facilities were also erected on the premises of the Navy Yard itself in 1902, and throughout the first half of the twentieth century the Brooklyn Navy YMCA flourished as a haven offering religious, social, and entertainment services to members of the armed forces. It closed its doors in 1964, having served an estimated 47 million military personnel.</p>
-            <list numeration="arabic" type="ordered">
-                <head>Sources:</head>
-                <item>Bayless, Pamela. 
-                    <emph render="italic">The YMCA at 150: A History of the YMCA of Greater New York, 1852-2002</emph>. New York: YMCA of Greater New York, c2002.</item>
-                <item>YMCA of the USA. "History of the YMCA Movement." Accessed July 8, 2010. http://www.ymca.net/about_the_ymca/history_of_the_ymca.html</item>
-            </list>
-        </bioghist>
-        <userestrict id="ref3">
-            <head>Conditions Governing Use note</head>
-            <p>Reproduction rights for photographs have not been evaluated. Please consult library staff for more information.</p>
-        </userestrict>
-        <accessrestrict id="ref2">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <scopecontent id="ref1">
-            <head>Scope and Contents</head>
-            <p>The Louise Hasbrook Brooklyn Navy YMCA collection spans the period 1925 to 1986 and contains various items compiled by Hasbrook during her time as a secretary and administrative assistant at the Brooklyn Navy YMCA. The materials document the activities of the Brooklyn Navy YMCA from 1925 until its closing in 1964; there is also a small number of items pertaining to Louise Hasbrook's subsequent employment outside the Brooklyn Navy YMCA and her personal interests. The collection is arranged in eight folders and one oversize box. Items include reports; newspaper clippings; dinner programs; issues of the 
-                <emph render="italic">Armed Services News</emph>, 
-                <emph render="italic">Army Navy YMCA Bulletin</emph>, and 
-                <emph render="italic">Armed Services YMCA</emph> newsletters; maps showing the location of the Brooklyn Navy YMCA and locations of all Armed Services branches of the YMCA and USO Clubs in the United States; programs for the 1945 Girls' Service Organization Recognition Night and the commissioning of the USS 
-                <emph render="italic">Franklin D. Roosevelt</emph>; correspondence; informational pamphlets; wedding announcements; an agreement for the installation of an emergency alarm service; a certificate of cccupancy; a notice pertaining to President Eisenhower's commendation of the Brooklyn Navy YMCA; a listing of naval officers; a recommendation letter for Louise Hasbrook from her employer at the YMCA; and photographs of dances, receptions, senior naval officers, the Brooklyn Navy YMCA building at 167 Sands Street, and various officers and YMCA employees. The oversize box contains commendations and certificates for the Brooklyn Navy YMCA from the Unites States Navy Department, the United States War Department, the American National Red Cross, and the United States Citizens Service Corps. Items unrelated to the Brooklyn Navy YMCA include a booklet, brochure, and postcards pertaining to the Lyndhurst Castle at Tarrytown, N.Y.</p>
-        </scopecontent>
-        <processinfo id="ref11">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-            <p>The collection combines the accessions 1988.021 and V1988.038.</p>
-        </processinfo>
-        <otherfindaid id="ref12">
-            <head>Other Finding Aids note</head>
-            <p>Item-level descriptions and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>
-        </otherfindaid>
-        <controlaccess>
-            <corpname source="local">Brooklyn Young Men's Christian Association. Naval Branch.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Franklin D. Roosevelt (Aircraft carrier).</corpname>
-            <persname source="local">Hasbrook, Louise</persname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Lyndhurst (Tarrytown, N.Y.).</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">New York Naval Shipyard.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">United States. Navy.</corpname>
-            <corpname source="local">YMCA of the USA. Armed Services Dept..</corpname>
-            <genreform source="aat">Brochures</genreform>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Bulletins</genreform>
-            <genreform source="aat">Certificates</genreform>
-            <subject source="lcsh">Church work with military personnel |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Correspondence</genreform>
-            <subject source="lcsh">Historic buildings |z New York (State) |z Tarrytown</subject>
-            <genreform source="aat">Magazines (periodicals)</genreform>
-            <subject source="lcsh">Military life</subject>
-            <genreform source="aat">Newsletters</genreform>
-            <genreform source="aat">Pamphlets</genreform>
-            <genreform source="aat">Photographs</genreform>
-            <genreform source="aat">Picture postcards</genreform>
-            <genreform source="aat">Programs (documents)</genreform>
-            <subject source="lcsh">Ships |x Launching</subject>
-            <geogname source="lcsh">Tarrytown (N.Y.)</geogname>
-            <subject source="lcsh">Women and the military |z New York (State) |z Kings County</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_042_hasbrook_navy_yard/">arc_042_hasbrook_navy_yard</eadid><filedesc><titlestmt><titleproper>Guide to the Louise Hasbrook Brooklyn Navy YMCA collection <num>ARC.042</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-01-30T15:49:21</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Louise Hasbrook Brooklyn Navy YMCA collection</unittitle>
+    <origination label="Creator">
+      <persname role="com" source="local">Hasbrook, Louise</persname>
+    </origination>
+    <unitid>ARC.042</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.19 Linear Feet</extent>
+      <extent altrender="carrier">in eight folders and one oversize box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1925/1986" type="inclusive">1925-1986</unitdate>
+    <abstract id="aspace_49b7a4b24a56d6fbda83ab705fae67f3">The Brooklyn Navy YMCA, founded in 1899 and located at 167 Sands Street near the Brooklyn Navy Yard, was the first permanent branch of the Navy YMCA.  It closed its doors in 1964, having served an estimated 47 million military personnel.  Louise Hasbrook worked as a secretary at the Brooklyn Navy YMCA beginning in 1934.  In 1959, she was promoted to the position of administrative assistant and secretary to the Executive.  The Louise Hasbrook Brooklyn Navy YMCA collection spans the period 1925 to 1986 and contains various items compiled by Hasbrook during her time as a secretary and administrative assistant at the Brooklyn Navy YMCA.  The materials document the activities of the Brooklyn Navy YMCA from 1925 until its closing in 1964; there is also a small number of items pertaining to Louise Hasbrook's subsequent employment outside the Brooklyn Navy YMCA and her personal interests.  Items include reports, newspaper clippings, programs, newsletters, correspondence, photographs, certificates, and various ephemera.</abstract>
+    <container altrender="Large Flat Box" id="aspace_e1f9c32b4621c863ed17ee5e98b22332" label="Text" type="Box">OS-20</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_f93e964317eb6cf87dd38eb3b755face" label="Mixed Materials" type="Box">A0130</container>
+    <container altrender="Large Flat Box 11" id="aspace_52a03c7c7c140e8604da4a57a6414caa" label="Mixed Materials [34444506250844]" type="Box">OS-42</container>
+  </did>
+  <acqinfo id="aspace_10f8d8566f35f53bb31ef00210dc8d06">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Louise Hasbrook, 1988.</p>  </acqinfo>
+  <prefercite id="aspace_00e305401e09d39aa6ea9be95bd92f6d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Louise Hasbrook Brooklyn Navy YMCA collection, ARC.042, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <bioghist id="aspace_6d6d5dba98f94f0b7eac9e743e03a276">
+    <head>Biographical Note</head>
+<p>Louise Hasbrook worked as a secretary at the Brooklyn Navy YMCA beginning in 1934.  In 1959, she was promoted to the position of administrative assistant and secretary to the Executive, where she dealt with policy relating to personnel, payroll, business operations, and general administration.</p>  </bioghist>
+  <bioghist id="aspace_812bce7c9487d5d8f49e2b35e814e02f">
+    <head>Historical Note</head>
+<p>The Young Men's Christian Association (YMCA) was founded in London in 1844 by George Williams, a sales assistant in a draper's shop, as a way to help struggling young men find solace from the streets through Bible study and prayer.  The first United States YMCA branch was established in Boston in 1851, and soon the organization underwent an explosive outgrowth in popularity, with branches being established in major cities across the country.  New York City's branch was established in 1852, and Brooklyn's in 1853.</p><p>Gradually the YMCA transformed on a national scale into a seminal social institution offering dormitories, athletic facilities, and summer camps.  Along with these new functions, the YMCA also took on a greater involvement in social issues and began advocating for social equality and performing relief work.  In reflection of its progressive social stance, the YMCA also began welcoming women, children, and all ethnic groups into its community.</p><p>During the Civil War (1861-1865), the YMCA extended its activities to the U.S. Armed Forces, with YMCA members giving over one million Bibles to soldiers.  In response to the Navy's request to continue offering services in peacetime, in 1899 the YMCA established its first permanent branch of the Navy YMCA in Brooklyn, located at 167 Sands Street near the Brooklyn Navy Yard.  Facilities were also erected on the premises of the Navy Yard itself in 1902, and throughout the first half of the twentieth century the Brooklyn Navy YMCA flourished as a haven offering religious, social, and entertainment services to members of the armed forces.  It closed its doors in 1964, having served an estimated 47 million military personnel.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Bayless, Pamela. <emph render="italic">The YMCA at 150: A History of the YMCA of Greater New York, 1852-2002</emph>. New York: YMCA of Greater New York, c2002.</item>
+      <item>YMCA of the USA. "History of the YMCA Movement." Accessed July 8, 2010. http://www.ymca.net/about_the_ymca/history_of_the_ymca.html</item>
+    </list>
+  </bioghist>
+  <userestrict id="aspace_dff8f1a3a4fd45aeb55526e233bd07e9">
+    <head>Conditions Governing Use</head>
+<p>Reproduction rights for photographs have not been evaluated.  Please consult library staff for more information.</p>  </userestrict>
+  <accessrestrict id="aspace_e6de0f8bb5b3b953af1a8e47c2b69667">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_122e633639d26169159b71a5ac7f49fd">
+    <head>Scope and Contents</head>
+<p>The Louise Hasbrook Brooklyn Navy YMCA collection spans the period 1925 to 1986 and contains various items compiled by Hasbrook during her time as a secretary and administrative assistant at the Brooklyn Navy YMCA.  The materials document the activities of the Brooklyn Navy YMCA from 1925 until its closing in 1964; there is also a small number of items pertaining to Louise Hasbrook's subsequent employment outside the Brooklyn Navy YMCA and her personal interests.  The collection is arranged in eight folders and one oversize box.  Items include reports; newspaper clippings; dinner programs; issues of the <emph render="italic">Armed Services News</emph>, <emph render="italic">Army Navy YMCA Bulletin</emph>, and <emph render="italic">Armed Services YMCA</emph> newsletters; maps showing the location of the Brooklyn Navy YMCA and locations of all Armed Services branches of the YMCA and USO Clubs in the United States; programs for the 1945 Girls' Service Organization Recognition Night and the commissioning of the USS <emph render="italic">Franklin D. Roosevelt</emph>; correspondence; informational pamphlets; wedding announcements; an agreement for the installation of an emergency alarm service; a certificate of cccupancy; a notice pertaining to President Eisenhower's commendation of the Brooklyn Navy YMCA; a listing of naval officers; a recommendation letter for Louise Hasbrook from her employer at the YMCA; and photographs of dances, receptions, senior naval officers, the Brooklyn Navy YMCA building at 167 Sands Street, and various officers and YMCA employees.  The oversize box contains commendations and certificates for the Brooklyn Navy YMCA from the Unites States Navy Department, the United States War Department, the American National Red Cross, and the United States Citizens Service Corps.  Items unrelated to the Brooklyn Navy YMCA include a booklet, brochure, and postcards pertaining to the Lyndhurst Castle at Tarrytown, N.Y.</p>  </scopecontent>
+  <processinfo id="aspace_c90f7c77d6da52aea3fcaefdf635c670">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p><p>The collection combines the accessions 1988.021 and V1988.038.</p>  </processinfo>
+  <otherfindaid id="aspace_fda0a276c38645f53fbec317b3a87a7d">
+    <head>Other Finding Aids</head>
+<p>Item-level descriptions and digital versions of images from the collection are available for searching via the image database in the library.  Please consult library staff for more information.</p>  </otherfindaid>
+  <relatedmaterial id="aspace_ef68e3cd8b3caaa5a33a0193fd858a97">
+    <head>Related Materials</head>
+<p>Center for Brooklyn History holds the following related collections:</p><p>- Brooklyn Central YMCA Gymnastics Team collection, 1933-1956 (BCMS.0092)</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Ships |x Launching</subject>
+    <subject source="lcsh">Historic buildings |z New York (State) |z Tarrytown</subject>
+    <subject source="lcsh">Military life</subject>
+    <geogname source="lcsh">Tarrytown (N.Y.)</geogname>
+    <subject source="lcsh">Church work with military personnel |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Women and the military |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="lcsh">Newsletters</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Bulletins</genreform>
+    <genreform source="aat">Brochures</genreform>
+    <genreform source="aat">Pamphlets</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Picture postcards</genreform>
+    <genreform source="aat">Certificates</genreform>
+    <genreform source="aat">Magazines (periodicals)</genreform>
+    <corpname rules="aacr" source="naf">New York Naval Shipyard</corpname>
+    <corpname rules="aacr" source="naf">Franklin D. Roosevelt (Aircraft carrier)</corpname>
+    <corpname source="local">Brooklyn Young Men's Christian Association. Naval Branch</corpname>
+    <corpname rules="aacr" source="naf">United States. Navy</corpname>
+    <corpname source="local">YMCA of the USA. Armed Services Dept.</corpname>
+    <corpname rules="aacr" source="naf">Lyndhurst (Tarrytown, N.Y.)</corpname>
+    <persname source="local">Hasbrook, Louise</persname>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
 </ead>
