@@ -1,112 +1,61 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1973_179_samuel_chester_reid</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Samuel Chester Reid collection
-                    <num>1973.179</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>April 14, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-08T14:33-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Samuel Chester Reid collection</unittitle>
-            <unitid>1973.179</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid724003" type="Box" label="Text">A0007</container>
-            <physdesc>
-                <extent>0.02 Linear feet</extent>
-                <extent>in one folder.</extent>
-            </physdesc>
-            <unitdate normal="1837/1956" type="inclusive">1837-1956</unitdate>
-            <origination label="creator">
-                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Reid, Samuel Chester, 1783-1861</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Thomas, Charles S., 1897-1983</persname>
-            </origination>
-        </did>
-        <bioghist id="ref3">
-            <head>Biographical Note</head>
-            <p>Samuel Chester Reid (1783-1861) was born in Norwich, CT. He served in the Navy in the War of 1812, for which he was regarded as a national hero. After resigning from the Navy, Reid moved to New York, N.Y., where he published the 
-                <emph render="italic">New York Telegraph and Signal Book</emph> and was appointed harbor master in 1843. Reid is also credited for designing the stars and stripes scheme to the American flag, which Congress adopted in 1818. Reid died in New York City and was buried in Brooklyn's Green-Wood Cemetery in an unmarked grave. A memorial monument marking the site of his grave was erected and dedicated in 1956.</p>
-            <list numeration="arabic" type="ordered">
-                <head>Source:</head>
-                <item>Queen, Thelma, and Harry G. Heiss. "Samuel Chester Reid family papers, 1807-1963: Biographical Note." Accessed April 14, 2011. http://findingaids.loc.gov/db/search/xq/searchMfer02.xq?_id=loc.mss.eadmss.ms009199&amp;_faSection=overview&amp;_faSubsection=bioghist&amp;_dmdid=d74482e19</item>
-                <item>Associated Granite Craftmen's Guild, Inc. 
-                    <emph render="italic">Dedication to Perpetuate the Memory of Samuel Chester Reid, 1783-1861</emph>. Brooklyn, N.Y.: 1956.</item>
-            </list>
-        </bioghist>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>This collection consists of a photostat copy of Samuel Chester Reid's petition to Congress for the establishment of a line of telegraphs from New York to New Orleans. Additional items include programs from the 1956 dedication of the Samuel Chester Reid Monument in Brooklyn's Green-Wood Cemetery, as well as a transcript of a speech given by Charles S. Thomas, Secretary of the Navy, at the ceremony. A map of Green-Wood Cemetery marking the location of the Reid monument is also included.</p>
-        </scopecontent>
-        <acqinfo id="ref2">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Thomas Manning, 1957.</p>
-        </acqinfo>
-        <relatedmaterial id="ref4">
-            <head>Related Materials</head>
-            <p>Additional archival material related to Samuel Chester Reid is available in the 
-                <emph render="bold">
-                    <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://findingaids.loc.gov/db/search/xq/searchMfer02.xq?_id=loc.mss.eadmss.ms009199&amp;_faSection=overview&amp;_faSubsection=did&amp;_dmdid=d74482e6">Samuel Chester Reid family papers, 1807-1963</extref></emph>, held at the Library of Congress in Washington, D.C.</p>
-        </relatedmaterial>
-        <accessrestrict id="ref5">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <prefercite id="ref6">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Samuel Chester Reid collection, 1973.179, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <processinfo id="ref7">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <controlaccess>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Green-Wood Cemetery (New York, N.Y.).</corpname>
-            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Reid, Samuel Chester, 1783-1861</persname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Maps</genreform>
-            <subject source="lcsh">Monuments |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Petitions</genreform>
-            <genreform source="aat">Programs (documents)</genreform>
-            <genreform source="aat">Speeches</genreform>
-            <subject source="lcsh">Telegraph lines |z United States</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1973_179_samuel_chester_reid/">arms_1973_179_samuel_chester_reid</eadid><filedesc><titlestmt><titleproper>Guide to the Samuel Chester Reid collection <num>1973.179</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-03-07T20:57:47</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Samuel Chester Reid collection</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Reid, Samuel Chester</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Thomas, Charles S.</persname>
+    </origination>
+    <unitid>1973.179</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.02 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1837/1956" type="inclusive">1837-1956</unitdate>
+    <abstract id="aspace_42cc90fdf809146d9084803b4860f430">This collection consists of a photostat copy of Samuel Chester Reid's petition to Congress for the establishment of a line of telegraphs from New York to New Orleans.  Additional items include programs from the 1956 dedication of the Samuel Chester Reid Monument in Brooklyn's Green-Wood Cemetery, as well as a transcript of a speech given by Charles S. Thomas, Secretary of the Navy, at the ceremony.  A map of Green-Wood Cemetery marking the location of the Reid monument is also included.</abstract>
+    <container altrender="Full Manuscript Box Legal" id="aspace_347e0ff06ff6ca69a5439f7f706fe514" label="Mixed Materials" type="Box">A0007</container>
+  </did>
+  <bioghist id="aspace_062ef7aaed56ff6a8d4e22b20611fdb4">
+    <head>Biographical Note</head>
+<p>Samuel Chester Reid (1783-1861) was born in Norwich, CT.  He served in the Navy in the War of 1812, for which he was regarded as a national hero.  After resigning from the Navy, Reid moved to New York, N.Y., where he published the <emph render="italic">New York Telegraph and Signal Book</emph> and was appointed harbor master in 1843.  Reid is also credited for designing the stars and stripes scheme to the American flag, which Congress adopted in 1818.  Reid died in New York City and was buried in Brooklyn's Green-Wood Cemetery in an unmarked grave.  A memorial monument marking the site of his grave was erected and dedicated in 1956.</p>    <list numeration="arabic" type="ordered">
+      <head>Source:</head>
+      <item>Queen, Thelma, and Harry G. Heiss. "Samuel Chester Reid family papers, 1807-1963: Biographical Note." Accessed April 14, 2011. http://findingaids.loc.gov/db/search/xq/searchMfer02.xq?_id=loc.mss.eadmss.ms009199&amp;_faSection=overview&amp;_faSubsection=bioghist&amp;_dmdid=d74482e19</item>
+      <item>Associated Granite Craftmen's Guild, Inc. <emph render="italic">Dedication to Perpetuate the Memory of Samuel Chester Reid, 1783-1861</emph>.  Brooklyn, N.Y.: 1956.</item>
+    </list>
+  </bioghist>
+  <scopecontent id="aspace_7712c9108db56d5d7dc7ddad608cf958">
+    <head>Scope and Contents</head>
+<p>This collection consists of a photostat copy of Samuel Chester Reid's petition to Congress for the establishment of a line of telegraphs from New York to New Orleans.  Additional items include programs from the 1956 dedication of the Samuel Chester Reid Monument in Brooklyn's Green-Wood Cemetery, as well as a transcript of a speech given by Charles S. Thomas, Secretary of the Navy, at the ceremony.  A map of Green-Wood Cemetery marking the location of the Reid monument is also included, along with a photographic reproduction of a painting of Reid's ship "General Armstrong."</p>  </scopecontent>
+  <acqinfo id="aspace_7d925ab5a8ec37076a3567b2ee38a53b">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Thomas Manning, 1957.</p>  </acqinfo>
+  <relatedmaterial id="aspace_6d636294fc37f5379c227d2910ae6d60">
+    <head>Related Materials</head>
+<p>Additional archival material related to Samuel Chester Reid is available in the <emph render="bold"><extref href="http://findingaids.loc.gov/db/search/xq/searchMfer02.xq?_id=loc.mss.eadmss.ms009199&amp;_faSection=overview&amp;_faSubsection=did&amp;_dmdid=d74482e6">Samuel Chester Reid family papers, 1807-1963</extref></emph>, held at the Library of Congress in Washington, D.C.</p>  </relatedmaterial>
+  <accessrestrict id="aspace_dff872aabc4a9904aab4aec357ecbc8e">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_c587dd768966014a5f9ee04a074b209d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Samuel Chester Reid collection, 1973.179, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_d0b0ef4d83c0b5146f8604e99e70a2ea">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <controlaccess>
+    <genreform source="aat">Speeches</genreform>
+    <genreform source="aat">Petitions</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Maps</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Monuments |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Telegraph lines |z United States</subject>
+    <corpname rules="aacr" source="naf">Green-Wood Cemetery (New York, N.Y.)</corpname>
+    <persname rules="aacr" source="naf">Reid, Samuel Chester</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
