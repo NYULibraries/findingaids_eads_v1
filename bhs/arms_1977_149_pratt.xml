@@ -1,91 +1,50 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_149_pratt</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Sereno S. Pratt papers
-                    <num>1977.149</num>
-                </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>June 1, 2011</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-09T16:26-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Sereno S. Pratt papers</unittitle>
-            <unitid>1977.149</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid813002" type="Box" label="Text">A0041</container>
-            <physdesc>
-                <extent>0.25 linear feet</extent>
-                <extent>in two folders and one bound volume</extent>
-            </physdesc>
-            <unitdate normal="1900/1915" type="bulk">Bulk, 1900-1915</unitdate>
-            <unitdate normal="1883/1915" type="inclusive">1883-1915</unitdate>
-            <origination label="creator">
-                <persname rules="dacs" source="naf">Pratt, Sereno Stansbury, 1858-1915</persname>
-            </origination>
-        </did>
-        <prefercite id="ref6">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Sereno S. Pratt papers, 1977.149, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Source and date of acquisition unknown. The papers were formally accessioned in 1977.</p>
-        </acqinfo>
-        <bioghist id="ref4">
-            <head>Biographical/Historical note</head>
-            <p>Sereno Stansbury Pratt (1858-1915) was born in Westmoreland, New York. He entered the newspaper business after graduating from the University of Vermont. During his career, Pratt worked for the 
-                <emph render="italic">Commercial Bulletin, the Journal of Commerce, the New York World,</emph> and 
-                <emph render="italic">the Baltimore Sun.</emph> He later became the Financial Editor for the 
-                <emph render="italic">New York Times</emph> and Editor in Chief for the 
-                <emph render="italic">Wall Street Journal.</emph> In 1908, he was elected Secretary of the Chamber of Commerce of New York City and remained in that position until his death in 1915. Pratt resided on Carroll Street in Brooklyn.</p>
-        </bioghist>
-        <scopecontent id="ref2">
-            <head>Scope and Contents note</head>
-            <p>The Sereno S. Pratt papers span the period 1883 to 1915 (bulk: 1900-1915) and measure 0.25 linear feet. The papers include correspondence to Pratt relating to his career in the newspaper business and his position with the Chamber of Commerce, as well as lectures delivered by him. Also included in the collection are ephemera, including clippings of Pratt's obituary from newspapers all over the United States, and a memorial scrapbook compiled after his death that contains clippings, correspondence, photographs, and other ephemera.</p>
-        </scopecontent>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <controlaccess>
-            <persname rules="dacs" source="naf">Pratt, Sereno Stansbury, 1858-1915</persname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <genreform source="aat">Correspondence</genreform>
-            <subject source="lcsh">Editors |z New York (State) |z New York</subject>
-            <genreform source="aat">Ephemera</genreform>
-            <geogname source="lcsh">New York (N.Y.)</geogname>
-            <subject source="lcsh">Newspaper employees |z New York (State) |z New York</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_149_pratt/">arms_1977_149_pratt</eadid><filedesc><titlestmt><titleproper>Guide to the Sereno S. Pratt papers <num>1977.149</num></titleproper><author>Collection processed by Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-03-15T20:31:21</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Sereno S. Pratt papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="naf">Pratt, Sereno Stansbury</persname>
+    </origination>
+    <unitid>1977.149</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">in two folders and one bound volume</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1883/1915" type="inclusive">1883-1915</unitdate>
+    <unitdate datechar="creation" normal="1900/1915" type="bulk">1900-1915</unitdate>
+    <abstract id="aspace_b96f4abb383bf0e7fd9dd964e6b678e7">The papers date from 1883 to 1915 and include correspondence to Pratt relating to his career in the newspaper business and his position with the Chamber of Commerce, as well as lectures delivered by him. Also included in the collection are ephemera, including clippings of Pratt's obituary from newspapers all over the United States, and a memorial scrapbook compiled after his death that contains clippings, correspondence, photographs, and other ephemera.</abstract>
+    <container altrender="Full Manuscript Box Legal" id="aspace_47ca7e3f7e40b40e7dd766c1a85e8ef4" label="Text" type="Box">A0041</container>
+  </did>
+  <prefercite id="aspace_8c690ace2b176acfbf993686e1f188e0">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Sereno S. Pratt papers, 1977.149, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <acqinfo id="aspace_7b0c5a201caa4e3b1e6dabace80086a0">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown. The papers were formally accessioned in 1977.</p>  </acqinfo>
+  <bioghist id="aspace_0c7ce9008d90563bf89f8085f9e784ac">
+    <head>Biographical / Historical</head>
+<p>Sereno Stansbury Pratt (1858-1915) was born in Westmoreland, New York. He entered the newspaper business after graduating from the University of Vermont. During his career, Pratt worked for the <emph render="italic">Commercial Bulletin, the Journal of Commerce, the New York World,</emph> and <emph render="italic">the Baltimore Sun.</emph> He later became the Financial Editor for the <emph render="italic">New York Times</emph> and Editor in Chief for the <emph render="italic">Wall Street Journal.</emph> In 1908, he was elected Secretary of the Chamber of Commerce of New York City and remained in that position until his death in 1915. Pratt resided on Carroll Street in Brooklyn.</p>  </bioghist>
+  <scopecontent id="aspace_c0fbbaca2f96dad153a4d868355007b5">
+    <head>Scope and Contents</head>
+<p>The Sereno S. Pratt papers span the period 1883 to 1915 (bulk: 1900-1915) and measure 0.25 linear feet. The papers include correspondence to Pratt relating to his career in the newspaper business and his position with the Chamber of Commerce, as well as lectures delivered by him. Also included in the collection are ephemera, including clippings of Pratt's obituary from newspapers all over the United States, and a memorial scrapbook compiled after his death that contains clippings, correspondence, photographs, and other ephemera.</p>  </scopecontent>
+  <accessrestrict id="aspace_59799c891cca3a4b27dea7ea3d468f06">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_8e9bbfc42590606315ebae73f1ec0ca0">
+    <head>Conditions Governing Use</head>
+<p>Material in this collection is in the public domain.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Ephemera</genreform>
+    <subject source="lcsh">Editors |z New York (State) |z New York</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Newspaper employees |z New York (State) |z New York</subject>
+    <persname rules="dacs" source="naf">Pratt, Sereno Stansbury</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
