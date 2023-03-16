@@ -1,88 +1,50 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_426_crowell</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the hJoseph Crowell, Zephaniah Hedges, and Daniel L'Hommedieu business agreement
-                    <num>1977.426</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>July 8, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-11T15:16-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Joseph Crowell, Zephaniah Hedges, and Daniel L'Hommedieu business agreement</unittitle>
-            <unitid>1977.426</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid880007" type="Box" label="Text">A0069</container>
-            <physdesc>
-                <extent>0.01 Linear feet</extent>
-                <extent>in one folder.</extent>
-            </physdesc>
-            <unitdate normal="1806/1806">1806</unitdate>
-            <abstract id="ref2" label="Abstract">One business agreement between Joseph Crowell, Zephaniah Hedges, and Daniel L'Hommedieu, in which Crowell sells half his salt works to Hedges and L'Hommedieu. The salt works was located on Hog Neck within the town of Southold, Long Island. The document is dated February 26, 1806. Several typed transcriptions accompany the original document.</abstract>
-            <origination label="creator">
-                <persname source="local">Crowell, Joseph</persname>
-            </origination>
-            <origination label="creator">
-                <persname source="local">Hedges, Zephaniah</persname>
-            </origination>
-            <origination label="creator">
-                <persname source="local">L'Hommedieu, Daniel</persname>
-            </origination>
-        </did>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Source and date of acquisition unknown. Formally accessioned in 1977.</p>
-        </acqinfo>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <prefercite id="ref3">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Joseph Crowell, Zephaniah Hedges, and Daniel L'Hommedieu business agreement, 1977.426, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <controlaccess>
-            <persname source="local">Crowell, Joseph</persname>
-            <persname source="local">Hedges, Zephaniah</persname>
-            <persname source="local">L'Hommedieu, Daniel</persname>
-            <genreform source="aat">Agreements</genreform>
-            <subject source="lcsh">Salt industry and trade |z New York (State) |z Southold</subject>
-            <geogname source="lcsh">Southold (N.Y.)</geogname>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_426_crowell/">arms_1977_426_crowell</eadid><filedesc><titlestmt><titleproper>Guide to the Joseph Crowell, Zephaniah Hedges, and Daniel L'Hommedieu business agreement <num>1977.426</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-03-16T13:11:06</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Joseph Crowell, Zephaniah Hedges, and Daniel L'Hommedieu business agreement</unittitle>
+    <origination label="Creator">
+      <persname source="local">Crowell, Joseph</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Hedges, Zephaniah</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">L'Hommedieu, Daniel</persname>
+    </origination>
+    <unitid>1977.426</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1806/1806" type="inclusive">1806</unitdate>
+    <abstract id="aspace_853ec5dd6d8bcdc47e9f4b8199d3c69d">One business agreement between Joseph Crowell, Zephaniah Hedges, and Daniel L'Hommedieu, in which Crowell sells half his salt works to Hedges and L'Hommedieu.  The salt works was located on Hog Neck within the town of Southold, Long Island.  The document is dated February 26, 1806.  Several typed transcriptions accompany the original document.</abstract>
+    <container altrender="Full Manuscript Box Legal" id="aspace_17ebae6f87343aaded5bf6273fda2be7" label="Text" type="Box">A0069</container>
+  </did>
+  <acqinfo id="aspace_2897be9e87f6e41d7f867e8033261451">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1977.</p>  </acqinfo>
+  <accessrestrict id="aspace_4fac58fe90e0ab597a2b2602566d3aa6">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <prefercite id="aspace_81685e997a3b6311aeea7ff95afca6b6">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Joseph Crowell, Zephaniah Hedges, and Daniel L'Hommedieu business agreement, 1977.426, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <userestrict id="aspace_a8aea2dce907ea39527463fcbb4a6444">
+    <head>Conditions Governing Use</head>
+<p>The materials in this collection are in the public domain.</p>  </userestrict>
+  <scopecontent id="aspace_ce8665daad971eb40b8ce3aa26834e4c">
+    <head>Scope and Contents</head>
+<p>This collection includes one business agreement between Joseph Crowell, Zephaniah Hedges, and Daniel L'Hommedieu, in which Crowell sells half his salt works to Hedges and L'Hommedieu.  The salt works was located on Hog Neck within the town of Southold, Long Island.  The document is dated February 26, 1806.  Several typed transcriptions accompany the original document.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Southold (N.Y.)</geogname>
+    <subject source="lcsh">Salt industry and trade |z New York (State) |z Southold</subject>
+    <genreform source="aat">Agreements</genreform>
+    <persname source="local">L'Hommedieu, Daniel</persname>
+    <persname source="local">Hedges, Zephaniah</persname>
+    <persname source="local">Crowell, Joseph</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
