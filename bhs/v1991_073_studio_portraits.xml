@@ -1,93 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">v1991_073_studio_portraits</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Collection of studio portraits by Brooklyn photographers
-                    <num>V1991.073</num>
-                </titleproper>
-                <author>Finding aid prepared by Patricia Glowinski</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>September 30, 2011.</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T16:19-0500</date>
-            </creation>
-            <langusage>English.</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Collection of studio portraits by Brooklyn photographers</unittitle>
-            <unitid>V1991.073</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid1052004" type="Box" label="Graphic materials">Prints by Accession 75</container>
-            <physdesc>
-                <extent>0.13 Linear feet</extent>
-                <extent>21 items housed in two folders.</extent>
-            </physdesc>
-            <unitdate>circa 1870 to 1930</unitdate>
-        </did>
-        <acqinfo id="ref10">
-            <head>Immediate Source of Acquisition note</head>
-            <p>A portion of the collection was a gift of Clark S. Marlor, 1991. The source and date of acquisition for the remainder of the collection are unknown.</p>
-        </acqinfo>
-        <processinfo id="ref9">
-            <head>Processing Information note</head>
-            <p>Fully processed to the item level.</p>
-            <p></p>
-            <p></p>
-        </processinfo>
-        <prefercite id="ref8">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Collection of studio portraits by Brooklyn photographers, V1991.073, Box number, Object ID number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <otherfindaid id="ref5">
-            <head>Other Finding Aids</head>
-            <p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>
-        </otherfindaid>
-        <userestrict id="ref4">
-            <head>Conditions Governing Use</head>
-            <p>Reproduction rights for the photographs have not been evaluated. For information on securing rights to publish or reproduce, please see the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="Reproduction Rights Policy" ns2:href="http://www.brooklynhistory.org/library/repropolicy.html">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>
-        </userestrict>
-        <accessrestrict id="ref3">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <scopecontent id="ref2">
-            <head>Scope and Contents</head>
-            <p>The Collection of studio portraits by Brooklyn photographers contains 21 black-and-white studio portraits taken at Brooklyn photographic studios, circa 1870 to 1930. The majority of the collection consists of cabinet photographs. The sitters in the portraits are unidentified, though each photograph includes the name of the photographer or the photographic studio that created the photograph. The address of the studio is often included as well.</p>
-        </scopecontent>
-        <controlaccess>
-            <genreform source="aat">Black-and-white prints (photographs)</genreform>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Cabinet photographs</genreform>
-            <genreform source="aat">Group portraits</genreform>
-            <subject source="lcsh">Photographers |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Photographs</genreform>
-            <genreform source="aat">Studio portraits</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1991_073_studio_portraits/">v1991_073_studio_portraits</eadid><filedesc><titlestmt><titleproper>Guide to the Collection of studio portraits by Brooklyn photographers <num>V1991.073</num></titleproper><author>Collection processed by Patricia Glowinski</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-03-23T19:12:42</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Collection of studio portraits by Brooklyn photographers</unittitle>
+    <unitid>V1991.073</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
+      <extent altrender="carrier">in three folders.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1870/1930" type="inclusive">circa 1870-1930</unitdate>
+    <abstract id="aspace_bc56422304b4c0d93d5304b45f0ceccc">The Collection of studio portraits by Brooklyn photographers contains black-and-white studio portraits taken at Brooklyn studios, circa 1870 to 1930. The majority of the collection consists of cabinet photographs.</abstract>
+    <container altrender="Full Manuscript Box Legal" id="aspace_851d5d1e11207f1b553584754d76a120" label="Graphic Materials" type="Box">Prints by Accession 57</container>
+  </did>
+  <acqinfo id="aspace_5f3719cb772fbc8ed03fb2adaf05787f">
+    <head>Immediate Source of Acquisition</head>
+<p>A portion of the collection was a gift of Clark S. Marlor, 1991. The items in accession 2022.025 and the portrait of Elmira Douglas were the gift of Shelley Cardiel. The tintype from Estabrook's Ferrotypes was a transfer from the Summit Historical Society, 2020. The portrait from Sheppard studio was the gift of Bonnie L. Miller, 2019. The portrait from Jacob's Studio was the gift of Joann Lindstrom, 2019. The Crawford portrait was an unsolicited donation from an unknown sender. The portrait from Van Doorn was a transfer from the Historical Society of Frederick County, 2023. The source and date of acquisition for the remainder of the collection are unknown.</p>  </acqinfo>
+  <processinfo id="aspace_c92ae92fa2856bdf2cc8b9481e556b4c">
+    <head>Processing Information</head>
+<p>Accession V1992.073 is fully processed to the item level. This collection also includes CBH accessions 2022.025, 2022.030, 2022.042, 2022.043, 2023.017, and found-in-collection material.</p>  </processinfo>
+  <prefercite id="aspace_0cbd2df806158af325c6cc341d9b5573">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Collection of studio portraits by Brooklyn photographers, V1991.073, Box number, Object ID number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <otherfindaid id="aspace_dc1b7eb3cab29bfd8e06019c6765d291">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <userestrict id="aspace_469a1e6dc4234a8f54765011ac2be429">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <accessrestrict id="aspace_ba1ccbb90a7849ba8385fc1e81d7327f">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_fc962b6d89988efdef3c063cefd038fc">
+    <head>Scope and Contents</head>
+<p>The Collection of studio portraits by Brooklyn photographers contains black-and-white studio portraits taken at Brooklyn photographic studios, circa 1870 to 1930. The majority of the collection consists of cabinet photographs. The sitters in the portraits are largely unidentified, though each photograph includes the name of the photographer or the photographic studio that created the photograph. The address of the studio is often included as well.</p><p>This collection includes images made by the following studios and photographers:</p><p>Bickelmann, 499 Grand Street</p><p>Bloch, B., 543 Fulton Street</p><p>Bolles, Fulton and Clark Streets</p><p>Burg, William, 485 Fulton Street and 935 Broadway</p><p>Cantor, I., 134 Tompkins Avenue</p><p>Carberry, M.V., 179 Myrtle Avenue</p><p>Crawford, 311 Fulton Street</p><p>Dana, 565 Fulton Street</p><p>Duryea, 39 Greenpoint Avenue</p><p>Ehm, 708 and 710 Broadway</p><p>Estabrook's Ferrotypes, 375 Fulton Street</p><p>French Art Studio, 457 86th Street</p><p>Gardner and Co., 276 and 278 Fulton Street</p><p>Hall, Joseph, 111 Fulton Street</p><p>Holler, Henry, 984 Broadway</p><p>Jacob's Studio, 1431 Broadway</p><p>Kopke, Harry, 1293 Broadway and 479 Fulton Street</p><p>Lane, 461 Fulton Street</p><p>Ollivier, 466 5th Avenue</p><p>Pearsall, Frank E., 298 Fulton Street</p><p>Reynolds, 507 Grand Street</p><p>Sheppard, 61 Myrtle Avenue</p><p>Stoffregen, A., 600 Broadway</p><p>Thompson, 571 Fulton Street</p><p>Van Doorn, 241 Fulton Street</p><p>Warshaw, A.</p><p>Weinig, 485 Fulton Street</p><p>Werner, A., 709-711 Broadway</p><p>
+This collection includes images of the following named individuals:</p><p>Buskirk, Schuyler</p><p>Douglas, Elmira</p><p>Hueker, Mamie</p><p>Kuelling, Vincent Arnold</p><p>MacKay, Lucy and Sidney</p><p>Vanderveer, Francis S.</p><p>Woodman, Nathaniel Hubbard</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Group portraits</genreform>
+    <genreform source="aat">Studio portraits</genreform>
+    <genreform source="aat">Cabinet photographs</genreform>
+    <subject source="lcsh">Photographers |z New York (State) |z Kings County</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
