@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_043_hoyt/">arc_043_hoyt</eadid><filedesc><titlestmt><titleproper>Guide to the Fred Hoyt family collection <num>ARC.043</num></titleproper><author>Collection processed by Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Brooklyn Historical Society</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>718-222-4111</addressline><addressline>library@brooklynhistory.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2018-11-14T15:56:47</date></creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
-    <langmaterial>
-      <language langcode="eng"/>
-    </langmaterial>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_043_hoyt/">arc_043_hoyt</eadid><filedesc><titlestmt><titleproper>Guide to the Fred Hoyt family collection <num>ARC.043</num></titleproper><author>Collection processed by Weatherly Stephan</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-04-03T17:45:53</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
     <repository>
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Fred Hoyt family research collection</unittitle>
-    <origination label="creator">
+    <origination label="Creator">
       <persname rules="dacs" source="local">Hoyt, Fred</persname>
     </origination>
     <unitid>ARC.043</unitid>
@@ -15,13 +12,12 @@
       <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
       <extent altrender="carrier">in one manuscript box, one drop front box, and five photograph frames.</extent>
     </physdesc>
-    <unitdate normal="1850/1974" type="inclusive">1850-1974</unitdate>
-    <langmaterial id="aspace_4f2d225b313d71d99b5f164705828349">Materials in English, German, and Hebrew.</langmaterial>
+    <unitdate datechar="creation" normal="1850/1974" type="inclusive">1850-1974</unitdate>
     <abstract id="aspace_975153c25bba0defdce07724699a7664">This collection contains papers and photographs, circa 1850 to 1974, collected during genealogical research by Fred Hoyt. Materials in the collection relate to Hoyt's ancestors, including his parents, Alma Jacobson Hoyt and Lewis S. Hoyt, his maternal grandparents, Ernestine Aschner Jacobson and Isaac W. Jacobson, maternal great-grandparents, Abraham and Jeannette Wachsmann Aschner, as well as aunts and great-uncles.</abstract>
-    <container id="aspace_c287922d6f50d14cedb4a53ca4ab12aa" label="Graphic Materials" type="Box">Tintypes</container>
-    <container id="aspace_9ee2b1447cfdc4da8ad857ced0156e87" label="Text" type="Box">A0130</container>
-    <container id="aspace_6ad3c7e6ffce71067063fc5b8e1efc96" label="Graphic Materials" type="Box">Photographs 1</container>
-    <container id="aspace_d218ce6ec676e68887285bb4ca69a8cc" label="Graphic Materials" type="Box">Framed Photographs</container>
+    <container altrender="Shoe Box 13" id="aspace_4c9d81a3556faeba9b23a6ef71893d21" label="Graphic Materials" type="Box">Tintypes 1</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_dffd3482da01b69cb8e32f856e262672" label="Text" type="Box">A0130</container>
+    <container id="aspace_8b199a41ab258871b2972b8ab575130f" label="Graphic Materials" type="Box">Photographs 1</container>
+    <container id="aspace_425c739fee4988526ed55122f148e27e" label="Graphic Materials" type="Box">Framed Photographs</container>
   </did>
   <bioghist id="aspace_6612193dae1f302f6e28974607351ad4">
     <head>Biographical note</head>
@@ -34,7 +30,7 @@
 <p>Gift of Fred Hoyt, 1990.</p>  </acqinfo>
   <prefercite id="aspace_1feda29afff7c03451347f5f11638c57">
     <head>Preferred Citation</head>
-<p>Identification of item, date (if known); Fred Hoyt family research collection, ARC.043, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+<p>Identification of item, date (if known); Fred Hoyt family research collection, ARC.043, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
   <scopecontent id="aspace_e2bc74e6a154464a654446b947ab82ef">
     <head>Scope and Contents</head>
 <p>This collection contains papers and photographs, circa 1850 to 1974, collected during genealogical research by Fred Hoyt. Materials in the collection relate to Hoyt's ancestors, including his parents, Alma Jacobson Hoyt and Lewis S. Hoyt, his maternal grandparents, Ernestine Aschner Jacobson and Isaac W. Jacobson, maternal great-grandparents, Abraham and Jeannette Wachsmann Aschner, as well as aunts and great-uncles. </p><p>The collection contains correspondence, genealogy notes, school papers, commencement programs, a deed, calling cards, religious writings, obituaries, wills, birth certificates, death certificates, marriage certificates, and citizenship papers pertaining to the Aschner and Jacobson families of Brooklyn Heights and Montgomery, N.Y. Materials that document earlier generations of the family are primarily photocopies of official papers, such as death certificates, while the Isaac and Ernestine Jacobson family is richly represented by personal items and ephemera. Documents in the collection belonging to or created by Fred Hoyt chronicle his research into his family's history in Brooklyn. Earlier letters from the Aschner family are written in German, and religious documents are written in Hebrew.</p><p>Photographs in the collection include framed portraits, cabinet cards, cartes-de-visite, tintypes, and both black-and-white and color prints of the Wachsmann, Aschner, Jacobson, and Hoyt families. The bulk of images in the collection are cabinet cards from the late 19th century, with fewer items dating from the mid-20th century. Cartes-de-visite originate from Germany and depict German relatives of the Wachsmanns and Aschners, while all cabinet cards were taken in Manhattan and Brooklyn and show immediate and extended members of the Aschner and Jacobson families. A large number of portraits show of Alma Jacobson, her sisters, and her parents. The collection also contains interior shots of Abraham Aschner's cigar store on Fulton Street, both interior and exterior views of Aschner and Jacobson family homes in Brooklyn, and Alma Jacobson's 1922 drivers license issued in New York City.</p>  </scopecontent>
@@ -46,10 +42,10 @@
 <p>Minimally processed to the collection level.</p><p>This collection is composed of five accessions: 1990.017, 1992.028, V1989.029, V1990.068, and V1992.040.</p>  </processinfo>
   <userestrict id="aspace_66de16f6d74b5cdafd3b852a2d316c82">
     <head>Conditions Governing Use</head>
-<p>Reproduction rights for photographs have not been evaluated. Please consult library staff for more information.</p>  </userestrict>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
   <separatedmaterial id="aspace_bbba8f411b7d9daf44c761865b3015e2">
     <head>Separated Materials</head>
-<p>Original accessions contained additional items, including jewelry, pendants, pins, dishes and silverware, and tools, which were transferred to the Museum collection. Please see PastPerfect records for M1989.41 abd M1989.50 for additional information.</p>  </separatedmaterial>
+<p>Original accessions contained additional items, including jewelry, pendants, pins, dishes, silverware, and tools, which were transferred to the Museum collection. Please see PastPerfect records M1989.41 and M1989.50 for additional information.</p>  </separatedmaterial>
   <controlaccess>
     <subject source="lcsh">School children |z New York (State) |z New York</subject>
     <subject source="lcsh">Lawyers |z New York (State)</subject>
