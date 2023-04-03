@@ -1,79 +1,44 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1991_014_cuyler_holloway_moore</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the D. Cuyler, Laura C. Holloway, and Augusta Moore letters
-                    <num>1991.014</num>
-                </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>September 26, 2011</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-21T15:53-0500</date>
-            </creation>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>D. Cuyler, Laura C. Holloway, and Augusta Moore letters</unittitle>
-            <unitid>1991.014</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid1041007" type="Box" label="Text">A0110</container>
-            <physdesc>
-                <extent>3.0 items</extent>
-                <extent>A0598</extent>
-            </physdesc>
-            <unitdate normal="1873/1878" type="inclusive">1873-1878</unitdate>
-            <abstract id="ref2" label="Abstract">The collection includes 3 letters regarding publishing in Brooklyn, signed by D.Cuyler, 1878; Laura C. Holloway,1873; and Augusta Moore, date unknown.</abstract>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Cuyler, D.</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="naf">Holloway, Laura C.,  (Laura Carter), b. 1848</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="naf">Moore, Augusta</persname>
-            </origination>
-        </did>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); D. Cuyler, Laura C. Holloway, and Augusta Moore letters, 1991.014, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <acqinfo id="ref3">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Charles Apfelbaum, 1991.</p>
-        </acqinfo>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <controlaccess>
-            <persname rules="dacs" source="local" role="Bookseller (bsl)">Apfelbaum, Charles</persname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Correspondence</genreform>
-            <subject source="lcsh">Publishers and publishing |z New York (State) |z Kings County</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1991_014_cuyler_holloway_moore/">arms_1991_014_cuyler_holloway_moore</eadid><filedesc><titlestmt><titleproper>Guide to the D. Cuyler, Laura C. Holloway, and Augusta Moore letters <num>1991.014</num></titleproper><author>Collection processed by Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-04-03T18:35:50</date></creation><langusage>eng</langusage></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>D. Cuyler, Laura C. Holloway, and Augusta Moore letters</unittitle>
+    <origination label="Creator">
+      <persname source="naf">Moore, Augusta</persname>
+    </origination>
+    <origination label="source">
+      <persname role="bsl" source="local">Apfelbaum, Charles</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Cuyler, D.</persname>
+    </origination>
+    <unitid>1991.014</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 items</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1873/1878" type="inclusive">1873-1878</unitdate>
+    <abstract id="aspace_c2a0d42907f6103628d8b23763e12335">The collection includes 3 letters regarding publishing in Brooklyn, signed by D.Cuyler, 1878; Laura C. Holloway,1873; and Augusta Moore, date unknown.</abstract>
+    <container altrender="Full Manuscript Box Legal" id="aspace_13d187fbe0263d662addd36fd7c78847" label="Text" type="Box">A0110</container>
+  </did>
+  <prefercite id="aspace_d2380794c2e86483f3c61fc8f728941b">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); D. Cuyler, Laura C. Holloway, and Augusta Moore letters, 1991.014, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <acqinfo id="aspace_29e75646a3e8f6699bd7a2377055658a">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Charles Apfelbaum, 1991.</p>  </acqinfo>
+  <accessrestrict id="aspace_a575c55191b150b38a10fb3dc8442ec9">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_7544f8b5db4eb0ba113b4ed072060935">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Correspondence</genreform>
+    <subject source="lcsh">Publishers and publishing |z New York (State) |z Kings County</subject>
+    <persname role="bsl" source="local">Apfelbaum, Charles</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
