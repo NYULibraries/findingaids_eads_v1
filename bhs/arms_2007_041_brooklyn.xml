@@ -1,599 +1,535 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2007_041_brooklyn">arms_2007_041_brooklyn</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the 
-                    <emph render="italic">Real Brooklyn, a day in our lives</emph> photographs
-                    <num>2007.041</num>
-                </titleproper>
-                <author>Finding aid prepared by Melissa Aaronberg</author>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>November 2015</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2016-03-10T16:46-0500</date>
-            </creation>
-            <langusage>Finding Aid written in English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>
-                <emph render="italic">Real Brooklyn, a day in our lives</emph> photographs</unittitle>
-            <unitid>2007.041</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid1379001" type="Box" label="Graphic materials">4 of 4</container>
-            <container id="cid1379002" type="Box" label="Graphic materials">3 of 4</container>
-            <container id="cid1379003" type="Box" label="Graphic materials">2 of 4</container>
-            <container id="cid1379004" type="Box" label="Graphic materials">1 of 4</container>
-            <physdesc>
-                <extent>1.75 linear feet</extent>
-                <extent>in three manuscript boxes and one custom box</extent>
-            </physdesc>
-            <unitdate normal="2003/2003">2003</unitdate>
-            <abstract id="ref3" label="Abstract">This collection contains black-and-white and color photographs that document Positive Focus, Inc.’s exhibition entitled 
-                <emph render="italic">Real Brooklyn: a day in our lives</emph>, which was held at Brooklyn's Borough Hall in September 2003. The exhibition was co-sponsored by Brooklyn Borough President Marty Markowitz and adayinthelife.org (the website no longer exists as of 2015). The photographs depict residents of different Brooklyn neighborhoods. The artists themselves are a mixture of native New Yorkers and new residents, as well as both amateur and professional photographers.</abstract>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">adayinthelife.org.</corpname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Adler, Doris</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Alexander, Abolaji</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Andino, Marvin</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Arnett, Pat</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Aronowitz, Avital</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Bach, Kim</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Bahchevanova, Svetlana</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Baldwin, Gordon</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Ballester, Margaret</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Barbour, Ian</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Beard, Scott</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Benton, Barrett</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Berman, Michael Scott</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Bernales, Cia</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Blaney, Nathan</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Blanton, Heather</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Bojanov, Konstantin</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Bristow, Beth</persname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn (New York, N.Y.). Office of Brooklyn Borough President.</corpname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Bruchman, Bryan</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Buckley, Brian</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Callan, Tom</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Caola, Donald H.</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Castillo, Vanessa</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Choi, Nancy </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Clay, Scott Addison</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Clovis, Donna </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Cochran, Djamilla Rosa</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Conway, Corren</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Dinges, Brion </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Dobkin, Jacob</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Dollo, Phillipe</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Dombrovksy-Sobel, Karen </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Dowling, Kerry </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Dragani, Lisa Aileen </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Ebenstein, Joanna </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Edelson, Julie </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Edorh, Cynthia </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Epstein, Jill </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Ettin, Scott A. </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Fetkovich, Krisitna </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Foy, Brien</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Gallagher, David F. </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Gans, Hank </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Garber, Allison </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Gentry, Paul </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Guiliani, Crista</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Gunawan, Henry </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Hankin, Hazel </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Haselwood, Alicia J. </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Hershkowitz, Deborah  </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Hoermann, Caroline</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Huang, Hsiao Chun</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Huggert, Travis</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Inglis, Mark </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Jefferson, Noel E. </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Jones, Chris </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Jopling, Jasmine J. </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Kessler, Linda </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Kingslake, Steffie </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Kinley, Hassan </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Klosterman, Doug </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Knispel, Deborah </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Kohler, Richard</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Kozak, Ken</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Kronberg, Tatiana</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Kwan, Cathy </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Kwate, Naa Oyo A. </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">LaFontaine, Ileana</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Larsen, Erika </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Larson, Megan</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Levy, Serge J.F. </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Link, Kevin </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Lloyd, Marcia </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Louissaint, Rich </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Lowell, Robert </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Mahnken, Chris </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Malvin, Robert </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Manzino, Natalie </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Markowitz, Marty</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">McFadden, Syreeta </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">McKeown, Bob </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">McKeown, Meredith </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Meneses, Paul </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Meswhiea, Camilla </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Milis, Brenda </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Miniter, Kelly </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Minsky, Tequila</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Napier, Laura  </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Nialla, Sasha </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Nutti, Sherri</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Olear, Doug </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Palmer, Lorrie</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Parrot, Daniel </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Pereira, Al</persname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Positive Focus, Inc. (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Quartin, Wayne </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Regan, Bridget Walsh </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Revilla, Vincente </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Rich, Victoria </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Ridgeway, Douglass vmr </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Robilotto, Pamela </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Salaam, Bilal</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Saunders, Jami </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Savage, Ron </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Scafati, Susan </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Schaffer , Kate </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Schuman, Aaron </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Serrado, Sylvia </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Setzen, Jon </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Silva, Irene J. </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Smith, Alyce</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Spisak, Tara </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Staffa, Adam </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Stead Baigrie, Karen</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Steciw, Kate </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Storace, Stephanie </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Sutikno, Agus </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Svensson, Stefan </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Thompson, Walter </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Thornton, Jay </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Tsai, Peihend </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Vinaixa, Inaki</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Walker, Danette </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Walker, Shawn </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Weinberg, Bob </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Weinberg, Flo </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Whiteman, Lisa </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Williams, Brooke </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Wolfe, Aaron </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Wood, Daryl J. </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Wright, Mel </persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Yamada, Takeshi , 1960-</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Zartarian, Martin</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Zassenhaus, Michelle</persname>
-            </origination>
-            <origination label="creator">
-                <persname rules="dacs" source="local">Zeng, Eric </persname>
-            </origination>
-        </did>
-        <bioghist id="ref4">
-            <head>Historical note</head>
-            <p>Positive Focus, Inc.’s exhibition entitled 
-                <emph render="italic">Real Brooklyn: a day in our lives</emph>, was held at Brooklyn's Borough Hall in September 2003. The exhibition was co-sponsored by Brooklyn Borough President Marty Markowitz and adayinthelife.org (the website no longer exists as of 2015). The photographs depict residents of different Brooklyn neighborhoods. The artists themselves were a mixture of native New Yorkers and new residents, as well as both amateur and professional photographers.</p>
-            <p>Source: Kolben, Deborah. "Photo Exhbit Peeks into the Lives of Brooklynites." The Brooklyn Paper (Brooklyn, NY), July 21, 2003.</p>
-        </bioghist>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <userestrict id="ref5">
-            <head>Conditions Governing Use note</head>
-            <p>The intellectual property rights for these photographs remain with the respective photographers. The photographs will enter the public domain 70 years after the death of the creator.</p>
-        </userestrict>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Lorrie Palmer, 2007.</p>
-        </acqinfo>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); 
-                <emph render="italic">Real Brooklyn, a day in our lives</emph> photographs, 2007.041, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <relatedmaterial id="ref9">
-            <head>Related Archival Materials note</head>
-            <p>John Muir collection of the Williamsburg neighborhood of Brooklyn, 1880-1989 (1994.009)</p>
-            <p>Lucille Fornasieri Gold photographs, 1968-2008 (2008.013)</p>
-            <p>Anders Goldfarb photographs of Brooklyn neighborhoods, 2001-2009 (2013.017)</p>
-            <p>Brooklyn Neighborhoods and How They Grew exhibit photograph collection, 1865-1997 (V1974.034)</p>
-            <p>Raanan Geberer photographs of Brooklyn neighborhoods, 1988-1990 (V1991.118)</p>
-        </relatedmaterial>
-        <scopecontent id="ref2">
-            <head>Scope and Contents note</head>
-            <p>This collection contains black-and-white and color photographs that document Positive Focus, Inc.’s exhibition from 2003 entitled 
-                <emph render="italic">Real Brooklyn: a day in our lives</emph>. These photographs are housed in seventeen presentation books. Each presentation book is arranged alphabetically by the photographer’s last name. There is an introduction page in each section with a short biography of each photographer and the titles of their photographs.</p>
-            <p>Book 1: Doris Adler (Kensington), Abolaji Alexander (Flatbush, Dumbo, Downtown), Marvin Andino (Midwood), Pat Arnett (Williamsburg, Bedford-Stuyvesant, Bushwick, Ridgewood), Avital Aronowitz (Williamsburg), Kim Bach (Starret City), Svetlana Bahchevanova (East New York), Karen Stead Baigrie (Boerum Hill, Park Slope)</p>
-            <p>Book 2: Gordon Baldwin (Boerum Hill, Brooklyn Heights), Margaret Ballester (Brooklyn Heights, Downtown), Ian Barbour (Plumb Beach, Sheepshead Bay), Scott Beard (New Utrecht, Carroll Gardens, Borough Park), Barrett Benton (Park Slope), Michael Scott Berman (New Lots, Prospect Park), Cia Bernales (DUMBO)</p>
-            <p>Book 3: Nathan Blaney (Bay Ridge), Heather Blanton (Gowanus, Park Slope), Konstantin Bojanov (East New York), Beth Bristow (DUMBO), Bryan Bruchman (Gowanus), Brian Buckley (Garritsen Beach), Tom Callan (Brooklyn Heights, DUMBO, Park Slope), Donald H. Caola (Bay Ridge, Flatbush)</p>
-            <p>Book 4: Vanessa Castillo (Borough Park), Nancy Choi (Williamsburg, Park Slope, Downtown Brooklyn), Scott Addison Clay (Windsor Heights, also known as Windsor Terrace), Djamilla Rosa Cochran (Park Slope, Mapleton, Red Hook), Donna Clovis (Brooklyn Heights), Corren Conway (Brooklyn Heights), Brion Dinges (Prospect Park, Park Slope), Jacob Dobkin (Red Hook)</p>
-            <p>Book 5: Phillipe Dollo (Vinegar Hill, DUMBO), Karen Dombrovksy-Sobel (DUMBO), Mariah Bowen Doren (Jamaica Bay), Kerry Dowling (Sea Gate, Prospect Heights, Park Slope), Lisa Aileen Dragani (Brighton Beach, Coney Island, Prospect Heights), Joanna Ebenstein (Fort Greene), Julie Edelson (Bensonhurst), Cynthia Edorh (Prospect Heights)</p>
-            <p>Book 6: Jill Epstein (Greenpoint), Scott A. Ettin (Red Hook), Krisitna Fetkovich (Bay Ridge), Brien Foy (Fort Greene Park, Clinton Hill), David F. Gallagher (Park Slope), Hank Gans (Cypress Hills, Downtown, Brooklyn Heights), Allison Garber (Coney Island, Brighton Beach, Midwood), Paul Gentry (Bushwick)</p>
-            <p>Book 7: Crista Guiliani (DUMBO), Marc Griffin (Rockaways), Henry Gunawan (Park Slope), Hazel Hankin (Park Slope), Alicia J. Haselwood (Borough Park), Deborah Hershkowitz (Red Hook), Caroline Hoermann (Brighton Beach), Hsiao Chun Huang and Eric Zeng (Sheepshead Bay)</p>
-            <p>Book 8: Travis Huggert (Clinton Hill), Mark Inglis (Boerum Hill, Kensington, Greenwood), Noel E. Jefferson (Park Slope), Chris Jones (Williamsburg), Jasmine J. Jopling (DUMBO), Linda Kessler (Crown Heights), Steffie Kingslake (Prospect Heights, Flatbush, Crown Heights), Hassan Kinley (Stuyvesant Heights, Clinton Hills)</p>
-            <p>Book 9: Doug Klosterman (Gowanus), Deborah Knispel (Canarsie, Sheepshead Bay), Richard Kohler (Sunset Park), Ken Kozak (Williamsburg), Tatiana Kornberg (Crown Heights East Newtah), Cathy Kwan (Sunset Park), Naa Oyo A. Kwate (Bedford Stuyvesant, Downtown, Boerum Hill), Ileana LaFontaine (Columbia Street Waterfront)</p>
-            <p>Book 10: Erika Larsen (Bay Ridge), Megan Larson (Downtown), Serge J.F. Levy (Prospect Heights, Midwood, Bushwick, Navy Yard, Williamsburg), Kevin Link (Sunset Park), Marcia Lloyd (Coney Island), Rich Louissaint (Flatbush), Robert Lowell (Bergen Beach, Mil Basin, Cobble Hill)</p>
-            <p>Book 11: Chris Mahnken (Park Slope, DUMBO, Brooklyn Heights), Natalie Manzino (Marine Park), Robert Malvin (Prospect Lefferts Gardens), Syreeta McFadden (Clinton Hill, Fort Greene), Bob McKeown (Prospect Park, Crown Heights), Meredith McKeown (Park Slope, Prospect Park South), Paul Meneses (Kensington), Camilla Meswhiea and Kate Steciw (Bushwick)</p>
-            <p>Book 12: Brenda Milis (Carroll Gardens), Kelly Miniter (Carroll Gardens, Cobble Hill), Tequila Minsky (Flatbush, Crown Heights), Laura Napier (Sunset Park), Sasha Nialla (Mapleton), Sherri Nutti (East Flatbush), Doug Olear (Williamsburg), Lorrie Palmer (Gravesend)</p>
-            <p>Book 13: Daniel Parrot (Prospect Park, Crown Heights), Al Pereira (Windsor Terrace), Wayne Quartin (Prospect Park), Bridget Walsh Regan (Homecrest, Park Slope, Crown Heights), Vincente Revilla (Coney Island, Sheepshead Bay), Victoria Rich (Flatlands), Douglass vmr Ridgeway (Park Slope)</p>
-            <p>Book 14: Pamela Robilotto (Cobble Hill), Bilal Salaam (Brownsville, Crown Heights), Jami Saunders (Park Slope, Windsor Terrace, Prospect Heights, Brooklyn Heights), Ron Savage (Greenpoint), Susan Scafati (Prospect Park), Kate Schaffer (Gowanus, Cobble Hill), Aaron Schuman (Brighton Beach), Sylvia Serrado (North Williamsburg), Jon Setzen (Park Slope)</p>
-            <p>Book 15: Irene J. Silva (Prospect Heights), Alyce Smith (Fort Hamilton), Tara Spisak (Ridegewood, Bushwick), Adam Staffa (Williamsburg), Stephanie Storace (Brooklyn Bridge Pier, Brooklyn Bridge), Agus Sutikno (Midwood), Stefan Svensson (Canarsie), Inaki Vinaixa (Williamsburg, Bushwick), Walter Thompson (Carroll Gardens)</p>
-            <p>Book 16: Jay Thornton (Williamsburg, New Utrecht), Peihend Tsai (Bedford Stuyvesent), Danette Walker (Gowanus), Shawn Walker (Clinton Hill), Flo and Bob Weinberg (Greenpoint), Lisa Whiteman (Prospect Heights, Williamsburg), Brooke Williams (Stuyvesant Heights), Aaron Wolfe (Downtown)</p>
-            <p>Book 17: Daryl J. Wood (Ocean Hill, Bedford Stuyvesant), Mel Wright (Greenpoint), Takeshi Yamada (Coney Island), Martin Zartarian (Prospect Heights), Michelle Zassenhaus (Dumbo, Vinegar Hill, Bay Ridge)</p>
-        </scopecontent>
-        <controlaccess>
-            <persname rules="dacs" source="local" role="Donor (dnr)">Palmer, Lorrie</persname>
-            <corpname rules="dacs" source="local" role="Donor (dnr)">Positive Focus, Inc. (Brooklyn, New York, N.Y.).</corpname>
-            <subject source="lcsh">African Americans |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Animal rescue |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
-            <subject source="lcsh">Beaches |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Bensonhurst (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Bergen Beach (New York, N.Y.)</geogname>
-            <genreform source="aat">Black-and-white prints (photographs)</genreform>
-            <geogname source="lcsh">Boerum Hill (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Borough Park (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Brighton Beach (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc.</geogname>
-            <subject source="lcsh">Brooklyn (New York, N.Y.) |x Economic conditions |y 21st century</subject>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social conditions |y 21st century</geogname>
-            <geogname source="lcsh">Brooklyn Bridge (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
-            <geogname source="local">Brooklyn Park (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Brownsville (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Canarsie (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Carroll Gardens (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Clinton Hill (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Cobble Hill (New York, N.Y.)</geogname>
-            <genreform source="aat">Color prints (photographs)</genreform>
-            <geogname source="local">Columbia Heights (Brooklyn, N.Y.)</geogname>
-            <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Crown Heights (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
-            <geogname source="local">DUMBO (New York, N.Y.)</geogname>
-            <geogname source="lcsh">East Flatbush (New York, N.Y.)</geogname>
-            <geogname source="lcsh">East New York (New York, N.Y.)</geogname>
-            <geogname source="lcsh">East Newtah (New York, N.Y.)</geogname>
-            <subject source="lcsh">Ethnicity</subject>
-            <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Gerritsen Beach (New York, N.Y.)</geogname>
-            <geogname source="local">Gowanus (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Gravesend (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Greenpoint (New York, N.Y.)</geogname>
-            <subject source="lcsh">Hispanic Americans |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Homecrest (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Jamaica (New York, N.Y.)</geogname>
-            <subject source="lcsh">Jews, Russian |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Kensington (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Mapleton (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Marine Park (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Midwood (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Mill Basin (New York, N.Y.)</geogname>
-            <subject source="lcsh">Neighborhoods |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">New Lots (New York, N.Y.)</geogname>
-            <geogname source="lcsh">New Utrecht (New York, N.Y.)</geogname>
-            <geogname source="lcsh">New York Naval Shipyard </geogname>
-            <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
-            <genreform source="aat">Photographs</genreform>
-            <geogname source="lcsh">Plumb Beach (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Prospect Heights (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Prospect Lefferts Gardens (Brooklyn, New York, N.Y.)</geogname>
-            <geogname source="lcsh">Red Hook (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Ridgewood (New York, N.Y.)</geogname>
-            <subject source="lcsh">School children |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Sea Gate (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Sheepshead Bay (New York, N.Y.)</geogname>
-            <subject source="lcsh">Street photography |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Stuyvesant Heights (New York, N.Y.)</geogname>
-            <subject source="lcsh">Subways |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Sunset Park (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Vinegar Hill (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Windsor Terrace (New York, N.Y.)</geogname>
-            <subject source="lcsh">Women |z New York (State) |z Kings County</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_2007_041_brooklyn/">arms_2007_041_brooklyn</eadid><filedesc><titlestmt><titleproper>Guide to the <emph render="italic">Real Brooklyn, a day in our lives</emph> photographs <num>2007.041</num></titleproper><author>Collection processed by Melissa Aaronberg</author></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-04-03T20:46:50</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle><emph render="italic">Real Brooklyn, a day in our lives</emph> photographs</unittitle>
+    <origination label="Creator">
+      <persname source="local">Callan, Tom</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Caola, Donald H.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Bruchman, Bryan</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Buckley, Brian</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Clay, Scott Addison</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Clovis, Donna </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Castillo, Vanessa</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Choi, Nancy </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Berman, Michael Scott</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Bernales, Cia</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Beard, Scott</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Benton, Barrett</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Bojanov, Konstantin</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Bristow, Beth</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Blaney, Nathan</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Blanton, Heather</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Bach, Kim</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Aronowitz, Avital</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Arnett, Pat</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Andino, Marvin</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Barbour, Ian</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Ballester, Margaret</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Baldwin, Gordon</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Bahchevanova, Svetlana</persname>
+    </origination>
+    <origination label="source">
+      <corpname role="dnr" source="local">Positive Focus, Inc. (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" source="local">Palmer, Lorrie</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Alexander, Abolaji</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Adler, Doris</persname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">adayinthelife.org</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Nialla, Sasha </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Nutti, Sherri</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Minsky, Tequila</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Napier, Laura  </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Milis, Brenda </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Miniter, Kelly </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Meneses, Paul </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Meswhiea, Camilla </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">McKeown, Bob </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">McKeown, Meredith </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Markowitz, Marty</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">McFadden, Syreeta </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Malvin, Robert </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Manzino, Natalie </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Lowell, Robert </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Mahnken, Chris </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Louissaint, Rich </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Lloyd, Marcia </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Link, Kevin </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Levy, Serge J.F. </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Larson, Megan</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Larsen, Erika </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">LaFontaine, Ileana</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Kwate, Naa Oyo A. </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Kwan, Cathy </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Kozak, Ken</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Kronberg, Tatiana</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Kohler, Richard</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Knispel, Deborah </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Klosterman, Doug </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Kinley, Hassan </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Kingslake, Steffie </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Jefferson, Noel E. </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Jones, Chris </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Jopling, Jasmine J. </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Kessler, Linda </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Hoermann, Caroline</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Huang, Hsiao Chun</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Huggert, Travis</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Inglis, Mark </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Gunawan, Henry </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Hankin, Hazel </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Haselwood, Alicia J. </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Hershkowitz, Deborah  </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Gans, Hank </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Garber, Allison </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Gentry, Paul </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Guiliani, Crista</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Fetkovich, Kristina </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Ettin, Scott A. </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Gallagher, David F. </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Foy, Brien</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Edelson, Julie </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Ebenstein, Joanna </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Epstein, Jill </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Edorh, Cynthia </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Dombrovksy-Sobel, Karen </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Dollo, Phillipe</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Dragani, Lisa Aileen </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Dowling, Kerry </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Conway, Corren</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Cochran, Djamilla Rosa</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Dobkin, Jacob</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Dinges, Brion </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Weinberg, Flo </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Whiteman, Lisa </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Walker, Shawn </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Weinberg, Bob </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Wood, Daryl J. </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Wright, Mel </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Williams, Brooke </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Wolfe, Aaron </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Zassenhaus, Michelle</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Zeng, Eric </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Yamada, Takeshi  (1960-)</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Zartarian, Martin</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Setzen, Jon </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Serrado, Sylvia </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Smith, Alyce</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Silva, Irene J. </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Staffa, Adam </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Spisak, Tara </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Steciw, Kate </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Stead Baigrie, Karen</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Sutikno, Agus </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Storace, Stephanie </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Thompson, Walter </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Svensson, Stefan </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Tsai, Peihend </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Thornton, Jay </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Walker, Danette </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Vinaixa, Inaki</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Olear, Doug </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Palmer, Lorrie</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Parrot, Daniel </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Pereira, Al</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Quartin, Wayne </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Regan, Bridget Walsh </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Revilla, Vincente </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Rich, Victoria </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Ridgeway, Douglass</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Robilotto, Pamela </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Salaam, Bilal</persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Saunders, Jami </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Savage, Ron </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Scafati, Susan </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Schaffer , Kate </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Schuman, Aaron </persname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Brooklyn (New York, N.Y.). Office of Brooklyn Borough President</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Positive Focus, Inc. (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>2007.041</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+      <extent altrender="carrier">in three manuscript boxes and one custom box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+    <abstract id="aspace_6964daff03796b8f9fab138f9510682f">This collection contains black-and-white and color photographs that document Positive Focus, Inc.'s exhibition entitled <emph render="italic">Real Brooklyn: a day in our lives</emph>, which was held at Brooklyn's Borough Hall in September 2003. The exhibition was co-sponsored by Brooklyn Borough President Marty Markowitz and adayinthelife.org (the website no longer exists as of 2015). The photographs depict residents of different Brooklyn neighborhoods. The artists themselves are a mixture of native New Yorkers and new residents, as well as both amateur and professional photographers.</abstract>
+    <container id="aspace_fb2837cac2ba7bb8050f17aaf7407673" label="Graphic Materials" type="Box">4 of 4</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_fc13f39b7fd2c5d589281d31f72fbcd3" label="Graphic Materials" type="Box">3 of 4</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_4334b0de57843ac2b2a2b9d1427f709f" label="Graphic Materials" type="Box">2 of 4</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_67347e36e87d4f8ddd5cdf6ec948d7fe" label="Graphic Materials" type="Box">1 of 4</container>
+  </did>
+  <bioghist id="aspace_86f6a038bbf7a6431627cf2110b22fd2">
+    <head>Historical note</head>
+<p>Positive Focus, Inc.'s exhibition entitled <emph render="italic">Real Brooklyn: a day in our lives</emph>, was held at Brooklyn's Borough Hall in September 2003. The exhibition was co-sponsored by Brooklyn Borough President Marty Markowitz and adayinthelife.org (the website no longer exists as of 2015). The photographs depict residents of different Brooklyn neighborhoods. The artists themselves were a mixture of native New Yorkers and new residents, as well as both amateur and professional photographers.</p><p>Source: Kolben, Deborah. "Photo Exhbit Peeks into the Lives of Brooklynites." The Brooklyn Paper (Brooklyn, NY), July 21, 2003.</p>  </bioghist>
+  <accessrestrict id="aspace_3399548b0f3c02f62219beb22a861421">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <userestrict id="aspace_cf3d2643be0f3a14c037561f219be5c0">
+    <head>Conditions Governing Use</head>
+<p>The intellectual property rights for these photographs remain with the respective photographers. The photographs will enter the public domain 70 years after the death of the creator.</p>  </userestrict>
+  <acqinfo id="aspace_fb3ef2f289b1c89cb6eedee8082bb680">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Lorrie Palmer, 2007.</p>  </acqinfo>
+  <prefercite id="aspace_24ca353dd787a720d5a68ca22fe6aa62">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); <emph render="italic">Real Brooklyn, a day in our lives</emph> photographs, 2007.041, Box and Folder number; Brooklyn Historical Society.</p>  </prefercite>
+  <relatedmaterial id="aspace_f2e8fdefcb10c2503c8d60c7d3dcf8d7">
+    <head>Related Materials</head>
+<p>John Muir collection of the Williamsburg neighborhood of Brooklyn, 1880-1989 (1994.009)</p><p>Lucille Fornasieri Gold photographs, 1968-2008 (2008.013)</p><p>Anders Goldfarb photographs of Brooklyn neighborhoods, 2001-2009 (2013.017)</p><p>Brooklyn Neighborhoods and How They Grew exhibit photograph collection, 1865-1997 (V1974.034)</p><p>Raanan Geberer photographs of Brooklyn neighborhoods, 1988-1990 (V1991.118)</p>  </relatedmaterial>
+  <scopecontent id="aspace_659bd70a70188e12830fb1b915f43348">
+    <head>Scope and Contents</head>
+<p>This collection contains black-and-white and color photographs that document Positive Focus, Inc.'s exhibition from 2003 entitled <emph render="italic">Real Brooklyn: a day in our lives</emph>. These photographs are housed in seventeen presentation books. Each presentation book is arranged alphabetically by the photographer's last name. There is an introduction page in each section with a short biography of each photographer and the titles of their photographs.</p><p>Book 1: Doris Adler (Kensington), Abolaji Alexander (Flatbush, Dumbo, Downtown), Marvin Andino (Midwood), Pat Arnett (Williamsburg, Bedford-Stuyvesant, Bushwick, Ridgewood), Avital Aronowitz (Williamsburg), Kim Bach (Starret City), Svetlana Bahchevanova (East New York), Karen Stead Baigrie (Boerum Hill, Park Slope)</p><p>Book 2: Gordon Baldwin (Boerum Hill, Brooklyn Heights), Margaret Ballester (Brooklyn Heights, Downtown), Ian Barbour (Plumb Beach, Sheepshead Bay), Scott Beard (New Utrecht, Carroll Gardens, Borough Park), Barrett Benton (Park Slope), Michael Scott Berman (New Lots, Prospect Park), Cia Bernales (DUMBO)</p><p>Book 3: Nathan Blaney (Bay Ridge), Heather Blanton (Gowanus, Park Slope), Konstantin Bojanov (East New York), Beth Bristow (DUMBO), Bryan Bruchman (Gowanus), Brian Buckley (Garritsen Beach), Tom Callan (Brooklyn Heights, DUMBO, Park Slope), Donald H. Caola (Bay Ridge, Flatbush)</p><p>Book 4: Vanessa Castillo (Borough Park), Nancy Choi (Williamsburg, Park Slope, Downtown Brooklyn), Scott Addison Clay (Windsor Heights, also known as Windsor Terrace), Djamilla Rosa Cochran (Park Slope, Mapleton, Red Hook), Donna Clovis (Brooklyn Heights), Corren Conway (Brooklyn Heights), Brion Dinges (Prospect Park, Park Slope), Jacob Dobkin (Red Hook)</p><p>Book 5: Phillipe Dollo (Vinegar Hill, DUMBO), Karen Dombrovksy-Sobel (DUMBO), Mariah Bowen Doren (Jamaica Bay), Kerry Dowling (Sea Gate, Prospect Heights, Park Slope), Lisa Aileen Dragani (Brighton Beach, Coney Island, Prospect Heights), Joanna Ebenstein (Fort Greene), Julie Edelson (Bensonhurst), Cynthia Edorh (Prospect Heights)</p><p>Book 6: Jill Epstein (Greenpoint), Scott A. Ettin (Red Hook), Krisitna Fetkovich (Bay Ridge), Brien Foy (Fort Greene Park, Clinton Hill), David F. Gallagher (Park Slope), Hank Gans (Cypress Hills, Downtown, Brooklyn Heights), Allison Garber (Coney Island, Brighton Beach, Midwood), Paul Gentry (Bushwick)</p><p>Book 7: Crista Guiliani (DUMBO), Marc Griffin (Rockaways), Henry Gunawan (Park Slope), Hazel Hankin (Park Slope), Alicia J. Haselwood (Borough Park), Deborah Hershkowitz (Red Hook), Caroline Hoermann (Brighton Beach), Hsiao Chun Huang and Eric Zeng (Sheepshead Bay)</p><p>Book 8: Travis Huggert (Clinton Hill), Mark Inglis (Boerum Hill, Kensington, Greenwood), Noel E. Jefferson (Park Slope), Chris Jones (Williamsburg), Jasmine J. Jopling (DUMBO), Linda Kessler (Crown Heights), Steffie Kingslake (Prospect Heights, Flatbush, Crown Heights), Hassan Kinley (Stuyvesant Heights, Clinton Hills)</p><p>Book 9: Doug Klosterman (Gowanus), Deborah Knispel (Canarsie, Sheepshead Bay), Richard Kohler (Sunset Park), Ken Kozak (Williamsburg), Tatiana Kornberg (Crown Heights East Newtah), Cathy Kwan (Sunset Park), Naa Oyo A. Kwate (Bedford Stuyvesant, Downtown, Boerum Hill), Ileana LaFontaine (Columbia Street Waterfront)</p><p>Book 10: Erika Larsen (Bay Ridge), Megan Larson (Downtown), Serge J.F. Levy (Prospect Heights, Midwood, Bushwick, Navy Yard, Williamsburg), Kevin Link (Sunset Park), Marcia Lloyd (Coney Island), Rich Louissaint (Flatbush), Robert Lowell (Bergen Beach, Mil Basin, Cobble Hill)</p><p>Book 11: Chris Mahnken (Park Slope, DUMBO, Brooklyn Heights), Natalie Manzino (Marine Park), Robert Malvin (Prospect Lefferts Gardens), Syreeta McFadden (Clinton Hill, Fort Greene), Bob McKeown (Prospect Park, Crown Heights), Meredith McKeown (Park Slope, Prospect Park South), Paul Meneses (Kensington), Camilla Meswhiea and Kate Steciw (Bushwick)</p><p>Book 12: Brenda Milis (Carroll Gardens), Kelly Miniter (Carroll Gardens, Cobble Hill), Tequila Minsky (Flatbush, Crown Heights), Laura Napier (Sunset Park), Sasha Nialla (Mapleton), Sherri Nutti (East Flatbush), Doug Olear (Williamsburg), Lorrie Palmer (Gravesend)</p><p>Book 13: Daniel Parrot (Prospect Park, Crown Heights), Al Pereira (Windsor Terrace), Wayne Quartin (Prospect Park), Bridget Walsh Regan (Homecrest, Park Slope, Crown Heights), Vincente Revilla (Coney Island, Sheepshead Bay), Victoria Rich (Flatlands), Douglass vmr Ridgeway (Park Slope)</p><p>Book 14: Pamela Robilotto (Cobble Hill), Bilal Salaam (Brownsville, Crown Heights), Jami Saunders (Park Slope, Windsor Terrace, Prospect Heights, Brooklyn Heights), Ron Savage (Greenpoint), Susan Scafati (Prospect Park), Kate Schaffer (Gowanus, Cobble Hill), Aaron Schuman (Brighton Beach), Sylvia Serrado (North Williamsburg), Jon Setzen (Park Slope)</p><p>Book 15: Irene J. Silva (Prospect Heights), Alyce Smith (Fort Hamilton), Tara Spisak (Ridegewood, Bushwick), Adam Staffa (Williamsburg), Stephanie Storace (Brooklyn Bridge Pier, Brooklyn Bridge), Agus Sutikno (Midwood), Stefan Svensson (Canarsie), Inaki Vinaixa (Williamsburg, Bushwick), Walter Thompson (Carroll Gardens)</p><p>Book 16: Jay Thornton (Williamsburg, New Utrecht), Peihend Tsai (Bedford Stuyvesent), Danette Walker (Gowanus), Shawn Walker (Clinton Hill), Flo and Bob Weinberg (Greenpoint), Lisa Whiteman (Prospect Heights, Williamsburg), Brooke Williams (Stuyvesant Heights), Aaron Wolfe (Downtown)</p><p>Book 17: Daryl J. Wood (Ocean Hill, Bedford Stuyvesant), Mel Wright (Greenpoint), Takeshi Yamada (Coney Island), Martin Zartarian (Prospect Heights), Michelle Zassenhaus (Dumbo, Vinegar Hill, Bay Ridge)</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Black-and-white prints (photographs)</genreform>
+    <genreform source="aat">Color prints (photographs)</genreform>
+    <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+    <geogname source="local">Brooklyn Park (New York, N.Y.)</geogname>
+    <geogname source="local">Columbia Heights (Brooklyn, N.Y.)</geogname>
+    <geogname source="lcsh">Downtown Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Prospect Heights (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Coney Island (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
+    <geogname source="lcsh">Brooklyn Bridge (New York, N.Y.)</geogname>
+    <geogname source="local">DUMBO (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Canarsie (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Boerum Hill (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Crown Heights (New York, N.Y.)</geogname>
+    <genreform source="aat">Photographs</genreform>
+    <subject source="lcsh">Brooklyn (New York, N.Y.) |x Economic conditions |y 21st century</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Social conditions |y 21st century</geogname>
+    <geogname source="lcsh">Kensington (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc.</geogname>
+    <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brighton Beach (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Sunset Park (New York, N.Y.)</geogname>
+    <subject source="lcsh">Animal rescue |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Subways |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">African Americans -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Jews, Russian |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Women |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Hispanic Americans |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Beaches |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">School children |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Midwood (New York, N.Y.)</geogname>
+    <geogname source="lcsh">New Utrecht (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Clinton Hill (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Cobble Hill (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Gravesend (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Red Hook (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Carroll Gardens (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Windsor Terrace (New York, N.Y.)</geogname>
+    <subject source="lcsh">Neighborhoods -- New York (State) -- Kings County</subject>
+    <subject source="lcsh">Ethnicity</subject>
+    <geogname source="lcsh">Brownsville (New York, N.Y.)</geogname>
+    <geogname source="local">Gowanus (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Sheepshead Bay (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bensonhurst (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Gerritsen Beach (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatbush (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Marine Park (New York, N.Y.)</geogname>
+    <geogname source="lcsh">East New York (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Flatlands (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Mapleton (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Plumb Beach (New York, N.Y.)</geogname>
+    <geogname source="lcsh">New Lots (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Stuyvesant Heights (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Borough Park (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Greenpoint (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Prospect Lefferts Gardens (Brooklyn, New York, N.Y.)</geogname>
+    <geogname source="lcsh">Homecrest (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Sea Gate (New York, N.Y.)</geogname>
+    <geogname source="lcsh">New York Naval Shipyard </geogname>
+    <geogname source="lcsh">Ridgewood (New York, N.Y.)</geogname>
+    <geogname source="lcsh">East Flatbush (New York, N.Y.)</geogname>
+    <geogname source="lcsh">East Newtah (New York, N.Y.)</geogname>
+    <subject source="lcsh">Street photography |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Mill Basin (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Vinegar Hill (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bergen Beach (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Jamaica (New York, N.Y.)</geogname>
+    <corpname role="dnr" source="local">Positive Focus, Inc. (Brooklyn, New York, N.Y.)</corpname>
+    <persname role="dnr" source="local">Palmer, Lorrie</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
