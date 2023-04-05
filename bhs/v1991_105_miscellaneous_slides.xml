@@ -1,92 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">v1991_105_miscellaneous_slides</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Collection of miscellaneous slides of Brooklyn
-                    <num>V1991.105</num>
-                </titleproper>
-                <author>Finding aid prepared by Patricia Glowinski</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>October 5, 2011.</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T16:33-0500</date>
-            </creation>
-            <langusage>English.</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Collection of miscellaneous slides of Brooklyn</unittitle>
-            <unitid>V1991.105</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid1062003" type="Box" label="Graphic materials">Film slides by Accession (V1989.2 to V1992.43)</container>
-            <physdesc>
-                <extent>0.03 Linear feet</extent>
-                <extent>ten items housed in one film slides binder.</extent>
-            </physdesc>
-            <unitdate>circa 1900 to 1980</unitdate>
-        </did>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Collection of miscellaneous slides of Brooklyn, V1991.105, Folder number, Object ID number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <otherfindaid id="ref6">
-            <head>Other Finding Aids</head>
-            <p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>
-        </otherfindaid>
-        <processinfo id="ref8">
-            <head>Processing Information note</head>
-            <p>Fully processed to the item level.</p>
-        </processinfo>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1991.</p>
-        </acqinfo>
-        <userestrict id="ref4">
-            <head>Conditions Governing Use</head>
-            <p>Copyright for anonymously created items will remain in effect for 120 years following the date of creation. Copyright for unpublished works with a known creator are protected until 70 years following the death of the creator. For information on securing rights to publish or reproduce, please see the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:title="Reproduction Rights Policy" ns2:href="http://www.brooklynhistory.org/library/repropolicy.html">Brooklyn Historical Society Reproduction Rights Policy</extref>.</p>
-        </userestrict>
-        <accessrestrict id="ref3">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <scopecontent id="ref2">
-            <head>Scope and Contents</head>
-            <p>The Collection of miscellaneous slides of Brooklyn contains both black-and-white and color slides depicting various buildings and locations in Brooklyn, dating from circa 1900 to 1980. Exterior and detail views of the Brooklyn Historical Society (formerly the Long Island Historical Society) building are represented in the collection.</p>
-        </scopecontent>
-        <controlaccess>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Brooklyn Historical Society (Brooklyn, New York, N.Y.).</corpname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
-            <genreform source="aat">Color slides</genreform>
-            <genreform source="aat">Detail views</genreform>
-            <genreform source="aat">Exterior views</genreform>
-            <genreform source="aat">Photographs</genreform>
-            <genreform source="aat">Slides (photographs)</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/v1991_105_miscellaneous_slides/">v1991_105_miscellaneous_slides</eadid><filedesc><titlestmt><titleproper>Guide to the Collection of miscellaneous slides of Brooklyn <num>V1991.105</num></titleproper><author>Collection processed by Patricia Glowinski</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-04-05T14:21:11</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Collection of miscellaneous slides of Brooklyn</unittitle>
+    <unitid>V1991.105</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.03 Linear Feet</extent>
+      <extent altrender="carrier">ten items housed in one box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1890/1990" type="inclusive">circa 1900 to 1980</unitdate>
+    <abstract id="aspace_2e2dbdd615a43320b4b26fb853c6bfe6">The Collection of miscellaneous slides of Brooklyn contains both black-and-white and color slides depicting various buildings and locations in Brooklyn, dating from circa 1900 to 1980. Exterior and detail views of the Brooklyn Historical Society (formerly the Long Island Historical Society) building are represented in the collection.</abstract>
+    <container altrender="Medium Flat Box 26" id="aspace_b80426b3baffa8a8026ec69b4f19026d" label="Graphic Materials" type="Box">Slides by Accession 3</container>
+    <container parent="aspace_b80426b3baffa8a8026ec69b4f19026d" type="Box">6</container>
+    <container parent="aspace_b80426b3baffa8a8026ec69b4f19026d" type="Item">V1991.105.1-10</container>
+  </did>
+  <prefercite id="aspace_298c10e5bea23c0166defc338149cdeb">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Collection of miscellaneous slides of Brooklyn, V1991.105, Folder number, Object ID number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <otherfindaid id="aspace_2797563a7778387ded6c807307649c9c">
+    <head>Other Finding Aids</head>
+<p>Item level description and digital versions of images from the collection are available for searching via the image database in the library. Please consult library staff for more information.</p>  </otherfindaid>
+  <processinfo id="aspace_623f8c015dde9ff57c3ca3aefb7acbf4">
+    <head>Processing Information</head>
+<p>Fully processed to the item level.</p>  </processinfo>
+  <acqinfo id="aspace_79f0932e1e067052c7a190aff1076d2d">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1991.</p>  </acqinfo>
+  <userestrict id="aspace_1df8b8dd78e4d0ecc95e1e06c000476a">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <accessrestrict id="aspace_1fea6ab37cf693e32c493ed4458fd47a">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_c5ea2cb467eebe96db5a1dbf3821ef61">
+    <head>Scope and Contents</head>
+<p>The Collection of miscellaneous slides of Brooklyn contains both black-and-white and color slides depicting various buildings and locations in Brooklyn, dating from circa 1900 to 1980. Exterior and detail views of the Brooklyn Historical Society (formerly the Long Island Historical Society) building are represented in the collection.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Exterior views</genreform>
+    <genreform source="aat">Color slides</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Detail views</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</geogname>
+    <genreform source="aat">Slides (photographs)</genreform>
+    <corpname rules="aacr" source="naf">Brooklyn Historical Society (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
