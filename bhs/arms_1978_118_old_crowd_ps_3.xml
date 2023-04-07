@@ -1,81 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1978_118_old_crowd_ps_3</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Old Crowd of Brooklyn Public School No. 3 reunion collection
-                    <num>1978.118</num>
-                </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>July 28, 2011</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-17T16:35-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Old Crowd of Brooklyn Public School No. 3 reunion collection</unittitle>
-            <unitid>1978.118</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid995012" type="Volume" label="Mixed materials">1978.118 1 of 1</container>
-            <container id="cid941002" type="Box" label="Text">A0082</container>
-            <physdesc>
-                <extent>0.2 Linear feet</extent>
-                <extent>in two folders</extent>
-            </physdesc>
-            <unitdate normal="1892/1946" type="inclusive">1892-1946</unitdate>
-            <abstract id="ref2" label="Abstract">This collection pertains to Brooklyn P.S. 3, located at Hancock Street and Bedford Avenue. One volume contains a listing of the members of the classes of 1892 and 1893 and the reunions they attended. Also included is correspondence between P.S. 3 alumni regarding class reunions during the 1940s, and a scrapbook containing graduation programs, reunion dinner programs, clippings, and group photographs.</abstract>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Old Crowd of Public School No. 3.</corpname>
-            </origination>
-        </did>
-        <prefercite id="ref5">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Old Crowd of Brooklyn Public School No. 3 reunion collection, 1978.118, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <acqinfo id="ref3">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Purchased from Binken's Book Store, 1973.</p>
-        </acqinfo>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <controlaccess>
-            <genreform source="aat">Attendance lists</genreform>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <genreform source="aat">Correspondence</genreform>
-            <genreform source="aat">Photographs</genreform>
-            <genreform source="aat">Programs (documents)</genreform>
-            <subject source="lcsh">Public schools |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Reunions</subject>
-            <genreform source="aat">Scrapbooks</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_118_old_crowd_ps_3/">arms_1978_118_old_crowd_ps_3</eadid><filedesc><titlestmt><titleproper>Guide to the Old Crowd of Brooklyn Public School No. 3 reunion collection <num>1978.118</num></titleproper><author>Collection processed by Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-04-07T16:16:34</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Old Crowd of Brooklyn Public School No. 3 reunion collection</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Old Crowd of Public School No. 3</corpname>
+    </origination>
+    <unitid>1978.118</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent>
+      <extent altrender="carrier">in two folders and one volume.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1892/1946" type="inclusive">1892-1946</unitdate>
+    <abstract id="aspace_545a3504e4ee9a8e71bed6f697e5deb0">This collection pertains to Brooklyn P.S. 3, located at Hancock Street and Bedford Avenue. One volume contains a listing of the members of the classes of 1892 and 1893 and the reunions they attended. Also included is correspondence between P.S. 3 alumni regarding class reunions during the 1940s, and a scrapbook containing graduation programs, reunion dinner programs, clippings, and group photographs.</abstract>
+    <container id="aspace_980151b7201815f5aa89193060de71fa" label="Mixed Materials" type="Volume">1978.118 1 of 1</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_f4f7b9ffb79e25f08f3635e47eff8436" label="Text" type="Box">A0082</container>
+  </did>
+  <prefercite id="aspace_f88443db81b52808f2e2dcdef58c92ef">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Old Crowd of Brooklyn Public School No. 3 reunion collection, 1978.118, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <acqinfo id="aspace_dada6a3ddc1fc05104b8f0625f2ee0f5">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchased from Binken's Book Store, 1973.</p>  </acqinfo>
+  <accessrestrict id="aspace_c74854c89e837ab7e2f69d85bfeece33">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <scopecontent id="aspace_1f948f209aa63309bfa72c8de415fc20">
+    <head>Scope and Contents</head>
+<p>This collection pertains to Brooklyn P.S. 3, located at Hancock Street and Bedford Avenue. One volume contains a listing of the members of the classes of 1892 and 1893 and the reunions they attended. Also included is correspondence between P.S. 3 alumni regarding class reunions during the 1940s, and a scrapbook containing graduation programs, reunion dinner programs, clippings, and group photographs.</p>  </scopecontent>
+  <userestrict id="aspace_5dd9cfce7991a0464a41c9036ffda2e5">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <relatedmaterial id="aspace_3cf82be660b52e2bcb0b7559b0a9b685">
+    <head>Related Materials</head>
+<p>Center for Brooklyn History holds the following related materials:</p><p>- Brooklyn schools collection (CBHM.0006)</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Photographs</genreform>
+    <genreform source="aat">Attendance lists</genreform>
+    <subject source="lcsh">Reunions</subject>
+    <genreform source="aat">Scrapbooks</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Public schools |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Correspondence</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
