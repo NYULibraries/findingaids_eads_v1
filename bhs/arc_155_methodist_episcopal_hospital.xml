@@ -1,102 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_155_methodist_episcopal_hospital</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Methodist Episcopal Hospital annual reports and ephemera collection
-                    <num>ARC.155</num>
-                </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>December 14, 2010</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T10:31-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>December 2010</date>
-                <item></item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Methodist Episcopal Hospital annual reports and ephemera collection</unittitle>
-            <unitid>ARC.155</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid548004" type="Box" label="Text">ARC.155 1 of 3</container>
-            <container id="cid548003" type="Box" label="Text">ARC.155 2 of 3</container>
-            <container id="cid548002" type="Box" label="Text">ARC.155 3 of 3</container>
-            <physdesc>
-                <extent>1.0 Linear feet</extent>
-                <extent>in three manuscript boxes</extent>
-            </physdesc>
-            <unitdate normal="1888/1990" type="inclusive">1888-1990</unitdate>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Methodist Episcopal Hospital (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-        </did>
-        <bioghist id="ref1">
-            <head>Historical note</head>
-            <p>In 1881, the Reverend James Monroe Buckley, editor of the periodical 
-                <emph render="italic">The Christian Advocate</emph>, made an appeal to the publication's Methodist readership to contribute to the establishment of a new hospital that would help to address the health concerns of Brooklyn's rapidly growing population. Buckley's appeal was answered by prominent banker George Ingraham Seney, who contributed $100,000 and several plots of land to begin construction of the hospital, and to incorporate the institution. The hospital was incorporated on May 27, 1881, and opened on December 19, 1887 at the corner of 6th Street and 7th Avenue in the Park Slope neighborhood of Brooklyn. Originally housed in three buildings with a staff of 16, Methodist Episcopal Hospital grew steadily throughout the 20th century, and as of 2010 it comprises a sprawling complex of buildings with a staff of several hundred. In the 1990s, the institution's name was officially changed to New York Methodist Hospital.</p>
-        </bioghist>
-        <accessrestrict id="ref2">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <prefercite id="ref3">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Methodist Episcopal Hospital Annual Reports and Ephemera collection, ARC.155, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <acqinfo id="ref4">
-            <head>Immediate Source of Acquisition note</head>
-            <p>The source and date of acquisition for this collection are unknown.</p>
-        </acqinfo>
-        <processinfo id="ref5">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <scopecontent id="ref6">
-            <head>Scope and Contents</head>
-            <p>The Methodist Episcopal Hospital annual reports and ephemera collection is housed in three manuscript boxes and measures one linear foot. The collection spans the years 1888 to 1990 and primarily consists of the hospital's annual reports. Included in the collection are a complete run of annual reports from 1888 to 1950, and scattered annual reports dated 1956 to 1990. These documents feature summaries of the hospital's activities and accomplishments for each year, the names of donors and donations made, as well as summaries of the hospital's financial standing for each year. The collection also includes a handful of programs for events benefitting the hospital, dated 1966 and 1967, as well as copies of its charter and bylaws, dated 1888, 1897, and 1905.</p>
-        </scopecontent>
-        <controlaccess>
-            <corpname rules="dacs" source="local">Methodist Episcopal Hospital (Brooklyn, New York, N.Y.).</corpname>
-            <genreform source="aat">Annual reports</genreform>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <subject source="lcsh">Hospitals |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
-            <genreform source="aat">Programs (documents)</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_155_methodist_episcopal_hospital/">arc_155_methodist_episcopal_hospital</eadid><filedesc><titlestmt><titleproper>Guide to the Methodist Episcopal Hospital reports and publications <num>ARC.155</num></titleproper><author>Collection processed by Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-04-14T15:52:35</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2023</date><item>Revised by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Methodist Episcopal Hospital reports and publications</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Methodist Episcopal Hospital (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>ARC.155</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in two manuscript boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1888/1992" type="inclusive">1888-1992</unitdate>
+    <abstract id="aspace_67f7a23654a9d44e3190d7768021c1e4">The Methodist Episcopal Hospital reports and publications contains annual reports and assorted publications produced by the Methodist Episcopal Hospital in Park Slope from 1888-1992.</abstract>
+  </did>
+  <accessrestrict id="aspace_87d659e3402c619f146ab4c7d719c749">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_ea6fd7ec7bc4b1f9f889b1d235c8fe2f">
+    <head>Immediate Source of Acquisition</head>
+<p>The source and date of acquisition for this collection are unknown.</p>  </acqinfo>
+  <arrangement id="aspace_0a79de93e125dc77972763d109bd7429">
+    <head>Arrangement</head>
+<p>The collection is arranged by type and chronologically.</p>  </arrangement>
+  <bioghist id="aspace_a15981295da40166a5d6dc9a8a28bbf6">
+    <head>Historical note</head>
+<p>In 1881, the Reverend James Monroe Buckley, editor of the periodical <emph render="italic">The Christian Advocate</emph>, made an appeal to the publication's Methodist readership to contribute to the establishment of a new hospital that would help to address the health concerns of Brooklyn's rapidly growing population. Buckley's appeal was answered by prominent banker George Ingraham Seney, who contributed $100,000 and several plots of land to begin construction of the hospital, and to incorporate the institution. The hospital was incorporated on May 27, 1881, and opened on December 19, 1887 at the corner of 6th Street and 7th Avenue in the Park Slope neighborhood of Brooklyn. Originally housed in three buildings with a staff of 16, Methodist Episcopal Hospital grew steadily throughout the 20th century, and as of 2023 it comprises a sprawling complex of buildings with a staff of several hundred. In the 1990s, the institution's name was officially changed to New York Methodist Hospital, and in 2016, its name changed again to NewYork-Presbyterian Brooklyn Methodist Hospital when it became part of the NewYork–Presbyterian Healthcare System network.</p>  </bioghist>
+  <phystech id="aspace_d117ceb24a77528aa9cdcedbf397eb95">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_b9f0accc147fef37981330367e56d14e">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Methodist Episcopal Hospital reports and publications, ARC.155, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <relatedmaterial id="aspace_db1f91fec6feaad513d60d27b2e32e75">
+    <head>Related Materials</head>
+<p>There is information about the hospital's development in the Ronald Shiffman collection on the Pratt Center for Community Development (2013.023)</p><p>Edwin Warriner Papers and Photographs, 1790-1958 (1977.255)</p><p>Records of the Brooklyn Council for Social Planning (BCMS.0039)</p><p>Brooklyn Ephemera Collection (BCMS.0007)</p><p>Brooklyn Historical Society ephemera collection (ARC.272)</p><p>Brooklyn neighborhood associations and civic organizations publications (ARC.167)</p>  </relatedmaterial>
+  <scopecontent id="aspace_7d6e97d578a631d895d98b77b70e112a">
+    <head>Scope and Contents</head>
+<p>The Methodist Episcopal Hospital reports and publications date from 1888 to 1992 and primarily consist of the hospital's annual reports. Included in the collection are a complete run of annual reports from 1888 to 1962, and scattered annual reports dated 1964 to 1990. These documents feature summaries of the hospital's activities and accomplishments for each year, the names of donors and donations made, as well as summaries of the hospital's financial standing for each year. The collection also includes three programs for 1960s events benefitting the hospital, copies of its charter and bylaws dated 1888, 1897, and 1905, and several hospital publications: Methodist Hospital News, Heartbeat, and Today.</p>  </scopecontent>
+  <userestrict id="aspace_3123698745f8522014c5ed5566bbdddf">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Hospitals |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Annual reports</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
+    <genreform source="aat">Programs (documents)</genreform>
+    <corpname rules="dacs" source="local">Methodist Episcopal Hospital (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_a20be2543ab8781b406cf02ce40a5ac5" level="file"><did><unittitle>Annual reports</unittitle><unitdate datechar="creation" normal="1888/1928" type="inclusive">1888-1928</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_698d894ff11357569377ff9d6bd1b2e8" label="Mixed Materials" type="Box">1</container></did></c><c id="aspace_b16a3f34344fc47dc750831c8f219d6b" level="file"><did><unittitle>Annual reports</unittitle><unitdate datechar="creation" normal="1928/1990" type="inclusive">1928-1962, 1964-1969, 1971, 1980, 1990</unitdate><container altrender="Tall Full Manuscript Box" id="aspace_8e6efb6b85fc71528d6d7ffd38b797ab" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_06f803241abb61520508d20512aaecc8" level="file"><did><unittitle>Guidance of architects in preparing designs for the Methodist Episcopal Hospital</unittitle><unitdate datechar="creation" normal="1881/1881">1881</unitdate><container altrender="Tall Full Manuscript Box" id="aspace_0cbbd4cca26a436f33fde8638d01afe0" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_09a76d89f67d49074d499cbac1048dc0" level="file"><did><unittitle>Charter and By-Laws</unittitle><unitdate datechar="creation" normal="1888/1905" type="inclusive">1888, 1897, 1905</unitdate><container altrender="Tall Full Manuscript Box" id="aspace_7014c0c3acaaab6b5136e361bec8c383" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_9d79152bdc3af9c8bcc9906d704a216c" level="file"><did><unittitle>Superintendents report</unittitle><unitdate datechar="creation" normal="1892/1907" type="inclusive">1892, 1907</unitdate><container altrender="Tall Full Manuscript Box" id="aspace_cead6c61d7aaf5e8634df5ac0a342806" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_1f45d6007c5722ac52ed4c158a6716ca" level="file"><did><unittitle>Fundraising letter and circular</unittitle><unitdate datechar="creation" normal="1898/1898">1898</unitdate><container altrender="Tall Full Manuscript Box" id="aspace_975659fd7547512bdffdeebc1f92940d" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_04d6ba38b6f5b31a2246090a76a80dfd" level="file"><did><unittitle>Methodist Hospital News</unittitle><unitdate datechar="creation" normal="1936/1937" type="inclusive">1936-1937</unitdate><container altrender="Tall Full Manuscript Box" id="aspace_c5273543c4b1f50b455a3b4743fa4030" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_3afa3543cbc1582f478b9b9946578af5" level="file"><did><unittitle>Heartbeat</unittitle><unitdate datechar="creation" normal="1960/1962" type="inclusive">1960-1962</unitdate><container altrender="Tall Full Manuscript Box" id="aspace_06601c35dda50c828468b8272072d294" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_01f2059e563a24858c6e0e8c558bc7a7" level="file"><did><unittitle>Florence Nightingale Federation annual bazaar programs</unittitle><unitdate datechar="creation" normal="1962/1967" type="inclusive">1962, 1966, 1967</unitdate><container altrender="Tall Full Manuscript Box" id="aspace_db2cfe98f7b5d3a14955fb4d0e6dd4b5" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_1f6867b94abe9dc99296ec3e4f614da8" level="file"><did><unittitle>Park Slope Civic Council letter regarding new hospital building</unittitle><unitdate datechar="creation" normal="1988/1988">1988</unitdate><container altrender="Tall Full Manuscript Box" id="aspace_30b08954e176be15d4f1617b2ddc7c79" label="Mixed Materials" type="Box">2</container></did></c><c id="aspace_26ce209a7e4d026e75aabb2379140b6e" level="file"><did><unittitle>Today</unittitle><unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate><container altrender="Tall Full Manuscript Box" id="aspace_6f46ca08df9482f2e8fea607881b0987" label="Mixed Materials" type="Box">2</container></did></c></dsc>
+</archdesc>
 </ead>
