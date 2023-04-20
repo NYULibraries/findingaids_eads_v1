@@ -1,93 +1,62 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_126_thorne</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the John S. Thorne papers
-                    <num>1977.126</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>May 31, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-09T16:03-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>John S. Thorne papers</unittitle>
-            <unitid>1977.126</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid812003" type="Box" label="Text">A0038</container>
-            <physdesc>
-                <extent>0.06 linear feet</extent>
-                <extent>in one folder.</extent>
-            </physdesc>
-            <unitdate normal="1824/1836" type="inclusive">1824-1836</unitdate>
-            <origination label="creator">
-                <persname source="local">Thorne, John S.</persname>
-            </origination>
-        </did>
-        <prefercite id="ref6">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); John S. Thorne papers, 1977.126, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <processinfo id="ref5">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <acqinfo id="ref4">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of the Brooklyn Institute of Arts and Letters, 1931.</p>
-        </acqinfo>
-        <bioghist id="ref3">
-            <head>Biographical Note</head>
-            <p>Dr. John S. Thorne was a Brooklyn resident who studied medicine at the University of the State of New York College of Physicians and Surgeons and then practiced in Brooklyn. He served on the Brooklyn Board of Health and at the Brooklyn Dispensary. Thorne's daughter, Elizabeth, married Samuel Haslett, who was the son of Dr. John Haslett, another prominent Brooklyn physician.</p>
-        </bioghist>
-        <scopecontent id="ref2">
-            <head>Scope and Contents note</head>
-            <p>This collection includes various papers of Dr. John S. Thorne spanning the period 1824 to 1836, including correspondence, notes, commissions and appointments, and admission tickets to classes and lectures at the University of the State of New York College of Physicians and Surgeons and the New York Eye Infirmary.</p>
-        </scopecontent>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <controlaccess>
-            <genreform source="aat">Admission tickets</genreform>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Commissions (permissions)</genreform>
-            <genreform source="aat">Correspondence</genreform>
-            <subject source="lcsh">Medicine |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Physicians |z New York (State) |z Kings County</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_126_thorne/">arms_1977_126_thorne</eadid><filedesc><titlestmt><titleproper>Guide to the John S. Thorne and John Haslett papers <num>1977.126</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-04-20T17:16:11</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2023</date><item>Revised by Dee Bowers to incoporate additional materials</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>John S. Thorne and John Haslett papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Thorne, John S.</persname>
+    </origination>
+    <unitid>1977.126</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.06 Linear Feet</extent>
+      <extent altrender="carrier">in one folder and one oversize folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1822/1882" type="inclusive">1822-1882</unitdate>
+    <abstract id="aspace_7079239745269eb62b78f2254e9ae974">This collection includes various papers of Dr. John S. Thorne and Dr. John Haslett spanning the period 1822 to 1882, including correspondence, notes, commissions and appointments, certificates, and admission tickets to classes and lectures at the University of the State of New York College of Physicians and Surgeons and the New York Eye Infirmary.</abstract>
+    <container altrender="Full Manuscript Box Legal" id="aspace_a1e718b4e758aa173d36c0ebcd7ede5c" label="Text" type="Box">A0038</container>
+    <container altrender="Large Flat Box 9" id="aspace_9187e2d0f7eb5942c09806540eeec35c" label="Mixed Materials" type="Box">OS-34</container>
+  </did>
+  <accessrestrict id="aspace_832aa16368f48c1d028a36f5eda4e3a4">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_559633d70cc0de62a042161ad931a9ee">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of the Brooklyn Institute of Arts and Letters, 1931.</p>  </acqinfo>
+  <bioghist id="aspace_253f64201b5760b677c0431eaa6565d8">
+    <head>Biographical Note</head>
+<p>Dr. John S. Thorne was a Brooklyn resident who studied medicine at the University of the State of New York College of Physicians and Surgeons and then practiced in Brooklyn. He served on the Brooklyn Board of Health and at the Brooklyn Dispensary. Thorne's daughter, Elizabeth, married Samuel Haslett, who was the son of Dr. John Haslett, another prominent Brooklyn physician.</p>  </bioghist>
+  <prefercite id="aspace_308206894bb5e21a85ff55e4cdcee142">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); John S. Thorne and John Haslett papers, 1977.126, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_e4034460f8a216cd873959db719469f2">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level. Certificates from this collection were found in Brooklyn certificates collection (1977.307) in April 2023 and added to this collection.</p>  </processinfo>
+  <scopecontent id="aspace_8ccf76a44678f5f6af711d4bb4e40f3b">
+    <head>Scope and Contents</head>
+<p>This collection includes various papers of Dr. John S. Thorne and Dr. John Haslett spanning the period 1822 to 1882, including correspondence, notes, commissions and appointments, certificates, and admission tickets to classes and lectures at the University of the State of New York College of Physicians and Surgeons and the New York Eye Infirmary.</p>  </scopecontent>
+  <arrangement id="aspace_a1e682ebc413cdaa271f8054a5ae0d7e">
+    <head>Arrangement</head>
+<p>This small collection is arranged by size, with smaller documents and items in one folder in a manuscript box and oversize certificates foldered in an oversize box.</p>  </arrangement>
+  <relatedmaterial id="aspace_1fa43a6a68649992f8c0d1f35db9d08c">
+    <head>Related Materials</head>
+<p>Medical Society of the County of Kings collection (1985.116)</p><p>Brooklyn Hospital records (ARC.225)</p><p>Brooklyn hospitals and health services organizations collection (ARC.141)</p>  </relatedmaterial>
+  <phystech id="aspace_02c05b0bd2e00bcecbb285795a862616">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <userestrict id="aspace_204b5ce02425e69b5a1107f39534c753">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Commissions (permissions)</genreform>
+    <genreform source="aat">Admission tickets</genreform>
+    <genreform source="aat">Correspondence</genreform>
+    <subject source="lcsh">Medicine |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Physicians |z New York (State) |z Kings County</subject>
+    <genreform source="aat">Certificates</genreform>
+    <persname source="local">Haslett, John, Dr.</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
