@@ -1,221 +1,170 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arc_241_presbyterian_churches</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Presbyterian Churches of Brooklyn collection
-                    <num>ARC.241</num>
-                </titleproper>
-                <author>Finding aid prepared by Patricia Glowinski and Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>November 17, 2010.</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-28T11:30-0500</date>
-            </creation>
-            <langusage>English.</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>January 13, 2011</date>
-                <item>Additional content contributed by Emily Reynolds on January 13, 2011, and by Matthew Gorham on July 29, 2011.</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Presbyterian Churches of Brooklyn collection</unittitle>
-            <unitid>ARC.241</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid943007" type="Box" label="Text">ARC.241 3 of 6</container>
-            <container id="cid943006" type="Box" label="Text">ARC.241 4 of 6</container>
-            <container id="cid943005" type="Box" label="Text">ARC.241 5 of 6</container>
-            <container id="cid943004" type="Box" label="Text">ARC.241 6 of 6</container>
-            <container id="cid512007" type="Box" label="Text">ARC.241 1 of 6</container>
-            <container id="cid512005" type="Box" label="Text">ARC.241 2 of 6</container>
-            <physdesc>
-                <extent>2.5 Linear feet</extent>
-                <extent>in six manuscript boxes.</extent>
-            </physdesc>
-            <unitdate normal="1831/1984" type="inclusive">1831-1984</unitdate>
-            <abstract id="ref8" label="Abstract">The Presbyterian Churches of Brooklyn collection contains materials from 22 Presbyterian churches and associations located in Brooklyn, N.Y. The collection spans the years 1831 to 1984 and includes church histories, reports, minutes, manuals, yearbooks, programs, financial records, registers, newsletters, and miscellaneous publications. The yearbooks are of particular interest as they often contain membership lists.</abstract>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Bay Ridge-Fort Hamilton Presbytery (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Brooklyn-Nassau Presbytery (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Bushwick Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Central Avenue Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">City Park Chapel (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname source="local">Classon Avenue Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Clinton Street Presbyterian Church.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">First Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Fort Hamilton Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Homecrest Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="naf">Lafayette Avenue Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Memorial Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Pacific Street Chapel.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Park Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Second Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">South Brooklyn Presbyterian Church.</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname source="local">South Third Street Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Spencer Memorial Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Throop Avenue Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Union Church of Bay Ridge (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Westminster-Bethany United Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-        </did>
-        <bioghist id="ref1">
-            <head>Historical note</head>
-            <p>The First Presbyterian Church, Newtown (founded in 1652) and the First Presbyterian Church, Jamaica (founded in 1662) were the first organized Presbyterian churches in what is today New York City. Located in the present-day borough of Queens, the original churches faced religious suppression when they were forced to take on Anglican pastors by the ruling Anglican colonial governors. After years of religious persecution, including the imprisonment of the Presbyterian preacher and father of American Presbyterian Francis Makemie, the church eventually was able to expand when the First Presbyterian Church, Manhattan was founded in lower Manhattan in 1716. Soon after, in 1717, another church was organized in Staten Island and in 1822, the First Presbyterian Church of Brooklyn was formed in what is today the neighborhood of Brooklyn Heights.</p>
-            <p>During the American Revolutionary War, many church members became known for their revolutionary activities against the British. It was also during this period that the church expanded its membership by opening schools and Sunday schools in Manhattan and Brooklyn. Beginning in the 1830s, the issue over slavery eventually led to a split in the Presbyterian Church when the Southern Presbyterian Church was created in 1861. Anti-slavery churches, such as the First Presbyterian Church of Brooklyn faced mob violence during the time leading up to the rupture of the church. Following the Civil War, the church turned its attention to missionary work and social reform. In Brooklyn, the Lafayette Avenue Presbyterian Church sent the first Presbyterian missionary to Korea.</p>
-            <p>The Presbyterian Church in America faced more challenges during the late 19th and early 20th centuries, including the heresy trial of New York City born theologian and scholar Charles Augustus Briggs. Briggs was one of the early proponents of Higher Criticism, a movement within the church that stressed that the Bible contained errors that should be interpreted as stories and not as facts. This split in doctrine led to what would become the Modernist-Fundamentalist controversy within the American Presbyterian Church, as well as in other Christian denominations in America.</p>
-            <p>In 1983, the split in the Presbyterian Church that occurred during the Civil War was mended when the church was reunited to form the Presbyterian Church of the United States of America.</p>
-            <list numeration="arabic" type="ordered">
-                <head>Sources:</head>
-                <item>Jackson, Kenneth T. "Presbyterians." 
-                    <emph render="italic">The Encyclopedia of New York City</emph>. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 1995.</item>
-            </list>
-        </bioghist>
-        <accessrestrict id="ref2">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <acqinfo id="ref3">
-            <head>Immediate Source of Acquisition</head>
-            <p>Portions of this collection were donated by John Herzon in 1977, and the donors of other materials are unknown.</p>
-        </acqinfo>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Presbyterian Churches of Brooklyn collection, 1986.028, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <processinfo id="ref5">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <scopecontent id="ref6">
-            <head>Scope and Contents note</head>
-            <p>The Presbyterian Churches of Brooklyn collection contains materials from 22 Presbyterian churches and associations located in Brooklyn, N.Y. The collection spans the years 1831 to 1984 and includes church histories, reports, minutes, registers, financial records, manuals, yearbooks, programs, newsletters, and miscellaneous publications. The yearbooks are of particular interest as they often contain membership lists.</p>
-            <p>Churches represented in the collection are: The Union Church of Bay Ridge (formerly Bay Ridge Presbyterian Church and Bay Ridge Reformed Dutch Church); Bay Ridge-Fort Hamilton Presbytery; Brooklyn-Nassau Presbytery; Bushwick Presbyterian Church; Central Avenue Presbyterian Church; Classon Avenue Presbyterian Church; City Park Chapel; Fort Hamilton Presbyterian Church; Homecrest Presbyterian Church; Lafayette Avenue Presbyterian Church; Memorial Presbyterian Church; Park Presbyterian Church; Spencer Memorial Presbyterian Church; South Third Street Presbyterian Church; Throop Avenue Presbyterian Church; and Westminster-Bethany United Presbyterian Church; South Presbyterian Church, Westminster Presbyterian Church, Pacific Street Chapel, Second Presbyterian Church, Clinton Street Presbyterian Church, and First Presbyterian Church.</p>
-            <p></p>
-        </scopecontent>
-        <relatedmaterial id="ref7">
-            <head>Related Archival Materials</head>
-            <p>Brooklyn Historical Society also holds several related collections. Interested researchers should see the First Presbyterian Church collection (ARC.125); Prospect Heights Presbyterian Church records (ARC.087); and Lafayette Avenue Presbyterian Church records (2009.011). Please consult library staff for more information.</p>
-        </relatedmaterial>
-        <controlaccess>
-            <corpname rules="dacs" source="local">Bay Ridge-Fort Hamilton Presbytery (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Brooklyn-Nassau Presbytery (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Bushwick Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Central Avenue Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">City Park Chapel (Brooklyn, New York, N.Y.).</corpname>
-            <corpname source="local">Classon Avenue Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Clinton Street Presbyterian Church.</corpname>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">First Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Fort Hamilton Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Homecrest Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="naf">Lafayette Avenue Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Memorial Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Pacific Street Chapel.</corpname>
-            <corpname rules="dacs" source="local">Park Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Second Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">South Brooklyn Presbyterian Church.</corpname>
-            <corpname source="local">South Third Street Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Spencer Memorial Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Throop Avenue Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Union Church of Bay Ridge (Brooklyn, New York, N.Y.).</corpname>
-            <corpname rules="dacs" source="local">Westminster-Bethany United Presbyterian Church (Brooklyn, New York, N.Y.).</corpname>
-            <genreform source="aat">Annual reports</genreform>
-            <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
-            <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Religious life and customs</geogname>
-            <geogname source="lcsh">Brooklyn Heights (New York, N.Y.) </geogname>
-            <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
-            <subject source="lcsh">Christian life |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Church anniversaries |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Church finance |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Church history</subject>
-            <subject source="lcsh">Church management |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Church membership |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Church property |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Church records</genreform>
-            <subject source="lcsh">Church societies |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Directories</genreform>
-            <genreform source="aat">Financial records</genreform>
-            <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
-            <genreform source="aat">Manuals (instructional materials)</genreform>
-            <genreform source="aat">Membership lists</genreform>
-            <genreform source="aat">Minutes</genreform>
-            <genreform source="aat">Newsletters</genreform>
-            <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
-            <subject source="lcsh">Presbyterian Church |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Presbyterian Church |z New York (State) |z Kings County |x Clergy</subject>
-            <genreform source="aat">Programs (documents)</genreform>
-            <genreform source="aat">Publications</genreform>
-            <genreform source="aat">Registers (lists)</genreform>
-            <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
-            <genreform source="aat">Reports</genreform>
-            <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
-            <genreform source="aat">Yearbooks</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arc_241_presbyterian_churches/">arc_241_presbyterian_churches</eadid><filedesc><titlestmt><titleproper>Guide to the Presbyterian Churches of Brooklyn collection <num>ARC.241</num></titleproper><author>Collection processed by Patricia Glowinski and Matthew Gorham</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-04-26T14:36:58</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Presbyterian Churches of Brooklyn collection</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Spencer Memorial Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Throop Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">South Third Street Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Homecrest Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Memorial Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Park Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="naf">Lafayette Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Clinton Street Presbyterian Church</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">First Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Second Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Bushwick Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Pacific Street Chapel</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">South Brooklyn Presbyterian Church</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Union Church of Bay Ridge (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Westminster-Bethany United Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Fort Hamilton Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">City Park Chapel (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Central Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Classon Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Brooklyn-Nassau Presbytery (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Bay Ridge-Fort Hamilton Presbytery (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>ARC.241</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.71 Linear Feet</extent>
+      <extent altrender="carrier">in six manuscript boxes and on half manuscript box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1831/1984" type="inclusive">1831-1984</unitdate>
+    <abstract id="aspace_42cc94624f3b173c1b48a29d5ab51ca5">The Presbyterian Churches of Brooklyn collection contains materials from 22 Presbyterian churches and associations located in Brooklyn, N.Y. The collection spans the years 1831 to 1984 and includes church histories, reports, minutes, manuals, yearbooks, programs, financial records, registers, newsletters, and miscellaneous publications. The yearbooks are of particular interest as they often contain membership lists.</abstract>
+    <container id="aspace_331637d9cf1b56c05fa68d10a46a2a26" label="Text" type="Box">3</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_4ccd2e724c464e296ed01bf3aa8469fc" label="Text" type="Box">4</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_03139d96e55a9c1a5d93721cde1eae67" label="Text" type="Box">5</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_6c2e71fafe124edece757cc84d124b90" label="Text" type="Box">6</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_559ec095bfa55a4b03771fb3b7c2302c" label="Text" type="Box">1</container>
+    <container altrender="Full Manuscript Box Legal" id="aspace_5f4285115f77173053485ebf2f97ae44" label="Text" type="Box">2</container>
+    <container altrender="Half Manuscript Box Legal" id="aspace_5602aedaade0ab965d54563086f336dc" label="Mixed Materials" type="Box">7</container>
+  </did>
+  <bioghist id="aspace_9a0ae1cd4a7827a4d5841a0e6a69448e">
+    <head>Historical note</head>
+<p>The First Presbyterian Church, Newtown (founded in 1652) and the First Presbyterian Church, Jamaica (founded in 1662) were the first organized Presbyterian churches in what is today New York City. Located in the present-day borough of Queens, the original churches faced religious suppression when they were forced to take on Anglican pastors by the ruling Anglican colonial governors. After years of religious persecution, including the imprisonment of the Presbyterian preacher and father of American Presbyterian Francis Makemie, the church eventually was able to expand when the First Presbyterian Church, Manhattan was founded in lower Manhattan in 1716. Soon after, in 1717, another church was organized in Staten Island and in 1822, the First Presbyterian Church of Brooklyn was formed in what is today the neighborhood of Brooklyn Heights.</p><p>During the American Revolutionary War, many church members became known for their revolutionary activities against the British. It was also during this period that the church expanded its membership by opening schools and Sunday schools in Manhattan and Brooklyn. Beginning in the 1830s, the issue over slavery eventually led to a split in the Presbyterian Church when the Southern Presbyterian Church was created in 1861. Anti-slavery churches, such as the First Presbyterian Church of Brooklyn faced mob violence during the time leading up to the rupture of the church. Following the Civil War, the church turned its attention to missionary work and social reform. In Brooklyn, the Lafayette Avenue Presbyterian Church sent the first Presbyterian missionary to Korea.</p><p>The Presbyterian Church in America faced more challenges during the late 19th and early 20th centuries, including the heresy trial of New York City born theologian and scholar Charles Augustus Briggs. Briggs was one of the early proponents of Higher Criticism, a movement within the church that stressed that the Bible contained errors that should be interpreted as stories and not as facts. This split in doctrine led to what would become the Modernist-Fundamentalist controversy within the American Presbyterian Church, as well as in other Christian denominations in America. </p><p>In 1983, the split in the Presbyterian Church that occurred during the Civil War was mended when the church was reunited to form the Presbyterian Church of the United States of America.</p>    <list numeration="arabic" type="ordered">
+      <head>Sources:</head>
+      <item>Jackson, Kenneth T. "Presbyterians." <emph render="italic">The Encyclopedia of New York City</emph>. New Haven, Conn.: Yale University Press; New York: New-York Historical Society, 1995.</item>
+    </list>
+  </bioghist>
+  <accessrestrict id="aspace_965ad38e8757ce1cb68aeadad60a5658">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_16049cbd50f05fa05334a998651b88e3">
+    <head>Immediate Source of Acquisition </head>
+<p>Portions of this collection were donated by John Herzon in 1977. The deed of pew (accession 1974.172) was a gift of Francis F. Spies, 1932. The donors of other materials are unknown.</p>  </acqinfo>
+  <prefercite id="aspace_5409077377d5869b7292e3cb9d815acf">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Presbyterian Churches of Brooklyn collection, 1986.028, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_4034de2e0ab8ef1f860bef10c8f677c2">
+    <head>Processing Information note</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <scopecontent id="aspace_d77457539fe43915aeec6b7fcc1f924e">
+    <head>Scope and Contents note</head>
+<p>The Presbyterian Churches of Brooklyn collection contains materials from Presbyterian churches and associations located in Brooklyn, N.Y. The collection spans the years 1831 to 1984 and includes church histories, reports, minutes, registers, financial records, manuals, yearbooks, programs, newsletters, a pew deed, and miscellaneous publications. The yearbooks are of particular interest as they often contain membership lists.</p><p>Churches represented in the collection are: The Union Church of Bay Ridge (formerly Bay Ridge Presbyterian Church and Bay Ridge Reformed Dutch Church); Bay Ridge-Fort Hamilton Presbytery; Brooklyn-Nassau Presbytery; Bushwick Presbyterian Church; Central Avenue Presbyterian Church; Classon Avenue Presbyterian Church; City Park Chapel; Fort Hamilton Presbyterian Church; Homecrest Presbyterian Church; Lafayette Avenue Presbyterian Church; Memorial Presbyterian Church; Park Presbyterian Church; Spencer Memorial Presbyterian Church; South Third Street Presbyterian Church; Throop Avenue Presbyterian Church; and Westminster-Bethany United Presbyterian Church; South Presbyterian Church, Westminster Presbyterian Church, Pacific Street Chapel, Second Presbyterian Church, Clinton Street Presbyterian Church, and First Presbyterian Church.</p><p>The Francis F. Spies deed of pew lists "First Presbyterian Church" on the deed, but the address is at the southern corner of Remsen Street and Clinton Street where the Second Presbyterian Church and Spencer Memorial Presbyterian Church have been. </p>  </scopecontent>
+  <relatedmaterial id="aspace_d38ef2628f2d6d3763fbe5f06266fbb1">
+    <head>Related Archival Materials</head>
+<p>Brooklyn Historical Society also holds several related collections. Interested researchers should see the First Presbyterian Church collection (ARC.125); Prospect Heights Presbyterian Church records (ARC.087); and Lafayette Avenue Presbyterian Church records (2009.011). Please consult library staff for more information.</p>  </relatedmaterial>
+  <userestrict id="aspace_418400dcfa00bc3442b6cb2ac0215a5f">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="lcsh">Newsletters</genreform>
+    <subject source="lcsh">Church membership |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Presbyterian Church |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Church anniversaries |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Church management |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bay Ridge (New York, N.Y)</geogname>
+    <geogname source="lcsh">Park Slope (New York, N.Y.)</geogname>
+    <geogname source="lcsh">Bedford-Stuyvesant (New York, N.Y.)</geogname>
+    <genreform source="aat">Financial records</genreform>
+    <geogname source="lcsh">Bushwick (New York, N.Y.)</geogname>
+    <genreform source="aat">Registers (lists)</genreform>
+    <genreform source="aat">Minutes</genreform>
+    <geogname source="lcsh">Brooklyn Heights (New York, N.Y.)</geogname>
+    <subject source="lcsh">Church property |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Church societies |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Christian life |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Church finance |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) |x Religious life and customs</geogname>
+    <subject source="lcsh">Religious institutions |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Church history</subject>
+    <subject source="lcsh">Presbyterian Church |z New York (State) |z Kings County |x Clergy</subject>
+    <genreform source="aat">Directories</genreform>
+    <genreform source="aat">Manuals (instructional materials)</genreform>
+    <genreform source="aat">Church records</genreform>
+    <genreform source="aat">Yearbooks</genreform>
+    <genreform source="aat">Annual reports</genreform>
+    <genreform source="aat">Reports</genreform>
+    <genreform source="aat">Publications</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <geogname source="lcsh">Williamsburg (New York, N.Y.)</geogname>
+    <genreform source="aat">Membership lists</genreform>
+    <corpname rules="dacs" source="local">Spencer Memorial Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Throop Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname source="local">South Third Street Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Homecrest Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Memorial Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Park Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="naf">Lafayette Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Clinton Street Presbyterian Church</corpname>
+    <corpname rules="aacr" source="naf">First Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Second Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Pacific Street Chapel</corpname>
+    <corpname source="local">Classon Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">South Brooklyn Presbyterian Church</corpname>
+    <corpname rules="dacs" source="local">Bushwick Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Union Church of Bay Ridge (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Westminster-Bethany United Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Fort Hamilton Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">City Park Chapel (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Central Avenue Presbyterian Church (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Brooklyn-Nassau Presbytery (Brooklyn, New York, N.Y.)</corpname>
+    <corpname rules="dacs" source="local">Bay Ridge-Fort Hamilton Presbytery (Brooklyn, New York, N.Y.)</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
