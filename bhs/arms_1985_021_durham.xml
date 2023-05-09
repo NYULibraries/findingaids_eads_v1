@@ -1,112 +1,82 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1985_021_durham</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Durham family papers
-                    <num>1985.021</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>September 1, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-18T16:11-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Durham family papers</unittitle>
-            <unitid>1985.021</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid1006002" type="Box" label="Text">A0644</container>
-            <container id="cid1006001" type="Oversize" label="Text">1985.021 1 of 1</container>
-            <physdesc>
-                <extent>1.0 Linear feet</extent>
-                <extent>in one folder and one oversize volume.</extent>
-            </physdesc>
-            <unitdate normal="1750/1950" type="bulk">Bulk, 1750-1950</unitdate>
-            <unitdate normal="1273/1950" type="inclusive">1273-1950</unitdate>
-            <abstract id="ref2" label="Abstract">Papers of the Durham family, who ancestors were from England, Ireland, and Scotland and immigrated to America in the 1600s and 1700s, where they settled in New York, Brooklyn, and Long Island, N.Y., as well as several other states in New England, the Mid-Atlantic, the Midwest, and the Northwest. Papers mainly relate to the Durham family's ancestry and genealogical record and contain information stretching back to at least 1273, though the majority of the genealogy materials concern individuals living in the 18th through 20th centuries. Other items relate to the professional accomplishments and personal lives of certain Durham family members living in the late 19th and early 20th centuries. These latter papers place particular emphasis on Knowlton Durham (b. 1880), a New York City lawyer. Materials in the collection include genealogical research notes and lists, correspondence among members of the Durham family, press releases, obituaries and marriage announcements, newspaper and magazine clippings, and other ephemera. Also included are Knowlton Durham's application to the Sons of the Revolution, including extensive details on his personal ancestry and its connection to the Revolutionary War; the Durham family's coat of arms; and one oversize volume containing records of what appears to be the New York City Department of Fire Prevention for the period 1938 to 1950, including records of incoming and outgoing documents and daily statistical and inspection records relating to fire prevention in Manhattan and Brooklyn. It is unknown whether the materials in this collection were compiled by a single researcher or multiple individuals, but it is presumed that the compiler(s) were related to the Durham family.</abstract>
-            <origination label="creator">
-                <famname source="naf">Durham family</famname>
-            </origination>
-            <origination label="creator">
-                <persname source="local">Durham, Knowlton, b. 1880</persname>
-            </origination>
-        </did>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <processinfo id="ref5">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Durham family papers, 1985.021, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <acqinfo id="ref3">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Dwight B. Demeritt, Jr., date unknown. Formally accessioned in 1985.</p>
-        </acqinfo>
-        <controlaccess>
-            <famname source="naf">Durham family</famname>
-            <persname source="local">Durham, Knowlton, b. 1880</persname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <genreform source="aat">Coats of arms</genreform>
-            <genreform source="aat">Correspondence</genreform>
-            <subject source="lcgft">Families |z Middle Atlantic States</subject>
-            <subject source="lcsh">Families |z Middle West</subject>
-            <subject source="lcgft">Families |z New England</subject>
-            <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Families |z New York (State) |z Long Island</subject>
-            <subject source="lcsh">Families |z New York (State) |z New York</subject>
-            <subject source="lcgft">Families |z Northwestern States</subject>
-            <subject source="lcgft">Families |z United States |z Heraldry</subject>
-            <subject source="lcsh">Fire prevention |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Fire prevention |z New York (State) |z New York</subject>
-            <genreform source="aat">Genealogies</genreform>
-            <subject source="lcsh">Genealogy </subject>
-            <subject source="lcsh">Lawyers |z New York (State) |z New York</subject>
-            <geogname source="lcsh">Long Island (N.Y.)</geogname>
-            <subject source="lcsh">Marriage customs and rites |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Marriage customs and rites |z New York (State) |z New York</subject>
-            <geogname source="lcsh">New York (N.Y.)</geogname>
-            <genreform source="aat">Obituaries</genreform>
-            <genreform source="aat">Printed ephemera</genreform>
-            <genreform source="aat">Research notes</genreform>
-            <genreform source="aat">Volumes (documents by form)</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_021_durham/">arms_1985_021_durham</eadid><filedesc><titlestmt><titleproper>Guide to the Knowlton Durham family papers <num>ARC.322</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-05-09T18:51:05</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>May 2023</date><item>Revised by Dee Bowers to incorporate additional materials</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Knowlton Durham family papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Durham, Knowlton</persname>
+    </origination>
+    <origination label="Creator">
+      <famname source="naf">Durham family</famname>
+    </origination>
+    <unitid>ARC.322</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">in one folder and one oversize volume.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1815/1960" type="inclusive">1815-1960</unitdate>
+    <abstract id="aspace_45376d322457faef76672b2dea757d00">Papers relating to the family of Knowlton Durham (1880-1961), a New York City lawyer.</abstract>
+  </did>
+  <accessrestrict id="aspace_4c74ed21a8832f4b4a6fe3cc9f850b57">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_a629f504bbfde3374cb9504ff76d7d51">
+    <head>Immediate Source of Acquisition</head>
+<p>Accession 1985.021 was the gift of Dwight B. Demeritt, Jr., date unknown, and it was formally accessioned in 1985. Accession 2015.037 was the gift of Maria Phillips.</p>  </acqinfo>
+  <arrangement id="aspace_637b4cddfefb5fc9625e8f72655d180b">
+    <head>Arrangement</head>
+<p>The collection is arranged into three series. The first series concerns Knowlton Durham, the second series concerns the Durham family as a whole, and the third series on the Welles family and related families documents Knowlton Durham's maternal line. Within each series, materials are arranged by type, subject, and chronologically.</p>  </arrangement>
+  <bioghist id="aspace_d4698bdd0a5f593e93c5c307506cc1eb">
+    <head>Biographical note</head>
+<p>Knowlton Durham was born on August 29, 1880 in Chicago, Illinois. He was the youngest child of Caleb Wheeler Durham (1848-1910) and Clarissa Safford Welles Durham. He attended Adelphi Academy in Brooklyn, graduating in 1897, and then Columbia University, graduating in 1901. He was a member of the Beta Theta Pi fraternity. He completed law school, also at Columbia, in 1905. He enlisted in the army in 1912 and served in the first World War. In 1925, he married Pauline Crook Peck. Her son, Robert, became his stepson, but the couple never had children of their own.</p><p>Knowlton's father Caleb Durham was born to Alpha Durham (1805-1851) and Elizabeth Riggs. Alpha Durham was the child of John Durham and Pruella Whitney, and his grandfather was also John Durham (1720-1800). Elizabeth Riggs was born to Silas Riggs and Harriet Rose, daughter of David Rose and Mary Rogers. Caleb Durham was a civil engineer and inventor of the Durham System of Plumbing.</p><p>Knowlton's mother Clarissa Safford Welles Durham (1849-1907) and her sisters Sarah and Mary were born to Henry Woolsey Welles (1818-1860) and Susan Martin Safford Welles. Henry Woolsey Welles was the son of John Welles (1776-1855) and Sarah Rice Hulbert (1806-1868) and the grandson of Rev. Dr. Noah Welles (1718-1777) and Abigail Woolsey (1731-1812). Susan Martin Safford Welles was the daughter of John Safford.</p><p>Knowlton Durham's older brothers were Henry "Hal" Welles Durham (1874-1959), Roger Durham, and Leicester Durham (1877-1933). Henry followed his father into civil engineering. He married Josephine Belden Trowbridge in 1903 and they had one daughter, Elizabeth. Leicester married Viola Ethel "Pansy" Hyde Durham and they had four children: Carol, Richard Hyde, John Dickinson, and Sarah "Sally" Welles.</p>  </bioghist>
+  <phystech id="aspace_88c439d6defe9bfcacaaefaaca4f5a75">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_c5aeb1603d878d946cd3f10ae6636cb0">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Knowlton Durham family papers, ARC.322, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_c55819882fada5d45f42784eda8cf8f9">
+    <head>Processing Information</head>
+<p>Accession 1985.021 was originally minimally processed to the collection level. In May 2023, Dee Bowers added accession 2015.037 and reprocessed the collection, including photocopying newsclippings and discarding the originals.</p>  </processinfo>
+  <scopecontent id="aspace_99ed660f8a8b000012b52ea5b586e034">
+    <head>Scope and Contents</head>
+<p>Papers mainly relate to the Durham family's ancestry and genealogical record and contain information stretching back to at least 1273, though the majority of the genealogy materials concern individuals living in the 18th through 20th centuries. Other items relate to the professional accomplishments and personal lives of certain Durham family members living in the late 19th and early 20th centuries. These latter papers place particular emphasis on Knowlton Durham (b. 1880), a New York City lawyer. Materials in the collection include genealogical research notes and lists, correspondence among members of the Durham family, press releases, obituaries and marriage announcements, newspaper and magazine clippings, and other ephemera. Also included are Knowlton Durham's application to the Sons of the Revolution, including extensive details on his personal ancestry and its connection to the Revolutionary War; the Durham family's coat of arms; and one oversize volume containing records of Fire Prevention at Hook and Ladder Company No. 118 for the period 1938 to 1950, including records of incoming and outgoing documents and daily statistical and inspection records relating to fire prevention in Brooklyn. It is unknown whether the materials in this collection were compiled by a single researcher or multiple individuals, but it is presumed that the compiler(s) were related to the Durham family.</p>  </scopecontent>
+  <userestrict id="aspace_dc3f32020b55e3f8e9788aa23c29ccfa">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <relatedmaterial id="aspace_98098407aaaf3b67d9d582b0a3f89d9c">
+    <head>Related Materials</head>
+<p>Center for Brooklyn History Family History and Genealogy Research Guide</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Marriage customs and rites |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Fire prevention |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Fire prevention |z New York (State) |z New York</subject>
+    <genreform source="aat">Volumes (documents by form)</genreform>
+    <genreform source="aat">Research notes</genreform>
+    <subject source="lcsh">Genealogy</subject>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Genealogies</genreform>
+    <subject source="lcsh">Marriage customs and rites |z New York (State) |z New York</subject>
+    <subject source="lcsh">Lawyers |z New York (State) |z New York</subject>
+    <genreform source="aat">Obituaries</genreform>
+    <genreform source="aat">Printed ephemera</genreform>
+    <geogname source="lcsh">Long Island (N.Y.)</geogname>
+    <subject source="lcsh">Families |z New York (State) |z New York</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Families |z New York (State) |z Long Island</subject>
+    <subject source="lcsh">Families |z New England</subject>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Families |z Middle West</subject>
+    <subject source="lcsh">Families |z Northwestern States</subject>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">Families |z Middle Atlantic States</subject>
+    <subject source="lcsh">Families |z United States |x Heraldry</subject>
+    <genreform source="aat">Correspondence</genreform>
+    <genreform source="aat">Coats of arms</genreform>
+    <famname source="naf">Durham family</famname>
+    <persname source="local">Durham, Knowlton</persname>
+  </controlaccess>
+  <dsc><c id="aspace_0d4c61dff0302a2c8e936ea4e8aa4f4d" level="series"><did><unittitle>Series 1: Knowlton Durham papers</unittitle></did><bioghist id="aspace_d6c1f267fadfcc49274e79a0032071af"><head>Biographical note</head><p>Knowlton Durham was born on August 29, 1880 in Chicago, Illinois. He was the youngest child of Caleb Wheeler Durham and Clarissa Safford Welles Durham. He attended Adelphi Academy in Brooklyn, graduating in 1897, and then Columbia University, graduating in 1901. He was a member of the Beta Theta Pi fraternity. He completed law school, also at Columbia, in 1905. He enlisted in the army in 1912 and served in the first World War. In 1925, he married Pauline Crook Peck. Her son, Robert, became his stepson, but the couple never had children of their own. He was a president and founder of the Beta Theta Pi Club of New York and the Chelsea Neighborhood Association, as well as a member of the University Club, Columbia University Club, Army and Navy Club of Washington, and various professional and military organizations. He was twice awarded the Silver Star, as well as the Conspicuous Service Medal of New York State, the Army Commendation Ribbon and the Selective Service Medal.</p></bioghist><scopecontent id="aspace_9ead01d7ad837fffbc742bd27d8f34b1"><head>Scope and Contents</head><p>The bulk of this series consists of correspondence to and from Knowlton Durham, largely with relatives regarding family history or family business. Also included are materials related to Durham's work as a lawyer, his time at Columbia University, and his applications for membership in the Society of Colonial Wars and Sons of the Revolution. In addition, there is one folder of material relating to the genealogy of the family of his wife, Pauline "Polly" Crook Peck.</p></scopecontent><c id="aspace_506c397dd2748cae28aeb9021ff4bbdf" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1910/1919" type="inclusive">1910s</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_453df3ed519ac7156f773270d6b8b6ba" label="Mixed Materials" type="Box">1</container><container parent="aspace_453df3ed519ac7156f773270d6b8b6ba" type="Folder">1</container></did></c><c id="aspace_1ecf30ec06179e9dcf1e2a2a65f68a4f" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1920/1929" type="inclusive">1920s</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_2bf6dd4e4e366b81f0ed6a670697ccba" label="Mixed Materials" type="Box">1</container><container parent="aspace_2bf6dd4e4e366b81f0ed6a670697ccba" type="Folder">2</container></did></c><c id="aspace_cc21462a4b04ac1c51e7bae616754b9a" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_14cd875fe54d04c8133c560fcf4b34b6" label="Mixed Materials" type="Box">1</container><container parent="aspace_14cd875fe54d04c8133c560fcf4b34b6" type="Folder">3</container></did><scopecontent id="aspace_36254294a4e1888632cd50da4c52d33e"><head>Scope and Contents</head><p>Includes correspondence from 1934 regarding the death and estate of John Safford Fiske.</p></scopecontent></c><c id="aspace_3ad00985990089ef8a3b490d7269c53a" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_fc31cf6878210d8ce0a048802821abd5" label="Mixed Materials" type="Box">1</container><container parent="aspace_fc31cf6878210d8ce0a048802821abd5" type="Folder">4</container></did></c><c id="aspace_68de632043de0bca89a7eaba825f2ac6" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_ac7083a0bd408290fe7c12ea74ecf4bd" label="Mixed Materials" type="Box">1</container><container parent="aspace_ac7083a0bd408290fe7c12ea74ecf4bd" type="Folder">5</container></did></c><c id="aspace_0db1c237eaa1d0c965f357064a2ea3d5" level="file"><did><unittitle>Work</unittitle><unitdate datechar="creation" normal="1907/1912" type="inclusive">1907-1912</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_7253adb5dd8992fa47763b8783537335" label="Mixed Materials" type="Box">1</container><container parent="aspace_7253adb5dd8992fa47763b8783537335" type="Folder">6</container></did></c><c id="aspace_c46f85628dd28b1d85208abd10e54314" level="file"><did><unittitle>Clippings and ephemera</unittitle><unitdate datechar="creation" normal="1915/1952" type="inclusive">1915-1952</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_2aba8945c64d335667cb4f4b64181098" label="Mixed Materials" type="Box">1</container><container parent="aspace_2aba8945c64d335667cb4f4b64181098" type="Folder">7</container></did><scopecontent id="aspace_ec7bacbce82b07f5562eb3ff66a5afd2"><head>Scope and Contents</head><p>Includes materials pertaining to Durham's military service, his work as a lawyer, and his work with the Chelsea Neighborhood Association.</p></scopecontent></c><c id="aspace_cbadeef72a8d3526c5bc5ec1682215d6" level="file"><did><unittitle>Sons of the Revolution</unittitle><unitdate datechar="creation" normal="1926/1945" type="inclusive">1926-1945</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_b4610b24737d74e6e11ccdbb2c97915b" label="Mixed Materials" type="Box">1</container><container parent="aspace_b4610b24737d74e6e11ccdbb2c97915b" type="Folder">8</container></did></c><c id="aspace_82314da79844f83595b2e7c33f29f82b" level="file"><did><unittitle>Military service and Society of Colonial Wars</unittitle><unitdate datechar="creation" normal="1934/1946" type="inclusive">1934-1946</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_3a115b69c741de80f8d566887fa4238d" label="Mixed Materials" type="Box">1</container><container parent="aspace_3a115b69c741de80f8d566887fa4238d" type="Folder">9</container></did></c><c id="aspace_c9d63a1fac80417c2aaeafa8dbcbd71f" level="file"><did><unittitle>Columbia</unittitle><unitdate datechar="creation" normal="1936/1946" type="inclusive">1936-1946</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_6b27b21cbadb350c34ea971bbfab4032" label="Mixed Materials" type="Box">1</container><container parent="aspace_6b27b21cbadb350c34ea971bbfab4032" type="Folder">10</container></did></c><c id="aspace_d83dcd52e0d5c6695b5c5914fff30ae9" level="file"><did><unittitle>Crooke family genealogical notes</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_f5920d505817745205f927bec13756f7" label="Mixed Materials" type="Box">1</container><container parent="aspace_f5920d505817745205f927bec13756f7" type="Folder">11</container></did></c></c><c id="aspace_635886abb967618380b63e03f33e69f8" level="series"><did><unittitle>Series 2: Durham family</unittitle></did><scopecontent id="aspace_3594dcf7fdbac8b2fe2b423635a83c5e"><head>Scope and Contents</head><p>This series consists of material related to the Durham family generally as well as a few members of Knowlton Durham's immediate family: his father Caleb Wheeler Durham (1848-1910) and his brothers Henry "Hal" Welles Durham (1874-1959) and Leicester Durham (1877-1933). The clippings and ephemera largely have to do with Leicester's children with Viola Ethel "Pansy" Hyde Durham: Carol, Richard Hyde, John Dickinson, and Sarah "Sally" Welles. Also included is a single volume Fire Prevention Record Journal which was accessioned with this collection but has no clear link to the Durham family.</p></scopecontent><c id="aspace_76d1cdda6c5d7778727d4afb963f90d5" level="file"><did><unittitle>Durham family genealogical notes</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_a844be25f7bb4f59efa1ef48155ef126" label="Mixed Materials" type="Box">1</container><container parent="aspace_a844be25f7bb4f59efa1ef48155ef126" type="Folder">12</container></did></c><c id="aspace_7db629b013cffb8181b4779abe3b1cf5" level="file"><did><unittitle>Caleb Wheeler Durham</unittitle><unitdate datechar="creation" normal="1915/1915">circa 1915</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_12117fcc21af7802704d7a79dc936265" label="Mixed Materials" type="Box">1</container><container parent="aspace_12117fcc21af7802704d7a79dc936265" type="Folder">13</container></did></c><c id="aspace_72de17789cb8a06da2a3b280dd995067" level="file"><did><unittitle>Henry Welles Durham</unittitle><unitdate datechar="creation" normal="1922/1945" type="inclusive">1922-1945</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_204ed43bd62bfb9b718b0de383292a6f" label="Mixed Materials" type="Box">1</container><container parent="aspace_204ed43bd62bfb9b718b0de383292a6f" type="Folder">14</container></did></c><c id="aspace_09e1df6e7ed35495a65b2759d8e22754" level="file"><did><unittitle>Leicester Durham</unittitle><unitdate datechar="creation" normal="1933/1933">circa 1933</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_ff82d02661ad8ae61c72c0d039d39a1a" label="Mixed Materials" type="Box">1</container><container parent="aspace_ff82d02661ad8ae61c72c0d039d39a1a" type="Folder">15</container></did></c><c id="aspace_2da9dd56297960fed8cbf1b881c9fd54" level="file"><did><unittitle>Clippings and ephemera</unittitle><unitdate datechar="creation" normal="1916/1940" type="inclusive">1916-1940</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_666c7453c03685c33fdb28ab5767d3ba" label="Mixed Materials" type="Box">1</container><container parent="aspace_666c7453c03685c33fdb28ab5767d3ba" type="Folder">16</container></did></c><c id="aspace_1dee4fe351711fddbb35b92783991329" level="item"><did><unittitle>Fire Prevention Record Journal, Hook and Ladder Company No. 118</unittitle><unitdate datechar="creation" normal="1938/1950" type="inclusive">circa 1938-1950</unitdate><container id="aspace_319802262b235e30df43b87f83990780" label="Books" type="Volume">1</container></did><processinfo id="aspace_e38c0a402af0e767f944bc27b00bad92"><head>Processing Information</head><p>This volume was included in accession 1985.021 but otherwise has no clear link to the Durham family. It may possibly be related to the civil engineering career of Henry W. Durham, who worked on many municipal projects.</p></processinfo><relatedmaterial id="aspace_4cf66e83d608d1ffe824eb25944075b2"><head>Related Materials</head><p>James A. Kelly collection of Brooklyn firefighting records (1989.006) has other record books from Company 118.</p></relatedmaterial></c></c><c id="aspace_3c409579745204a883ffe5c397e8203b" level="series"><did><unittitle>Series 3: Welles, Safford, Fiske and Hulbert families</unittitle></did><scopecontent id="aspace_95a1b65bc65f0000b240927bba132ab5"><head>Scope and Contents</head><p>This series consists of material relating to Knowlton Durham's maternal family line. Knowlton's mother Clarissa Safford Welles Durham (1849-1907) and her sisters Sarah and Mary were born to Henry Woolsey Welles (1818-1860) and Susan Martin Safford Welles. Henry Woolsey Welles was the son of John Welles (1776-1855) and Sarah Rice Hulbert (1806-1868) and the grandson of Rev. Dr. Noah Welles (1718-1777) and Abigail Woolsey (1731-1812), and his sisters were Mary Elizabeth Welles Paine (1813-1862) and Helen Welles Douglas (1821-1880). Susan Martin Safford Welles was the daughter of John Safford. Miss Mary H. Fiske, Mrs. John C. Knowlton (sister-in-law to George Knowlton) and Mr. John Fiske were Clarissa Durham's first cousins.</p></scopecontent><c id="aspace_cca4cfa5f626775ddcd6c7273eda7bf8" level="file"><did><unittitle>Hulbert family genealogy</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_ffb5949293d0f4cefd10108da72daae3" label="Mixed Materials" type="Box">1</container><container parent="aspace_ffb5949293d0f4cefd10108da72daae3" type="Folder">17</container></did></c><c id="aspace_bf953904a909044c9f01dbefa243586f" level="file"><did><unittitle>Welles and Safford families genealogical notes</unittitle><unitdate datechar="creation" normal="1815/1945" type="inclusive">circa 1815-1945</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_87128014b4998e11d9b3bc3001f5f3e1" label="Mixed Materials" type="Box">1</container><container parent="aspace_87128014b4998e11d9b3bc3001f5f3e1" type="Folder">18</container></did></c><c id="aspace_4894a9f1e29b691904a744492536be84" level="file"><did><unittitle>Fiske, Dickinson and Knowlton obituary clippings</unittitle><unitdate datechar="creation" normal="1877/1931" type="inclusive">1877-1931</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_3b8de593f7d681c6b737d1515456ec41" label="Mixed Materials" type="Box">1</container><container parent="aspace_3b8de593f7d681c6b737d1515456ec41" type="Folder">19</container></did></c><c id="aspace_fe77e51c372649abbcb2c99636379345" level="file"><did><unittitle>Safford family portrait painting</unittitle><unitdate datechar="creation" normal="1929/1960" type="inclusive">1929-1960</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_edd99c9ff61da7cfe84f66e9af143c3f" label="Mixed Materials" type="Box">1</container><container parent="aspace_edd99c9ff61da7cfe84f66e9af143c3f" type="Folder">20</container></did></c><c id="aspace_bfb3a49fd797ef79db597cbe595aaffc" level="file"><did><unittitle>John Safford Fiske</unittitle><unitdate datechar="creation" normal="1934/1934">circa 1934</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_325f6f667e02ac0b1786c1e9512b810a" label="Mixed Materials" type="Box">1</container><container parent="aspace_325f6f667e02ac0b1786c1e9512b810a" type="Folder">21</container></did><relatedmaterial id="aspace_d0a20600f595fc6e24fc5fef5a1a3276"><head>Related Materials</head><p>See also Knowlton Durham's 1930s correspondence for materials related to Fiske's estate and his 1934 death.</p></relatedmaterial></c></c></dsc>
+</archdesc>
 </ead>
