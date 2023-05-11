@@ -1,105 +1,65 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1985_059_adelphi</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Adelphi Academy collection
-                    <num>1985.059</num>
-                </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>November 20, 2010</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-18T16:36-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Adelphi Academy collection</unittitle>
-            <unitid>1985.059</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid518001" type="Box" label="Text">1985.059 4 of 4</container>
-            <container id="cid518002" type="Box" label="Text">1985.059 3 of 4</container>
-            <container id="cid518003" type="Box" label="Text">1985.059 2 of 4</container>
-            <container id="cid518004" type="Box" label="Text">1985.059 1 of 4</container>
-            <physdesc>
-                <extent>1.5 Linear feet</extent>
-                <extent>in four manuscript boxes</extent>
-            </physdesc>
-            <unitdate normal="1864/1956" type="inclusive">1864-1956</unitdate>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Adelphi Academy (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-        </did>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Adelphi Academy collection, 1985.059, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <acqinfo id="ref6">
-            <head>Immediate Source of Acquisition note</head>
-            <p>The source and date of acquisition for this collection are unknown. The collection was formally accessioned in 1985.</p>
-        </acqinfo>
-        <processinfo id="ref5">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <accessrestrict id="ref4">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <bioghist id="ref3">
-            <head>Historical note</head>
-            <p>Adelphi Academy is a prepatory school founded in 1863 by Dr. Edward S. Bunker and Aaron Chadwick, who had both previously taught at the Brooklyn Polytechnic Institute. Though the Academy made its start as a school for boys, it became coeducational in 1867. It was officially incorporated and chartered by the Board of Trustees of the City of Brooklyn in 1869, and grew steadily throughout the 19th century, reaching its peak enrollment of 1,291 students in 1891. The Academy's original location was at 412 Adelphi Street, but due to its steady growth, it gradually outgrew this space and moved to newly built facilities at the corner of Lafayette Avenue and St. James Place in 1868.</p>
-            <p>SInce as early as 1871, Adelphi Academy's administrators had considered the possibility of establishing a liberal arts college to be affiliated with the Academy. In 1896, under the administration Dr. Charles Herbert Levermore, Adelphi College (later, Adelphi University) was chartered by the State of New York. Its original location was in a building directly behind the Academy at the corner of St. James Place and Clifton Place. Though they operated as separate institutions, Adelphi Academy and Adelphi College remained closely connected, with many of the Academy's students matriculating to the College upon graduation.</p>
-            <p>In 1929, Adelphi College moved its campus to Garden City, Long Island and was granted university status by the State of New York in 1963. Due to steadily declining enrollment, Adelphi Academy moved from its location at Lafayette Avenue and St. James Place to a smaller facility in the Bay Ridge neighborhood of Brooklyn in 1965. As of 2010, both institutions continue to operate in the same locations.</p>
-        </bioghist>
-        <scopecontent id="ref2">
-            <head>Scope and Contents note</head>
-            <p>The Adelphi Academy collection measures 1.6 linear feet and spans the dates 1864 to 1956. The collection documents the development and evolution of the Academy's curriculum, its physical growth and infrastructural development in its early years, as well as student life. Included in the collection are a narrative history of the Academy covering the period from its founding through the early 20th century; documents pertaining to the construction of the Academy's original building on Adelphi Street and its incorporation; course catalogs (including a complete run from 1899 to 1942; yearbooks; and copies of the student newspaper.</p>
-        </scopecontent>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <controlaccess>
-            <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Adelphi Academy (Brooklyn, New York, N.Y.).</corpname>
-            <genreform source="aat">Annual reports</genreform>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Catalogs</genreform>
-            <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
-            <genreform source="aat">Local histories</genreform>
-            <subject source="lcsh">Private schools |z New York (State) |z Kings County</subject>
-            <subject source="lcsh">Private schools |z New York (State) |z New York</subject>
-            <genreform source="aat">School yearbooks</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1985_059_adelphi/">arms_1985_059_adelphi</eadid><filedesc><titlestmt><titleproper>Guide to the Adelphi Academy and Adelphi College collection <num>1985.059</num></titleproper><author>Collection processed by Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-05-11T18:50:10</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>May 2023</date><item>Reprocessed by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Adelphi Academy and Adelphi College collection</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Adelphi Academy (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="naf">Adelphi College</corpname>
+    </origination>
+    <unitid>1985.059</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+      <extent altrender="carrier">in five manuscript boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1864/1965" type="inclusive">1864-1965</unitdate>
+    <abstract id="aspace_e24d65b7a7a569e396e1712432686499">Adelphi Academy is a private preparatory school founded in 1863 by Dr. Edward S. Bunker and Aaron Chadwick. This collection documents the development and evolution of the Academy's curriculum, its physical growth and infrastructural development in its early years, and student life. It also documents Adelphi College prior to its becoming Adelphi University in 1963.</abstract>
+  </did>
+  <accessrestrict id="aspace_3e99144e00a15368d487041cce78bfab">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_5d3c938a6c572df0d0f3269d12444937">
+    <head>Immediate Source of Acquisition</head>
+<p>The source and date of acquisition for this collection are largely unknown. The majority of the collection was formally accessioned in 1985. A smaller portion was removed from the Brooklyn schools collection (CBHM.0006) and the Brooklyn ephemera collection (BCMS.0007). The 1906 catalog was the gift of Marcia Hendrie Holroyd, 1990.</p>  </acqinfo>
+  <arrangement id="aspace_0c2dec84dba30381716ae28abe469104">
+    <head>Arrangement</head>
+<p>The collection is arranged into two series by institution. Within each series, the materials are arranged by type and roughly chronologically.</p>  </arrangement>
+  <bioghist id="aspace_b7dbaec4779ea8ad2e0aa196225e0a8e">
+    <head>Historical note</head>
+<p>Adelphi Academy is a private preparatory school founded in 1863 by Dr. Edward S. Bunker and Aaron Chadwick, who had both previously taught at the Brooklyn Polytechnic Institute. Though the Academy made its start as a school for boys, it became coeducational in 1867. It was officially incorporated and chartered by the Board of Trustees of the City of Brooklyn in 1869, and grew steadily throughout the 19th century, reaching its peak enrollment of 1,291 students in 1891. The Academy's original location was at 412 Adelphi Street, but due to its steady growth, it gradually outgrew this space and moved to newly built facilities at the corner of Lafayette Avenue and St. James Place in 1868. </p><p>Since as early as 1871, Adelphi Academy's administrators had considered the possibility of establishing a liberal arts college to be affiliated with the Academy. In 1896, under the administration Dr. Charles Herbert Levermore, Adelphi College (later Adelphi University) was chartered by the State of New York. Its original location was in a building directly behind the Academy at the corner of St. James Place and Clifton Place. Though they operated as separate institutions, Adelphi Academy and Adelphi College remained closely connected, with many of the Academy's students matriculating to the College upon graduation. </p><p>In 1929, Adelphi College moved its campus to Garden City, Long Island and was granted university status by the State of New York in 1963. Due to steadily declining enrollment, Adelphi Academy moved from its location at Lafayette Avenue and St. James Place to a smaller facility in the Bay Ridge neighborhood of Brooklyn in 1965. As of 2023, both institutions continue to operate in the same locations. </p>  </bioghist>
+  <phystech id="aspace_2d14bf2b3608cd0b149c0408ea323a28">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_4edfef509f4143fdb08daaf7cca9ab18">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Adelphi Academy and Adelphi College collection, 1985.059, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_fbf168d48a1b8bcc671171b390ee6558">
+    <head>Processing Information</head>
+<p>Originally minimally processed to the collection level, this collection was reprocessed by Dee Bowers in May 2023. At that time, a small amount of material from the Brooklyn schools collection (CBHM.0006) and the Brooklyn ephemera collection (BCMS.0007) was incorporated into the collection, materials were rehoused, and the finding aid was updated to the folder level.</p>  </processinfo>
+  <relatedmaterial id="aspace_4c0f54c5e7854c620447c105aa368804">
+    <head>Related Materials</head>
+<p>Brooklyn schools collection (CBHM.0006)</p><p>Brooklyn Yearbook collection (BCMS.0031)</p><p>Brooklyn photograph and illustration collection (ARC.202) - Subject: Schools</p>  </relatedmaterial>
+  <scopecontent id="aspace_7831d36baa2b912d31b64fb293f23d77">
+    <head>Scope and Contents</head>
+<p>The Adelphi Academy collection measures 2.25 linear feet and spans the dates 1864 to 1965. The collection documents the development and evolution of the Academy's curriculum, its physical growth and infrastructural development in its early years, as well as student life. Included in the collection are a narrative history of the Academy covering the period from its founding through the early 20th century; documents pertaining to the construction of the Academy's original building on Adelphi Street and its incorporation; course catalogs (including a complete run from 1899 to 1942); yearbooks; and copies of the student newspaper. It also contains catalogs, yearbooks, and a booklet from the Academy's peer institution, Adelphi College.</p>  </scopecontent>
+  <userestrict id="aspace_9f538941746565471afc28a1491326e1">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <genreform source="aat">Catalogs</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <subject source="lcsh">Private schools |z New York (State) |z New York</subject>
+    <genreform source="aat">Local histories</genreform>
+    <genreform source="aat">School yearbooks</genreform>
+    <genreform source="aat">Annual reports</genreform>
+    <geogname source="lcsh">Fort Greene (New York, N.Y.)</geogname>
+    <subject source="lcsh">Private schools |z New York (State) |z Kings County</subject>
+    <corpname rules="aacr" source="naf">Adelphi Academy (Brooklyn, New York, N.Y.)</corpname>
+    <corpname source="naf">Adelphi College</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_bee835aaf1666bf8f4292aab84a9424d" level="series"><did><unittitle>Adelphi Academy</unittitle></did><c id="aspace_0bc2755ccf4a5c6bb53b1a26501c1348" level="file"><did><unittitle>Catalogs</unittitle><unitdate datechar="creation" normal="1866/1870" type="inclusive">1866-1868, 1869-1870</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_33b330b65f309e0d4fa49c46b1c9a74f" label="Mixed Materials" type="Box">1</container><container parent="aspace_33b330b65f309e0d4fa49c46b1c9a74f" type="Folder">1</container></did></c><c id="aspace_ce60ac218c607656a55490f21a79bbd4" level="file"><did><unittitle>Catalogs</unittitle><unitdate datechar="creation" normal="1870/1875" type="inclusive">1870-1872, 1873-1875</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_778e0e9b3a0e87088ad3a4defbfab278" label="Mixed Materials" type="Box">1</container><container parent="aspace_778e0e9b3a0e87088ad3a4defbfab278" type="Folder">2</container></did></c><c id="aspace_d3be4d8c8b552e0af78f3dd1e803aba1" level="file"><did><unittitle>Catalogs</unittitle><unitdate datechar="creation" normal="1880/1889" type="inclusive">1880, 1881, 1888-1889</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_13c6b44b23d4f9368f2657f333eb2b98" label="Mixed Materials" type="Box">1</container><container parent="aspace_13c6b44b23d4f9368f2657f333eb2b98" type="Folder">3</container></did></c><c id="aspace_886bbd97b4d7c69d791b69e11597b737" level="file"><did><unittitle>Catalogs</unittitle><unitdate datechar="creation" normal="1891/1895" type="inclusive">1891-1892, 1893-1895</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_4fab8b062af8ca9d32cdfa2ffe13214f" label="Mixed Materials" type="Box">1</container><container parent="aspace_4fab8b062af8ca9d32cdfa2ffe13214f" type="Folder">4</container></did></c><c id="aspace_5964b2d151910dda7787ce4678e03c84" level="file"><did><unittitle>Catalogs</unittitle><unitdate datechar="creation" normal="1901/1906" type="inclusive">1901, 1906</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_51864f5a425c37821700ef4d0c294257" label="Mixed Materials" type="Box">1</container><container parent="aspace_51864f5a425c37821700ef4d0c294257" type="Folder">5</container></did></c><c id="aspace_3a643e3ff3fd5c094b5456adb7a22624" level="file"><did><unittitle>The Academy Record</unittitle><unitdate datechar="creation" normal="1864/1868" type="inclusive">1864-1868</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_1258feb217d4a0203788a51d4544bc54" label="Mixed Materials" type="Box">1</container><container parent="aspace_1258feb217d4a0203788a51d4544bc54" type="Folder">6</container></did></c><c id="aspace_47f8266996e61c846729750511d6397c" level="file"><did><unittitle>Erection of new building</unittitle><unitdate datechar="creation" normal="1867/1867">1867</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_64c955a2d00978efb411e88492d7d405" label="Mixed Materials" type="Box">1</container><container parent="aspace_64c955a2d00978efb411e88492d7d405" type="Folder">7</container></did></c><c id="aspace_070f655bcfefc7ce402934ac9befc74f" level="file"><did><unittitle>Incorporation and Recent History booklet</unittitle><unitdate datechar="creation" normal="1870/1870">1870</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_4ecd6ef83daede09c2697a0bcca27712" label="Mixed Materials" type="Box">1</container><container parent="aspace_4ecd6ef83daede09c2697a0bcca27712" type="Folder">8</container></did></c><c id="aspace_9b2eecaa01664004e6b8a950509d163d" level="file"><did><unittitle>Event programs</unittitle><unitdate datechar="creation" normal="1870/1919" type="inclusive">1870-1919</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_972c98b4dab6aeef4cbdb394f5a8c1d9" label="Mixed Materials" type="Box">1</container><container parent="aspace_972c98b4dab6aeef4cbdb394f5a8c1d9" type="Folder">9</container></did><scopecontent id="aspace_e94e1700fb9b4ff443705498f82a1c03"><head>Scope and Contents</head><p>Includes Inaugural Exercises for Homer Sprague as Principal (1870), Founder's Day (1890), and an alumni party and reunion (1914 and 1919 respectively).</p></scopecontent></c><c id="aspace_69655185462a8974f12c0e7d8c6cdb54" level="file"><did><unittitle>Ephemera</unittitle><unitdate datechar="creation" normal="1870/1929" type="inclusive">1870-circa 1920s</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_a61a302c7b164fa46137f7d48c61deef" label="Mixed Materials" type="Box">1</container><container parent="aspace_a61a302c7b164fa46137f7d48c61deef" type="Folder">10</container></did><scopecontent id="aspace_417a8f61bf04163e5aaa66d8de8d50f1"><head>Scope and Contents</head><p>Includes preliminary announcement (1870), a printed image of the school building in 1868, text about the school from the Brooklyn Advance, and a map and aerial image of the school's playing field.</p></scopecontent></c><c id="aspace_0a9683ef80a0db6547d9124a339dd578" level="file"><did><unittitle>Fundraising appeal booklet</unittitle><unitdate datechar="creation" normal="1878/1878">1878</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_afd6dbb345a7d85ad1ab977ad29717a4" label="Mixed Materials" type="Box">1</container><container parent="aspace_afd6dbb345a7d85ad1ab977ad29717a4" type="Folder">8</container></did></c><c id="aspace_8f3650b04a4f515b2fdc5ce0b48620c6" level="file"><did><unittitle>The Adelphian journal</unittitle><unitdate datechar="creation" normal="1882/1883" type="inclusive">1882-1883</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_815275db20cc334c7b65d6d738ec7375" label="Mixed Materials" type="Box">1</container><container parent="aspace_815275db20cc334c7b65d6d738ec7375" type="Folder">11</container></did></c><c id="aspace_a0a0cf7834785e073c14d477517c6e57" level="file"><did><unittitle>The Adelphian journal</unittitle><unitdate datechar="creation" normal="1905/1909" type="inclusive">1905-1906, 1909</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_8c550ec2efb41e8f90b440ba5422e09b" label="Mixed Materials" type="Box">2</container><container parent="aspace_8c550ec2efb41e8f90b440ba5422e09b" type="Folder">1</container></did></c><c id="aspace_f48463eee4cd5fb4794b82dfa6abd496" level="file"><did><unittitle>The Adelphian journal</unittitle><unitdate datechar="creation" normal="1933/1936" type="inclusive">1933, 1936</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_cf8b2944ba3a9fd56aed523ab3991d6d" label="Mixed Materials" type="Box">2</container><container parent="aspace_cf8b2944ba3a9fd56aed523ab3991d6d" type="Folder">2</container></did></c><c id="aspace_fe2d9ba6a8d8898ce94b2549a45925e6" level="file"><did><unittitle>Adelphic yearbook</unittitle><unitdate datechar="creation" normal="1891/1911" type="inclusive">1891, 1907-1911</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_0cc53cd3ba4eae96781ab67f07394766" label="Mixed Materials" type="Box">2</container><container parent="aspace_0cc53cd3ba4eae96781ab67f07394766" type="Folder">3-7</container></did></c><c id="aspace_5b7a5db3f37bef1269f5f803ad18144b" level="file"><did><unittitle>Commencement programs</unittitle><unitdate datechar="creation" normal="1892/1936" type="inclusive">1892, 1936</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_db30a19459c256a05d8e8292d04f4afc" label="Mixed Materials" type="Box">3</container><container parent="aspace_db30a19459c256a05d8e8292d04f4afc" type="Folder">2</container></did></c><c id="aspace_dd84ead9e35935379cc54a6d9e7779d2" level="file"><did><unittitle>The Adelphi Post</unittitle><unitdate datechar="creation" normal="1932/1957" type="inclusive">1932, 1949, 1957</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_61bd2a76d690f677d2b9cdab9027b8a7" label="Mixed Materials" type="Box">3</container><container parent="aspace_61bd2a76d690f677d2b9cdab9027b8a7" type="Folder">3</container></did></c><c id="aspace_c66b3c2ac2ffe24f9bd16de8d828bb33" level="file"><did><unittitle>Adelphi News</unittitle><unitdate datechar="creation" normal="1938/1938">1938</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_1514fc9febd11397d8288f345b0517f7" label="Mixed Materials" type="Box">3</container><container parent="aspace_1514fc9febd11397d8288f345b0517f7" type="Folder">4</container></did></c><c id="aspace_9e9b8a2549d64479b3c67d2ca92e71cb" level="file"><did><unittitle>Anniversary publications</unittitle><unitdate datechar="creation" normal="1938/1987" type="inclusive">1938, 1987</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_5e82832e3ba3b0dfd3bd270d57587a02" label="Mixed Materials" type="Box">3</container><container parent="aspace_5e82832e3ba3b0dfd3bd270d57587a02" type="Folder">5</container></did><scopecontent id="aspace_357d5215de6de881d59469ad68acdb5c"><head>Scope and Contents</head><p>Includes materials from the school's 75th and 125th anniversaries and the cover of the centennial publication.</p></scopecontent></c><c id="aspace_c22a4f197304f79bcac6cefa58a65a9b" level="file"><did><unittitle>Handbook</unittitle><unitdate datechar="creation" normal="1938/1939" type="inclusive">1938-1939</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_e6a6c6da854b5e5eaebb7c8305451b5d" label="Mixed Materials" type="Box">3</container><container parent="aspace_e6a6c6da854b5e5eaebb7c8305451b5d" type="Folder">4</container></did></c><c id="aspace_e247d86d1585f7f792f1795177a59b3c" level="file"><did><unittitle>The Adelphi Oracle newspaper</unittitle><unitdate datechar="creation" normal="1965/1965">1965</unitdate></did></c></c><c id="aspace_94b60a1a6e234922b1e038bf6a848870" level="series"><did><unittitle>Adelphi College</unittitle></did><c id="aspace_1f2ac6a1b944be974de51046a9dc59a5" level="file"><did><unittitle>The Adelphi booklet</unittitle><unitdate datechar="creation" normal="1900/1900">1900</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_5983f95d3d56406f81db1d356e79f3ab" label="Mixed Materials" type="Box">3</container><container parent="aspace_5983f95d3d56406f81db1d356e79f3ab" type="Folder">6</container></did></c><c id="aspace_8fb25516ecc51ba672518c8ef0dbe52f" level="file"><did><unittitle>Catalogs</unittitle><unitdate datechar="creation" normal="1899/1931" type="inclusive">1899-1909, 1910, 1913-1915, 1920-1922, 1923-1928, 1929-1931</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_f9d721b1f33b6995514f13a0889c10c6" label="Mixed Materials" type="Box">3</container><container parent="aspace_f9d721b1f33b6995514f13a0889c10c6" type="Folder">7-9</container></did></c><c id="aspace_6082e1da87d2e808c8026d3f5a1c6f54" level="file"><did><unittitle>Catalogs</unittitle><unitdate datechar="creation" normal="1931/1956" type="inclusive">1931-1942, 1955-1956</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_c9f2fdf32de24a00fe3a70ef3ae1b027" label="Mixed Materials" type="Box">4</container><container parent="aspace_c9f2fdf32de24a00fe3a70ef3ae1b027" type="Folder">1-4</container></did></c><c id="aspace_994d640fe4cee713a39480558614ef8b" level="file"><did><unittitle>Oracle yearbook</unittitle><unitdate datechar="creation" normal="1908/1911" type="inclusive">1908, 1911</unitdate><container altrender="Half Manuscript Box Legal" id="aspace_f4804131303c1bbddef961f9b15f03c5" label="Mixed Materials" type="Box">5</container><container parent="aspace_f4804131303c1bbddef961f9b15f03c5" type="Folder">1-2</container></did></c></c></dsc>
+</archdesc>
 </ead>
