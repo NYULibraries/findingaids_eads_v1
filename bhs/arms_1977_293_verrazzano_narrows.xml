@@ -1,94 +1,69 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1977_293_verrazzano_narrows</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Verazzano-Narrows Bridge collection
-                    <num>1977.293</num>
-                </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>June 20, 2011</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-10T14:10-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Verrazzano-Narrows Bridge collection</unittitle>
-            <unitid>1977.293</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid843001" type="Box" label="Text">A0060</container>
-            <physdesc>
-                <extent>0.2 Linear feet</extent>
-                <extent>in eight folders</extent>
-            </physdesc>
-            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
-            <origination label="creator">
-                <corpname rules="dacs" source="local">Italian Historical Society (Brooklyn, New York, N.Y.).</corpname>
-            </origination>
-            <origination label="creator">
-                <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf" role="Donor (dnr)">Triborough Bridge and Tunnel Authority.</corpname>
-            </origination>
-        </did>
-        <prefercite id="ref6">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Verazzano-Narrows Bridge collection, 1977.293, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <scopecontent id="ref2">
-            <head>Scope and Contents note</head>
-            <p>The Verazzano-Narrows Bridge collection spans the period 1964 to 1965 and measures 0.2 linear feet. The materials in the collection document the construction and opening of the bridge's upper deck in 1964 and include programs for the grand opening ceremonies, newspaper clippings, pamphlets, maps, press releases, event invitations, and other memorabilia and ephemera.</p>
-        </scopecontent>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <acqinfo id="ref3">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of the Triborough Bridge and Tunnel Authority, 1964.</p>
-        </acqinfo>
-        <bioghist id="ref5">
-            <head>Historical note</head>
-            <p>The Verrazzano-Narrows Bridge is a suspension bridge that connects the New York City boroughs of Brooklyn and Staten Island. The bridge is named for the Italian explorer Giovanni da Verrazzano, the first known European explorer to enter New York Harbor and the Hudson River, and for the body of water it spans, called the Narrows. Construction on the bridge began in the summer of 1959 and the bridge's upper deck was opened in November of 1964. The lower deck of the bridge was completed in 1969. The construction of the bridge was the last major project overseen by New York State Parks Commissioner and Head of the Triborough Bridge and Tunnel Authority, Robert Moses.</p>
-        </bioghist>
-        <controlaccess>
-            <subject source="lcsh">Bridges |z New York (State) |z Kings County</subject>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <genreform source="aat">Ephemera</genreform>
-            <genreform source="aat">Invitations</genreform>
-            <genreform source="aat">Maps</genreform>
-            <genreform source="aat">Pamphlets</genreform>
-            <genreform source="aat">Press releases</genreform>
-            <genreform source="aat">Programs (documents)</genreform>
-            <subject source="lcsh">Public works |z New York (State) |z New York</subject>
-            <geogname source="lcsh">Staten Island (New York, N.Y.)</geogname>
-            <subject source="lcsh">Transportation |z New York (State) |z New York</subject>
-            <geogname source="lcsh">Verrazano-Narrows Bridge (New York, N.Y.)</geogname>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_293_verrazzano_narrows/">arms_1977_293_verrazzano_narrows</eadid><filedesc><titlestmt><titleproper>Guide to the Verazzano-Narrows Bridge collection <num>1977.293</num></titleproper><author>Collection processed by Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-05-30T18:45:56</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>May 2023</date><item>Revised to folder level by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Verrazzano-Narrows Bridge collection</unittitle>
+    <origination label="Creator">
+      <corpname role="dnr" rules="aacr" source="naf">Triborough Bridge and Tunnel Authority</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Italian Historical Society (Brooklyn, New York, N.Y.)</corpname>
+    </origination>
+    <unitid>1977.293</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">in nine folders</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1959/1965" type="inclusive">1959-1965</unitdate>
+    <abstract id="aspace_34125e52129a70b7e785bf0a087f36ac">The Verazzano-Narrows Bridge collection includes publications, ephemera, and artifacts relating to the building of the bridge and its 1964 opening.</abstract>
+    <container altrender="Full Manuscript Box Legal" id="aspace_e0a346b10d8d8fee9ff6262ff0228e66" label="Text" type="Box">A0060</container>
+  </did>
+  <accessrestrict id="aspace_c925cb280de8cb57eccc13499f6ace5f">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_1a2173081ce45896af8171b5d1253309">
+    <head>Immediate Source of Acquisition</head>
+<p>The majority of the collection was the gift of the Triborough Bridge and Tunnel Authority, 1964. Additional items were the gift of Benjamin Reese Bartel, secretary of Staten Island stamp committee (Staten Island Philatelic Society), 1964, and John La Corte.</p>  </acqinfo>
+  <arrangement id="aspace_8ef50f61bcf9d9b2cfa3a995027dee6f">
+    <head>Arrangement</head>
+<p>The collection materials are grouped into folders by type.</p>  </arrangement>
+  <bioghist id="aspace_32a20f06b0aad8dfb678ebf394e87e28">
+    <head>Historical note</head>
+<p>The Verrazzano-Narrows Bridge is a suspension bridge that connects the New York City boroughs of Brooklyn and Staten Island. The bridge is named for the Italian explorer Giovanni da Verrazzano, the first known European explorer to enter New York Harbor and the Hudson River, and for the body of water it spans, called the Narrows. Construction on the bridge began in the summer of 1959 and the bridge's upper deck was opened in November of 1964. The lower deck of the bridge was completed in 1969. The construction of the bridge was the last major project overseen by New York State Parks Commissioner and Head of the Triborough Bridge and Tunnel Authority, Robert Moses.</p>  </bioghist>
+  <phystech id="aspace_58e70a30f718db03a3bfd7a21afbd015">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_808017004ff64fe2e3ba3bc7114aeaf3">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Verazzano-Narrows Bridge collection, 1977.293, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_1eff929ef119117945ba269e17a4fb79">
+    <head>Processing Information</head>
+<p>This collection was originally minimally processed to the collection level. In May 2023, the collection was reprocessed to the file level by Dee Bowers. This included rehousing the artifacts (including emptying the Domino sugar packet), photocopying original newsprint and discarding the originals, discarding duplicates, and clarifying the collection's provenance.</p>  </processinfo>
+  <relatedmaterial id="aspace_7b5d9a5a17ad1877277ee2d3bf18fa69">
+    <head>Related Materials</head>
+<p>Verrazano-Narrows Bridge opening press kit and photographs (2004.024)</p><p>Raymond Love films of the Verrazano-Narrows Bridge construction (2012.019)</p><p>New York State Assembly act regarding the naming of the Verrazano-Narrows Bridge (1977.580)</p><p>Lee Bergeson collection of Verrazzano-Narrows Bridge photographs (2007.048)</p><p>Kings County Historic Records Microfilm Collection (BCMS.0047), Reel 50B: Verrazano Rededication Scrapbook</p><p>The publication "Spanning the Narrows" is available in the library under the call numbers TG25.N5934 T75 and 352.7 T822 S and "Historical Highlights" is available under the call numbers F128.6 .T38 and Microfiche 152.</p><p>The program for the bridge's 1959 groundbreaking is available under the call number TG25.N5394 P67.</p>  </relatedmaterial>
+  <scopecontent id="aspace_567f813595da9a39d2969cffc04031fd">
+    <head>Scope and Contents</head>
+<p>The Verazzano-Narrows Bridge collection spans the period 1959 to 1965 and measures 0.2 linear feet. The materials in the collection document the bridge's construction and the opening of its upper deck in 1964 and includes programs for the grand opening ceremonies, newspaper clippings, pamphlets, maps, press releases, event invitations, and other memorabilia and ephemera.</p>  </scopecontent>
+  <userestrict id="aspace_7f43e3b88ae23c5766de6b7ab28c2d1f">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Bridges |z New York (State) |z Kings County</subject>
+    <geogname source="lcsh">Verrazano-Narrows Bridge (New York, N.Y.)</geogname>
+    <genreform source="aat">Pamphlets</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <genreform source="aat">Ephemera</genreform>
+    <genreform source="aat">Maps</genreform>
+    <genreform source="aat">Programs (documents)</genreform>
+    <genreform source="aat">Press releases</genreform>
+    <genreform source="aat">Invitations</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <geogname source="lcsh">Staten Island (New York, N.Y.)</geogname>
+    <subject source="lcsh">Transportation |z New York (State) |z New York</subject>
+    <subject source="lcsh">Public works |z New York (State) |z New York</subject>
+  </controlaccess>
+  <dsc><c id="aspace_5233f0c9780db52c44d6af809488ff20" level="file"><did><unittitle>Programs, tickets and invitations</unittitle><unitdate datechar="creation" normal="1959/1964" type="inclusive">1959-1964</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_203945c76ad56a80621d09c4c07e8c74" label="Mixed Materials" type="Box">A0060</container><container parent="aspace_203945c76ad56a80621d09c4c07e8c74" type="Folder">1</container></did></c><c id="aspace_43e1c711138b76e00a4c7e52aae57ca1" level="file"><did><unittitle>Maps</unittitle><unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_2d21d6d4112ec16a0cf7c4bb918040e6" label="Mixed Materials" type="Box">A0060</container><container parent="aspace_2d21d6d4112ec16a0cf7c4bb918040e6" type="Folder">2</container></did><scopecontent id="aspace_89f015e161d698e7419854e8a707e722"><head>Scope and Contents</head><p>Two published maps, one by the Triborough Bridge and Tunnel Authority (1965) and one Official Map and Guide to New Jersey (1964).</p></scopecontent></c><c id="aspace_ad1e996d8b5dac088d6437df2cd67f2a" level="file"><did><unittitle>Fact sheets and pamphlet</unittitle><unitdate datechar="creation" normal="1964/1964">circa 1964</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_f510ebec3904bb98a162737c2e8b29ff" label="Mixed Materials" type="Box">A0060</container><container parent="aspace_f510ebec3904bb98a162737c2e8b29ff" type="Folder">3</container></did></c><c id="aspace_d98fc989584f2b8ec5f367940017bdc8" level="file"><did><unittitle>Triborough Bridge and Tunnel Authority publications</unittitle><unitdate datechar="creation" normal="1964/1964">circa 1964</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_12c133ef5a2a0083d0a163765ef9b14a" label="Mixed Materials" type="Box">A0060</container><container parent="aspace_12c133ef5a2a0083d0a163765ef9b14a" type="Folder">4</container></did><scopecontent id="aspace_26c38f6cad32ddcfba240437c42a165a"><head>Scope and Contents</head><p>"Spanning the Narrows" and "Historical Highlights."</p></scopecontent></c><c id="aspace_35b49ce20faada5ef8635e91367ebf06" level="file"><did><unittitle>Italian Historical Society of America</unittitle><unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_d8de0aca7f60d06d964a08a2e7197e7b" label="Mixed Materials" type="Box">A0060</container><container parent="aspace_d8de0aca7f60d06d964a08a2e7197e7b" type="Folder">5</container></did><scopecontent id="aspace_69dfae40fa18110c6587d3a9f7e0258f"><head>Scope and Contents</head><p>Includes a souvenir journal and special issue of Italian-American Review.</p></scopecontent></c><c id="aspace_2d04c2e56dd675e690c03cc65709a4e0" level="file"><did><unittitle>NY Daily News "Bridge Souvenir" section</unittitle><unitdate datechar="creation" normal="1964-09-15/1964-09-15">September 15, 1964</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_b847df032e69556b5dba207ace1cd9a5" label="Mixed Materials" type="Box">A0060</container><container parent="aspace_b847df032e69556b5dba207ace1cd9a5" type="Folder">6</container></did></c><c id="aspace_08991de0166b7730cf8770b8f80dc0d6" level="file"><did><unittitle>Commemorative stamp</unittitle><unitdate datechar="creation" normal="1964/1964">1964</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_fcf3976606f73cb12b6ea107c1901815" label="Mixed Materials" type="Box">A0060</container><container parent="aspace_fcf3976606f73cb12b6ea107c1901815" type="Folder">7</container></did><scopecontent id="aspace_5125d8de3308ed502ff8d61782d76641"><head>Scope and Contents</head><p>Invitation and program for design unveiling at Borough Hall and three authorized covers, two with stamps and postage marks.</p></scopecontent></c><c id="aspace_eae7e81f7aae839dacb27e125930646d" level="file"><did><unittitle>Artifacts</unittitle><unitdate datechar="creation" normal="1964/1964">circa 1964</unitdate><container altrender="Full Manuscript Box Legal" id="aspace_11248ebd69a0613b5c3b92cbf436d6b4" label="Mixed Materials" type="Box">A0060</container><container parent="aspace_11248ebd69a0613b5c3b92cbf436d6b4" type="Folder">8-9</container></did><scopecontent id="aspace_8f37a540172f4d3e3beafae30f55bb1d"><head>Scope and Contents</head><p>Napkin, matchbook, Domino sugar packet, and 15" piece of wire from the bridge's main cables.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>
