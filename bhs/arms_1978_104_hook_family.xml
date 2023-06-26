@@ -1,99 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1978_104_hook_family</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Hook family World War I letter and clippings
-                    <num>1978.104</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>July 28, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-17T16:31-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Hook family World War I letter and clippings</unittitle>
-            <unitid>1978.104</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid940012" type="Box" label="Text">A0084</container>
-            <physdesc>
-                <extent>0.01 Linear feet</extent>
-                <extent>in one folder.</extent>
-            </physdesc>
-            <unitdate normal="1920/1920">1920</unitdate>
-            <origination label="creator">
-                <persname source="local">Hook, Mary A.</persname>
-            </origination>
-        </did>
-        <processinfo id="ref6">
-            <head>Processing Information note</head>
-            <p>Minimally processed to the collection level.</p>
-        </processinfo>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Source and date of acquisition unknown. Formally accessioned in 1978.</p>
-        </acqinfo>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Hook family World War I letter and clippings, 1978.104, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <bioghist id="ref3">
-            <head>Biographical Note</head>
-            <p>The Hook family resided at 1001 Ocean Avenue in Brooklyn. Alfred J. Hook was with the 106th Infantry during World War I and was killed in action in 1918 while helping to break the Hindenburgh Line in Germany. He received the Distinguished Service Cross and was buried in Bony (Aisne), France. His sister, Mary A. Hook, travelled to France in 1920 to visit her brother's gravesite. She wrote a letter to her mother, Katherine E. Hook, which was reprinted in the Brooklyn Eagle on August 15, 1920. The letter caused a sensation and was printed in pamphlet form and distributed throughout the United States in honor of American soldiers buried overseas.</p>
-        </bioghist>
-        <scopecontent id="ref2">
-            <head>Scope and Contents note</head>
-            <p>This collection contains a letter from Mary A. Hook to her mother, Katherine E. Hook, describing the grave of her brother, Alfred J. Hook, and the cemetery for the American soldiers killed in Bony (Aisne), France during World War I. The letter is cut out from the August 15, 1920 
-                <emph render="italic">Brooklyn Daily Eagle</emph> issue in which it first appeared, and is also included in the pamphlet form in which it was later published and distributed. Also included are two newspaper clippings regarding the death of Albert J. Hook and the publication of Mary A. Hook's letter.</p>
-        </scopecontent>
-        <accessrestrict id="ref1">
-            <head>Conditions Governing Access note</head>
-            <p>Open to users without restriction.</p>
-        </accessrestrict>
-        <controlaccess>
-            <famname source="naf">Hook family</famname>
-            <persname source="local">Hook, Alfred J., d. 1918</persname>
-            <persname source="local">Hook, Katherine E.</persname>
-            <subject source="lcgft">Cemeteries |z France |z Aisne</subject>
-            <genreform source="aat">Clippings (information artifacts)</genreform>
-            <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
-            <genreform source="lcgft">Letters</genreform>
-            <genreform source="aat">Pamphlets</genreform>
-            <subject source="lcsh">Soldiers |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Soldiers' bodies, Disposition of |z France |z Aisne</subject>
-            <subject source="lcsh">World War, 1914-1918</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="for_supervisor_review" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1978_104_hook_family/">arms_1978_104_hook_family</eadid><filedesc><titlestmt><titleproper>Guide to the Hook family World War I letter and clippings <num>1978.104</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt><notestmt><note><p>change to complete_collection_level</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-06-26T18:31:42</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Hook family World War I letter and clippings</unittitle>
+    <origination label="Creator">
+      <persname source="local">Hook, Mary A.</persname>
+    </origination>
+    <unitid>1978.104</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.01 Linear Feet</extent>
+      <extent altrender="carrier">in one folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
+    <abstract id="aspace_f3752f51d4d625625091a1d95b2113ac">This collection contains a letter from Mary A. Hook to her mother, Katherine E. Hook, describing the grave of her brother, Alfred J. Hook, and the cemetery for the American soldiers killed in Bony (Aisne), France during World War I.  The Hook family resided at 1001 Ocean Avenue in Brooklyn.  Alfred J. Hook was with the 106th Infantry during World War I and was killed in action in 1918 while helping to break the Hindenburgh Line in Germany.</abstract>
+    <container altrender="Full Manuscript Box Legal" id="aspace_a1f1b80e601f37dba053cfe29ea33f98" label="Text" type="Box">A0084</container>
+  </did>
+  <processinfo id="aspace_0e14cc145c939de64de342a037c86027">
+    <head>Processing Information</head>
+<p>Minimally processed to the collection level.</p>  </processinfo>
+  <acqinfo id="aspace_f985b7f329ac8088af4fbcc90abb7846">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of acquisition unknown.  Formally accessioned in 1978.</p>  </acqinfo>
+  <prefercite id="aspace_844512502152a9b82c312fcba0650a8a">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Hook family World War I letter and clippings, 1978.104, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <bioghist id="aspace_fa07e5681feeb7e04beee08c9b502030">
+    <head>Biographical Note</head>
+<p>The Hook family resided at 1001 Ocean Avenue in Brooklyn.  Alfred J. Hook was with the 106th Infantry during World War I and was killed in action in 1918 while helping to break the Hindenburgh Line in Germany.  He received the Distinguished Service Cross and was buried in Bony (Aisne), France.  His sister, Mary A. Hook, travelled to France in 1920 to visit her brother's gravesite.  She wrote a letter to her mother, Katherine E. Hook, which was reprinted in the Brooklyn Eagle on August 15, 1920.  The letter caused a sensation and was printed in pamphlet form and distributed throughout the United States in honor of American soldiers buried overseas.</p>  </bioghist>
+  <scopecontent id="aspace_59c2d79a079888528c1248548ed77240">
+    <head>Scope and Contents</head>
+<p>This collection contains a letter from Mary A. Hook to her mother, Katherine E. Hook, describing the grave of her brother, Alfred J. Hook, and the cemetery for the American soldiers killed in Bony (Aisne), France during World War I.  The letter is cut out from the August 15, 1920 <emph render="italic">Brooklyn Daily Eagle</emph> issue in which it first appeared, and is also included in the pamphlet form in which it was later published and distributed.  Also included are two newspaper clippings regarding the death of Albert J. Hook and the publication of Mary A. Hook's letter.</p>  </scopecontent>
+  <accessrestrict id="aspace_1dab772acbc917da8a691ff9f70279b7">
+    <head>Conditions Governing Access</head>
+<p>Open to users without restriction.</p>  </accessrestrict>
+  <relatedmaterial id="aspace_3dac96e6b42d4df3f34fb4d1623ec6da">
+    <head>Related Materials</head>
+<p>Center for Brooklyn History holds the following related collections:</p><p>- World War I political cartoons collection, 1916-1918 (CBHM.0011)</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Cemeteries |z France |z Aisne</subject>
+    <genreform source="aat">Pamphlets</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="local">Letters</genreform>
+    <subject source="lcsh">Soldiers' bodies, Disposition of |z France |z Aisne</subject>
+    <subject source="lcsh">Soldiers |z New York (State) |z Kings County</subject>
+    <subject source="lcsh">World War, 1914-1918</subject>
+    <subject source="lcsh">Families |z New York (State) |z Kings County</subject>
+    <persname source="local">Hook, Alfred J.</persname>
+    <persname source="local">Hook, Katherine E.</persname>
+    <famname source="naf">Hook family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
