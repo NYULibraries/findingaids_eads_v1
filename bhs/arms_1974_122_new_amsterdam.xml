@@ -1,76 +1,53 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="For_supervisor_review" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1974_122_new_amsterdam</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the New Amsterdam land grant
-                    <num>1974.122</num>
-                </titleproper>
-                <author>Finding aid prepared by Nicholas Pavlik</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>May 11, 2011</date>
-            </publicationstmt>
-            <notestmt>
-                <note>
-                    <p>change to complete_collection_level</p>
-                </note>
-            </notestmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-09T10:31-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>New Amsterdam land grant</unittitle>
-            <unitid>1974.122</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid768004" type="Box" label="Text">A0024</container>
-            <physdesc>
-                <extent>0.04 Linear feet</extent>
-                <extent>in one folder.</extent>
-            </physdesc>
-            <unitdate normal="1718/1718">1718</unitdate>
-            <abstract id="ref4" label="Abstract">Grant of water and meadow land rights in New Amsterdam (later New York City) from the English Crown to Charles Cromeline, John Theobold, and others, dated 1718. Contains large plaster seal bearing royal arms.</abstract>
-        </did>
-        <acqinfo id="ref2">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Anita Lott Cruikshank, 1963.</p>
-        </acqinfo>
-        <accessrestrict id="ref3">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <prefercite id="ref5">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); New Amsterdam land grant, 1974.122, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <controlaccess>
-            <genreform source="aat">Land grants</genreform>
-            <subject source="lcsh">Land grants |z New York (State) |z New York</subject>
-            <subject source="lcsh">Land titles |z New York (State) |z New York</subject>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_122_new_amsterdam/">arms_1974_122_new_amsterdam</eadid><filedesc><titlestmt><titleproper>Guide to the Colonial New York land grant <num>1974.122</num></titleproper><author>Collection processed by Nicholas Pavlik</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-08-11T17:46:36</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>August 2023</date><item>Item rehoused and finding aid updated by Dee Bowers</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Colonial New York land grant</unittitle>
+    <unitid>1974.122</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 item</extent>
+      <extent altrender="carrier">in one flat file folder.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1718/1718">1718</unitdate>
+    <abstract id="aspace_f487c64de89d635d83fd61bcb30677c4">Grant of water and meadow land rights in the colony of New York from the English Crown to Charles Cromeline, John Theobold, and others, dated 1718.</abstract>
+    <container id="aspace_03bd247dd97db1b410c3d39dbfa443ad" label="Mixed Materials" type="Folder">Flat File</container>
+  </did>
+  <accessrestrict id="aspace_a141bb03a70faff8ef250f5bbb44d1eb">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_e03e3f5fc3c627c4014e594f81e0beb1">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Anita Lott Cruikshank, 1963.</p>  </acqinfo>
+  <arrangement id="aspace_e56fdb577091123af65f1e3ce00c309a">
+    <head>Arrangement</head>
+<p>This is a single item in a single folder.</p>  </arrangement>
+  <phystech id="aspace_389adddf0cc7674eea51e59659ef13b3">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>This item is fragile and should not be removed from its housing. Staff should open the folder on a flat surface and, if required, open the tissue paper around the seal. There is nothing on the verso of the document and the seal's verso is identical to its recto.</p>  </phystech>
+  <prefercite id="aspace_6c90863d4ba8b653a4379d2b41cfccd4">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Colonial New York land grant, 1974.122, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_7ebc0197e04fdede38998f8aa808baf8">
+    <head>Processing Information</head>
+<p>This item had been stored folded in a manuscript box and its seal was wrapped in old and stained fabric that did not seem to be related or have any significance. In August 2023, the item was rehoused flat in an oversize folder, with the seal in a foam mount, and the fabric discarded. After rehousing, the finding aid was revised, including changing the title from "New Amsterdam land grant" to "Colonial New York land grant" to more accurately reflect the document's contents and date.</p>  </processinfo>
+  <relatedmaterial id="aspace_afcdcaa0d2f243ee8acbdf301d7b70d1">
+    <head>Related Materials</head>
+<p>William Nicoll land grants 1974.029</p><p>Richard Nicolls Breuckelen patent 1974.149</p><p>Flatlands land patents and military commission 1974.016</p><p>Stevanus Van Cortlandt Red Hook land deeds 1974.007</p><p>Mrs. Milan Hulbert collection of colonial British America and early United States of America papers ARC.278</p>  </relatedmaterial>
+  <scopecontent id="aspace_6a7c50886fda0a08bfe36e7854ac5254">
+    <head>Scope and Contents</head>
+<p>Grant of water and meadow land rights in the colony of New York from the English Crown to Charles Cromeline, John Theobold, and others, dated 1718. The document is written on what appears to be vellum and has a large plaster seal attached bearing the royal arms.</p>  </scopecontent>
+  <userestrict id="aspace_fd0044470fb6e1eefc44e361af8224a2">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <bioghist id="aspace_6197794b610452bd83797ac9a6b27951">
+    <head>Historical note</head>
+<p>The Dutch colony of New Amsterdam was founded in the mid-1620s and was located at the southern tip of Manhattan. In 1664, the British took over the colony and renamed it New York. It was briefly regained by the Dutch in 1673, but returned to English rule in 1674 and remained so until 1783. This land grant regarding property in the colony was written in 1718 when George I was King.</p>  </bioghist>
+  <controlaccess>
+    <genreform source="aat">Land grants</genreform>
+    <subject source="lcsh">Land titles |z New York (State) |z New York</subject>
+    <subject source="lcsh">Land grants |z New York (State) |z New York</subject>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
