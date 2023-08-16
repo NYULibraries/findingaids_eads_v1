@@ -1,76 +1,58 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1974_141_conover_cowenhoven</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Conover and Cowenhoven family papers
-                    <num>1974.141</num>
-                </titleproper>
-                <author>Finding aid prepared by Matthew Gorham</author>
-                <sponsor>This collection was processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor>
-            </titlestmt>
-            <publicationstmt>
-                <p>
-                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://brooklynhistory.org/art/logo.gif"/>
-                </p>
-                <publisher>Brooklyn Historical Society</publisher>
-                <address>
-                    <addressline>128 Pierrepont Street</addressline>
-                    <addressline>Brooklyn, NY, 11201</addressline>
-                    <addressline>718-222-4111</addressline>
-                    <addressline>library@brooklynhistory.org</addressline>
-                </address>
-                <date>May 10, 2011</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-09T10:36-0500</date>
-            </creation>
-            <langusage>English</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Conover and Cowenhoven family papers</unittitle>
-            <unitid>1974.141</unitid>
-            <repository>
-                <corpname>Brooklyn Historical Society</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <container id="cid764004" type="Box" label="Text">A0025</container>
-            <physdesc>
-                <extent>0.08 Linear feet</extent>
-                <extent>in two folders</extent>
-            </physdesc>
-            <unitdate normal="1801/1836" type="inclusive">1801-1836</unitdate>
-            <abstract id="ref2" label="Abstract">The Conover and Cowenhoven family papers span the period 1801 to 1836 and consist of eight items. Included are papers concerning the estates of Jacob Conover and Jacob Cowenhoven, as well as papers pertaining to the appointment of Peter Cowenhoven to the rank of Captain in Lieutenant Colonel Jeremiah Johnson's regiment.</abstract>
-            <origination label="creator">
-                <famname rules="dacs" source="local">Cowenhoven family</famname>
-            </origination>
-        </did>
-        <prefercite id="ref4">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date (if known); Conover and Cowenhoven family papers, 1974.141, Box and Folder number; Brooklyn Historical Society.</p>
-        </prefercite>
-        <accessrestrict id="ref3">
-            <head>Conditions Governing Access</head>
-            <p>Open to researchers without restriction.</p>
-        </accessrestrict>
-        <acqinfo id="ref5">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Gift of Henry Cruse Murphy, 1882.</p>
-        </acqinfo>
-        <controlaccess>
-            <famname source="naf">Conover family</famname>
-            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Johnson, Jeremiah, 1768-1852</persname>
-            <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
-            <genreform source="aat">Estate records</genreform>
-            <genreform source="aat">Military commissions</genreform>
-        </controlaccess>
-        <dsc/>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1974_141_conover_cowenhoven/">arms_1974_141_conover_cowenhoven</eadid><filedesc><titlestmt><titleproper>Guide to the Conover and Cowenhoven family papers <num>1974.141</num></titleproper><author>Collection processed by Matthew Gorham</author><sponsor>This collection was originally processed and described as part of the project, "Uncovering the Secrets of Brooklyn's 19th Century Past: Creation to Consolidation," funded by the Council on Library and Information Resources, with additional support from The Gladys Krieble Delmas Foundation.</sponsor></titlestmt><publicationstmt><publisher>Brooklyn Historical Society</publisher><address><addressline>Center for Brooklyn History</addressline><addressline>128 Pierrepont Street</addressline><addressline>Brooklyn 11201</addressline><addressline>cbhreference@bklynlibrary.org</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-08-16T18:09:17</date></creation><langusage>eng</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">  <did>
+    <repository>
+      <corpname>Brooklyn Historical Society</corpname>
+    </repository>
+    <unittitle>Conover and Cowenhoven family papers</unittitle>
+    <origination label="Creator">
+      <famname rules="dacs" source="local">Cowenhoven family</famname>
+    </origination>
+    <unitid>1974.141</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.08 Linear Feet</extent>
+      <extent altrender="carrier">in one oversize folder</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1801/1836" type="inclusive">1801-1836</unitdate>
+    <abstract id="aspace_91c06bebeb097b77a98cf5b0d10ee034">The Conover and Cowenhoven family papers consist of documents relating to Peter Cowenhoven, Jacob Conover, and Jacob Cowenhoven from the early 1800s.</abstract>
+    <container altrender="Large Flat Box" id="aspace_6451d00512cceb15d1ec34b1501b7911" label="Mixed Materials" type="Box">OS-25</container>
+  </did>
+  <accessrestrict id="aspace_3ae78b166a0e048f61b0ff88e76d7cd7">
+    <head>Conditions Governing Access</head>
+<p>Open to researchers without restriction.</p>  </accessrestrict>
+  <acqinfo id="aspace_91123708dc0dfa3efcbb0057234364d9">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Henry Cruse Murphy, 1882.</p>  </acqinfo>
+  <arrangement id="aspace_c86c577a7f45d1152204268a746ab36b">
+    <head>Arrangement</head>
+<p>The eight documents in this collection are stored in a single oversize folder. The six documents relating to Peter Cowenhoven are grouped together.</p>  </arrangement>
+  <bioghist id="aspace_242472b02c38eefaaf034ec101f78513">
+    <head>Biographical note</head>
+<p>The Cowenhoven family (alternate spellings include Couwenhoven, Kouwenhoven, and Covenhoven) were descended from the common ancestor Wolphert Gerritson Van Kouwenhoven, who emigrated from the Netherlands to the town of New Utrecht in the Dutch colony of New Netherland (later New York) in the 17th century. The Cowenhovens had ties to other Brooklyn families, including the Conover family and the Bergen family.</p>  </bioghist>
+  <phystech id="aspace_1f6705858190519788c7669db9590d8c">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>If digital surrogates exist, they should be used in place of the originals whenever possible.</p>  </phystech>
+  <prefercite id="aspace_74239fc7d21047b824ad02ef4aea451d">
+    <head>Preferred Citation</head>
+<p>Identification of item, date (if known); Conover and Cowenhoven family papers, 1974.141, Box and Folder number; Brooklyn Public Library, Center for Brooklyn History.</p>  </prefercite>
+  <processinfo id="aspace_9317662fd5ada2c75810294b5ad88fe2">
+    <head>Processing Information</head>
+<p>This collection was originally minimally processed to the collection level. In August 2023, Dee Bowers rehoused the collection and revised the finding aid to include more detail.</p>  </processinfo>
+  <relatedmaterial id="aspace_9eedaf239c9d9a4fa35d45bdf0605483">
+    <head>Related Materials</head>
+<p>Rem Cowenhoven and Hendrick Brant bill of sale 1977.397</p><p>John R. Couwenhoven papers 1973.167</p><p>Teunis G. Bergen and Bergen family collection ARC.006</p>  </relatedmaterial>
+  <scopecontent id="aspace_1ac8eeecb93eeae2ef08547defa08420">
+    <head>Scope and Contents</head>
+<p>This collection includes six documents pertaining to Peter Cowenhoven, including military commissions and financial documents. Cowenhoven was appointed to the rank of Lieutenant in 1807 and Captain in 1812, in both cases in Lieutenant Colonel Jeremiah Johnson's regiment.</p><p>Additionally, the collection includes documents concerning Jacob Conover and Jacob Cowenhoven. The document pertaining to Jacob Conover's estate is signed by Garret Bergen and Peter Conover, executors, and Peter Bergen, witness. It concerns the transfer of a "servant girl," Mary Ann, described as the daughter of a woman named Elizabeth who had been enslaved by Jacob Conover. The document is dated December 1, 1826, prior to the 1827 final emancipation of enslaved people in New York State.</p><p>The document pertaining to Jacob Cowenhoven is dated 1801 and relates to an agreement between Cowenhoven and York Lyell regarding a debt between them and an arrangement to pay the debt via the work and labor of a Black man, Robin John Johnston, presumably enslaved.</p>  </scopecontent>
+  <userestrict id="aspace_302725a7f23e459c9e42d1e23f8767d9">
+    <head>Conditions Governing Use</head>
+<p>While many items at the Center for Brooklyn History are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The researcher assumes all responsibility for copyright questions.</p>  </userestrict>
+  <controlaccess>
+    <subject source="aat">Military commissions</subject>
+    <genreform source="aat">Estate records</genreform>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+    <persname rules="aacr" source="naf">Johnson, Jeremiah</persname>
+    <famname source="naf">Conover family</famname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
 </ead>
